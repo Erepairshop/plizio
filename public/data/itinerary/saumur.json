@@ -1075,5 +1075,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.ot-saumur.fr/",
+    "events": "https://www.ot-saumur.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.bus-saumur.com/",
+    "language_tips": {
+      "de": "Saumur ist berühmt für seine Reitschule (Cadre Noir) und Schaumweine, Englisch wird in den Weingütern und auf Reitveranstaltungen gut gesprochen. Lernen Sie 'Cadre Noir' und 'crémant de Loire' für den lokalen Schaumwein. Bei Verkostungen ist 'un dégustation, s'il vous plaît' der höfliche Standard.",
+      "hu": "Saumur lovasiskolájáról (Cadre Noir) és pezsgőiről híres, a borászatokban és lovaseseményeken jól beszélnek angolul. Tanuld meg a 'Cadre Noir' nevet és a 'crémant de Loire' kifejezést a helyi pezsgőhöz. Kóstoláshoz az udvarias forma 'une dégustation, s'il vous plaît'.",
+      "ro": "Saumur este renumit pentru școala de echitație (Cadre Noir) și vinurile spumante, engleza se vorbește bine la cramele și evenimentele ecvestre. Învățați 'Cadre Noir' și 'crémant de Loire' pentru spumantul local. La degustări, 'une dégustation, s'il vous plaît' este forma politicoasă.",
+      "en": "Saumur is famous for its riding school (Cadre Noir) and sparkling wines - English is spoken well at wineries and equestrian events. Learn 'Cadre Noir' and 'crémant de Loire' for the local sparkling wine. For tastings, 'une dégustation, s'il vous plaît' is the polite standard."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober bieten ideales Wetter für Schlossbesuche, Weinverkostungen und Loire-Radtouren. Juli und August bringen das berühmte Carrousel der Reitschule, sehr spektakulär aber sehr voll. Winter ist ruhig, viele Höhlenrestaurants und Weinhäuser bleiben geöffnet.",
+      "hu": "Május és június, valamint szeptember és október ideális idő a kastélyokhoz, borkóstolókhoz és Loire-menti biciklitúrákhoz. Júliusban és augusztusban van a híres Cadre Noir Carrousel, látványos de zsúfolt. Télen csendes, sok barlangétterem és borászat nyitva tart.",
+      "ro": "Mai-iunie și septembrie-octombrie oferă vreme ideală pentru castele, degustări de vin și cicloturism pe Loara. Iulie-august aduc celebrul Carrousel al Cadre Noir, spectaculos dar aglomerat. Iarna este liniștită, multe restaurante în peșteri și crame rămân deschise.",
+      "en": "May-June and September-October offer ideal weather for châteaux, wine tastings and Loire cycling. July-August bring the famous Cadre Noir Carrousel - spectacular but very crowded. Winter is quiet, with many troglodyte restaurants and wine caves staying open."
+    },
+    "neighborhood_warnings": {
+      "de": "Saumur ist sehr sicher, eine elegante Loire-Stadt. Im Sommer können die Schlossparkplätze knapp werden. Beim Radfahren am Loire-Ufer auf Wechselverkehr mit Autos achten, besonders in den engen Höhlendörfern.",
+      "hu": "Saumur nagyon biztonságos, elegáns Loire-menti város. Nyáron a kastély parkolóhelyei megfogyatkozhatnak. Loire-parti bringázásnál figyelj az autókkal való váltakozó forgalomra, főleg a szűk barlangfalvakban.",
+      "ro": "Saumur este foarte sigur, un oraș elegant pe Loara. Vara, parcările de la castel pot deveni insuficiente. La ciclism pe malul Loarei, atenție la traficul mixt cu mașini, mai ales în satele troglodite înguste.",
+      "en": "Saumur is very safe, an elegant Loire town. In summer château parking can run short. When cycling Loire banks watch shared traffic with cars, especially in narrow troglodyte villages."
+    },
+    "parking_real_time": ""
   }
 }

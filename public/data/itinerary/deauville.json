@@ -916,5 +916,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.indeauville.fr/",
+    "events": "https://www.indeauville.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.bus-verts.com/",
+    "language_tips": {
+      "de": "Deauville spricht klares, fast Pariser Franzoesisch (Wochenendziel der Pariser Elite). Englisch in Hotels, Casino und am Filmfestival sehr verbreitet. Stil und Hoeflichkeit wichtig: 'Bonjour madame/monsieur' streng beachten.",
+      "hu": "Deauville tiszta, szinte parizsi franciat beszel (a parizsi elit hetvegi celpontja). A szallodakban, kaszinoban es a filmfesztivalon sok az angol. Stilus es udvariassag fontos: a 'bonjour madame/monsieur' szigoruan kovetendo.",
+      "ro": "Deauville vorbeste o franceza clara, aproape pariziana (destinatie de weekend a elitei pariziene). Engleza e foarte prezenta la hoteluri, cazinou si la festivalul de film. Stilul si politetea conteaza: 'Bonjour madame/monsieur' obligatoriu.",
+      "en": "Deauville speaks crisp near-Parisian French (it's the Paris elite's weekend retreat). English is widely used in hotels, the casino and at the film festival. Style and manners count — 'Bonjour madame/monsieur' is strictly expected."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September fuer Strand und Promenade (15-22 Grad), Pferderennen und Polo Juli-August, American Film Festival Anfang September weltweit bekannt. Winter mild und nass (5-9 Grad), Casino und Spa offen, fast leere Strandpromenade.",
+      "hu": "Majus-szeptember strandra es promenadra (15-22 fok), lovaglas es polo julius-augusztusban, az American Film Festival szeptember elejen vilaghiru. Tel enyhe es nyirkos (5-9 fok), kaszino es spa nyitva, szinte ures strandsetany.",
+      "ro": "Mai-septembrie pentru plaja si promenada (15-22 grade), curse de cai si polo in iulie-august, American Film Festival la inceput de septembrie e celebru in lume. Iarna e blanda si umeda (5-9 grade), cazinoul si spa-ul sunt deschise, promenada aproape goala.",
+      "en": "May-September for beach and boardwalk (15-22°C), horse racing and polo in July-August, the world-famous American Film Festival in early September. Winter is mild and wet (5-9°C), casino and spa stay open, the boardwalk is almost empty."
+    },
+    "neighborhood_warnings": {
+      "de": "Deauville ist extrem sicher, gehobenes Niveau. Strand-Promenade auch nachts beleuchtet und ueberwacht. Hauptbahnhof Trouville-Deauville tagsueber okay, nachts ruhig. Achtung: Parkgebuehren sehr hoch.",
+      "hu": "Deauville rendkivul biztonsagos, eleg uri. A strand-promenad ejjel is kivilagitott es felugyelt. A Trouville-Deauville allomas nappal rendben, ejjel csendes. Figyelem: a parkolas nagyon draga.",
+      "ro": "Deauville e extrem de sigur, nivel inalt. Promenada de la plaja e iluminata si supravegheata si noaptea. Gara Trouville-Deauville e ok ziua, linistita noaptea. Atentie: parcarea e foarte scumpa.",
+      "en": "Deauville is extremely safe — high-end resort. The boardwalk stays lit and watched at night. Trouville-Deauville station is fine by day, calm at night. Note: parking fees are very high."
+    },
+    "parking_real_time": ""
   }
 }

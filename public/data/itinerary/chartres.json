@@ -868,5 +868,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.chartres-tourisme.com/",
+    "events": "https://www.chartres-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.filibus.com/",
+    "language_tips": {
+      "de": "Chartres ist Kathedral-Tourismus, Englisch wird in der Kathedrale, im Tourismusbüro und bei den Glasfenster-Führungen gut gesprochen. Lernen Sie 'vitraux' (Glasfenster) und 'cathédrale Notre-Dame' für die UNESCO-Stätte. Die berühmten Sommerführungen mit Malcolm Miller (auf Englisch) sind legendär.",
+      "hu": "Chartres katedrális turizmus, a katedrálisban, az idegenforgalmi irodában és az üvegablak-túrákon jól beszélnek angolul. Tanuld meg a 'vitraux' (üvegablak) és 'cathédrale Notre-Dame' nevét az UNESCO-emlékhelyhez. A híres nyári Malcolm Miller-túrák angolul legendásak.",
+      "ro": "Chartres este turism de catedrală, engleza se vorbește bine în catedrală, la biroul de turism și la tururile de vitralii. Învățați 'vitraux' (vitralii) și 'cathédrale Notre-Dame' pentru situl UNESCO. Tururile celebre de vară cu Malcolm Miller (în engleză) sunt legendare.",
+      "en": "Chartres is cathedral tourism - English is well spoken in the cathedral, tourism office and stained-glass tours. Learn 'vitraux' (stained glass) and 'cathédrale Notre-Dame' for the UNESCO site. The famous summer Malcolm Miller tours (in English) are legendary."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Oktober ist die beste Zeit, mit dem Chartres-en-Lumières-Festival (Lichtprojektionen) als Highlight von April bis Januar. Im Sommer Vorsicht vor Touristenströmen rund um die Kathedrale. Winter ist ruhig, die Kathedrale bleibt geöffnet und der Adventsmarkt ist charmant.",
+      "hu": "Április és október közötti időszak a legjobb, a Chartres-en-Lumières fesztivál (fényvetítések) áprilistól januárig a csúcspont. Nyáron figyelj a katedrális körüli turistatömegre. Télen csendes, a katedrális nyitva tart és az adventi vásár bájos.",
+      "ro": "Aprilie-octombrie este cea mai bună perioadă, festivalul Chartres-en-Lumières (proiecții de lumină) din aprilie până în ianuarie fiind punctul forte. Vara, atenție la mulțimile din jurul catedralei. Iarna este liniștită, catedrala rămâne deschisă și târgul de Crăciun este fermecător.",
+      "en": "April to October is best, with the Chartres-en-Lumières festival (light projections) as a highlight running April to January. In summer watch for crowds around the cathedral. Winter is quiet, the cathedral stays open and the Advent market is charming."
+    },
+    "neighborhood_warnings": {
+      "de": "Chartres ist meist sicher, doch der Bahnhofsbezirk kann abends ungemütlich werden. In der Kathedrale auf Taschendiebe achten, besonders während der Touristensaison.",
+      "hu": "Chartres többnyire biztonságos, de a pályaudvar környéke este kellemetlen lehet. A katedrálisban figyelj a zsebtolvajokra, főleg turistaszezonban.",
+      "ro": "Chartres este în general sigur, dar zona gării poate fi neplăcută seara. În catedrală, atenție la hoții de buzunare, mai ales în sezonul turistic.",
+      "en": "Chartres is mostly safe, but the station area can feel uneasy at night. Inside the cathedral watch for pickpockets, especially during the tourist season."
+    },
+    "parking_real_time": ""
   }
 }

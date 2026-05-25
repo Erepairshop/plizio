@@ -1130,5 +1130,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.labaule-guerande.com/",
+    "events": "https://www.labaule-guerande.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "La Baule hat einen der längsten Stadtstrände Europas (8 km). Französisch, mit gehobenem Pariser Sommerpublikum. Englisch in Hotels und Casinos gut. 'Plage' ist Strand, 'planches' sind die Holzwege am Strand. Salzgärten von Guérande in der Nähe.",
+      "hu": "La Baule Európa egyik leghosszabb városi strandjával rendelkezik (8 km). Francia, nyári pesti elit közönséggel. Az angol jól megy a szállodákban és kaszinókban. A 'Plage' a part, a 'planches' a fa-sétányok. Guérande sókertjei közel.",
+      "ro": "La Baule are una dintre cele mai lungi plaje urbane din Europa (8 km). Franceză, cu public select parizian vara. Engleza este bună la hoteluri și cazinou. 'Plage' = plajă, 'planches' = pasarele de lemn. Salinele de la Guérande sunt aproape.",
+      "en": "La Baule has one of Europe's longest urban beaches (8 km). French, with an upmarket Parisian summer crowd. English works well in hotels and casinos. 'Plage' is beach, 'planches' the wooden boardwalk. Guérande salt marshes are close by."
+    },
+    "best_time_to_visit": {
+      "de": "Juni-September für Strände und Atlantikwetter. Juli-August Hochsaison mit Stars, Tennisturnier 'Open de France' im Mai. Mai-Juni und September für ruhige Tage. Winter: viele Schließungen, Sturmgefahr.",
+      "hu": "Június-szeptember a strandokért és az atlanti időjárásért. Július-augusztus a csúcsszezon sztárokkal, májusban 'Open de France' teniszverseny. Május-június és szeptember csendesebb. Tél: sok zárás, viharveszély.",
+      "ro": "Iunie-septembrie pentru plaje și vremea atlantică. Iulie-august este sezon de vârf cu vedete, în mai turneul de tenis 'Open de France'. Mai-iunie și septembrie liniștite. Iarna: multe închideri, furtuni.",
+      "en": "June-September for beaches and Atlantic weather. July-August is high season with celebrities; 'Open de France' tennis in May. May-June and September are quieter. Winter: many closures and storms."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, gehobenes Publikum. Hauptrisiko: starke Atlantik-Strömungen, immer auf Rettungsschwimmer-Flaggen achten. Im Casino-Viertel nachts vereinzelt Taschendiebe. Verkehr im Juli-August chaotisch, früh fahren.",
+      "hu": "Nagyon biztonságos, igényes közönség. Fő kockázat: erős atlanti áramlatok, mindig figyelj a vízimentő-zászlókra. A kaszinó körzetében éjjel néhány zsebtolvaj. Júliusi-augusztusi forgalom kaotikus, indulj korán.",
+      "ro": "Foarte sigur, public select. Risc principal: curenți atlantici puternici, urmăriți steagurile salvamarilor. La cazinou, hoți de buzunare ocazionali noaptea. Trafic haotic în iulie-august, plecați devreme.",
+      "en": "Very safe, upmarket crowd. Main risk: strong Atlantic currents, watch lifeguard flags. Occasional pickpockets near the casino at night. Traffic is chaotic July-August, set off early."
+    },
+    "parking_real_time": ""
   }
 }

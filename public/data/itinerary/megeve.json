@@ -1172,5 +1172,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.megeve-tourisme.fr/en/webcams/",
+    "tourism_office": "https://www.megeve-tourisme.fr/",
+    "events": "https://www.megeve-tourisme.fr/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Megève hat franzoesisches Flair, Pariser Familien und gehobenes Publikum, weniger international als Chamonix. In Boutiquen und Restaurants wird Englisch verstanden, aber Franzoesisch ist die Hauptsprache. 'Bonjour madame/monsieur' beim Eintreten ist Pflicht.",
+      "hu": "Megève francias hangulatu, parizsi csaladok es elegans kozonseg, kevesbe nemzetkozi, mint Chamonix. Butikokban es ettermekben az angolt ertik, de a francia a fo. 'Bonjour madame/monsieur' belepeskor kotelezo.",
+      "ro": "Megève are sarm francez autentic, familii pariziene si clientela rafinata, mai putin international decat Chamonix. In boutique-uri si restaurante engleza e inteleasa, dar franceza e limba principala. 'Bonjour madame/monsieur' la intrare e obligatoriu.",
+      "en": "Megève has authentic French chic — Parisian families and an upmarket crowd, less international than Chamonix. English is understood in boutiques and restaurants, but French is the main language. A 'bonjour madame/monsieur' on entering is expected."
+    },
+    "best_time_to_visit": {
+      "de": "Skisaison Dezember bis Mitte April, Sommer Juli-August fuer Wandern, Golf und Reiten in den Bergweiden. Megève hat niedrigere Lage (1100m), daher in milden Wintern oft schneearm auf den unteren Pisten. Schoenste Zeit Februar-Maerz mit Sonne und Schnee.",
+      "hu": "Si szezon december-aprilis kozepe, nyaron julius-augusztus turazas, golf es lovaglas a havasi reten. Megève alacsonyabb (1100m), enyhe teleken az also pistak gyakran hoszegenyek. A legszebb ido februar-marcius, napsutessel es hoval.",
+      "ro": "Sezonul de schi din decembrie pana la mijlocul lui aprilie, vara in iulie-august pentru drumetii, golf si calarie pe pasunile alpine. Megève e la altitudine joasa (1100m), in ierni blande partiile de jos au putina zapada. Cea mai frumoasa perioada e februarie-martie, cu soare si zapada.",
+      "en": "Ski season December to mid-April; July-August for hiking, golf and horse-riding on mountain pastures. Megève sits relatively low (1100m), so lower pistes can run thin in mild winters. The sweetest spot is February-March — sun and snow together."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum ist Fussgaengerzone, Pferdekutschen ueberall, charmant aber Pferdedung im Schmelzwasser nicht uebersehen. Hotels und Chalets sehr teuer, einfache 3-Sterne ab 250 Euro. Anfahrt mit Auto im Winter ab Sallanches mit Schneeketten.",
+      "hu": "A kozpont setalo zona, mindenhol lovaskocsi, sarmos de a loganej a hoolvadasban nem nezhetsz el. Hotelek es chaletek nagyon dragak, egyszeru 3 csillagos 250 eurotol. Telen Sallanches-tol holanccal kell hajtani.",
+      "ro": "Centrul e pietonal, trasuri peste tot, fermecator, dar baliga in zapada topita e de evitat. Hoteluri si chalete foarte scumpe, un 3 stele simplu de la 250 euro. Iarna se urca de la Sallanches doar cu lanturi.",
+      "en": "The centre is pedestrianised with horse-drawn carriages everywhere — charming, but watch for manure in the slush. Hotels and chalets are pricey, even a simple 3-star starts at 250 euros. In winter, the drive up from Sallanches needs chains."
+    },
+    "parking_real_time": ""
   }
 }

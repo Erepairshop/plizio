@@ -902,5 +902,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine.html",
+    "tourism_office": "https://www.iledere.com/",
+    "events": "https://www.iledere.com/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Auf der Ile de Re sind viele Pariser Sommergaeste, Englisch geht in Hotels und Restaurants, im Salzbauer-Stand oder kleinen Bistro punkten Sie aber mit 'bonjour' und einem Laecheln. Tipp: 'fleur de sel' bestellen, das mag man hier.",
+      "hu": "Az Ile de Re-n sok parizsi nyaralo van, az angol megy a szallodakban es ettermekben, de a soaratoi standnal vagy kis bisztroban egy 'bonjour' es egy mosoly aranyat er. Tipp: kerd a 'fleur de sel'-t, itt szeretik.",
+      "ro": "Pe Ile de Re sunt multi parizieni in vacanta, engleza merge la hotel si restaurant, dar la salina sau intr-un bistro mic un 'bonjour' si un zambet conteaza enorm. Sfat: cere 'fleur de sel', aici sunt mandri de el.",
+      "en": "On Ile de Re many summer guests are Parisians; English works in hotels and restaurants but at a salt-maker's stall or small bistro a 'bonjour' and a smile win the day. Tip: order 'fleur de sel' — locals are proud of it."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind perfekt: 20-25 Grad, weisse Rosen ueberall und ruhige Fahrradwege. Juli und August bringen Stau auf der Bruecke ab La Rochelle und volle Doerfer wie Saint-Martin-de-Re. Oktober bringt Austern-Saison.",
+      "hu": "Majus, junius es szeptember tokeletes: 20-25 fok, fehér rozsa mindenhol, csendes biciklis utak. Julius-augusztusban dugó La Rochelle hidjan es zsufolt falvak (Saint-Martin-de-Re). Oktober az osztriga szezon.",
+      "ro": "Mai, iunie si septembrie sunt perfecte: 20-25 grade, trandafiri albi peste tot si piste de bicicleta linistite. Iulie-august aduc ambuteiaj pe podul de la La Rochelle si sate aglomerate (Saint-Martin-de-Re). Octombrie e sezonul stridiilor.",
+      "en": "May, June and September are perfect: 20-25°C, white roses everywhere and quiet cycle paths. July and August bring traffic jams on the La Rochelle bridge and packed villages like Saint-Martin-de-Re. October is oyster season."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Insel, Hauptaerger sind Fahrrad-Diebstaehle in Saint-Martin-de-Re und teure Mautgebuehr auf der Bruecke (auch fuer Tagestouristen). Stroemungen an Westkueste-Straenden sind stark, nur bewachte Zonen.",
+      "hu": "Nagyon biztonsagos sziget, fo bosszusag a biciklilopas Saint-Martin-de-Re-ben es a draga hiddij (a napi turistanak is). A nyugati partmenten erős az aram, csak felugyelt szakaszon uszorat.",
+      "ro": "Insula foarte sigura, principalele probleme fiind furtul bicicletelor in Saint-Martin-de-Re si taxa de pod scumpa (chiar si pentru turisti de o zi). Curentii de pe coasta vestica sunt puternici, inoata doar in zone supravegheate.",
+      "en": "Very safe island; main annoyances are bike theft in Saint-Martin-de-Re and the steep bridge toll (even for day-trippers). West-coast currents are strong — swim only in lifeguarded zones."
+    },
+    "parking_real_time": ""
   }
 }

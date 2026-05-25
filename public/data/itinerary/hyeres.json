@@ -1006,5 +1006,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.provencemed.com/",
+    "events": "https://www.provencemed.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.reseaumistral.com/",
+    "language_tips": {
+      "de": "Hyères ist provenzalisch, mit einem touristenfreundlichen Charakter dank der Iles d'Or. Englisch wird in den Hafenbüros und großen Hotels gesprochen. Lernen Sie 'les îles d'Or' (Porquerolles, Port-Cros, Levant) richtig zu unterscheiden, denn jede hat ihre eigene Atmosphäre und Fährverbindung.",
+      "hu": "Hyères provence-i, turistabarát jellegű az Iles d'Or szigeteknek köszönhetően. A kikötői irodákban és nagy szállodákban beszélnek angolul. Tanuld meg megkülönböztetni a három aranyszigetet (Porquerolles, Port-Cros, Levant), mert mindegyiknek saját hangulata és kompjárata van.",
+      "ro": "Hyères este provensal, prietenos cu turiștii datorită Insulelor de Aur. Engleza se vorbește în birourile din port și hotelurile mari. Învățați să distingeți cele trei insule (Porquerolles, Port-Cros, Levant), fiecare cu atmosfera și conexiunea sa cu feribotul.",
+      "en": "Hyères is Provençal, with a tourist-friendly feel thanks to the Golden Isles. English is spoken at harbour offices and major hotels. Learn to distinguish the three islands (Porquerolles, Port-Cros, Levant) - each has its own atmosphere and dedicated ferry connection."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind perfekt: warmes Wetter, weniger Touristen und die Fähren zu den Iles d'Or fahren regelmäßig. Juli und August sind extrem voll, besonders Porquerolles. Hyères hat das mildeste Klima Frankreichs, sogar im Winter ist es angenehm für Spaziergänge.",
+      "hu": "Május és június, valamint szeptember és október tökéletes: meleg időjárás, kevés turista, és a kompok rendszeresen járnak az Iles d'Or szigetekre. Július és augusztus extrém zsúfolt, főleg Porquerolles. Hyères Franciaország legenyhébb éghajlatú városa, télen is kellemes a séta.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt perfecte: vreme caldă, mai puțini turiști, iar feriboturile spre Iles d'Or merg regulat. Iulie și august sunt extrem de aglomerate, mai ales Porquerolles. Hyères are cea mai blândă climă din Franța, chiar și iarna este plăcut.",
+      "en": "May-June and September-October are perfect: warm weather, fewer tourists, and regular ferries to the Golden Isles. July and August are extremely crowded, especially Porquerolles. Hyères has France's mildest climate - even winter walks are pleasant here."
+    },
+    "neighborhood_warnings": {
+      "de": "Hyères ist sicher, doch der Bahnhofsbezirk und einige Strandparkplätze können nachts unsicher wirken. Auf Porquerolles kein Auto, nur Fahrräder - planen Sie entsprechend.",
+      "hu": "Hyères biztonságos, de a pályaudvar környéke és néhány tengerparti parkoló éjjel bizonytalannak tűnhet. Porquerolles-on nincs autó, csak bicikli - tervezz ennek megfelelően.",
+      "ro": "Hyères este sigur, dar zona gării și unele parcări de pe plajă pot părea nesigure noaptea. Pe Porquerolles nu sunt mașini, doar biciclete - planificați în consecință.",
+      "en": "Hyères is safe, but the station area and some beach parking can feel uneasy at night. Porquerolles bans cars entirely - only bikes are allowed, so plan transport accordingly."
+    },
+    "parking_real_time": ""
   }
 }

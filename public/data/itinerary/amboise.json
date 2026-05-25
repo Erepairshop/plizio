@@ -882,5 +882,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.amboise-valdeloire.com/",
+    "events": "https://www.amboise-valdeloire.com/agenda/",
+    "city_card": "https://www.amboise-valdeloire.com/amboise-city-pass/",
+    "museum_tickets": "https://www.amboise-valdeloire.com/billetterie/",
+    "transit_official": "https://www.remi-centrevaldeloire.fr/",
+    "language_tips": {
+      "de": "Amboise ist von Da-Vinci-Pilgern und Schlosstouristen geprägt, Englisch wird flüssig gesprochen, auch Italienisch im Clos Lucé. Lernen Sie 'Clos Lucé' (klo lü-seh) für das Wohnhaus Leonardo da Vincis und 'Château royal' für das königliche Schloss. Beim Bestellen Wein 'un verre de Vouvray' für den lokalen Weißwein.",
+      "hu": "Amboise-t a Da Vinci-zarándokok és kastélyturisták uralják, angolul folyékonyan beszélnek, a Clos Lucé-ban olaszul is. Tanuld meg a 'Clos Lucé' (klo lü-szé) nevet Leonardo da Vinci lakhelyéhez és a 'Château royal' nevet a királyi kastélyhoz. Bor rendelésekor egy pohár Vouvray a helyi fehérbor.",
+      "ro": "Amboise este dominat de pelerinii Da Vinci și turiștii de castel, engleza se vorbește fluent, la Clos Lucé și italiana. Învățați 'Clos Lucé' (clo lu-se) pentru casa lui Leonardo da Vinci și 'Château royal' pentru castelul regal. La vin, cereți 'un verre de Vouvray', vinul alb local.",
+      "en": "Amboise is dominated by Da Vinci pilgrims and château tourists - English flows freely, with Italian at Clos Lucé. Learn 'Clos Lucé' (klo loo-say) for Leonardo's residence and 'Château royal' for the royal castle. Order 'un verre de Vouvray' for the local white wine."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühende Loire-Ufer und weniger Touristenmassen. Im Hochsommer (Juli-August) kann es sehr voll werden, besonders bei den Son-et-Lumière-Shows abends im Schloss. Im Winter ist Amboise ruhig, aber das Clos Lucé bleibt geöffnet.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó Loire-partok és kevesebb turista. Nyár derekán (július-augusztus) zsúfolt lehet, főleg az esti Son-et-Lumière előadásoknál a kastélyban. Télen Amboise csendes, de a Clos Lucé nyitva tart.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, malurile Loarei înflorite și mai puțini turiști. În toiul verii (iulie-august) poate fi foarte aglomerat, mai ales la spectacolele Son-et-Lumière. Iarna, Amboise este liniștit, dar Clos Lucé rămâne deschis.",
+      "en": "April-June and September-October are ideal: mild weather, blooming Loire banks and fewer crowds. Peak summer (July-August) gets very busy, especially at evening Son-et-Lumière shows. Winter Amboise is quiet, but Clos Lucé stays open with its Da Vinci machines."
+    },
+    "neighborhood_warnings": {
+      "de": "Amboise ist sehr sicher, eine ruhige Loire-Stadt. Im Sommer kann die Innenstadt überlaufen sein und Parkplätze knapp werden. An der Loire-Brücke Vorsicht beim Fahrradverkehr - das Tal ist beliebt bei Radtouristen.",
+      "hu": "Amboise nagyon biztonságos, csendes Loire-menti város. Nyáron a belváros zsúfolt lehet és a parkolóhelyek megfogyatkoznak. A Loire-hídnál figyelj a kerékpárforgalomra - a völgy népszerű a bringás turisták körében.",
+      "ro": "Amboise este foarte sigur, un oraș liniștit pe Loara. Vara, centrul poate fi aglomerat și parcările insuficiente. La podul de pe Loara, atenție la traficul de biciclete - valea este populară pentru cicloturism.",
+      "en": "Amboise is very safe, a quiet Loire town. In summer the centre can overflow and parking get scarce. On the Loire bridge mind the heavy bike traffic - the valley is hugely popular with cycling tourists."
+    },
+    "parking_real_time": ""
   }
 }

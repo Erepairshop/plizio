@@ -998,5 +998,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.alpillesenprovence.com/",
+    "events": "https://www.alpillesenprovence.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://lepilote.com/",
+    "language_tips": {
+      "de": "Saint-Rémy ist klassisch provenzalisch, mit einem kosmopolitischen Touch dank van-Gogh-Pilgern. Englisch wird in den Galerien und Restaurants um die Place de la République gut gesprochen. Lernen Sie 'Glanum' (gluh-num) für die römische Ausgrabungsstätte und 'Saint-Paul de Mausole' für das Asyl, in dem van Gogh lebte.",
+      "hu": "Saint-Rémy klasszikus provence-i hely, kozmopolita beütéssel a van Gogh-zarándokoknak köszönhetően. A Place de la République körüli galériákban és éttermekben jól beszélnek angolul. Tanuld meg a 'Glanum' (glü-num) nevet a római ásatáshoz és a 'Saint-Paul de Mausole' nevet, ahol van Gogh élt.",
+      "ro": "Saint-Rémy este clasic provensal, cu o notă cosmopolită datorită pelerinilor van Gogh. Engleza se vorbește bine în galeriile și restaurantele din jurul Place de la République. Învățați 'Glanum' (glă-num) pentru situl arheologic roman și 'Saint-Paul de Mausole' pentru azilul unde a locuit van Gogh.",
+      "en": "Saint-Rémy is classic Provençal with a cosmopolitan touch from van Gogh pilgrims. English is well spoken in galleries and restaurants around Place de la République. Learn 'Glanum' (gluh-num) for the Roman site and 'Saint-Paul de Mausole' for the asylum where van Gogh lived."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühender Lavendel im Juli, weniger Touristen und ideale Bedingungen für Wanderungen in den Alpilles. Juli und August können sehr heiß werden (über 35°C), aber der Lavendel zieht viele Fotografen an. Der Mistral kann unangenehm sein.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe időjárás, júliusi virágzó levendula, kevés turista és tökéletes feltételek az Alpilles túrákhoz. Júliusban és augusztusban nagyon meleg lehet (35°C felett), de a levendula sok fotóst vonz. A misztrál kellemetlen lehet.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, lavandă înflorită în iulie, mai puțini turiști și condiții perfecte pentru drumeții în Alpilles. Iulie-august pot fi foarte calde (peste 35°C), dar lavanda atrage mulți fotografi. Mistralul poate fi neplăcut.",
+      "en": "April-June and September-October are ideal: mild weather, blooming lavender in July, fewer tourists, and perfect conditions for hiking in the Alpilles. July-August can be very hot (over 35°C), though lavender attracts many photographers. The Mistral wind can be relentless."
+    },
+    "neighborhood_warnings": {
+      "de": "Saint-Rémy ist sehr sicher, eine ruhige Provence-Stadt. Im Sommer können die Hauptstraßen voll mit Touristenautos sein - parken Sie früh oder nutzen Sie die Außenparkplätze. Beim Wandern in den Alpilles auf Hitze und Schlangen achten.",
+      "hu": "Saint-Rémy nagyon biztonságos, csendes provence-i város. Nyáron a főutcák tele lehetnek turistaautókkal - parkolj korán vagy használd a külső parkolókat. Az Alpilles túrákon figyelj a hőségre és kígyókra.",
+      "ro": "Saint-Rémy este foarte sigur, un oraș provensal liniștit. Vara, străzile principale pot fi pline cu mașini turistice - parcați devreme sau folosiți parcările exterioare. La drumeții în Alpilles, atenție la căldură și șerpi.",
+      "en": "Saint-Rémy is very safe, a quiet Provence town. In summer the main streets fill with tourist cars - park early or use the outer car parks. When hiking the Alpilles, beware of heat and snakes on rocky paths."
+    },
+    "parking_real_time": ""
   }
 }

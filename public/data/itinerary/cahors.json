@@ -952,5 +952,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.cahorsvalleedulot.com/",
+    "events": "https://www.cahorsvalleedulot.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.lio-occitanie.fr/",
+    "language_tips": {
+      "de": "Cahors ist berühmt für die Pont Valentré und den 'schwarzen Wein' aus Malbec-Trauben. Englisch wird in den Weingütern und am Tourismusbüro gesprochen. Lernen Sie 'Pont Valentré' und 'Cahors AOC' für den lokalen Malbec-Rotwein, der oft 'le vin noir' (schwarzer Wein) genannt wird.",
+      "hu": "Cahors a Pont Valentré-ról és a Malbec szőlőből készült 'fekete borról' híres. A borászatokban és az idegenforgalmi irodában beszélnek angolul. Tanuld meg a 'Pont Valentré' nevet és a 'Cahors AOC' kifejezést a helyi Malbec vörösborhoz, amit gyakran 'le vin noir' (fekete bor) néven emlegetnek.",
+      "ro": "Cahors este renumit pentru Pont Valentré și 'vinul negru' din strugurii Malbec. Engleza se vorbește la crame și la biroul de turism. Învățați 'Pont Valentré' și 'Cahors AOC' pentru vinul roșu Malbec local, deseori numit 'le vin noir' (vinul negru).",
+      "en": "Cahors is famous for the Pont Valentré and 'black wine' from Malbec grapes. English is spoken at wineries and the tourism office. Learn 'Pont Valentré' and 'Cahors AOC' for the local Malbec red, often called 'le vin noir' (black wine) for its deep colour."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, blühendes Lot-Tal und weniger Touristen. Juli-August können sehr heiß werden, das Cahors-Blues-Festival ist aber ein Highlight. Im Herbst beginnt die Weinlese, und im Winter sind die Trüffelmärkte aktiv.",
+      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, virágzó Lot-völgy, kevesebb turista. Júliusban-augusztusban nagyon meleg lehet, de a Cahors Blues Fesztivál csúcspont. Ősszel kezdődik a szüret, télen a szarvasgombás piacok aktívak.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, valea Lot înflorită și mai puțini turiști. Iulie-august pot fi foarte calde, dar festivalul Cahors Blues este un punct forte. Toamna începe culesul viilor, iar iarna piețele de trufe sunt active.",
+      "en": "May-June and September-October are ideal: mild weather, blooming Lot valley and fewer tourists. July-August can be very hot, though the Cahors Blues Festival is a highlight. Autumn brings the wine harvest, and winter sees active truffle markets."
+    },
+    "neighborhood_warnings": {
+      "de": "Cahors ist meist sicher, doch einige Stadtteile südlich des Bahnhofs sollten abends gemieden werden. Beim Wandern an den Lot-Klippen Vorsicht, besonders bei Saint-Cirq-Lapopie. Parken im Zentrum begrenzt.",
+      "hu": "Cahors többnyire biztonságos, de a pályaudvartól délre eső részeket este érdemes kerülni. A Lot-szirteknél túrázáskor légy óvatos, főleg Saint-Cirq-Lapopie-nál. A központban korlátozott a parkolás.",
+      "ro": "Cahors este în general sigur, dar unele cartiere la sud de gară ar trebui evitate seara. La drumeții pe stâncile Lot, atenție, mai ales la Saint-Cirq-Lapopie. Parcarea în centru este limitată.",
+      "en": "Cahors is mostly safe, but some districts south of the station should be avoided at night. When hiking the Lot cliffs take care, especially near Saint-Cirq-Lapopie. Central parking is limited."
+    },
+    "parking_real_time": ""
   }
 }

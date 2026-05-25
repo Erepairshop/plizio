@@ -970,5 +970,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.saintjeancapferrat-tourisme.fr/",
+    "events": "https://www.saintjeancapferrat-tourisme.fr/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.villa-ephrussi.com/",
+    "transit_official": "https://www.lignesdazur.com/",
+    "language_tips": {
+      "de": "Saint-Jean-Cap-Ferrat ist eines der reichsten Doerfer der Welt, sehr international (viele Briten, Amerikaner, Russen mit Villen). Englisch ist Standard in Restaurants und Hotels. Im kleinen Dorfzentrum wird Franzoesisch von den verbliebenen Einheimischen gepflegt.",
+      "hu": "Saint-Jean-Cap-Ferrat a vilag egyik leggazdagabb faluja, nagyon nemzetkozi (sok brit, amerikai, orosz villatulajdonos). Az angol alap az ettermekben, hotelekben. A kicsi falukozpontban a maradek helyi a franciat apolja.",
+      "ro": "Saint-Jean-Cap-Ferrat e printre cele mai bogate sate din lume, foarte international (multi britanici, americani, rusi cu vile). Engleza e standard in restaurante si hoteluri. In centrul mic al satului localnicii ramasi pastreaza franceza.",
+      "en": "Saint-Jean-Cap-Ferrat is one of the world's wealthiest villages — very international (lots of British, American and Russian villa owners). English is standard at restaurants and hotels. The few remaining locals in the small village centre keep French alive."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober sind ideal: angenehme Temperaturen, Villa Ephrussi und Villa Kerylos in voller Bluete, weniger Yachten. Juli-August zwar warm und voll, aber das Kuestenwasser am schoensten. Winter mild, viele Hotels offen, ruhig und elegant.",
+      "hu": "Majus-junius es szeptember-oktober ideal: kellemes ho, a Villa Ephrussi es Villa Kerylos a viragzasban, kevesebb jacht. Julius-augusztus meleg es zsufolt, de a tengerviz a legszebb. A tel enyhe, sok hotel nyitva, csendes es elegans.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: temperaturi placute, Villa Ephrussi si Villa Kerylos in floare, mai putine iahturi. Iulie-august sunt calde si aglomerate, dar marea cel mai frumoasa. Iarna blanda, multe hoteluri deschise, linistit si elegant.",
+      "en": "May-June and September-October are ideal: pleasant temps, Villa Ephrussi and Villa Kérylos in full bloom, fewer yachts. July-August is warm and busy but the sea is at its best. Winter is mild with many hotels open — quiet and elegant."
+    },
+    "neighborhood_warnings": {
+      "de": "Parkplaetze im Dorf und an den Villen extrem knapp, lieber Bus 81 von Nizza. Kuestenwanderweg rund um den Cap ist 11 km, gute Schuhe, Wasser, Sonnenschutz Pflicht. Privatvillen respektieren, viele Strassen sind privat.",
+      "hu": "Parkolas a faluban es a villaknal nagyon kevesz, jobb a 81-es busz Niceuk-bol. A 11 km-es part menti tura korbe a fokot, jo cipo, viz, napvedo kotelezo. Tiszteld a magan villakat, sok ut zart.",
+      "ro": "Parcari in sat si la vile extrem de putine, mai bine cu autobuzul 81 din Nisa. Poteca de coasta in jurul capului are 11 km, incaltari bune, apa, protectie solara obligatorii. Respecta vilele private, multe drumuri sunt inchise.",
+      "en": "Parking in the village and around the villas is extremely tight — take bus 81 from Nice. The 11 km coastal walk around the cape needs good shoes, water and sun protection. Respect private villas, many roads are gated."
+    },
+    "parking_real_time": ""
   }
 }

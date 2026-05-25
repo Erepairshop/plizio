@@ -1310,5 +1310,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.destinationdijon.com/",
+    "events": "https://www.destinationdijon.com/agenda/",
+    "city_card": "https://www.destinationdijon.com/dijon-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.divia.fr/",
+    "language_tips": {
+      "de": "Dijon spricht klares Burgund-Franzoesisch, leicht und ohne starken Akzent. In Weinkellern und groesseren Restaurants Englisch verbreitet, in der Markthalle Halles weniger. 'Bonjour' beim Betreten jeder Boutique ist hier besonders wichtig, Burgund liebt Etikette.",
+      "hu": "Dijon tiszta burgundiai franciat beszel, konnyu, eros akcentus nelkul. A pinczetkben es nagy ettermekben angol megy, a Halles piaccsarnokban kevesbe. A boltba lepeskori 'bonjour' itt kiemelten fontos, Burgundia szereti az etikettet.",
+      "ro": "Dijon vorbeste o franceza burgunda clara, usoara, fara accent puternic. In pivnitele de vin si restaurantele mari engleza merge, in piata Halles mai putin. 'Bonjour' la intrarea in orice butic e foarte important, Burgundia tine la eticheta.",
+      "en": "Dijon speaks clear Burgundy French, easy and unaccented. English works in wine cellars and bigger restaurants, less at the Halles market. A 'bonjour' on entering any boutique matters extra here — Burgundy loves good manners."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober sind ideal: 18-25 Grad, Weinlese im September mit Routes des Grands Crus zugaenglich. Juli-August warm und touristisch, aber Festival International Folkloriques. Winter kalt (2-8 Grad), dafuer Senf-Wochenende und Weihnachtsmarkt rund um Palais des Ducs.",
+      "hu": "Majus-junius es szeptember-oktober a legjobb: 18-25 fok, szuretelhetnek a Routes des Grands Crus-on. Julius-augusztus meleg es turistas, viszont Folklor Fesztival. Tel hideg (2-8 fok), de mustar-hetvege es karacsonyi vasar a Palais des Ducs korul.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: 18-25 grade, vendemia in septembrie cu Routes des Grands Crus accesibila. Iulie-august sunt calde si turistice, dar cu festivalul folcloric. Iarna e rece (2-8 grade), insa cu weekend dedicat mustarului si targ de Craciun la Palais des Ducs.",
+      "en": "May-June and September-October are ideal: 18-25°C, with September harvest on the Routes des Grands Crus. July-August are warm and busy but bring the International Folklore Festival. Winter is cold (2-8°C) but offers a mustard weekend and a Christmas market by the Palais des Ducs."
+    },
+    "neighborhood_warnings": {
+      "de": "Grezille und Fontaine-d'Ouche abends meiden, touristisch uninteressant. Innenstadt und Place de la Liberation sehr sicher, gut beleuchtet. Bahnhof Dijon-Ville tagsueber okay, nachts ruhiger.",
+      "hu": "Grezille es Fontaine-d'Ouche este nem ajanlott, turistanak ertelmetlen. A belvaros es a Place de la Liberation nagyon biztonsagos, jol vilagitott. Dijon-Ville allomas nappal rendben, ejjel csendesebb.",
+      "ro": "Grezille si Fontaine-d'Ouche sunt de evitat seara, fara interes turistic. Centrul si Place de la Liberation sunt foarte sigure, bine iluminate. Gara Dijon-Ville e ok ziua, mai linistita noaptea.",
+      "en": "Avoid Grezille and Fontaine-d'Ouche after dark — no tourist interest. The centre and Place de la Liberation are very safe and well-lit. Dijon-Ville station is fine by day, quieter at night."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1140,5 +1140,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.courchevel.com/en/cameras-meteo.html",
+    "tourism_office": "https://www.courchevel.com/",
+    "events": "https://www.courchevel.com/en/events.html",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Courchevel ist gehobenes Publikum, viele russische und nahoestliche Gaeste in 1850, Englisch ist Standard. In den unteren Doerfern (1300, 1550, 1650) wird mehr Franzoesisch gesprochen und ein 'bonjour' wirkt Wunder. Bedienpersonal in Luxushotels oft mehrsprachig.",
+      "hu": "Courchevel exkluziv kozonseg, 1850-ben sok orosz es kozel-keleti vendeg, az angol alap. A also falvakban (1300, 1550, 1650) tobb a francia, egy 'bonjour' csodakat tesz. A luxushotelek szemelyzete gyakran tobb nyelven beszel.",
+      "ro": "Courchevel are clientela de lux, in 1850 multi rusi si din Orientul Mijlociu, engleza e standard. In satele de jos (1300, 1550, 1650) se vorbeste mai mult franceza, un 'bonjour' face minuni. Personalul din hotelurile de lux e adesea multilingv.",
+      "en": "Courchevel draws an upscale crowd — lots of Russian and Middle Eastern guests in 1850, English is the default. In the lower villages (1300, 1550, 1650) French is more common and a 'bonjour' works wonders. Luxury hotel staff are usually multilingual."
+    },
+    "best_time_to_visit": {
+      "de": "Skisaison Mitte Dezember bis Mitte April, Sterne-Restaurants und Apres-Ski auf hoechstem Niveau. Februar Schulferien extrem voll und teuer, Januar und Maerz ruhiger und sonniger. Sommer Juli-August fuer Wandern, viele Lifte aber geschlossen.",
+      "hu": "Sszezon december kozeptol aprilis kozepig, csillagos ettermek es high-end apres-ski. Februari iskolai szunet rendkivul zsufolt es draga, januar es marcius nyugodtabb es naposabb. Nyaron julius-augusztus turazas, sok felvono viszont zarva.",
+      "ro": "Sezonul de schi e din mijlocul lui decembrie pana la mijlocul lui aprilie, restaurante cu stele si apres-ski de top. Vacanta de februarie e aglomerata si scumpa, ianuarie si martie sunt mai linistite si insorite. Vara, in iulie-august, drumetii, dar multe telecabine inchise.",
+      "en": "Ski season mid-December to mid-April, with starred restaurants and top-tier après-ski. February school holidays are crowded and expensive, January and March are quieter and sunnier. Summer (July-August) is for hiking, but many lifts are closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Courchevel 1850 ist Luxus pur, ein Mittagessen auf der Piste schnell 100 Euro plus. Wer guenstiger will, in 1550 oder Le Praz schlafen. Engste Strassen im Hochwinter mit grossen SUVs verstopft, Schneeketten oder Allrad noetig.",
+      "hu": "Courchevel 1850 luxus, egy pisten elkoltott ebed konnyen 100 euro folott. Aki sporolna, aludjon 1550-ben vagy Le Praz-ban. A szuk utakat hidegben SUV-k torlaszoljak el, holanc vagy negykerek-meghajtas kell.",
+      "ro": "Courchevel 1850 e pur lux, un pranz pe partie sare usor de 100 euro. Daca vrei mai ieftin, dormi in 1550 sau Le Praz. Strazile inguste se blocheaza iarna cu SUV-uri mari, lanturi sau 4x4 sunt necesare.",
+      "en": "Courchevel 1850 is pure luxury — lunch on the slopes easily tops 100 euros. For better value, sleep in 1550 or Le Praz. The narrow roads clog with big SUVs in peak winter, snow chains or 4WD are essential."
+    },
+    "parking_real_time": ""
   }
 }

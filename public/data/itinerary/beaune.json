@@ -970,5 +970,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.beaune-tourisme.fr/",
+    "events": "https://www.beaune-tourisme.fr/agenda/",
+    "city_card": "https://www.beaune-tourisme.fr/pass-beaune/",
+    "museum_tickets": "https://www.hospices-de-beaune.com/billetterie/",
+    "transit_official": "https://www.cotedor-mobilites.fr/",
+    "language_tips": {
+      "de": "Beaune ist die Welt-Hauptstadt des Burgunderweins, Englisch wird in den Weingütern und im Hospices fließend gesprochen. Lernen Sie 'grand cru' und 'premier cru' für die Weinklassifikation, 'Hospices de Beaune' für das berühmte Hospital. Bei Verkostungen 'la dégustation' und 'le terroir' sind Schlüsselbegriffe.",
+      "hu": "Beaune a burgundi borok világfővárosa, a borászatokban és a Hospices-ben folyékonyan beszélnek angolul. Tanuld meg a 'grand cru' és 'premier cru' kifejezéseket a borosztályozáshoz, a 'Hospices de Beaune' nevet a híres kórházhoz. Kóstoláshoz a 'dégustation' és 'terroir' kulcsfogalmak.",
+      "ro": "Beaune este capitala mondială a vinului de Burgundia, engleza se vorbește fluent la crame și la Hospices. Învățați 'grand cru' și 'premier cru' pentru clasificarea vinului, 'Hospices de Beaune' pentru spitalul renumit. La degustări, 'la dégustation' și 'le terroir' sunt termeni cheie.",
+      "en": "Beaune is the world capital of Burgundy wines - English is spoken fluently at wineries and the Hospices. Learn 'grand cru' and 'premier cru' for the wine classification, 'Hospices de Beaune' for the famous medieval hospital. At tastings 'la dégustation' and 'le terroir' are key terms."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, perfekte Weinverkostungs-Bedingungen und nicht zu voll. Im November findet die berühmte Wein-Versteigerung der Hospices de Beaune statt, sehr spektakulär aber alles ausgebucht. Winter ist ruhig, viele Weinkeller bleiben geöffnet.",
+      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, tökéletes borkóstoló feltételek, nem túl zsúfolt. Novemberben rendezik a Hospices de Beaune híres boraukcióját, látványos, de minden teltház. Télen csendes, sok borospince nyitva tart.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, condiții perfecte pentru degustări de vin și nu prea aglomerat. În noiembrie are loc celebra licitație de vin a Hospices de Beaune, spectaculoasă dar totul rezervat. Iarna este liniștită, multe pivnițe rămân deschise.",
+      "en": "May-June and September-October are ideal: mild weather, perfect wine tasting conditions and not too crowded. November hosts the famous Hospices de Beaune wine auction - spectacular but everything is booked. Winter is quiet, many wine cellars stay open."
+    },
+    "neighborhood_warnings": {
+      "de": "Beaune ist sehr sicher, eine elegante Weinstadt. Im Sommer kann es voll werden, besonders rund um die Hospices. Beim Autofahren in den engen Gassen der Altstadt vorsichtig sein. Verkostungen mit Mass!",
+      "hu": "Beaune nagyon biztonságos, elegáns borváros. Nyáron zsúfolt lehet, főleg a Hospices körül. Az óváros szűk utcáiban óvatosan vezess. Kóstoláskor mértékkel!",
+      "ro": "Beaune este foarte sigur, un oraș viticol elegant. Vara poate fi aglomerat, mai ales în jurul Hospices. La condusul în străduțele înguste ale centrului vechi, atenție. La degustări, cu măsură!",
+      "en": "Beaune is very safe, an elegant wine town. Summer can get crowded, especially around the Hospices. Drive carefully in the narrow old town lanes. Taste in moderation - cellars are deeper than they look!"
+    },
+    "parking_real_time": ""
   }
 }

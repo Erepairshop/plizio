@@ -882,5 +882,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-verdun.com/",
+    "events": "https://www.tourisme-verdun.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Verdun ist Gedenkstadt, viele deutsche Besucher; Englisch und Deutsch in Memorial-Sites verbreitet. Sprechen Sie respektvoll an Gedenkstätten. 'Ossuaire' (Beinhaus) ist ein häufiger Begriff. Bei Bestellungen 'Madeleines de Commercy' und 'Dragées' probieren.",
+      "hu": "Verdun emlékváros, sok német látogatóval; az angol és német jól megy a memoriáloknál. Az emlékhelyeken tisztelettel beszélj. Az 'Ossuaire' (csontkamra) gyakori kifejezés. Rendelésnél próbáld a 'Madeleines de Commercy'-t és a 'Dragées'-t.",
+      "ro": "Verdun este oraș-memorial, mulți vizitatori germani; engleza și germana sunt frecvente la situri. Vorbiți respectuos la memoriale. 'Ossuaire' (osuar) este un termen frecvent. La comandă, încercați 'Madeleines de Commercy' și 'Dragées'.",
+      "en": "Verdun is a memorial city with many German visitors; English and German are common at sites. Speak respectfully at memorials. 'Ossuaire' (ossuary) is a common term. Try 'Madeleines de Commercy' and 'Dragées' candies."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober für angenehmes Wetter und volle Erinnerungssites. 11. November (Waffenstillstand) ist sehr feierlich. Juli-August: viele Tagesausflügler. Winter: einige Schlachtfelder bei Schnee unzugänglich.",
+      "hu": "Április-június és szeptember-október kellemes időért és nyitott emlékhelyekért. November 11-e (fegyverszünet) nagyon ünnepélyes. Július-augusztus: sok napi turista. Tél: néhány csatatér havazáskor megközelíthetetlen.",
+      "ro": "Aprilie-iunie și septembrie-octombrie pentru vreme plăcută și site-uri memoriale active. 11 noiembrie (Armistițiul) este foarte solemn. Iulie-august: mulți turiști de o zi. Iarna: unele câmpuri de luptă inaccesibile pe zăpadă.",
+      "en": "April-June and September-October offer pleasant weather and active memorial sites. November 11 (Armistice) is deeply solemn. July-August brings many day-trippers. In winter, some battlefields are snow-bound."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. In den Schlachtfeldern niemals abseits der Wege gehen, Blindgänger können noch immer auftauchen. Mücken in Sumpfgebieten nahe der Maas im Sommer. Nachts ist die Innenstadt ruhig, aber dunkel.",
+      "hu": "Nagyon biztonságos. A csatamezőkön soha ne térj le az ösvényekről, fel nem robbant lőszer ma is előkerülhet. Nyáron szúnyog a Meuse menti mocsaras részeken. Éjjel az óváros csendes, de sötét.",
+      "ro": "Foarte sigur. Pe câmpurile de luptă, nu părăsiți niciodată potecile, muniție neexplodată poate apărea. Vara, țânțari în zonele mlăștinoase de pe Meuse. Noaptea, centrul este liniștit dar întunecat.",
+      "en": "Very safe. Never step off marked paths on battlefields, unexploded ordnance still surfaces. Mosquitoes in Meuse marshes in summer. The town centre is quiet but dimly lit at night."
+    },
+    "parking_real_time": ""
   }
 }

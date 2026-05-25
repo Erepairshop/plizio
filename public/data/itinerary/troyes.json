@@ -1,0 +1,981 @@
+{
+  "city_id": "troyes",
+  "anchor": {
+    "name": "Troyes Centre-Ville",
+    "coords": [
+      4.0744,
+      48.2973
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de l'Hôtel de Ville",
+          "coords": [
+            4.0755,
+            48.2975
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade des Rathauses aus dem 17. Jahrhundert.",
+            "hu": "Csodálja meg a 17. századi városháza homlokzatát.",
+            "ro": "Admirați fațada primăriei din secolul al XVII-lea.",
+            "en": "Admire the facade of the 17th-century City Hall."
+          }
+        },
+        {
+          "name": "Ruelle des Chats",
+          "coords": [
+            4.0748,
+            48.2965
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die engste Gasse der Stadt, wo sich die Dächer fast berühren.",
+            "hu": "A város legszűkebb utcája, ahol a tetők szinte összeérnek.",
+            "ro": "Cea mai îngustă uliță, unde acoperișurile aproape se ating.",
+            "en": "The narrowest alley where roofs almost touch each other."
+          }
+        },
+        {
+          "name": "Église Sainte-Madeleine",
+          "coords": [
+            4.0715,
+            48.2972
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Berühmt für seinen prächtigen Lettner aus Stein.",
+            "hu": "Híres a pompás kőből faragott szentélyrekesztőjéről.",
+            "ro": "Celebră pentru iconostasul său magnific din piatră.",
+            "en": "Famous for its magnificent stone rood screen."
+          }
+        },
+        {
+          "name": "Musée de l'Outil et de l'Ouvrier (MOPO)",
+          "coords": [
+            4.0695,
+            48.2985
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine einzigartige Sammlung von Handwerkzeugen in einem Herrenhaus.",
+            "hu": "Kéziszerszámok egyedülálló gyűjteménye egy régi palotában.",
+            "ro": "O colecție unică de unelte manuale într-un conac vechi.",
+            "en": "A unique collection of hand tools in a historic mansion."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Pierre-et-Saint-Paul",
+          "coords": [
+            4.0825,
+            48.2998
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die 1.500 m² an historischen Glasmalereien.",
+            "hu": "Ámuljon el az 1500 m²-nyi történelmi üvegablakon.",
+            "ro": "Admirați cei 1.500 m² de vitralii istorice.",
+            "en": "Marvel at the 1,500 m² of historic stained glass windows."
+          }
+        },
+        {
+          "name": "Basilique Saint-Urbain",
+          "coords": [
+            4.0775,
+            48.2978
+          ],
+          "category": "religious",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Gotik mit filigraner Architektur.",
+            "hu": "A gótika remekműve, rendkívül filigrán építészettel.",
+            "ro": "O capodoperă a stilului gotic cu arhitectură filigranată.",
+            "en": "A masterpiece of Gothic art with delicate architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz der Stadt, den berühmten Champagnerkorken (Bouchon de Champagne). Mittags tauchen Sie in die mittelalterlichen Gassen mit ihren bunten Fachwerkhäusern ein. Nachmittags bewundern Sie die weltberühmten Glasmalereien in der Kathedrale. Abends lassen Sie den Tag in der Nähe der Basilika Saint-Urbain ausklingen, während die Sonne die Fassaden in goldenes Licht taucht.",
+        "hu": "Reggel a város szívét, a híres pezsgődugó alakú központot fedezzük fel. Délben elmerülünk a középkori utcák és színes fagerendás házak világában. Délután a katedrális világhírű ólomüveg ablakait csodáljuk meg. Este a Szent Orbán-bazilika környékén zárjuk a napot, ahol a lemenő nap fénye aranyba vonja a gótikus falakat.",
+        "ro": "Dimineața explorați inima orașului, celebrul dop de șampanie (Bouchon de Champagne). La prânz vă pierdeți pe ulițele medievale cu case colorate din paiantă. După-amiaza admirați vitraliile de renume mondial din catedrală. Seara încheiați ziua lângă Basilica Saint-Urbain, în timp ce soarele apune peste fațadele gotice filigranate.",
+        "en": "Morning explores the heart of the city, the famous 'Champagne cork' shaped center. At midday, dive into medieval alleys with colorful half-timbered houses. Afternoon is dedicated to the world-renowned stained glass windows of the Cathedral. Evening concludes near the Basilica of Saint-Urbain, watching the sunset glow on the Gothic stone."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Andouillette de Troyes",
+            "tip": "Probieren Sie diese traditionelle Wurst bei 'Aux Criées'."
+          },
+          {
+            "name": "Chaource Käse",
+            "tip": "Ein cremiger Weichkäse aus der Region."
+          },
+          {
+            "name": "Prunelle de Troyes",
+            "tip": "Ein lokaler Likör aus Schlehenkernen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Andouillette de Troyes",
+            "tip": "Kóstolja meg a hagyományos kolbászt az 'Aux Criées' étteremben."
+          },
+          {
+            "name": "Chaource sajt",
+            "tip": "Krémes lágy sajt közvetlenül a környékről."
+          },
+          {
+            "name": "Prunelle de Troyes",
+            "tip": "Helyi kökénymag-likőr, igazi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Andouillette de Troyes",
+            "tip": "Gustați acest cârnat tradițional la 'Aux Criées'."
+          },
+          {
+            "name": "Brânză Chaource",
+            "tip": "O brânză moale și cremoasă din regiune."
+          },
+          {
+            "name": "Prunelle de Troyes",
+            "tip": "Un lichior local rafinat din sâmburi de porumbar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Andouillette de Troyes",
+            "tip": "Try this traditional sausage at 'Aux Criées' restaurant."
+          },
+          {
+            "name": "Chaource Cheese",
+            "tip": "A creamy soft cheese from the nearby village."
+          },
+          {
+            "name": "Prunelle de Troyes",
+            "tip": "A local sloe gin-like liqueur made from sloe pits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de l'Hôtel de Mauroy",
+            "tip": "Ein ruhiger Innenhof inmitten der Altstadt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quais de Seine",
+            "tip": "Ein entspannter Spaziergang am Flussufer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin de l'Hôtel de Mauroy",
+            "tip": "Csendes belső udvar az óváros szívében.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szajna-part",
+            "tip": "Pihentető séta a folyóparti rakparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de l'Hôtel de Mauroy",
+            "tip": "O curte interioară liniștită în centrul vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quais de Seine",
+            "tip": "O plimbare relaxantă pe malul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de l'Hôtel de Mauroy",
+            "tip": "A peaceful courtyard in the heart of the old town.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quais de Seine",
+            "tip": "A relaxing walk along the river banks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Überdachter Markt für lokale Spezialitäten."
+          },
+          {
+            "name": "Cellier Saint Pierre",
+            "tip": "Der beste Ort für Champagner und lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Fedett piac helyi finomságokkal."
+          },
+          {
+            "name": "Cellier Saint Pierre",
+            "tip": "A legjobb hely pezsgőhöz és helyi borokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Piață acoperită pentru specialități locale."
+          },
+          {
+            "name": "Cellier Saint Pierre",
+            "tip": "Cel mai bun loc pentru șampanie și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Covered market for local gourmet products."
+          },
+          {
+            "name": "Cellier Saint Pierre",
+            "tip": "The perfect spot for Champagne and local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die meisten Museen sind montags oder dienstags geschlossen.",
+          "Achten Sie auf die kleinen Skulpturen in den Gassen.",
+          "Buchen Sie Restaurants für das Wochenende im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A legtöbb múzeum hétfőn vagy kedden zárva tart.",
+          "Figyelje az apró szobrokat a sikátorok falain.",
+          "Hétvégére érdemes előre asztalt foglalni az éttermekben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Majoritatea muzeelor sunt închise luni sau marți.",
+          "Căutați micile sculpturi ascunse pe zidurile ulițelor.",
+          "Rezervați din timp masa la restaurant pentru weekend."
+        ],
+        "en": [
+          "Wear comfortable shoes for the uneven cobblestone streets.",
+          "Most museums are closed on Mondays or Tuesdays.",
+          "Look out for the small sculptures hidden in the alleys.",
+          "Book restaurants in advance for weekend visits."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Le Coeur de Troyes",
+          "coords": [
+            4.0785,
+            48.297
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Symbol der Stadt am Kanalufer.",
+            "hu": "A város jelképe a csatorna partján.",
+            "ro": "Simbolul orașului pe malul canalului.",
+            "en": "The iconic symbol of the city by the canal."
+          }
+        },
+        {
+          "name": "Canal de la Haute-Seine",
+          "coords": [
+            4.065,
+            48.305
+          ],
+          "category": "nature",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein flacher, grüner Radweg entlang des Wassers.",
+            "hu": "Lapos, zöld kerékpárút a víz mentén.",
+            "ro": "O pistă de biciclete plană și verde de-a lungul apei.",
+            "en": "A flat, green cycling path along the water."
+          }
+        },
+        {
+          "name": "Parc des Moulins",
+          "coords": [
+            4.095,
+            48.288
+          ],
+          "category": "park",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein riesiger Park mit alten Mühlen und Teichen.",
+            "hu": "Hatalmas park régi malmokkal és tavakkal.",
+            "ro": "Un parc imens cu mori vechi și iazuri.",
+            "en": "A vast park with old mills and ponds."
+          }
+        },
+        {
+          "name": "Maison de l'Outil",
+          "coords": [
+            4.0698,
+            48.2982
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher im Innenhof ab.",
+            "hu": "Biztonságosan lezárhatja biciklijét a belső udvaron.",
+            "ro": "Puteți parca bicicleta în siguranță în curtea interioară.",
+            "en": "Securely park your bike in the inner courtyard."
+          }
+        },
+        {
+          "name": "Quartier Saint-Nizier",
+          "coords": [
+            4.081,
+            48.302
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein charmantes Viertel mit bunten Häusern.",
+            "hu": "Bájos negyed színes házakkal.",
+            "ro": "Un cartier fermecător cu case colorate.",
+            "en": "A charming district with colorful houses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt Sie aus dem Zentrum hinaus entlang des Kanals. Morgens besuchen Sie das berühmte 'Herz von Troyes'. Mittags radeln Sie durch den Parc des Moulins, eine grüne Lunge der Stadt. Nachmittags kehren Sie für Kultur zurück und erkunden das ruhigere Saint-Nizier Viertel.",
+        "hu": "Ez a túra kivezeti Önt a központból a csatorna mentén. Reggel meglátogatjuk a híres 'Troyes Szívét'. Délben a Parc des Moulins parkban tekerünk, ami a város zöld tüdeje. Délután kulturális élményekkel és a csendesebb Saint-Nizier negyed felfedezésével zárjuk a napot.",
+        "ro": "Acest tur vă scoate din centru pe lângă canal. Dimineața vizitați celebrul 'Inimă a orașului Troyes'. La prânz pedalați prin Parc des Moulins, plămânul verde al orașului. După-amiaza reveniți pentru cultură și explorarea cartierului liniștit Saint-Nizier.",
+        "en": "This tour takes you out of the center along the canal. Morning starts at the famous 'Heart of Troyes'. Midday is spent cycling through Parc des Moulins, the city's green lung. Afternoon brings you back for culture and exploring the quieter Saint-Nizier district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Gérard",
+            "tip": "Perfekt für ein Picknick im Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Gérard",
+            "tip": "Tökéletes választás egy parkbéli piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Gérard",
+            "tip": "Perfect pentru un picnic în parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Gérard",
+            "tip": "Perfect for grabbing a picnic for the park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal-Ufer",
+            "tip": "Vogelgezwitscher und Wasserrauschen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csatornapart",
+            "tip": "Madárcsicsergés és vízmoraj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul canalului",
+            "tip": "Cântecul păsărilor și susurul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Banks",
+            "tip": "Birdsong and the sound of water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halle de Troyes",
+            "tip": "Kaufen Sie frisches Obst für die Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halle de Troyes",
+            "tip": "Vásároljon friss gyümölcsöt az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halle de Troyes",
+            "tip": "Cumpărați fructe proaspete pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halle de Troyes",
+            "tip": "Buy fresh fruit for your cycling trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Vélovoie' für sicheres Radfahren.",
+          "Die Strecke ist überwiegend flach.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Fahrradverleih gibt es in der Nähe des Bahnhofs."
+        ],
+        "hu": [
+          "Használja a 'Vélovoie' utakat a biztonságos közlekedéshez.",
+          "Az útvonal nagyrészt sík.",
+          "Vigyen magával elegendő vizet.",
+          "Kerékpárkölcsönzőt a vasútállomás közelében talál."
+        ],
+        "ro": [
+          "Folosiți pistele 'Vélovoie' pentru siguranță.",
+          "Traseul este în mare parte plat.",
+          "Luați suficientă apă cu voi.",
+          "Închirieri de biciclete găsiți lângă gară."
+        ],
+        "en": [
+          "Use the 'Vélovoie' paths for safe cycling.",
+          "The route is mostly flat.",
+          "Bring plenty of water with you.",
+          "Bike rentals are available near the train station."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 55.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Troyes Centre-Ville",
+          "coords": [
+            4.0744,
+            48.2973
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Morgenspaziergang im historischen Zentrum.",
+            "hu": "Rövid reggeli séta a történelmi központban.",
+            "ro": "Scurtă plimbare de dimineață în centrul istoric.",
+            "en": "Short morning walk in the historic center."
+          }
+        },
+        {
+          "name": "Lac d'Orient",
+          "coords": [
+            4.333,
+            48.275
+          ],
+          "category": "lake",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Ein riesiger Stausee im Naturpark.",
+            "hu": "Hatalmas víztározó a natúrpark szívében.",
+            "ro": "Un lac de acumulare imens în parcul natural.",
+            "en": "A huge reservoir lake in the natural park."
+          }
+        },
+        {
+          "name": "Géraudot Plage",
+          "coords": [
+            4.325,
+            48.305
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Sandstrand und klares Wasser zum Entspannen.",
+            "hu": "Homokos strand és tiszta víz a kikapcsolódáshoz.",
+            "ro": "Plajă cu nisip și apă curată pentru relaxare.",
+            "en": "Sandy beach and clear water for relaxing."
+          }
+        },
+        {
+          "name": "Lusigny-sur-Barse",
+          "coords": [
+            4.266,
+            48.254
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine lokale Champagner-Kellerei.",
+            "hu": "Látogasson el egy helyi pezsgőpincészetbe.",
+            "ro": "Vizitați o cramă locală de șampanie.",
+            "en": "Visit a local Champagne cellar."
+          }
+        },
+        {
+          "name": "Marques Avenue",
+          "coords": [
+            4.115,
+            48.265
+          ],
+          "category": "shopping",
+          "arrive_at": "17:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Outlet-Shopping mit großen Marken zu kleinen Preisen.",
+            "hu": "Outlet vásárlás nagy márkákkal, alacsony áron.",
+            "ro": "Cumpărături la outlet cu mărci mari la prețuri mici.",
+            "en": "Outlet shopping with big brands at low prices."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Umgebung von Troyes. Nach einem kurzen Stadtbesuch fahren Sie zum Orient-See, einem Naturparadies. Der Mittag gehört dem Strand von Géraudot. Nachmittags probieren Sie regionalen Wein in Lusigny, bevor Sie den Tag mit einem Shopping-Erlebnis in den berühmten Outlets abrunden.",
+        "hu": "Autóval Troyes környékét fedezzük fel. Egy rövid városnézés után az Orient-tóhoz utazunk, ami igazi természeti paradicsom. A délutánt Géraudot strandján töltjük. Később Lusigny-ban helyi borokat kóstolunk, végül a napot a híres outlet központokban zárjuk.",
+        "ro": "Cu mașina explorați împrejurimile orașului Troyes. După o scurtă vizită în oraș, mergeți la Lacul Orient, un paradis natural. Prânzul aparține plajei Géraudot. După-amiaza degustați vinuri locale în Lusigny, înainte de a încheia ziua cu o sesiune de cumpărături la celebrele outlet-uri.",
+        "en": "By car, explore the surroundings of Troyes. After a quick city stop, drive to Lake Orient, a natural paradise. Midday is spent at Géraudot beach. Later, taste local wines in Lusigny, then conclude with a shopping spree at the famous factory outlets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Belvédère",
+            "tip": "Essen mit Blick auf den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Belvédère",
+            "tip": "Ebéd kilátással a tóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Belvédère",
+            "tip": "Masă cu vedere la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Belvédère",
+            "tip": "Dining with a view of the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vogelbeobachtungshütte",
+            "tip": "Stille am Seeufer genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Madármegfigyelő torony",
+            "tip": "Élvezze a csendet a tóparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observator ornitologic",
+            "tip": "Bucurați-vă de liniște pe malul lacului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Birdwatching Hide",
+            "tip": "Enjoy the silence by the lakeshore.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "McArthurGlen",
+            "tip": "Designer-Labels zu Outlet-Preisen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "McArthurGlen",
+            "tip": "Designer márkák outlet áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "McArthurGlen",
+            "tip": "Branduri de designer la prețuri de outlet."
+          }
+        ],
+        "en": [
+          {
+            "name": "McArthurGlen",
+            "tip": "Designer labels at outlet prices."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Stadtzentrum im Parkhaus 'Halles'.",
+          "Die Fahrt zum See dauert etwa 30 Minuten.",
+          "Parkplätze am See sind im Sommer oft kostenpflichtig.",
+          "Die Outlets haben sonntags meist geschlossen."
+        ],
+        "hu": [
+          "A városközpontban a 'Halles' parkolóházat ajánljuk.",
+          "Az út a tóhoz körülbelül 30 percet vesz igénybe.",
+          "A tónál a parkolás nyáron gyakran fizetős.",
+          "Az outlet központok vasárnap többnyire zárva vannak."
+        ],
+        "ro": [
+          "Parcați în centrul orașului la parcarea 'Halles'.",
+          "Drumul până la lac durează aproximativ 30 de minute.",
+          "Parcarea la lac este adesea cu plată în timpul verii.",
+          "Outlet-urile sunt de obicei închise duminica."
+        ],
+        "en": [
+          "Park in the 'Halles' parking garage in the city center.",
+          "The drive to the lake takes about 30 minutes.",
+          "Lakeside parking is often paid during summer.",
+          "The outlets are mostly closed on Sundays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Troyes",
+          "coords": [
+            4.0665,
+            48.2965
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Eisenbahnarchitektur.",
+            "hu": "A vasúti építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură feroviară.",
+            "en": "A fine example of railway architecture."
+          }
+        },
+        {
+          "name": "Musée d'Art Moderne (MAM)",
+          "coords": [
+            4.0835,
+            48.2995
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Befindet sich im ehemaligen Bischofspalast.",
+            "hu": "Az egykori püspöki palotában található.",
+            "ro": "Situat în fostul palat episcopal.",
+            "en": "Located in the former episcopal palace."
+          }
+        },
+        {
+          "name": "Quartier de la Cité",
+          "coords": [
+            4.08,
+            48.299
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das älteste Viertel der Stadt rund um die Kathedrale.",
+            "hu": "A város legrégebbi negyede a katedrális körül.",
+            "ro": "Cel mai vechi cartier al orașului în jurul catedralei.",
+            "en": "The oldest district of the city around the Cathedral."
+          }
+        },
+        {
+          "name": "Marques Avenue (Bus Route 1)",
+          "coords": [
+            4.1155,
+            48.2655
+          ],
+          "category": "shopping",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Bequem mit dem Stadtbus erreichbar.",
+            "hu": "Kényelmesen elérhető helyi autóbusszal.",
+            "ro": "Accesibil ușor cu autobuzul local.",
+            "en": "Easily accessible by local bus."
+          }
+        },
+        {
+          "name": "Place du Marché au Pain",
+          "coords": [
+            4.074,
+            48.297
+          ],
+          "category": "square",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein gemütlicher Platz zum Abschluss des Tages.",
+            "hu": "Hangulatos tér a nap lezárásához.",
+            "ro": "O piață primitoare pentru finalul zilei.",
+            "en": "A cozy square to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das dichte Busnetz von Troyes. Vormittags besuchen Sie das Museum für Moderne Kunst. Mittags erkunden Sie die historische Cité. Nachmittags bringt Sie der Bus direkt zu den Outlets für Schnäppchenjäger, bevor Sie den Tag auf einem der belebten Plätze im Zentrum beenden.",
+        "hu": "Használja Troyes sűrű autóbusz-hálózatát. Délelőtt a Modern Művészetek Múzeumát látogatjuk meg. Délben a történelmi Cité negyedet fedezzük fel. Délután a busz egyenesen az outlet központokhoz visz, végül a napot a központ egyik élettel teli terén zárjuk.",
+        "ro": "Folosiți rețeaua densă de autobuze din Troyes. Dimineața vizitați Muzeul de Artă Modernă. La prânz explorați cartierul istoric Cité. După-amiaza autobuzul vă duce direct la outlet-uri, înainte de a încheia ziua într-una dintre piețele animate din centru.",
+        "en": "Utilize the efficient bus network of Troyes. Morning is spent at the Museum of Modern Art. Midday is for exploring the historic Cité district. Afternoon takes you by bus directly to the outlets for some deals, ending your day at a lively central square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Vieux Troyes",
+            "tip": "Authentische Galettes im Fachwerkhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Vieux Troyes",
+            "tip": "Autentikus sós palacsinták egy fagerendás házban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Vieux Troyes",
+            "tip": "Galette-uri autentice într-o casă de paiantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Vieux Troyes",
+            "tip": "Authentic galettes in a historic half-timbered house."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Trinité",
+            "tip": "Ein kleiner, versteckter Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de la Trinité",
+            "tip": "Egy apró, rejtett park.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Trinité",
+            "tip": "Un parc mic și ascuns.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la Trinité",
+            "tip": "A small, hidden park area.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Musée",
+            "tip": "Einzigartige Kunstgeschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du Musée",
+            "tip": "Egyedi művészeti ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Musée",
+            "tip": "Cadouri artistice unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du Musée",
+            "tip": "Unique art-related gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus (TCAT).",
+          "Laden Sie die TCAT-App für Echtzeit-Infos herunter.",
+          "Busse fahren im Zentrum sehr häufig.",
+          "Die Linie 1 verbindet das Zentrum mit Marques Avenue."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra (TCAT).",
+          "Töltse le a TCAT alkalmazást a valós idejű menetrendhez.",
+          "A buszok a központban nagyon gyakran járnak.",
+          "Az 1-es vonal köti össze a központot a Marques Avenue-val."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz (TCAT).",
+          "Descărcați aplicația TCAT pentru informații în timp real.",
+          "Autobuzele circulă foarte des în centru.",
+          "Linia 1 face legătura între centru și Marques Avenue."
+        ],
+        "en": [
+          "Buy a daily pass for the bus (TCAT).",
+          "Download the TCAT app for real-time bus info.",
+          "Buses run very frequently in the city center.",
+          "Line 1 connects the center with Marques Avenue."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.troyeslachampagne.com/",
+    "events": "https://www.troyeslachampagne.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.tcat.fr/",
+    "language_tips": {
+      "de": "Troyes ist klassisch französischsprachig, weniger Deutsch als im Elsass. Champagne-Region: 'champenois' ist der Dialektrest. 'Andouillette de Troyes' ist Wurst-Spezialität, in der Bestellung mit 'AAAAA'-Stempel fragen (Qualität).",
+      "hu": "Troyes klasszikus francia nyelvű, kevesebb német mint Elzászban. Champagne régió: a 'champenois' a tájszólás maradványa. Az 'Andouillette de Troyes' a kolbászkülönlegesség, rendelésnél kérdezz az 'AAAAA' pecsétre (minőség).",
+      "ro": "Troyes este clasic francofon, mai puțină germană decât în Alsacia. Regiunea Champagne: 'champenois' este urma de dialect. 'Andouillette de Troyes' este specialitatea de cârnați, întrebați despre ștampila 'AAAAA' (calitate).",
+      "en": "Troyes is classically French-speaking, less German than in Alsace. Champagne region: 'champenois' is the local dialect's trace. 'Andouillette de Troyes' is the sausage specialty, ask for the 'AAAAA' quality stamp."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober für mildes Wetter und Champagner-Erntefeste. Dezember: kleiner Weihnachtsmarkt vor halbhölzernen Häusern. Juli-August: heiß, aber gut für Outlet-Shopping. Vermeiden Sie Februar, viele Museen geschlossen.",
+      "hu": "Május-június és szeptember-október enyhe időért és pezsgő-szüreti ünnepekért. December: kis karácsonyi vásár a favázas házak előtt. Július-augusztus: forró, de jó outlet-shoppingra. Februárt kerüld, sok múzeum zárva.",
+      "ro": "Mai-iunie și septembrie-octombrie pentru vremea blândă și festivaluri ale culesului de șampanie. Decembrie: târg de Crăciun mic în fața caselor cu paiantă. Iulie-august: cald, dar bun pentru outlet. Evitați februarie, multe muzee închise.",
+      "en": "May-June and September-October for mild weather and Champagne harvest events. December offers a small Christmas market amid half-timbered houses. July-August is hot but great for outlet shopping. Avoid February, many museums close."
+    },
+    "neighborhood_warnings": {
+      "de": "Generell sicher. Rund um den Bahnhof nachts vorsichtig sein. Im Quartier Saint-Jean (Outlet-Bereich) kann es zur Stoßzeit hektisch werden. Beim Radfahren auf die schmalen Kopfsteinpflaster-Gassen achten.",
+      "hu": "Általában biztonságos. A pályaudvar körül éjjel óvatosan. A Saint-Jean negyed (outlet) csúcsidőben hektikus lehet. Bringázáskor a szűk macskaköves utcákra figyelj.",
+      "ro": "În general sigur. În jurul gării, atenție noaptea. Cartierul Saint-Jean (zona outlet) poate fi haotic la ore de vârf. Pe bicicletă, atenție la străduțele înguste pavate.",
+      "en": "Generally safe. Be careful around the train station at night. The Saint-Jean outlet quarter can get hectic at peak hours. Cyclists should mind the narrow cobblestone lanes."
+    },
+    "parking_real_time": ""
+  }
+}

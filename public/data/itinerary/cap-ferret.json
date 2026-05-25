@@ -1069,5 +1069,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.lege-capferret.com/",
+    "events": "https://www.lege-capferret.com/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.infotbm.com/en",
+    "language_tips": {
+      "de": "Cap Ferret ist franzoesisches Sommer-Chic, viele Pariser haben hier Haeuser. Englisch klappt in Strandrestaurants und Austernbars, aber ein lockeres 'bonjour' und 'merci' ist Teil des entspannten Atlantik-Stils.",
+      "hu": "Cap Ferret a francia nyari sikk, sok parizsinak van itt haza. Az angol megy a strandettermekben es osztrigabarokban, de egy laza 'bonjour' es 'merci' hozzatartozik az atlanti partszakasz kotetlen hangulatahoz.",
+      "ro": "Cap Ferret e chic-ul francez de vara, multi parizieni au case aici. Engleza merge in restaurantele de plaja si baruri cu stridii, dar un 'bonjour' si 'merci' lejer fac parte din stilul relaxat al Atlanticului.",
+      "en": "Cap Ferret is French summer chic — many Parisians have second homes here. English works at beach restaurants and oyster bars, but a relaxed 'bonjour' and 'merci' fits the Atlantic-coast vibe."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September sind perfekt: 22-26 Grad, warmes Atlantikwasser und Austern direkt aus dem Becken. Juli und August sind ueberlaufen mit Pariser Familien, Stau auf der einzigen Zufahrtsstrasse. Winter ist ruhig und stuermisch-schoen.",
+      "hu": "Junius es szeptember tokeletes: 22-26 fok, langyos Atlanti-ocean, friss osztrigak a medencebol. Julius-augusztus parizsi csaladokkal zsufolt, dugo az egyetlen bevezeto uton. Telen csendes, viharos szepseg.",
+      "ro": "Iunie si septembrie sunt perfecte: 22-26 grade, Atlantic cald si stridii proaspete din bazin. Iulie-august sunt sufocate de familiile pariziene, ambuteiaj pe singurul drum de acces. Iarna e linistita si frumos furtunoasa.",
+      "en": "June and September are perfect: 22-26°C, warm Atlantic water and oysters straight from the basin. July and August are packed with Parisian families and the single access road jams. Winter is quiet and stormy-beautiful."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicheres Resort, Hauptproblem ist Verkehr im August und Diebstaehle aus offenen Strandtaschen. Achten Sie auf Stroemungen am Ozean-Strand (Plage de l'Horizon), schwimmen Sie nur in bewachten Zonen.",
+      "hu": "Nagyon biztonsagos uduloltohely, fo gond a augusztusi forgalom es a nyitott strandtaskakbol valo lopas. Vigyazz az oceani oldal aramlasaival (Plage de l'Horizon), csak felugyelt szakaszon uszorat.",
+      "ro": "Statiune foarte sigura, principala problema fiind traficul din august si furturile din sacosele de plaja deschise. Atentie la curentii de pe partea oceanului (Plage de l'Horizon), inoata doar in zone supravegheate.",
+      "en": "Very safe resort; the main issues are August traffic and theft from open beach bags. Beware of strong currents on the ocean side (Plage de l'Horizon) — swim only in lifeguarded zones."
+    },
+    "parking_real_time": ""
   }
 }

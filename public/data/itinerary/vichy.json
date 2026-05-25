@@ -1137,5 +1137,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://vichymonamour.fr/",
+    "events": "https://vichymonamour.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Vichy lebt mit der schwierigen WW2-Geschichte und der Spa-Identität gleichzeitig. Englisch in Spa und Hotels gut, Deutsch teilweise. 'Pastilles de Vichy' sind die bekannten Bonbons. Sprechen Sie respektvoll über die Geschichte 1940-1944.",
+      "hu": "Vichy egyszerre éli meg nehéz WW2-történelmét és spa-identitását. Az angol jó a spákban és szállodákban, a német részben. A 'Pastilles de Vichy' a híres cukorka. Az 1940-1944 közti történelemről tisztelettel beszélj.",
+      "ro": "Vichy convietuiește cu istoria dificilă din WW2 și identitatea de stațiune balneară. Engleza este bună la spa și hoteluri, germana parțial. 'Pastilles de Vichy' sunt bomboanele celebre. Vorbiți respectuos despre 1940-1944.",
+      "en": "Vichy lives with both its difficult WW2 history and its spa identity. English works well at spas and hotels, German partially. 'Pastilles de Vichy' are the famous candies. Speak respectfully about 1940-1944."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September für Parks, Allier-Ufer und Konzerte im Opernhaus. April und Oktober gut für Kuren ohne Massen. Vermeiden Sie Juli-August Wochenenden im Park de Napoléon-III, sehr voll. Winter: ruhig, viele Spa-Pakete.",
+      "hu": "Május-szeptember a parkokért, az Allier-partért és az operai koncertekért. Április és október jó kúrákhoz tömeg nélkül. Július-augusztusi hétvégéken a Park Napoléon-III nagyon zsúfolt. Tél: csendes, sok spa-csomag.",
+      "ro": "Mai-septembrie pentru parcuri, malul Allier și concertele de la operă. Aprilie și octombrie sunt bune pentru cure fără aglomerație. Evitați weekend-urile din iulie-august în Parc Napoléon-III. Iarna: liniștită, multe pachete spa.",
+      "en": "May-September for parks, the Allier riverbank and opera concerts. April and October are great for spa cures without crowds. Avoid July-August weekends in Parc Napoléon-III. Winter is quiet with many spa packages."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Hauptrisiko: Fahrrad-Stürze auf den langen Allier-Promenaden. In den Spa-Parks nachts wenig Beleuchtung. Bahnhofsbereich abends meiden, aber nicht gefährlich, nur ruhig.",
+      "hu": "Nagyon biztonságos. Fő kockázat: bringás esések a hosszú Allier-sétányokon. A spa-parkokban éjjel kevés a fény. A pályaudvar környékét este kerüld, nem veszélyes, csak elhagyatott.",
+      "ro": "Foarte sigur. Risc principal: căderi pe bicicletă pe lungile alei de pe Allier. În parcurile spa, iluminat slab noaptea. Zona gării seara: nu este periculoasă, doar pustie.",
+      "en": "Very safe. Main risk: bike falls on the long Allier promenades. Spa parks are dimly lit at night. The station area at night is deserted, not dangerous but empty."
+    },
+    "parking_real_time": ""
   }
 }

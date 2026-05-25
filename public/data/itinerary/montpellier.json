@@ -978,5 +978,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.montpellier-tourisme.fr/",
+    "events": "https://www.montpellier-tourisme.fr/agenda",
+    "city_card": "https://www.montpellier-tourisme.fr/citycard",
+    "museum_tickets": "",
+    "transit_official": "https://www.tam-voyages.com/",
+    "language_tips": {
+      "de": "In Montpellier wird Franzoesisch mit suedlichem Akzent gesprochen, weicher und melodischer als in Paris. Studenten und Touristen-Mitarbeiter koennen meist Englisch, in kleinen Bistros am Place de la Comedie hilft jedoch ein freundliches 'bonjour' und 'merci'. Das Okzitanische taucht auf Schildern auf, gesprochen wird es kaum noch.",
+      "hu": "Montpellier-ben deli akcentussal beszelt franciat hallasz, lagyabb es dallamosabb mint Parizsban. A diakok es a turista-helyek munkatarsai tudnak angolul, de a kis bisztrokban a Place de la Comedie korul a 'bonjour' es 'merci' aranyat er. Az okszitan nyelv tablakra meg felkerul, beszelni mar alig hasznaljak.",
+      "ro": "La Montpellier vei auzi franceza cu accent sudic, mai blanda si mai melodioasa decat la Paris. Studentii si angajatii din turism stiu engleza, dar in bistro-urile mici din jurul Place de la Comedie un 'bonjour' si 'merci' iti aduc zambete. Occitana mai apare pe placute, dar nu se mai vorbeste aproape deloc.",
+      "en": "Montpellier speaks French with a soft southern accent, more melodic than Parisian. Students and tourism staff handle English, but in small bistros around Place de la Comedie a friendly 'bonjour' and 'merci' open every door. Occitan still appears on street signs but is rarely spoken aloud."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: 22-28 Grad, lange Terrassenabende und das Mittelmeer 10 km entfernt. Juli und August sind heiss und touristisch ueberlaufen, dafuer Festival-Saison. Der Winter ist mild (12-14 Grad), perfekt fuer Altstadt-Bummel ohne Menge, aber die Strandsaison fehlt natuerlich.",
+      "hu": "Majus, junius es szeptember a legjobb: 22-28 fok, hosszu terraszestek es a tenger 10 km-re. Julius-augusztusban forrosag es turistadomping, cserebe fesztivalszezon. Tel enyhe (12-14 fok), tokeletes az obvarosi setakhoz tomeg nelkul, de a strandszezon termeszetesen kimarad.",
+      "ro": "Mai, iunie si septembrie sunt ideale: 22-28 grade, seri lungi pe terase si Marea Mediterana la 10 km. Iulie si august sunt fierbinti si aglomerate, in schimb plin de festivaluri. Iarna e blanda (12-14 grade), perfecta pentru plimbari prin centrul vechi fara aglomeratie, dar fara sezonul de plaja.",
+      "en": "May, June and September are ideal: 22-28°C, long terrace evenings and the Mediterranean just 10 km away. July-August are hot and tourist-heavy but full of festivals. Winter is mild (12-14°C), perfect for crowd-free old-town strolls though without the beach season."
+    },
+    "neighborhood_warnings": {
+      "de": "Place de la Comedie und Tram-Linie 1 sind Hotspots fuer Taschendiebe. Mosson und Petit-Bard im Westen abends meiden. Ecusson (Altstadt) tagsueber lebendig und sicher, ab Mitternacht im Gassengewirr Vorsicht und Wertsachen verstecken.",
+      "hu": "Place de la Comedie es az 1-es villamosvonal zsebtolvajok kedvenc terepe. Mosson es Petit-Bard nyugaton este nem ajanlott. Az Ecusson (obvaros) nappal eleven es biztonsagos, ejfel utan a sikator-rendszerben legy ovatos, ertekek zsebben.",
+      "ro": "Place de la Comedie si linia 1 de tramvai sunt zone preferate de hoti de buzunare. Mosson si Petit-Bard, in vest, sunt de evitat seara. Ecusson (centrul vechi) e viu si sigur ziua, dar dupa miezul noptii fii atent in labirintul de stradute si ascunde-ti valorile.",
+      "en": "Place de la Comedie and tram line 1 attract pickpockets. Avoid Mosson and Petit-Bard in the west after dark. The Ecusson old town is lively and safe by day, but in the maze of alleys past midnight stay alert and keep valuables hidden."
+    },
+    "parking_real_time": "https://www.tam-voyages.com/se-deplacer/en-voiture/parkings/"
   }
 }

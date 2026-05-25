@@ -1234,5 +1234,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.destination-angers.com/",
+    "events": "https://www.destination-angers.com/agenda/",
+    "city_card": "https://www.destination-angers.com/angers-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.irigo.fr/",
+    "language_tips": {
+      "de": "Angers spricht klares Loire-Franzoesisch ohne starken Akzent, sehr lehrbuchtauglich. Studenten und Tourismus-Personal sprechen oft Englisch, in Cafes und Boulangerien hilft 'bonjour' und 'merci'. Die Stadt gilt als sehr hoeflich und entspannt.",
+      "hu": "Angers tiszta Loire-vidéki franciat beszel, eros akcentus nelkul, kvazi tankonyvi. A diakok es a turizmusban dolgozok gyakran tudnak angolul, a kavezokban es peksegekben a 'bonjour' es 'merci' segit. A varos kifejezetten udvarias es laza.",
+      "ro": "Angers vorbeste franceza din Valea Loarei, clara, fara accent puternic, aproape de manual. Studentii si angajatii din turism stiu engleza, in cafenele si boulangerii 'bonjour' si 'merci' ajuta. Orasul e foarte politicos si relaxat.",
+      "en": "Angers speaks crisp Loire French with no strong accent — almost textbook clear. Students and tourism staff often handle English, while a friendly 'bonjour' and 'merci' open every cafe and bakery. The city has a polite, easy-going vibe."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September sind ideal: 18-25 Grad, Loire-Schloesser perfekt erreichbar, Festival 'Premiers Plans' im Januar. Juli-August warm aber selten zu heiss. Winter mild (4-9 Grad), Schloss-Apokalypse-Wandteppich auch in der Nebensaison frei zugaenglich.",
+      "hu": "Majustol szeptemberig a legjobb: 18-25 fok, a Loire-vidéki kastelyok elerhetok, januarban 'Premiers Plans' filmfesztival. Julius-augusztus meleg, de ritkan tul forrosan. Tel enyhe (4-9 fok), a kastely Apokalipszis-kárpitja melyszezonban is szabadon megtekintheto.",
+      "ro": "Mai pana in septembrie sunt ideale: 18-25 grade, castelele de pe Loara accesibile, festivalul 'Premiers Plans' in ianuarie. Iulie-august sunt calde, dar rar prea fierbinti. Iarna e blanda (4-9 grade), tapiseria Apocalipsei din castel e accesibila si in extrasezon.",
+      "en": "May to September are ideal: 18-25°C, Loire chateaux within reach, and the 'Premiers Plans' film festival in January. July-August are warm but rarely brutal. Winter is mild (4-9°C) and the castle's Apocalypse tapestry is easy to see off-season."
+    },
+    "neighborhood_warnings": {
+      "de": "Belle-Beille im Nordwesten und Roseraie im Sueden abends meiden. Innenstadt, Schlossviertel und La Doutre auch nachts sicher. Bahnhof Saint-Laud tagsueber lebhaft, nachts ruhig.",
+      "hu": "Belle-Beille eszaknyugaton es Roseraie delen este nem ajanlott. A belvaros, a kastely-negyed es La Doutre ejjel is biztonsagos. Saint-Laud allomas nappal eleven, ejjel csendes.",
+      "ro": "Belle-Beille, in nord-vest, si Roseraie, in sud, sunt de evitat seara. Centrul, cartierul castelului si La Doutre sunt sigure si noaptea. Gara Saint-Laud e animata ziua, linistita noaptea.",
+      "en": "Avoid Belle-Beille in the northwest and Roseraie in the south at night. The centre, castle district and La Doutre stay safe after dark. Saint-Laud station is busy by day, quiet at night."
+    },
+    "parking_real_time": ""
   }
 }

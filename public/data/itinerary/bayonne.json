@@ -1090,5 +1090,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.bayonne-tourisme.com/",
+    "events": "https://www.bayonne-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.txiktxak.fr/",
+    "language_tips": {
+      "de": "Bayonne ist baskisches Herz: Franzoesisch mit starkem Sued-Akzent, Baskisch auf Schildern und in Bistros. Spanisch hilft sehr (Spanien 30 km). Englisch in Hotels ok, sonst eher schwach. 'Kaixo' und 'milesker' (Baskisch fuer 'danke') werden geliebt.",
+      "hu": "Bayonne baszk sziv: francia eros deli akcentussal, baszk a tablakon es bisztrokban. A spanyol nagyon segit (Spanyolorszag 30 km). Szallodakban van angol, mashol gyengebb. A 'kaixo' es 'milesker' (baszk koszones) jol esik.",
+      "ro": "Bayonne e inima basca: franceza cu accent sudic puternic, basca pe placute si in bistro-uri. Spaniola ajuta mult (Spania la 30 km). Engleza merge la hoteluri, in alta parte mai slab. 'Kaixo' si 'milesker' (multumesc in basca) sunt iubite.",
+      "en": "Bayonne is the Basque heart: French with strong southern accent, Basque on signs and in bistros. Spanish helps a lot (Spain just 30 km). English works in hotels, weaker elsewhere. 'Kaixo' and 'milesker' (Basque thanks) earn affection."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (16-25 Grad), Fetes de Bayonne Anfang August (Frankreichs zweitgroesster Volksfest, weiss-rot gekleidet, riesig). Winter mild (8-13 Grad), Schinken-Saison und Schokoladenmuseum offen, kleinerer Tourismus.",
+      "hu": "Majus-szeptember a legjobb (16-25 fok), augusztus elejen Fetes de Bayonne (Franciaorszag masodik legnagyobb nepunnepe, feher-piros oltozet, ovrias). Tel enyhe (8-13 fok), sonkaszezon es csokoladmuzeum nyitva, kisebb turizmus.",
+      "ro": "Mai-septembrie sunt ideale (16-25 grade), Fetes de Bayonne la inceput de august (al doilea cel mai mare festival popular din Franta, costumatii alb-rosu, imens). Iarna e blanda (8-13 grade), sezonul de jambon si muzeul ciocolatei sunt deschise, mai putin turism.",
+      "en": "May-September are ideal (16-25°C), with Fetes de Bayonne in early August (France's second-biggest folk festival — white-and-red costumes, massive). Winter is mild (8-13°C), ham season and chocolate museum open, smaller crowds."
+    },
+    "neighborhood_warnings": {
+      "de": "Sainte-Croix und Polo-Beyris im Norden abends meiden. Grand Bayonne (Altstadt) und Petit Bayonne sicher und lebhaft. Bahnhof tagsueber okay, nachts ruhig. Waehrend Fetes de Bayonne (5 Tage) extreme Menschenmenge, Taschendiebe.",
+      "hu": "Sainte-Croix es Polo-Beyris eszakon este nem ajanlott. Grand Bayonne (obvaros) es Petit Bayonne biztonsagos es eleven. Az allomas nappal rendben, ejjel csendes. A Fetes de Bayonne (5 nap) alatt extrem tomeg, zsebtolvajok.",
+      "ro": "Sainte-Croix si Polo-Beyris, in nord, sunt de evitat seara. Grand Bayonne (centrul vechi) si Petit Bayonne sunt sigure si animate. Gara e ok ziua, linistita noaptea. In timpul Fetes de Bayonne (5 zile) e aglomeratie extrema, hoti de buzunare.",
+      "en": "Avoid Sainte-Croix and Polo-Beyris in the north after dark. Grand Bayonne (old town) and Petit Bayonne are safe and lively. Station fine by day, calm at night. During the 5-day Fetes de Bayonne expect massive crowds and pickpockets."
+    },
+    "parking_real_time": ""
   }
 }

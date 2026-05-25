@@ -1076,5 +1076,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.eze-tourisme.com/",
+    "events": "https://www.eze-tourisme.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.lignesdazur.com/",
+    "language_tips": {
+      "de": "Èze ist eines der meistbesuchten Doerfer der Côte d'Azur und sehr touristisch, Englisch, Italienisch und Deutsch sind in den Galerien und Restaurants ueblich. Im Parfumhaus Fragonard und Galimard wird mehrsprachig gefuehrt. Im Bergdorf selbst wenig Lokalbevoelkerung.",
+      "hu": "Èze a Côte d'Azur egyik leglatogatottabb faluja, nagyon turistas, az angol, olasz es nemet a galeriakban, ettermekben szokvanyos. A Fragonard es Galimard parfumhazakban tobb nyelven vezetnek. A hegyi faluban kevesen elnek.",
+      "ro": "Èze e printre cele mai vizitate sate de pe Coasta de Azur si foarte turistic, engleza, italiana si germana sunt comune in galerii si restaurante. La parfumeriile Fragonard si Galimard se ghideaza multilingv. In satul de munte traiesc putini localnici.",
+      "en": "Èze is one of the most visited villages on the French Riviera and very touristy — English, Italian and German are common in galleries and restaurants. The Fragonard and Galimard perfume houses offer multilingual tours. Few locals actually live in the hill village."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober sind ideal: angenehm, blumenduftend, Touristen ertraeglich. Juli-August von 11 bis 17 Uhr Massenandrang aus Kreuzfahrten und Bustouren, lieber frueh oder spaet. Im Winter sehr ruhig, einige Restaurants zu, aber leer und schoen.",
+      "hu": "Aprilis-junius es szeptember-oktober tokeletes: enyhe, viragok, viselheto tomeg. Julius-augusztus 11-17 ora kozott hajoutas es buszos tomeg, jobb korai vagy kesoi. Telen nagyon csendes, par etterem zarva, de ures es szep.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: placut, parfumat, turisti tolerabili. Iulie-august intre 11 si 17 e nebunie de la croaziere si autocare, mai bine dis-de-dimineata sau seara. Iarna e foarte linistit, unele restaurante inchise, dar gol si frumos.",
+      "en": "April-June and September-October are ideal: pleasant, fragrant, with bearable crowds. July-August between 11am and 5pm sees cruise-ship and coach-tour swarms — go early or late. Winter is very quiet with some restaurants closed, but empty and beautiful."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Strasse hinauf ist eng und kurvig, Parkplaetze knapp, lieber Bus 82 oder 112 von Nizza. Cours Sentier-Nietzsche von Èze-Village zum Meer ist 45 Min steil bergab, gute Schuhe Pflicht. Im Sommer extreme Hitze auf den Steintreppen.",
+      "hu": "A felvezeto ut keskeny, kanyargos, parkolas kevesz, jobb a 82-es vagy 112-es busz Niceuk-bol. A Nietzsche-osvenyen 45 perc meredek lefele, jo cipo kell. Nyaron a kovekes lepcson irtozatos a hoseg.",
+      "ro": "Drumul in sus e ingust si serpuit, parcari putine, mai bine cu autobuzul 82 sau 112 din Nisa. Pe poteca Nietzsche 45 min in jos abrupt, incaltari bune obligatorii. Vara, caldura extrema pe scarile de piatra.",
+      "en": "The road up is narrow and twisty, parking is scarce — take the 82 or 112 bus from Nice. The Nietzsche path down to the sea is a steep 45-minute descent, sturdy shoes essential. Summer heat on the stone steps is brutal."
+    },
+    "parking_real_time": ""
   }
 }

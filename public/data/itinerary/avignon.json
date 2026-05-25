@@ -981,5 +981,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://avignon-tourisme.com/",
+    "events": "https://avignon-tourisme.com/agenda/",
+    "city_card": "https://avignon-tourisme.com/avignon-city-pass/",
+    "museum_tickets": "https://avignon-tourisme.com/billetterie/",
+    "transit_official": "https://www.orizo.fr/",
+    "language_tips": {
+      "de": "In Avignon ist Französisch die Hauptsprache, aber dank des Theaterfestivals im Juli sprechen viele Caféinhaber und Hotelangestellte gutes Englisch. Lernen Sie 'la place de l'Horloge' korrekt auszusprechen, denn dort verabredet sich jeder. Ein freundliches 'Bonjour' beim Betreten der Boulangerien ist obligatorisch.",
+      "hu": "Avignonban a francia a fő nyelv, de a júliusi színházi fesztiválnak köszönhetően sok kávézótulajdonos és szállodai dolgozó beszél jól angolul. Tanuld meg helyesen kiejteni a 'place de l'Horloge' nevét, mert mindenki ott találkozik. A pékségekbe lépéskor mindig köszönj egy barátságos 'Bonjour'-ral.",
+      "ro": "În Avignon, franceza este principala limbă, dar datorită festivalului de teatru din iulie, mulți proprietari de cafenele și angajați de hotel vorbesc bine engleza. Învățați să pronunțați corect 'place de l'Horloge', pentru că acolo se întâlnește toată lumea. Salutul 'Bonjour' la intrarea în brutării este obligatoriu.",
+      "en": "French dominates in Avignon, but thanks to the July theatre festival, café owners and hotel staff often speak good English. Learn to pronounce 'la place de l'Horloge' properly - it's everyone's meeting spot. A friendly 'Bonjour' when entering boulangeries isn't optional, it's expected etiquette."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni bietet mildes Wetter und blühende Provence, ohne die Hitze des Sommers. Juli ist legendär für das Festival d'Avignon, aber Hotels sind teuer und ausgebucht. September und Oktober bringen Weinlese in der Region. Vermeiden Sie August, wenn die Mistral und Hitze die Stadt erdrücken können.",
+      "hu": "Április és június között enyhe időjárás és virágzó Provence vár, nyári hőség nélkül. Júliusban legendás az Avignoni Fesztivál, de a szállodák drágák és teltházasak. Szeptember és október meghozza a szüretet a régióban. Augusztusban kerüld a várost, mert a misztrál szél és a hőség nyomasztó lehet.",
+      "ro": "Aprilie până în iunie oferă vreme blândă și Provence-ul în floare, fără căldura verii. Iulie este legendar pentru Festivalul d'Avignon, dar hotelurile sunt scumpe și ocupate. Septembrie și octombrie aduc culesul viilor în regiune. Evitați august, când mistralul și căldura pot copleși orașul.",
+      "en": "April to June offers mild weather and a blooming Provence, before the summer heat hits. July is legendary for the Festival d'Avignon, but hotels are expensive and booked solid. September and October bring regional wine harvests. Avoid August, when the Mistral wind and heat can overwhelm the city."
+    },
+    "neighborhood_warnings": {
+      "de": "Innerhalb der Stadtmauern ist Avignon sicher, doch der Bahnhofsviertel um Avignon-Centre kann abends zwielichtig wirken. Achten Sie an der Pont Saint-Bénézet auf Taschendiebe in der Hauptsaison.",
+      "hu": "A városfalakon belül Avignon biztonságos, de a Avignon-Centre pályaudvar környéke este zavarosnak tűnhet. A Pont Saint-Bénézetnél figyelj a zsebtolvajokra a főszezonban.",
+      "ro": "În interiorul zidurilor cetății, Avignon este sigur, dar zona gării Avignon-Centre poate părea dubioasă seara. La Pont Saint-Bénézet, atenție la hoții de buzunare în plin sezon.",
+      "en": "Inside the city walls Avignon is safe, but the area around Avignon-Centre station can feel sketchy at night. Watch for pickpockets at Pont Saint-Bénézet during peak season."
+    },
+    "parking_real_time": "https://www.avignon-parkings.com/"
   }
 }

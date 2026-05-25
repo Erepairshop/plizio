@@ -1019,5 +1019,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
+    "tourism_office": "https://www.brest-metropole-tourisme.fr/en/",
+    "events": "https://www.brest-metropole-tourisme.fr/en/",
+    "city_card": "",
+    "museum_tickets": "https://www.oceanopolis.com/en",
+    "transit_official": "https://www.bibus.fr/",
+    "language_tips": {
+      "de": "Brest ist ein nuechterner, modern wieder aufgebauter Marinehafen am westlichsten Zipfel der Bretagne. Englisch klappt im Oceanopolis-Aquarium und in Studentenkneipen, im Hafen Recouvrance und auf dem Markt aber gehoert ein 'bonjour' und Geduld dazu.",
+      "hu": "Brest egy egyszeru, ujjaepitett modern haditengeresz-kikoto Bretagne legnyugatibb csucsan. Az angol megy az Oceanopolis akvariumban es egyetemi kocsmakban, de a Recouvrance kikotoben es a piacon egy 'bonjour' es turelm alapveto.",
+      "ro": "Brest e un port militar sobru, reconstruit modern, in cel mai vestic colt al Bretaniei. Engleza merge la acvariul Oceanopolis si in pub-uri studentesti, dar in portul Recouvrance si in piata, un 'bonjour' si rabdarea sunt obligatorii.",
+      "en": "Brest is a sober, modern-rebuilt naval port at Brittany's westernmost tip. English works at Oceanopolis aquarium and student bars, but at Recouvrance harbour and the market a 'bonjour' and patience are expected."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist ideal: 14-20 Grad, lange Tage und Ozean-Wanderungen. Alle vier Jahre (naechste 2028) findet die Fete Maritime Internationale statt, ein Highlight mit Segelschiffen aus aller Welt. Winter ist stuermisch und maritim-rauh.",
+      "hu": "Majus-szeptember a legjobb: 14-20 fok, hosszu napok es oceanparti turak. Negyevente (kovetkezo 2028) Fete Maritime Internationale, vilagveterán vitorlasok foljaratan. Telen viharos es nyers tengeri.",
+      "ro": "Mai-septembrie sunt ideale: 14-20 grade, zile lungi si drumetii pe coasta oceanului. La fiecare 4 ani (urmatoarea in 2028) are loc Fete Maritime Internationale, cu velim de epoca din toata lumea. Iarna e furtunoasa si dura maritim.",
+      "en": "May-September is ideal: 14-20°C, long days and ocean walks. Every four years (next in 2028) Fete Maritime Internationale gathers tall ships from around the world. Winter is stormy and maritime-rugged."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum und Recouvrance sind sicher, Bellevue und Pontanezen (aussere Stadtteile) sind nicht touristisch. Bahnhof und Hafenviertel abends ok aber wachsam. Atlantik-Wind kann brutal sein, immer eine Windjacke einpacken.",
+      "hu": "Kozpont es Recouvrance biztonsagos, Bellevue es Pontanezen (kulso kerulet) nem turista terulet. Palyaudvar es kikoto estere ok, de eberseg. Az atlanti szel brutalis lehet, mindig szelkabat veled.",
+      "ro": "Centrul si Recouvrance sunt sigure, Bellevue si Pontanezen (cartiere periferice) nu sunt zone turistice. Gara si zona portuara seara sunt ok, dar fii vigilent. Vantul Atlanticului poate fi brutal; ia mereu o jacheta de vant.",
+      "en": "Centre and Recouvrance are safe; Bellevue and Pontanezen (outer districts) aren't tourist areas. Station and harbour quarter are fine at night with care. Atlantic wind can be brutal — always pack a windbreaker."
+    },
+    "parking_real_time": ""
   }
 }

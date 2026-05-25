@@ -1049,5 +1049,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
+    "tourism_office": "https://www.belle-ile.com/",
+    "events": "https://www.belle-ile.com/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Belle-Ile-en-Mer ist Bretagne pur, viele Inselbewohner sprechen Franzoesisch mit Bretagne-Akzent. Englisch klappt im Hauptort Le Palais und in Hotels, aber im kleinen Fischerhafen Sauzon oder bei den Crepe-Standchen ist ein 'bonjour' Goldstandard.",
+      "hu": "Belle-Ile-en-Mer tiszta Bretagne, sok szigetlakó breton akcentussal beszel franciat. Az angol megy Le Palais foljaratan es a szallodakban, de a kis halaszkikoto Sauzonban es a creperie-standoknal egy 'bonjour' aranyat er.",
+      "ro": "Belle-Ile-en-Mer e Bretania pura, multi insulari vorbesc franceza cu accent breton. Engleza merge in capitala Le Palais si la hoteluri, dar in micul port pescaresc Sauzon sau la chioscurile de cleatite un 'bonjour' e standardul de aur.",
+      "en": "Belle-Ile-en-Mer is pure Brittany; many islanders speak French with a Breton accent. English works in the main port Le Palais and hotels, but at little Sauzon harbour or crepe stands a 'bonjour' is the gold standard."
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September sind perfekt: 18-23 Grad, ruhige Kuestenpfade GR340 und Faehren ohne Reservierungsstress. Juli und August sind voll mit Pariser Familien, Faehre 2 Wochen vorher buchen. Winter ist stuermisch und romantisch.",
+      "hu": "Junius es szeptember tokeletes: 18-23 fok, csendes partmenti turaut GR340 es kompoz nincs feszultseg. Julius-augusztus parizsi csaladokkal zsufolt, kompot 2 hetel előbb foglalj. Telen viharos es romantikus.",
+      "ro": "Iunie si septembrie sunt perfecte: 18-23 grade, poteca de coasta GR340 linistita si feriboturi fara stresul rezervarilor. Iulie-august sunt sufocate de familii pariziene; rezerva feribot cu 2 saptamani inainte. Iarna e furtunoasa si romantica.",
+      "en": "June and September are perfect: 18-23°C, quiet GR340 coastal path and ferries without booking stress. July and August are packed with Parisian families — book the ferry 2 weeks ahead. Winter is stormy and romantic."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, Hauptthema sind starke Atlantikstroemungen an der Côte Sauvage (Westseite), Schwimmen nur an bewachten Suedstraenden. Mietfahrraeder im August oft alle weg, frueh buchen.",
+      "hu": "Nagyon biztonsagos, fo veszely a Côte Sauvage (nyugati oldal) erős atlanti arama, csak felugyelt deli strandokon uszorat. Berbiciklik augusztusban elfogynak, korai foglalas.",
+      "ro": "Foarte sigur, atentie la curentii puternici de pe Côte Sauvage (latura vestica), inoata doar pe plajele sudice supravegheate. Bicicletele de inchiriat se epuizeaza in august; rezerva devreme.",
+      "en": "Very safe; main concern is strong Atlantic currents on the Côte Sauvage (west side) — swim only at lifeguarded southern beaches. Hire bikes sell out in August, book early."
+    },
+    "parking_real_time": ""
   }
 }

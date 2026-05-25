@@ -1097,5 +1097,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.chenonceau.com/",
+    "events": "https://www.chenonceau.com/en/",
+    "city_card": "",
+    "museum_tickets": "https://www.chenonceau.com/en/preparing-for-your-visit/",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Chenonceaux ist ein winziges Loire-Dorf, in dem ein freundliches 'bonjour' beim Eintreten in Boulangerie oder Cafe Pflicht ist. Im Schloss klappt Englisch perfekt mit Audioguide in vielen Sprachen, im Dorf selbst hilft ein paar Brocken Franzoesisch.",
+      "hu": "Chenonceaux egy aprocska Loire menti falu, ahol a 'bonjour' a pekseg vagy kavezo ajtajaban kotelezo udvariassag. A kastelyban az angol audioguide tobb nyelven megy, de a faluban par francia szo nagyon segit.",
+      "ro": "Chenonceaux e un satuc pe Loara unde un 'bonjour' la intrarea in brutarie sau cafenea e o regula nescrisa de politete. La castel engleza merge perfect cu audioghid in mai multe limbi, dar in sat cateva cuvinte de franceza ajuta mult.",
+      "en": "Chenonceaux is a tiny Loire village where saying 'bonjour' when entering the bakery or cafe is essential courtesy. At the chateau English works perfectly with multilingual audio guides, but in the village a few French phrases go a long way."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September sind perfekt: bluehende Gaerten, milde 18-24 Grad und wenige Reisebusse vormittags. Juli und August bringen Hitze und Massen, kommen Sie vor 10 Uhr. Im Winter sind die Innenraeume ruhig, Gaerten aber kahl.",
+      "hu": "Aprilistol juniusig es szeptemberben tokeletes: viragzo kertek, kellemes 18-24 fok es delelott meg kevesebb busz. Julius-augusztusban hoseg es tomeg, erkezz 10 ora elott. Telen a belso termek nyugodtak, de a kertek kopaszok.",
+      "ro": "Aprilie-iunie si septembrie sunt perfecte: gradini infloritoare, 18-24 grade placute si putine autocare dimineata. Iulie-august aduc caldura si aglomeratie, vino inainte de ora 10. Iarna interioarele sunt linistite, dar gradinile golase.",
+      "en": "April through June and September are perfect: blooming gardens, mild 18-24°C and few coaches before 10am. July and August bring heat and crowds — arrive before 10am. In winter the interiors are quiet but the gardens are bare."
+    },
+    "neighborhood_warnings": {
+      "de": "Das Dorf ist sehr sicher, nur das Schlossparkhaus ist mittags voll, dann lohnt sich das kostenlose Dorfparken. Verkaeufer im Loire-Tal sind serioes, achten Sie nur auf Touristenfallen-Restaurants direkt am Eingang.",
+      "hu": "A falu nagyon biztonsagos, csak a kastely parkoloja telik meg delre, ilyenkor erdemes a faluban ingyen parkolni. Az arusok komolyak, csak a kastely bejaratanal levo turistacsapda ettermeket kerulve.",
+      "ro": "Satul e foarte sigur, doar parcarea castelului se umple la pranz, atunci e mai bine sa parchezi gratuit in sat. Vanzatorii din Valea Loarei sunt seriosi, evita doar restaurantele-capcana de la intrare.",
+      "en": "The village is very safe; only the chateau car park fills by midday, so use the free village parking. Loire Valley vendors are honest, just avoid the tourist-trap restaurants right at the entrance."
+    },
+    "parking_real_time": ""
   }
 }

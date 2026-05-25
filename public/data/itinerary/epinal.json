@@ -1,0 +1,1017 @@
+{
+  "city_id": "epinal",
+  "anchor": {
+    "name": "Place des Vosges",
+    "coords": [
+      6.4517,
+      48.1733
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place des Vosges",
+          "coords": [
+            6.4515,
+            48.1732
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Arkaden rund um den Platz.",
+            "hu": "Csodáld meg a teret övező reneszánsz árkádokat.",
+            "ro": "Admirați arcadele renascentiste din jurul pieței.",
+            "en": "Admire the Renaissance arcades surrounding the square."
+          }
+        },
+        {
+          "name": "Basilique Saint-Maurice",
+          "coords": [
+            6.4508,
+            48.1741
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf das gotische Portal und die Fensterrosen.",
+            "hu": "Figyeld meg a gótikus portált és a rózsaablakokat.",
+            "ro": "Observați portalul gotic și rozetele.",
+            "en": "Look for the Gothic portal and the rose windows."
+          }
+        },
+        {
+          "name": "Parc du Château",
+          "coords": [
+            6.4552,
+            48.1755
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von den Ruinen.",
+            "hu": "Élvezd a városra nyíló panorámát a romoktól.",
+            "ro": "Bucurați-vă de panorama orașului de la ruine.",
+            "en": "Enjoy the panoramic view over the city from the ruins."
+          }
+        },
+        {
+          "name": "Quai des Bons Enfants",
+          "coords": [
+            6.4475,
+            48.1725
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen am Ufer der Mosel.",
+            "hu": "Tökéletes hely egy ebédhez a Moselle partján.",
+            "ro": "Locul perfect pentru prânz pe malul râului Moselle.",
+            "en": "Perfect spot for lunch along the banks of the Moselle."
+          }
+        },
+        {
+          "name": "MUDAAC - Museum",
+          "coords": [
+            6.4445,
+            48.1718
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Werke von Georges de La Tour.",
+            "hu": "Ne hagyd ki Georges de La Tour műveit.",
+            "ro": "Nu ratați lucrările lui Georges de La Tour.",
+            "en": "Do not miss the works by Georges de La Tour."
+          }
+        },
+        {
+          "name": "Roseraie d'Épinal",
+          "coords": [
+            6.4422,
+            48.1695
+          ],
+          "category": "park",
+          "arrive_at": "16:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie inmitten von über 500 Rosensorten.",
+            "hu": "Pihenj meg a több mint 500 rózsafajta között.",
+            "ro": "Relaxați-vă printre cele peste 500 de soiuri de trandafiri.",
+            "en": "Relax among over 500 varieties of roses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt im Herzen der Altstadt auf der Place des Vosges, bevor Sie die spirituelle Ruhe der Basilika Saint-Maurice genießen. Zum Mittag erklimmen Sie den Schlosshügel für eine historische Zeitreise. Nach einer Stärkung an der Mosel tauchen Sie im MUDAAC in die Kunstwelt ein. Der Tag endet friedlich im duftenden Rosengarten, wo Sie den Charme der Vogesen spüren.",
+        "hu": "A délelőtt az óváros szívében, a Place des Vosges-on indul, majd a Saint-Maurice-bazilika csendjét élvezheted. Dél körül mássz fel a várhegyre egy kis történelmi időutazásért. A Moselle-parti ebéd után merülj el a művészetben a MUDAAC falai között. A nap békésen zárul az illatos rózsakertben, ahol igazán átérezheted a Vogézek hangulatát.",
+        "ro": "Dimineața începe în inima orașului vechi, în Place des Vosges, înainte de a te bucura de liniștea spirituală a Basilicii Saint-Maurice. Spre prânz, urcă pe dealul castelului pentru o călătorie istorică. După o masă pe malul râului Moselle, scufundă-te în artă la MUDAAC. Ziua se încheie pașnic în grădina de trandafiri parfumată, unde poți simți cu adevărat farmecul regiunii Vosges.",
+        "en": "The morning starts in the heart of the old town at Place des Vosges, followed by the spiritual quiet of Saint-Maurice Basilica. Around midday, climb the castle hill for a historic journey. After a lunch by the Moselle, immerse yourself in art at MUDAAC. The day ends peacefully in the fragrant rose garden, where you can truly feel the charm of the Vosges region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Mouton Blanc",
+            "tip": "Probieren Sie die klassische Quiche Lorraine."
+          },
+          {
+            "name": "Mirabellen-Tarte",
+            "tip": "Eine lokale Spezialität aus Lothringen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Mouton Blanc",
+            "tip": "Kóstold meg a klasszikus Quiche Lorraine-t."
+          },
+          {
+            "name": "Mirabelle szilvás lepény",
+            "tip": "Lotaringia igazi helyi specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Mouton Blanc",
+            "tip": "Încercați clasicul Quiche Lorraine."
+          },
+          {
+            "name": "Tartă cu prune Mirabelle",
+            "tip": "O specialitate locală autentică din Lorena."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Mouton Blanc",
+            "tip": "Try the classic Quiche Lorraine."
+          },
+          {
+            "name": "Mirabelle Plum Tart",
+            "tip": "A true local specialty of Lorraine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Château-Ruinen",
+            "tip": "Ruhiger Spot mit Blick auf das Tal.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Roseraie",
+            "tip": "Ein duftender Rückzugsort.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várromok",
+            "tip": "Csendes hely kilátással a völgyre.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Rózsakert",
+            "tip": "Illatos menedék a városban.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Castelului",
+            "tip": "Loc liniștit cu vedere spre vale.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Grădina de trandafiri",
+            "tip": "Un refugiu parfumat în oraș.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Ruins",
+            "tip": "Quiet spot with valley views.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Rose Garden",
+            "tip": "A fragrant retreat in the city.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Imagerie d'Épinal Shop",
+            "tip": "Berühmte historische Farbdrucke."
+          },
+          {
+            "name": "Marché Couvert",
+            "tip": "Frische regionale Produkte aus den Vogesen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Imagerie d'Épinal bolt",
+            "tip": "Híres történelmi színes nyomatok."
+          },
+          {
+            "name": "Fedett piac",
+            "tip": "Friss regionális termékek a Vogézekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Imagerie d'Épinal",
+            "tip": "Celebrele imprimeuri colorate istorice."
+          },
+          {
+            "name": "Piața acoperită",
+            "tip": "Produse regionale proaspete din Vosges."
+          }
+        ],
+        "en": [
+          {
+            "name": "Imagerie d'Épinal Shop",
+            "tip": "Famous historic color prints."
+          },
+          {
+            "name": "Covered Market",
+            "tip": "Fresh regional products from the Vosges."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Stadt ist sehr fußgängerfreundlich.",
+          "Besuchen Sie das Schloss am frühen Morgen für das beste Licht.",
+          "Die Imagerie liegt etwas abseits, planen Sie Zeit ein.",
+          "Die Moselbrücken bieten tolle Fotomotive."
+        ],
+        "hu": [
+          "A város nagyon gyalogosbarát.",
+          "Látogass el a várhoz kora reggel a legjobb fényekért.",
+          "Az Imagerie kicsit kiesik, számolj extra idővel.",
+          "A Moselle hídjai kiváló fotótémát szolgáltatnak."
+        ],
+        "ro": [
+          "Orașul este foarte prietenos cu pietonii.",
+          "Vizitați castelul dimineața devreme pentru cea mai bună lumină.",
+          "Imagerie este puțin mai departe, planificați-vă timpul.",
+          "Podurile peste Moselle oferă locuri excelente pentru fotografii."
+        ],
+        "en": [
+          "The city is very pedestrian-friendly.",
+          "Visit the castle early in the morning for the best light.",
+          "The Imagerie is a bit further out, plan your time accordingly.",
+          "The bridges over the Moselle offer great photo opportunities."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Port d'Épinal",
+          "coords": [
+            6.4435,
+            48.1755
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt am Kanal mit Blick auf die Boote.",
+            "hu": "Kezdőpont a csatornánál, kilátással a hajókra.",
+            "ro": "Punct de pornire la canal, cu vedere la bărci.",
+            "en": "Starting point by the canal with boat views."
+          }
+        },
+        {
+          "name": "Imagerie d'Épinal",
+          "coords": [
+            6.4585,
+            48.1822
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Werkstätten der berühmten Bilder.",
+            "hu": "Fedezd fel a híres nyomatok műhelyeit.",
+            "ro": "Explorați atelierele celebrelor stampe.",
+            "en": "Explore the workshops of the famous prints."
+          }
+        },
+        {
+          "name": "Planétarium d'Épinal",
+          "coords": [
+            6.4782,
+            48.1885
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Eine Reise zu den Sternen am Stadtrand.",
+            "hu": "Egy utazás a csillagok közé a város szélén.",
+            "ro": "O călătorie printre stele la marginea orașului.",
+            "en": "A journey to the stars on the edge of town."
+          }
+        },
+        {
+          "name": "Parc de l'Imagerie",
+          "coords": [
+            6.4595,
+            48.1815
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ideal für eine Picknickpause am Fluss.",
+            "hu": "Ideális egy piknikszünetre a folyóparton.",
+            "ro": "Ideal pentru o pauză de picnic pe malul râului.",
+            "en": "Ideal for a picnic break by the river."
+          }
+        },
+        {
+          "name": "Centre Ville / Moselle",
+          "coords": [
+            6.4485,
+            48.1738
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss in einem Café am Wasser.",
+            "hu": "Pihentető lezárás egy vízparti kávézóban.",
+            "ro": "Final relaxat la o cafenea de pe malul apei.",
+            "en": "Relaxing finish at a waterside cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Per Rad erkunden Sie die grüne Lunge der Stadt entlang des Kanals. Nach dem Start am Hafen besuchen Sie die weltberühmte Imagerie und reisen anschließend im Planetarium ins Weltall. Der Nachmittag gehört der Erholung im Park an der Mosel, bevor Sie zurück ins Zentrum radeln und den Tag in der Altstadt ausklingen lassen.",
+        "hu": "Kerékpárral a város zöld tüdejét fedezheted fel a csatorna mentén. A kikötői start után látogasd meg a világhírű Imagerie-t, majd utazz a világűrbe a Planetáriumban. A délután a pihenésé a Moselle-parti parkban, mielőtt visszakerekeznél a centrumba, hogy az óvárosban zárd a napot.",
+        "ro": "Cu bicicleta vei explora plămânul verde al orașului de-a lungul canalului. După pornirea din port, vizitează faimoasa Imagerie, apoi călătorește în spațiu la Planetariu. După-amiaza este dedicată relaxării în parcul de pe malul râului Moselle, înainte de a pedala înapoi spre centru pentru a încheia ziua în orașul vechi.",
+        "en": "By bike, you will explore the city's green lung along the canal. After starting at the port, visit the world-famous Imagerie, then travel to space at the Planetarium. The afternoon is dedicated to relaxing in the park by the Moselle, before cycling back to the center to end the day in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Artisanale",
+            "tip": "Holen Sie sich frisches Baguette für das Picknick."
+          },
+          {
+            "name": "Crème de Mirabelle",
+            "tip": "Süßer Likör aus lokalen Früchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Artisanale",
+            "tip": "Vegyél friss bagettet a piknikhez."
+          },
+          {
+            "name": "Crème de Mirabelle",
+            "tip": "Édes likőr helyi gyümölcsökből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Artisanale",
+            "tip": "Luați baghetă proaspătă pentru picnic."
+          },
+          {
+            "name": "Crème de Mirabelle",
+            "tip": "Lichior dulce din fructe locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Artisanale",
+            "tip": "Pick up fresh baguette for the picnic."
+          },
+          {
+            "name": "Crème de Mirabelle",
+            "tip": "Sweet liqueur made from local fruits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal de l'Est Ufer",
+            "tip": "Ruhiger Radweg fernab der Autos.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Parc de l'Imagerie",
+            "tip": "Schattige Plätze unter alten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal de l'Est part",
+            "tip": "Csendes kerékpárút távol az autóktól.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Parc de l'Imagerie",
+            "tip": "Árnyas helyek öreg fák alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Canal de l'Est",
+            "tip": "Pistă de biciclete liniștită, departe de mașini.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Parc de l'Imagerie",
+            "tip": "Locuri umbrite sub copaci bătrâni.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal de l'Est banks",
+            "tip": "Quiet cycle path away from cars.",
+            "emoji": "🚴"
+          },
+          {
+            "name": "Parc de l'Imagerie",
+            "tip": "Shady spots under old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Keksbäckerei",
+            "tip": "Leckere Vosges-Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kekszbolt",
+            "tip": "Finom vogézi édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie locală",
+            "tip": "Dulciuri delicioase din Vosges."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Biscuit Shop",
+            "tip": "Tasty Vosges sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege am Kanal für eine entspannte Fahrt.",
+          "Ein Helm ist auf den Landstraßen empfohlen.",
+          "Leihen Sie ein E-Bike für die Hügel zum Planetarium.",
+          "Achten Sie auf Fußgänger in der Innenstadt."
+        ],
+        "hu": [
+          "Használd a csatorna menti utakat a nyugodt tekeréshez.",
+          "A város szélén javasolt a bukósisak.",
+          "Bérelj e-bike-ot a Planetáriumhoz vezető emelkedőkhöz.",
+          "Figyelj a gyalogosokra a belvárosban."
+        ],
+        "ro": [
+          "Folosiți pistele de pe malul canalului pentru o plimbare relaxată.",
+          "Cască este recomandată pe drumurile de la marginea orașului.",
+          "Închiriați o bicicletă electrică pentru dealurile spre Planetariu.",
+          "Atenție la pietoni în centrul orașului."
+        ],
+        "en": [
+          "Use the canal-side paths for a relaxed ride.",
+          "A helmet is recommended on the outskirts.",
+          "Rent an e-bike for the hills leading to the Planetarium.",
+          "Watch out for pedestrians in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Imagerie d'Épinal",
+          "coords": [
+            6.4585,
+            48.1822
+          ],
+          "category": "museum",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze direkt vor dem Museum.",
+            "hu": "Ingyenes parkolás közvetlenül a múzeum előtt.",
+            "ro": "Parcare gratuită chiar în fața muzeului.",
+            "en": "Free parking right in front of the museum."
+          }
+        },
+        {
+          "name": "Fort d'Uxegney",
+          "coords": [
+            6.3885,
+            48.1985
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein perfekt erhaltenes Fort aus dem Ersten Weltkrieg.",
+            "hu": "Tökéletesen megőrzött erőd az I. világháborúból.",
+            "ro": "Un fort perfect conservat din Primul Război Mondial.",
+            "en": "A perfectly preserved fort from World War I."
+          }
+        },
+        {
+          "name": "Lac de Bouzey",
+          "coords": [
+            6.3385,
+            48.1655
+          ],
+          "category": "lake",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der Strandabschnitt ist ideal für eine Badepause.",
+            "hu": "A strand rész ideális egy fürdőzésre.",
+            "ro": "Zona de plajă este ideală pentru o baie.",
+            "en": "The beach area is ideal for a swimming break."
+          }
+        },
+        {
+          "name": "Saut le Cerf",
+          "coords": [
+            6.4755,
+            48.1855
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Ein schöner Aussichtspunkt und Naturgebiet.",
+            "hu": "Szép kilátópont és természetvédelmi terület.",
+            "ro": "Un punct de belvedere frumos și zonă naturală.",
+            "en": "A beautiful viewpoint and nature area."
+          }
+        },
+        {
+          "name": "Épinal Centre",
+          "coords": [
+            6.4517,
+            48.1733
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkhaus Saint-Nicolas ist zentral gelegen.",
+            "hu": "A Saint-Nicolas parkolóház központi helyen van.",
+            "ro": "Parcarea Saint-Nicolas este situată central.",
+            "en": "Saint-Nicolas parking garage is centrally located."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights rund um Épinal. Nach dem Besuch der Imagerie fahren Sie zum beeindruckenden Fort Uxegney. Den Mittag verbringen Sie am idyllischen Lac de Bouzey, bevor Sie über den Aussichtspunkt Saut le Cerf zurückkehren. Der Tag endet mit einem entspannten Bummel durch die beleuchtete Innenstadt.",
+        "hu": "Autóval Épinal környékének fénypontjait fedezheted fel. Az Imagerie látogatása után irány a lenyűgöző Fort Uxegney erőd. A delet az idilli Bouzey-tónál töltheted, majd a Saut le Cerf kilátóponton keresztül térsz vissza. A napot egy kellemes sétával zárhatod a kivilágított belvárosban.",
+        "ro": "Cu mașina vei descoperi atracțiile din jurul orașului Épinal. După vizita la Imagerie, mergi spre impresionantul Fort Uxegney. Prânzul îl poți petrece la idilicul Lac de Bouzey, înainte de a reveni prin punctul de belvedere Saut le Cerf. Ziua se încheie cu o plimbare relaxată prin centrul orașului luminat.",
+        "en": "By car, you will discover the highlights around Épinal. After visiting the Imagerie, head to the impressive Fort Uxegney. Spend midday at the idyllic Lac de Bouzey, then return via the Saut le Cerf viewpoint. The day ends with a relaxed stroll through the illuminated city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Essen mit direktem Blick auf das Wasser."
+          },
+          {
+            "name": "Munster Käse",
+            "tip": "Kräftiger Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Ebéd közvetlen kilátással a tóra."
+          },
+          {
+            "name": "Munster sajt",
+            "tip": "Erős ízű sajt a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Masă cu vedere directă la apă."
+          },
+          {
+            "name": "Brânză Munster",
+            "tip": "O brânză cu aromă puternică din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Dining with a direct view of the water."
+          },
+          {
+            "name": "Munster Cheese",
+            "tip": "Strong regional cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de Bouzey",
+            "tip": "Ruhige Ecken im Wald am See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouzey-tó",
+            "tip": "Csendes zugok az erdőben a tóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Bouzey",
+            "tip": "Colțuri liniștite în pădurea de lângă lac.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Bouzey",
+            "tip": "Quiet corners in the forest by the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vosges-Markt",
+            "tip": "Holen Sie sich echten Vogesen-Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vogézi piac",
+            "tip": "Vegyél igazi vogézi mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Vosges",
+            "tip": "Cumpărați miere autentică din Vosges."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vosges Market",
+            "tip": "Get some authentic Vosges honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am See ist im Sommer kostenpflichtig.",
+          "Die Straßen zum Fort sind schmal, aber gut befahrbar.",
+          "Nutzen Sie die App 'Parking Épinal' für freie Plätze.",
+          "Tanken Sie im Stadtzentrum, am See gibt es kaum Stationen."
+        ],
+        "hu": [
+          "A tóparti parkolás nyáron fizetős lehet.",
+          "Az erődhöz vezető utak szűkek, de jól járhatóak.",
+          "Használd a 'Parking Épinal' appot a szabad helyekhez.",
+          "Tankolj a belvárosban, a tónál alig van kút."
+        ],
+        "ro": [
+          "Parcarea la lac poate fi cu plată în timpul verii.",
+          "Drumurile spre fort sunt înguste, dar practicabile.",
+          "Folosiți aplicația 'Parking Épinal' pentru locuri libere.",
+          "Alimentați în centrul orașului, la lac sunt puține stații."
+        ],
+        "en": [
+          "Parking at the lake may be paid in summer.",
+          "The roads to the fort are narrow but manageable.",
+          "Use the 'Parking Épinal' app for available spaces.",
+          "Refuel in the city center; there are few stations at the lake."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare d'Épinal",
+          "coords": [
+            6.4425,
+            48.1785
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": "MUDAAC",
+          "coords": [
+            6.4445,
+            48.1718
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linie 1 hält direkt vor dem Eingang.",
+            "hu": "Az 1-es busz közvetlenül a bejáratnál áll meg.",
+            "ro": "Linia 1 oprește chiar în fața intrării.",
+            "en": "Line 1 stops right in front of the entrance."
+          }
+        },
+        {
+          "name": "Basilique / Centre",
+          "coords": [
+            6.4508,
+            48.1741
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg durch die Einkaufsstraßen.",
+            "hu": "Rövid séta a bevásárlóutcákon keresztül.",
+            "ro": "Scurtă plimbare prin străzile comerciale.",
+            "en": "Short walk through the shopping streets."
+          }
+        },
+        {
+          "name": "Imagerie d'Épinal",
+          "coords": [
+            6.4585,
+            48.1822
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle zum Industriegebiet.",
+            "hu": "Használd a transzferbuszt az ipari negyedbe.",
+            "ro": "Folosiți autobuzul de transfer către zona industrială.",
+            "en": "Use the shuttle to the industrial area."
+          }
+        },
+        {
+          "name": "Parc du Château",
+          "coords": [
+            6.4552,
+            48.1755
+          ],
+          "category": "park",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vom Schlossberg zum Bahnhof sind es nur 15 Min.",
+            "hu": "A várhegytől az állomás csak 15 perc.",
+            "ro": "De la dealul castelului la gară sunt doar 15 minute.",
+            "en": "From the castle hill to the station is only 15 mins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Imagine-Busnetz erreichen Sie alle wichtigen Sehenswürdigkeiten bequem. Starten Sie am Bahnhof, besuchen Sie das MUDAAC und die Basilika im Zentrum. Danach geht es zur berühmten Imagerie, bevor Sie den Nachmittag im Schlosspark verbringen. Das effiziente Bussystem macht das Umsteigen einfach und spart Zeit beim Erkunden.",
+        "hu": "Az Imagine buszhálózattal kényelmesen elérheted az összes fontos látnivalót. Kezdj az állomáson, látogasd meg a MUDAAC-ot és a bazilikát. Ezután irány a híres Imagerie, majd töltsd a délutánt a várparkban. A hatékony buszrendszer egyszerűvé teszi az átszállást és időt spórol a felfedezéshez.",
+        "ro": "Cu rețeaua de autobuze Imagine poți ajunge confortabil la toate atracțiile importante. Începe de la gară, vizitează MUDAAC și basilica din centru. Apoi mergi la celebra Imagerie, înainte de a petrece după-amiaza în parcul castelului. Sistemul de autobuze eficient face transferul ușor și economisește timp.",
+        "en": "With the Imagine bus network, you can comfortably reach all major sights. Start at the station, visit MUDAAC and the basilica. Then head to the famous Imagerie, before spending the afternoon in the castle park. The efficient bus system makes transfers easy and saves time for exploring."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Patisserie Fischer",
+            "tip": "Probieren Sie die Schokoladenspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patisserie Fischer",
+            "tip": "Kóstold meg a csokoládékülönlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patisserie Fischer",
+            "tip": "Încercați specialitățile de ciocolată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Patisserie Fischer",
+            "tip": "Try the chocolate specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Basilika Innenraum",
+            "tip": "Absolute Stille und kühle Luft.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bazilika belső",
+            "tip": "Abszolút csend és hűvös levegő.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Basilicii",
+            "tip": "Liniște absolută și aer răcoros.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilica Interior",
+            "tip": "Absolute silence and cool air.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place des Vosges Boutiquen",
+            "tip": "Lokale Kunst und Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place des Vosges butikok",
+            "tip": "Helyi művészet és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticurile din Place des Vosges",
+            "tip": "Artă și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place des Vosges Boutiques",
+            "tip": "Local art and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte beim Fahrer.",
+          "Die Busse fahren am Wochenende seltener.",
+          "Nutzen Sie die App für Echtzeit-Abfahrten.",
+          "Die Haltestelle 'Place des Vosges' ist ideal für den Stadtkern."
+        ],
+        "hu": [
+          "Vegyél napijegyet a sofőrnél.",
+          "A buszok hétvégén ritkábban járnak.",
+          "Használd az appot a valós idejű indulásokhoz.",
+          "A 'Place des Vosges' megálló ideális a városközponthoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi de la șofer.",
+          "Autobuzele circulă mai rar în weekend.",
+          "Folosiți aplicația pentru plecări în timp real.",
+          "Stația 'Place des Vosges' este ideală pentru centrul orașului."
+        ],
+        "en": [
+          "Buy a day pass from the driver.",
+          "Buses run less frequently on weekends.",
+          "Use the app for real-time departures.",
+          "The 'Place des Vosges' stop is ideal for the city center."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-epinal.com/",
+    "events": "https://www.tourisme-epinal.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Épinal ist Heimat der berühmten 'Images d'Épinal' (Volksgrafik). Französisch dominiert, Englisch im Tourismusbüro vorhanden, Deutsch nur teilweise. Lothringisch-Vogesisch ist fast ausgestorben. 'Quétsch' (Mirabelle-Pflaume) im Markt nachfragen.",
+      "hu": "Épinal a híres 'Images d'Épinal' (népi grafika) otthona. Domináns a francia, az angol megy a turistairodában, a német csak részben. A lotaringiai-vogézi dialektus szinte kihalt. Piacon kérdezz rá a 'Quétsch' (mirabella szilva) gyümölcsre.",
+      "ro": "Épinal este patria celebrelor 'Images d'Épinal'. Franceza domină, engleza este la biroul de turism, germana doar parțial. Dialectul loren-vosgian este aproape dispărut. La piață, întrebați despre 'Quétsch' (prună mirabelă).",
+      "en": "Épinal is home to the famous 'Images d'Épinal' folk prints. French dominates, English at the tourist office, German only partially. The Lorraine-Vosges dialect is nearly extinct. Ask about 'Quétsch' (mirabelle plum) at markets."
+    },
+    "best_time_to_visit": {
+      "de": "Juli-August für Festival 'Floréal Musical' und Outdoor-Aktivitäten in den Vogesen. Mai-Juni für blühende Wälder. Oktober für Vogesen-Goldherbst. Vermeiden Sie Januar-Februar, sehr kalt und Wanderwege oft vereist.",
+      "hu": "Július-augusztus a 'Floréal Musical' fesztiválért és a vogézi szabadtéri aktivitásokért. Május-június a virágzó erdőkért. Október a vogézi aranyősszért. Január-február kerülendő, nagyon hideg, az ösvények jegesek.",
+      "ro": "Iulie-august pentru festivalul 'Floréal Musical' și activități outdoor în Vosgi. Mai-iunie pentru pădurile înflorite. Octombrie pentru aurul toamnei. Evitați ianuarie-februarie, foarte frig, poteci înghețate.",
+      "en": "July-August for the 'Floréal Musical' festival and Vosges outdoor activities. May-June for forests in bloom. October for the Vosges in golden autumn. Avoid January-February, very cold with icy trails."
+    },
+    "neighborhood_warnings": {
+      "de": "Sicher und ruhig. Beim Wandern in den Vogesen Wetter und Karte beachten, Wege schlecht markiert. Achtung an der Mosel nach starkem Regen, Hochwassergefahr im Frühling.",
+      "hu": "Biztonságos és csendes. A Vogézekben túrázásnál figyelj az időjárásra és a térképre, az ösvények rosszul jelöltek. Tavasszal a Mosel árvíz-veszélyes erős eső után.",
+      "ro": "Sigur și liniștit. La drumeții în Vosgi, atenție la vreme și hartă, marcaje slabe. Primăvara, Mosela poate inunda după ploi mari.",
+      "en": "Safe and quiet. When hiking the Vosges, check weather and a map, trails are poorly marked. Watch the Moselle for spring floods after heavy rain."
+    },
+    "parking_real_time": ""
+  }
+}

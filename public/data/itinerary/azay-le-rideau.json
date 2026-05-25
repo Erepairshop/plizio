@@ -1039,5 +1039,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.azay-chinon-valdeloire.com/",
+    "events": "https://www.azay-chinon-valdeloire.com/en/",
+    "city_card": "",
+    "museum_tickets": "https://www.azay-le-rideau.fr/en/",
+    "transit_official": "https://www.remi-centrevaldeloire.fr/",
+    "language_tips": {
+      "de": "Azay-le-Rideau ist eine kleine Loire-Stadt, in der Englisch im Schloss und in groesseren Hotels selbstverstaendlich ist, in den Boulangerien und Bistros am Marktplatz aber ein 'bonjour madame/monsieur' zum guten Ton gehoert.",
+      "hu": "Azay-le-Rideau egy kis Loire menti varos, ahol a kastelyban es nagyobb szallodakban az angol termeszetes, a piacteren a pekseg es a bisztrok ajtajaban viszont egy 'bonjour madame/monsieur' alapveto udvariassag.",
+      "ro": "Azay-le-Rideau e un orasel pe Loara unde engleza merge la castel si in hoteluri mai mari, dar in brutariile si bistrourile din piata centrala un 'bonjour madame/monsieur' face parte din bunele maniere.",
+      "en": "Azay-le-Rideau is a small Loire town where English works at the chateau and bigger hotels, but in the bakeries and bistros around the market square a 'bonjour madame/monsieur' is basic etiquette."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Juli und September sind ideal: das Schloss spiegelt sich im Indre, die Loire-Gaerten bluehen, Temperaturen 20-25 Grad. Im August ist es voll und manchmal stickig. Winter ist ruhig, viele Restaurants aber zu.",
+      "hu": "Majustol julius elejeig es szeptemberben a legjobb: a kastely az Indre folyoban tukrozodik, a Loire menti kertek viragzanak, 20-25 fok. Augusztusban zsufolt es neha fullasztó. Telen csendes, sok etterem zarva.",
+      "ro": "Mai-inceput de iulie si septembrie sunt ideale: castelul se oglindeste in Indre, gradinile Loarei sunt infloritoare, 20-25 grade. In august e aglomerat si uneori sufocant. Iarna e linistit, dar multe restaurante inchise.",
+      "en": "May to early July and September are ideal: the chateau reflects in the Indre, Loire gardens are in bloom, 20-25°C. August is crowded and sometimes stuffy. Winter is quiet but many restaurants close."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Kleinstadt, einzige Vorsicht: enge Strassen rund um das Schloss sind sonntags zur Mittagszeit verstopft, frueh parken oder zu Fuss vom Bahnhof gehen.",
+      "hu": "Nagyon biztonsagos kisvaros, csak a kastely korul szuk utcak vasarnap delben dugulnak be, erdemes korai parkolas vagy gyaloglas a vasutallomastol.",
+      "ro": "Orasel foarte sigur, singura grija fiind strazile inguste din jurul castelului care se blocheaza duminica la pranz; parcheaza devreme sau vino pe jos de la gara.",
+      "en": "Very safe small town; the only caution is narrow streets around the chateau that clog up on Sunday lunchtime — park early or walk from the train station."
+    },
+    "parking_real_time": ""
   }
 }

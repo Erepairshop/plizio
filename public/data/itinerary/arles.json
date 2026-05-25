@@ -1015,5 +1015,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.arlestourisme.com/",
+    "events": "https://www.arlestourisme.com/agenda/",
+    "city_card": "https://www.arlestourisme.com/pass-avantages/",
+    "museum_tickets": "https://www.arlestourisme.com/billetterie/",
+    "transit_official": "https://www.tout-envia.com/",
+    "language_tips": {
+      "de": "Arles ist provenzalisch durch und durch, der Akzent ist singend und das Tempo gemächlich. Englisch wird in den Museen und großen Hotels gesprochen, weniger jedoch auf den Märkten. Lernen Sie 'pastis' und 'tapenade' richtig auszusprechen, das verschafft sofort Sympathie. Begrüßen Sie jeden Marktstandbetreiber mit 'Bonjour'.",
+      "hu": "Arles ízig-vérig provence-i város, az akcentus dallamos és a tempó kényelmes. A múzeumokban és nagyobb szállodákban beszélnek angolul, de a piacokon kevésbé. Tanuld meg helyesen kiejteni a 'pastis' és 'tapenade' szavakat, ez azonnal szimpátiát ébreszt. Köszönj 'Bonjour'-ral minden piaci árusnak.",
+      "ro": "Arles este provensal pur, accentul cântă și ritmul este lent. Engleza se vorbește în muzee și hoteluri mari, mai puțin în piețe. Învățați să pronunțați corect 'pastis' și 'tapenade', vă atrage simpatia imediat. Salutați fiecare vânzător din piață cu 'Bonjour'.",
+      "en": "Arles is Provençal to the core - the accent sings, the pace is slow. English is spoken in museums and major hotels, less so at markets. Learn to pronounce 'pastis' and 'tapenade' correctly for instant rapport. Always greet every market vendor with 'Bonjour' before browsing."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind perfekt: mildes Wetter, weniger Touristen, und das berühmte Licht, das van Gogh inspirierte, ist besonders schön. Vermeiden Sie Juli mit den Rencontres de la Photographie, wenn alles ausgebucht ist. Im Sommer wird es extrem heiß, der Mistral bringt manchmal Erleichterung.",
+      "hu": "Április és június, valamint szeptember és október tökéletes: enyhe időjárás, kevés turista, és a Van Goghot megihlető fény különösen szép. Júliust kerüld a Rencontres de la Photographie miatt, amikor minden teltház. Nyáron rendkívül forró, a misztrál néha enyhülést hoz.",
+      "ro": "Aprilie până în iunie și septembrie până în octombrie sunt perfecte: vreme blândă, mai puțini turiști, iar lumina celebră care l-a inspirat pe van Gogh este deosebit de frumoasă. Evitați iulie cu Rencontres de la Photographie, când totul este rezervat. Vara este extrem de cald.",
+      "en": "April to June and September to October are ideal: mild weather, fewer tourists, and the famous light that inspired van Gogh at its most beautiful. Avoid July when the Rencontres de la Photographie fills every hotel. Summer gets extremely hot, though the Mistral wind occasionally brings relief."
+    },
+    "neighborhood_warnings": {
+      "de": "Arles ist sicher, doch der Bahnhofsbezirk und die Gegend hinter dem Boulevard des Lices können nachts ungemütlich sein. Achten Sie in der Arena und im römischen Theater auf Taschendiebe.",
+      "hu": "Arles biztonságos, de a pályaudvar környéke és a Boulevard des Lices mögötti rész éjjel kényelmetlen lehet. Az arénánál és a római színháznál figyelj a zsebtolvajokra.",
+      "ro": "Arles este sigur, dar zona gării și zona din spatele Boulevard des Lices pot fi neplăcute noaptea. La arenă și teatrul roman, atenție la hoții de buzunare.",
+      "en": "Arles is safe overall, but the station area and the streets behind Boulevard des Lices can feel uneasy at night. Watch for pickpockets at the Arena and Roman Theatre during peak hours."
+    },
+    "parking_real_time": ""
   }
 }

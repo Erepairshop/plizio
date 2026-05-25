@@ -916,5 +916,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.quimper-tourisme.bzh/",
+    "events": "https://www.quimper-tourisme.bzh/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.qub.fr/",
+    "language_tips": {
+      "de": "Quimper ist bretonisches Herz. Französisch und Bretonisch zweisprachig auf Schildern, einige Sätze versuchen: 'Demat' (Bonjour), 'Trugarez' (Merci). Englisch in Hotels, Deutsch selten. Faïence-Keramik überall, fragen Sie nach 'HB Henriot'.",
+      "hu": "Quimper Bretagne szíve. Francia és breton kétnyelvű táblák, próbálj néhány szót: 'Demat' (Bonjour), 'Trugarez' (Merci). Angol szállodákban, német ritka. Faïence-kerámia mindenhol, kérdezz rá a 'HB Henriot'-ra.",
+      "ro": "Quimper este inima Bretaniei. Franceza și bretona apar pe panouri bilingve: 'Demat' (Bonjour), 'Trugarez' (Merci). Engleza la hoteluri, germana rar. Ceramică faïence peste tot, întrebați despre 'HB Henriot'.",
+      "en": "Quimper is the heart of Brittany. Signs are French/Breton bilingual: try 'Demat' (hello), 'Trugarez' (thanks). English at hotels, German is rare. Faïence pottery everywhere, ask about 'HB Henriot'."
+    },
+    "best_time_to_visit": {
+      "de": "Festival de Cornouaille (Juli-Ende) ist bretonisches Highlight. Mai-Juni für blühende Heide und milde 18-22 °C. September für ruhige Tage. Vermeiden Sie Februar-März, oft regnerisch und kalt. Winter: mild aber feucht.",
+      "hu": "A Festival de Cornouaille (július vége) breton csúcspont. Május-június a virágzó pusztáért és 18-22 °C-ért. Szeptember csendes napokért. Februárt-márciust kerüld, esős és hideg. Tél: enyhe de párás.",
+      "ro": "Festival de Cornouaille (sfârșit iulie) este momentul breton. Mai-iunie pentru landa înflorită și 18-22 °C. Septembrie pentru zile liniștite. Evitați februarie-martie, ploios și rece. Iarna: blândă dar umedă.",
+      "en": "The Festival de Cornouaille (late July) is the Breton highlight. May-June for blooming heath and mild 18-22 °C. September is quiet. Avoid February-March, often wet and cold. Winters are mild but damp."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Hauptrisiko ist atlantischer Regen, nehmen Sie wetterfeste Kleidung. Steile Schiefer-Dächer können bei Sturm Schiefer abwerfen. Achten Sie auf Fluss-Pegel der Odet bei Hochwasser.",
+      "hu": "Nagyon biztonságos. A fő kockázat az atlanti eső, vigyél vízálló ruhát. Viharban a meredek palatetőkről hullhat pala. Az Odet folyó vízszintjére figyelj áradáskor.",
+      "ro": "Foarte sigur. Riscul principal este ploaia atlantică, luați haine impermeabile. La furtună, acoperișurile de ardezie pot pierde plăci. Atenție la nivelul Odet la inundații.",
+      "en": "Very safe. Main risk is Atlantic rain, pack waterproofs. Steep slate roofs can shed tiles in gales. Watch Odet river levels during flood warnings."
+    },
+    "parking_real_time": ""
   }
 }

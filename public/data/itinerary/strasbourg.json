@@ -1218,5 +1218,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/grand-est.html",
+    "tourism_office": "https://www.visitstrasbourg.fr/en/",
+    "events": "https://www.visitstrasbourg.fr/en/",
+    "city_card": "https://www.visitstrasbourg.fr/en/",
+    "museum_tickets": "https://www.musees.strasbourg.eu/",
+    "transit_official": "https://www.cts-strasbourg.eu/en/",
+    "language_tips": {
+      "de": "Strassburg ist zweisprachig, Franzoesisch dominiert, im Petite France und auf den Maerkten hoerst du aber elsaessisch und viel Deutsch. Deutsche Reisende koennen oft komplett auf Deutsch bestellen, das franzoesische 'bonjour' beim Eintreten bleibt aber Pflicht.",
+      "hu": "Strasbourg ketnyelvu, a francia dominal, de a Petite France-ban es a piacokon elsasi es sok nemet hallhato. Nemet utazok gyakran teljesen nemetul rendelhetnek, a francia 'bonjour' belepeskor viszont kotelezo.",
+      "ro": "Strasbourg e bilingv, franceza domina, dar in Petite France si in piete auzi alsaciana si multa germana. Calatorii germani pot comanda complet in germana, dar 'bonjour' la intrare ramane obligatoriu.",
+      "en": "Strasbourg is bilingual: French dominates, but in Petite France and the markets you hear Alsatian and lots of German. German travellers can often order entirely in German, but the French 'bonjour' on entering remains essential."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September fuer Bootsfahrten auf der Ill und Petite France bei 18-25 Grad. Ende November bis 24. Dezember bringt den beruehmten Christkindelsmaerik, dann ist die Stadt magisch aber sehr voll. Januar und Februar sind ruhig und kalt.",
+      "hu": "Majus-szeptember a Ill-en valo hajokirandulasokra es Petite France-ra 18-25 fok mellett. November vegetol december 24-ig a hires Christkindelsmaerik, ilyenkor a varos magikus de nagyon zsufolt. Januar-februar csendes es hideg.",
+      "ro": "Mai-septembrie pentru plimbari cu barca pe Ill si Petite France la 18-25 grade. De la final de noiembrie pana pe 24 decembrie e celebrul Christkindelsmaerik; orasul e magic dar foarte aglomerat. Ianuarie-februarie sunt linistite si reci.",
+      "en": "May-September for boat tours on the Ill and Petite France at 18-25°C. Late November to 24 December brings the famous Christkindelsmaerik — the city is magical but very crowded. January-February are quiet and cold."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sichere Stadt, Vorsicht nur in Neuhof und Hautepierre (aussere Stadtteile, nicht touristisch). Wahrend des Weihnachtsmarktes Taschendiebe an Place Kleber und Place Broglie, auch Strenge Sicherheitskontrollen.",
+      "hu": "Nagyon biztonsagos varos, csak Neuhof es Hautepierre (kulso kerulet, nem turista) kerulendo. A karacsonyi vasar idejen a Place Kleber-en es Place Broglie-en zsebtolvajok, szigoru biztonsagi ellenorzes is.",
+      "ro": "Oras foarte sigur, atentie doar la Neuhof si Hautepierre (cartiere periferice, neturistice). In timpul targului de Craciun, hoti de buzunare in Place Kleber si Place Broglie, plus controale stricte de securitate.",
+      "en": "Very safe city; only Neuhof and Hautepierre (outer non-tourist districts) need avoiding. During the Christmas market, watch pickpockets at Place Kleber and Place Broglie, and expect strict security checks."
+    },
+    "parking_real_time": ""
   }
 }

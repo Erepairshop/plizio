@@ -1127,5 +1127,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://balagne-corsica.com/",
+    "events": "https://balagne-corsica.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Calvi liegt in der Balagne-Region Korsikas. Französisch und Korsisch (Corsu) zweisprachig. 'Salute' (Korsisch) ist 'Hallo'. Italienische Touristen viele, Englisch in Hotels gut. Identität ist sehr stark korsisch, respektieren Sie das.",
+      "hu": "Calvi Korzika Balagne-régiójában fekszik. Francia és korzikai (Corsu) kétnyelvű. A 'Salute' (korzikai) a 'Szia'. Sok az olasz turista, az angol jó a szállodákban. Az identitás nagyon korzikai, tiszteld.",
+      "ro": "Calvi este în regiunea Balagne din Corsica. Bilingv francez și corsican (Corsu). 'Salute' (corsican) înseamnă 'salut'. Mulți turiști italieni, engleza este bună la hoteluri. Identitatea este profund corsicană, respectați-o.",
+      "en": "Calvi sits in Corsica's Balagne region. French and Corsican (Corsu) are both used. 'Salute' (Corsican) means hello. Many Italian tourists; English works well at hotels. Identity here is strongly Corsican, respect that."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober: warm, weniger Massen, Calvi-on-the-Rocks-Festival Anfang Juli. Juli-August: voll, sehr hohe Preise, brennende Sonne. Vermeiden Sie November-März, viele Schließungen und Fähren reduziert.",
+      "hu": "Május-június és szeptember-október: meleg, kevesebb tömeg, július elején 'Calvi-on-the-Rocks' fesztivál. Július-augusztus: tömeg, magas árak, perzselő nap. November-március kerülendő, sok zárás és csökkentett kompjárat.",
+      "ro": "Mai-iunie și septembrie-octombrie: cald, mai puțin aglomerat, festivalul 'Calvi-on-the-Rocks' la început de iulie. Iulie-august: aglomerat, prețuri foarte mari, soare puternic. Evitați noiembrie-martie, multe închideri și feriboturi reduse.",
+      "en": "May-June and September-October: warm, fewer crowds; 'Calvi-on-the-Rocks' festival in early July. July-August is packed with steep prices and fierce sun. Avoid November-March, many closures and reduced ferries."
+    },
+    "neighborhood_warnings": {
+      "de": "Generell sicher. Vorsicht beim Schwimmen, plötzliche Tiefen am Strand. Bergstraßen ins Balagne-Hinterland sind eng und kurvig. Im Sommer Waldbrandgefahr hoch, niemals offenes Feuer.",
+      "hu": "Általában biztonságos. Úszásnál vigyázz, hirtelen mély a part. A Balagne-hegyi utak keskenyek és kanyargósak. Nyáron magas az erdőtűz-veszély, soha ne gyújts tüzet.",
+      "ro": "În general sigur. La înot, atenție la adâncimi bruște. Drumurile montane spre Balagne sunt înguste și șerpuite. Vara, risc mare de incendii, niciodată foc deschis.",
+      "en": "Generally safe. Mind sudden drop-offs when swimming. Mountain roads into Balagne are narrow and winding. High wildfire risk in summer, never light open fires."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1164,5 +1164,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.lesbauxdeprovence.com/",
+    "events": "https://www.lesbauxdeprovence.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.carrieres-lumieres.com/",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Les Baux-de-Provence ist sehr touristisch und auf internationale Besucher eingestellt, Englisch klappt in den Restaurants und Galerien problemlos. Carrières de Lumières und das Schloss bieten mehrsprachige Audioguides. Lokales Leben kaum vorhanden, fast nur Tourismus.",
+      "hu": "Les Baux-de-Provence nagyon turistas es nemzetkozi vendegekre berendezkedett, az angol az ettermekben es galeriakban zoekkenomentes. A Carrières de Lumières es a kastely tobb nyelvu audiokalauzt kinal. Helyi elet alig, szinte csak turizmus.",
+      "ro": "Les Baux-de-Provence e foarte turistic si pregatit pentru vizitatori internationali, engleza merge fara probleme in restaurante si galerii. Carrières de Lumières si castelul ofera audioghiduri multilingve. Viata locala aproape inexistenta, doar turism.",
+      "en": "Les Baux-de-Provence is very touristy and well set up for international visitors — English works easily in restaurants and galleries. The Carrières de Lumières and the castle offer multilingual audio guides. Almost no local life remains, only tourism."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober sind ideal, das Dorf liegt auf einem Felsvorsprung und ist im Hochsommer brutal heiss (oft 35+ Grad). Carrières de Lumières immersive Lichtshow das ganze Jahr geoeffnet und klimatisiert.",
+      "hu": "Aprilis-junius es szeptember-oktober ideal, a falu egy sziklan all es foszezonban brutalisan meleg (35+ fok). A Carrières de Lumières latvanyos fenyseow egesz evben nyitva, klimatizalt.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale, satul e pe o stanca si vara e brutal de cald (35+ grade). Carrières de Lumières (spectacolul imersiv de lumini) e deschis tot anul si climatizat.",
+      "en": "April-June and September-October are ideal — the village perches on a cliff and gets brutally hot in summer (often 35°C+). The Carrières de Lumières immersive light show stays open all year and is air-conditioned."
+    },
+    "neighborhood_warnings": {
+      "de": "Parken nur ausserhalb des Dorfes, dann zu Fuss bergauf. Im Juli-August zwischen 11 und 16 Uhr Massenandrang von Bustouren, frueh oder spaet kommen. Wenig Schatten, Sonnenhut und Wasser unbedingt mitnehmen.",
+      "hu": "Parkolas csak a falu szelen, onnan gyalog felfele. Julius-augusztus 11-16 ora kozott buszos tomeg, jobb korai vagy kesoi. Keves arnyek, napkapot es viz kotelezo.",
+      "ro": "Parcari doar in afara satului, apoi pe jos in sus. In iulie-august intre 11 si 16, mase de turisti din autocare, vino devreme sau tarziu. Putina umbra, palarie si apa obligatorii.",
+      "en": "Park only outside the village, then walk up. In July-August between 11am and 4pm coach-tour crowds swarm — come early or late. Little shade up top, take a sun hat and water."
+    },
+    "parking_real_time": ""
   }
 }

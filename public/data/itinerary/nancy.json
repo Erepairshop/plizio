@@ -988,5 +988,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.destination-nancy.com/",
+    "events": "https://www.destination-nancy.com/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.reseau-stan.com/",
+    "language_tips": {
+      "de": "Nancy ist Universitätsstadt, Englisch und Deutsch funktionieren gut. Lothringischer Dialekt ist selten zu hören. 'Bonjour' und 'Bonsoir' nach 17 Uhr korrekt einsetzen. Berühmt für 'macarons de Nancy' und 'bergamotes' (Bonbons), beim Nachfragen helfen.",
+      "hu": "Nancy egyetemi város, az angol és német jól megy. A lotaringiai tájszólást ritkán hallani. 'Bonjour' és 17 óra után 'Bonsoir' a helyes. Híres a 'macarons de Nancy' és 'bergamotes' (cukorka) édességekről, érdemes rákérdezni.",
+      "ro": "Nancy este oraș universitar, engleza și germana funcționează bine. Dialectul lorenian se aude rar. 'Bonjour' și 'Bonsoir' după ora 17. Renumit pentru 'macarons de Nancy' și 'bergamotes' (bomboane), întrebați curajos.",
+      "en": "Nancy is a university city; English and German work well. Lorraine dialect is rarely heard. Switch from 'Bonjour' to 'Bonsoir' after 5 pm. Famous for 'macarons de Nancy' and 'bergamotes' candies, just ask."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni für Place Stanislas in Blüte und 'Rendez-vous Place Stanislas'-Lichtshow ab Juni. September-Oktober für Studentenleben. Dezember: kompakter Weihnachtsmarkt. Vermeiden Sie Februar (sehr kalt, viel Wind).",
+      "hu": "Május-június a virágzó Place Stanislasért és a júniustól induló 'Rendez-vous' fényshow-ért. Szeptember-október a diákéletért. December: kompakt karácsonyi vásár. Februárt kerüld (nagyon hideg, szeles).",
+      "ro": "Mai-iunie pentru Place Stanislas înflorit și spectacolul de lumini 'Rendez-vous' din iunie. Septembrie-octombrie pentru viața studențească. Decembrie: târg de Crăciun compact. Evitați februarie (foarte frig, vânt).",
+      "en": "May-June for Place Stanislas in bloom and the 'Rendez-vous' light show starting in June. September-October for student energy. December: a compact Christmas market. Avoid February (cold and windy)."
+    },
+    "neighborhood_warnings": {
+      "de": "Allgemein sicher. Nachts rund um den Bahnhof Nancy-Ville und das Viertel Trois-Maisons wachsam bleiben. Studentenviertel kann am Wochenende laut sein. Achten Sie auf Fahrräder auf der Place Stanislas.",
+      "hu": "Általában biztonságos. Éjjel a Nancy-Ville pályaudvar és a Trois-Maisons negyed körül legyél éber. A diáknegyed hétvégén hangos lehet. A Place Stanislason figyelj a kerékpárokra.",
+      "ro": "În general sigur. Noaptea, fiți atenți în jurul gării Nancy-Ville și a cartierului Trois-Maisons. Cartierul studențesc este zgomotos în weekend. Atenție la bicicliști pe Place Stanislas.",
+      "en": "Generally safe. Stay alert near Nancy-Ville station and Trois-Maisons quarter at night. Student neighborhoods get loud on weekends. Watch for cyclists crossing Place Stanislas."
+    },
+    "parking_real_time": ""
   }
 }

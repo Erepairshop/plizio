@@ -918,5 +918,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.giverny.org/",
+    "events": "https://www.giverny.org/",
+    "city_card": "",
+    "museum_tickets": "https://fondation-monet.com/",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Giverny ist ein winziges Maler-Dorf, das jaehrlich Hunderttausende empfaengt. Englisch ist im Monet-Haus und Restaurants Standard, im Dorf-Boulangerie aber: 'bonjour' und Geduld in der Schlange. Audioguide gibt es auch auf Deutsch.",
+      "hu": "Giverny aprocska festofalu, evi szazezreket fogad. Az angol a Monet-haznal es ettermekben alap, a falu pekjeben viszont: 'bonjour' es turelem a sorban. Audioguide nemetul is van.",
+      "ro": "Giverny e un satuc al pictorilor care primeste sute de mii anual. Engleza e standard la casa Monet si restaurante, dar la brutarie din sat: 'bonjour' si rabdare la coada. Audioghid e disponibil si in germana.",
+      "en": "Giverny is a tiny painters' village that receives hundreds of thousands yearly. English is standard at Monet's house and restaurants, but at the village bakery: 'bonjour' and patience in the queue. Audio guides also in German."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Oktober ist das Monet-Haus geoeffnet, Mai und Juni bringen die meisten Blueten (Glyzinie und Seerosen), September ruhiger mit Spaetbluete. Vermeiden Sie Samstage und Wochenenden im Mai, Werktag-Morgen 9.30 Uhr ist Gold.",
+      "hu": "Aprilistol oktoberig a Monet-haz nyitva, majus-junius a legtobb viragzas (lila glycinia, tundérrózsa), szeptember csendes osszi pompaval. Kerud a maji szombatokat es hetvegeket, hetkozapi reggel 9.30 a legjobb.",
+      "ro": "Aprilie-octombrie casa Monet e deschisa, mai-iunie aduc maxim de flori (glicina, nuferi), septembrie e mai linistit cu inflorire tarzie. Evita sambetele si weekendurile din mai; dimineata, in zi lucratoare, la 9.30 e ideal.",
+      "en": "Monet's house is open April-October; May and June bring peak bloom (wisteria, water lilies), September is quieter with late flowers. Avoid May Saturdays and weekends — weekday morning at 9.30am is gold."
+    },
+    "neighborhood_warnings": {
+      "de": "Extrem sicher, Hauptaerger sind nur die Touristenbus-Schlangen und der eine Dorfparkplatz, der vor 11 Uhr voll ist. Vermeiden Sie Imbissstaende direkt am Eingang, im Dorf gibt es echte Brasserien.",
+      "hu": "Rendkivul biztonsagos, csak a buszsoroks es az egyetlen falu parkolo (11 elott megtelik) okoz bosszusagot. Kerud a bejaratnal levo gyorsetkezo standot, a faluban valodi brasserie-k vannak.",
+      "ro": "Extrem de sigur, singurele probleme fiind cozile de autocare si singura parcare a satului care se umple inainte de 11. Evita standurile fast-food de la intrare; in sat ai brasserii adevarate.",
+      "en": "Extremely safe; the only annoyances are coach queues and the single village car park that fills before 11am. Skip the snack stands at the entrance — there are proper brasseries in the village."
+    },
+    "parking_real_time": ""
   }
 }

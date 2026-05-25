@@ -957,5 +957,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.marseille-tourisme.com/en/",
+    "events": "https://www.marseille-tourisme.com/en/",
+    "city_card": "https://www.marseille-tourisme.com/en/discover-marseille/citypass/",
+    "museum_tickets": "https://www.mucem.org/en",
+    "transit_official": "https://www.rtm.fr/",
+    "language_tips": {
+      "de": "Marseille ist eine Mittelmeerstadt mit lautem, herzlichem Slang. Englisch klappt in den Touristenzonen (Vieux Port, MuCEM), in Stadtteilen wie Le Panier oder Noailles hilft Franzoesisch und Geduld. Marseillais reden direkt, das ist Charme, nicht Unhoeflichkeit.",
+      "hu": "Marseille mediterran varos hangos, szivelyes szlenggel. Az angol megy a turista zonakban (Vieux Port, MuCEM), Le Panier vagy Noailles negyedekben a francia es turelm segit. A marseillais-k egyenesen beszelnek, ez varazs, nem goromba.",
+      "ro": "Marseille e oras mediteranean cu argou zgomotos si calduros. Engleza merge in zonele turistice (Vieux Port, MuCEM), in cartiere precum Le Panier sau Noailles ajuta franceza si rabdarea. Marsiliezii vorbesc direct; e farmec, nu nepolitete.",
+      "en": "Marseille is a Mediterranean city with loud, warm slang. English works in tourist zones (Vieux Port, MuCEM); in neighbourhoods like Le Panier or Noailles French and patience help. Marseillais speak bluntly — it's charm, not rudeness."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: 22-28 Grad, klares Meer und Calanques-Wandern moeglich. Juli und August bringen Hitze (oft 35+) und volle Straende, vorallem in den Calanques (Eintritt manchmal reglementiert). Winter ist mild und ehrlich-marseillais.",
+      "hu": "Majus, junius es szeptember a legjobb: 22-28 fok, tiszta tenger es Calanques-i turazas lehetséges. Julius-augusztusban hoseg (gyakran 35+) es zsufolt strandok, kulonosen a Calanquesnal (a belepes neha szabalyozott). Telen enyhe es ostszinte marseillais.",
+      "ro": "Mai, iunie si septembrie sunt ideale: 22-28 grade, mare limpede si drumetii in Calanques. Iulie-august aduc caldura (35+) si plaje pline, mai ales in Calanques (intrarea uneori reglementata). Iarna e blanda si marsiliana autentica.",
+      "en": "May, June and September are ideal: 22-28°C, clear sea and hikes into the Calanques. July and August bring heat (often 35+) and packed beaches, especially in the Calanques (sometimes regulated entry). Winter is mild and authentically Marseillais."
+    },
+    "neighborhood_warnings": {
+      "de": "Vieux Port, Le Panier und MuCEM sind tagsueber sicher, abends Vorsicht. Belsunce, Noailles und nordliche Stadtteile (15., 16. Arrondissement) sind keine Touristenzonen. Auto immer leer lassen, Aufbrueche sind haeufig.",
+      "hu": "Vieux Port, Le Panier es MuCEM nappal biztonsagos, estere ovatos. Belsunce, Noailles es az eszaki kerulet (15., 16. arrondissement) nem turista terulet. Az autot mindig ureslen, gyakori a feltores.",
+      "ro": "Vieux Port, Le Panier si MuCEM sunt sigure ziua, atentie seara. Belsunce, Noailles si arondismentele nordice (15, 16) nu sunt zone turistice. Lasa masina goala mereu, spargerile sunt frecvente.",
+      "en": "Vieux Port, Le Panier and MuCEM are safe by day, careful at night. Belsunce, Noailles and northern arrondissements (15th, 16th) aren't tourist zones. Always leave the car empty — break-ins are common."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1007,5 +1007,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.arcachon.com/",
+    "events": "https://www.arcachon.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.bahia-bus.com/",
+    "language_tips": {
+      "de": "Arcachon spricht klares aquitanisches Franzoesisch ohne starken Akzent. Englisch in Hotels und am Hafen verbreitet (internationale Sommertouristen). 'Bonjour' und 'merci' sind hier sehr willkommen, Aquitanier sind freundlich und entspannt.",
+      "hu": "Arcachon tiszta aquitaniai franciat beszel eros akcentus nelkul. A szallodakban es a kikotoben van angol (nemzetkozi nyari turistak). A 'bonjour' es 'merci' szivesen latott, az aquitaniak baratsagosak es nyugodtak.",
+      "ro": "Arcachon vorbeste franceza aquitana clara, fara accent puternic. Engleza merge la hoteluri si in port (turisti internationali vara). 'Bonjour' si 'merci' sunt foarte binevenite, aquitanii sunt prietenosi si relaxati.",
+      "en": "Arcachon speaks clear Aquitaine French with no strong accent. English works in hotels and the harbour (international summer crowd). 'Bonjour' and 'merci' are very welcome — Aquitaine locals are friendly and laid-back."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (16-25 Grad), Bassin d'Arcachon mit Austernzucht das ganze Jahr, Dune du Pilat begehbar. Juli-August voll und teuer. Winter mild und nass (8-12 Grad), Austern-Hochsaison, Cabanons tochinois im Hafen ruhig.",
+      "hu": "Majus-szeptember a legjobb (16-25 fok), az Arcachon-medence osztrigatenyeszettel egesz evben, Dune du Pilat masszhato. Julius-augusztus zsufolt es draga. Tel enyhe es nyirkos (8-12 fok), osztriga csucsszezon, a kikoto cabanon-jai csendesek.",
+      "ro": "Mai-septembrie sunt ideale (16-25 grade), bazinul Arcachon cu fermele de stridii tot anul, Duna du Pilat accesibila. Iulie-august sunt aglomerate si scumpe. Iarna e blanda si umeda (8-12 grade), sezonul stridiilor, cabanon-urile din port sunt linistite.",
+      "en": "May-September are ideal (16-25°C), Arcachon basin with oyster farms year-round, Dune du Pilat walkable. July-August are packed and pricey. Winter is mild and damp (8-12°C) — peak oyster season, harbour cabanons quiet."
+    },
+    "neighborhood_warnings": {
+      "de": "Arcachon ist sehr sicher, gehobenes Seebad. Strand-Promenade auch nachts ruhig. Achtung auf Gezeiten am Bassin: das Wasser zieht sich weit zurueck, Sandbaenke koennen tueckisch sein.",
+      "hu": "Arcachon nagyon biztonsagos, uri tengerparti uduloszhely. A strand-promenad ejjel is csendes. Figyelj a medence dagalyara: a viz tagasul, a homokpadok alnokok lehetnek.",
+      "ro": "Arcachon e foarte sigur, statiune eleganta. Promenada e linistita si noaptea. Atentie la maree in bazin: apa se retrage mult, bancurile de nisip pot fi inselatoare.",
+      "en": "Arcachon is very safe — upscale resort. The promenade stays calm at night. Mind tides in the basin: water retreats far and sandbanks can be tricky."
+    },
+    "parking_real_time": ""
   }
 }

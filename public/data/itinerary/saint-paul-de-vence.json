@@ -1134,5 +1134,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.saint-pauldevence.com/",
+    "events": "https://www.saint-pauldevence.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.fondation-maeght.com/",
+    "transit_official": "https://www.lignesdazur.com/",
+    "language_tips": {
+      "de": "Saint-Paul-de-Vence ist Kuenstlerdorf seit Chagall und Picasso, sehr international (Briten, Amerikaner, Belgier dominieren). Englisch klappt in jeder Galerie und Restaurant. Die Fondation Maeght ist mehrsprachig gefuehrt, das Dorf hat aber kaum mehr Franzosen unter den Einwohnern.",
+      "hu": "Saint-Paul-de-Vence muveszfalu Chagall es Picasso ota, nagyon nemzetkozi (britek, amerikaiak, belgak dominalnak). Az angol minden galeriaban es etteremben megy. A Fondation Maeght tobb nyelvu, a faluban alig el francia.",
+      "ro": "Saint-Paul-de-Vence e satul artistilor de la Chagall si Picasso, foarte international (britanici, americani, belgieni domina). Engleza merge in fiecare galerie si restaurant. Fondation Maeght e multilingv, satul are putini locuitori francezi.",
+      "en": "Saint-Paul-de-Vence has been an artists' village since Chagall and Picasso — very international (British, American and Belgian crowd dominate). English works in every gallery and restaurant. Fondation Maeght offers multilingual guides; few actual French residents remain."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober ideal: mildes Wetter, alle Galerien geoeffnet, weniger Touristen. Juli-August von 11 bis 17 Uhr ueberlaufen mit Bustouren und Kreuzfahrtgaesten. Im Winter manche Galerien zu, aber das Dorf wunderbar leer.",
+      "hu": "Aprilis-junius es szeptember-oktober ideal: enyhe ido, minden galeria nyitva, kevesebb turista. Julius-augusztus 11-17 ora kozott buszos es hajos tomeg. Telen par galeria zar, de a falu csodasan ures.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: vreme blanda, toate galeriile deschise, mai putini turisti. In iulie-august intre 11 si 17 sunt aglomerati de autocare si croaziere. Iarna unele galerii inchise, dar satul e minunat de gol.",
+      "en": "April-June and September-October are ideal: mild weather, all galleries open, fewer tourists. July-August between 11am and 5pm gets swamped by coach tours and cruise visitors. In winter some galleries close, but the village is wonderfully empty."
+    },
+    "neighborhood_warnings": {
+      "de": "Parken nur kostenpflichtig am Dorfeingang, im Sommer schnell voll. Restaurants im Dorf teurer als in Vence oder Cagnes-sur-Mer, qualitativ aber gemischt. Steile gepflasterte Gassen, gute Schuhe noetig.",
+      "hu": "Parkolas csak fizetos a falu bejaratanal, nyaron gyorsan megtelik. Az ettermek a faluban dragabbak, mint Vence-ban vagy Cagnes-sur-Mer-en, minosegben vegyesek. Meredek koves utcak, jo cipo kell.",
+      "ro": "Parcare doar contra cost la intrarea in sat, vara se umple repede. Restaurantele din sat sunt mai scumpe decat in Vence sau Cagnes-sur-Mer, calitate variabila. Strazi pavate abrupte, incaltari bune necesare.",
+      "en": "Parking is paid-only at the village entrance and fills up fast in summer. Restaurants inside the walls cost more than in Vence or Cagnes-sur-Mer, with mixed quality. Steep cobbled lanes, sturdy shoes recommended."
+    },
+    "parking_real_time": ""
   }
 }

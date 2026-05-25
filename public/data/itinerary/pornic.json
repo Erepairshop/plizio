@@ -1039,5 +1039,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.pornic.com/",
+    "events": "https://www.pornic.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Pornic ist atlantischer Badeort an der Loire-Atlantique-Küste, südlich von Nantes. Französisch dominiert, Englisch in den Touristenzonen ausreichend. Bekannt für 'sardines de Pornic' und Töpferei. 'Bonsoir' nach 17 Uhr.",
+      "hu": "Pornic atlanti fürdőváros a Loire-Atlantique partján, Nantes-tól délre. A francia dominál, az angol a turistazónákban elég. Híres a 'sardines de Pornic'-ról és a kerámiáról. 17 óra után 'Bonsoir'.",
+      "ro": "Pornic este stațiune atlantică pe coasta Loire-Atlantique, sud de Nantes. Franceza domină, engleza este suficientă în zonele turistice. Renumit pentru 'sardines de Pornic' și ceramică. 'Bonsoir' după ora 17.",
+      "en": "Pornic is an Atlantic seaside resort on the Loire-Atlantique coast, south of Nantes. French dominates, English suffices in tourist zones. Famous for 'sardines de Pornic' and pottery. Use 'Bonsoir' after 5 pm."
+    },
+    "best_time_to_visit": {
+      "de": "Juni-September für Strände, Bootsausflüge und Wassertemperatur ~20 °C im August. Juli-August sehr voll, hohe Preise. Mai und September für ruhige Strandspaziergänge. Winter: stürmisch, dramatische Klippen, viele Schließungen.",
+      "hu": "Június-szeptember a strandokért, hajós kirándulásokért és ~20 °C vízhőmérsékletért augusztusban. Július-augusztus zsúfolt, magas árak. Május és szeptember csendes parti séták. Tél: viharos, drámai sziklák, sok zárás.",
+      "ro": "Iunie-septembrie pentru plaje, excursii cu barca și ~20 °C în august. Iulie-august aglomerat, prețuri mari. Mai și septembrie pentru plimbări liniștite. Iarna: furtuni, stânci dramatice, multe închideri.",
+      "en": "June-September for beaches, boat trips and ~20 °C water in August. July-August is packed with high prices. May and September are quieter on the beach. Winter: stormy, dramatic cliffs, many closures."
+    },
+    "neighborhood_warnings": {
+      "de": "Sicher. Atlantische Strömungen können bei Ebbe gefährlich werden, schwimmen nur in überwachten Zonen. Beim Sentier des Douaniers (Küstenpfad) Vorsicht an Klippen. Im Sommer Sonnenbrand am Strand.",
+      "hu": "Biztonságos. Az atlanti áramlatok apályban veszélyesek lehetnek, csak felügyelt zónában úszz. A Sentier des Douaniers (parti ösvény) sziklákon óvatosan. Nyáron erős leégés a strandon.",
+      "ro": "Sigur. Curenții atlantici pot deveni periculoși la reflux, înotați doar în zone supravegheate. Pe Sentier des Douaniers, atenție la stânci. Vara, arsuri solare pe plajă.",
+      "en": "Safe. Atlantic currents can be dangerous at low tide, swim only in supervised areas. Take care along the Sentier des Douaniers coastal path. Strong sun on the beach in summer."
+    },
+    "parking_real_time": ""
   }
 }

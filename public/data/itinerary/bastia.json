@@ -1111,5 +1111,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.bastia-tourisme.com/",
+    "events": "https://www.bastia-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Bastia ist Korsikas nördliche Hafenstadt, italienisch geprägt. Französisch und Korsisch (Corsu), Italienisch wird durchaus verstanden. 'À dopu' ist 'Bis später' auf Korsisch. Espresso-Kultur stark, 'caffè' bestellen wie in Italien.",
+      "hu": "Bastia Korzika északi kikötővárosa, olaszos hatású. Francia és korzikai (Corsu), az olaszt is jól értik. Az 'À dopu' korzikaiul 'viszlát'. Erős eszpresszó-kultúra, 'caffè'-t rendelj, mint Olaszországban.",
+      "ro": "Bastia este portul nordic al Corsicii, cu influențe italienești. Franceza și corsicana (Corsu), italiana este înțeleasă. 'À dopu' (corsican) = 'pe curând'. Cultură puternică a espresso-ului, comandați 'caffè' ca în Italia.",
+      "en": "Bastia is Corsica's northern port, Italian-influenced. French and Corsican (Corsu), Italian is widely understood. 'À dopu' (Corsican) means 'see you later'. Strong espresso culture, order 'caffè' the Italian way."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober: ideales Wetter, milder Hafen, weniger Fährgäste. Juli-August: sehr heiß, voll mit Fähren von Italien. Winter: mild aber regnerisch, viele Lokale geschlossen.",
+      "hu": "Május-június és szeptember-október: ideális idő, kellemes kikötő, kevesebb komp-utas. Július-augusztus: nagyon meleg, telt komp Olaszországból. Tél: enyhe de esős, sok zárás.",
+      "ro": "Mai-iunie și septembrie-octombrie: vreme ideală, port blând, mai puțini pasageri pe feribot. Iulie-august: foarte cald, plin de feriboturi din Italia. Iarna: blândă dar ploioasă, multe închideri.",
+      "en": "May-June and September-October: ideal weather, gentle harbour, fewer ferry passengers. July-August: very hot, ferries from Italy packed. Winter is mild but rainy with many closures."
+    },
+    "neighborhood_warnings": {
+      "de": "Generell sicher. Im Vieux Port nachts auf Taschen achten, vor allem rund um Bars. Im Stadtteil 'Lupino' weniger touristisch und nicht abends besuchen. Verkehr im Stadtkern chaotisch, Roller mit Vorsicht.",
+      "hu": "Általában biztonságos. A Vieux Port-on éjjel táskára figyelj, főleg a bárok körül. A 'Lupino' negyed kevésbé turistás, este ne menj. A városmagi forgalom kaotikus, robogóval óvatosan.",
+      "ro": "În general sigur. La Vieux Port noaptea, atenție la genți, mai ales lângă baruri. Cartierul 'Lupino' este mai puțin turistic, evitați-l seara. Trafic haotic în centru, atenție pe scuter.",
+      "en": "Generally safe. Watch bags at night around the Vieux Port bars. The Lupino neighborhood is less touristy and best skipped at night. Chaotic city traffic, careful on scooters."
+    },
+    "parking_real_time": ""
   }
 }

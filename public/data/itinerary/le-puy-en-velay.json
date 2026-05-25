@@ -862,5 +862,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.lepuyenvelay-tourisme.fr/",
+    "events": "https://www.lepuyenvelay-tourisme.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Le Puy ist Start der Via Podiensis (Jakobsweg). Pilger aus aller Welt, Englisch, Deutsch und Spanisch in Pilgerunterkünften. Begrüßung 'Ultreïa!' (Pilgergruß) ist freundlich. 'Verveine du Velay' ist Kräuterlikör-Spezialität.",
+      "hu": "Le Puy a Via Podiensis (Camino) kiindulópontja. Zarándokok a világ minden tájáról, az angol, német és spanyol megy a szállásokon. Az 'Ultreïa!' (zarándoküdvözlés) baráti. A 'Verveine du Velay' a helyi gyógynövényes likőr.",
+      "ro": "Le Puy este punctul de plecare al Via Podiensis (Camino). Pelerini din toată lumea, engleza, germana și spaniola funcționează în hostele. 'Ultreïa!' (salut de pelerin) este prietenos. 'Verveine du Velay' este lichiorul de plante local.",
+      "en": "Le Puy is the start of the Via Podiensis (Way of St James). Pilgrims from all over: English, German and Spanish work in pilgrim hostels. 'Ultreïa!' (pilgrim greeting) is friendly. 'Verveine du Velay' is the local herbal liqueur."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September für Pilgersaison und Wettkampf 'Roi de l'Oiseau' im September (Renaissance-Fest). Juli-August: meiste Pilger. Vermeiden Sie Hochsommer-Hitze in der Felsenstadt. Winter: friedlich aber kalt, Kapellen oft geschlossen.",
+      "hu": "Május-szeptember a zarándokszezonra és a szeptemberi 'Roi de l'Oiseau' (reneszánsz fesztivál). Július-augusztus: legtöbb zarándok. A sziklavárosban a nyári hőség nehéz. Tél: békés de hideg, kápolnák gyakran zárva.",
+      "ro": "Mai-septembrie pentru sezonul de pelerinaj și festivalul 'Roi de l'Oiseau' din septembrie (Renaștere). Iulie-august: cei mai mulți pelerini. Evitați canicula în orașul stâncos. Iarna: liniștită dar rece, capelele adesea închise.",
+      "en": "May-September for pilgrim season and the 'Roi de l'Oiseau' Renaissance festival in September. July-August: peak pilgrims. Avoid midsummer heat in the rock town. Winter is peaceful but cold, chapels often closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Steile, vulkanische Aufstiege zur Saint-Michel-Kapelle und Notre-Dame-Statue erfordern gutes Schuhwerk. Bei Regen sehr rutschig. Achten Sie auf Pilgergepäck-Diebstahl in Massenunterkünften.",
+      "hu": "Nagyon biztonságos. A Saint-Michel kápolnához és a Notre-Dame szoborhoz vezető meredek vulkáni emelkedők jó cipőt kívánnak. Esőben nagyon csúszós. A nagy szállásokon figyelj a zarándok-poggyász lopásra.",
+      "ro": "Foarte sigur. Urcușurile vulcanice abrupte spre capela Saint-Michel și statuia Notre-Dame cer încălțăminte bună. Pe ploaie, foarte alunecos. La hostele mari, atenție la furtul de bagaje.",
+      "en": "Very safe. Steep volcanic climbs to Saint-Michel chapel and the Notre-Dame statue need good footwear. Very slippery in rain. Watch for luggage theft in pilgrim dormitories."
+    },
+    "parking_real_time": ""
   }
 }

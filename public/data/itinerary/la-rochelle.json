@@ -1078,5 +1078,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.larochelle-tourisme.com/",
+    "events": "https://www.larochelle-tourisme.com/agenda/",
+    "city_card": "https://www.larochelle-tourisme.com/la-rochelle-ocean-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.yelo-larochelle.fr/",
+    "language_tips": {
+      "de": "La Rochelle spricht klares Atlantik-Franzoesisch ohne starken Akzent. Englisch in Hotels und am Aquarium sehr verbreitet (Touristen aus England nah). 'Bonjour' und 'merci' immer wichtig, die Bretonen sind freundlich aber formell.",
+      "hu": "La Rochelle tiszta atlanti franciat beszel eros akcentus nelkul. A szallodakban es az akvariumnal nagyon van angol (kozeli angol turistak). A 'bonjour' es 'merci' fontos, a bretonok kedvesek de formalisak.",
+      "ro": "La Rochelle vorbeste franceza atlantica clara, fara accent puternic. Engleza e foarte raspandita la hoteluri si la acvariu (turisti englezi apropiati). 'Bonjour' si 'merci' raman importante, bretonii sunt prietenosi dar formali.",
+      "en": "La Rochelle speaks clear Atlantic French with no strong accent. English is widely used in hotels and at the aquarium (English visitors are close). 'Bonjour' and 'merci' still matter — locals are friendly but formal."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (16-25 Grad), Festival Francofolies Mitte Juli (legendaer fuer franzoesische Musik). Juli-August warm und voll, dafuer Iles de Re per Brücke erreichbar. Winter mild und windig (6-11 Grad), Hafen-Spaziergaenge ohne Menge.",
+      "hu": "Majus-szeptember a legjobb (16-25 fok), julius kozepen Francofolies fesztival (legendas francia zenei). Julius-augusztus meleg es zsufolt, cserebe Iles de Re hiddal elerheto. Tel enyhe es szeles (6-11 fok), kikoto-setak tomeg nelkul.",
+      "ro": "Mai-septembrie sunt ideale (16-25 grade), festivalul Francofolies la mijlocul lui iulie (legendar pentru muzica franceza). Iulie-august sunt calde si aglomerate, dar Insula Re e accesibila pe pod. Iarna e blanda si vantoasa (6-11 grade), plimbari prin port fara aglomeratie.",
+      "en": "May-September are ideal (16-25°C), with the legendary Francofolies music festival in mid-July. July-August are warm and packed but the Ile de Re is bridge-accessible. Winter is mild and breezy (6-11°C), harbour walks free of crowds."
+    },
+    "neighborhood_warnings": {
+      "de": "Mireuil und Villeneuve-les-Salines am Stadtrand abends meiden. Altstadt mit Vieux Port und Tuermen sehr sicher. Bahnhof tagsueber lebhaft, nachts ruhig.",
+      "hu": "Mireuil es Villeneuve-les-Salines a varos szelen este nem ajanlott. Az obvaros a Vieux Port-tal es a tornyokkal nagyon biztonsagos. Az allomas nappal eleven, ejjel csendes.",
+      "ro": "Mireuil si Villeneuve-les-Salines, la periferie, sunt de evitat seara. Centrul vechi cu Vieux Port si turnurile e foarte sigur. Gara e animata ziua, linistita noaptea.",
+      "en": "Avoid Mireuil and Villeneuve-les-Salines on the outskirts at night. The old town with the Vieux Port and towers is very safe. The station is busy by day, quiet at night."
+    },
+    "parking_real_time": ""
   }
 }

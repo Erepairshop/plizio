@@ -1039,5 +1039,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-perigueux.fr/",
+    "events": "https://www.tourisme-perigueux.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.peribus.fr/",
+    "language_tips": {
+      "de": "Périgueux ist die Hauptstadt des Périgord, Englisch wird im Tourismusbüro und in den Restaurants der Altstadt gesprochen. Lernen Sie 'cathédrale Saint-Front' für die byzantinisch wirkende Kathedrale und 'Vesunna' für das gallisch-römische Museum. Bei Trüffeln 'truffe noire du Périgord' ist die königliche Spezialität.",
+      "hu": "Périgueux a Périgord fővárosa, az idegenforgalmi irodában és az óváros éttermeiben beszélnek angolul. Tanuld meg a 'cathédrale Saint-Front' nevet a bizánci hatású katedrálishoz és a 'Vesunna' nevet a gall-római múzeumhoz. Szarvasgombához 'truffe noire du Périgord' a királyi specialitás.",
+      "ro": "Périgueux este capitala Périgord-ului, engleza se vorbește la biroul de turism și în restaurantele din centrul vechi. Învățați 'cathédrale Saint-Front' pentru catedrala cu aspect bizantin și 'Vesunna' pentru muzeul galo-roman. Pentru trufe, 'truffe noire du Périgord' este specialitatea regală.",
+      "en": "Périgueux is the capital of Périgord - English is spoken at the tourism office and old town restaurants. Learn 'cathédrale Saint-Front' for the Byzantine-style cathedral and 'Vesunna' for the Gallo-Roman museum. For truffles, 'truffe noire du Périgord' is the royal speciality."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, blühender Périgord und weniger Touristen. Juli-August bringt Touristen aber auch das Mimos-Theaterfestival. Im Winter sind die Trüffelmärkte Dezember-Februar das kulinarische Highlight der Region.",
+      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, virágzó Périgord, kevesebb turista. Júliusban-augusztusban turisták érkeznek, de a Mimos színházi fesztivál is. Télen, december-februárban a szarvasgombás piacok a régió gasztronómiai csúcspontjai.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, Périgord înflorit și mai puțini turiști. Iulie-august aduc turiști, dar și festivalul de teatru Mimos. Iarna, piețele de trufe din decembrie-februarie sunt punctul forte culinar al regiunii.",
+      "en": "May-June and September-October are ideal: mild weather, blooming Périgord and fewer tourists. July-August bring tourists but also the Mimos street theatre festival. In winter, the truffle markets from December to February are the region's culinary highlight."
+    },
+    "neighborhood_warnings": {
+      "de": "Périgueux ist meist sicher, doch der Bahnhofsbezirk kann abends ungemütlich sein. In der mittelalterlichen Altstadt auf Taschendiebe achten, besonders auf dem Markt. Parken im Zentrum ist begrenzt - nutzen Sie die ausgewiesenen Parkplätze.",
+      "hu": "Périgueux többnyire biztonságos, de a pályaudvar környéke este kellemetlen lehet. A középkori óvárosban figyelj a zsebtolvajokra, főleg a piacon. A központban a parkolás korlátozott - használd a kijelölt parkolókat.",
+      "ro": "Périgueux este în general sigur, dar zona gării poate fi neplăcută seara. În centrul medieval, atenție la hoții de buzunare, mai ales în piață. Parcarea în centru este limitată - folosiți parcările desemnate.",
+      "en": "Périgueux is mostly safe, but the station area can feel uneasy at night. In the medieval old town watch for pickpockets, especially at the market. Central parking is limited - use the designated car parks."
+    },
+    "parking_real_time": ""
   }
 }

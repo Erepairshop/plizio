@@ -974,5 +974,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.saint-emilion-tourisme.com/",
+    "events": "https://www.saint-emilion-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.saint-emilion-tourisme.com/billetterie/",
+    "transit_official": "https://www.transgironde.fr/",
+    "language_tips": {
+      "de": "Saint-Émilion ist UNESCO-Weinhauptstadt, Englisch wird in den Weingütern und Verkostungssalons fließend gesprochen. Lernen Sie 'grand cru classé' für die Klassifikation und 'merlot' (Hauptrebsorte hier) korrekt aussprechen. Bei Verkostungen 'un verre, s'il vous plaît' und beim Bezahlen Trinkgeld nicht vergessen.",
+      "hu": "Saint-Émilion UNESCO borfőváros, a borászatokban és kóstolószalonokban folyékonyan beszélnek angolul. Tanuld meg a 'grand cru classé' kifejezést az osztályozáshoz, és a 'merlot' (itteni fő szőlőfajta) helyes kiejtését. Kóstoláskor 'un verre, s'il vous plaît', fizetéskor ne feledd a borravalót.",
+      "ro": "Saint-Émilion este capitala viticolă UNESCO, engleza se vorbește fluent la crame și saloanele de degustare. Învățați 'grand cru classé' pentru clasificare și pronunția corectă a 'merlot' (soiul principal aici). La degustări, 'un verre, s'il vous plaît', iar la plată nu uitați bacșișul.",
+      "en": "Saint-Émilion is a UNESCO wine capital - English flows freely at wineries and tasting rooms. Learn 'grand cru classé' for the classification and pronounce 'merlot' (the main grape here) correctly. At tastings 'un verre, s'il vous plaît', and don't forget tipping when paying."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, perfekte Weinverkostungs-Bedingungen und blühende Weinberge. Juli und August voll mit Touristen, Parken schwierig. Im September-Oktober findet die Weinlese statt, ein authentisches Erlebnis. Winter ruhig, viele Weingüter geschlossen.",
+      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, tökéletes borkóstoló feltételek és virágzó szőlőültetvények. Júliusban és augusztusban zsúfolt, parkolni nehéz. Szeptemberben-októberben van a szüret, hiteles élmény. Télen csendes, sok borászat zárva.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, condiții perfecte pentru degustări și podgorii înflorite. Iulie-august aglomerate cu turiști, parcare dificilă. În septembrie-octombrie are loc culesul viilor, o experiență autentică. Iarna liniștită, multe crame închise.",
+      "en": "May-June and September-October are ideal: mild weather, perfect tasting conditions and blooming vineyards. July-August packed with tourists, parking tough. September-October brings the wine harvest - an authentic experience. Winter is quiet, many estates closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Saint-Émilion ist sehr sicher, eine charmante mittelalterliche Weinstadt. Im Sommer Parken außerhalb der Mauern. Beim Fahren zwischen Weingütern Mass beim Verkosten halten - die Polizei kontrolliert! Steile Pflasterstraßen erfordern feste Schuhe.",
+      "hu": "Saint-Émilion nagyon biztonságos, bájos középkori borváros. Nyáron a falakon kívül kell parkolni. Borászatok közti vezetésnél mértékkel kóstolj - a rendőrség ellenőriz! Meredek macskaköves utcák szilárd cipőt igényelnek.",
+      "ro": "Saint-Émilion este foarte sigur, un oraș viticol medieval fermecător. Vara, parcarea este obligatorie în afara zidurilor. La condusul între crame, degustați cu măsură - poliția controlează! Străzile abrupte pavate cu piatră necesită încălțăminte solidă.",
+      "en": "Saint-Émilion is very safe, a charming medieval wine town. Summer forces parking outside the walls. When driving between wineries taste in moderation - police do check! Steep cobbled streets demand sturdy shoes."
+    },
+    "parking_real_time": ""
   }
 }

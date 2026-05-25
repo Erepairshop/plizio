@@ -1062,5 +1062,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.visiterouen.com/",
+    "events": "https://www.visiterouen.com/agenda/",
+    "city_card": "https://www.visiterouen.com/rouen-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://reseau-astuce.fr/",
+    "language_tips": {
+      "de": "Rouen spricht normannisches Franzoesisch, klar und etwas rauer als in der Touraine. Englisch in Hotels und am Gros-Horloge verbreitet, in der Markthalle am Place du Vieux-Marche weniger. 'Bonjour' beim Eintreten ist Pflicht, sonst gilt man als unhoeflich.",
+      "hu": "Rouen normandiai franciat beszel, tiszta es kicsit erdesebb mint Touraine-ben. Szallodakban es a Gros-Horloge-nál van angol, a Place du Vieux-Marche piaccsarnokaban kevesbe. A bolepeskori 'bonjour' kotelezo, kulonben udvariatlannak tartanak.",
+      "ro": "Rouen vorbeste franceza normanda, clara si putin mai aspra decat in Touraine. Engleza merge la hoteluri si la Gros-Horloge, in piata din Place du Vieux-Marche mai putin. 'Bonjour' la intrare e obligatoriu, altfel esti vazut ca nepoliticos.",
+      "en": "Rouen speaks Norman French, clear and a bit rougher than Touraine. English works in hotels and at the Gros-Horloge, less in the Place du Vieux-Marche market hall. A 'bonjour' on entering is mandatory or you'll be tagged as rude."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (14-23 Grad), Jeanne-d'Arc-Festspiele Ende Mai, Armada-Flotte alle 4-5 Jahre im Juni. Juli-August warm aber selten heiss. Winter mild und nass (4-8 Grad), Kathedrale im Nebel besonders monetfaehig.",
+      "hu": "Majus-szeptember a legjobb (14-23 fok), majus vegen Jeanne d'Arc-unnepsegek, 4-5 evente Armada-flottatalalkozo juniusban. Julius-augusztus meleg, ritkan forrosan. Tel enyhe es nyirkos (4-8 fok), a kodos katedralis kulonosen Monet-szeru.",
+      "ro": "Mai-septembrie sunt ideale (14-23 grade), festivitatile Jeanne d'Arc la sfarsitul lui mai, Armada (flota) la 4-5 ani in iunie. Iulie-august sunt calde, rar fierbinti. Iarna e blanda si umeda (4-8 grade), catedrala in ceata e perfect monetiana.",
+      "en": "May-September are ideal (14-23°C), Joan of Arc festivities in late May, the Armada tall-ship gathering every 4-5 years in June. July-August are warm but rarely hot. Winter is mild and wet (4-8°C) — the cathedral in mist is pure Monet."
+    },
+    "neighborhood_warnings": {
+      "de": "Grammont und Hauts de Rouen am Stadtrand abends meiden. Innenstadt, Vieux-Marche und Gros-Horloge-Strasse sicher, gut beleuchtet. Bahnhof Rouen-Rive-Droite tagsueber lebhaft, nachts ruhiger.",
+      "hu": "Grammont es Hauts de Rouen a varos szelen este nem ajanlott. A belvaros, Vieux-Marche es a Gros-Horloge-utca biztonsagos, jol vilagitott. Rouen-Rive-Droite allomas nappal eleven, ejjel csendesebb.",
+      "ro": "Grammont si Hauts de Rouen, la periferie, sunt de evitat seara. Centrul, Vieux-Marche si strada Gros-Horloge sunt sigure si bine iluminate. Gara Rouen-Rive-Droite e animata ziua, mai linistita noaptea.",
+      "en": "Avoid Grammont and Hauts de Rouen on the outskirts after dark. The centre, Vieux-Marche and Gros-Horloge street stay safe and well-lit. Rouen-Rive-Droite station is busy by day, quieter at night."
+    },
+    "parking_real_time": ""
   }
 }

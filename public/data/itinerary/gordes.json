@@ -1072,5 +1072,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.destinationluberon.com/",
+    "events": "https://www.destinationluberon.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Gordes ist eines der schoensten Doerfer Frankreichs und stark internationalisiert (Briten, Amerikaner, Niederlaender mit Zweitwohnsitzen). Englisch klappt in den Restaurants und Galerien, doch ein 'bonjour' und Geduld bei den franzoesischen Inhabern oeffnen Tueren.",
+      "hu": "Gordes Franciaorszag egyik legszebb faluja, eros nemzetkozi jelenleten (brit, amerikai, holland masodlagos lakok). Az angol megy az ettermekben, galeriakban, de a 'bonjour' es turelem a francia tulajdonosokkal csodakra kepes.",
+      "ro": "Gordes e printre cele mai frumoase sate din Franta, foarte internationalizat (britanici, americani, olandezi cu case de vacanta). Engleza merge in restaurante si galerii, dar 'bonjour' si rabdarea fata de proprietarii francezi deschid usile.",
+      "en": "Gordes is one of France's most beautiful villages and highly internationalised (British, American, Dutch second-home owners). English works in restaurants and galleries, but a 'bonjour' and patience with French owners go a long way."
+    },
+    "best_time_to_visit": {
+      "de": "Mitte Juni bis Mitte Juli fuer den Lavendel auf den Feldern und in der Abtei Sénanque (das beruehmte Postkartenmotiv). September-Oktober fuer Weinlese und Truffles. Juli-August Reisebusansturm zur Mittagszeit, frueh anreisen.",
+      "hu": "Junius kozepetol julius kozepeig a levendula a mezokon es a Sénanque apatsagnal (a hires postakartya kep). Szeptember-oktober a szuretre es szarvasgombara. Julius-augusztus delben buszos sokasag, korai erkezes ajanlott.",
+      "ro": "De la mijlocul lui iunie pana la mijlocul lui iulie e lavanda pe campuri si la abatia Sénanque (faimoasa imagine de carte postala). Septembrie-octombrie pentru cules de struguri si trufe. In iulie-august, autocare la pranz, vino devreme.",
+      "en": "Mid-June to mid-July is lavender season — fields and the famous postcard view at Sénanque Abbey. September-October for the wine harvest and truffles. July-August sees coach-tour swarms around midday, arrive early."
+    },
+    "neighborhood_warnings": {
+      "de": "Parken im Dorf sehr begrenzt, die kostenpflichtigen Plaetze am Dorfeingang sind im Sommer voll. Restaurants in Gordes teurer als in den Nachbardorfern (Roussillon, Murs), Reservierung Pflicht. Strasse zur Abtei Sénanque eng, vorsichtig fahren.",
+      "hu": "Parkolas a faluban kevesz, a fizetos helyek a falu szelen nyaron tele. Az ettermek dragabbak, mint a szomszedos falvakban (Roussillon, Murs), foglalas kotelezo. A Sénanque-felvezeto ut keskeny, ovatosan vezess.",
+      "ro": "Parcari in sat foarte limitate, locurile cu plata de la intrare se umplu vara. Restaurantele din Gordes sunt mai scumpe decat in satele vecine (Roussillon, Murs), rezervarea e obligatorie. Drumul spre abatia Sénanque e ingust, conduceti atent.",
+      "en": "Parking in the village is very limited, the paid lots at the entrance fill up in summer. Restaurants in Gordes are pricier than in nearby Roussillon or Murs — booking essential. The road to Sénanque Abbey is narrow, drive carefully."
+    },
+    "parking_real_time": ""
   }
 }

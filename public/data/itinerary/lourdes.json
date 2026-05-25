@@ -934,5 +934,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/occitanie.html",
+    "tourism_office": "https://www.lourdes-infotourisme.com/",
+    "events": "https://www.lourdes-france.org/",
+    "city_card": "",
+    "museum_tickets": "https://www.lourdes-france.org/",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Lourdes ist eine internationale Pilgerstadt, viele Hotels und Restaurants sprechen Englisch, Italienisch, Spanisch und sogar Polnisch. In den Sanktuariums-Buchhandlungen helfen mehrsprachige Schilder, ein 'bonjour' bleibt aber freundlicher Eintritt.",
+      "hu": "Lourdes nemzetkozi zarandokvaros, sok szalloda es etterem angolul, olaszul, spanyolul es lengyelul is beszel. A szentely konyvesboltjaiban tobbnyelvu kiirasok segitenek, de egy 'bonjour' baratsagos belepojegy mindenhol.",
+      "ro": "Lourdes e oras international de pelerinaj, multe hoteluri si restaurante vorbesc engleza, italiana, spaniola si chiar poloneza. In librariile sanctuarului ai indicatoare multilingve, dar un 'bonjour' ramane intrarea prietenoasa peste tot.",
+      "en": "Lourdes is an international pilgrim town — many hotels and restaurants speak English, Italian, Spanish and even Polish. Sanctuary bookshops have multilingual signage, but a 'bonjour' remains the friendliest opener."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Oktober ist Pilgersaison mit Prozessionen und Messen in vielen Sprachen, Hoehepunkt 15. August (Mariae Himmelfahrt) mit Massen-Menschen. Mai und September sind ruhiger, gleiche Atmosphaere. Winter ist still und kalt, Sanktuarium aber offen.",
+      "hu": "Aprilistol oktoberig zarandok-szezon, korterek es misek tobb nyelven, csucs augusztus 15 (Nagyboldogasszony) hatalmas tomegekkel. Majus es szeptember csendesebb, ugyanaz a hangulat. Telen csendes es hideg, de a szentely nyitva.",
+      "ro": "Aprilie-octombrie e sezonul pelerinajelor, cu procesiuni si liturghii in multe limbi, varful fiind 15 august (Adormirea Maicii Domnului) cu multimi imense. Mai si septembrie sunt mai linistite cu aceeasi atmosfera. Iarna e linistita si rece, dar sanctuarul ramane deschis.",
+      "en": "Pilgrim season runs April to October with processions and masses in many languages, peaking on 15 August (Assumption) with huge crowds. May and September are quieter with the same atmosphere. Winter is calm and cold but the sanctuary stays open."
+    },
+    "neighborhood_warnings": {
+      "de": "Generell sehr sicher, achten Sie auf Taschendiebe in den Sanktuariums-Menschenmassen und auf ueberteuerte Souvenirlaeden direkt am Tor. Manche Hotels ausserhalb des Zentrums sind veraltet, Bewertungen lesen.",
+      "hu": "Altalaban nagyon biztonsagos, csak a szentely melletti tomegben legy ovatos a zsebtolvajokkal es a kapunal levo tulszamlazott szuvenirboltokkal. Nehany kozponton kivuli szalloda elavult, ertekeleseket olvass.",
+      "ro": "In general foarte sigur, atentie la hoti de buzunare in multimile de la sanctuar si la magazinele de suveniruri umflate la preturi din apropierea portii. Unele hoteluri din afara centrului sunt invechite; citeste recenzii.",
+      "en": "Generally very safe; watch for pickpockets in sanctuary crowds and overpriced souvenir shops right at the gates. Some hotels outside the centre are dated — read reviews."
+    },
+    "parking_real_time": ""
   }
 }

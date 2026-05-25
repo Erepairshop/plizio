@@ -1265,5 +1265,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.fontainebleau-tourisme.com/",
+    "events": "https://www.fontainebleau-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.chateaudefontainebleau.fr/billetterie/",
+    "transit_official": "https://www.transdev-idf.com/",
+    "language_tips": {
+      "de": "Fontainebleau ist königliche Geschichte und Klettern im Wald, Englisch wird im Schloss und in den Klettergebieten gut gesprochen. Lernen Sie 'Château de Fontainebleau' korrekt und 'forêt de Fontainebleau' für den weltbekannten Boulder-Wald. Bei Kletterern wird auch oft Englisch und Japanisch gesprochen.",
+      "hu": "Fontainebleau királyi történelem és erdei boulderezés, a kastélyban és a sziklamászó területeken jól beszélnek angolul. Tanuld meg a 'Château de Fontainebleau' nevet és a 'forêt de Fontainebleau' kifejezést a világhírű bouldererdőhöz. A mászók között gyakran van angol és japán szó is.",
+      "ro": "Fontainebleau este istorie regală și escaladă în pădure, engleza se vorbește bine la castel și în zonele de bouldering. Învățați 'Château de Fontainebleau' și 'forêt de Fontainebleau' pentru pădurea de bouldering renumită mondial. Printre cățărători se aude des engleza și japoneza.",
+      "en": "Fontainebleau is royal history plus forest bouldering - English is well spoken at the château and in climbing areas. Learn 'Château de Fontainebleau' and 'forêt de Fontainebleau' for the world-famous boulder forest. Climbers often speak English and Japanese here too."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühender Wald und perfekte Kletter-Bedingungen. Juli und August können heiß sein, der Wald bietet aber kühlen Schatten. Winter ist ruhig, das Schloss bleibt geöffnet und der Wald ist mystisch in Nebel und Reif gehüllt.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó erdő és tökéletes mászási feltételek. Júliusban és augusztusban meleg lehet, de az erdő hűvös árnyékot ad. Télen csendes, a kastély nyitva tart és az erdő misztikus a ködben és deres tájban.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, pădure înflorită și condiții perfecte de cățărare. Iulie-august pot fi calde, dar pădurea oferă umbră răcoroasă. Iarna este liniștită, castelul rămâne deschis și pădurea este mistică în ceață și brumă.",
+      "en": "April-June and September-October are ideal: mild weather, blooming forest and perfect climbing conditions. July-August can be hot, but the forest offers cool shade. Winter is quiet, the château stays open and the forest is mystical in mist and frost."
+    },
+    "neighborhood_warnings": {
+      "de": "Fontainebleau ist sehr sicher, eine ruhige königliche Stadt. Im Wald nicht von markierten Wegen abweichen, das Gebiet ist riesig und Verirrer kommen vor. Beim Bouldern Crashpads mitbringen und nicht alleine klettern.",
+      "hu": "Fontainebleau nagyon biztonságos, csendes királyi város. Az erdőben ne térj le a kijelölt ösvényekről, hatalmas terület, eltévedés előfordul. Boulderezéshez crashpadeket hozz és ne mássz egyedül.",
+      "ro": "Fontainebleau este foarte sigur, un oraș regal liniștit. În pădure nu deviați de la potecile marcate, zona este uriașă, rătăciri au loc. La bouldering, aduceți saltele de protecție și nu cățărați singuri.",
+      "en": "Fontainebleau is very safe, a quiet royal town. In the forest stay on marked trails - the area is vast and people get lost. For bouldering bring crash pads and never climb alone."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1300,5 +1300,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.chambery-tourisme.com/",
+    "events": "https://www.chambery-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Chambéry ist die historische Hauptstadt Savoyens. Französisch herrscht vor, in der Innenstadt englischfreundlich. Italienisch wird wegen Grenze gut verstanden. 'Fontaine des Éléphants' und 'Cathédrale' sind nicht verfehlbar, fragen Sie nach 'les quatre sans cul'.",
+      "hu": "Chambéry Szavoja történelmi fővárosa. A francia uralkodik, a belvárosban angolbarát. Az olaszt jól értik a határ miatt. A 'Fontaine des Éléphants' és a katedrális kihagyhatatlan, kérdezz rá a 'les quatre sans cul'-ra.",
+      "ro": "Chambéry este vechea capitală a Savoiei. Franceza domină, dar centrul este prietenos cu engleza. Italiana este înțeleasă datorită graniței. Nu ratați 'Fontaine des Éléphants' și catedrala, întrebați despre 'les quatre sans cul'.",
+      "en": "Chambéry is Savoy's historic capital. French rules, but the centre is English-friendly. Italian is understood thanks to the border. Don't miss the 'Fontaine des Éléphants' and cathedral, ask about 'les quatre sans cul'."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September: angenehm warm, weniger Schulausflüge. Juli-August: heiß, viele Festivals. Vier Jahreszeiten gut spürbar, Winter kann frostig sein. Vermeiden Sie Mitte November bis Anfang Dezember, oft regnerisch.",
+      "hu": "Május-június és szeptember: kellemesen meleg, kevesebb iskolai csoport. Július-augusztus: forró, sok fesztivál. A négy évszak markáns, a tél fagyos lehet. November közepétől december elejéig esős időszak, kerülendő.",
+      "ro": "Mai-iunie și septembrie: cald plăcut, mai puține excursii școlare. Iulie-august: cald, multe festivaluri. Cele patru anotimpuri sunt distincte, iarna poate fi geroasă. Evitați mijlocul noiembrie-început decembrie, ploios.",
+      "en": "May-June and September: pleasantly warm, fewer school trips. July-August: hot with many festivals. Four distinct seasons; winter can be frosty. Avoid mid-November to early December, often rainy."
+    },
+    "neighborhood_warnings": {
+      "de": "Sicher. Beim Bahnhof Chambéry-Challes-les-Eaux nachts wachsam bleiben. Verkehrsstaus auf der A41 in Skiwochenenden. Beim Wandern in den Bauges-Bergen Wetter prüfen, schnelle Wechsel.",
+      "hu": "Biztonságos. A Chambéry-Challes-les-Eaux pályaudvarnál éjjel maradj éber. A41-es autópálya síhétvégeken dugós. A Bauges-hegységben túrázáskor időt ellenőrizz, gyors váltások.",
+      "ro": "Sigur. La gara Chambéry-Challes-les-Eaux, fiți atenți noaptea. Pe A41 weekend-uri aglomerate la schi. La drumeții în Bauges, verificați vremea, schimbări rapide.",
+      "en": "Safe. Stay alert at night near Chambéry-Challes-les-Eaux station. A41 motorway jams on ski weekends. When hiking the Bauges, check weather forecasts, conditions shift fast."
+    },
+    "parking_real_time": ""
   }
 }

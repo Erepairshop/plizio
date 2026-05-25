@@ -994,5 +994,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.ot-honfleur.fr/",
+    "events": "https://www.ot-honfleur.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.bus-verts.com/",
+    "language_tips": {
+      "de": "Honfleur spricht klares normannisches Franzoesisch, sehr touristisch ausgerichtet. Englisch in Galerien und Hafen-Restaurants stark verbreitet. 'Bonjour' und 'merci' bleiben Pflicht. Maler-Stadt, Kunst-Vokabular hilft im Kontakt mit Galeristen.",
+      "hu": "Honfleur tiszta normandiai franciat beszel, eroteljesen turistabarat. A galeriakban es kikoto-ettermekben sok angol. A 'bonjour' es 'merci' kotelezo. Festoi varos, a muveszeti szokincs segit a galeriasokkal valo kapcsolatban.",
+      "ro": "Honfleur vorbeste franceza normanda clara, puternic turistic orientata. Engleza e raspandita in galerii si restaurantele din port. 'Bonjour' si 'merci' raman obligatorii. Oras de pictori, vocabularul de arta ajuta in dialogul cu galeristii.",
+      "en": "Honfleur speaks clear Norman French, heavily tourist-oriented. English is widespread in galleries and harbour restaurants. 'Bonjour' and 'merci' remain mandatory. As a painters' town, art vocabulary helps when chatting with gallerists."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (14-22 Grad), Festival du Cinema Russe im November charmant. Juli-August voll mit Pariser Wochenend-Touristen, Hafen-Promenade voll. Winter mild und nass (5-9 Grad), Galerien offen, Vieux Bassin im Nebel postkartenwuerdig.",
+      "hu": "Majus-szeptember a legjobb (14-22 fok), novemberben orosz filmfesztival aranyos. Julius-augusztus tele parizsi hetvegi turistakkal, a kikoto-promenad zsufolt. Tel enyhe es nyirkos (5-9 fok), galeriak nyitva, a kodos Vieux Bassin kepeslapszeru.",
+      "ro": "Mai-septembrie sunt ideale (14-22 grade), festivalul de film rusesc din noiembrie e fermecator. Iulie-august sunt pline de turisti parizieni de weekend, promenada portului aglomerata. Iarna e blanda si umeda (5-9 grade), galeriile sunt deschise, Vieux Bassin in ceata e ca o carte postala.",
+      "en": "May-September are ideal (14-22°C), and the Russian Film Festival in November has charm. July-August fill up with Parisian weekenders and the harbour promenade gets crowded. Winter is mild and damp (5-9°C), galleries stay open, and the Vieux Bassin in mist is postcard-perfect."
+    },
+    "neighborhood_warnings": {
+      "de": "Honfleur ist sehr sicher, sehr kleine Stadt. Im Vieux Bassin in der Hauptsaison Taschendiebe moeglich. Kein gefährliches Viertel bekannt. Parkplatzsuche kann naerven, Schilder beachten.",
+      "hu": "Honfleur nagyon biztonsagos, igen kis varos. A Vieux Bassinon csucsszezonban zsebtolvajok lehetnek. Veszelyes negyed nincs. A parkolokeres idegesito, figyelj a tablakra.",
+      "ro": "Honfleur e foarte sigur, oras foarte mic. La Vieux Bassin, in sezon, pot aparea hoti de buzunare. Nu exista cartier periculos. Cautarea parcarii poate frustra, atentie la indicatoare.",
+      "en": "Honfleur is very safe — tiny town. Pickpockets can surface at the Vieux Bassin in peak season. No genuinely dangerous quarter. Finding parking can be frustrating; mind the signs."
+    },
+    "parking_real_time": ""
   }
 }

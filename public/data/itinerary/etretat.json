@@ -1176,5 +1176,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/normandie.html",
+    "tourism_office": "https://www.lehavre-etretat-tourisme.com/",
+    "events": "https://www.lehavre-etretat-tourisme.com/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Etretat ist ein kleines Normandie-Dorf, das von den Klippen aus Monets Bildern lebt. Englisch klappt in Hotels und Cidre-Bars, im Boulangerie und Markt gehoert ein 'bonjour' aber dazu, sonst wirkst du als Tourist sehr unhoeflich.",
+      "hu": "Etretat egy kis normandiai falu, mely Monet kepeibol ismert sziklakbol el. Az angol megy a szallodakban es ciderbarokban, de a pekiben es a piacon egy 'bonjour' nelkul nagyon udvariatlanul tunsz turistanak.",
+      "ro": "Etretat e un satuc din Normandia care traieste din falezele pictate de Monet. Engleza merge la hoteluri si baruri cu cidru, dar la brutarie si in piata fara 'bonjour' pari un turist nepoliticos.",
+      "en": "Etretat is a small Normandy village famous for the cliffs in Monet's paintings. English works at hotels and cider bars, but skipping the 'bonjour' at the bakery or market makes you look rude."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September fuer Klippenwanderungen und Strand, 15-22 Grad und gutes Licht fuer Fotos. Juli und August sind voll, kommen Sie vor 10 Uhr oder nach 17 Uhr. Winter ist dramatisch mit Stuermen, viele Hotels und Restaurants aber zu.",
+      "hu": "Majus-szeptember a sziklatúrákra es strandra, 15-22 fok es jo fotofeny. Julius-augusztusban zsufolt, erkezz 10 ora elott vagy 17 utan. Telen dramai viharok, de sok szalloda es etterem zarva.",
+      "ro": "Mai-septembrie pentru drumetii pe faleze si plaja, 15-22 grade si lumina buna pentru poze. Iulie-august sunt aglomerate; vino inainte de 10 sau dupa 17. Iarna e dramatica cu furtuni, dar multe hoteluri si restaurante inchise.",
+      "en": "May to September for cliff walks and beach, 15-22°C and great photo light. July and August are packed — arrive before 10am or after 5pm. Winter is dramatic with storms but many hotels and restaurants close."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, Hauptgefahr sind die Klippen selbst: keine Selfies am Rand, Erdrutsche und Tide auf dem Strand unter den Boegen. Bei Flut kann man im Strand-Tunnel eingeschlossen werden, Tidekalender beachten.",
+      "hu": "Nagyon biztonsagos, fo veszely magaak a sziklak: nincs selfie a szelen, foldcsuszamlas es dagaly a strandon az ivek alatt. Dagalykor a strand-alagutban beszorulhatsz, dagalynaptart figyelj.",
+      "ro": "Foarte sigur, principalul pericol fiind chiar falezele: fara selfie pe margine, alunecari de teren si maree pe plaja de sub arcade. La flux poti ramane blocat in tunelul plajei; verifica calendarul mareelor.",
+      "en": "Very safe; the main hazard is the cliffs themselves — no edge selfies, watch for landslips and tides on the beach beneath the arches. You can get trapped in the beach tunnel at high tide, check tide times."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1063,5 +1063,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.kaysersberg.com/",
+    "events": "https://www.kaysersberg.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Kaysersberg (Geburtsort Albert Schweitzers) ist sehr deutschsprachig zugänglich. Lokale verwenden gern Elsässisch: 'Bredala' (Plätzchen), 'Stüebla' (kleine Stube). 'Bonjour' beim Eintritt bleibt Pflicht. Englisch in den Hauptweingütern und Hotels gut.",
+      "hu": "Kaysersberg (Schweitzer Albert szülőhelye) jól megérteti magát németül. A helyiek szeretik használni az elzászit: 'Bredala' (sütemény), 'Stüebla' (kis szoba). A 'Bonjour' belépéskor mindig kötelező. Angol jól megy a fő pincészetekben és hotelekben.",
+      "ro": "Kaysersberg (locul de naștere al lui Albert Schweitzer) este foarte accesibil în germană. Localnicii folosesc bucuros alsaciana: 'Bredala' (prăjituri), 'Stüebla' (cameră mică). 'Bonjour' la intrare rămâne obligatoriu. Engleza este bună în vinăriile principale.",
+      "en": "Kaysersberg (Albert Schweitzer's birthplace) is very German-friendly. Locals love Alsatian words: 'Bredala' (cookies), 'Stüebla' (small parlour). Always greet with 'Bonjour'. English works well at major wineries and hotels."
+    },
+    "best_time_to_visit": {
+      "de": "Dezember-Weihnachtsmarkt gilt als einer der schönsten im Elsass. September-Oktober: Erntezauber. Mai-Juni: weniger Touristen, milde Temperaturen. Vermeiden Sie Juli-August Wochenenden, parken Sie kilometerweit entfernt.",
+      "hu": "A decemberi karácsonyi vásár Elzász egyik legszebbike. Szeptember-október: szüret-varázs. Május-június: kevesebb turista, kellemes hőmérséklet. Július-augusztusi hétvégéken csak több km-rel arrébb tudsz parkolni.",
+      "ro": "Târgul de Crăciun din decembrie este unul dintre cele mai frumoase din Alsacia. Septembrie-octombrie: farmecul culesului. Mai-iunie: mai puțini turiști, temperaturi blânde. Weekend-urile din iulie-august: parcare la kilometri distanță.",
+      "en": "December's Christmas market ranks among Alsace's loveliest. September-October brings harvest magic. May-June: fewer crowds, mild weather. Avoid July-August weekends or you'll park kilometres away."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Steile Stiegen zur Burgruine sind bei Nässe rutschig. Achten Sie auf den Weichbach-Bach mit niedrigen Mauern, besonders mit Kindern. Beim Weihnachtsmarkt-Glühwein nicht übertreiben.",
+      "hu": "Nagyon biztonságos. A várromhoz vezető meredek lépcsők esőben csúszósak. A Weichbach patak alacsony falaira ügyelj, főleg gyerekkel. A karácsonyi forralt borral ne vidd túlzásba.",
+      "ro": "Foarte sigur. Treptele abrupte spre ruinele castelului alunecă pe ploaie. Atenție la pârâul Weichbach cu ziduri joase, mai ales cu copii. La vinul fiert de la târg, moderație.",
+      "en": "Very safe. Steep steps to the castle ruin grow slick in rain. Mind the low walls along the Weichbach stream, especially with children. Pace yourself with Christmas-market mulled wine."
+    },
+    "parking_real_time": ""
   }
 }

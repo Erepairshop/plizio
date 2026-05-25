@@ -1183,5 +1183,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.ajaccio-tourisme.com/",
+    "events": "https://www.ajaccio-tourisme.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.musee-fesch.com/",
+    "transit_official": "https://www.bus-tca.fr/",
+    "language_tips": {
+      "de": "Ajaccio ist Hauptstadt Korsikas und Napoleons Geburtsstadt, Franzoesisch ist Amts- und Hauptsprache. Korsisch wird zunehmend in Schulen unterrichtet und steht auf vielen Schildern. Englisch klappt in Hafenrestaurants und Hotels, weniger im Inland.",
+      "hu": "Ajaccio Korzika fovarosa es Napoleon szuletesi helye, a francia a hivatalos es fo nyelv. A korzikai egyre tobbet tanitjak iskolakban, sok tablan szerepel. Az angol megy a kikotoi ettermekben es hotelekben, kevesebbet a beljebb fekvo helyeken.",
+      "ro": "Ajaccio e capitala Corsicii si orasul natal al lui Napoleon, franceza e limba oficiala si principala. Corsicana e tot mai mult predata in scoli si apare pe multe semne. Engleza merge in restaurantele portului si hoteluri, mai putin in interior.",
+      "en": "Ajaccio is Corsica's capital and Napoleon's birthplace — French is the official and main language. Corsican is increasingly taught in schools and shown on signs. English works in harbour restaurants and hotels, less so inland."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober ideal: warm, das Meer schon (oder noch) 22 Grad, Napoleon-Festspiele Mitte August. Juli-August voll mit franzoesischen Familien und Yachten. Im Winter mild (12-16 Grad), aber viel Regen moeglich.",
+      "hu": "Majus-junius es szeptember-oktober ideal: meleg, tenger mar (vagy meg) 22 fok, Napoleon unnepsegek augusztus kozepen. Julius-augusztus francia csaladokkal es jachtokkal zsufolt. Telen enyhe (12-16 fok), de sok eso.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: cald, marea inca (sau deja) la 22 grade, festivitatile napoleoniene la mijlocul lui august. Iulie-august aglomerat cu familii franceze si iahturi. Iarna blanda (12-16 grade), dar poate ploua mult.",
+      "en": "May-June and September-October are ideal: warm, sea still (or already) at 22°C, the Napoleonic festivities in mid-August. July-August fills up with French families and yachts. Winter is mild (12-16°C) but can be rainy."
+    },
+    "neighborhood_warnings": {
+      "de": "Hauptstrasse Cours Napoléon abends meist sicher, in den Hafen-Nebenstrassen nachts auf Taschendiebe achten. Parken in der Altstadt sehr schwierig, lieber Parkhaus Diamant. Sandstraende der Iles Sanguinaires gut, aber wind- und stroemungsabhaengig.",
+      "hu": "A fo ut Cours Napoléon este altalaban biztonsagos, a kikotoi melekutcakban ejjel zsebtolvajokra figyelj. Az ovarosi parkolas nehez, jobb a Diamant parkolohaz. Az Iles Sanguinaires homokstrandjai jok, de szel- es aramfuggok.",
+      "ro": "Strada principala Cours Napoléon e in general sigura seara, in strazile laterale ale portului noaptea atentie la hoti de buzunare. Parcari in centrul vechi dificile, mai bine parcarea Diamant. Plajele de la Iles Sanguinaires sunt bune dar depind de vant si curenti.",
+      "en": "The main Cours Napoléon street is mostly safe in the evening, but watch for pickpockets in harbour side-streets at night. Parking in the old town is tough — use the Diamant garage. The Iles Sanguinaires beaches are nice but wind and current dependent."
+    },
+    "parking_real_time": ""
   }
 }

@@ -934,5 +934,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-carcassonne.fr/",
+    "events": "https://www.tourisme-carcassonne.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://www.remparts-carcassonne.fr/billetterie/",
+    "transit_official": "https://www.rtca.fr/",
+    "language_tips": {
+      "de": "Carcassonne ist UNESCO-Festungsstadt, Englisch wird in der Cité und am Canal du Midi flüssig gesprochen. Lernen Sie 'la Cité' (medieval city) und 'la Bastide Saint-Louis' (Unterstadt) für die beiden Hauptbereiche. Bei Cassoulet, dem Lokalgericht, 'le cassoulet de Carcassonne' bestellen.",
+      "hu": "Carcassonne UNESCO erődváros, a Cité-ben és a Canal du Midi-nél folyékonyan beszélnek angolul. Tanuld meg a 'la Cité' (középkori város) és 'la Bastide Saint-Louis' (alsóváros) nevét a két fő területhez. A cassoulet helyi ételhez 'le cassoulet de Carcassonne' rendelés a helyi név.",
+      "ro": "Carcassonne este oraș-fortăreață UNESCO, engleza se vorbește fluent în Cité și pe Canal du Midi. Învățați 'la Cité' (orașul medieval) și 'la Bastide Saint-Louis' (orașul de jos) pentru cele două zone principale. La cassoulet, mâncarea locală, cereți 'le cassoulet de Carcassonne'.",
+      "en": "Carcassonne is a UNESCO fortress city - English flows freely in the Cité and along Canal du Midi. Learn 'la Cité' (medieval citadel) and 'la Bastide Saint-Louis' (lower town) for the two main areas. For the local dish, order 'le cassoulet de Carcassonne'."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Touristen und perfekte Bedingungen für die Festungsbesichtigung. Juli und August extrem voll, das Festival de Carcassonne (Konzerte) ist aber spektakulär. Vermeiden Sie den 14. Juli, das Feuerwerk in der Cité ist legendär aber überlaufen.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb turista és tökéletes feltételek az erődmegtekintéshez. Júliusban és augusztusban extrém zsúfolt, de a Festival de Carcassonne (koncertek) látványos. Kerüld július 14-ét, a Cité-i tűzijáték legendás, de zsúfolt.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini turiști și condiții perfecte pentru vizitarea fortăreței. Iulie-august extrem de aglomerate, dar festivalul Carcassonne (concerte) este spectaculos. Evitați 14 iulie, focul de artificii din Cité este legendar dar aglomerat.",
+      "en": "April-June and September-October are ideal: mild weather, fewer tourists and perfect conditions for fortress visits. July-August extremely packed, though the Festival de Carcassonne (concerts) is spectacular. Avoid 14 July - the Cité fireworks are legendary but overwhelming."
+    },
+    "neighborhood_warnings": {
+      "de": "Carcassonne ist meist sicher, doch in der Cité und um den Bahnhof Taschendiebe in der Hochsaison. Die Cité hat keinen Autoverkehr - parken Sie an den ausgewiesenen Parkplätzen außerhalb der Mauern.",
+      "hu": "Carcassonne többnyire biztonságos, de a Cité-ben és a pályaudvar környékén főszezonban vannak zsebtolvajok. A Cité-ben nincs autóforgalom - parkolj a falakon kívüli kijelölt parkolókban.",
+      "ro": "Carcassonne este în general sigur, dar în Cité și în jurul gării sunt hoți de buzunare în sezonul de vârf. Cité-ul nu are trafic auto - parcați în parcările desemnate din afara zidurilor.",
+      "en": "Carcassonne is mostly safe, but watch for pickpockets in the Cité and around the station during peak season. The Cité has no car access - park in designated lots outside the walls."
+    },
+    "parking_real_time": ""
   }
 }

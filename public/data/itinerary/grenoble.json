@@ -1264,5 +1264,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.grenoble-tourisme.com/",
+    "events": "https://www.grenoble-tourisme.com/agenda/",
+    "city_card": "https://www.grenoble-tourisme.com/grenoble-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.tag.fr/",
+    "language_tips": {
+      "de": "Grenoble spricht klares, akademisch gepraegtes Franzoesisch, viele Studenten und Forscher koennen Englisch. In Berghuetten und kleinen Bistros hilft 'bonjour' und 'merci'. Skigebiete in der Naehe sprechen gemischt Franzoesisch, Italienisch und Englisch.",
+      "hu": "Grenoble tiszta, akademiai franciat beszel, sok diak es kutato tud angolul. A hegyi menedekhazakban es kis bisztrokban a 'bonjour' es 'merci' segit. A kozeli sipalyak vegyesen beszelnek franciat, olaszt es angolt.",
+      "ro": "Grenoble vorbeste franceza clara, academica; multi studenti si cercetatori stiu engleza. La cabane de munte si in bistro-uri mici 'bonjour' si 'merci' ajuta. Statiunile de ski apropiate vorbesc amestec de franceza, italiana si engleza.",
+      "en": "Grenoble speaks clear, university-flavoured French and many students and researchers handle English. In mountain refuges and small bistros 'bonjour' and 'merci' still matter. Nearby ski resorts mix French, Italian and English freely."
+    },
+    "best_time_to_visit": {
+      "de": "Juni-September fuer Wandern und Stadt (18-26 Grad), Dezember-Maerz fuer Ski (Resorts in 30-60 Min Entfernung). Juli-August warm aber Bergluft kuehlt ab. Mai und Oktober Uebergang: tagsueber mild, Berge noch erreichbar, weniger Touristen.",
+      "hu": "Junius-szeptember turazasra es varosra (18-26 fok), december-marcius sieleshez (30-60 perces siterep). Julius-augusztus meleg, de a hegyi levego huvosit. Majus es oktober atmenet: nappal enyhe, a hegyek elerhetok, kevesebb turista.",
+      "ro": "Iunie-septembrie pentru drumetii si oras (18-26 grade), decembrie-martie pentru ski (statiunile la 30-60 min). Iulie-august sunt calde, dar aerul de munte raceste. Mai si octombrie sunt tranzitii: ziua blanda, muntii accesibili, mai putini turisti.",
+      "en": "June-September for hiking and city (18-26°C), December-March for skiing (resorts 30-60 minutes away). July-August are warm but the mountain air cools things. May and October are transitions: mild days, peaks reachable, fewer tourists."
+    },
+    "neighborhood_warnings": {
+      "de": "Villeneuve und Mistral im Sueden abends meiden. Bahnhof Europole tagsueber okay, nachts ruhig. Innenstadt und Bastille-Seilbahn sicher, Taschendiebe an Hauptbushaltestellen moeglich.",
+      "hu": "Villeneuve es Mistral delen este nem ajanlott. Europole allomas nappal rendben, ejjel csendes. A belvaros es a Bastille-felvono biztonsagos, a fobb buszmegallokban zsebtolvajok elofordulnak.",
+      "ro": "Villeneuve si Mistral, in sud, sunt de evitat seara. Gara Europole e ok ziua, linistita noaptea. Centrul si telefericul Bastille sunt sigure, dar pot aparea hoti de buzunare la marile statii de autobuz.",
+      "en": "Avoid Villeneuve and Mistral in the south after dark. Europole station is fine by day, quiet by night. The centre and the Bastille cable car are safe, but watch pockets at major bus hubs."
+    },
+    "parking_real_time": ""
   }
 }

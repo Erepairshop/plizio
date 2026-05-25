@@ -1150,5 +1150,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://caenlamer-tourisme.fr/",
+    "events": "https://caenlamer-tourisme.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://twisto.fr/",
+    "language_tips": {
+      "de": "Caen spricht klares normannisches Franzoesisch, etwas rauer als in Paris, aber gut verstaendlich. Englisch im Memorial de Caen und Hotels verbreitet, in Markthallen und Bistros eher gemischt. 'Bonjour' beim Eintreten ist Pflicht.",
+      "hu": "Caen tiszta normandiai franciat beszel, kicsit erdesebb mint Parizsban, de jol ertheto. A Memorial de Caen-ban es szallodakban van angol, piaci csarnokokban es bisztrokban vegyes. A bolepeskori 'bonjour' kotelezo.",
+      "ro": "Caen vorbeste franceza normanda clara, putin mai aspra decat la Paris, dar usor de inteles. Engleza merge la Memorial de Caen si la hoteluri, in piete si bistro-uri e mixt. 'Bonjour' la intrare e obligatoriu.",
+      "en": "Caen speaks clear Norman French, a bit rougher than Parisian but easy to follow. English works at the Memorial de Caen and hotels, mixed in market halls and bistros. 'Bonjour' on entering is mandatory."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (14-22 Grad), D-Day-Gedenken Anfang Juni mit Veteranen-Veranstaltungen. Juli-August warm und voll, dafuer Strand und Festival 'Caen la Mer'. Winter mild und nass (4-8 Grad), Memorial-Besuch ohne Menge.",
+      "hu": "Majus-szeptember a legjobb (14-22 fok), junius eleji D-Day megemlekezesek veteranok reszvetelevel. Julius-augusztus meleg es zsufolt, cserebe strand es 'Caen la Mer' fesztival. Tel enyhe es nyirkos (4-8 fok), Memorial tomeg nelkul.",
+      "ro": "Mai-septembrie sunt ideale (14-22 grade), comemorarile D-Day la inceput de iunie, cu veterani. Iulie-august sunt calde si aglomerate, dar cu plaja si festivalul 'Caen la Mer'. Iarna e blanda si umeda (4-8 grade), Memorialul fara aglomeratie.",
+      "en": "May-September are ideal (14-22°C), with D-Day commemorations in early June featuring veterans. July-August are warm and busy but bring beach time and the 'Caen la Mer' festival. Winter is mild and wet (4-8°C), perfect for crowd-free Memorial visits."
+    },
+    "neighborhood_warnings": {
+      "de": "Chemin Vert und Pierre-Heuze im Norden abends meiden. Innenstadt, Schlossviertel und Vaugueux-Gasse sicher. Bahnhof Caen tagsueber okay, nachts ruhig.",
+      "hu": "Chemin Vert es Pierre-Heuze eszakon este nem ajanlott. A belvaros, kastely-negyed es Vaugueux-utcacskak biztonsagos. Caen allomas nappal rendben, ejjel csendes.",
+      "ro": "Chemin Vert si Pierre-Heuze, in nord, sunt de evitat seara. Centrul, cartierul castelului si straduta Vaugueux sunt sigure. Gara Caen e ok ziua, linistita noaptea.",
+      "en": "Avoid Chemin Vert and Pierre-Heuze in the north after dark. The centre, castle district and Vaugueux alley are safe. Caen station is fine by day, calm at night."
+    },
+    "parking_real_time": ""
   }
 }

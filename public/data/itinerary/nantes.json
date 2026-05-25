@@ -1112,5 +1112,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/pays-de-la-loire.html",
+    "tourism_office": "https://www.levoyageanantes.fr/en/",
+    "events": "https://www.levoyageanantes.fr/en/",
+    "city_card": "https://www.levoyageanantes.fr/en/",
+    "museum_tickets": "https://www.lesmachines-nantes.fr/en/",
+    "transit_official": "https://www.tan.fr/",
+    "language_tips": {
+      "de": "Nantes ist die kreative Hafenstadt am Loire-Muendung, Studenten und Kunstvolk machen Englisch problemlos. Im Bouffay-Viertel und auf der Ile de Nantes (Machines de l'Ile) klappt alles englisch, aber ein 'bonjour' und 'merci' bleiben Standard-Hoeflichkeit.",
+      "hu": "Nantes a Loire-torkolat menti kreatív kikotovaros, dialokok es muvesznep miatt az angol gond nelkül megy. A Bouffay negyedben es az Ile de Nantes-on (Machines de l'Ile) minden megy angolul, de a 'bonjour' es 'merci' alapudvariassag.",
+      "ro": "Nantes e oras-port creativ la gura Loarei; studentii si comunitatea artistica fac engleza usoara. In cartierul Bouffay si pe Ile de Nantes (Machines de l'Ile) totul merge in engleza, dar 'bonjour' si 'merci' raman politete de baza.",
+      "en": "Nantes is the creative port at the Loire mouth; students and artists make English easy. In Bouffay quarter and on Ile de Nantes (Machines de l'Ile) everything works in English, but 'bonjour' and 'merci' remain standard courtesy."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist ideal: 18-25 Grad, der Voyage a Nantes-Sommerparcours mit Kunstinstallationen laeuft Ende Juni bis September. Winter ist regnerisch und mild, viele Museen aber offen. April bringt Bluete am Erdre.",
+      "hu": "Majus-szeptember a legjobb: 18-25 fok, a Voyage a Nantes nyari muveszeti palya junius vegetol szeptemberig. Telen esos es enyhe, sok muzeum nyitva. Aprilisban viragzas az Erdre folyo menten.",
+      "ro": "Mai-septembrie sunt ideale: 18-25 grade, Voyage a Nantes (parcurs de arta urbana) ruleaza din iunie pana in septembrie. Iarna e ploioasa si blanda, dar multe muzee deschise. Aprilie aduce inflorire pe raul Erdre.",
+      "en": "May to September is ideal: 18-25°C, the Voyage a Nantes summer art trail runs end June to September. Winter is rainy and mild, many museums still open. April brings blossom along the Erdre river."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum, Bouffay und Ile de Nantes sind sicher, charmant und lebendig. Bellevue, Dervalliere und Malakoff (aussere Stadtteile) sind nicht touristisch und nicht empfohlen. Bahnhof abends ok aber wachsam.",
+      "hu": "Kozpont, Bouffay es Ile de Nantes biztonsagos, varazsos es elven. Bellevue, Dervalliere es Malakoff (kulso kerulet) nem turista terulet, nem ajanlott. Palyaudvar estere ok, de eberseg.",
+      "ro": "Centrul, Bouffay si Ile de Nantes sunt sigure, fermecatoare si vii. Bellevue, Dervalliere si Malakoff (cartiere periferice) nu sunt zone turistice si nu sunt recomandate. Gara seara e ok, dar fii vigilent.",
+      "en": "Centre, Bouffay and Ile de Nantes are safe, charming and lively. Bellevue, Dervalliere and Malakoff (outer suburbs) aren't tourist areas. The station is fine in the evening but stay alert."
+    },
+    "parking_real_time": ""
   }
 }

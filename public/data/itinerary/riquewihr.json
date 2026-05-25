@@ -1071,5 +1071,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.ribeauville-riquewihr.com/",
+    "events": "https://www.ribeauville-riquewihr.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Im Riquewihr ist Deutsch quasi Heimsprache, viele Winzer sprechen es fließend. Elsässisch (Elsässisch) klingt in Weinkellern. 'Grüss Gott' und 'Bonjour' beide willkommen. Englisch in Restaurants ok, in Familienwinzern nur Grundwortschatz.",
+      "hu": "Riquewihrben a német szinte anyanyelv, sok borász folyékonyan beszéli. Az elzászi tájszólás cseng a borospincékben. A 'Grüss Gott' és a 'Bonjour' egyaránt jó. Az angol éttermekben oké, családi pincészetekben csak alapszókincs.",
+      "ro": "În Riquewihr, germana este aproape limbă maternă, mulți viticultori o vorbesc fluent. Dialectul alsacian răsună prin pivnițe. 'Grüss Gott' și 'Bonjour' sunt ambele acceptate. Engleza este bună în restaurante, mai limitată la vinării familiale.",
+      "en": "In Riquewihr, German is nearly native; many winemakers speak it fluently. Alsatian dialect rings through wine cellars. Both 'Grüss Gott' and 'Bonjour' are welcomed. English works in restaurants but only basics at family wineries."
+    },
+    "best_time_to_visit": {
+      "de": "September-Oktober ist Erntezeit, der Hauptcharme der Weinstraße. Mai-Juni für Weinbergblüten. Dezember verzaubert mit Weihnachtsmarkt. Juli-August sehr touristisch und heiß. Februar-März wirken leblos, viele Winzer geschlossen.",
+      "hu": "Szeptember-október a szüret, ez a borút igazi varázsa. Május-június a szőlővirágzásért. December a karácsonyi vásárral elbűvölő. Július-augusztus nagyon turistás és forró. Februárt-márciust kerüld, sok pincészet zár.",
+      "ro": "Septembrie-octombrie este perioada culesului, farmecul real al drumului vinului. Mai-iunie pentru viile înflorite. Decembrie încântă cu târgul de Crăciun. Iulie-august este turistic și cald. Februarie-martie pare adormit.",
+      "en": "September-October is harvest, the wine route's real magic. May-June for vineyard bloom. December enchants with the Christmas market. July-August is hot and very touristy. February-March feels lifeless, many wineries closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Praktisch keine Kriminalität. Hauptproblem: Parken in der Innenstadt verboten, externe Parkplätze nutzen. Im Dezember Vorsicht vor Glatteis auf den Kopfsteinpflastern. Trinken Sie verantwortungsvoll bei den Weinverkostungen.",
+      "hu": "Gyakorlatilag nincs bűnözés. Fő gond: a városközpontban tilos parkolni, használj külső parkolót. Decemberben vigyázz a jeges macskakőre. Borkóstolásnál igyál felelősségteljesen.",
+      "ro": "Practic fără criminalitate. Problema principală: parcarea în centru este interzisă, folosiți parcările exterioare. În decembrie, atenție la pavajul înghețat. La degustări, beți responsabil.",
+      "en": "Virtually no crime. Main issue: parking is banned inside the walls, use outer car parks. In December, watch for icy cobbles. Pace yourself at the wine tastings."
+    },
+    "parking_real_time": ""
   }
 }

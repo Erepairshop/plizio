@@ -966,5 +966,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tours-tourisme.fr/en/",
+    "events": "https://www.tours-tourisme.fr/en/",
+    "city_card": "https://www.tours-tourisme.fr/en/",
+    "museum_tickets": "https://www.tours-tourisme.fr/en/",
+    "transit_official": "https://www.filbleu.fr/",
+    "language_tips": {
+      "de": "Tours hat den Ruf des reinsten Franzoesisch des Landes, und ist eine studentenfreundliche Loire-Stadt. Englisch klappt im Place Plumereau und in Hotels, an den Bistros der Rue Colbert gehoert ein 'bonjour' und 'merci' zum guten Ton.",
+      "hu": "Tours-ban allitólag az orszag legtisztabb franciát beszelik, egyetemi varos a Loire-n. Az angol megy a Place Plumereau-n es szallodakban, a Rue Colbert bisztroinal a 'bonjour' es 'merci' alapveto.",
+      "ro": "Tours e renumit ca avand cea mai curata franceza din tara, un oras studentesc pe Loara. Engleza merge in Place Plumereau si in hoteluri, dar la bistrourile de pe Rue Colbert 'bonjour' si 'merci' sunt standard.",
+      "en": "Tours is said to speak the country's purest French and is a student-friendly Loire city. English works at Place Plumereau and hotels; at the bistros on Rue Colbert a 'bonjour' and 'merci' are essential."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist die Loire-Schloss-Saison, perfekte Basisstadt fuer Chenonceau, Villandry, Azay-le-Rideau. 18-25 Grad, lange Tage. Vermeiden Sie Wochenenden im August. Winter ist mild und ruhig.",
+      "hu": "Majus-szeptember a Loire-i kastely-szezon, tokeletes bazis Chenonceau, Villandry, Azay-le-Rideau lategatasahoz. 18-25 fok, hosszu napok. Kerud az augusztusi hetvegeket. Telen enyhe es csendes.",
+      "ro": "Mai-septembrie e sezonul castelelor de pe Loara, baza perfecta pentru Chenonceau, Villandry, Azay-le-Rideau. 18-25 grade, zile lungi. Evita weekendurile din august. Iarna e blanda si linistita.",
+      "en": "May-September is Loire chateaux season — the perfect base for Chenonceau, Villandry, Azay-le-Rideau. 18-25°C, long days. Avoid August weekends. Winter is mild and quiet."
+    },
+    "neighborhood_warnings": {
+      "de": "Vieux-Tours rund um Place Plumereau ist sicher tagsueber, abends sehr Studenten-laut und lebhaft. Sanitas und Le Sanitas (aussere Stadtteile) sind nicht touristisch. Bahnhof Tours-Centre abends ok aber wachsam.",
+      "hu": "Vieux-Tours a Place Plumereau koruli nappal biztonsagos, estere nagyon egyetemi-hangos. Sanitas es Le Sanitas (kulso kerulet) nem turista terulet. Tours-Centre palyaudvar estere ok, de eberseg.",
+      "ro": "Vieux-Tours, in jurul Place Plumereau, e sigur ziua, foarte galagios studenteste seara. Sanitas si Le Sanitas (cartiere periferice) nu sunt turistice. Gara Tours-Centre seara e ok, dar fii vigilent.",
+      "en": "Vieux-Tours around Place Plumereau is safe by day, very student-loud at night. Sanitas and Le Sanitas (outer districts) aren't tourist areas. Tours-Centre station is fine at night with care."
+    },
+    "parking_real_time": ""
   }
 }

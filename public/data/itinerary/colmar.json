@@ -1195,5 +1195,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-colmar.com/fr/",
+    "events": "https://www.tourisme-colmar.com/fr/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.trace-colmar.fr/",
+    "language_tips": {
+      "de": "Im Elsass ist Deutsch fast überall verständlich, viele Schilder sind zweisprachig. Elsässer Dialekt (Elsässisch) kann auf Märkten gehört werden. 'Salü' grüßt freundlicher als 'Bonjour'. Englisch funktioniert in Hotels und Restaurants der Altstadt sehr gut.",
+      "hu": "Elzászban a németet szinte mindenhol megértik, sok tábla kétnyelvű. Az elzászi tájszólás (Elsässisch) hallható a piacokon. A 'Salü' barátságosabb köszönés mint a 'Bonjour'. Az óvárosi szállodákban és éttermekben jól megy az angol.",
+      "ro": "În Alsacia, germana este înțeleasă aproape peste tot, multe panouri sunt bilingve. Dialectul alsacian poate fi auzit în piețe. 'Salü' este un salut mai prietenos decât 'Bonjour'. Engleza funcționează bine în hoteluri și restaurantele din centrul vechi.",
+      "en": "In Alsace, German is widely understood and many signs are bilingual. Alsatian dialect can be heard at markets. 'Salü' is a friendlier greeting than 'Bonjour'. English works well in old-town hotels and restaurants."
+    },
+    "best_time_to_visit": {
+      "de": "Dezember (Weihnachtsmarkt) ist magisch, aber überfüllt, buchen Sie früh. Mai-Juni und September bieten Weinbergblüte und milde 20-25 °C. Juli-August ist heiß und voll. Vermeiden Sie November, wenn alles ruhig wirkt.",
+      "hu": "December (karácsonyi vásár) varázslatos, de zsúfolt, foglalj előre. Május-június és szeptember kínálja a szőlőhegyek virágzását és kellemes 20-25 °C-ot. Július-augusztus forró és tömött. November csendes, kerülendő.",
+      "ro": "Decembrie (târgul de Crăciun) este magic, dar aglomerat, rezervați devreme. Mai-iunie și septembrie oferă podgorii înflorite și 20-25 °C plăcute. Iulie-august este cald și plin. Evitați noiembrie, totul pare adormit.",
+      "en": "December (Christmas market) is magical but crowded, book early. May-June and September bring vineyard bloom and pleasant 20-25 °C. July-August is hot and packed. Skip November when the town feels dormant."
+    },
+    "neighborhood_warnings": {
+      "de": "Colmar ist sehr sicher. Achten Sie auf Taschendiebe rund um Petite Venise im Sommer und auf dem Weihnachtsmarkt. Fahrrad-Diebstahl ist häufig, sichern Sie es gut. Nachts ist die Altstadt ruhig und friedlich.",
+      "hu": "Colmar nagyon biztonságos. Petite Venise körül nyáron és a karácsonyi vásárban figyelj a zsebtolvajokra. A biciklilopás gyakori, jól zárd le. Éjjel az óváros csendes és békés.",
+      "ro": "Colmar este foarte sigur. Atenție la hoții de buzunare în jurul Petite Venise vara și la târgul de Crăciun. Furtul de biciclete este frecvent, asigurați-le bine. Noaptea, centrul vechi este liniștit.",
+      "en": "Colmar is very safe. Watch for pickpockets around Petite Venise in summer and at the Christmas market. Bike theft is common, lock yours well. The old town is quiet and peaceful after dark."
+    },
+    "parking_real_time": ""
   }
 }

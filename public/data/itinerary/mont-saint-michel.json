@@ -1079,5 +1079,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/normandie.html",
+    "tourism_office": "https://www.ot-montsaintmichel.com/",
+    "events": "https://www.ot-montsaintmichel.com/",
+    "city_card": "",
+    "museum_tickets": "https://www.abbaye-mont-saint-michel.fr/en",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Mont-Saint-Michel ist eines der bekanntesten Denkmaeler Frankreichs, hier sprechen alle Mehrsprachig (EN, DE, IT, ES, JP). Audioguide in der Abtei auf Deutsch, in den engen Gassen gehoert ein 'bonjour' aber dazu, vor allem in der Bouchard-Galette-Bar.",
+      "hu": "A Mont-Saint-Michel Franciaorszag egyik legismertebb mukidvalogatasa, itt mindenki tobbnyelvuen beszel (EN, DE, IT, ES, JP). Audioguide az apatsagban nemetul is, a szuk utcakban viszont egy 'bonjour' alapveto, kulonosen a Bouchard galette-baroban.",
+      "ro": "Mont-Saint-Michel e unul dintre cele mai cunoscute monumente ale Frantei, aici toata lumea vorbeste multilingv (EN, DE, IT, ES, JP). Audioghid la abatie si in germana, dar pe ulitele inguste un 'bonjour' e obligatoriu, mai ales la barul de galette Bouchard.",
+      "en": "Mont-Saint-Michel is one of France's most famous sights — everyone speaks multiple languages (EN, DE, IT, ES, JP). Abbey audio guide is available in German; in the narrow alleys a 'bonjour' is essential, especially at Bouchard's galette bar."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai, September und Oktober sind ideal: weniger Massen, gutes Licht fuer Fotos, 14-20 Grad. Juli und August sind extrem voll, aber Naechte mit Vollmond und Spring-Tide unvergesslich. Im Winter sind viele Geschaefte zu, der Mont aber dramatisch.",
+      "hu": "Aprilis, majus, szeptember es oktober a legjobb: kevesebb tomeg, jo fotofeny, 14-20 fok. Julius-augusztus extrem zsufolt, viszont a teliholdas+szokoár ejszakai semmihez sem foghatok. Telen sok bolt zarva, a Mont viszont dramai.",
+      "ro": "Aprilie, mai, septembrie si octombrie sunt ideale: mai putin aglomerat, lumina buna pentru poze, 14-20 grade. Iulie-august sunt extrem de aglomerate, dar noptile cu luna plina si maree de echinoctiu sunt de neuitat. Iarna multe magazine sunt inchise, dar Mont-ul e dramatic.",
+      "en": "April, May, September and October are ideal: smaller crowds, great photo light, 14-20°C. July and August are extremely busy but full-moon and spring-tide nights are unforgettable. In winter many shops close but the Mont is dramatic."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, Hauptaerger sind ueberteuerte Restaurants direkt auf dem Berg (50 EUR fuer eine Omelette) und Diebstaehle aus offenen Rucksaecken im Gedraenge. Niemals zu Fuss in die Bay bei Ebbe ohne Guide, Tide kommt schneller als ein Pferd.",
+      "hu": "Nagyon biztonsagos, fo bosszusag a hegyen levo tulszamlazott ettermek (50 EUR egy omlett) es a tomegben a nyitott hatizsakos lopas. Sose menj egyedul az obolbe apaly idejen, a dagaly gyorsabban jon mint egy lo.",
+      "ro": "Foarte sigur, principalele probleme fiind restaurantele scumpe de pe munte (50 EUR pentru o omleta) si furturile din rucsacuri deschise in inghesuiala. Nu intra niciodata in golf la reflux fara ghid; mareea vine mai repede decat un cal.",
+      "en": "Very safe; main annoyances are overpriced restaurants on the Mount (€50 for an omelette) and theft from open backpacks in crowds. Never walk into the bay at low tide without a guide — the tide comes in faster than a horse."
+    },
+    "parking_real_time": ""
   }
 }

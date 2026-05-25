@@ -1096,5 +1096,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.sainttropeztourisme.com/",
+    "events": "https://www.sainttropeztourisme.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.varlib.fr/",
+    "language_tips": {
+      "de": "Saint-Tropez ist sehr international und sehr exklusiv, Englisch ist in Strandclubs, Yachten und Luxushotels Standard. Italienisch und Russisch hoeren Sie auch oft. Personal in der Altstadt spricht meist mehrsprachig, ein 'bonjour' bleibt aber das Mindestmass.",
+      "hu": "Saint-Tropez nagyon nemzetkozi es exkluziv, az angol alap a strandclubokban, jachtokon, luxushotelekben. Olasz es orosz is gyakori. Az ovarosi szemelyzet altalaban tobb nyelven beszel, de a 'bonjour' a minimum.",
+      "ro": "Saint-Tropez e foarte international si foarte exclusivist, engleza e standard in cluburile de plaja, iahturi si hoteluri de lux. Auzi des si italiana si rusa. Personalul din centrul vechi e multilingv, dar 'bonjour' ramane minimul.",
+      "en": "Saint-Tropez is very international and very exclusive — English is standard in beach clubs, yachts and luxury hotels. You'll also hear Italian and Russian. Old town staff are usually multilingual, but a 'bonjour' is still the minimum."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September sind golden: warm, lebendig, aber ohne den Hoechstandrang. Juli-August reine Hektik, Stau auf der einzigen Zufahrtsstrasse, Pampelonne-Beach-Clubs ueberteuert. Mitte Oktober viele Geschaefte zu, die Stadt wird sehr ruhig.",
+      "hu": "Majus-junius es szeptember aranyido: meleg, eleten, de nem teljesen tomott. Julius-augusztus tiszta hekik, dugo az egyetlen bekoto uton, a Pampelonne strandklubok tularazva. Oktober kozepetol sok bolt bezar, a varos elcsendesedik.",
+      "ro": "Mai-iunie si septembrie sunt perioada de aur: cald, vibrant, dar fara nebunia maxima. Iulie-august sunt haos pur, ambuteiaj pe singurul drum de acces, cluburile de pe Pampelonne supraevaluate. Din mijlocul lui octombrie multe magazine inchid, orasul devine foarte linistit.",
+      "en": "May-June and September are golden: warm, lively but without peak madness. July-August is pure chaos — gridlock on the only access road and Pampelonne beach clubs overpriced. By mid-October many shops close and the town goes very quiet."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Zufahrt im Sommer durch Saint-Maxime und Port Grimaud kann 2-3 Stunden Stau bedeuten, lieber Schiff ab Sainte-Maxime. Beach-Club-Sonnenliegen 50-150 Euro pro Tag, vorher reservieren. Pampelonne-Strand abends Diebstaehle aus Mietwagen melden Touristen oft.",
+      "hu": "A nyari bekoto ut Saint-Maxime-on es Port Grimaud-on at 2-3 ora dugot jelenthet, jobb hajoval Sainte-Maxime felol. A strandklubok napozoagyai 50-150 euro/nap, foglalj. A Pampelonne strandnal este berauto-betoresekrol panaszkodnak a turistak.",
+      "ro": "Drumul de acces vara prin Sainte-Maxime si Port Grimaud poate insemna 2-3 ore de blocaj, mai bine cu barca din Sainte-Maxime. Sezlongurile in cluburi de plaja 50-150 euro/zi, rezerva. Pe plaja Pampelonne seara, turistii reclama des furturi din masini inchiriate.",
+      "en": "Driving in via Sainte-Maxime and Port Grimaud in summer can mean 2-3 hours of gridlock — take the boat from Sainte-Maxime instead. Beach club sun loungers run 50-150 euros per day, book ahead. At Pampelonne in the evening, tourists often report break-ins from rental cars."
+    },
+    "parking_real_time": ""
   }
 }

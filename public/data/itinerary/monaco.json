@@ -1085,5 +1085,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.visitmonaco.com/en/webcams",
+    "tourism_office": "https://www.visitmonaco.com/",
+    "events": "https://www.visitmonaco.com/en/agenda",
+    "city_card": "",
+    "museum_tickets": "https://www.visitmonaco.com/en/tickets",
+    "transit_official": "https://www.cam.mc/",
+    "language_tips": {
+      "de": "Monaco ist multikulturell: Französisch ist Amtssprache, aber Englisch, Italienisch und Russisch werden überall gesprochen, besonders im Casino und in den Luxushotels. 'Bonjour Madame' bleibt der höfliche Standard. Im Casino de Monte-Carlo ist ein gepflegter Look Voraussetzung, sportliche Kleidung wird nicht akzeptiert.",
+      "hu": "Monaco multikulturális: a francia a hivatalos nyelv, de mindenhol beszélnek angolul, olaszul és oroszul, főleg a kaszinóban és a luxushotelekben. A 'Bonjour Madame' a megfelelő udvarias forma. A Monte-Carlói kaszinóban elegáns viselet kötelező, sportos öltözékkel nem engednek be.",
+      "ro": "Monaco este multicultural: franceza este oficială, dar engleza, italiana și rusa se vorbesc peste tot, mai ales la cazino și în hotelurile de lux. 'Bonjour Madame' rămâne standardul politicos. La Cazinoul Monte-Carlo, ținuta îngrijită este obligatorie, hainele sport nu sunt acceptate.",
+      "en": "Monaco is multicultural: French is official, but English, Italian and Russian are spoken everywhere, especially in the casino and luxury hotels. 'Bonjour Madame' remains the polite standard. At Casino de Monte-Carlo, smart dress is mandatory - sportswear gets you turned away."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai, September und Oktober sind perfekt: angenehmes Wetter, weniger Touristenmassen und akzeptable Preise. Mai bringt den Formel-1-Grand-Prix, spektakulär aber extrem teuer. Juli und August voll, vor allem mit Yacht-Besuchern. Im Winter ist Monaco ruhig, aber Casino und Restaurants bleiben geöffnet.",
+      "hu": "Április, május, szeptember és október tökéletes: kellemes idő, kevesebb turista és elfogadható ár. Májusban Forma-1 Nagydíj, látványos, de rendkívül drága. Július és augusztus zsúfolt, főleg jachtosokkal. Télen Monaco csendes, de a kaszinó és az éttermek nyitva tartanak.",
+      "ro": "Aprilie, mai, septembrie și octombrie sunt perfecte: vreme plăcută, mai puțini turiști și prețuri acceptabile. Mai aduce Marele Premiu de Formula 1, spectaculos dar extrem de scump. Iulie și august aglomerate cu turiști de iaht. Iarna, Monaco este liniștit dar deschis.",
+      "en": "April, May, September and October are perfect: pleasant weather, fewer crowds, reasonable prices. May brings the Formula 1 Grand Prix - spectacular but extremely expensive. July and August packed with yacht visitors. Winter is quiet but casinos and restaurants remain open."
+    },
+    "neighborhood_warnings": {
+      "de": "Monaco hat eine der niedrigsten Kriminalitätsraten der Welt dank ausgiebiger Videoüberwachung. Doch im Grand-Prix-Monat Vorsicht vor Taschendieben in Massen. Verkehr ist chaotisch, Parkplätze extrem teuer.",
+      "hu": "Monaco egyike a világ legbiztonságosabb helyeinek a kiterjedt videós megfigyelésnek köszönhetően. A Forma-1 hónapban azonban óvakodj a zsebtolvajoktól. A forgalom kaotikus, a parkolás rendkívül drága.",
+      "ro": "Monaco are una dintre cele mai mici rate de criminalitate din lume datorită supravegherii video extinse. În luna Grand Prix, atenție la hoții de buzunare. Traficul este haotic, parcările extrem de scumpe.",
+      "en": "Monaco has one of the world's lowest crime rates thanks to extensive CCTV. But during Grand Prix month, watch for pickpockets in the crowds. Traffic is chaotic and parking extremely expensive."
+    },
+    "parking_real_time": "https://www.monaco-parkings.mc/"
   }
 }

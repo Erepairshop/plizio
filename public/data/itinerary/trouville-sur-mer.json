@@ -898,5 +898,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.trouvillesurmer.org/",
+    "events": "https://www.trouvillesurmer.org/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.bus-verts.com/",
+    "language_tips": {
+      "de": "Trouville spricht normannisches Franzoesisch, leicht und ehrlicher als das schickere Deauville nebenan. Englisch in Hotels und Fischmarkt verbreitet, in den kleinen Crêperien gemischt. 'Bonjour' und 'merci' gewohnt wichtig.",
+      "hu": "Trouville normandiai franciat beszel, konnyu es egyszerubb mint a szomszedos elegans Deauville. A szallodakban es halpiacon van angol, a creperie-kben vegyes. A 'bonjour' es 'merci' szokas szerint fontos.",
+      "ro": "Trouville vorbeste franceza normanda, usoara si mai onesta decat eleganta Deauville de alaturi. Engleza merge la hoteluri si in piata de peste, in creperii mai mixt. 'Bonjour' si 'merci' raman importante.",
+      "en": "Trouville speaks Norman French — lighter and more down-to-earth than its glossy neighbour Deauville. English works in hotels and the fish market, mixed in the creperies. 'Bonjour' and 'merci' still matter."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (15-22 Grad), Festival 'Off-Courts' im September fuer Kurzfilme. Juli-August warm und mit Wochenend-Touristen voll, dafuer lebendige Marktplatz-Atmosphaere. Winter mild und nass (5-9 Grad), Markt taeglich geoeffnet, Strand leer und windig.",
+      "hu": "Majus-szeptember a legjobb (15-22 fok), szeptemberben 'Off-Courts' rovidfilm-fesztival. Julius-augusztus meleg es hetvegen zsufolt, cserebe elenk piacter-hangulat. Tel enyhe es nyirkos (5-9 fok), a piac napi szinten nyitva, strand ures es szeles.",
+      "ro": "Mai-septembrie sunt ideale (15-22 grade), festivalul 'Off-Courts' de scurtmetraje in septembrie. Iulie-august sunt calde si aglomerate la weekend, dar piata are atmosfera vie. Iarna e blanda si umeda (5-9 grade), piata e deschisa zilnic, plaja e goala si vantoasa.",
+      "en": "May-September are ideal (15-22°C), with the 'Off-Courts' short film festival in September. July-August are warm and crowded with weekenders, but the market square is buzzing. Winter is mild and damp (5-9°C), daily market still on, beach empty and windy."
+    },
+    "neighborhood_warnings": {
+      "de": "Trouville ist sehr sicher, kleines Fischerstaedtchen. Keine Problemviertel. Im Fischmarkt in der Hauptsaison Taschendiebe moeglich. Achtung auf rutschige Steine am Hafen bei Ebbe.",
+      "hu": "Trouville nagyon biztonsagos, kis halaszvaros. Nincs problemas negyed. A halpiacon csucsszezonban zsebtolvajok lehetnek. Figyelj a kikotoi csuszos kovekre apalykor.",
+      "ro": "Trouville e foarte sigur, oras mic de pescari. Nu exista cartiere problematice. In piata de peste, in sezon, pot aparea hoti de buzunare. Atentie la pietrele alunecoase din port la reflux.",
+      "en": "Trouville is very safe — small fishing town. No problem districts. Watch for pickpockets at the fish market in peak season. Mind slippery harbour stones at low tide."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1241,5 +1241,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.saint-malo-tourisme.com/",
+    "events": "https://www.saint-malo-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.ksma.fr/",
+    "language_tips": {
+      "de": "Saint-Malo spricht bretonisches Franzoesisch, klar und etwas direkt. Englisch sehr verbreitet (Faehre nach England!), in Crêperien rund um die Stadtmauer Pflicht. 'Bonjour' und 'mat'in' (bretonisch) werden geschaetzt, Bretonen sind warmherzig aber respektvoll.",
+      "hu": "Saint-Malo breton franciat beszel, tiszta es kicsit direkt. Az angol nagyon megy (komp Angliaba!), a varosfal koruli creperie-kben standard. A 'bonjour' es 'mat'in' (breton) jol esik, a bretonok melegszivuek de tisztelettudoak.",
+      "ro": "Saint-Malo vorbeste franceza bretona, clara si putin directa. Engleza e foarte raspandita (ferry catre Anglia!), in creperiile din jurul zidului e standard. 'Bonjour' si 'mat'in' (bretona) sunt apreciate, bretonii sunt calzi dar respectuosi.",
+      "en": "Saint-Malo speaks Breton-flavoured French, clear and slightly direct. English is widely used (ferries to England land here), and standard in the creperies around the walls. 'Bonjour' and 'mat'in' (Breton) earn warmth — Bretons are friendly but respectful."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (14-22 Grad), Festival 'Etonnants Voyageurs' im Mai legendaer fuer Reiseliteratur. Juli-August warm und voll, dafuer hohe Gezeiten besonders spektakulaer. Winter rau, windig, nass (5-9 Grad), aber Stadtmauer im Sturm dramatisch.",
+      "hu": "Majus-szeptember a legjobb (14-22 fok), majusban 'Etonnants Voyageurs' fesztival legendas utazasi irodalombol. Julius-augusztus meleg es zsufolt, cserebe a magas dagaly latvanyos. Tel zord, szeles, nyirkos (5-9 fok), de a viharos varosfal dramai.",
+      "ro": "Mai-septembrie sunt ideale (14-22 grade), festivalul 'Etonnants Voyageurs' din mai e legendar pentru literatura de calatorie. Iulie-august sunt calde si aglomerate, dar mareele inalte sunt spectaculoase. Iarna e aspra, vantoasa, umeda (5-9 grade), dar zidul orasului in furtuna e dramatic.",
+      "en": "May-September are ideal (14-22°C), with the legendary 'Etonnants Voyageurs' travel-writing festival in May. July-August are warm and packed but the high tides are spectacular. Winter is rough, windy, wet (5-9°C), but the ramparts in storm light are dramatic."
+    },
+    "neighborhood_warnings": {
+      "de": "Saint-Malo ist sehr sicher, kleine Stadt. In der Hauptsaison Taschendiebe in der Intra-Muros-Altstadt moeglich. Strand bei Ebbe weit, Achtung auf Gezeiten beim Spazieren zum Grand-Be-Felsen.",
+      "hu": "Saint-Malo nagyon biztonsagos, kis varos. Csucsszezonban az Intra-Muros obvarosban zsebtolvajok lehetnek. A strand apalykor tagasul, figyelj a dagalyra, ha a Grand-Be sziklahoz setalsz.",
+      "ro": "Saint-Malo e foarte sigur, oras mic. In sezon, hotii de buzunare pot aparea in Intra-Muros. Plaja la reflux e larga, atentie la maree cand mergi spre stanca Grand-Be.",
+      "en": "Saint-Malo is very safe — small town. Pickpockets can appear in the Intra-Muros walled town in peak season. The beach stretches far at low tide; watch the tide when walking out to Grand-Be islet."
+    },
+    "parking_real_time": ""
   }
 }

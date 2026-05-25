@@ -928,5 +928,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine.html",
+    "tourism_office": "https://www.bordeaux-tourisme.com/",
+    "events": "https://www.bordeaux-tourisme.com/",
+    "city_card": "https://www.bordeaux-tourisme.com/",
+    "museum_tickets": "https://www.laciteduvin.com/en",
+    "transit_official": "https://www.infotbm.com/en",
+    "language_tips": {
+      "de": "Bordeaux ist welt-offen durch den Weinhandel, Englisch klappt in Chateaux, Bars und Hotels perfekt. In den traditionellen Bistros des Quartier Saint-Pierre und auf dem Markt Marche des Capucins gehoert ein 'bonjour' aber dazu, vor allem morgens.",
+      "hu": "Bordeaux a borkereskedelem miatt vilagra nyitott, az angol a chateau-kban, barokban es szallodakban tokeletesen megy. A Quartier Saint-Pierre hagyomanyos bisztroiban es a Marche des Capucins piacon egy 'bonjour' viszont alapveto, kulonosen reggel.",
+      "ro": "Bordeaux e deschis lumii prin comertul cu vin, engleza merge perfect in chateau-uri, baruri si hoteluri. In bistrourile traditionale din Quartier Saint-Pierre si in piata Marche des Capucins, un 'bonjour' ramane obligatoriu, mai ales dimineata.",
+      "en": "Bordeaux is open to the world through the wine trade — English works perfectly in chateaux, bars and hotels. In traditional bistros around Quartier Saint-Pierre and at the Marche des Capucins, a 'bonjour' remains essential, especially in the morning."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September (Weinlese) sind perfekt: 20-26 Grad, Weinguts-Touren laufen, viele Festivals. Juli und August sind heiss und voll mit franzoesischen Familien. Bordeaux Fete le Vin (alle zwei Jahre, Juni) ist Pflicht fuer Weinfreunde.",
+      "hu": "Majus-junius es szeptember (szuret) tokeletes: 20-26 fok, borasz-turak es fesztivalok. Julius-augusztusban meleg es zsufolt francia csaladokkal. Bordeaux Fete le Vin (ketevente, junius) kotelezo a borrajongoknak.",
+      "ro": "Mai-iunie si septembrie (vendemiile) sunt perfecte: 20-26 grade, tururi de podgorie si festivaluri. Iulie-august sunt fierbinti si pline cu familii franceze. Bordeaux Fete le Vin (la doi ani, in iunie) e obligatoriu pentru iubitorii de vin.",
+      "en": "May-June and September (harvest) are perfect: 20-26°C, winery tours running, plenty of festivals. July-August are hot and packed with French families. Bordeaux Fete le Vin (biennial, June) is a must for wine lovers."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum und Quartier Saint-Pierre sind sicher und schoen, Saint-Michel ist tagsueber lebhaft und multikulti aber abends mit Vorsicht. La Gare Saint-Jean-Umgebung und Bacalan abends meiden. Taschendiebe in Strassenbahn Linie A.",
+      "hu": "Kozpont es Quartier Saint-Pierre biztonsagos es szep, Saint-Michel nappal mozgalmas es multikulti, de estere ovatos. Saint-Jean palyaudvar kornyek es Bacalan estere kerulendo. Zsebtolvajok az A villamoson.",
+      "ro": "Centrul si Quartier Saint-Pierre sunt sigure si frumoase, Saint-Michel e plin de viata ziua si multicultural, dar atentie seara. Evita seara zona garii Saint-Jean si Bacalan. Hoti de buzunare in tramvaiul linia A.",
+      "en": "Centre and Quartier Saint-Pierre are safe and lovely, Saint-Michel is lively and multicultural by day but careful at night. Avoid Gare Saint-Jean area and Bacalan after dark. Pickpockets on tram line A."
+    },
+    "parking_real_time": ""
   }
 }

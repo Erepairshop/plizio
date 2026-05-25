@@ -1091,6 +1091,22 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 <script>(function(){var el=document.getElementById('plz-weather');if(!el)return;var lat=el.dataset.lat,lon=el.dataset.lon,lang=el.dataset.lang;var ICON=function(c){if(c===0)return'☀️';if(c<=2)return'🌤️';if(c===3)return'☁️';if(c>=45&&c<=48)return'🌫️';if(c>=51&&c<=57)return'🌦️';if(c>=61&&c<=67)return'🌧️';if(c>=71&&c<=77)return'🌨️';if(c>=80&&c<=82)return'🌧️';if(c>=85&&c<=86)return'🌨️';if(c>=95)return'⛈️';return'🌡️';};var DAYS={de:['So','Mo','Di','Mi','Do','Fr','Sa'],hu:['V','H','K','Sze','Cs','P','Szo'],ro:['Du','Lu','Ma','Mi','Jo','Vi','Sâ'],en:['Sun','Mon','Tue','Wed','Thu','Fri','Sat']};var CP={de:{now:'Aktuell',forecast:'5-Tage-Vorhersage'},hu:{now:'Most',forecast:'5 napos előrejelzés'},ro:{now:'Acum',forecast:'Prognoză 5 zile'},en:{now:'Now',forecast:'5-day forecast'}};var c=CP[lang]||CP.en;var d=DAYS[lang]||DAYS.en;fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&forecast_days=5&timezone=auto').then(function(r){return r.json();}).then(function(j){var html='';if(j.current){html+='<div class="plz-weather-now"><span class="plz-weather-icon">'+ICON(j.current.weather_code)+'</span><div><span class="plz-weather-label">'+c.now+'</span><strong>'+Math.round(j.current.temperature_2m)+'°C</strong></div></div>';}if(j.daily){html+='<div class="plz-weather-forecast"><span class="plz-weather-label">'+c.forecast+'</span><ul>';for(var i=0;i<j.daily.time.length;i++){var dt=new Date(j.daily.time[i]);html+='<li><span>'+d[dt.getDay()]+'</span><span>'+ICON(j.daily.weather_code[i])+'</span><strong>'+Math.round(j.daily.temperature_2m_max[i])+'°</strong><span class="plz-tmin">'+Math.round(j.daily.temperature_2m_min[i])+'°</span></li>';}html+='</ul></div>';}el.innerHTML=html;}).catch(function(){el.style.display='none';});})();</script>`
     : "";
 
+  // Water-temperature widget (Open-Meteo Marine API, client-side fetch — auto-hides if inland).
+  // Same lat/lon as weather. Marine API returns null SST for inland coords → script hides element.
+  const marineCopy: Partial<Record<Lang, { now: string; forecast: string; loading: string }>> = {
+    de: { now: "Wassertemperatur", forecast: "7-Tage-Trend", loading: "Wassertemperatur…" },
+    hu: { now: "Víz hőmérséklet", forecast: "7 napos trend", loading: "Víz hőmérséklet…" },
+    ro: { now: "Temperatura apei", forecast: "Tendință 7 zile", loading: "Temperatura apei…" },
+    en: { now: "Water temperature", forecast: "7-day trend", loading: "Water temperature…" },
+    fr: { now: "Température de l'eau", forecast: "Tendance 7 jours", loading: "Température de l'eau…" },
+    tr: { now: "Su sıcaklığı", forecast: "7 günlük trend", loading: "Su sıcaklığı…" },
+  };
+  const mc = marineCopy[lang] || marineCopy.en;
+  const marineHtml = (poi.coords && poi.coords.length >= 2)
+    ? `<section class="plz-marine" id="plz-marine" data-lat="${poi.coords[1]}" data-lon="${poi.coords[0]}" data-lang="${lang}" hidden><p class="plz-marine-loading">${escapeHtml(mc.loading)}</p></section>
+<script>(function(){var el=document.getElementById('plz-marine');if(!el)return;var lat=el.dataset.lat,lon=el.dataset.lon,lang=el.dataset.lang;var CP={de:{now:'Wassertemperatur',forecast:'7-Tage-Trend'},hu:{now:'Víz hőmérséklet',forecast:'7 napos trend'},ro:{now:'Temperatura apei',forecast:'Tendință 7 zile'},en:{now:'Water temperature',forecast:'7-day trend'}};var c=CP[lang]||CP.en;fetch('https://marine-api.open-meteo.com/v1/marine?latitude='+lat+'&longitude='+lon+'&current=sea_surface_temperature&daily=sea_surface_temperature_max,sea_surface_temperature_min&forecast_days=7&timezone=auto').then(function(r){return r.json();}).then(function(j){var sst=j.current&&j.current.sea_surface_temperature;var dmax=j.daily&&j.daily.sea_surface_temperature_max||[];var dmin=j.daily&&j.daily.sea_surface_temperature_min||[];var hasData=sst!=null||dmax.some(function(v){return v!=null;});if(!hasData){el.parentNode&&el.parentNode.removeChild(el);return;}var html='<div class="plz-marine-now"><span class="plz-marine-icon">🌊</span><div><span class="plz-marine-label">'+c.now+'</span><strong>'+(sst!=null?Math.round(sst*10)/10+'°C':'—')+'</strong></div></div>';if(dmax.length){html+='<div class="plz-marine-forecast"><span class="plz-marine-label">'+c.forecast+'</span><div class="plz-marine-bars">';for(var i=0;i<dmax.length;i++){var v=dmax[i];var pct=v!=null?Math.max(10,Math.min(100,(v-5)*4)):0;html+='<div class="plz-marine-bar" title="Day '+(i+1)+': '+(v!=null?Math.round(v*10)/10+'°C':'—')+'"><div class="plz-marine-bar-fill" style="height:'+pct+'%"></div></div>';}html+='</div></div>';}el.innerHTML=html;el.hidden=false;}).catch(function(){el.parentNode&&el.parentNode.removeChild(el);});})();</script>`
+    : "";
+
   // Recent news HTML (build-time read from public/data/poi-news/<id>.json)
   const newsCopy: Partial<Record<Lang, { heading: string; via: string }>> = {
     de: { heading: "Aktuelle Nachrichten", via: "via" },
@@ -1229,7 +1245,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524i"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260525a"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
   { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
@@ -1257,7 +1273,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${audioHtml}
   <div class="plz-hero-grid">
     <div class="plz-hero-grid-main">${heroHtml}</div>
-    <div class="plz-hero-grid-side">${weatherHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
+    <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${renderCityItinerary(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
@@ -1503,7 +1519,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260524i"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260525a"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}

@@ -940,5 +940,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.evian-tourisme.com/",
+    "events": "https://www.evian-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Évian ist direkt am Genfer See gegenüber Lausanne. Französisch, aber wegen Schweizer Nachbarschaft viel Englisch und Deutsch. 'Eau d'Évian' ist die berühmte Quelle, kostenlos am Buvette Cachat. Schweizer Franken werden manchmal akzeptiert.",
+      "hu": "Évian közvetlenül a Genfi-tó partján, Lausanne-nal szemben. Francia, de a svájci szomszédság miatt sok angol és német. Az 'Eau d'Évian' a híres forrás, ingyenes a Buvette Cachat-nál. Néha elfogadnak svájci frankot.",
+      "ro": "Évian este chiar pe malul lacului Geneva, vizavi de Lausanne. Franceza domină, dar engleza și germana sunt răspândite. 'Eau d'Évian' este izvorul celebru, gratuit la Buvette Cachat. Uneori se acceptă franci elvețieni.",
+      "en": "Évian sits on Lake Geneva opposite Lausanne. French rules, but English and German are common thanks to Swiss neighbours. 'Eau d'Évian' is the famous spring, free at Buvette Cachat. Swiss francs are sometimes accepted."
+    },
+    "best_time_to_visit": {
+      "de": "Juni-September für Seeaktivitäten und 'Rencontres Musicales' im Juli. Mai und Oktober ruhig, Spa-fokus. Winter: viele Hotels und Casino weiter geöffnet, aber kalt am See. Vermeiden Sie November, viele Schließungen.",
+      "hu": "Június-szeptember a tavi aktivitásokért és a júliusi 'Rencontres Musicales'-ért. Május és október csendes, wellness-fókusz. Tél: sok szálloda és kaszinó nyitva, de hideg a parton. November sok zárás, kerülendő.",
+      "ro": "Iunie-septembrie pentru lac și 'Rencontres Musicales' din iulie. Mai și octombrie liniștite, axate pe spa. Iarna: multe hoteluri și cazinoul rămân deschise, dar este frig pe mal. Evitați noiembrie, multe închideri.",
+      "en": "June-September for lake activities and the July 'Rencontres Musicales'. May and October are quieter, spa-focused. Winter: many hotels and the casino stay open but the shore is cold. Avoid November, many closures."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, gehobenes Publikum. Vorsicht beim Fahren auf der schmalen Uferstraße. Im Sommer Boote auf dem See: schwimmen nur in markierten Zonen. Casino-Gebühren in der Nacht möglich.",
+      "hu": "Nagyon biztonságos, igényes közönség. A keskeny tóparti úton óvatosan vezess. Nyáron sok hajó van a tavon: csak kijelölt zónákban úszz. Kaszinó éjjel díjas lehet.",
+      "ro": "Foarte sigur, public select. Atenție pe drumul îngust de pe mal. Vara, multe bărci pe lac: înotați doar în zone marcate. La cazinou, taxe nocturne posibile.",
+      "en": "Very safe, upscale crowd. Drive carefully on the narrow lakeside road. Many boats in summer: swim only in marked zones. Casino may charge entry late at night."
+    },
+    "parking_real_time": ""
   }
 }

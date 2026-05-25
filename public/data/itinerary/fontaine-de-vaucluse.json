@@ -992,5 +992,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "http://islesurlasorguetourisme.com/",
+    "events": "",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Fontaine-de-Vaucluse ist klein und sehr touristisch dank der spektakulaeren Quelle, Englisch und Italienisch klappen in den Restaurants entlang des Flusses. Die Quelle selbst ist Naturwunder, das Petrarca-Museum mehrsprachig gefuehrt. Wenige Einheimische.",
+      "hu": "Fontaine-de-Vaucluse kicsi es nagyon turistas a latvanyos forras miatt, az angol es olasz megy a folyo menti ettermekben. A forras maga termeszeti csoda, a Petrarca-muzeum tobb nyelven vezet. Keves helyi.",
+      "ro": "Fontaine-de-Vaucluse e mic si foarte turistic datorita izvorului spectaculos, engleza si italiana merg in restaurantele de pe rau. Izvorul e o minune naturala, muzeul Petrarca e ghidat multilingv. Putini localnici.",
+      "en": "Fontaine-de-Vaucluse is small and very touristy thanks to its spectacular spring — English and Italian work fine in the riverside restaurants. The spring itself is a natural wonder, the Petrarch museum is multilingual. Few actual locals."
+    },
+    "best_time_to_visit": {
+      "de": "Maerz-Mai die Quelle hat den hoechsten Wasserstand, das spektakulaere blaue Wasser bricht aus der Felswand. Sommer schoen aber sehr voll, frueh anreisen. Im Spaetherbst weniger Wasser, dafuer ruhige Spaziergaenge moeglich.",
+      "hu": "Marcius-majus a forras a legmagasabb vizallassal, a latvanyos kek viz a sziklafalbol tor elo. Nyaron szep, de nagyon zsufolt, korai erkezes. Kesso oszi alacsonyabb viz, viszont csendes setak.",
+      "ro": "Martie-mai izvorul are debitul maxim, apa albastra spectaculoasa tasneste din stanca. Vara frumos dar foarte aglomerat, vino devreme. Toamna tarziu mai putina apa, dar plimbari linistite.",
+      "en": "March-May the spring is at its highest — that spectacular blue water bursts straight from the cliff. Summer is beautiful but very crowded, arrive early. Late autumn has less flow but quiet, peaceful walks."
+    },
+    "neighborhood_warnings": {
+      "de": "Parken am Ortseingang kostenpflichtig, dann 10 Minuten Spaziergang zur Quelle. Im Sommer von 11 bis 16 Uhr Massenandrang, lieber frueh am Morgen. Die Quellgrube selbst nicht betreten, gefaehrlich tief.",
+      "hu": "Parkolas a faluseli fizetos, onnan 10 perc seta a forrashoz. Nyaron 11-16 ora kozott tomeg, jobb kora reggel. A forrasmedence nem szabad bemenni, veszelyesen mely.",
+      "ro": "Parcare cu plata la intrare, apoi 10 minute pe jos pana la izvor. Vara, intre 11 si 16, multime, mai bine dis-de-dimineata. Nu intra in bazinul izvorului, e periculos de adanc.",
+      "en": "Paid parking at the village entrance, then a 10-minute walk to the spring. Summer crowds between 11am and 4pm are heavy, come early morning. Don't enter the spring pool itself — dangerously deep."
+    },
+    "parking_real_time": ""
   }
 }

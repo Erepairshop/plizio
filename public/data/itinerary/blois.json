@@ -1040,5 +1040,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.bloischambord.com/",
+    "events": "https://www.bloischambord.com/agenda/",
+    "city_card": "https://www.bloischambord.com/pass-chateaux/",
+    "museum_tickets": "https://www.bloischambord.com/billetterie/",
+    "transit_official": "https://www.azalys-blois.fr/",
+    "language_tips": {
+      "de": "Blois ist eine königliche Stadt mit Schloss, Englisch wird gut gesprochen, besonders in den Touristenzonen und im Schloss. Lernen Sie 'Château royal de Blois' korrekt und 'Maison de la Magie' für das Magie-Museum gegenüber. Bei den Boulangerien lokale Spezialitäten wie 'Tarte Tatin' und 'Praslines' probieren.",
+      "hu": "Blois királyi város kastéllyal, angolul jól beszélnek, főleg a turisztikai zónákban és a kastélyban. Tanuld meg a 'Château royal de Blois' nevet és a 'Maison de la Magie' nevet a szemközti mágia múzeumhoz. A pékségekben próbáld ki a helyi specialitásokat: 'Tarte Tatin' és 'Praslines'.",
+      "ro": "Blois este un oraș regal cu castel, engleza se vorbește bine, mai ales în zonele turistice și la castel. Învățați 'Château royal de Blois' și 'Maison de la Magie' pentru muzeul de magie vizavi. La brutării, încercați specialitățile locale: 'Tarte Tatin' și 'Praslines'.",
+      "en": "Blois is a royal château town - English is well spoken, especially in tourist zones and the castle. Learn 'Château royal de Blois' and 'Maison de la Magie' for the magic museum opposite. In bakeries try local specialities like 'Tarte Tatin' and 'Praslines'."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühende Loire-Ufer und weniger Touristen. Juli und August sind voll mit Schlosstouristen, aber die Son-et-Lumière-Show im Schloss ist spektakulär. Winter ist ruhig, das Schloss bleibt geöffnet und der Weihnachtsmarkt ist charmant.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó Loire-partok és kevesebb turista. Júliusban és augusztusban zsúfolt a kastélyturistákkal, de a kastélybeli Son-et-Lumière előadás látványos. Télen csendes, a kastély nyitva tart és a karácsonyi vásár bájos.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, malurile Loarei înflorite, mai puțini turiști. Iulie-august aglomerate cu turiști de castel, dar spectacolul Son-et-Lumière este spectaculos. Iarna este liniștit, castelul rămâne deschis și târgul de Crăciun este fermecător.",
+      "en": "April-June and September-October are ideal: mild weather, blooming Loire banks and fewer crowds. July-August packed with château tourists, though the Son-et-Lumière show is spectacular. Winter is quiet, the château remains open and the Christmas market is charming."
+    },
+    "neighborhood_warnings": {
+      "de": "Blois ist meist sicher, doch das Bahnhofsviertel und einige Stadtteile am Loire-Ufer können nachts ungemütlich werden. Im Sommer auf Taschendiebe in der Fußgängerzone achten.",
+      "hu": "Blois többnyire biztonságos, de a pályaudvar környéke és néhány Loire-parti rész este kényelmetlen lehet. Nyáron figyelj a zsebtolvajokra a sétálóutcán.",
+      "ro": "Blois este în general sigur, dar zona gării și unele cartiere de pe Loara pot fi neplăcute noaptea. Vara, atenție la hoții de buzunare în zona pietonală.",
+      "en": "Blois is mostly safe, but the station area and some Loire-bank streets can feel uneasy at night. In summer watch for pickpockets in the pedestrian zone around the castle."
+    },
+    "parking_real_time": ""
   }
 }

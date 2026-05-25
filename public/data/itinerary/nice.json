@@ -1093,5 +1093,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.explorenicecotedazur.com/en/",
+    "events": "https://www.explorenicecotedazur.com/en/",
+    "city_card": "https://www.explorenicecotedazur.com/en/",
+    "museum_tickets": "https://www.musee-matisse-nice.org/",
+    "transit_official": "https://www.lignesdazur.com/",
+    "language_tips": {
+      "de": "Nizza ist Cote d'Azur und international, Englisch, Italienisch und Russisch klappen mehrsprachig. Promenade des Anglais ist touristisch, im Vieux Nice an der Cours Saleya gehoert ein 'bonjour' und ein 'merci' zum Aperitif-Ritual.",
+      "hu": "Nizza Cote d'Azur es nemzetkozi, az angol, olasz es orosz tobbnyelvuen megy. A Promenade des Anglais turistas, a Vieux Nice-ben a Cours Saleya-n viszont egy 'bonjour' es 'merci' a aperitif-rituale resze.",
+      "ro": "Nisa e Cote d'Azur si international, engleza, italiana si rusa merg in paralel. Promenade des Anglais e turistica; in Vieux Nice, la Cours Saleya, un 'bonjour' si 'merci' fac parte din ritualul de aperitiv.",
+      "en": "Nice is Cote d'Azur and international — English, Italian and Russian all work. Promenade des Anglais is touristy; in Vieux Nice at the Cours Saleya, a 'bonjour' and 'merci' are part of the aperitif ritual."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind perfekt: 18-26 Grad, Meer ab Juni warm, Karneval im Februar. Juli und August bringen Hitze und Russen-Yacht-Massen, Strand-Konkurrenz ist hart. November bis Maerz ist mild, Hotels guenstig.",
+      "hu": "Aprilis-junius es szeptember-oktober tokeletes: 18-26 fok, a tenger juniustol langyos, februarban karneval. Julius-augusztusban hoseg es orosz yacht-tomeg, kemeny strand-verseny. November-marcius enyhe, olcso szallodak.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt perfecte: 18-26 grade, marea calda din iunie, carnaval in februarie. Iulie-august aduc caldura si yacht-uri rusesti, lupta pe plaja e dura. Noiembrie-martie e bland, hoteluri ieftine.",
+      "en": "April-June and September-October are perfect: 18-26°C, sea warm from June, Carnaval in February. July-August bring heat and yacht crowds — beach competition is brutal. November-March is mild with cheap hotels."
+    },
+    "neighborhood_warnings": {
+      "de": "Vieux Nice und Promenade tagsueber sicher, abends auf Taschendiebe achten. Hauptbahnhof Thiers-Viertel und Ariane (Nordosten) abends meiden. Strand- und Strassen-Klau ist Sommer-Klassiker, immer eine Hand am Rucksack.",
+      "hu": "Vieux Nice es a Promenade nappal biztonsagos, estere zsebtolvajra figyelni. A Thiers negyed a palyaudvar korul es Ariane (eszakkelet) estere kerulendo. Strand- es utcalopas nyari klasszikus, mindig egy kez a hatizsakon.",
+      "ro": "Vieux Nice si Promenade sunt sigure ziua, atentie seara la hoti de buzunare. Evita seara cartierul Thiers (langa gara) si Ariane (nord-est). Furtul de pe plaja si de pe strada e clasic vara; tine mereu o mana pe rucsac.",
+      "en": "Vieux Nice and the Promenade are safe by day; watch for pickpockets at night. Avoid the Thiers area near the main station and Ariane (north-east) after dark. Beach and street theft are summer classics — keep a hand on your bag."
+    },
+    "parking_real_time": ""
   }
 }

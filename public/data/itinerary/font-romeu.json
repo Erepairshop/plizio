@@ -862,5 +862,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/occitanie.html",
+    "tourism_office": "https://www.font-romeu.fr/",
+    "events": "https://www.font-romeu.fr/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Font-Romeu liegt nahe der spanischen Grenze, viele Einheimische sprechen Franzoesisch, Katalanisch und Spanisch. Englisch klappt im Skigebiet, im Dorfbistro lohnt sich aber ein 'bonjour' oder ein freundliches 'hola'.",
+      "hu": "Font-Romeu spanyol hatar kozeleben van, sokan beszelnek franciat, katalant es spanyolt. Az angol megy a sipalyan, a falu bisztroban viszont egy 'bonjour' vagy egy baratsagos 'hola' is jol jon.",
+      "ro": "Font-Romeu e aproape de granita spaniola, multi localnici vorbesc franceza, catalana si spaniola. Engleza merge in statiunea de schi, dar la bistroul satului un 'bonjour' sau un 'hola' prietenos sunt apreciate.",
+      "en": "Font-Romeu sits near the Spanish border; many locals speak French, Catalan and Spanish. English works on the slopes, but at the village bistro a 'bonjour' or friendly 'hola' both help."
+    },
+    "best_time_to_visit": {
+      "de": "Dezember bis Maerz fuer Skifahren und Hoehentraining (Sonneskigebiet mit 300 Sonnentagen), Juni bis September fuer Wandern und Mountainbiken bei 15-22 Grad. Schulferien sind voll, Werktag bevorzugt.",
+      "hu": "December-marcius a sielesre es magassagi edzesre (napos sipalya 300 napos evente), junius-szeptember a turazasra es mountainbike-ozasra 15-22 fok mellett. Iskolai szunet idejen zsufolt, hetkozapot valassz.",
+      "ro": "Decembrie-martie pentru schi si antrenament la altitudine (statiune insorita cu 300 zile/an), iunie-septembrie pentru drumetii si mountain bike la 15-22 grade. Vacantele scolare sunt aglomerate; alege zile lucratoare.",
+      "en": "December-March for skiing and altitude training (sun-bathed resort with 300 sunny days), June-September for hiking and mountain biking at 15-22°C. School holidays get crowded — pick weekdays."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, klassische Bergsicherheits-Regeln: Lawinen ausserhalb der Pisten, schnelle Wetterumschwuenge, Strassen oft mit Schneeketten Pflicht. Sommer-Gewitter am Nachmittag.",
+      "hu": "Nagyon biztonsagos, klasszikus hegyi szabalyok: pistakon kivul lavinaveszely, gyors idojarasvaltozas, telen hólánc gyakran kotelezo. Nyari delutani viharok.",
+      "ro": "Foarte sigur, reguli clasice de munte: avalanse in afara partiilor, schimbari rapide de vreme, lanturi obligatorii iarna. Furtuni de dupa-amiaza vara.",
+      "en": "Very safe; standard mountain rules apply — avalanche risk off-piste, rapid weather changes, snow chains often required, and afternoon storms in summer."
+    },
+    "parking_real_time": ""
   }
 }

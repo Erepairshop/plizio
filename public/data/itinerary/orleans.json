@@ -1069,5 +1069,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-orleansmetropole.com/en/",
+    "events": "https://www.tourisme-orleansmetropole.com/en/",
+    "city_card": "",
+    "museum_tickets": "https://www.orleans-metropole.fr/culture-patrimoine/musees",
+    "transit_official": "https://www.reseau-tao.fr/",
+    "language_tips": {
+      "de": "Orleans ist die Jeanne-d'Arc-Stadt an der Loire, eine ruhige Mittelgrosse Stadt. Englisch klappt im Kathedralen-Bereich und in Hotels, in den Bars der Rue de Bourgogne und auf dem Markt Halles Chatelet gehoert ein 'bonjour' und 'merci' zum Stil.",
+      "hu": "Orleans Johanna d'Arc varosa a Loire-n, nyugodt kozepvaros. Az angol megy a katedralisnal es szallodakban, a Rue de Bourgogne barjaiban es a Halles Chatelet piacon a 'bonjour' es 'merci' alapveto.",
+      "ro": "Orleans e orasul Ioanei d'Arc pe Loara, un oras mediu linistit. Engleza merge in zona catedralei si in hoteluri, dar in barurile de pe Rue de Bourgogne si in piata Halles Chatelet, 'bonjour' si 'merci' sunt standard.",
+      "en": "Orleans is Joan of Arc's city on the Loire, a calm mid-sized town. English works around the cathedral and in hotels; in the bars on Rue de Bourgogne and at Halles Chatelet market, 'bonjour' and 'merci' are the style."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist ideal: 18-25 Grad, Festival de Loire (alle zwei Jahre, September) mit historischen Booten, und Jeanne-d'Arc-Festspiele 7./8. Mai mit Mittelalter-Atmosphaere. Winter ist mild und ruhig.",
+      "hu": "Majus-szeptember a legjobb: 18-25 fok, Festival de Loire (ketevente, szeptember) torteneti hajokkal, es a Jeanne d'Arc unnep majus 7-8-an kozepkori hangulattal. Telen enyhe es csendes.",
+      "ro": "Mai-septembrie sunt ideale: 18-25 grade, Festival de Loire (la doi ani, in septembrie) cu barci istorice si sarbatorile Ioanei d'Arc pe 7-8 mai cu atmosfera medievala. Iarna e blanda si linistita.",
+      "en": "May-September is ideal: 18-25°C, the biennial Festival de Loire (September) with historic boats and the 7-8 May Joan of Arc festivities with medieval atmosphere. Winter is mild and quiet."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum, Kathedralenviertel und Loire-Quais sind sicher und schoen. La Source und Argonne (aussere Stadtteile) sind nicht touristisch. Bahnhofsumgebung abends mit Vorsicht.",
+      "hu": "Kozpont, katedralis negyed es a Loire-rakparts biztonsagos es szep. La Source es Argonne (kulso kerulet) nem turista terulet. A palyaudvar kornyek estere ovatossag.",
+      "ro": "Centrul, cartierul catedralei si cheiurile Loarei sunt sigure si frumoase. La Source si Argonne (cartiere periferice) nu sunt zone turistice. Zona garii seara cu atentie.",
+      "en": "Centre, cathedral quarter and Loire quays are safe and pretty. La Source and Argonne (outer districts) aren't tourist areas. The station area needs care at night."
+    },
+    "parking_real_time": ""
   }
 }

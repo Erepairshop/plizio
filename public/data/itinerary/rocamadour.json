@@ -722,5 +722,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.vallee-dordogne.com/decouvrir/rocamadour",
+    "events": "https://www.vallee-dordogne.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.lio-occitanie.fr/",
+    "language_tips": {
+      "de": "Rocamadour ist UNESCO-Pilgerort, dramatisch in den Felsen gebaut. Englisch wird in den Sanktuarien und Restaurants gesprochen. Lernen Sie 'Cité religieuse' für den oberen Heiligen Bereich, 'Vierge Noire' für die berühmte schwarze Madonna. Pilger sagen 'paix et bien' (Friede und Heil) zur Begrüßung.",
+      "hu": "Rocamadour UNESCO zarándokhely, drámaian a sziklákba építve. A szent helyeken és éttermekben beszélnek angolul. Tanuld meg a 'Cité religieuse' nevet a felső szent területhez, a 'Vierge Noire' nevet a híres fekete Madonnához. A zarándokok 'paix et bien' (béke és jólét) köszöntéssel találkoznak.",
+      "ro": "Rocamadour este un loc de pelerinaj UNESCO, construit dramatic în stâncă. Engleza se vorbește în sanctuare și restaurante. Învățați 'Cité religieuse' pentru zona sfântă superioară, 'Vierge Noire' pentru celebra Madonă neagră. Pelerinii se salută cu 'paix et bien'.",
+      "en": "Rocamadour is a UNESCO pilgrimage site, dramatically built into cliffs. English is spoken at the sanctuaries and restaurants. Learn 'Cité religieuse' for the upper holy area and 'Vierge Noire' for the famous Black Madonna. Pilgrims greet with 'paix et bien' (peace and well-being)."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Pilger und perfekte Bedingungen für die 216 Treppenstufen hinauf. Juli und August extrem voll, im Hochsommer Hitze in den engen Gassen. Winter ruhig und mystisch, viele Geschäfte aber geschlossen.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb zarándok és tökéletes feltételek a 216 lépcsőfok megmászásához. Júliusban és augusztusban extrém zsúfolt, nyár derekán a szűk utcákban hőség. Télen csendes és misztikus, de sok bolt zárva.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini pelerini și condiții perfecte pentru cele 216 trepte. Iulie-august extrem de aglomerate, în toiul verii căldură pe străduțele înguste. Iarna liniștită și mistică, dar multe magazine închise.",
+      "en": "April-June and September-October are ideal: mild weather, fewer pilgrims and perfect conditions for the 216-step climb up. July-August extremely packed, with peak summer heat trapped in narrow lanes. Winter quiet and mystical, though many shops close."
+    },
+    "neighborhood_warnings": {
+      "de": "Rocamadour ist sehr sicher, ein winziger Pilgerort. Parken oben am Plateau (L'Hospitalet) und zu Fuß oder Lift hinunter. Bei der Vertikal-Stadt feste Schuhe und Trittsicherheit erforderlich, die Treppen sind glitschig bei Regen.",
+      "hu": "Rocamadour nagyon biztonságos, apró zarándokhely. Parkolj fent a fennsíkon (L'Hospitalet) és gyalog vagy lifttel menj le. A függőleges városhoz erős cipő és biztos lépés kell, a lépcsők esőben csúszósak.",
+      "ro": "Rocamadour este foarte sigur, un mic loc de pelerinaj. Parcați sus pe platou (L'Hospitalet) și coborâți pe jos sau cu liftul. La orașul vertical, încălțăminte solidă și pas sigur sunt necesare, treptele sunt alunecoase pe ploaie.",
+      "en": "Rocamadour is very safe, a tiny pilgrim site. Park up on the plateau (L'Hospitalet) and descend on foot or by lift. The vertical town requires sturdy shoes and steady footing - steps get slippery when wet."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1028,5 +1028,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.morzine-avoriaz.com/",
+    "events": "https://www.morzine-avoriaz.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Morzine ist sehr britisch geprägt im Winter, Englisch fast überall. Französisch im Sommer mehr. Skischule auf Deutsch und Englisch verfügbar. 'Portes du Soleil' = großes Skigebiet (Frankreich + Schweiz). Höhe ~1000 m, Schweizer Grenze nahe.",
+      "hu": "Morzine télen nagyon brit hangulatú, az angol mindenhol megy. Nyáron több a francia. A síiskolák kínálnak német és angol nyelvet. 'Portes du Soleil' = nagy síterep (Franciaország + Svájc). Magasság ~1000 m, közel a svájci határ.",
+      "ro": "Morzine este foarte britanic iarna, engleza este peste tot. Vara, mai multă franceză. Școala de schi disponibilă în germană și engleză. 'Portes du Soleil' = mare domeniu schiabil (Franța + Elveția). Altitudine ~1000 m, granița elvețiană aproape.",
+      "en": "Morzine is very British in winter, English works everywhere. Summer is more French. Ski schools offer German and English. 'Portes du Soleil' is the huge cross-border (France + Switzerland) ski area. ~1000 m elevation, Swiss border close."
+    },
+    "best_time_to_visit": {
+      "de": "Dezember-April für Skifahren, Hochsaison Februar-Schulferien. Juli-August für Mountainbike (Bike-Park), Wandern und Festivals. Mai-Juni und September-Oktober: 'Zwischenzeit', viele Lifte und Restaurants geschlossen.",
+      "hu": "December-április a síelésért, csúcsszezon a februári iskolai szünet. Július-augusztus a mountainbike-ért (bike-park), túrázásért és fesztiválokért. Május-június és szeptember-október: 'köztes idő', sok felvonó és étterem zárva.",
+      "ro": "Decembrie-aprilie pentru schi, vârf în vacanța școlară din februarie. Iulie-august pentru mountain bike (bike park), drumeții și festivaluri. Mai-iunie și septembrie-octombrie: 'sezon mort', multe telecabine și restaurante închise.",
+      "en": "December-April for skiing, peak in February school break. July-August for mountain biking (bike park), hiking and festivals. May-June and September-October are 'between seasons' with many lifts and restaurants closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Sicher, aber Bergrisiken hoch: Lawinen abseits der Pisten, plötzliche Wetterwechsel. Beim Apres-Ski mit Vorsicht trinken und auf rutschige Stiegen achten. Verkehr im Tal kann an Samstag-Wechseltagen brutal sein.",
+      "hu": "Biztonságos, de magas hegyi kockázat: lavinaveszély pályán kívül, hirtelen időjárás-változás. Apres-skinél vigyázz az ivással és a csúszós lépcsőkkel. A völgyi forgalom szombati cserenapokon brutális.",
+      "ro": "Sigur, dar riscuri montane: avalanșe în afara pârtiei, schimbări bruște de vreme. La après-ski, beți cu măsură, scări alunecoase. Traficul în vale sâmbăta la schimbul săptămânii poate fi brutal.",
+      "en": "Safe, but mountain risks are real: avalanches off-piste, sudden weather shifts. Pace yourself at après-ski and mind icy stairs. Saturday changeover traffic in the valley is brutal."
+    },
+    "parking_real_time": ""
   }
 }

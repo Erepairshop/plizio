@@ -1039,5 +1039,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.dinan-capfrehel.com/",
+    "events": "https://www.dinan-capfrehel.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Dinan ist mittelalterliche Stadt über der Rance. Französisch, weniger Bretonisch (Gallo-Sprachregion). Englisch in der Altstadt gut. 'Fest-noz' ist das traditionelle bretonische Tanzfest, sehenswert. Crêpes und Cidre überall.",
+      "hu": "Dinan középkori város a Rance fölött. Francia, kevesebb breton (Gallo-nyelvterület). Az angol jól megy az óvárosban. A 'Fest-noz' a hagyományos breton tánc-est, érdemes elmenni. Mindenhol palacsinta és cidre.",
+      "ro": "Dinan este oraș medieval deasupra râului Rance. Franceza, mai puțină bretonă (regiunea Gallo). Engleza este bună în centrul vechi. 'Fest-noz' este balul breton tradițional, merită văzut. Clătite și cidru peste tot.",
+      "en": "Dinan is a medieval town above the Rance river. French, less Breton (Gallo language area). English works well in the old town. 'Fest-noz' is the traditional Breton dance evening, worth seeing. Crêpes and cider everywhere."
+    },
+    "best_time_to_visit": {
+      "de": "Juli (gerade Jahre): 'Fête des Remparts' Mittelaltermarkt, alle 2 Jahre. Mai-Juni und September für ruhige Tage. Vermeiden Sie Februar-März, kalt und regnerisch. Sommerwochenenden sehr voll, früh buchen.",
+      "hu": "Júliusban (páros években): 'Fête des Remparts' középkori vásár, kétévente. Május-június és szeptember csendesebb. Februárt-márciust kerüld, hideg és esős. Nyári hétvégéken nagyon zsúfolt, foglalj előre.",
+      "ro": "Iulie (ani pari): 'Fête des Remparts', târg medieval bienal. Mai-iunie și septembrie pentru zile liniștite. Evitați februarie-martie, frig și ploaie. Weekend-uri de vară foarte aglomerate, rezervați devreme.",
+      "en": "July of even years: 'Fête des Remparts' medieval fair, biennial. May-June and September for quieter days. Avoid February-March, cold and rainy. Summer weekends are very busy, book ahead."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Steile Rue du Jerzual mit Kopfsteinpflaster ist rutschig bei Regen. Beim Spaziergang am Rance-Hafen Gezeiten beachten. Achten Sie auf Radler in den engen mittelalterlichen Gassen.",
+      "hu": "Nagyon biztonságos. A meredek macskaköves Rue du Jerzual esőben csúszós. A Rance-kikötőnél figyelj az árapályra. A középkori szűk utcákban bringásokra figyelj.",
+      "ro": "Foarte sigur. Strada abruptă Rue du Jerzual cu pavaj alunecă pe ploaie. La portul Rance, atenție la maree. Pe străduțele medievale, atenție la bicicliști.",
+      "en": "Very safe. Steep cobbled Rue du Jerzual is slick in rain. Mind the tides at Rance harbour. Watch for cyclists in the narrow medieval lanes."
+    },
+    "parking_real_time": ""
   }
 }

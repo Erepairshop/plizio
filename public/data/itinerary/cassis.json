@@ -1186,5 +1186,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.ot-cassis.com/webcam/",
+    "tourism_office": "https://www.ot-cassis.com/",
+    "events": "https://www.ot-cassis.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.cassis.fr/se-deplacer/",
+    "language_tips": {
+      "de": "Cassis ist provenzalisch und mediterran, der Akzent ist singend. Englisch wird in den Hafenrestaurants und Calanques-Boots-Anbietern gut gesprochen. Lernen Sie 'les Calanques' korrekt auszusprechen (Ka-lonk) und bestellen Sie 'un verre de Cassis blanc', den lokalen Weißwein, der zu Meeresfrüchten passt.",
+      "hu": "Cassis provence-i és mediterrán, az akcentus dallamos. A kikötői éttermekben és a Calanques hajós szolgáltatóknál jól beszélnek angolul. Tanuld meg helyesen kiejteni a 'les Calanques' (kalonk) nevet, és rendelj egy pohár Cassis fehérbort, amely tökéletesen illik a tenger gyümölcseihez.",
+      "ro": "Cassis este provensal și mediteranean, accentul cântă. Engleza se vorbește bine în restaurantele din port și la furnizorii de bărci pentru Calanques. Învățați să pronunțați 'les Calanques' (Ka-lonk) și cereți 'un verre de Cassis blanc', vinul alb local care merge perfect cu fructele de mare.",
+      "en": "Cassis is Provençal and Mediterranean, with a sing-song accent. English is spoken well at harbour restaurants and Calanques boat operators. Learn to pronounce 'les Calanques' (Ka-lonk) properly and order 'un verre de Cassis blanc' - the local white wine pairs perfectly with seafood."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: warmes Mittelmeerwetter, weniger Touristen und perfekte Bedingungen für Calanques-Wanderungen. Juli und August sind sehr voll, Parkplätze unmöglich. Im Hochsommer sind die Calanques wegen Brandgefahr oft gesperrt - informieren Sie sich vor jeder Wanderung über die täglichen Zugangsregeln.",
+      "hu": "Május, június és szeptember ideális: meleg mediterrán idő, kevés turista, és tökéletes feltételek a Calanques túrákhoz. Július és augusztus zsúfolt, parkolni lehetetlen. Nyár derekán a Calanques-t gyakran lezárják tűzveszély miatt, ezért minden túra előtt nézd meg a napi belépési szabályokat.",
+      "ro": "Mai, iunie și septembrie sunt ideale: vreme mediteraneană caldă, mai puțini turiști și condiții perfecte pentru drumeții în Calanques. Iulie și august sunt foarte aglomerate, parcările imposibile. În toiul verii, Calanques sunt închise des din cauza riscului de incendiu, verificați zilnic.",
+      "en": "May, June and September are ideal: warm Mediterranean weather, fewer crowds, and perfect conditions for Calanques hiking. July and August are packed, with parking impossible. In peak summer, the Calanques are often closed due to fire risk - check daily access rules before any hike."
+    },
+    "neighborhood_warnings": {
+      "de": "Cassis ist sehr sicher, doch im Sommer sind die Hafenparkplätze überfüllt - nutzen Sie das P+R-Système. Bei Calanques-Wanderungen Wasser mitnehmen und Hitze beachten, jedes Jahr gibt es Rettungseinsätze.",
+      "hu": "Cassis nagyon biztonságos, de nyáron a kikötői parkolók túltömöttek - használd a P+R rendszert. Calanques túrákhoz vízzel készülj és figyelj a hőségre, minden évben vannak mentőakciók.",
+      "ro": "Cassis este foarte sigur, dar vara parcările din port sunt aglomerate - folosiți sistemul P+R. La drumețiile în Calanques, luați apă și atenție la căldură, anual sunt salvări de urgență.",
+      "en": "Cassis is very safe, but harbour parking is overrun in summer - use the P+R system. On Calanques hikes carry water and respect the heat; rescues happen every year due to underestimation."
+    },
+    "parking_real_time": ""
   }
 }

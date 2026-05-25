@@ -998,5 +998,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.lehavre-etretat-tourisme.com/",
+    "events": "https://www.lehavre-etretat-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.transports-lia.fr/",
+    "language_tips": {
+      "de": "Le Havre spricht normannisches Franzoesisch, klar und etwas rauer. Im Hafen und in der Modernen Innenstadt (Perret-Architektur) findet man Englisch, in Marktstaenden weniger. 'Bonjour' beim Eintreten ist Pflicht, sonst gilt man als unhoeflich.",
+      "hu": "Le Havre normandiai franciat beszel, tiszta es kicsit erdesebb. A kikotoben es a modern (Perret-fele) belvarosban van angol, a piaci standoknal mar kevesbe. A bolepeskori 'bonjour' kotelezo, kulonben udvariatlannak tartanak.",
+      "ro": "La Le Havre se vorbeste franceza normanda, clara si putin mai aspra. In port si in centrul modern (arhitectura Perret) engleza se descurca, in piete mai putin. 'Bonjour' la intrare e obligatoriu, altfel esti considerat nepoliticos.",
+      "en": "Le Havre speaks Norman French, clear and a bit rougher. English works in the port and modern Perret-built centre, less so at market stalls. A 'bonjour' on entering any shop is mandatory or you'll be tagged as rude."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis September sind ideal: 18-22 Grad, lange Abende am Hafenbecken und Strand-Promenade aktiv. Im Juli-August Festival 'Un Ete au Havre' mit Open-Air-Kunst. Winter windig und nass (5-9 Grad), die Atlantikbrise ist hart, aber das UNESCO-Stadtbild im Nebel hat seinen Reiz.",
+      "hu": "Junius-szeptember a legjobb: 18-22 fok, hosszu estek a kikotonel es elenk strand-promenad. Julius-augusztusban 'Un Ete au Havre' fesztival, szabadteri muveszettel. Tel szeles es nyirkos (5-9 fok), kemeny atlanti szel, de a kodos UNESCO-varoskep is varazslatos.",
+      "ro": "Iunie pana in septembrie sunt ideale: 18-22 grade, seri lungi pe cheiuri si promenada animata. In iulie-august festivalul 'Un Ete au Havre' aduce arta in aer liber. Iarna e vantoasa si umeda (5-9 grade), briza atlantica e dura, dar orasul UNESCO in ceata are farmecul lui.",
+      "en": "June to September are ideal: 18-22°C, long harbour-side evenings and a lively beach promenade. July-August bring the 'Un Ete au Havre' open-air art festival. Winter is windy and damp (5-9°C), the Atlantic gusts are harsh, but the misty UNESCO skyline has its own moody charm."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhofsumgebung und Quartier Caucriauville abends meiden. Strandpromenade und Perret-Innenstadt sicher. Im Hafen-Industriebereich nicht zu Fuss umherwandern, das ist Arbeitsgelaende.",
+      "hu": "Az allomas kornyeke es Caucriauville este nem ajanlott. A strand-promenad es a Perret-belvaros biztonsagos. A kikoto ipari teruletein ne setalj, az munkaterulet.",
+      "ro": "Zona garii si cartierul Caucriauville sunt de evitat seara. Promenada de la plaja si centrul Perret sunt sigure. Nu te plimba pe jos prin zona industriala portuara, e teritoriu de munca.",
+      "en": "Avoid the area around the train station and Caucriauville district at night. The beach promenade and Perret centre are safe. Don't wander the industrial port zones on foot — these are working areas, not for sightseeing."
+    },
+    "parking_real_time": ""
   }
 }

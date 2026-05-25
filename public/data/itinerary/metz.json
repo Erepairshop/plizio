@@ -1206,5 +1206,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://tourisme-metz.com/",
+    "events": "https://tourisme-metz.com/agenda/",
+    "city_card": "https://tourisme-metz.com/metz-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.lemet.fr/",
+    "language_tips": {
+      "de": "Metz spricht klares lothringisches Franzoesisch, deutsche Einfluesse hoerbar, viele Aeltere sprechen noch Deutsch. Englisch in Hotels und am Centre Pompidou-Metz verbreitet. 'Guten Tag' funktioniert oft ueberraschend gut, besonders bei aelteren Generationen.",
+      "hu": "Metz tiszta lotharingiai franciat beszel, nemet hatasokkal, sok idosebb meg tud nemetul. Szallodakban es a Centre Pompidou-Metz-ben van angol. A 'Guten Tag' meglepoen jol mukodik, fokent az idosebbeknel.",
+      "ro": "Metz vorbeste franceza lorena clara, cu influente germane audibile, multi varstnici inca vorbesc germana. Engleza merge la hoteluri si la Centre Pompidou-Metz. 'Guten Tag' functioneaza surprinzator de bine, mai ales cu generatiile in varsta.",
+      "en": "Metz speaks clear Lorraine French with audible German influences — many older locals still speak German. English works in hotels and at the Centre Pompidou-Metz. 'Guten Tag' often gets a surprisingly warm response from older folk."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (15-24 Grad), Mirabellen-Fest im August, Festival Constellations Juni-September mit Lichtinstallationen. Winter kalt (0-5 Grad), aber einer der schoensten Weihnachtsmaerkte Frankreichs rund um Place d'Armes.",
+      "hu": "Majus-szeptember a legjobb (15-24 fok), augusztusban Mirabella-szilva fesztival, junius-szeptember Constellations fenyfesztival. Tel hideg (0-5 fok), de a Place d'Armes karacsonyi vasar Franciaorszag egyik legszebbike.",
+      "ro": "Mai-septembrie sunt ideale (15-24 grade), festivalul prunelor Mirabelle in august, festivalul Constellations cu instalatii luminoase iunie-septembrie. Iarna e rece (0-5 grade), dar targul de Craciun din Place d'Armes e printre cele mai frumoase din Franta.",
+      "en": "May-September are ideal (15-24°C), Mirabelle plum festival in August, and the Constellations light festival June-September. Winter is cold (0-5°C) but Metz has one of France's prettiest Christmas markets at Place d'Armes."
+    },
+    "neighborhood_warnings": {
+      "de": "Borny und Bellecroix im Osten abends meiden. Innenstadt, Place Saint-Louis und Kathedral-Viertel sehr sicher. Bahnhof Metz-Ville tagsueber lebhaft, nachts ruhig.",
+      "hu": "Borny es Bellecroix keleten este nem ajanlott. A belvaros, Place Saint-Louis es a katedralis-negyed nagyon biztonsagos. Metz-Ville allomas nappal eleven, ejjel csendes.",
+      "ro": "Borny si Bellecroix, in est, sunt de evitat seara. Centrul, Place Saint-Louis si cartierul catedralei sunt foarte sigure. Gara Metz-Ville e animata ziua, linistita noaptea.",
+      "en": "Avoid Borny and Bellecroix in the east after dark. The centre, Place Saint-Louis and cathedral district feel very safe. Metz-Ville station is busy by day, quiet at night."
+    },
+    "parking_real_time": ""
   }
 }

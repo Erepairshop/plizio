@@ -955,5 +955,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.antibesjuanlespins.com/",
+    "events": "https://www.antibesjuanlespins.com/en/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://envibus.fr/",
+    "language_tips": {
+      "de": "Juan-les-Pins ist Teil der Gemeinde Antibes, sehr international vor allem im Juli waehrend des Jazz à Juan Festivals. Englisch klappt in Hotels und Strandclubs, ein 'bonjour' bei der Boulangerie in der Avenue Guy de Maupassant gehoert dazu.",
+      "hu": "Juan-les-Pins az Antibes onkormanyzat resze, nagyon nemzetkozi, kulonosen juliusban a Jazz à Juan idejen. Az angol mukodik a hotelekben es strandklubokban, a 'bonjour' a Guy de Maupassant utca pekjenel kotelezo.",
+      "ro": "Juan-les-Pins face parte din comuna Antibes, foarte international mai ales in iulie la Jazz à Juan. Engleza merge in hoteluri si cluburi de plaja, 'bonjour' la patiseria de pe Avenue Guy de Maupassant e standard.",
+      "en": "Juan-les-Pins is part of the Antibes commune, very international especially during the Jazz à Juan festival in July. English works at hotels and beach clubs, but a 'bonjour' at the boulangerie on Avenue Guy de Maupassant is expected."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September perfekt fuer Strand und Pinienpromenade, das Meer ist sauber und warm. Juli ist Jazz à Juan, einer der wichtigsten Jazz-Festivals Europas, Hotels Monate vorher ausgebucht. August voll und teuer, Strand komplett belegt.",
+      "hu": "Majus-junius es szeptember tokeletes a strandra es a fenyves setanyra, a tenger tiszta es meleg. Julius a Jazz à Juan, Europa egyik legfontosabb dzsessz feszitvalja, a hotelek honapokkal elobb betelnek. Augusztus zsufolt es draga, a strand teljesen elfoglalt.",
+      "ro": "Mai-iunie si septembrie sunt perfecte pentru plaja si promenada cu pini, marea curata si calda. In iulie e Jazz à Juan, unul din cele mai importante festivaluri europene, hotelurile se rezerva cu luni inainte. August e aglomerat si scump, plaja complet ocupata.",
+      "en": "May-June and September are perfect for the beach and pine-tree promenade — the sea is clean and warm. July brings Jazz à Juan, one of Europe's top jazz festivals, with hotels booked months ahead. August is crowded and pricey, the beach fully taken."
+    },
+    "neighborhood_warnings": {
+      "de": "Der Bahnhof Juan-les-Pins und die Strandpromenade abends nicht ungewoehnlich fuer Taschendiebe, vor allem im Festival-Juli. Strassen rund um die Pinienpromenade im Sommer im Stau, Parken nur in den teuren Tiefgaragen.",
+      "hu": "A Juan-les-Pins palyaudvar es a part menti setany este nem szokatlan zsebtolvajoknak, foleg juliusi feszitval idejen. A fenyves setany koruli utak nyaron dugosak, csak a draga melygarazsokba lehet parkolni.",
+      "ro": "Gara Juan-les-Pins si promenada pe seara nu sunt strainee de hoti de buzunare, mai ales in iulie la festival. Strazile din jurul pinilor sunt blocate vara, parcari doar in subteranele scumpe.",
+      "en": "Juan-les-Pins station and the seafront in the evenings aren't unheard of for pickpockets, especially during festival July. Streets around the pine promenade gridlock in summer — parking only in expensive underground garages."
+    },
+    "parking_real_time": ""
   }
 }

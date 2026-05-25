@@ -1042,5 +1042,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.antibesjuanlespins.com/",
+    "events": "https://www.antibesjuanlespins.com/en/agenda",
+    "city_card": "",
+    "museum_tickets": "https://www.antibes-juanlespins.com/culture/musees",
+    "transit_official": "https://envibus.fr/",
+    "language_tips": {
+      "de": "Antibes ist sehr international, vor allem im Hafen Port Vauban (groesster Yachthafen Europas), wo Englisch von Crews und Eignern dominiert. In der Altstadt und auf dem Provencal-Markt ist Franzoesisch die Hauptsprache, ein 'bonjour' beim Marktstand ist Pflicht.",
+      "hu": "Antibes nagyon nemzetkozi, kulonosen a Port Vauban-ban (Europa legnagyobb jachtkikotoje), ahol az angol dominal a legenysegek es tulajdonosok kozott. Az ovarosban es a provence-i piacon a francia a fo, a piaci 'bonjour' kotelezo.",
+      "ro": "Antibes e foarte international, mai ales in Port Vauban (cel mai mare port de iahturi din Europa), unde engleza domina printre echipaje si proprietari. In orasul vechi si in piata provensala franceza e principala, 'bonjour' la taraba e obligatoriu.",
+      "en": "Antibes is very international, especially around Port Vauban (Europe's biggest yacht harbour), where English dominates among crews and owners. In the old town and at the Provençal market, French is the main language — a 'bonjour' at the stall is a must."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September perfekt: 22-28 Grad, das Meer warm, die Strandcafes lebendig aber nicht ueberlaufen. Juli und August richtig voll, vor allem mit Yachten und Festivalbesuchern (Jazz à Juan). Winter mild (12-15 Grad), aber viele Strandbars geschlossen.",
+      "hu": "Majus, junius es szeptember tokeletes: 22-28 fok, meleg tenger, elenk part menti kavezok, de nem zsufolt. Julius es augusztus brutal tomott, foleg jachtokkal es a Jazz à Juan kozonsegevel. A tel enyhe (12-15 fok), de sok strandbar zarva.",
+      "ro": "Mai, iunie si septembrie sunt perfecte: 22-28 grade, marea calda, cafenelele de pe plaja vii dar nu aglomerate. Iulie si august sunt brutal de aglomerate, mai ales cu iahturi si publicul de la Jazz à Juan. Iarna e blanda (12-15 grade), dar multe baruri de plaja inchise.",
+      "en": "May, June and September are perfect: 22-28°C, warm sea, beachfront cafés lively but not packed. July and August get brutally busy, especially with yachts and Jazz à Juan festival crowds. Winter is mild (12-15°C) but many beach bars are shut."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Altstadt und der Markt am Cours Masséna sind tagsueber sicher, am Bahnhof Antibes abends auf Taschendiebe achten. Im Hochsommer Parkplaetze nahe der Strandpromenade fast unmoeglich, lieber Park-and-Ride ausserhalb.",
+      "hu": "Az ovaros es a Cours Masséna piac nappal biztonsagos, az Antibes palyaudvaron este figyelj a zsebtolvajokra. Nyaron a strand kornyeken szinte lehetetlen parkolni, jobb Park-and-Ride a varoson kivul.",
+      "ro": "Centrul vechi si piata din Cours Masséna sunt sigure ziua, la gara Antibes seara atentie la hoti de buzunare. Vara, parcarea langa plaja e aproape imposibila, mai bine Park-and-Ride in afara orasului.",
+      "en": "The old town and Cours Masséna market are safe by day, but watch for pickpockets at Antibes station in the evening. Parking near the seafront in peak summer is nearly impossible — use Park-and-Ride outside town."
+    },
+    "parking_real_time": ""
   }
 }

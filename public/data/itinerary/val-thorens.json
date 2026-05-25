@@ -1039,5 +1039,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.valthorens.com/en/winter/webcam.html",
+    "tourism_office": "https://www.valthorens.com/",
+    "events": "https://www.valthorens.com/en/winter/events.html",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Val Thorens ist auf 2300m das hoechste Skiort Europas und sehr international, Englisch ist Standardsprache in Bars, Hotels und Skischulen. Skandinavische und britische Skifahrer dominieren neben Franzosen. 'Bonjour' und 'merci' werden trotzdem geschaetzt.",
+      "hu": "Val Thorens 2300m-en Europa legmagasabb siallomasa, nagyon nemzetkozi, az angol alap a baroknal, hoteleknel, sioktatasban. Skandinav es brit sielok dominalnak a franciak mellett. 'Bonjour' es 'merci' azert sokat szamit.",
+      "ro": "Val Thorens, la 2300m, e cea mai inalta statiune din Europa si foarte internationala, engleza e standard in baruri, hoteluri si scoli de schi. Schiori scandinavi si britanici domina alaturi de francezi. 'Bonjour' si 'merci' sunt totusi apreciate.",
+      "en": "Val Thorens at 2300m is Europe's highest ski resort and very international — English is standard in bars, hotels and ski schools. Scandinavian and British skiers dominate alongside the French. A 'bonjour' and 'merci' are still appreciated."
+    },
+    "best_time_to_visit": {
+      "de": "Schneegarantie dank Hoehenlage Ende November bis Anfang Mai, Saisonbeginn und Schlusswochen oft die guenstigsten. Februar bis Mitte Maerz spitzenmaessig sonnig und kalt, perfekte Pistenverhaeltnisse. Im Sommer fast komplett geschlossen.",
+      "hu": "A magassag miatt ho garantalva november vegetol majus elejeig, szezonnyitas es zaras a legolcsobb. Februar-marcius kozepe csucsidoszak, napos es hideg, makulatlan pistakkal. Nyaron szinte teljesen zar.",
+      "ro": "Datorita altitudinii, zapada e garantata din sfarsitul lui noiembrie pana la inceputul lui mai, deschiderea si finalul de sezon sunt cele mai ieftine. Februarie pana la mijlocul lui martie e perfect, soare si frig, partii ideale. Vara, aproape totul e inchis.",
+      "en": "Thanks to the altitude, snow is guaranteed from late November to early May — opening and closing weeks are usually the cheapest. February to mid-March is peak: sunny, cold and perfect piste conditions. In summer the resort is almost entirely closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Wegen 2300m Hoehe Hoehenkrankheit moeglich, viel Wasser trinken am Ankunftstag. Wind und Kaelte erbarmungslos, gute Skikleidung Pflicht. Anfahrt vom Tal extrem steile Strasse mit Serpentinen, Schneeketten unverzichtbar.",
+      "hu": "A 2300 m miatt elofordulhat magashegyi rosszullet, az erkezes napjan sok viz. A szel es a hideg konyortelen, jo sifelszereles kotelezo. A volgybol vezeto ut meredek szerpentin, holanc nelkulozhetetlen.",
+      "ro": "La 2300m poate aparea raul de altitudine, bea multa apa in ziua sosirii. Vantul si frigul sunt necrutatoare, echipament bun obligatoriu. Drumul din vale e o serpentina abrupta, lanturile sunt indispensabile.",
+      "en": "At 2300m altitude sickness is possible, drink plenty of water on arrival day. Wind and cold are merciless, proper ski kit is essential. The drive up from the valley is a steep switchback road, snow chains are non-negotiable."
+    },
+    "parking_real_time": ""
   }
 }

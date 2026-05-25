@@ -501,8 +501,16 @@ const COUNTRY_ID_ALIASES: Record<string, string> = {
   mk: "north-macedonia",
 };
 
+// HU city slugs that are used as POI parent (data error — should be HU-XX county codes,
+// but routing them to hungary is correct; the URL becomes /<lang>/ungarn/<city>/<poi>/).
+const HU_CITY_AS_PARENT = new Set([
+  "eger", "visegrad", "szigetvar", "sarvar", "miskolc", "esztergom",
+  "szentendre", "tihany", "pannonhalma", "holloko",
+]);
+
 export function getCountryId(id: string) {
   if (!id) return "germany";
+  if (HU_CITY_AS_PARENT.has(id)) return "hungary";
   // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
   const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
   if (huMatch) return "hungary";

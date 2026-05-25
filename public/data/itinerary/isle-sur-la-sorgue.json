@@ -850,5 +850,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "http://islesurlasorguetourisme.com/",
+    "events": "http://islesurlasorguetourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "L'Isle-sur-la-Sorgue ist die Antiquitaeten-Hauptstadt der Provence, weniger touristisch-internationalisiert als die Luberon-Bergdoerfer. Franzoesisch dominiert, aber englischsprachige Antiquitaetenhaendler reichlich vorhanden. Sonntags der grosse Antikmarkt, viele auslaendische Kaeufer.",
+      "hu": "L'Isle-sur-la-Sorgue Provence regisegfovarosa, kevesbe turistas-nemzetkozi mint a luberoni hegyi falvak. A francia dominal, de angolul beszelo regisegkeresedok sokan. Vasarnap a nagy regispiac, sok kulfoldi vasarlo.",
+      "ro": "L'Isle-sur-la-Sorgue e capitala antichitatilor din Provence, mai putin turistic-internationala decat satele Luberon. Franceza domina, dar negustori de antichitati vorbitori de engleza sunt multi. Duminica, marele targ de antichitati, multi cumparatori straini.",
+      "en": "L'Isle-sur-la-Sorgue is Provence's antique capital — less touristy-international than the Luberon hill villages. French dominates, but English-speaking antique dealers abound. The big Sunday antiques market draws many foreign buyers."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober ideal: angenehmes Wetter, der Sonntagsmarkt voll und lebendig. Oster- und August-Antik-Messen sind die grossen Highlights des Jahres mit Sammlern aus aller Welt. Juli-August warm und voll.",
+      "hu": "Aprilis-junius es szeptember-oktober ideal: kellemes ido, a vasarnapi piac eleten. Husveti es augusztusi regis vasaron a vilag gyujtoi. Julius-augusztus meleg es zsufolt.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: vreme placuta, piata de duminica plina si vibranta. Targurile de antichitati de Pasti si din august sunt cele mai mari evenimente ale anului, cu colectionari din toata lumea. Iulie-august cald si aglomerat.",
+      "en": "April-June and September-October are ideal: pleasant weather, Sunday market full and lively. The Easter and August antique fairs are the year's big highlights, drawing collectors worldwide. July-August is hot and busy."
+    },
+    "neighborhood_warnings": {
+      "de": "Sonntags von 9 bis 13 Uhr Verkehrschaos und Parkplaetze rar, frueh kommen oder zu Fuss aus Vororten. Die Kanaele und Mühlraeder sind charmant, aber rutschig nach Regen. Antiquitaeten oft ueberteuert, verhandeln gehoert dazu.",
+      "hu": "Vasarnap 9-13 ora kozott forgalmi kaosz es kevesz parkolo, jobb korai jovetel vagy gyalog kulteruletbol. A csatornak es vizimalmok sarmosak, esoutan csuszosak. A regisegek gyakran tularazva, alkudozni kell.",
+      "ro": "Duminica intre 9 si 13 e haos pe drum si parcari putine, vino devreme sau pe jos din imprejurimi. Canalele si rotile de moara sunt fermecatoare, dar alunecoase dupa ploaie. Antichitatile sunt des supraevaluate, negocierea e parte din joc.",
+      "en": "Sundays between 9am and 1pm bring traffic chaos and scarce parking — come early or walk in from the outskirts. Canals and mill wheels are charming but slippery after rain. Antiques are often overpriced, bargaining is expected."
+    },
+    "parking_real_time": ""
   }
 }

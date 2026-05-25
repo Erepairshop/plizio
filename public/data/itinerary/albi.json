@@ -1073,5 +1073,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.albi-tourisme.fr/",
+    "events": "https://www.albi-tourisme.fr/agenda/",
+    "city_card": "https://www.albi-tourisme.fr/albipass/",
+    "museum_tickets": "https://www.museetoulouselautrec.com/billetterie/",
+    "transit_official": "https://www.albibus.fr/",
+    "language_tips": {
+      "de": "Albi ist UNESCO-Stadt mit der mächtigen Sainte-Cécile-Kathedrale und dem Toulouse-Lautrec-Museum. Englisch wird im Museum und im Tourismusbüro gesprochen. Lernen Sie 'cathédrale Sainte-Cécile' für die größte Backsteinkathedrale der Welt und 'Toulouse-Lautrec' korrekt aussprechen.",
+      "hu": "Albi UNESCO-város a hatalmas Sainte-Cécile katedrálissal és a Toulouse-Lautrec múzeummal. A múzeumban és az idegenforgalmi irodában beszélnek angolul. Tanuld meg a 'cathédrale Sainte-Cécile' nevet a világ legnagyobb téglakatedrálisához és a 'Toulouse-Lautrec' helyes kiejtését.",
+      "ro": "Albi este oraș UNESCO cu impunătoarea catedrală Sainte-Cécile și muzeul Toulouse-Lautrec. Engleza se vorbește la muzeu și la biroul de turism. Învățați 'cathédrale Sainte-Cécile' pentru cea mai mare catedrală din cărămidă din lume și pronunția corectă a 'Toulouse-Lautrec'.",
+      "en": "Albi is a UNESCO city with the mighty Sainte-Cécile cathedral and the Toulouse-Lautrec museum. English is spoken at the museum and tourism office. Learn 'cathédrale Sainte-Cécile' for the world's largest brick cathedral and pronounce 'Toulouse-Lautrec' correctly."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühendes Tarn-Tal und weniger Touristen. Im Sommer kann es sehr heiß werden (über 35°C), die Backsteinstadt strahlt Wärme aus. Winter ist ruhig, das Museum bleibt geöffnet und der Weihnachtsmarkt ist charmant.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó Tarn-völgy, kevesebb turista. Nyáron nagyon meleg lehet (35°C felett), a téglaváros sugározza a hőséget. Télen csendes, a múzeum nyitva tart, a karácsonyi vásár bájos.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, valea Tarn înflorită și mai puțini turiști. Vara poate fi foarte cald (peste 35°C), orașul de cărămidă emană căldură. Iarna este liniștită, muzeul rămâne deschis, târgul de Crăciun este fermecător.",
+      "en": "April-June and September-October are ideal: mild weather, blooming Tarn valley and fewer tourists. Summer can be very hot (over 35°C) - the brick city radiates heat. Winter is quiet, the museum stays open and the Christmas market is charming."
+    },
+    "neighborhood_warnings": {
+      "de": "Albi ist meist sicher, doch der Bahnhofsbezirk und einige Vororte können abends ungemütlich sein. In der Altstadt auf Taschendiebe achten. Parken im Zentrum begrenzt - Parking de la Cathédrale nutzen.",
+      "hu": "Albi többnyire biztonságos, de a pályaudvar környéke és néhány külváros este kellemetlen lehet. Az óvárosban figyelj a zsebtolvajokra. A központban korlátozott a parkolás - használd a Parking de la Cathédrale-t.",
+      "ro": "Albi este în general sigur, dar zona gării și unele suburbii pot fi neplăcute seara. În centrul vechi, atenție la hoții de buzunare. Parcarea în centru este limitată - folosiți Parking de la Cathédrale.",
+      "en": "Albi is mostly safe, but the station area and some outskirts can feel uneasy at night. In the old town watch for pickpockets. Central parking is limited - use the Parking de la Cathédrale."
+    },
+    "parking_real_time": ""
   }
 }

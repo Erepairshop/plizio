@@ -587,5 +587,32 @@
         "en": []
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.lesarcs.com/en/webcams.html",
+    "tourism_office": "https://www.lesarcs.com/",
+    "events": "https://www.lesarcs.com/en/agenda.html",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Les Arcs ist mit La Plagne im Paradiski-Skigebiet verbunden, britische und niederlaendische Familien sind stark vertreten, Englisch klappt ueberall. Die 4 Stationen (1600, 1800, 1950, 2000) haben eigene Charaktere, Franzoesisch dominiert in den Talddoerfern Bourg-Saint-Maurice und Peisey.",
+      "hu": "Les Arcs a La Plagne-nel a Paradiski rendszerhez kapcsolodik, brit es holland csaladok eros aranyban, az angol mindenhol megy. A 4 allomas (1600, 1800, 1950, 2000) sajat karakter, a francia a volgyi Bourg-Saint-Maurice es Peisey falvakban dominal.",
+      "ro": "Les Arcs e legat de La Plagne in domeniul Paradiski, multe familii britanice si olandeze, engleza merge peste tot. Cele 4 statiuni (1600, 1800, 1950, 2000) au caractere diferite, franceza domina in satele de vale Bourg-Saint-Maurice si Peisey.",
+      "en": "Les Arcs links to La Plagne in the Paradiski domain — lots of British and Dutch families, English works everywhere. The 4 stations (1600, 1800, 1950, 2000) each have their own character; French dominates in the valley villages of Bourg-Saint-Maurice and Peisey."
+    },
+    "best_time_to_visit": {
+      "de": "Skisaison Mitte Dezember bis Ende April, das Vanoise-Express-Seilbahn verbindet mit La Plagne. Februar britische Halbjahresferien voll, Januar und Maerz die besten Wochen. Im Sommer Wandern und Mountainbike, Arc 1950 hat als einziger Sommerbetrieb.",
+      "hu": "Si szezon december kozeptol aprilis vegeig, a Vanoise Express felvono koti ossze a La Plagne-nyel. Februar brit szunet zsufolt, januar es marcius a legjobb hetek. Nyaron tura es MTB, Arc 1950 az egyetlen nyari uzem.",
+      "ro": "Sezonul de schi din mijlocul lui decembrie pana la sfarsitul lui aprilie, telecabina Vanoise Express face legatura cu La Plagne. Vacanta britanica de februarie aglomerata, ianuarie si martie sunt cele mai bune. Vara, drumetii si mountain bike, doar Arc 1950 functioneaza.",
+      "en": "Ski season mid-December to late April — the Vanoise Express cable car links to La Plagne. British half-term February gets packed, January and March are the best weeks. Summer brings hiking and mountain biking, with Arc 1950 the only village that stays open."
+    },
+    "neighborhood_warnings": {
+      "de": "Arc 1600 und 1800 stark autobetont, 1950 und 2000 fast autofrei. Funiculaire von Bourg-Saint-Maurice ist die schnellste Anreise im Winter, Parkplaetze oben begrenzt. Lawinen-Risiko abseits der Pisten besonders in der Aiguille-Rouge-Region.",
+      "hu": "Arc 1600 es 1800 autos, 1950 es 2000 szinte auto-mentes. Bourg-Saint-Maurice-tol a sikloval lehet a leggyorsabban felmenni telen, parkolas fent korlatozott. Pisten kivul a lavinaveszely fokent az Aiguille Rouge tergyben magas.",
+      "ro": "Arc 1600 si 1800 sunt orientate spre masini, 1950 si 2000 sunt aproape fara masini. Funicularul din Bourg-Saint-Maurice e cel mai rapid de urcat iarna, parcari putine sus. Risc de avalansa off-piste mai ales in zona Aiguille Rouge.",
+      "en": "Arc 1600 and 1800 are car-heavy; 1950 and 2000 are nearly car-free. The funicular from Bourg-Saint-Maurice is the fastest way up in winter, parking up top is limited. Off-piste avalanche risk is high, especially around Aiguille Rouge."
+    },
+    "parking_real_time": ""
   }
 }

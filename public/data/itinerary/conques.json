@@ -1016,5 +1016,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-conques.fr/",
+    "events": "https://www.tourisme-conques.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.lio-occitanie.fr/",
+    "language_tips": {
+      "de": "Conques ist UNESCO-Pilgerort am Jakobsweg, eines der schönsten Dörfer Frankreichs. Englisch wird in der Abtei und den Pilger-Herbergen gesprochen. Lernen Sie 'Abbatiale Sainte-Foy' für die romanische Abtei und 'tympan du Jugement dernier' für das berühmte Tympanon des Jüngsten Gerichts.",
+      "hu": "Conques UNESCO zarándokhely a Szent Jakab-úton, Franciaország egyik legszebb falva. Az apátságban és a zarándokszállókban beszélnek angolul. Tanuld meg az 'Abbatiale Sainte-Foy' nevet a román apátsághoz és a 'tympan du Jugement dernier' nevet az utolsó ítélet híres timpanonjához.",
+      "ro": "Conques este loc de pelerinaj UNESCO pe drumul Sf. Iacob, unul dintre cele mai frumoase sate ale Franței. Engleza se vorbește la abație și hanurile pelerinilor. Învățați 'Abbatiale Sainte-Foy' pentru abația romanică și 'tympan du Jugement dernier' pentru celebrul timpan al Judecății de Apoi.",
+      "en": "Conques is a UNESCO pilgrimage site on the Way of St James - one of France's most beautiful villages. English is spoken at the abbey and pilgrim hostels. Learn 'Abbatiale Sainte-Foy' for the Romanesque abbey and 'tympan du Jugement dernier' for the famous Last Judgement tympanum."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Pilger und perfekte Bedingungen für Wanderungen. Juli-August bringt Pilgerströme und das Festival de Conques (Klassische Musik). Winter ist sehr ruhig, viele Geschäfte geschlossen aber die Abtei bleibt geöffnet.",
+      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, kevesebb zarándok és tökéletes feltételek a túrázáshoz. Júliusban-augusztusban érkeznek a zarándokáradat és a Conques fesztivál (klasszikus zene). Télen nagyon csendes, sok bolt zárva, de az apátság nyitva.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini pelerini și condiții perfecte pentru drumeții. Iulie-august aduc fluxurile de pelerini și festivalul Conques (muzică clasică). Iarna este foarte liniștită, multe magazine închise, dar abația rămâne deschisă.",
+      "en": "May-June and September-October are ideal: mild weather, fewer pilgrims and perfect hiking conditions. July-August bring pilgrim crowds and the Festival de Conques (classical music). Winter is very quiet with many shops closed, though the abbey stays open."
+    },
+    "neighborhood_warnings": {
+      "de": "Conques ist sehr sicher, ein winziges mittelalterliches Dorf. Parken nur außerhalb des Dorfes erlaubt, dann zu Fuß hinein. Die steilen Pflasterstraßen erfordern festes Schuhwerk, besonders bei Regen.",
+      "hu": "Conques nagyon biztonságos, apró középkori falu. Parkolni csak a falun kívül lehet, onnan gyalog. A meredek macskaköves utcák erős cipőt igényelnek, főleg esőben.",
+      "ro": "Conques este foarte sigur, un sat medieval mic. Parcarea este permisă doar în afara satului, apoi pe jos. Străzile abrupte pavate cu piatră necesită încălțăminte solidă, mai ales pe ploaie.",
+      "en": "Conques is very safe, a tiny medieval village. Parking is only allowed outside the village, with foot access in. Steep cobbled streets demand sturdy shoes, especially when wet."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1234,5 +1234,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.reims-tourisme.com/",
+    "events": "https://www.reims-tourisme.com/agenda/",
+    "city_card": "https://www.reims-tourisme.com/le-reims-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://citura.fr/",
+    "language_tips": {
+      "de": "In Reims wird klares, neutrales Franzoesisch gesprochen, leichter zu verstehen als der Pariser Slang. In Champagne-Haeusern und groesseren Restaurants ist Englisch Standard, in Boulangerien und Bistros hilft 'bonjour madame/monsieur' enorm. Champagner heisst hier nie 'sekt', das wird unfreundlich aufgenommen.",
+      "hu": "Reims-ben tiszta, semleges franciat hallasz, konnyebb mint a parizsi szleng. A pezsgohazakban es nagy ettermekben az angol alap, a pekseg-kicsi bisztrok eseteben a 'bonjour madame/monsieur' csodakra kepes. A pezsgot itt sose hivd 'sekt'-nek, az nem jol esik.",
+      "ro": "La Reims se vorbeste o franceza clara si neutra, mai usor de inteles decat slangul parizian. In casele de sampanie si in restaurantele mari engleza e standard, dar in boulangerii si bistro-uri un 'bonjour madame/monsieur' face minuni. Sampania nu se cheama niciodata 'sekt', e o ofensa.",
+      "en": "Reims speaks clear, neutral French — easier than Parisian slang. English is standard in Champagne houses and bigger restaurants, but in boulangeries and bistros a polite 'bonjour madame/monsieur' goes far. Never call the local fizz 'sparkling wine' here, it's Champagne and only Champagne."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September sind ideal: 18-26 Grad, Champagner-Lese im September und Oktober mit gefuehrten Touren. Juli-August warm, aber viele Haeuser bleiben geoeffnet. Winter ist nass und grau (3-8 Grad), dafuer leere Kathedrale und Weihnachtsmarkt rund um Notre-Dame.",
+      "hu": "Majustol szeptemberig a legjobb: 18-26 fok, pezsgoszuret szeptember-oktoberben vezetett turakkal. Julius-augusztus meleg, de a hazak nyitva tartanak. Tel nyirkos es szurke (3-8 fok), cserebe ures katedralis es karacsonyi vasar a Notre-Dame korul.",
+      "ro": "Mai pana in septembrie sunt ideale: 18-26 grade, recolta de sampanie in septembrie-octombrie cu tururi ghidate. Iulie-august sunt calde, dar casele raman deschise. Iarna e umeda si gri (3-8 grade), dar catedrala e goala si exista targul de Craciun langa Notre-Dame.",
+      "en": "May to September are ideal: 18-26°C, with Champagne harvest tours in September-October. July-August are warm but houses stay open. Winter is wet and grey (3-8°C), but you get an empty cathedral and a charming Christmas market around Notre-Dame."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhof Reims-Centre und Place d'Erlon abends moderate Vorsicht bei Taschendieben. Croix-Rouge und Orgeval im Sueden touristisch uninteressant und nicht empfohlen. Kathedrale und Place Royale auch nachts ruhig und gut beleuchtet.",
+      "hu": "A Reims-Centre allomas es a Place d'Erlon este merskelt zsebtolvaj-veszely. Croix-Rouge es Orgeval delen turistanak ertelmetlen, nem ajanlott. A katedralis es a Place Royale ejjel is csendes es jol vilagitott.",
+      "ro": "Gara Reims-Centre si Place d'Erlon necesita atentie moderata seara la hoti de buzunare. Croix-Rouge si Orgeval, in sud, nu prezinta interes turistic si nu sunt recomandate. Catedrala si Place Royale sunt linistite si bine iluminate si noaptea.",
+      "en": "Reims-Centre station and Place d'Erlon need moderate pickpocket awareness in the evening. Croix-Rouge and Orgeval in the south hold no tourist interest. The cathedral and Place Royale stay calm and well-lit even at night."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1120,5 +1120,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/ile-de-france/paris.html",
+    "tourism_office": "https://en.parisinfo.com/",
+    "events": "https://en.parisinfo.com/",
+    "city_card": "https://www.parismuseumpass.fr/",
+    "museum_tickets": "https://www.musee-orsay.fr/en",
+    "transit_official": "https://www.ratp.fr/en",
+    "language_tips": {
+      "de": "Paris ist international, in Hotels, Cafes und Museen klappt Englisch problemlos. Aber: ein freundliches 'bonjour madame/monsieur' beim Eintreten und 'merci, bonne journee' beim Gehen oeffnet jede Tuer und entwaffnet das Klischee vom 'unhoeflichen Pariser'.",
+      "hu": "Parizs nemzetkozi, szallodakban, kavezokban es muzeumokban az angol problema nelkül megy. De: egy baratsagos 'bonjour madame/monsieur' belepeskor es 'merci, bonne journee' tavozaskor minden ajtot megnyit, es lefegyverzi a 'goromba parizsi' klisét.",
+      "ro": "Parisul e international, la hotel, cafenele si muzee engleza merge fara probleme. Dar: un 'bonjour madame/monsieur' politicos la intrare si 'merci, bonne journee' la plecare deschide orice usa si demonteaza clisheul cu parizianul nepoliticos.",
+      "en": "Paris is international and English works fine in hotels, cafes and museums. But a polite 'bonjour madame/monsieur' on entering and 'merci, bonne journee' on leaving opens every door and disarms the 'rude Parisian' cliche."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: 15-22 Grad, lange Tage, ohne die brutalen Hitzewellen vom Juli/August (oft ueber 38 Grad). Dezember bringt Weihnachtsmaerkte. August ist 'mort' – viele Pariser sind weg, Lokale geschlossen.",
+      "hu": "Aprilis-junius es szeptember-oktober a legjobb: 15-22 fok, hosszu napok, a julius-augusztusi brutal hosegtol (gyakran 38+ fok) mentesen. Decemberben karacsonyi vasarok. Augusztusban 'mort' – sok parizsi nyaral, sok bolt zarva.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: 15-22 grade, zile lungi, fara valurile brutale de caldura din iulie-august (deseori peste 38 grade). Decembrie aduce targuri de Craciun. August e 'mort' – multi parizieni pleaca, multe localuri inchise.",
+      "en": "April-June and September-October are ideal: 15-22°C, long days, without the brutal heatwaves of July/August (often over 38°C). December brings Christmas markets. August is 'mort' — many Parisians leave and many places close."
+    },
+    "neighborhood_warnings": {
+      "de": "Taschendiebe arbeiten in Metro Linie 1, 4 und 6, an Sacre-Coeur, Eiffelturm und Louvre. Vorsicht vor 'Petition'-Touristenfallen. Belleville, Stalingrad und La Chapelle abends meiden, 18./19./20. Arrondissement Randzonen ebenso.",
+      "hu": "Zsebtolvajok a Metro 1, 4 es 6 vonalan, Sacre-Coeur, Eiffel-torony es Louvre kornyeken dolgoznak. Vigyazz a 'peticio' turistacsapdara. Belleville, Stalingrad, La Chapelle estere kerulendok, a 18-19-20. kerulet kulso resze ugyancsak.",
+      "ro": "Hotii de buzunare lucreaza pe metrou liniile 1, 4 si 6, la Sacre-Coeur, Turnul Eiffel si Luvru. Atentie la capcana 'petitiei'. Belleville, Stalingrad si La Chapelle se evita seara, ca si periferia arondismentelor 18, 19, 20.",
+      "en": "Pickpockets work Metro lines 1, 4 and 6 and around Sacre-Coeur, Eiffel Tower and Louvre. Beware the 'petition' scam. Avoid Belleville, Stalingrad and La Chapelle at night, plus the outer 18th/19th/20th arrondissements."
+    },
+    "parking_real_time": "https://saemes.fr/"
   }
 }

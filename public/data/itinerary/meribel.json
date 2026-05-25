@@ -1058,5 +1058,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.meribel.net/en/webcams/",
+    "tourism_office": "https://www.meribel.net/",
+    "events": "https://www.meribel.net/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Méribel ist die wohl britischste Station Frankreichs, Englisch ist quasi Amtssprache in Pubs, Chalets und Skischulen. Franzosen schaetzen trotzdem ein 'bonjour' und 'merci', vor allem in Bergrestaurants und kleinen Geschaeften abseits des Zentrums.",
+      "hu": "Méribel talan a legbritebb francia siallomas, az angol szinte hivatalos a pubokban, chaletekben es sioktatasban. A franciak azonban szeretik a 'bonjour' es 'merci' szavakat, kulonosen a hegyi ettermekben es a kis boltokban a kozponton kivul.",
+      "ro": "Méribel e probabil cea mai britanica statiune din Franta, engleza e cvasi-oficiala in pub-uri, chalet-uri si scoli de schi. Francezii apreciaza totusi un 'bonjour' si 'merci', mai ales in refugii montane si magazine mici departe de centru.",
+      "en": "Méribel is arguably France's most British ski resort — English is practically official in pubs, chalets and ski schools. The French still appreciate a 'bonjour' and 'merci', especially in mountain restaurants and small shops away from the centre."
+    },
+    "best_time_to_visit": {
+      "de": "Skisaison Mitte Dezember bis Mitte April, das Trois-Vallées-Skigebiet ist Weltrekord-Pisten-Auswahl. Februar britische Halbjahresferien extrem voll, Januar Anfang und Maerz Mitte sind die Geheimtipps. Sommer ruhig, viele Lifte zu.",
+      "hu": "Sszezon december kozeptol aprilis kozepig, a Trois Vallées vilag legnagyobb sirendszere. Februari brit szunet brutalisan zsufolt, januar eleje es marcius kozepe a titkos ido. Nyaron csendes, sok felvono zarva.",
+      "ro": "Sezonul de schi din mijlocul lui decembrie pana la mijlocul lui aprilie, domeniul Trois Vallées e cel mai mare din lume. Vacanta britanica de februarie e brutal de aglomerata, inceputul lui ianuarie si mijlocul lui martie sunt momentele secrete. Vara e linistita, multe telecabine inchise.",
+      "en": "Ski season mid-December to mid-April — the Trois Vallées area is the world's largest linked ski domain. British half-term in February is brutally crowded; early January and mid-March are the sweet spots. Summer is quiet with many lifts closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Le Centre und Mottaret sind die zwei Pole, Mottaret hoeher und naeher an den Pisten, Le Centre lebhafter abends. Apres-Ski-Preise im Folie Douce schnell ueber 15 Euro pro Bier. Strassenchaos am Samstag wenn ein Wechseltag.",
+      "hu": "Le Centre es Mottaret a ket pol, Mottaret magasabb es kozelebb a pistakhoz, Le Centre estere elenkebb. A Folie Douce-ban a sornek 15 euro folott. Szombat (cseree-nap) ut-kaosz.",
+      "ro": "Le Centre si Mottaret sunt cei doi poli, Mottaret e mai sus si mai aproape de partii, Le Centre e mai vibrant seara. La Folie Douce berea trece usor de 15 euro. Sambata, ziua de schimb, e haos pe drum.",
+      "en": "Le Centre and Mottaret are the two hubs — Mottaret is higher and closer to the slopes, Le Centre livelier in the evenings. Beers at La Folie Douce easily top 15 euros. Roads are chaos on Saturdays (changeover day)."
+    },
+    "parking_real_time": ""
   }
 }

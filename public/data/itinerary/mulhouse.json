@@ -986,5 +986,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-mulhouse.com/",
+    "events": "https://www.tourisme-mulhouse.com/agenda/",
+    "city_card": "https://www.tourisme-mulhouse.com/mulhouse-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.solea.info/",
+    "language_tips": {
+      "de": "Mulhouse spricht elsaessisches Franzoesisch mit klarem deutschen Einfluss, viele Einheimische sprechen Elsaessisch (eine alemannische Mundart) und auch Deutsch. Englisch in Museen verbreitet. 'Guten Tag' und 'Salü' funktionieren bestens.",
+      "hu": "Mulhouse elzaszi franciat beszel egyertelmu nemet hatassal, sok helyi tud elzasziul (alemann nyelvjaras) es nemetul is. A muzeumokban van angol. A 'Guten Tag' es 'Salü' kivaloan mukodik.",
+      "ro": "Mulhouse vorbeste franceza alsaciana cu influenta germana clara, multi localnici stiu alsaciana (un dialect alemanic) si germana. Engleza merge in muzee. 'Guten Tag' si 'Salü' functioneaza foarte bine.",
+      "en": "Mulhouse speaks Alsatian French with strong German flavour, and many locals also speak Alsatian dialect and German. English works in museums. 'Guten Tag' and 'Salü' both get warm responses."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (15-24 Grad), Auto- und Eisenbahnmuseum ganzjaehrig. Juli-August warm, Festival 'Bel Air' im August. Winter kalt (0-5 Grad), aber elsaessischer Weihnachtsmarkt und Glühwein bei -2 Grad sind magisch.",
+      "hu": "Majus-szeptember a legjobb (15-24 fok), az auto- es vasutmuzeum egesz evben. Julius-augusztus meleg, 'Bel Air' fesztival augusztusban. Tel hideg (0-5 fok), de az elzaszi karacsonyi vasar es a -2 fokban kortyolt forralt bor varazslatos.",
+      "ro": "Mai-septembrie sunt ideale (15-24 grade), muzeele de masini si trenuri sunt deschise tot anul. Iulie-august sunt calde, festivalul 'Bel Air' in august. Iarna e rece (0-5 grade), dar targul de Craciun alsacian si vinul fiert la -2 grade sunt magice.",
+      "en": "May-September are ideal (15-24°C), with the car and railway museums open year-round. July-August are warm, 'Bel Air' festival in August. Winter is cold (0-5°C) but the Alsatian Christmas market with mulled wine at -2°C is pure magic."
+    },
+    "neighborhood_warnings": {
+      "de": "Bourtzwiller und Coteaux im Norden abends meiden. Innenstadt, Place de la Reunion und Museumsviertel sicher. Bahnhof Mulhouse-Ville tagsueber lebhaft, nachts ruhiger.",
+      "hu": "Bourtzwiller es Coteaux eszakon este nem ajanlott. A belvaros, Place de la Reunion es muzeumi negyed biztonsagos. Mulhouse-Ville allomas nappal eleven, ejjel csendesebb.",
+      "ro": "Bourtzwiller si Coteaux, in nord, sunt de evitat seara. Centrul, Place de la Reunion si cartierul muzeelor sunt sigure. Gara Mulhouse-Ville e animata ziua, mai linistita noaptea.",
+      "en": "Avoid Bourtzwiller and Coteaux in the north after dark. The centre, Place de la Reunion and museum district are safe. Mulhouse-Ville station is busy by day, quieter at night."
+    },
+    "parking_real_time": ""
   }
 }

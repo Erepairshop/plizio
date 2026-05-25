@@ -1032,5 +1032,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.versailles-tourisme.com/",
+    "events": "https://www.versailles-tourisme.com/agenda/",
+    "city_card": "https://www.versailles-tourisme.com/le-pass/",
+    "museum_tickets": "https://en.chateauversailles.fr/plan-your-visit/tickets",
+    "transit_official": "https://www.ratp.fr/",
+    "language_tips": {
+      "de": "Versailles ist hochinternational dank Schloss-Tourismus, Englisch, Spanisch, Italienisch und Mandarin werden gut gesprochen. Lernen Sie 'Galerie des Glaces' (Spiegelsaal) und 'Petit Trianon' für Marie Antoinettes Rückzugsort. Bei den Audioguides sind über 10 Sprachen verfügbar, inklusive Deutsch und Russisch.",
+      "hu": "Versailles a kastélyturizmusnak köszönhetően erősen nemzetközi, angolul, spanyolul, olaszul és kínaiul jól beszélnek. Tanuld meg a 'Galerie des Glaces' (tükörterem) és 'Petit Trianon' nevét Marie Antoinette menedékhelyéhez. Az audiovezetőkben több mint 10 nyelv elérhető, németül és oroszul is.",
+      "ro": "Versailles este foarte internațional datorită turismului de castel, engleza, spaniola, italiana și mandarina se vorbesc bine. Învățați 'Galerie des Glaces' (Sala Oglinzilor) și 'Petit Trianon' pentru refugiul Mariei Antoaneta. Audioghizii sunt în peste 10 limbi, inclusiv germana și rusa.",
+      "en": "Versailles is highly international thanks to château tourism - English, Spanish, Italian and Mandarin are well spoken. Learn 'Galerie des Glaces' (Hall of Mirrors) and 'Petit Trianon' for Marie Antoinette's retreat. Audio guides offer over 10 languages including German and Russian."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Mai und September bis Oktober sind ideal: mildes Wetter, blühende Gärten und weniger Touristenmassen. Juli und August sind extrem voll, vor allem an Wochenenden. Dienstag ist Ruhetag - vermeiden! Frühe Morgenstunden (vor 10 Uhr) bedeuten kürzere Warteschlangen am Schlossberg.",
+      "hu": "Április-május és szeptember-október ideális: enyhe idő, virágzó kertek és kevesebb turista. Júliusban és augusztusban extrém zsúfolt, főleg hétvégén. Kedden zárva van - kerüld! Korai óra (10 előtt) rövidebb sor a kastélynál.",
+      "ro": "Aprilie-mai și septembrie-octombrie sunt ideale: vreme blândă, grădini înflorite și mai puțini turiști. Iulie-august sunt extrem de aglomerate, mai ales în weekend. Marți este închis - evitați! Diminețile devreme (înainte de 10) înseamnă cozi mai scurte la castel.",
+      "en": "April-May and September-October are ideal: mild weather, blooming gardens and fewer crowds. July-August extremely packed, especially weekends. Tuesday is closing day - avoid! Early mornings (before 10am) mean shorter queues at the château entrance."
+    },
+    "neighborhood_warnings": {
+      "de": "Versailles ist meist sicher, doch in den Touristenströmen vor dem Schloss Vorsicht vor Taschendieben. Der RER-C-Bahnhof Versailles Rive Gauche kann abends ungemütlich sein. In den Gärten nicht von markierten Wegen abweichen.",
+      "hu": "Versailles többnyire biztonságos, de a kastély előtti tömegben figyelj a zsebtolvajokra. A Versailles Rive Gauche RER-C állomás este kellemetlen lehet. A kertekben ne térj le a kijelölt utakról.",
+      "ro": "Versailles este în general sigur, dar în mulțimea de turiști din fața castelului, atenție la hoții de buzunare. Gara RER-C Versailles Rive Gauche poate fi neplăcută seara. În grădini, nu deviați de la căile marcate.",
+      "en": "Versailles is mostly safe, but watch for pickpockets in the tourist crowds at the château entrance. The Versailles Rive Gauche RER-C station can feel uneasy at night. In the gardens stay on marked paths."
+    },
+    "parking_real_time": ""
   }
 }

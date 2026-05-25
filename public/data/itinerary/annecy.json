@@ -1199,5 +1199,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.lac-annecy.com/",
+    "events": "https://www.lac-annecy.com/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.sibra.fr/",
+    "language_tips": {
+      "de": "Annecy ist Schweiz-Grenznähe, Englisch und etwas Deutsch verbreitet. Savoyarder Dialekt zeigt sich in Speisekarten: 'tartiflette', 'reblochon', 'diots'. 'Adieu' im savoyardischen Sinn ist 'Tschüss' nicht 'Auf Wiedersehen'. Ski-Vokabular im Winter nützlich.",
+      "hu": "Annecy közel van Svájchoz, az angol és kevés német megy. A szavojai tájszólás az étlapokon mutatkozik: 'tartiflette', 'reblochon', 'diots'. Az 'Adieu' szavojai értelemben 'szia', nem 'viszlát'. Télen hasznos a sí-szókincs.",
+      "ro": "Annecy este aproape de Elveția, engleza și puțină germană sunt răspândite. Dialectul savoyard apare în meniuri: 'tartiflette', 'reblochon', 'diots'. 'Adieu' în sens savoyard înseamnă 'pa', nu 'adio'. Iarna, vocabularul de schi este util.",
+      "en": "Annecy is near Switzerland; English and some German are common. Savoyard dialect shows up on menus: 'tartiflette', 'reblochon', 'diots'. 'Adieu' here means 'bye', not 'farewell'. Winter ski vocabulary helps."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September für Seeaktivitäten ohne Massen. Juli-August: warm zum Schwimmen, aber sehr voll. Anfang August: 'Fête du Lac' Feuerwerk. Dezember-März für Skifahren in der Nähe (La Clusaz, Le Grand-Bornand).",
+      "hu": "Május-június és szeptember a tavi aktivitásokért tömeg nélkül. Július-augusztus: meleg fürdőzéshez, de zsúfolt. Augusztus eleje: 'Fête du Lac' tűzijáték. December-március síelésre a közelben (La Clusaz, Le Grand-Bornand).",
+      "ro": "Mai-iunie și septembrie pentru activitățile pe lac fără aglomerație. Iulie-august: cald pentru înot, dar foarte plin. Început de august: focuri de artificii 'Fête du Lac'. Decembrie-martie pentru schi în apropiere.",
+      "en": "May-June and September for lake activities without crowds. July-August: warm for swimming but very busy. Early August: 'Fête du Lac' fireworks. December-March for nearby skiing (La Clusaz, Le Grand-Bornand)."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Hauptproblem: Verkehr und Parken im Sommer chaotisch. Vermeiden Sie Autofahrten in die Altstadt, nutzen Sie SIBRA-Busse. Beim Schwimmen im See auf wechselnde Strömungen achten.",
+      "hu": "Nagyon biztonságos. A fő gond: a forgalom és parkolás nyáron kaotikus. Kerüld az autózást az óvárosba, használj SIBRA-buszt. Úszáskor figyelj a tó váltakozó áramlataira.",
+      "ro": "Foarte sigur. Problema principală: trafic și parcare haotice vara. Evitați mașina în centrul vechi, folosiți autobuzele SIBRA. La înot, atenție la curenții schimbători din lac.",
+      "en": "Very safe. Biggest issue: chaotic summer traffic and parking. Avoid driving into the old town, use SIBRA buses. When swimming, watch for shifting currents in the lake."
+    },
+    "parking_real_time": ""
   }
 }

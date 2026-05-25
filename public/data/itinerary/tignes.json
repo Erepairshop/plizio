@@ -1081,5 +1081,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.tignes.net/en/webcams",
+    "tourism_office": "https://www.tignes.net/",
+    "events": "https://www.tignes.net/en/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Tignes ist eines der internationalsten Skigebiete Frankreichs, in Bars und Hotels reicht oft Englisch, viele Skilehrer sind Briten oder Skandinavier. Ein freundliches 'bonjour' beim Eintreten in eine franzoesische Boulangerie wird trotzdem geschaetzt.",
+      "hu": "Tignes Franciaorszag egyik legnemzetkozibb si terulete, baroknal es hoteleknel az angol legtobbszor eleg, sok sioktato brit vagy skandinav. Egy baratsagos 'bonjour' a francia pekseg ajtajaban megis sokat szamit.",
+      "ro": "Tignes e printre cele mai internationale statiuni de schi din Franta, in baruri si hoteluri engleza ajunge, multi instructori sunt britanici sau scandinavi. Un 'bonjour' politicos la intrarea in boulangerie e mereu apreciat.",
+      "en": "Tignes is one of France's most international ski resorts — English works fine in bars and hotels, and many instructors are British or Scandinavian. Still, a friendly 'bonjour' when you walk into a French boulangerie always lands well."
+    },
+    "best_time_to_visit": {
+      "de": "Dank hoher Lage (2100m) zuverlaessig schneesicher von November bis Mai, Sommerski auf dem Grande-Motte-Gletscher bis Juli. Beste Skitage Januar-Februar, Ostern oft sonnig und voll. November Lifte langsam ans Netz, viele Restaurants noch dicht.",
+      "hu": "A 2100 m-es magassagnak koszonhetoen november-majus megbizhato a ho, a Grande Motte gleccseren juliusig nyari sielles. A legjobb si napok januar-februar, husvet napos es zsufolt. Novemberben a felvonok lassan indulnak, sok etterem meg zarva.",
+      "ro": "La 2100 m altitudine zapada e sigura din noiembrie pana in mai, schi de vara pe ghetarul Grande Motte pana in iulie. Cele mai bune zile de schi sunt ianuarie-februarie, Pastele e insorit dar aglomerat. In noiembrie partiile se deschid lent, multe restaurante inca inchise.",
+      "en": "At 2100m altitude, snow is reliable from November to May, with summer skiing on the Grande Motte glacier into July. Best ski days are January-February; Easter is sunny but packed. In November lifts open slowly and many restaurants are still shut."
+    },
+    "neighborhood_warnings": {
+      "de": "Tignes-le-Lac und Val Claret sind die belebten Zentren, der Stausee dazwischen kann nachts windig und bitterkalt sein. Off-Piste-Lawinengefahr regelmaessig hoch, Guide nehmen. In der Hochsaison Restaurants ohne Reservierung selten Platz.",
+      "hu": "Tignes-le-Lac es Val Claret a pezsgo kozpontok, kozottuk a viztarozo ejjel szeles es csontig hideg lehet. Off-pisten gyakran magas a lavinaveszely, vegy vezetot. Foszezonban etteremben foglalas nelkul ritkan jutsz helyhez.",
+      "ro": "Tignes-le-Lac si Val Claret sunt centrele vibrante, intre ele lacul de acumulare poate fi vantos si geros noaptea. Pericol mare de avalansa off-piste, ia ghid. In sezonul de varf, restaurantele fara rezervare rar au locuri.",
+      "en": "Tignes-le-Lac and Val Claret are the lively hubs, with the reservoir between them often windy and bitter cold at night. Off-piste avalanche risk is regularly high, hire a guide. In peak season, restaurants without a booking rarely have space."
+    },
+    "parking_real_time": ""
   }
 }

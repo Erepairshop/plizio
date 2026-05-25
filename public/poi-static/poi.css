@@ -434,6 +434,22 @@ footer a { color: rgba(255,255,255,0.7); }
 }
 .plz-weather-forecast .plz-tmin { color: rgba(255,255,255,0.55); font-size: 0.75rem; }
 
+/* Water temperature (Open-Meteo Marine, auto-hides for inland POIs) */
+.plz-marine {
+  margin-top: 1rem; padding: 1rem 1.25rem;
+  background: rgba(7,17,27,0.6); border: 1px solid rgba(56,189,248,0.25);
+  border-radius: 18px;
+}
+.plz-marine-loading { color: rgba(255,255,255,0.55); margin: 0; font-size: 0.9rem; }
+.plz-marine-now { display: flex; align-items: center; gap: 1rem; }
+.plz-marine-icon { font-size: 2rem; }
+.plz-marine-now strong { display: block; font-size: 1.6rem; color: #fff; }
+.plz-marine-label { display: block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(56,189,248,0.85); }
+.plz-marine-forecast { margin-top: 0.75rem; }
+.plz-marine-bars { display: flex; gap: 4px; height: 40px; margin-top: 0.4rem; align-items: flex-end; }
+.plz-marine-bar { flex: 1; height: 100%; background: rgba(255,255,255,0.05); border-radius: 4px; position: relative; overflow: hidden; }
+.plz-marine-bar-fill { position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(180deg, rgba(56,189,248,0.95), rgba(34,211,238,0.6)); border-radius: 4px; transition: height 0.3s; }
+
 /* Recent news */
 .plz-news {
   margin-top: 2rem; padding: 1.25rem 1.5rem;

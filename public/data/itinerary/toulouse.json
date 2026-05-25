@@ -1090,5 +1090,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/occitanie.html",
+    "tourism_office": "https://www.toulouse-visit.com/",
+    "events": "https://www.toulouse-visit.com/agenda",
+    "city_card": "https://www.toulouse-visit.com/",
+    "museum_tickets": "https://www.cite-espace.com/en/",
+    "transit_official": "https://www.tisseo.fr/",
+    "language_tips": {
+      "de": "Toulouse ist die rosarote Stadt mit suedfranzoesischem Akzent (chantant). Englisch klappt in Universitaetsvierteln und im Zentrum, im Markt Victor Hugo und in Tapas-Bars Place Saint-Pierre hilft Franzoesisch mit warmem 'bonjour' und 'que la festa coumence!'-Energie.",
+      "hu": "Toulouse a rozsaszin varos del-francia (chantant) akcentussal. Az angol megy az egyetemi negyedekben es kozpontban, a Victor Hugo piacon es a Place Saint-Pierre tapas-barjaiban a francia melegseggel ('bonjour', 'que la festa coumence!') segit.",
+      "ro": "Toulouse e orasul roz cu accent sudic cantat. Engleza merge in cartierele universitare si centru, in piata Victor Hugo si baruri de tapas din Place Saint-Pierre ajuta franceza cu un 'bonjour' caldut si energie sudica.",
+      "en": "Toulouse is the pink city with a singsong southern French accent. English works in university quarters and the centre; at Victor Hugo market and tapas bars on Place Saint-Pierre, French with a warm 'bonjour' helps."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind perfekt: 18-26 Grad, Wisteria-Bluete im April und Cassoulet-Saison im Herbst. Juli und August sind heiss (oft 32+), viele Toulousains fluechten an den Atlantik. Winter ist mild und ruhig.",
+      "hu": "Aprilis-junius es szeptember-oktober tokeletes: 18-26 fok, glycinia-viragzas aprilisban, oszi cassoulet-szezon. Julius-augusztusban meleg (gyakran 32+), sok toulousi az Atlanti-partra menekul. Telen enyhe es csendes.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt perfecte: 18-26 grade, glicina infloreste in aprilie si cassoulet-ul e regele toamnei. Iulie-august sunt fierbinti (32+), multi toulousani fug la Atlantic. Iarna e blanda si linistita.",
+      "en": "April-June and September-October are perfect: 18-26°C, wisteria blooms in April and cassoulet rules in autumn. July-August get hot (often 32+), many locals flee to the Atlantic coast. Winter is mild and calm."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum, Capitole und Saint-Etienne sind sicher und lebendig. Bahnhof Matabiau abends meiden, Empalot und Bagatelle (Suedwesten) sind nicht touristisch und nicht empfohlen. Taschendiebe an Bahnhof und Metro Linie A.",
+      "hu": "Kozpont, Capitole es Saint-Etienne biztonsagos es elven. Matabiau palyaudvart estere kerud, Empalot es Bagatelle (delnyugat) nem turista zonak, nem ajanlott. Zsebtolvajok a palyaudvaron es a Metro A vonalon.",
+      "ro": "Centrul, Capitole si Saint-Etienne sunt sigure si vii. Evita seara gara Matabiau, Empalot si Bagatelle (sud-vest) nu sunt zone turistice si nu sunt recomandate. Hoti de buzunar la gara si pe metroul linia A.",
+      "en": "Centre, Capitole and Saint-Etienne are safe and lively. Avoid Matabiau station at night; Empalot and Bagatelle (south-west) aren't tourist areas and aren't recommended. Pickpockets at the station and on Metro line A."
+    },
+    "parking_real_time": ""
   }
 }

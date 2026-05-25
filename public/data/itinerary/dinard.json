@@ -1098,5 +1098,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.dinardemeraudetourisme.com/",
+    "events": "https://www.dinardemeraudetourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.ksma.fr/",
+    "language_tips": {
+      "de": "Dinard spricht bretonisches Franzoesisch, leicht und mit historischem britischen Einfluss (alte Sommerfrische der englischen Aristokratie). Englisch in Hotels und am Strand verbreitet. 'Bonjour' und 'merci' werden hier mit viel Stil gepflegt.",
+      "hu": "Dinard breton franciat beszel, konnyu, tortenelmi brit hatassal (regi angol arisztokrata nyaralohely). A szallodakban es a strandon megy az angol. A 'bonjour' es 'merci' itt stilusos gondossagal.",
+      "ro": "Dinard vorbeste franceza bretona, usoara, cu influenta britanica istorica (vechi loc de vilegiatura al aristocratiei engleze). Engleza merge la hoteluri si pe plaja. 'Bonjour' si 'merci' sunt cultivate cu stil aici.",
+      "en": "Dinard speaks Breton French, light and historically tied to British seaside aristocracy. English works in hotels and on the beach. 'Bonjour' and 'merci' are practised here with a touch of refinement."
+    },
+    "best_time_to_visit": {
+      "de": "Juni-September sind ideal (16-22 Grad), Festival du Film Britannique Anfang Oktober weltberuehmt. Juli-August warm und voll, dafuer Strandbaeder geoeffnet. Winter mild und windig (6-10 Grad), Strandpromenade fast leer, Hotels gemuetlich.",
+      "hu": "Junius-szeptember a legjobb (16-22 fok), oktober elejen vilaghiru Brit Filmfesztival. Julius-augusztus meleg es zsufolt, cserebe a strandkabinok nyitva. Tel enyhe es szeles (6-10 fok), a strandpromenad szinte ures, hotelek hangulatosak.",
+      "ro": "Iunie-septembrie sunt ideale (16-22 grade), Festivalul de Film Britanic la inceput de octombrie e celebru in lume. Iulie-august sunt calde si aglomerate, dar cabanele de plaja sunt deschise. Iarna e blanda si vantoasa (6-10 grade), promenada aproape goala, hotelurile placute.",
+      "en": "June-September are ideal (16-22°C), with the world-famous British Film Festival in early October. July-August are warm and packed but beach huts are open. Winter is mild and breezy (6-10°C), promenade nearly empty, hotels cosy."
+    },
+    "neighborhood_warnings": {
+      "de": "Dinard ist sehr sicher, kleine gehobene Stadt. Keine bekannten Problemviertel. Strand-Promenade auch abends ruhig und beleuchtet. Achtung auf Gezeiten am Strand, das Wasser kommt schnell.",
+      "hu": "Dinard nagyon biztonsagos, kis es uri varos. Nincs ismert problemas negyed. A strand-promenad ejjel is csendes es kivilagitott. Figyelj a dagalyra, gyorsan jon a viz.",
+      "ro": "Dinard e foarte sigur, oras mic si elegant. Nu exista cartiere cu probleme. Promenada de la plaja e linistita si iluminata si seara. Atentie la maree pe plaja, apa vine repede.",
+      "en": "Dinard is very safe — small upscale town. No known problem districts. The promenade stays calm and lit in the evening. Mind the tide on the beach — water comes in fast."
+    },
+    "parking_real_time": ""
   }
 }

@@ -957,5 +957,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.aixenprovencetourism.com/",
+    "events": "https://www.aixenprovencetourism.com/agenda/",
+    "city_card": "https://www.aixenprovencetourism.com/aix-city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.aixenbus.fr/",
+    "language_tips": {
+      "de": "Aix spricht Franzoesisch mit weichem provenzalischen Akzent, langsamer und melodischer als in Marseille. Englisch in Hotels und an Cézanne-Stätten ok, in Cafés am Cours Mirabeau gemischt. 'Bonjour' und 'merci' sind hier soziale Schmiermittel.",
+      "hu": "Aix lagy provanszi akcentussal beszeli a franciat, lassabban es dallamosabban mint Marseille. A szallodakban es a Cézanne-helyeken megy az angol, a Cours Mirabeau kavezoiban vegyes. A 'bonjour' es 'merci' itt tarsadalmi olajozo.",
+      "ro": "Aix vorbeste franceza cu accent provensal blajin, mai lent si mai melodios decat Marseille. La hoteluri si pe traseul Cézanne engleza merge, in cafenelele de pe Cours Mirabeau e mixt. 'Bonjour' si 'merci' sunt lubrifianti sociali aici.",
+      "en": "Aix speaks French with a soft Provençal accent, slower and more musical than Marseille. English works in hotels and on the Cézanne trail, mixed in Cours Mirabeau cafes. A 'bonjour' and 'merci' here are real social lubricant."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September sind ideal: 22-28 Grad, Lavendelfelder bluehen Juni-Juli, Festival d'Art Lyrique im Juli. August heiss und voll, viele Bistros schliessen 2 Wochen. Winter mild (8-14 Grad), Mistral kann unangenehm sein, Markt und Cafés trotzdem belebt.",
+      "hu": "Majus-junius es szeptember a legjobb: 22-28 fok, a levendulamezok junius-juliusban viragoznak, juliusban Festival d'Art Lyrique. Augusztus forro es zsufolt, sok bisztro 2 hetet zarva. Tel enyhe (8-14 fok), a Mistral kellemetlen lehet, de a piac es kavezok aktivak.",
+      "ro": "Mai-iunie si septembrie sunt ideale: 22-28 grade, lavanda infloreste in iunie-iulie, Festivalul d'Art Lyrique in iulie. August e fierbinte si aglomerat, multe bistro-uri inchid doua saptamani. Iarna e blanda (8-14 grade), Mistralul poate fi neplacut, dar piata si cafenelele sunt animate.",
+      "en": "May-June and September are ideal: 22-28°C, lavender fields bloom June-July, and the Festival d'Art Lyrique runs in July. August is hot and packed, many bistros close for two weeks. Winter is mild (8-14°C), the Mistral bites but markets and cafes stay lively."
+    },
+    "neighborhood_warnings": {
+      "de": "Jas de Bouffan und Encagnane im Westen abends meiden. Innenstadt, Cours Mirabeau und Mazarin-Viertel sehr sicher, tagsueber wie nachts. Bahnhof tagsueber okay, nachts ruhig.",
+      "hu": "Jas de Bouffan es Encagnane nyugaton este nem ajanlott. A belvaros, a Cours Mirabeau es a Mazarin-negyed nagyon biztonsagos, nappal es ejjel. Az allomas nappal rendben, ejjel csendes.",
+      "ro": "Jas de Bouffan si Encagnane, in vest, sunt de evitat seara. Centrul, Cours Mirabeau si cartierul Mazarin sunt foarte sigure zi si noapte. Gara e ok ziua, linistita noaptea.",
+      "en": "Avoid Jas de Bouffan and Encagnane in the west after dark. The centre, Cours Mirabeau and the Mazarin quarter feel very safe day and night. The station is fine by day, quiet at night."
+    },
+    "parking_real_time": ""
   }
 }

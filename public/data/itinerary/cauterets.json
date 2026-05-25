@@ -900,5 +900,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/occitanie.html",
+    "tourism_office": "https://www.cauterets.com/",
+    "events": "https://www.cauterets.com/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Cauterets ist ein Pyrenaeen-Kurort mit Thermen und Skigebiet. In Hotels und Skischulen klappt Englisch, in den alten Badehaeusern und Bergrestaurants gehoert ein 'bonjour' und 'merci beaucoup' aber dazu, hier ist die Atmosphaere noch sehr franzoesisch.",
+      "hu": "Cauterets pireneusi gyogyfurdo es sipalya. A szallodakban es siskolakban az angol megy, de a regi furdohazakban es hegyi ettermekben egy 'bonjour' es 'merci beaucoup' alapveto, itt nagyon francias a hangulat.",
+      "ro": "Cauterets e o statiune balneara si de schi din Pirinei. La hoteluri si scoli de schi engleza merge, dar in vechile baile termale si restaurante montane un 'bonjour' si 'merci beaucoup' sunt obligatorii, atmosfera aici e foarte franceza.",
+      "en": "Cauterets is a Pyrenees spa and ski town. English works at hotels and ski schools, but in the old thermal baths and mountain restaurants a 'bonjour' and 'merci beaucoup' are essential — the atmosphere is still very French here."
+    },
+    "best_time_to_visit": {
+      "de": "Juli und August fuer Wandern im Nationalpark Pyrenees (10-22 Grad in der Hoehe), Dezember bis Maerz fuer Skifahren in Cirque du Lys und Pont d'Espagne. Mai/Juni und September sind ruhig mit Wasserfaellen und Bergblumen.",
+      "hu": "Julius-augusztus a Pireneusok Nemzeti Park-i turazasra (10-22 fok magasan), december-marcius a sielesre (Cirque du Lys, Pont d'Espagne). Majus-junius es szeptember csendesebb, vizesesekkel es hegyi viragokkal.",
+      "ro": "Iulie-august pentru drumetii in Parcul National Pirinei (10-22 grade la inaltime), decembrie-martie pentru schi (Cirque du Lys, Pont d'Espagne). Mai-iunie si septembrie sunt linistite cu cascade si flori de munte.",
+      "en": "July-August for hiking in Pyrenees National Park (10-22°C at altitude), December-March for skiing at Cirque du Lys and Pont d'Espagne. May-June and September are quiet with waterfalls and mountain flowers."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, einzige Vorsicht: schmale Bergstrassen mit Eis im Winter, Schneeketten Pflicht. Im Sommer Vorsicht vor Gewittern im Hochgebirge, fruehe Tagestour planen.",
+      "hu": "Nagyon biztonsagos, csak teli jeges hegyi utakra (hólánc kotelezo) es nyari magashegyi viharokra figyelj, korai turat tervezz.",
+      "ro": "Foarte sigur, atentie doar la drumurile montane inguste cu gheata iarna (lanturi obligatorii) si la furtunile de munte vara; planifica drumetii de dimineata.",
+      "en": "Very safe; only watch out for icy mountain roads in winter (chains required) and summer afternoon thunderstorms at altitude — start hikes early."
+    },
+    "parking_real_time": ""
   }
 }

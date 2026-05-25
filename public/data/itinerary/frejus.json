@@ -1154,5 +1154,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.frejus.fr/",
+    "events": "https://www.frejus.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.agglo-cavem.fr/transport-mobilite/",
+    "language_tips": {
+      "de": "Fréjus ist provenzalisch und römisch geprägt, der Akzent leicht singend. Englisch wird in den Hotels und an den Strandrestaurants gesprochen. Bei den römischen Ruinen findet man oft englische Beschilderung. Lernen Sie 'l'amphithéâtre' und 'les arènes' richtig auszusprechen für Diskussionen über die Geschichte.",
+      "hu": "Fréjus provence-i és római hatású, az akcentus enyhén dallamos. A szállodákban és a strandi éttermekben beszélnek angolul. A római romoknál gyakran van angol nyelvű tábla. Tanuld meg helyesen kiejteni az 'amphithéâtre' és 'les arènes' szavakat, ha a történelemről beszélgetnél.",
+      "ro": "Fréjus este provensal și roman, accentul cântă ușor. Engleza se vorbește în hoteluri și restaurantele de pe plajă. La ruinele romane găsiți des panouri în engleză. Învățați să pronunțați corect 'l'amphithéâtre' și 'les arènes' pentru discuții despre istorie.",
+      "en": "Fréjus blends Provençal and Roman heritage, with a softly sung accent. English is spoken at hotels and beachside restaurants. Roman ruins often have English signage. Learn to pronounce 'l'amphithéâtre' and 'les arènes' for engaging conversations about local history."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September sind ideal: warmes Wetter, weniger Touristen und perfekte Bedingungen für die römischen Stätten ohne Hitze. Juli und August bringen Massen an Strandtouristen, vor allem an die Plage de Saint-Aygulf. Im Frühjahr blühen die Mimosen, ein lokales Highlight.",
+      "hu": "Május és június, valamint szeptember tökéletes: meleg időjárás, kevesebb turista és ideális feltételek a római helyszínek látogatásához hőség nélkül. Júliusban és augusztusban tömegével érkeznek a strandolók, főleg a Plage de Saint-Aygulf-ra. Tavasszal virágzik a mimóza.",
+      "ro": "Mai-iunie și septembrie sunt ideale: vreme caldă, mai puțini turiști și condiții perfecte pentru siturile romane fără căldură. Iulie și august aduc mulțimi pe plaje, mai ales la Plage de Saint-Aygulf. Primăvara înflorește mimoza, un punct forte local.",
+      "en": "May-June and September are ideal: warm weather, fewer tourists, and perfect conditions to visit Roman sites without the heat. July and August bring beach crowds, especially to Plage de Saint-Aygulf. Spring sees the mimosas in bloom - a beloved local highlight."
+    },
+    "neighborhood_warnings": {
+      "de": "Fréjus ist generell sicher, doch das Viertel um den Bahnhof und einige Strandbereiche bei Saint-Raphaël können nachts ungemütlich sein. Im Sommer Vorsicht vor Taschendieben in den Arenen.",
+      "hu": "Fréjus általában biztonságos, de a pályaudvar környéke és Saint-Raphaël egyes strandjai este kellemetlenek lehetnek. Nyáron óvakodj a zsebtolvajoktól az arénáknál.",
+      "ro": "Fréjus este în general sigur, dar zona din jurul gării și unele plaje de la Saint-Raphaël pot fi neplăcute noaptea. Vara, atenție la hoții de buzunare la arene.",
+      "en": "Fréjus is generally safe, but the station area and some beaches near Saint-Raphaël can feel uneasy at night. In summer, watch for pickpockets around the Roman arena and old town."
+    },
+    "parking_real_time": ""
   }
 }

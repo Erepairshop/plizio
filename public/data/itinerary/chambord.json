@@ -1241,5 +1241,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.chambord.org/",
+    "events": "https://www.chambord.org/agenda/",
+    "city_card": "https://www.bloischambord.com/pass/",
+    "museum_tickets": "https://www.chambord.org/billetterie/",
+    "transit_official": "https://www.remi-centrevaldeloire.fr/",
+    "language_tips": {
+      "de": "Chambord ist hauptsächlich Schloss-Tourismus, Englisch wird an den Kassen, im Audioguide und bei den Führungen gut gesprochen. Auch Deutsch und Spanisch sind in den offiziellen Audioguides verfügbar. Lernen Sie 'double escalier' (Doppeltreppe) und 'salamandre' (Salamander, Symbol von François I.) für die Renaissance-Symbolik.",
+      "hu": "Chambord főleg kastélyturizmus, az angolt jól beszélik a pénztáraknál, az audiovezetőkben és a túravezetőknél. Németül és spanyolul is van audiovezető. Tanuld meg a 'double escalier' (kettős lépcső) és 'salamandre' (szalamandra, I. Ferenc szimbóluma) szavakat a reneszánsz szimbolikához.",
+      "ro": "Chambord este în principal turism de castel, engleza se vorbește bine la case, în audioghid și la tururile ghidate. Există audioghid și în germană și spaniolă. Învățați 'double escalier' (scara dublă) și 'salamandre' (salamandră, simbolul lui François I) pentru simbolismul renascentist.",
+      "en": "Chambord is essentially château tourism - English is well spoken at ticket desks, in audio guides and on guided tours. German and Spanish audio guides are also available. Learn 'double escalier' (double staircase) and 'salamandre' (the salamander emblem of François I)."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, blühende Wälder und weniger Touristen. Im Sommer (Juli-August) kann es voll werden, besonders in der Mittagshitze. Im Winter ist das Schloss geöffnet und mystisch in Nebel gehüllt, aber die Außenbereiche und Wälder bleiben eindrucksvoll.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, virágzó erdők, kevesebb turista. Nyáron (július-augusztus) zsúfolt lehet, főleg a déli órákban. Télen is nyitva a kastély, misztikus ködbe burkolózva, és a külső területek és erdők lenyűgözőek maradnak.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, păduri înflorite și mai puțini turiști. Vara (iulie-august) poate fi aglomerat, mai ales la prânz. Iarna castelul rămâne deschis, învăluit mistic în ceață, iar exteriorul și pădurile rămân impresionante.",
+      "en": "April-June and September-October are ideal: mild weather, blooming forests and fewer crowds. Summer (July-August) gets packed, especially midday. Winter sees the château still open and mysteriously cloaked in mist, with grounds and forests remaining stunning year-round."
+    },
+    "neighborhood_warnings": {
+      "de": "Chambord ist ein Schloss in einem Wildreservat, das Dorf selbst ist winzig und sicher. Im Sommer Parken nur auf den offiziellen Parkplätzen, sonst Abschleppgefahr. Im Wald Vorsicht vor Wildschweinen, besonders in der Dämmerung.",
+      "hu": "Chambord vadrezervátumban lévő kastély, a falu maga apró és biztonságos. Nyáron csak a hivatalos parkolókban parkolj, különben elviszik az autót. Az erdőben figyelj a vaddisznókra, főleg alkonyatkor.",
+      "ro": "Chambord este un castel într-o rezervație de vânătoare, satul în sine fiind mic și sigur. Vara, parcați doar în parcările oficiale, altfel riscați să fiți remorcați. În pădure, atenție la mistreți, mai ales la asfințit.",
+      "en": "Chambord is a château within a wildlife reserve - the village itself is tiny and safe. In summer park only in official lots or risk being towed. In the forest beware of wild boar, especially at dusk."
+    },
+    "parking_real_time": ""
   }
 }

@@ -1266,5 +1266,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.clermontauvergnetourisme.com/",
+    "events": "https://www.clermontauvergnetourisme.com/agenda/",
+    "city_card": "https://www.clermontauvergnetourisme.com/city-pass/",
+    "museum_tickets": "",
+    "transit_official": "https://www.t2c.fr/",
+    "language_tips": {
+      "de": "Clermont-Ferrand spricht zentralfranzoesisch mit leichtem auvergnischen Beiklang, klar und gut verstaendlich. Englisch in Hotels und Michelin-Welt-Museum verbreitet, in Auberges am Puy de Dome eher schwach. 'Bonjour' und Geduld helfen immer.",
+      "hu": "Clermont-Ferrand kozep-franciat beszel enyhe auvergne-i felhanggal, tiszta es jol ertheto. Szallodakban es a Michelin-világ múzeumban van angol, a Puy de Dome menti vendegloben kevesbe. A 'bonjour' es a turelem mindig segit.",
+      "ro": "Clermont-Ferrand vorbeste franceza centrala cu accent usor de Auvergne, clara si usor de inteles. Engleza merge la hoteluri si la muzeul Michelin, mai putin in auberge-urile de la poalele Puy de Dome. 'Bonjour' si rabdarea ajuta intotdeauna.",
+      "en": "Clermont-Ferrand speaks central French with a light Auvergne tone — clear and easy to follow. English works in hotels and the Michelin museum, less in mountain auberges around Puy de Dome. 'Bonjour' and patience always help."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal fuer Vulkanwanderungen (15-25 Grad), Juli-August perfekt fuer Puy-de-Dome. Winter kalt (0-6 Grad), oft Schnee auf Vulkanen, Skigebiete in der Naehe. Herbst im Oktober mit goldenen Buchenwaeldern besonders fotogen.",
+      "hu": "Majus-szeptember vulkani turakhoz (15-25 fok), julius-augusztus a Puy-de-Dome-ra tokeletes. Tel hideg (0-6 fok), gyakran ho a vulkanokon, kozeli sipalyak. Oktoberi osz aranysarga bukkerdokkel kulonosen fotogen.",
+      "ro": "Mai-septembrie sunt ideale pentru drumetii pe vulcani (15-25 grade), iulie-august perfecte pentru Puy-de-Dome. Iarna e rece (0-6 grade), adesea cu zapada pe vulcani, statiuni de ski apropiate. Octombrie cu paduri de fag aurii e foto-genic.",
+      "en": "May-September are ideal for volcano hikes (15-25°C), July-August perfect for Puy-de-Dome. Winter is cold (0-6°C), often with snow on the volcanoes and nearby ski resorts. October's golden beech forests are particularly photogenic."
+    },
+    "neighborhood_warnings": {
+      "de": "Croix-de-Neyrat und Saint-Jacques im Norden abends meiden. Innenstadt, Place de Jaude und Kathedral-Viertel sicher. Bahnhof tagsueber lebhaft, nachts ruhig.",
+      "hu": "Croix-de-Neyrat es Saint-Jacques eszakon este nem ajanlott. A belvaros, Place de Jaude es a katedralis-negyed biztonsagos. Az allomas nappal eleven, ejjel csendes.",
+      "ro": "Croix-de-Neyrat si Saint-Jacques, in nord, sunt de evitat seara. Centrul, Place de Jaude si cartierul catedralei sunt sigure. Gara e animata ziua, linistita noaptea.",
+      "en": "Avoid Croix-de-Neyrat and Saint-Jacques in the north after dark. The centre, Place de Jaude and cathedral district are safe. The station is busy by day, calm at night."
+    },
+    "parking_real_time": ""
   }
 }

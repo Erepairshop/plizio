@@ -964,5 +964,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.toulontourisme.com/",
+    "events": "https://www.toulontourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.reseaumistral.com/",
+    "language_tips": {
+      "de": "In Toulon hoert man Franzoesisch mit kraeftigem provenzalischen Akzent, etwas singend und mit gerolltem 'r'. Marine-Englisch ist im Hafen oft vorhanden, in Markthallen und Bistros weniger. 'Bonjour, ca va?' und 'merci, au revoir' reichen meist fuer einen freundlichen Empfang.",
+      "hu": "Toulonban a francia eros provanszi akcentussal szol, kicsit enekelve, perdult 'r'-rel. A kikotoben van marin-angol, a piaci csarnokban es bisztrokban kevesbe. A 'bonjour, ca va?' es a 'merci, au revoir' altalaban barati fogadtatast hoz.",
+      "ro": "La Toulon vei auzi franceza cu accent provensal puternic, putin cantata si cu 'r' uruit. In port engleza de marina merge, in piete si bistro-uri mai putin. 'Bonjour, ca va?' si 'merci, au revoir' iti aduc o primire calda.",
+      "en": "Toulon speaks French with a strong Provençal accent — singsong and with a rolled 'r'. Navy-English appears in the port area, less so in market halls and bistros. 'Bonjour, ca va?' and 'merci, au revoir' usually earn a warm reception."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: 22-28 Grad, das Mittelmeer noch badewarm und die Berge ueber dem Hafen wandertauglich. Juli-August sehr heiss (30-35 Grad) und voll, dafuer Marine-Schauspiele und Open-Air. Winter mild (10-14 Grad), Mistral-Wind kann bissig sein.",
+      "hu": "Majus, junius es szeptember a legjobb: 22-28 fok, a tenger meg furdesre alkalmas es a kikoto feletti hegyek tureszhetok. Julius-augusztus nagyon meleg (30-35 fok) es zsufolt, cserebe haditengereszeti latvanyossagok es szabadteri programok. Tel enyhe (10-14 fok), a Mistral-szel csipos lehet.",
+      "ro": "Mai, iunie si septembrie sunt ideale: 22-28 grade, marea inca buna de scaldat si muntii de deasupra portului perfecti pentru drumetii. Iulie-august sunt foarte calde (30-35 grade) si aglomerate, dar cu spectacole de marina si evenimente in aer liber. Iarna e blanda (10-14 grade), Mistralul poate fi taios.",
+      "en": "May, June and September are ideal: 22-28°C, the Med still swimmable and the hills above the harbour great for hiking. July-August get very hot (30-35°C) and busy, but bring navy displays and open-air events. Winter is mild (10-14°C) though the Mistral wind bites."
+    },
+    "neighborhood_warnings": {
+      "de": "Bahnhofsviertel und Pont du Las abends Vorsicht. La Beaucaire und Sainte-Musse nicht touristisch und unsicher. Altstadt rund um Cours Lafayette und Hafen-Promenade sicher und lebendig, Taschendiebe im Markt moeglich.",
+      "hu": "Az allomas kornyeke es Pont du Las este ovatossagot igenyel. La Beaucaire es Sainte-Musse nem turistabarat, nem biztonsagos. A Cours Lafayette koruli obvaros es a kikoto-promenad biztonsagos, a piacon zsebtolvajok elofordulnak.",
+      "ro": "Zona garii si Pont du Las necesita atentie seara. La Beaucaire si Sainte-Musse nu sunt turistice si nu sunt sigure. Centrul vechi din jurul Cours Lafayette si promenada portului sunt sigure, dar in piata pot aparea hoti de buzunare.",
+      "en": "Be cautious around the train station and Pont du Las after dark. La Beaucaire and Sainte-Musse are not tourist-friendly and feel unsafe. The old town around Cours Lafayette and the harbour promenade are lively and safe, though watch pockets at the market."
+    },
+    "parking_real_time": ""
   }
 }

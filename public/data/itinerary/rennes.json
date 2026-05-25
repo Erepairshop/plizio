@@ -1096,5 +1096,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
+    "tourism_office": "https://www.tourisme-rennes.com/en/",
+    "events": "https://www.tourisme-rennes.com/en/",
+    "city_card": "",
+    "museum_tickets": "https://mba.rennes.fr/",
+    "transit_official": "https://www.star.fr/",
+    "language_tips": {
+      "de": "Rennes ist Bretagne-Hauptstadt und Studentenstadt, Englisch klappt fast ueberall im Zentrum. Im Markt Marche des Lices (Samstag), in den alten Pubs der Rue Saint-Michel ('Rue de la Soif') und in Creperien gehoert ein 'bonjour' und 'merci' zum Stil.",
+      "hu": "Rennes Bretagne fovaros es egyetemi varos, az angol majdnem mindenhol megy a kozpontban. A Marche des Lices szombati piacon, a Rue Saint-Michel ('Rue de la Soif') regi kocsmaiban es creperie-kben a 'bonjour' es 'merci' alapveto.",
+      "ro": "Rennes e capitala Bretaniei si oras studentesc, engleza merge aproape peste tot in centru. La piata de sambata Marche des Lices, in pub-urile vechi din Rue Saint-Michel ('Rue de la Soif') si in creperii, 'bonjour' si 'merci' sunt standard.",
+      "en": "Rennes is the Breton capital and a student city; English works almost everywhere in the centre. At Saturday's Marche des Lices, in the old pubs on Rue Saint-Michel ('Rue de la Soif') and in creperies, 'bonjour' and 'merci' are the style."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist ideal: 16-23 Grad, lange Tage und Festivals (Tombees de la Nuit im Juli, Trans Musicales im Dezember). Marche des Lices an Samstagvormittagen ist Pflicht. Winter ist regnerisch und mild, Studentenleben aktiv.",
+      "hu": "Majus-szeptember a legjobb: 16-23 fok, hosszu napok, fesztivalok (Tombees de la Nuit juliusban, Trans Musicales decemberben). A Marche des Lices szombat reggeli piac kotelezo. Telen esos es enyhe, az egyetemi elet aktiv.",
+      "ro": "Mai-septembrie e ideal: 16-23 grade, zile lungi si festivaluri (Tombees de la Nuit in iulie, Trans Musicales in decembrie). Piata Marche des Lices sambata dimineata e obligatorie. Iarna e ploioasa si blanda, viata studenteasca activa.",
+      "en": "May to September is ideal: 16-23°C, long days and festivals (Tombees de la Nuit in July, Trans Musicales in December). Saturday morning Marche des Lices is a must. Winter is rainy and mild with active student life."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum, Vieux Rennes und Rue Saint-Michel sind sicher und lebhaft (sehr laut am Donnerstag-Studentenabend). Le Blosne und Maurepas (aussere Stadtteile) sind nicht touristisch. Bahnhof abends ok aber wachsam.",
+      "hu": "Kozpont, Vieux Rennes es Rue Saint-Michel biztonsagos es elven (csutortok esti egyetemi parti nagyon hangos). Le Blosne es Maurepas (kulso kerulet) nem turista terulet. Palyaudvar estere ok, de eberseg.",
+      "ro": "Centrul, Vieux Rennes si Rue Saint-Michel sunt sigure si vii (foarte galagioase joi seara studenteasca). Le Blosne si Maurepas (cartiere periferice) nu sunt zone turistice. Gara seara e ok, dar fii vigilent.",
+      "en": "Centre, Vieux Rennes and Rue Saint-Michel are safe and lively (very loud on Thursday student nights). Le Blosne and Maurepas (outer districts) aren't tourist areas. Station is fine at night with care."
+    },
+    "parking_real_time": ""
   }
 }

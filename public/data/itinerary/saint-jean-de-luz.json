@@ -1323,5 +1323,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.saint-jean-de-luz.com/",
+    "events": "https://www.saint-jean-de-luz.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.txiktxak.fr/",
+    "language_tips": {
+      "de": "Saint-Jean-de-Luz spricht baskisch gefaerbtes Franzoesisch, viele Geschaeftsschilder zweisprachig. Spanisch hilft sehr (Hendaye/San Sebastian nah). Englisch in Hotels und Fischerei-Restaurants ok. 'Kaixo' (Baskisch fuer 'Hallo') wird sehr geschaetzt.",
+      "hu": "Saint-Jean-de-Luz baszk szinezetu franciat beszel, sok uzletfelirat ketnyelvu. A spanyol nagyon segit (Hendaye/San Sebastian kozel). A szallodakban es halaszettermekben megy az angol. A 'kaixo' (baszk koszones) nagyon jol esik.",
+      "ro": "Saint-Jean-de-Luz vorbeste franceza cu accent basc, multe firme sunt bilingve. Spaniola ajuta mult (Hendaye/San Sebastian aproape). Engleza merge la hoteluri si in restaurantele de pescari. 'Kaixo' (salut basc) e foarte apreciat.",
+      "en": "Saint-Jean-de-Luz speaks Basque-tinted French, many shop signs are bilingual. Spanish helps a lot (Hendaye/San Sebastian are close). English works in hotels and fishing restaurants. 'Kaixo' (Basque hello) earns smiles."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (17-25 Grad), Toro de Fuego im August baskisches Fest, Fete du Thon (Thunfisch-Fest) Juli. Juli-August voll mit Familien-Touristen. Winter mild (8-13 Grad), kleine Stadt ruhig, Hafen-Spaziergaenge angenehm.",
+      "hu": "Majus-szeptember a legjobb (17-25 fok), augusztusban Toro de Fuego baszk unnep, juliusban tonhalfesztival. Julius-augusztus tele csaladi turistakkal. Tel enyhe (8-13 fok), kis varos csendes, kikoto-setak kellemesek.",
+      "ro": "Mai-septembrie sunt ideale (17-25 grade), Toro de Fuego in august e sarbatoare basca, festivalul tonului in iulie. Iulie-august sunt pline de turisti familiali. Iarna e blanda (8-13 grade), orasul mic e linistit, plimbarile prin port placute.",
+      "en": "May-September are ideal (17-25°C), Toro de Fuego Basque fete in August, Tuna Fete in July. July-August fill with family tourists. Winter is mild (8-13°C), small town quiet, harbour walks pleasant."
+    },
+    "neighborhood_warnings": {
+      "de": "Saint-Jean-de-Luz ist sehr sicher, kleines baskisches Seebad. Bahnhof tagsueber lebhaft, nachts ruhig. Wenig bekannte Problemviertel. Strand bei Sturm gefaehrlich, Achtung auf Wellen.",
+      "hu": "Saint-Jean-de-Luz nagyon biztonsagos, kis baszk tengerparti varos. Az allomas nappal eleven, ejjel csendes. Alig ismert problemas negyed. Vihar idejen veszelyes a strand, figyelj a hullamokra.",
+      "ro": "Saint-Jean-de-Luz e foarte sigur, mic oras basc de coasta. Gara e animata ziua, linistita noaptea. Aproape niciun cartier problematic. Plaja e periculoasa pe furtuna, atentie la valuri.",
+      "en": "Saint-Jean-de-Luz is very safe — small Basque seaside town. Station is busy by day, calm at night. Hardly any problem zones. Beach can be dangerous in storms — watch the waves."
+    },
+    "parking_real_time": ""
   }
 }

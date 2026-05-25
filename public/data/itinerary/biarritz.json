@@ -1003,5 +1003,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://tourisme.biarritz.fr/",
+    "events": "https://tourisme.biarritz.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.txiktxak.fr/",
+    "language_tips": {
+      "de": "Biarritz spricht baskisch-gefaerbtes Franzoesisch, mit etwas weicheren Konsonanten. Englisch in Surf-Schulen, Hotels und am Casino sehr verbreitet (internationale Surfer-Szene). Spanisch ebenfalls hilfreich. 'Bonjour' und 'kaixo' (Baskisch) werden geschaetzt.",
+      "hu": "Biarritz baszk szinezetu franciat beszel, kicsit lagyabb massalhangzokkal. A szorftaboroknal, szallodakban es a kaszinonal nagyon megy az angol (nemzetkozi szorfos kozeg). A spanyol is segit. 'Bonjour' es 'kaixo' (baszk) jol esik.",
+      "ro": "Biarritz vorbeste franceza cu accent basc, cu consoane putin mai blajine. Engleza e foarte raspandita la scolile de surf, hoteluri si la cazinou (scena internationala de surf). Spaniola ajuta. 'Bonjour' si 'kaixo' (basca) sunt apreciate.",
+      "en": "Biarritz speaks Basque-flavoured French with softer consonants. English is widely used in surf schools, hotels and at the casino (international surf crowd). Spanish helps too. 'Bonjour' and 'kaixo' (Basque) both earn smiles."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober sind ideal: 18-25 Grad, Wellen perfekt fuer Surfer, weniger Touristen. Juli-August warm (24-28 Grad) und voll, dafuer Festival Big Festival und Tourismus-Hochbetrieb. Winter mild (10-14 Grad), grosse Wellen fuer Profis, kleine Stadt entspannt.",
+      "hu": "Majus-junius es szeptember-oktober a legjobb: 18-25 fok, tokeletes hullamok szorfosoknak, kevesebb turista. Julius-augusztus meleg (24-28 fok) es zsufolt, cserebe Big Festival es csucs-turistaforgalom. Tel enyhe (10-14 fok), nagy hullamok profiknak, kis varos kellemes.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: 18-25 grade, valuri perfecte pentru surferi, mai putini turisti. Iulie-august sunt calde (24-28 grade) si aglomerate, dar cu Big Festival si turism la varf. Iarna e blanda (10-14 grade), valuri mari pentru profesionisti, oras mic relaxat.",
+      "en": "May-June and September-October are ideal: 18-25°C, waves perfect for surfers, fewer tourists. July-August are warm (24-28°C) and packed but bring Big Festival and peak season. Winter is mild (10-14°C), big waves for pros, the small town stays chilled."
+    },
+    "neighborhood_warnings": {
+      "de": "Biarritz ist sehr sicher, allgemein eine wohlhabende Kuestenstadt. An Stränden Wertsachen nicht unbeaufsichtigt lassen, besonders an Grande Plage in der Hauptsaison. Nachts in den Surf-Viertel etwas Vorsicht nach Strand-Partys.",
+      "hu": "Biarritz nagyon biztonsagos, modos partmenti varos. A strandokon ne hagyj ertekeket orizetlenul, kulonosen a Grande Plage-on csucsszezonban. Ejjel a szorfos negyedekben strandparti utan kis ovatossag.",
+      "ro": "Biarritz e foarte sigur, oras de coasta prosper. Nu lasa valori nesupravegheate pe plaja, mai ales la Grande Plage in plin sezon. Noaptea, in cartierele de surfer, putina atentie dupa petrecerile de pe plaja.",
+      "en": "Biarritz is very safe — a wealthy coastal town overall. Don't leave valuables unattended on the beaches, especially Grande Plage in peak season. At night the surf-bar quarters need light caution after beach parties."
+    },
+    "parking_real_time": ""
   }
 }

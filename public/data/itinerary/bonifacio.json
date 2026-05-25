@@ -936,5 +936,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.bonifacio.fr/",
+    "events": "https://www.bonifacio.fr/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Bonifacio ist Franzoesisch mit starkem korsischen Einschlag, viele Ortsnamen und Kirchen-Inschriften noch in Korsisch oder Italienisch (Sardinien ist nur 12 km entfernt). Englisch klappt in Hafenrestaurants und Hotels, aber 'bonjour' und Geduld gehoeren dazu.",
+      "hu": "Bonifacio francia eros korziakai jellegevel, sok helynev es templomi felirat korziakai vagy olasz (Szardinia 12 km). Az angol megy a kikotoi ettermekben, hotelekben, de a 'bonjour' es turelem fontos.",
+      "ro": "Bonifacio e francez cu puternic accent corsican, multe nume si inscriptii bisericesti inca in corsicana sau italiana (Sardinia e la 12 km). Engleza merge in restaurantele portului si hoteluri, dar 'bonjour' si rabdarea sunt necesare.",
+      "en": "Bonifacio is French with a strong Corsican flavour — many place names and church inscriptions are still in Corsican or Italian (Sardinia is just 12 km away). English works at harbour restaurants and hotels, but 'bonjour' and patience matter."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September-Oktober ideal: warm, das Meer schon 22 Grad, weniger Touristen als im Hochsommer. Juli-August Hochsaison mit Yachten aus Sardinien, Restaurants im Hafen ueberteuert. Im Winter sehr ruhig, viele Restaurants zu.",
+      "hu": "Majus-junius es szeptember-oktober ideal: meleg, tenger mar 22 fok, kevesebb turista, mint foszezonban. Julius-augusztus foszezon szardiniai jachtokkal, a kikotoi ettermek tularazva. Telen nagyon csendes, sok etterem zarva.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: cald, marea deja 22 grade, mai putini turisti decat in plina vara. Iulie-august sezon de varf cu iahturi din Sardinia, restaurantele din port supraevaluate. Iarna foarte linistita, multe restaurante inchise.",
+      "en": "May-June and September-October are ideal: warm, sea already at 22°C, fewer tourists than peak summer. July-August is high season with Sardinian yachts, harbour restaurants overpriced. Winter is very quiet with many restaurants shut."
+    },
+    "neighborhood_warnings": {
+      "de": "Die Klippentreppe (Escalier du Roi d'Aragon) ist steil und bei Naesse rutschig. Im Sommer Bootstouren zu den Hoehlen Stunden lang Schlange, frueh buchen. Wind kann im Hafen stark sein, vor Bootsausfluegen Wetter checken.",
+      "hu": "A sziklai lepcso (Escalier du Roi d'Aragon) meredek, neddvesen csuszos. Nyaron a barlangtuluronak orakon at all a sor, foglalj korai. A szel a kikotoben eros lehet, hajos kirandulas elott idojarast nezz.",
+      "ro": "Scarile de stanca (Escalier du Roi d'Aragon) sunt abrupte si alunecoase la umezeala. Vara, la turele cu barca spre pesteri sunt cozi de ore, rezerva devreme. Vantul in port poate fi puternic, verifica vremea inainte de excursii cu vaporasul.",
+      "en": "The cliff staircase (Escalier du Roi d'Aragon) is steep and slippery when wet. In summer the boat tours to the sea caves have hours-long queues, book early. Wind can be strong in the harbour, check the forecast before boat trips."
+    },
+    "parking_real_time": ""
   }
 }

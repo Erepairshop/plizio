@@ -862,5 +862,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/occitanie.html",
+    "tourism_office": "https://www.gavarnie.fr/",
+    "events": "https://www.gavarnie.fr/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Gavarnie ist ein winziges Bergdorf am UNESCO-Cirque, hier sprechen Bergfuehrer und Hotelpersonal Englisch, im Dorfcafe und Eselverleih lebt aber das alte gascognische Frankreich, ein 'bonjour' und Geduld sind viel wert.",
+      "hu": "Gavarnie egy aprocska hegyi falu az UNESCO Cirque-nel, a hegyivezetők es szallodaszemelyzet beszel angolul, de a falu kavezojaban es a szamarkolcsonzonel a regi gascognei Franciaorszag elt, egy 'bonjour' es turelm sokat er.",
+      "ro": "Gavarnie e un satuc montan langa Cirque-ul UNESCO; ghizii si personalul de hotel vorbesc engleza, dar la cafeneaua satului si la inchirierile de magari traieste Franta veche gasconă, un 'bonjour' si rabdarea conteaza enorm.",
+      "en": "Gavarnie is a tiny mountain village by the UNESCO Cirque; guides and hotel staff speak English, but at the village cafe and donkey-hire stand old Gascon France lives on — a 'bonjour' and patience go a long way."
+    },
+    "best_time_to_visit": {
+      "de": "Juni bis September ist die einzige sinnvolle Saison: Wanderwege offen, Wasserfall Grande Cascade in voller Pracht, 12-22 Grad im Dorf. Juli und August sind voll, kommen Sie frueh am Morgen ans Cirque. Im Winter ist fast alles geschlossen.",
+      "hu": "Junius-szeptember az egyetlen igazi szezon: turaut nyitva, a Grande Cascade vizeses teljes pompajaban, 12-22 fok a faluban. Julius-augusztusban zsufolt, erkezz korán reggel a Cirque-hez. Telen szinte minden zarva.",
+      "ro": "Iunie-septembrie e singurul sezon util: trasee deschise, cascada Grande Cascade in toata splendoarea, 12-22 grade in sat. Iulie-august sunt aglomerate, ajunge devreme la Cirque. Iarna aproape totul e inchis.",
+      "en": "June to September is the only proper season: trails open, Grande Cascade waterfall in full flow, 12-22°C in the village. July and August are busy — reach the Cirque early. In winter most things close."
+    },
+    "neighborhood_warnings": {
+      "de": "Extrem sicher, einzige Risiken sind Hoehenkrankheit auf Gipfeln, ploetzliche Bergewitter und Esel/Pferde-Verkehr auf dem Cirque-Weg. Im Winter ist die Strasse oft gesperrt.",
+      "hu": "Rendkivul biztonsagos, egyetlen veszely a magashegyi betegseg, hirtelen viharok es szamar/loforgalom a Cirque utvonalon. Telen az ut gyakran zarva.",
+      "ro": "Extrem de sigur, singurele riscuri fiind raul de altitudine pe varfuri, furtunile montane bruste si traficul de magari/cai pe traseul Cirque. Iarna drumul e adesea inchis.",
+      "en": "Extremely safe; the only risks are altitude on high peaks, sudden mountain storms, and donkey/horse traffic on the Cirque path. The road often closes in winter."
+    },
+    "parking_real_time": ""
   }
 }

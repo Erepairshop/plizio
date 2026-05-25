@@ -1001,5 +1001,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes.html",
+    "tourism_office": "https://en.lyon-france.com/",
+    "events": "https://en.lyon-france.com/",
+    "city_card": "https://www.lyoncitycard.com/en/",
+    "museum_tickets": "https://www.lyoncitycard.com/en/",
+    "transit_official": "https://www.tcl.fr/en",
+    "language_tips": {
+      "de": "Lyon ist Frankreichs Gastro-Hauptstadt, hier ist Englisch in Bouchon-Restaurants und Hotels selbstverstaendlich. Aber: ein 'bonjour' und 'merci' wirken Wunder, vor allem in den traditionellen Bouchons und auf dem Markt Quai Saint-Antoine. Lyonnais sind hoeflich-zurueckhaltend.",
+      "hu": "Lyon Franciaorszag gasztro-fovarosa, a bouchon-okban es szallodakban az angol termeszetes. De: egy 'bonjour' es 'merci' csodakat tesz, kulonosen a hagyomanyos bouchon-okban es a Quai Saint-Antoine piacon. A lyoni-ek udvarias-tartózkodóak.",
+      "ro": "Lyon e capitala gastronomica a Frantei; in bouchon-uri si hoteluri engleza e fireasca. Dar un 'bonjour' si 'merci' fac minuni, mai ales in bouchon-urile traditionale si la piata Quai Saint-Antoine. Lyonezii sunt politicos-rezervati.",
+      "en": "Lyon is France's gastro capital; English is taken for granted in bouchons and hotels. But 'bonjour' and 'merci' work wonders, especially in traditional bouchons and at the Quai Saint-Antoine market. Lyonnais are politely reserved."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: 18-25 Grad, perfekt fuer Spaziergaenge an Saone und Rhone. Dezember bringt die Fete des Lumieres (8. Dez., Buchung Pflicht). Juli und August sind warm, viele Lyonnais sind weg, Bouchons reduziert.",
+      "hu": "Majus-junius es szeptember-oktober a legjobb: 18-25 fok, tokeletes a Saone es Rhone partjan setalashoz. Decemberben a Fete des Lumieres (dec 8., kotelezo foglalas). Julius-augusztusban meleg, sok lyoni nyaral, kevesebb bouchon nyitva.",
+      "ro": "Mai-iunie si septembrie-octombrie sunt ideale: 18-25 grade, perfecte pentru plimbari pe Saone si Rhone. Decembrie aduce Fete des Lumieres (8 dec., rezervare obligatorie). Iulie-august sunt calde, multi lyonezi pleaca, bouchon-uri reduse.",
+      "en": "May-June and September-October are ideal: 18-25°C, perfect for walks along the Saone and Rhone. December brings Fete des Lumieres (8 Dec, booking essential). July and August are warm, many locals leave and bouchons close down."
+    },
+    "neighborhood_warnings": {
+      "de": "Generell sicher, Vorsicht in Part-Dieu Bahnhof abends, Guillotiere und Bezirk 8 noerdliche Zonen. Taschendiebe an Place Bellecour und Funiculaire zu Fourviere. La Croix-Rousse und Vieux-Lyon sind charmant und sicher.",
+      "hu": "Altalaban biztonsagos, ovatossag a Part-Dieu palyaudvar estere, Guillotiere es 8. kerulet eszaki resz. Zsebtolvajok a Place Bellecour-on es a Fourviere-be vivo funicularon. La Croix-Rousse es Vieux-Lyon varazsosak es biztonsagosak.",
+      "ro": "In general sigur, atentie seara la gara Part-Dieu, Guillotiere si zonele nordice ale arondismentului 8. Hoti de buzunar la Place Bellecour si funicularul spre Fourviere. La Croix-Rousse si Vieux-Lyon sunt fermecatoare si sigure.",
+      "en": "Generally safe; watch out at Part-Dieu station at night, around Guillotiere and the north of the 8th arrondissement. Pickpockets at Place Bellecour and the Fourviere funicular. La Croix-Rousse and Vieux-Lyon are charming and safe."
+    },
+    "parking_real_time": "https://www.lpa.fr/"
   }
 }

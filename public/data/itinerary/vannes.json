@@ -1024,5 +1024,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.golfedumorbihan.bzh/",
+    "events": "https://www.golfedumorbihan.bzh/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.kicebus.com/",
+    "language_tips": {
+      "de": "Vannes liegt am Golf von Morbihan ('Mor Bihan' = kleines Meer auf Bretonisch). Bretonisch weniger als in Finistère, aber zweisprachige Schilder. Englisch in Bootscharter-Büros gut. 'Kouign-amann' und 'far breton' beim Bäcker probieren.",
+      "hu": "Vannes a Morbihan-öbölnél fekszik ('Mor Bihan' = kis tenger bretonul). A breton kevesebb mint Finistère-ben, de kétnyelvű táblák. A hajóbérlés irodákban jó az angol. Próbáld a 'kouign-amann'-t és a 'far breton'-t pékségben.",
+      "ro": "Vannes este pe Golful Morbihan ('Mor Bihan' = mică mare în bretonă). Bretona mai puțină decât în Finistère, dar panouri bilingve. Engleza este bună la închirieri de bărci. La brutărie, încercați 'kouign-amann' și 'far breton'.",
+      "en": "Vannes sits on the Gulf of Morbihan ('Mor Bihan' = little sea in Breton). Less Breton than Finistère, but bilingual signs. English works at boat charter offices. Try 'kouign-amann' and 'far breton' at bakeries."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September: angenehmes Wetter, Bootsausflüge zu Inseln (Île aux Moines, Île d'Arz). Juli-August: warm, voll, hohe Bootspreise. Anfang August: 'Fêtes Historiques' Mittelalterfest. Winter: ruhig, viele Restaurants geschlossen.",
+      "hu": "Május-június és szeptember: kellemes idő, hajós kirándulások szigetekre (Île aux Moines, Île d'Arz). Július-augusztus: meleg, zsúfolt, magas hajóárak. Augusztus eleje: 'Fêtes Historiques' középkori fesztivál. Tél: csendes, sok bezárás.",
+      "ro": "Mai-iunie și septembrie: vreme plăcută, excursii cu barca spre insule (Île aux Moines, Île d'Arz). Iulie-august: cald, aglomerat, prețuri mari. Început august: 'Fêtes Historiques' medieval. Iarna: liniștită, multe închideri.",
+      "en": "May-June and September: pleasant weather, boat trips to islands (Île aux Moines, Île d'Arz). July-August: warm, busy, high boat prices. Early August: 'Fêtes Historiques' medieval festival. Winter is quiet with many closures."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Achten Sie auf Gezeiten beim Spaziergang am Golf, einige Wege werden überflutet. Im Sommer Sonnenbrand am Wasser. Beim Bootsausflug Schwimmweste anlegen. Auf den Stadtmauern Vorsicht mit Kindern.",
+      "hu": "Nagyon biztonságos. Az öbölnél figyelj az árapályra, néhány útvonalat elönt a víz. Nyáron a vízen erős a leégés. Hajós kirándulásnál vegyél fel mentőmellényt. A városfalon gyerekkel óvatosan.",
+      "ro": "Foarte sigur. Atenție la maree pe malul golfului, unele alei se inundă. Vara, arsuri solare pe apă. La excursii cu barca, vestă de salvare. Pe ziduri, atenție cu copiii.",
+      "en": "Very safe. Watch tides along the gulf, some paths flood. Strong summer sunburn on the water. Wear a life jacket on boat trips. Mind kids on the ramparts."
+    },
+    "parking_real_time": ""
   }
 }

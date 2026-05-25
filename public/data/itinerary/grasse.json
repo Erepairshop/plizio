@@ -1097,5 +1097,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.paysdegrasse-tourisme.com/",
+    "events": "https://www.paysdegrasse-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.sillages.eu/",
+    "language_tips": {
+      "de": "Grasse ist die Welthauptstadt des Parfums, Englisch wird in den Parfümerien (Fragonard, Galimard, Molinard) flüssig gesprochen. Lernen Sie Begriffe wie 'fleur de jasmin' und 'tubéreuse' - sie machen Eindruck bei den Parfümeuren. Im Stadtzentrum sprechen ältere Bewohner oft nur Französisch mit provenzalischem Akzent.",
+      "hu": "Grasse a parfümök világfővárosa, a parfümériákban (Fragonard, Galimard, Molinard) folyékonyan beszélnek angolul. Tanulj meg szakkifejezéseket, mint 'fleur de jasmin' és 'tubéreuse' - ezzel imponálsz a parfümőröknek. A városközpontban az idősebbek gyakran csak franciául beszélnek, provence-i akcentussal.",
+      "ro": "Grasse este capitala mondială a parfumului, engleza se vorbește fluent în parfumerii (Fragonard, Galimard, Molinard). Învățați termeni precum 'fleur de jasmin' și 'tubéreuse' - impresionează parfumerii. În centrul orașului, locuitorii mai în vârstă vorbesc adesea doar franceză cu accent provensal.",
+      "en": "Grasse is the world capital of perfume - English flows freely in the perfumeries (Fragonard, Galimard, Molinard). Learn terms like 'fleur de jasmin' and 'tubéreuse' to impress the perfumers. In the old town, older residents may speak only French with a Provençal accent."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni ist die magische Zeit der Rosenernte und im Juli-August die Jasminernte. Das Rosenfest im Mai und das Jasminfest im August sind kulturelle Höhepunkte. September und Oktober bringen mildes Wetter ohne Touristen. Vermeiden Sie den Hochsommer wegen der Hitze, vor allem in den engen Altstadtgassen.",
+      "hu": "Május és június a rózsabetakarítás varázslatos időszaka, július-augusztusban van a jázminbetakarítás. A májusi rózsaünnep és az augusztusi jázminünnep kulturális csúcspontok. Szeptember és október enyhe időt hoz turisták nélkül. A nyár derekát kerüld a hőség miatt, főleg az óváros szűk utcáiban.",
+      "ro": "Mai-iunie este perioada magică a recoltei de trandafiri, iar iulie-august a iasomiei. Festivalul Trandafirilor în mai și Festivalul Iasomiei în august sunt momente culturale de vârf. Septembrie și octombrie aduc vreme blândă fără turiști. Evitați miezul verii din cauza căldurii.",
+      "en": "May-June is the magical rose harvest season, July-August the jasmine harvest. The May Rose Festival and August Jasmine Festival are cultural highlights. September-October bring mild weather without tourists. Avoid peak summer due to heat, especially in the narrow old town lanes."
+    },
+    "neighborhood_warnings": {
+      "de": "Grasse ist meist sicher, doch die Altstadt (Vieille Ville) hat einige verlassen wirkende Gassen, die abends gemieden werden sollten. Beim Parken auf öffentliche Parkplätze setzen, Diebstähle aus Autos kommen vor.",
+      "hu": "Grasse többnyire biztonságos, de az óváros néhány elhagyatottnak tűnő sikátorát este érdemes kerülni. Parkoláshoz használj nyilvános parkolót, mert autókból ellopott értékek előfordulnak.",
+      "ro": "Grasse este în general sigur, dar centrul vechi are unele alei părăsite ce trebuie evitate seara. La parcare, folosiți parcările publice, furturile din mașini se întâmplă.",
+      "en": "Grasse is mostly safe, but the old town has some deserted lanes best avoided at night. Use public car parks - thefts from vehicles occur, especially near tourist sites."
+    },
+    "parking_real_time": ""
   }
 }

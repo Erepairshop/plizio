@@ -1023,5 +1023,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.destinationgrandvezelay.com/",
+    "events": "https://www.destinationgrandvezelay.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://mobigo.bourgognefranchecomte.fr/",
+    "language_tips": {
+      "de": "Vézelay ist ein UNESCO-Pilgerort mit der Basilika Sainte-Madeleine, Englisch wird in der Basilika und den Pilger-Herbergen gesprochen. Lernen Sie 'Basilique Sainte-Madeleine' und 'Chemin de Compostelle' für den Jakobsweg, der hier seinen wichtigsten französischen Ausgangspunkt hat. Pilger werden mit 'Buen Camino' begrüßt.",
+      "hu": "Vézelay UNESCO zarándokhely a Sainte-Madeleine bazilikával, a bazilikában és a zarándokszállókban beszélnek angolul. Tanuld meg a 'Basilique Sainte-Madeleine' és 'Chemin de Compostelle' nevét a Szent Jakab-úthoz, amely itt indul Franciaország legfontosabb pontjáról. A zarándokokat 'Buen Camino' köszönti.",
+      "ro": "Vézelay este un loc de pelerinaj UNESCO cu Bazilica Sainte-Madeleine, engleza se vorbește în bazilică și hanurile pelerinilor. Învățați 'Basilique Sainte-Madeleine' și 'Chemin de Compostelle' pentru drumul Sf. Iacob, care își are aici cel mai important punct de plecare francez. Pelerinii se salută cu 'Buen Camino'.",
+      "en": "Vézelay is a UNESCO pilgrimage site with the Sainte-Madeleine basilica - English is spoken at the basilica and pilgrim hostels. Learn 'Basilique Sainte-Madeleine' and 'Chemin de Compostelle' for the Way of St James, which has its main French starting point here. Pilgrims greet with 'Buen Camino'."
+    },
+    "best_time_to_visit": {
+      "de": "April bis Juni und September bis Oktober sind ideal: mildes Wetter, weniger Touristen und perfekte Bedingungen für Wanderungen im Morvan. Im Sommer kommen viele Tagesausflügler, abends ist es aber ruhig. Im Winter ist Vézelay mystisch und ruhig, die Basilika bleibt geöffnet aber das Dorf wirkt verlassen.",
+      "hu": "Április és június, valamint szeptember és október ideális: enyhe idő, kevesebb turista, tökéletes feltételek a morvani túrákhoz. Nyáron sok napi kiránduló jön, de este csendes. Télen Vézelay misztikus és csendes, a bazilika nyitva tart, de a falu kihaltnak tűnik.",
+      "ro": "Aprilie-iunie și septembrie-octombrie sunt ideale: vreme blândă, mai puțini turiști și condiții perfecte pentru drumeții în Morvan. Vara vin mulți excursioniști, dar seara este liniște. Iarna, Vézelay este mistic și liniștit, bazilica rămâne deschisă, dar satul pare pustiu.",
+      "en": "April-June and September-October are ideal: mild weather, fewer tourists and perfect conditions for hiking in the Morvan. Summer brings many day-trippers but evenings stay quiet. Winter Vézelay is mystical and silent - the basilica remains open while the village feels deserted."
+    },
+    "neighborhood_warnings": {
+      "de": "Vézelay ist sehr sicher, ein winziges Bergdorf mit nur einer Straße. Im Sommer wird Parken am Fuß des Hügels erzwungen, dann zu Fuß hinauf. Bei Pilgerfesten kann es voll werden, sonst herrscht meditative Stille.",
+      "hu": "Vézelay nagyon biztonságos, apró hegyi falu egyetlen utcával. Nyáron a domb tövébe kényszerítenek a parkolásnál, onnan gyalog kell felmenni. Zarándok ünnepeken zsúfolt lehet, máskor meditatív csend honol.",
+      "ro": "Vézelay este foarte sigur, un sat de munte mic cu o singură stradă. Vara, parcarea este obligatorie la poalele dealului, apoi pe jos sus. La sărbătorile pelerinilor poate fi aglomerat, altfel domnește o liniște meditativă.",
+      "en": "Vézelay is very safe, a tiny hilltop village with one main street. Summer forces parking at the foot of the hill, then walking up. Pilgrim festivals can crowd it, but otherwise meditative silence prevails."
+    },
+    "parking_real_time": ""
   }
 }

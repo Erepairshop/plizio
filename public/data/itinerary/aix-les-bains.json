@@ -1,0 +1,1037 @@
+{
+  "city_id": "aix-les-bains",
+  "anchor": {
+    "name": "Casino Grand Cercle",
+    "coords": [
+      5.9152,
+      45.6886
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Casino Grand Cercle",
+          "coords": [
+            5.9155,
+            45.6888
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mosaikdecken im Inneren.",
+            "hu": "Csodáld meg a belső mozaikmennyezetet.",
+            "ro": "Admirați tavanele cu mozaic din interior.",
+            "en": "Admire the mosaic ceilings inside."
+          }
+        },
+        {
+          "name": "Thermes Nationaux",
+          "coords": [
+            5.9185,
+            45.6905
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Geschichte der römischen Bäder.",
+            "hu": "Fedezd fel a római fürdők történetét.",
+            "ro": "Explorați istoria băilor romane.",
+            "en": "Explore the history of the Roman baths."
+          }
+        },
+        {
+          "name": "Musée Faure",
+          "coords": [
+            5.9125,
+            45.6922
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zweitgrößte Rodin-Sammlung Frankreichs.",
+            "hu": "Franciaország második legnagyobb Rodin-gyűjteménye.",
+            "ro": "A doua cea mai mare colecție Rodin din Franța.",
+            "en": "France's second-largest Rodin collection."
+          }
+        },
+        {
+          "name": "Parc de Verdure",
+          "coords": [
+            5.9135,
+            45.6875
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein schattiger Ort für eine Pause am Nachmittag.",
+            "hu": "Árnyas hely egy délutáni pihenőhöz.",
+            "ro": "Un loc umbrit pentru o pauză de după-amiază.",
+            "en": "A shady spot for an afternoon break."
+          }
+        },
+        {
+          "name": "Esplanade du Lac",
+          "coords": [
+            5.8955,
+            45.6855
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spaziergang mit Blick auf den Lac du Bourget.",
+            "hu": "Séta kilátással a Lac du Bourget-ra.",
+            "ro": "Plimbare cu vedere la Lac du Bourget.",
+            "en": "Stroll with views of Lac du Bourget."
+          }
+        },
+        {
+          "name": "Petit Port",
+          "coords": [
+            5.8925,
+            45.6835
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Hafen.",
+            "hu": "Élvezd a naplementét a kikötőben.",
+            "ro": "Bucurați-vă de apusul de soare în port.",
+            "en": "Enjoy the sunset at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Aix-les-Bains zu Fuß ist eine Reise zwischen Belle Époque und Alpenpanorama. Beginnen Sie im prächtigen Casino, entdecken Sie die antiken Thermen und bewundern Sie Rodins Skulpturen im Musée Faure. Nach einem entspannten Spaziergang durch den Parc de Verdure führt der Weg zum Ufer des Lac du Bourget, wo Sie den Tag bei einer Brise am See ausklingen lassen.",
+        "hu": "Aix-les-Bains gyalogosan egy utazás a Belle Époque és az alpesi panoráma között. Kezdj a pompás Casinóban, fedezd fel az antik termálfürdőket, és csodáld meg Rodin szobrait a Musée Faure-ban. Egy pihentető parki séta után az út a Lac du Bourget partjára vezet, ahol a tóparti szellő mellett zárhatod a napot.",
+        "ro": "Aix-les-Bains la pas este o călătorie între Belle Époque și panorama alpină. Începe la somptuosul Casino, descoperă termele antice și admiră sculpturile lui Rodin la Musée Faure. După o plimbare relaxantă prin Parc de Verdure, drumul te duce la malul Lacului Bourget, unde poți încheia ziua cu briza lacului.",
+        "en": "Aix-les-Bains on foot is a journey between Belle Époque and Alpine panoramas. Start at the grand Casino, discover the ancient thermal baths, and admire Rodin's sculptures at the Musée Faure. After a relaxing walk through the Parc de Verdure, the path leads to the shores of Lac du Bourget, where you can end the day with the lake breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Rotonde",
+            "tip": "Elegantes Abendessen in historischem Ambiente."
+          },
+          {
+            "name": "Lavaret-Fisch",
+            "tip": "Frischer Fisch direkt aus dem See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Rotonde",
+            "tip": "Elegáns vacsora történelmi környezetben."
+          },
+          {
+            "name": "Lavaret hal",
+            "tip": "Friss hal közvetlenül a tóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Rotonde",
+            "tip": "Cină elegantă într-un cadru istoric."
+          },
+          {
+            "name": "Pește Lavaret",
+            "tip": "Pește proaspăt direct din lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Rotonde",
+            "tip": "Elegant dinner in a historic setting."
+          },
+          {
+            "name": "Lavaret Fish",
+            "tip": "Fresh fish directly from the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Esplanade du Lac",
+            "tip": "Panoramablick auf die Berge.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Musée Faure Garten",
+            "tip": "Ein verstecktes Juwel voll Ruhe.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Esplanade du Lac",
+            "tip": "Panorámás kilátás a hegyekre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Musée Faure kertje",
+            "tip": "Egy rejtett, csendes ékszerdoboz.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esplanade du Lac",
+            "tip": "Vedere panoramică spre munți.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Musée Faure",
+            "tip": "O bijuterie ascunsă și liniștită.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Esplanade du Lac",
+            "tip": "Panoramic views of the mountains.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Musée Faure Garden",
+            "tip": "A hidden gem of quietness.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de Genève",
+            "tip": "Boutiquen und lokale Delikatessen."
+          },
+          {
+            "name": "Savoyer Weine",
+            "tip": "Kaufen Sie einen lokalen Weißwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de Genève",
+            "tip": "Butikok és helyi finomságok."
+          },
+          {
+            "name": "Savoyai borok",
+            "tip": "Vegyél egy helyi fehérbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de Genève",
+            "tip": "Buticuri și delicatese locale."
+          },
+          {
+            "name": "Vinuri de Savoia",
+            "tip": "Cumpărați un vin alb local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de Genève",
+            "tip": "Boutiques and local delicacies."
+          },
+          {
+            "name": "Savoie Wines",
+            "tip": "Buy a local white wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zum See.",
+          "Das Casino verlangt angemessene Kleidung für Besichtigungen.",
+          "Nutzen Sie die Trinkbrunnen in der Stadt.",
+          "Buchen Sie das Museumsticket im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a tóhoz vezető úton.",
+          "A Casinóban elvárt az ápolt megjelenés.",
+          "Használd a városi ivókutakat.",
+          "Foglald le előre a múzeumi jegyet."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumul spre lac.",
+          "Cazinoul necesită o ținută decentă pentru vizitare.",
+          "Folosiți fântânile cu apă potabilă din oraș.",
+          "Rezervați biletul la muzeu în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to the lake.",
+          "The Casino requires smart-casual dress for tours.",
+          "Use the drinking fountains around the city.",
+          "Book your museum ticket in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Grand Port",
+          "coords": [
+            5.8895,
+            45.6965
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hafenatmosphäre pur am Morgen.",
+            "hu": "Tiszta kikötői hangulat reggel.",
+            "ro": "Atmosferă de port dimineața.",
+            "en": "Pure harbor atmosphere in the morning."
+          }
+        },
+        {
+          "name": "Plage du Rowing",
+          "coords": [
+            5.8922,
+            45.6825
+          ],
+          "category": "beach",
+          "arrive_at": "10:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine längere Badepause.",
+            "hu": "Tökéletes hely egy hosszabb strandoláshoz.",
+            "ro": "Locul perfect pentru o pauză lungă de baie.",
+            "en": "Perfect spot for a longer swimming break."
+          }
+        },
+        {
+          "name": "Esplanade du Lac",
+          "coords": [
+            5.8955,
+            45.6855
+          ],
+          "category": "park",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Picknick mit Bergblick auf den Dent du Chat.",
+            "hu": "Piknik a Dent du Chat hegyre nyíló kilátással.",
+            "ro": "Picnic cu vedere spre muntele Dent du Chat.",
+            "en": "Picnic with views of the Dent du Chat mountain."
+          }
+        },
+        {
+          "name": "Le Pêcheur de Lune",
+          "coords": [
+            5.8855,
+            45.7125
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee direkt am Wasser.",
+            "hu": "Élvezz egy kávét közvetlenül a víznél.",
+            "ro": "Bucurați-vă de o cafea chiar pe malul apei.",
+            "en": "Enjoy a coffee right by the water."
+          }
+        },
+        {
+          "name": "Petit Port",
+          "coords": [
+            5.8925,
+            45.6835
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss der Radtour.",
+            "hu": "A kerékpártúra szép lezárása.",
+            "ro": "Un final frumos al turului cu bicicleta.",
+            "en": "A beautiful end to the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den größten natürlichen See Frankreichs mit dem Rad. Entlang des Ufers radeln Sie vom Grand Port zur Plage du Rowing, wo eine erfrischende Badepause wartet. Der Nachmittag führt Sie über die weite Esplanade zu gemütlichen Cafés am Nordufer. Die flache Strecke am See ist ideal für Genießer und bietet ständige Ausblicke auf die Savoyer Alpen.",
+        "hu": "Fedezd fel Franciaország legnagyobb természetes tavát kerékpárral. A part mentén tekerve a Grand Porttól a Plage du Rowingig jutsz, ahol frissítő strandolás vár. A délután a tágas Esplanade-on át vezet az északi part hangulatos kávézóihoz. A sík tóparti szakasz ideális a kikapcsolódáshoz, folyamatos kilátással a Savoyai-Alpokra.",
+        "ro": "Descoperă cel mai mare lac natural din Franța cu bicicleta. Pedalând de-a lungul malului de la Grand Port la Plage du Rowing, te așteaptă o baie revigorantă. După-amiaza te poartă prin Esplanadă spre cafenelele cochete de pe malul nordic. Traseul plat de lângă lac este ideal pentru relaxare și oferă vederi constante spre Alpii de Savoia.",
+        "en": "Discover France's largest natural lake by bike. Cycling along the shore from Grand Port to Plage du Rowing, a refreshing swimming break awaits. The afternoon leads you via the wide Esplanade to cozy cafes on the northern shore. The flat lakeside path is ideal for leisure and offers constant views of the Savoie Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Aquarium",
+            "tip": "Panoramablick und lokale Küche."
+          },
+          {
+            "name": "Savoyer Käseplatte",
+            "tip": "Tomme de Savoie und Reblochon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Aquarium",
+            "tip": "Panorámás kilátás és helyi konyha."
+          },
+          {
+            "name": "Savoyai sajttál",
+            "tip": "Tomme de Savoie és Reblochon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Aquarium",
+            "tip": "Vedere panoramică și bucătărie locală."
+          },
+          {
+            "name": "Platou cu brânzeturi de Savoia",
+            "tip": "Tomme de Savoie și Reblochon."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Aquarium",
+            "tip": "Panoramic views and local cuisine."
+          },
+          {
+            "name": "Savoie Cheese Plate",
+            "tip": "Tomme de Savoie and Reblochon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage du Rowing",
+            "tip": "Ruhiges Wasser am frühen Vormittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg nach Norden",
+            "tip": "Weniger Trubel als im Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage du Rowing",
+            "tip": "Csendes víz kora délelőtt.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Északi part menti út",
+            "tip": "Kevesebb nyüzsgés, mint a központban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage du Rowing",
+            "tip": "Apă liniștită dimineața devreme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Traseul spre nord",
+            "tip": "Mai puțină agitație decât în centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage du Rowing",
+            "tip": "Calm water early in the morning.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "North Lakeside Path",
+            "tip": "Less hustle than in the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt (Mi/Sa)",
+            "tip": "Frisches Obst aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac (Sze/Szo)",
+            "tip": "Friss gyümölcsök a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală (Mie/Sâm)",
+            "tip": "Fructe proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market (Wed/Sat)",
+            "tip": "Fresh regional fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Ihr Rad am 'Vélostation' beim Bahnhof.",
+          "Die Uferpromenade ist am Wochenende belebt, fahren Sie vorsichtig.",
+          "Ein Vorhängeschloss ist für die Badepause unerlässlich.",
+          "Die Strecke ist komplett flach."
+        ],
+        "hu": [
+          "Bérelj bringát a vasútállomás melletti 'Vélostation'-nál.",
+          "A tóparti sétány hétvégén zsúfolt, tekerj óvatosan.",
+          "A strandoláshoz elengedhetetlen egy jó lakat.",
+          "Az útvonal teljesen sík."
+        ],
+        "ro": [
+          "Închiriați bicicleta de la 'Vélostation' de lângă gară.",
+          "Promenada este aglomerată în weekend, pedalați cu atenție.",
+          "Un lacăt este esențial pentru pauza de plajă.",
+          "Traseul este complet plat."
+        ],
+        "en": [
+          "Rent your bike at 'Vélostation' near the station.",
+          "The lakeside promenade is busy on weekends, ride carefully.",
+          "A padlock is essential for the swimming break.",
+          "The route is completely flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Mont Revard",
+          "coords": [
+            5.9855,
+            45.6825
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick über den See vom Skywalk.",
+            "hu": "Látványos kilátás a tóra a Skywalkról.",
+            "ro": "Vedere spectaculoasă asupra lacului de pe Skywalk.",
+            "en": "Spectacular view over the lake from the Skywalk."
+          }
+        },
+        {
+          "name": "Abbaye d'Hautecombe",
+          "coords": [
+            5.8385,
+            45.8325
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 16.5,
+          "tip_5lang": {
+            "de": "Grabstätte der Fürsten von Savoyen am Seeufer.",
+            "hu": "A Savoyai-ház hercegeinek sírhelye a tóparton.",
+            "ro": "Locul de mormânt al prinților de Savoia pe malul lacului.",
+            "en": "Burial place of the Princes of Savoy on the lakeshore."
+          }
+        },
+        {
+          "name": "Chanaz - Village",
+          "coords": [
+            5.7885,
+            45.8125
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das 'Venedig von Savoyen' am Kanal.",
+            "hu": "Savoyai Velencéje a csatorna partján.",
+            "ro": "Veneția de Savoia de pe malul canalului.",
+            "en": "The 'Venice of Savoie' along the canal."
+          }
+        },
+        {
+          "name": "Belvédère de Grumeau",
+          "coords": [
+            5.8055,
+            45.8285
+          ],
+          "category": "park",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blick auf die Rhône-Schleife und den See.",
+            "hu": "Kilátás a Rhône kanyarulatára és a tóra.",
+            "ro": "Vedere spre cotul Ronului și spre lac.",
+            "en": "View of the Rhône loop and the lake."
+          }
+        },
+        {
+          "name": "Aix Centre",
+          "coords": [
+            5.9152,
+            45.6886
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Zentrale Parkhäuser sind gut ausgeschildert.",
+            "hu": "A központi parkolóházak jól ki vannak táblázva.",
+            "ro": "Parcările centrale sunt bine semnalizate.",
+            "en": "Central parking garages are well signposted."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie die Höhen und versteckten Winkel Savoyens. Beginnen Sie mit dem atemberaubenden Panorama vom Mont Revard. Danach umrunden Sie den See bis zur mystischen Abbaye d'Hautecombe. Der Besuch des malerischen Kanaldorfs Chanaz ist ein Muss, bevor Sie über Aussichtspunkte zurückkehren und den Abend kulinarisch im Zentrum von Aix-les-Bains ausklingen lassen.",
+        "hu": "Autóval Savoyai magasságaiba és rejtett zugaiba juthatsz el. Kezdj a Mont Revard lélegzetelállító panorámájával. Ezután kerüld meg a tavat a misztikus Hautecombe-apátságig. A festői Chanaz falucska meglátogatása kötelező program, mielőtt kilátópontokon keresztül térnél vissza, hogy a napot egy finom vacsorával zárd Aix-les-Bains-ben.",
+        "ro": "Cu mașina vei descoperi înălțimile și locurile ascunse din Savoia. Începe cu panorama spectaculoasă de pe Mont Revard. Apoi înconjoară lacul până la mistica Abație Hautecombe. Vizitarea satului pitoresc Chanaz este obligatorie, înainte de a reveni prin puncte de belvedere pentru a încheia ziua culinar în centrul orașului Aix-les-Bains.",
+        "en": "By car, you will explore the heights and hidden corners of Savoie. Start with the breathtaking panorama from Mont Revard. Then circle the lake to the mystical Hautecombe Abbey. A visit to the picturesque canal village of Chanaz is a must, before returning via scenic viewpoints to end the evening with a dinner in the center of Aix-les-Bains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Moulin de Chanaz",
+            "tip": "Probieren Sie das frische Nussöl."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Der Klassiker der Alpenküche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Moulin de Chanaz",
+            "tip": "Kóstold meg a friss dióolajat."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Az alpesi konyha klasszikusa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Moulin de Chanaz",
+            "tip": "Încercați uleiul de nuci proaspăt."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Clasicul bucătăriei alpine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Moulin de Chanaz",
+            "tip": "Try the fresh walnut oil."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "The classic of Alpine cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mont Revard Gipfel",
+            "tip": "Stille über den Wolken.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Hautecombe Kapelle",
+            "tip": "Ein Ort tiefer Besinnung.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mont Revard csúcs",
+            "tip": "Csend a felhők felett.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Hautecombe kápolna",
+            "tip": "A mély elmélkedés helye.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Mont Revard",
+            "tip": "Liniște deasupra norilor.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Capela Hautecombe",
+            "tip": "Un loc de meditație profundă.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mont Revard Summit",
+            "tip": "Silence above the clouds.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Hautecombe Chapel",
+            "tip": "A place of deep reflection.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chanaz Handwerksläden",
+            "tip": "Handgemachte Seifen und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chanaz kézműves boltjai",
+            "tip": "Kézzel készített szappanok és kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele de artizanat din Chanaz",
+            "tip": "Săpunuri și ceramică artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chanaz Craft Shops",
+            "tip": "Handmade soaps and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Mont Revard ist kurvenreich.",
+          "Parken bei der Abbaye ist begrenzt, kommen Sie früh.",
+          "In Chanaz gibt es kostenlose Parkplätze am Ortseingang.",
+          "Achten Sie auf Motorradfahrer auf den Passstraßen."
+        ],
+        "hu": [
+          "A Mont Revard-hoz vezető út kanyargós.",
+          "Az apátságnál korlátozott a parkolás, érkezz korán.",
+          "Chanaz bejáratánál ingyenes parkolóhelyek vannak.",
+          "Figyelj a motorosokra a hágóutakon."
+        ],
+        "ro": [
+          "Drumul spre Mont Revard este sinuos.",
+          "Parcarea la Abație este limitată, veniți devreme.",
+          "În Chanaz sunt locuri de parcare gratuite la intrare.",
+          "Atenție la motocicliști pe drumurile de munte."
+        ],
+        "en": [
+          "The road to Mont Revard is winding.",
+          "Parking at the Abbey is limited, arrive early.",
+          "Free parking is available at the entrance to Chanaz.",
+          "Watch out for motorcyclists on the mountain roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare d'Aix-les-Bains",
+          "coords": [
+            5.9095,
+            45.6885
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Züge und Busse.",
+            "hu": "A vonatok és buszok központi érkezési pontja.",
+            "ro": "Punct central de sosire pentru trenuri și autobuze.",
+            "en": "Central arrival point for trains and buses."
+          }
+        },
+        {
+          "name": "Thermes Chevalley",
+          "coords": [
+            5.9225,
+            45.6925
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Moderne Thermen mit tollem Bergblick.",
+            "hu": "Modern termálfürdő remek hegyi kilátással.",
+            "ro": "Terme moderne cu vedere minunată la munte.",
+            "en": "Modern thermal baths with great mountain views."
+          }
+        },
+        {
+          "name": "Casino / Centre",
+          "coords": [
+            5.9155,
+            45.6888
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Buslinie 1 verbindet Zentrum und See.",
+            "hu": "Az 1-es busz köti össze a központot a tóval.",
+            "ro": "Linia 1 de autobuz face legătura între centru și lac.",
+            "en": "Bus line 1 connects the center and the lake."
+          }
+        },
+        {
+          "name": "Grand Port",
+          "coords": [
+            5.8895,
+            45.6965
+          ],
+          "category": "park",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Startpunkt für Schiffsrundfahrten auf dem See.",
+            "hu": "Hajókirándulások indulópontja a tavon.",
+            "ro": "Punct de pornire pentru croaziere pe lac.",
+            "en": "Starting point for boat cruises on the lake."
+          }
+        },
+        {
+          "name": "Rue de Genève",
+          "coords": [
+            5.9135,
+            45.6895
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein spätes Souvenir-Shopping.",
+            "hu": "Tökéletes egy késői szuvenírvásárláshoz.",
+            "ro": "Perfect pentru cumpărături de suveniruri pe seară.",
+            "en": "Perfect for late souvenir shopping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des Ondéa-Busnetzes lässt sich Aix-les-Bains stressfrei erkunden. Vom Bahnhof geht es direkt zu den Thermen Chevalley für totale Entspannung. Danach kehren Sie ins Zentrum zum historischen Casino zurück, bevor der Bus Sie zum Grand Port bringt. Genießen Sie die Seebrise und kehren Sie für den Abend in die belebten Einkaufsstraßen zurück. Komfortabel und effizient ohne Parkplatzsorgen.",
+        "hu": "Az Ondéa buszhálózatnak köszönhetően Aix-les-Bains stresszmentesen felfedezhető. Az állomásról irány a Chevalley termálfürdő a teljes ellazulásért. Ezután térj vissza a központba a történelmi Casinóhoz, mielőtt a busz levivő a Grand Porthoz. Élvezd a tóparti szellőt, majd térj vissza a nyüzsgő bevásárlóutcákba. Kényelmes és hatékony megoldás parkolási gondok nélkül.",
+        "ro": "Datorită rețelei de autobuze Ondéa, Aix-les-Bains poate fi explorat fără stres. De la gară mergi direct la termele Chevalley pentru relaxare totală. Apoi revino în centru la cazinoul istoric, înainte ca autobuzul să te ducă la Grand Port. Bucură-te de briza lacului și revino pe străzile comerciale animate. Confortabil și eficient, fără grija parcării.",
+        "en": "Thanks to the Ondéa bus network, Aix-les-Bains can be explored stress-free. From the station, head directly to the Chevalley thermal baths for total relaxation. Then return to the center for the historic Casino, before the bus takes you to Grand Port. Enjoy the lake breeze and return to the busy shopping streets for the evening. Comfortable and efficient without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Gute Küche direkt am Ankunftsort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Jó konyha közvetlenül az érkezési pontnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Bucătărie bună chiar la locul de sosire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Good cuisine right at the arrival point."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Thermalpark",
+            "tip": "Ruhebank unter hundertjährigen Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termál park",
+            "tip": "Csendes padok évszázados fák alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Termal",
+            "tip": "Bancă liniștită sub copaci centenari.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Thermal Park",
+            "tip": "Quiet bench under century-old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Postkarten und lokale Magazine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Képeslapok és helyi magazinok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Vederi și reviste locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Postcards and local magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich den Netzplan im Tourismusbüro.",
+          "Die Busse zum See fahren im Sommer alle 15 Min.",
+          "Ihre Gästekarte ermöglicht oft kostenlose Busfahrten.",
+          "Validieren Sie Ihr Ticket beim Einstieg."
+        ],
+        "hu": [
+          "Kérj hálózati térképet a turisztikai irodában.",
+          "A tóhoz járó buszok nyáron 15 percenként járnak.",
+          "A vendégkártyád gyakran ingyenes buszozást biztosít.",
+          "Érvényesítsd a jegyedet felszálláskor."
+        ],
+        "ro": [
+          "Luați harta rețelei de la biroul de turism.",
+          "Autobuzele spre lac circulă la fiecare 15 min vara.",
+          "Cardul de oaspete oferă adesea gratuitate pe autobuz.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Get a network map at the tourist office.",
+          "Buses to the lake run every 15 mins in summer.",
+          "Your guest card often allows free bus travel.",
+          "Validate your ticket upon boarding."
+        ]
+      }
+    }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.aixlesbains-rivieradesalpes.com/",
+    "events": "https://www.aixlesbains-rivieradesalpes.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Aix-les-Bains ist Thermalkurort mit langer britischer und schweizerischer Geschichte, Englisch und Deutsch gut. Spa-Vokabular nützlich: 'cure thermale', 'sources chaudes'. Italiener sind im Sommer viele, sehr offen für mehrsprachige Bedienung.",
+      "hu": "Aix-les-Bains termálfürdőváros, hosszú brit és svájci múlttal, az angol és német jól megy. Hasznos a wellness-szókincs: 'cure thermale', 'sources chaudes'. Sok az olasz nyáron, többnyelvű kiszolgálásra nyitottak.",
+      "ro": "Aix-les-Bains este stațiune termală cu istorie britanică și elvețiană, engleza și germana sunt bune. Util vocabular spa: 'cure thermale', 'sources chaudes'. Vara sunt mulți italieni, deschiși la servire multilingvă.",
+      "en": "Aix-les-Bains is a thermal spa town with long British and Swiss heritage; English and German are good. Spa vocabulary helps: 'cure thermale', 'sources chaudes'. Many Italians in summer, staff are multilingual."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September für Lac du Bourget Aktivitäten. Juli-August: voll, hohe Preise, viele Spa-Reservierungen nötig. März-April und Oktober: ruhige Kursaison. Winter: Spa-Tourismus, aber See zu kalt.",
+      "hu": "Május-szeptember a Bourget-tavi aktivitásokért. Július-augusztus zsúfolt, magas árak, sok wellnessfoglalás kell. Március-április és október: csendes kurszezon. Tél: spa-turizmus, de a tó túl hideg.",
+      "ro": "Mai-septembrie pentru activități pe lacul Bourget. Iulie-august: aglomerat, prețuri mari, rezervări spa multe. Martie-aprilie și octombrie: sezon de cure liniștit. Iarna: turism spa, dar lacul prea rece.",
+      "en": "May-September for Lac du Bourget activities. July-August: crowded, high prices, spa bookings needed early. March-April and October offer a quieter spa season. Winter: spa tourism continues, but the lake is too cold."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, viele ältere Spa-Gäste. Vorsicht beim Schwimmen, Wassertemperatur des Sees kann täuschen. Im Casino-Bereich nachts auf Taschen achten. Verkehr in der Hochsaison stark.",
+      "hu": "Nagyon biztonságos, sok idősebb spa-vendég. Úszásnál óvatos: a tó vízhőmérséklete csalóka lehet. A kaszinó környékén éjjel táskára figyelj. Csúcsszezonban erős forgalom.",
+      "ro": "Foarte sigur, mulți oaspeți vârstnici. La înot, atenție: temperatura lacului poate înșela. În zona cazinoului, păziți gențile noaptea. Trafic intens în sezon.",
+      "en": "Very safe, lots of older spa visitors. Mind lake temperatures when swimming, they can be deceptive. Watch bags around the casino at night. Heavy traffic in peak season."
+    },
+    "parking_real_time": ""
+  }
+}

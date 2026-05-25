@@ -1085,5 +1085,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.sarlat-tourisme.com/",
+    "events": "https://www.sarlat-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.transperigord.fr/",
+    "language_tips": {
+      "de": "Sarlat ist die Perle des Périgord Noir, Englisch wird in den Restaurants und auf dem berühmten Marktplatz gut gesprochen. Lernen Sie 'foie gras', 'truffe noire' (schwarzer Trüffel) und 'noix du Périgord' für die lokalen Spezialitäten. Auf dem Samstagsmarkt 'goutez, s'il vous plaît' für eine Kostprobe.",
+      "hu": "Sarlat a Périgord Noir gyöngyszeme, az éttermekben és a híres piactéren jól beszélnek angolul. Tanuld meg a 'foie gras', 'truffe noire' (fekete szarvasgomba) és 'noix du Périgord' szavakat a helyi specialitásokhoz. A szombati piacon 'goûtez, s'il vous plaît' kóstolóért.",
+      "ro": "Sarlat este perla Périgord-ului Negru, engleza se vorbește bine în restaurante și în celebra piață. Învățați 'foie gras', 'truffe noire' (trufă neagră) și 'noix du Périgord' pentru specialitățile locale. La piața de sâmbătă, 'goûtez, s'il vous plaît' pentru o degustare.",
+      "en": "Sarlat is the jewel of Périgord Noir - English is well spoken in restaurants and the famous market square. Learn 'foie gras', 'truffe noire' (black truffle) and 'noix du Périgord' for local specialities. At the Saturday market, say 'goûtez, s'il vous plaît' to ask for a taster."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Juni und September bis Oktober sind ideal: mildes Wetter, blühende Dordogne und weniger Touristen. Juli und August sind extrem voll, Parken in der Altstadt unmöglich. Winter bringt die Trüffelmärkte im Januar-Februar, kulinarisch ein Highlight.",
+      "hu": "Május és június, valamint szeptember és október ideális: enyhe idő, virágzó Dordogne, kevesebb turista. Júliusban és augusztusban extrém zsúfolt, az óvárosban parkolni lehetetlen. Télen szarvasgombás piacok januárban-februárban, gasztronómiai csúcspont.",
+      "ro": "Mai-iunie și septembrie-octombrie sunt ideale: vreme blândă, Dordogne înflorită și mai puțini turiști. Iulie-august sunt extrem de aglomerate, parcarea în centrul vechi imposibilă. Iarna aduce piețele de trufe în ianuarie-februarie, un punct forte culinar.",
+      "en": "May-June and September-October are ideal: mild weather, blooming Dordogne and fewer crowds. July-August extremely packed, parking in the old town impossible. Winter brings truffle markets in January-February - a culinary highlight worth braving the cold."
+    },
+    "neighborhood_warnings": {
+      "de": "Sarlat ist sehr sicher, eine charmante mittelalterliche Stadt. Im Sommer Parken außerhalb der Stadtmauern erzwungen. Beim Wandern in der Dordogne auf Hitze und Wespen achten, besonders an heißen Tagen.",
+      "hu": "Sarlat nagyon biztonságos, bájos középkori város. Nyáron a városfalon kívül kell parkolni. Dordogne-i túrákon figyelj a hőségre és a darazsakra, főleg meleg napokon.",
+      "ro": "Sarlat este foarte sigur, un oraș medieval fermecător. Vara, parcarea este obligatorie în afara zidurilor. La drumețiile în Dordogne, atenție la căldură și viespi, mai ales în zilele toride.",
+      "en": "Sarlat is very safe, a charming medieval town. Summer forces parking outside the walls. When hiking the Dordogne valley watch for heat and wasps, especially on hot days near water."
+    },
+    "parking_real_time": ""
   }
 }

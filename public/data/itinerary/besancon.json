@@ -1090,5 +1090,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.besancon-tourisme.com/",
+    "events": "https://www.besancon-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.ginko.voyage/",
+    "language_tips": {
+      "de": "Besancon spricht klares franc-comtois-Franzoesisch ohne starken Akzent, sehr gut verstaendlich. Englisch in Hotels und an der Vauban-Zitadelle ok, im Markt etwas schwach. Schweizer Einfluss in Grenznaehe spuerbar, Deutsch funktioniert manchmal.",
+      "hu": "Besancon tiszta franche-comte-i franciat beszel eros akcentus nelkul, nagyon jol ertheto. Szallodakban es a Vauban-citadellanal megy az angol, a piacon kicsit gyengebb. Hatar menti svajci hatas, nemet neha mukodik.",
+      "ro": "Besancon vorbeste franceza Franche-Comte clara, fara accent puternic, foarte usor de inteles. Engleza merge la hoteluri si la citadela Vauban, in piata mai slab. Influenta elvetiana se simte langa granita, germana functioneaza uneori.",
+      "en": "Besancon speaks clear Franche-Comte French with no strong accent — very easy to follow. English works in hotels and the Vauban citadel, weaker in markets. The Swiss border is close so German sometimes works too."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (14-24 Grad), Wanderwege auf den Jura-Hoehen geoeffnet, Festival International de Musique im September. Winter kalt und schneereich (0-5 Grad), Skigebiete in 30 Min Entfernung, Citadelle im Schnee fotogen.",
+      "hu": "Majus-szeptember a legjobb (14-24 fok), a Jura-hegyi turaut nyitva, szeptemberben Festival International de Musique. Tel hideg es havas (0-5 fok), sipalyak 30 percre, citadella ho alatt fotogen.",
+      "ro": "Mai-septembrie sunt ideale (14-24 grade), traseele din muntii Jura sunt deschise, festivalul international de muzica in septembrie. Iarna e rece si cu zapada (0-5 grade), partii de ski la 30 min, citadela in zapada e foto-genica.",
+      "en": "May-September are ideal (14-24°C), Jura mountain trails open, International Music Festival in September. Winter is cold and snowy (0-5°C), ski resorts 30 minutes away, citadel under snow is photogenic."
+    },
+    "neighborhood_warnings": {
+      "de": "Planoise und Clairs-Soleils im Westen abends meiden. Innenstadt mit der Boucle (Doubs-Schleife) und Citadelle-Aufstieg sicher. Bahnhof Viotte tagsueber lebhaft, nachts ruhig.",
+      "hu": "Planoise es Clairs-Soleils nyugaton este nem ajanlott. A belvaros a Boucle-lal (Doubs-kanyar) es a citadellafelmenet biztonsagos. Viotte allomas nappal eleven, ejjel csendes.",
+      "ro": "Planoise si Clairs-Soleils, in vest, sunt de evitat seara. Centrul cu Boucle (bucla raului Doubs) si urcusul la citadela sunt sigure. Gara Viotte e animata ziua, linistita noaptea.",
+      "en": "Avoid Planoise and Clairs-Soleils in the west after dark. The centre with the Doubs loop (Boucle) and the citadel climb are safe. Viotte station is busy by day, quiet at night."
+    },
+    "parking_real_time": ""
   }
 }

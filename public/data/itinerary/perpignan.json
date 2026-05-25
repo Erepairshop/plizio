@@ -1096,5 +1096,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.perpignantourisme.com/",
+    "events": "https://www.perpignantourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.sankeo.com/",
+    "language_tips": {
+      "de": "Perpignan ist katalanisch gefaerbt: Franzoesisch mit deutlichem Sued-Akzent und viele Katalanisch-Sprecher. Spanisch funktioniert oft besser als Englisch. 'Bon dia' (katalanisch) und 'bonjour' beide ok, 'gracies' bringt Laecheln.",
+      "hu": "Perpignan katalan szinezetu: francia eros deli akcentussal es sok katalan beszelo. A spanyol gyakran jobb mint az angol. 'Bon dia' (katalan) es 'bonjour' is mukodik, a 'gracies' mosolyt hoz.",
+      "ro": "Perpignan are nuanta catalana: franceza cu accent sudic puternic si multi vorbitori de catalana. Spaniola functioneaza adesea mai bine decat engleza. 'Bon dia' (catalana) si 'bonjour' merg amandoua, 'gracies' aduce zambete.",
+      "en": "Perpignan has a Catalan flavour: French with a heavy southern accent and lots of Catalan speakers. Spanish often works better than English. 'Bon dia' (Catalan) and 'bonjour' both fly — 'gracies' earns smiles."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober sind ideal: 20-28 Grad, Pyrenaeen und Mittelmeer in 20 Min Entfernung. Juli-August heiss (30-35 Grad) und voll, dafuer Visa pour l'Image Foto-Festival im September. Winter mild (8-14 Grad), Tramontane-Wind kann kalt sein.",
+      "hu": "Aprilis-junius es szeptember-oktober a legjobb: 20-28 fok, Pireneusok es tenger 20 percre. Julius-augusztus forro (30-35 fok) es zsufolt, cserebe szeptemberben Visa pour l'Image fotofesztival. Tel enyhe (8-14 fok), a Tramontane-szel csipos lehet.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: 20-28 grade, Pirineii si Marea Mediterana la 20 min. Iulie-august sunt fierbinti (30-35 grade) si aglomerate, dar cu festivalul Visa pour l'Image in septembrie. Iarna e blanda (8-14 grade), Tramontane poate fi rece.",
+      "en": "April-June and September-October are ideal: 20-28°C, with Pyrenees and Mediterranean 20 minutes away. July-August get hot (30-35°C) and packed, but the Visa pour l'Image photo festival in September is world-class. Winter is mild (8-14°C), Tramontane wind can bite."
+    },
+    "neighborhood_warnings": {
+      "de": "Saint-Jacques und Saint-Mathieu in der suedlichen Altstadt abends meiden, soziale Probleme bekannt. Quartier Le Castillet und Loge-Viertel sicher. Bahnhof tagsueber lebhaft, nachts ruhiger.",
+      "hu": "Saint-Jacques es Saint-Mathieu a deli obvarosban este nem ajanlott, ismert szocialis problemak. Le Castillet es Loge-negyed biztonsagos. Az allomas nappal eleven, ejjel csendesebb.",
+      "ro": "Saint-Jacques si Saint-Mathieu, in centrul vechi sudic, sunt de evitat seara, cu probleme sociale cunoscute. Cartierul Le Castillet si Loge sunt sigure. Gara e animata ziua, mai linistita noaptea.",
+      "en": "Avoid Saint-Jacques and Saint-Mathieu in the south of the old town after dark — known social tensions. Le Castillet and Loge quarters are safe. The station is busy by day, quieter at night."
+    },
+    "parking_real_time": ""
   }
 }

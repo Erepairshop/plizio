@@ -990,5 +990,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/hauts-de-france.html",
+    "tourism_office": "https://www.lilletourism.com/",
+    "events": "https://www.lilletourism.com/",
+    "city_card": "https://www.lilletourism.com/",
+    "museum_tickets": "https://www.pba-lille.fr/",
+    "transit_official": "https://www.ilevia.fr/",
+    "language_tips": {
+      "de": "Lille ist Flandern auf franzoesischer Seite, viele Lillois sprechen Englisch und Niederlaendisch (Belgien ist 15 km). Im Vieux-Lille und im Wazemmes-Markt gehoert ein freundliches 'bonjour' und 'salut' (lockerer) zum Ton, Ch'ti-Slang wird dich verzaubern.",
+      "hu": "Lille a francia oldali Flandria, sok lilloi angolul es hollandul is beszel (Belgium 15 km). Vieux-Lille-ben es a Wazemmes piacon a 'bonjour' es lazabbb 'salut' kotelezo, a Ch'ti szlenget szeretni fogod.",
+      "ro": "Lille e Flandra de pe partea franceza, multi lillezi vorbesc engleza si neerlandeza (Belgia e la 15 km). In Vieux-Lille si la piata Wazemmes un 'bonjour' prietenos si 'salut' relaxat sunt standardul; argoul Ch'ti te va cuceri.",
+      "en": "Lille is Flanders on the French side; many locals speak English and Dutch (Belgium is 15km away). In Vieux-Lille and Wazemmes market, a friendly 'bonjour' and casual 'salut' are the tone — the Ch'ti slang will charm you."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September ist ideal: 16-23 Grad, lange Terrassen-Abende, Lille3000-Kulturfestivals. Anfang September ist die Braderie de Lille (groesster Floh-Markt Europas, Moules-Frites Pflicht). Winter ist grau und nass, Weihnachtsmarkt Place Rihour aber gemuetlich.",
+      "hu": "Majus-szeptember a legjobb: 16-23 fok, hosszu terasz-estek, Lille3000 kulturalis fesztivalok. Szeptember elejen Braderie de Lille (Europa legnagyobb bolhapiaca, moules-frites kotelezo). Telen szurke es nedves, a Place Rihour-i karacsonyi vasar viszont meghitt.",
+      "ro": "Mai-septembrie e ideal: 16-23 grade, seri lungi pe terase, festivaluri Lille3000. La inceput de septembrie e Braderie de Lille (cel mai mare targ de vechituri din Europa, moules-frites obligatoriu). Iarna e cenusie si umeda, dar targul de Craciun din Place Rihour e cald.",
+      "en": "May-September is ideal: 16-23°C, long terrace evenings, Lille3000 cultural festivals. Early September brings the Braderie de Lille (Europe's biggest flea market, moules-frites obligatory). Winter is grey and wet but the Place Rihour Christmas market is cosy."
+    },
+    "neighborhood_warnings": {
+      "de": "Zentrum, Vieux-Lille und Wazemmes sind sicher und lebendig. Lille-Sud und Faubourg de Bethune (aussere Stadtteile) sind nicht touristisch und nicht empfohlen. Bahnhoefe Lille-Flandres und Lille-Europe abends ok aber wachsam, Taschendiebe in Metro Linie 1.",
+      "hu": "Kozpont, Vieux-Lille es Wazemmes biztonsagos es elven. Lille-Sud es Faubourg de Bethune (kulso kerulet) nem turista terulet, nem ajanlott. Lille-Flandres es Lille-Europe palyaudvar estere ok, de eberseg, a Metro 1-en zsebtolvajok.",
+      "ro": "Centrul, Vieux-Lille si Wazemmes sunt sigure si vii. Lille-Sud si Faubourg de Bethune (cartiere periferice) nu sunt zone turistice. Garile Lille-Flandres si Lille-Europe sunt ok seara, dar fii vigilent; hoti de buzunare pe metroul linia 1.",
+      "en": "Centre, Vieux-Lille and Wazemmes are safe and lively. Lille-Sud and Faubourg de Bethune (outer districts) aren't tourist areas. Lille-Flandres and Lille-Europe stations are fine at night with caution; pickpockets on Metro line 1."
+    },
+    "parking_real_time": ""
   }
 }

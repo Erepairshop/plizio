@@ -1039,5 +1039,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.valdisere.com/en/webcams/",
+    "tourism_office": "https://www.valdisere.com/",
+    "events": "https://www.valdisere.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Val d'Isère ist sehr international, vor allem britische und skandinavische Gaeste, Englisch ist quasi Zweitsprache in Skischulen, Bars und Hotels. Trotzdem freuen sich die Franzosen ueber ein 'bonjour' und 'merci'. Lokale Bedienung in den Bergrestaurants spricht oft nur Franzoesisch.",
+      "hu": "Val d'Isère erosen nemzetkozi, sok brit es skandinav vendeg, az angol gyakorlatilag masodik nyelv a sioktatoknal, baroknal es hoteleknel. A franciak megis orulnek egy 'bonjour' es 'merci' jelnek. A hegyi vendeglokben a helyi pincerek gyakran csak franciaul beszelnek.",
+      "ro": "Val d'Isère e foarte internationala, multi britanici si scandinavi, engleza e practic a doua limba in scolile de schi, baruri si hoteluri. Totusi, francezii apreciaza un 'bonjour' si 'merci'. Personalul local din refugiile montane vorbeste adesea doar franceza.",
+      "en": "Val d'Isère is very international, mostly British and Scandinavian guests — English is basically a second language in ski schools, bars and hotels. The French still appreciate a 'bonjour' and 'merci'. Mountain hut staff often speak only French."
+    },
+    "best_time_to_visit": {
+      "de": "Dezember bis Anfang Mai fuer Ski, das hohe Tignes-Val-d'Isère-Gebiet hat oft bis Mai noch Schnee. Juli und August fuer Wandern und Sommerski auf dem Pisaillas-Gletscher. November und Mai-Juni fast tot, viele Hotels geschlossen.",
+      "hu": "December-majus eleje si szezon, a magas Tignes-Val d'Isère terulet gyakran majusig sizheto. Julius-augusztus turazas es nyari sielles a Pisaillas gleccseren. November es majus-junius szinte halott, sok hotel zarva.",
+      "ro": "Decembrie pana la inceputul lui mai pentru schi, zona inalta Tignes-Val d'Isère are zapada pana in mai. Iulie-august pentru drumetii si schi de vara pe ghetarul Pisaillas. Noiembrie si mai-iunie sunt aproape moarte, multe hoteluri inchise.",
+      "en": "December to early May for skiing — the high Tignes-Val d'Isère area often holds snow into May. July and August for hiking and summer skiing on the Pisaillas glacier. November and May-June are dead quiet, with many hotels closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Preise sind durchgehend hoch, Apres-Ski-Pakete in den teuren Bars schnell ueber 50 Euro pro Person. Die Anfahrt im Winter ueber Bourg-Saint-Maurice kann bei Schnee 2-3 Stunden dauern, Schneeketten Pflicht. Lawinengefahr abseits der Pisten ernst nehmen.",
+      "hu": "Az arak vegig magasak, az apres-ski csomag a drage barokban gyorsan 50 euro felett van fonkent. A teli felut Bourg-Saint-Maurice-on at honal 2-3 ora, holanc kotelezo. Sipalyan kivul a lavinaveszely valos.",
+      "ro": "Preturile sunt mereu mari, pachetele apres-ski in barurile scumpe depasesc rapid 50 euro de persoana. Drumul de iarna prin Bourg-Saint-Maurice poate dura 2-3 ore pe zapada, lanturile sunt obligatorii. Pericolul de avalansa in afara partiilor e real.",
+      "en": "Prices stay high across the board, après-ski rounds in the fancy bars easily top 50 euros per head. The winter drive up from Bourg-Saint-Maurice can take 2-3 hours in snow, chains are mandatory. Off-piste avalanche risk is real, respect it."
+    },
+    "parking_real_time": ""
   }
 }

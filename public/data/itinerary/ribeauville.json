@@ -1058,5 +1058,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.ribeauville-riquewihr.com/",
+    "events": "https://www.ribeauville-riquewihr.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Ribeauvillé teilt sich das Tourismusbüro mit Riquewihr. Deutsch wird breit verstanden. Bekannt für sein mittelalterliches 'Pfifferdaj'-Fest (Pfeiferfest) im September. 'A güeter' nach dem Essen ist eine herzliche elsässische Geste.",
+      "hu": "Ribeauvillé közös turistairodát üzemeltet Riquewihrrel. A német széles körben érthető. Híres a szeptemberi középkori 'Pfifferdaj' (Furulyások ünnepe) fesztiválról. Étkezés után az 'A güeter' szívélyes elzászi gesztus.",
+      "ro": "Ribeauvillé împarte biroul de turism cu Riquewihr. Germana este înțeleasă pe scară largă. Renumit pentru festivalul medieval 'Pfifferdaj' (al fluierașilor) din septembrie. 'A güeter' după masă este un gest alsacian călduros.",
+      "en": "Ribeauvillé shares its tourist office with Riquewihr. German is widely understood. Famous for September's medieval 'Pfifferdaj' (fifers' festival). Saying 'A güeter' after a meal is a warm Alsatian touch."
+    },
+    "best_time_to_visit": {
+      "de": "Erstes September-Wochenende für Pfifferdaj. Mai-Juni: Wandern in den Vogesen mit Blick auf die drei Burgruinen. Dezember: Weihnachtsmarkt im Mittelaltergewand. Juli-August: heiß, viele Reisebusse. März: viele Restaurants geschlossen.",
+      "hu": "Szeptember első hétvégéje a Pfifferdaj miatt. Május-június: vogézi túrázás, kilátás a három várromra. December: középkori öltözetű karácsonyi vásár. Július-augusztus: forró, sok busz. Márciusban sok étterem zárva.",
+      "ro": "Primul weekend din septembrie pentru Pfifferdaj. Mai-iunie: drumeții în Vosgi cu vedere la cele trei ruine. Decembrie: târg de Crăciun în costume medievale. Iulie-august: cald, multe autocare. Martie: multe restaurante închise.",
+      "en": "First weekend of September for Pfifferdaj. May-June for Vosges hikes with views of the three castle ruins. December for the medieval-themed Christmas market. July-August is hot and tour-bus heavy. March: many restaurants closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Die Aufstiege zu den Burgen Saint-Ulrich, Girsberg und Haut-Ribeaupierre verlangen festes Schuhwerk. Im Sommer Wasser mitnehmen, wenig Schatten am Grat. In der Altstadt nur draußen parken.",
+      "hu": "Nagyon biztonságos. A Saint-Ulrich, Girsberg és Haut-Ribeaupierre várakhoz vezető emelkedők stabil cipőt kívánnak. Nyáron vigyél vizet, a gerincen alig van árnyék. Az óvárosban csak kívül parkolj.",
+      "ro": "Foarte sigur. Urcușurile spre cetățile Saint-Ulrich, Girsberg și Haut-Ribeaupierre cer încălțăminte solidă. Vara, luați apă, există puțină umbră pe creastă. În centrul vechi, parcați doar afară.",
+      "en": "Very safe. The climbs to Saint-Ulrich, Girsberg and Haut-Ribeaupierre castles need sturdy shoes. Bring water in summer, the ridge has little shade. Park only outside the old town."
+    },
+    "parking_real_time": ""
   }
 }

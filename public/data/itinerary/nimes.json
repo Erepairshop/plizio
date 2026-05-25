@@ -1015,5 +1015,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.nimes-tourisme.com/",
+    "events": "https://www.nimes-tourisme.com/agenda/",
+    "city_card": "https://www.nimes-tourisme.com/le-pass-romain/",
+    "museum_tickets": "",
+    "transit_official": "https://www.tangobus.fr/",
+    "language_tips": {
+      "de": "Nimes spricht Franzoesisch mit suedlichem Akzent, das 'in' wird oft als 'eng' ausgesprochen. Englisch in Hotels und an Roemer-Stätten okay, in Bistros und Tapas-Bars eher schwach. Feria im Mai bringt Spanisch-Einsprengsel, 'olé' ist normal.",
+      "hu": "Nimes deli akcentussal beszel franciat, az 'in' gyakran 'eng'-kent hangzik. A szallodakban es a romai latvanyossagoknal van angol, a bisztrokban es tapas-barokban kevesbe. A majusi Feria spanyol szavakat is behoz, az 'olé' szokvanyos.",
+      "ro": "Nimes vorbeste franceza cu accent sudic, 'in' adesea pronuntat 'eng'. Engleza merge la hoteluri si la siturile romane, in bistro-uri si tapas-bar-uri mai putin. Feria din mai aduce cuvinte spaniole, 'olé' e ceva normal.",
+      "en": "Nimes speaks French with a southern accent — 'in' often sounds like 'eng'. English works in hotels and at Roman sites, less in bistros and tapas bars. The May Feria sprinkles in Spanish, so 'olé' is perfectly normal."
+    },
+    "best_time_to_visit": {
+      "de": "April-Juni und September-Oktober sind ideal: 20-28 Grad, Feria de Pentecote im Mai legendaer (laut, voll, lebendig). Juli-August brutal heiss (35-40 Grad), Steine der Arena gluehen. Winter mild und trocken (8-13 Grad), ideal fuer Roemer-Stätten ohne Menge.",
+      "hu": "Aprilis-junius es szeptember-oktober a legjobb: 20-28 fok, a pünkösdi Feria legendas (hangos, zsufolt, eleven). Julius-augusztus brutalisan forro (35-40 fok), az arena kovei izzanak. Tel enyhe es szaraz (8-13 fok), tokeletes a romai latnivalokra tomeg nelkul.",
+      "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: 20-28 grade, Feria de Pentecote in mai e legendara (zgomotoasa, plina, vie). Iulie-august sunt brutal de calde (35-40 grade), pietrele arenei ard. Iarna e blanda si uscata (8-13 grade), perfecta pentru siturile romane fara aglomeratie.",
+      "en": "April-June and September-October are ideal: 20-28°C, with the legendary Feria de Pentecote in May (loud, packed, alive). July-August are brutally hot (35-40°C) and the arena stones glow. Winter is mild and dry (8-13°C), perfect for Roman sites crowd-free."
+    },
+    "neighborhood_warnings": {
+      "de": "Pissevin und Chemin Bas d'Avignon im Westen abends meiden. Bahnhof tagsueber lebhaft, nachts ruhiger. Ecusson (Altstadt) rund um Arena sicher, Taschendiebe waehrend Feria moeglich.",
+      "hu": "Pissevin es Chemin Bas d'Avignon nyugaton este nem ajanlott. Az allomas nappal eleven, ejjel csendesebb. Az Ecusson (obvaros) az arena korul biztonsagos, a Feria alatt zsebtolvajok elofordulnak.",
+      "ro": "Pissevin si Chemin Bas d'Avignon, in vest, sunt de evitat seara. Gara e animata ziua, mai linistita noaptea. Ecusson (centrul vechi) in jurul arenei e sigur, dar in timpul Feriei pot aparea hoti de buzunare.",
+      "en": "Avoid Pissevin and Chemin Bas d'Avignon in the west at night. The station is busy by day, quieter at night. The Ecusson old town around the arena is safe, but pickpockets surface during the Feria."
+    },
+    "parking_real_time": ""
   }
 }

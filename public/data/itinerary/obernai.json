@@ -882,5 +882,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.tourisme-obernai.fr/",
+    "events": "https://www.tourisme-obernai.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Obernai liegt nahe Straßburg, Deutsch ist überall verständlich. Eines der wenigen Dörfer, das aktiv Elsässisch in Schulen lehrt. 'Hopla' nutzt man oft als Aufmunterung. Englisch im Hotelbereich gut, aber in Bäckereien lieber Französisch oder Deutsch.",
+      "hu": "Obernai Strasbourg közelében fekszik, a németet mindenhol értik. Egyike azon kevés falvaknak, amelyek aktívan tanítják az elzászit az iskolákban. A 'Hopla'-t gyakran használják bátorításra. Angol a szállodáknál jó, de pékségekben inkább franciát vagy németet használj.",
+      "ro": "Obernai este lângă Strasbourg, germana este înțeleasă peste tot. Unul dintre puținele sate care predă activ alsaciana în școli. 'Hopla' se folosește des ca încurajare. Engleza este bună în hoteluri, dar la brutării preferați franceza sau germana.",
+      "en": "Obernai is near Strasbourg and German is understood everywhere. One of the rare villages still teaching Alsatian in schools. 'Hopla' is a common cheerful filler. English works well in hotels but try French or German at bakeries."
+    },
+    "best_time_to_visit": {
+      "de": "September für Sainte-Odile-Pilgerfeste und Erntezeit. Dezember: vier-Wochen-Adventsmarkt. Mai-Juni: blühende Hänge des Mont Sainte-Odile. Vermeiden Sie regnerische Novembertage, der Berg ist neblig und Burgen geschlossen.",
+      "hu": "Szeptember a Sainte-Odile zarándoklatok és a szüret miatt. December: négyhetes adventi vásár. Május-június: a Mont Sainte-Odile virágzó lejtői. November esős napjain a hegy ködös és a várak zárva.",
+      "ro": "Septembrie pentru pelerinajul Sainte-Odile și cules. Decembrie: târg de Advent timp de patru săptămâni. Mai-iunie: pantele înflorite ale muntelui Sainte-Odile. Evitați noiembrie ploios, muntele este în ceață și cetățile închise.",
+      "en": "September for Sainte-Odile pilgrimage and harvest. December: a four-week Advent market. May-June for the blooming slopes of Mont Sainte-Odile. Avoid rainy November when the mountain is fogbound and castles closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher. Beim Mont Sainte-Odile-Pilgerweg gutes Schuhwerk und Wetterkleidung mitnehmen. Achten Sie an Weihnachtsmarkt-Wochenenden auf Taschendiebe in der Rue du Marché. Parken Sie auf der Place du Beffroi-Außenparkplätzen.",
+      "hu": "Nagyon biztonságos. A Mont Sainte-Odile zarándokúton vegyél fel stabil cipőt és időjárás-megfelelő ruhát. A karácsonyi vásár hétvégéin a Rue du Marchén figyelj zsebtolvajokra. Parkolj a Place du Beffroi külső parkolóiban.",
+      "ro": "Foarte sigur. La pelerinajul Mont Sainte-Odile, luați încălțăminte și haine potrivite. La weekend-urile târgului de Crăciun, atenție la hoții de buzunare pe Rue du Marché. Parcați la parcările exterioare Place du Beffroi.",
+      "en": "Very safe. On the Mont Sainte-Odile pilgrim trail bring proper shoes and weatherwear. Watch for pickpockets on Rue du Marché during Christmas market weekends. Use the Place du Beffroi outer car parks."
+    },
+    "parking_real_time": ""
   }
 }

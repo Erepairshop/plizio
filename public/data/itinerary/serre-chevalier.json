@@ -1035,5 +1035,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.serre-chevalier.com/en/webcams/",
+    "tourism_office": "https://www.serre-chevalier.com/",
+    "events": "https://www.serre-chevalier.com/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Serre Chevalier ist authentisch franzoesisch, nahe der italienischen Grenze, mit weniger internationalem Publikum als die Savoyer Stationen. Englisch wird in Skischulen verstanden, in den Doerfern (Briançon, Monêtier-les-Bains) ist Franzoesisch klar dominant. Italienische Einfluesse spuerbar.",
+      "hu": "Serre Chevalier autentikus francias, az olasz hatar kozeleben, kevesbe nemzetkozi, mint a savoyai allomasok. A sioktatasban az angolt ertik, a falvakban (Briançon, Monêtier-les-Bains) viszont a francia dominal. Olasz hatas erezheto.",
+      "ro": "Serre Chevalier e autentic francez, aproape de granita cu Italia, mai putin international decat statiunile din Savoia. Engleza e inteleasa in scolile de schi, in sate (Briançon, Monêtier-les-Bains) franceza domina clar. Influente italiene se simt.",
+      "en": "Serre Chevalier feels authentically French, close to the Italian border and less international than the Savoie resorts. English is understood at ski schools, but French dominates in the villages (Briançon, Monêtier-les-Bains). Italian influences are noticeable."
+    },
+    "best_time_to_visit": {
+      "de": "Skisaison Mitte Dezember bis Mitte April, suedliche Lage und Sonne sehr verlaesslich. Februar voll wegen franzoesischer Schulferien, Januar und Maerz die besten Wochen. Im Sommer Wandern im Ecrins-Nationalpark, Briançon UNESCO-Stadt einen Besuch wert.",
+      "hu": "Si szezon december kozeptol aprilis kozepig, deli fekves miatt megbizhato napsutes. Februar a francia szunet miatt zsufolt, januar es marcius a legjobb. Nyaron turazas az Ecrins Nemzeti Parkban, Briançon UNESCO varos megerdemli a latogatast.",
+      "ro": "Sezonul de schi din mijlocul lui decembrie pana la mijlocul lui aprilie, pozitia sudica si soarele sunt foarte sigure. Februarie e aglomerat din cauza vacantei franceze, ianuarie si martie sunt cele mai bune. Vara, drumetii in Parcul National Ecrins, Briançon (UNESCO) merita o vizita.",
+      "en": "Ski season mid-December to mid-April, the southerly location brings very reliable sun. February gets packed for French school holidays; January and March are the sweet spots. In summer, hike the Ecrins National Park and visit UNESCO-listed Briançon."
+    },
+    "neighborhood_warnings": {
+      "de": "Das Skigebiet erstreckt sich ueber 4 Doerfer, Bus zwischen ihnen oft langsam und in Hochsaison ueberfuellt. Briançon-Altstadt ist auf 1300m die hoechste der EU, Hoehe spuerbar bei Anstrengung. Lawinen-Risiko im Hinterland von Monêtier ernst.",
+      "hu": "A si terulet 4 falun atnyulik, a koztuk kozlekedo busz gyakran lassu es foszezonban tomott. A briançoni ovaros 1300 m-en az EU legmagasabbja, a magassag erezheto erofeszitesnel. A Monêtier mogotti vadonban a lavinaveszely komoly.",
+      "ro": "Domeniul skiabil se intinde peste 4 sate, autobuzul intre ele e des lent si aglomerat in varf de sezon. Centrul vechi al Briançonului la 1300m e cel mai inalt din UE, altitudinea se simte la efort. Risc real de avalansa in spatele Monêtier-ului.",
+      "en": "The ski area spans 4 villages and the shuttle between them is slow and packed in peak season. Briançon's old town at 1300m is the EU's highest — you'll feel the altitude when exerting. Off-piste avalanche risk behind Monêtier is serious."
+    },
+    "parking_real_time": ""
   }
 }

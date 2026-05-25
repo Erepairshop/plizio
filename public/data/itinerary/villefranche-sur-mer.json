@@ -936,5 +936,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.villefranche-sur-mer.fr/",
+    "events": "",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.lignesdazur.com/",
+    "language_tips": {
+      "de": "Villefranche-sur-Mer ist klein, pittoresk und an Kreuzfahrtstopps gewoehnt, Englisch ist ueberall verstaendlich. Italienische Touristen ebenfalls haeufig. In der schmalen Rue Obscure und an der Fischer-Hafenpromenade ist Franzoesisch die Heimatsprache.",
+      "hu": "Villefranche-sur-Mer kicsi, festoi, hajos kikotok megallohelye, az angol mindenhol megerteheto. Olasz turisterk is gyakori. A szuk Rue Obscure-ban es a halaszkikotonel a francia az otthoni nyelv.",
+      "ro": "Villefranche-sur-Mer e mic, pitoresc, obisnuit cu opririle de croaziera, engleza e inteleasa peste tot. Turisti italieni des. Pe stradela Rue Obscure si la portul de pescari franceza ramane limba acasa.",
+      "en": "Villefranche-sur-Mer is small, picturesque and used to cruise-ship stops — English is understood everywhere. Italian tourists are also common. In the narrow Rue Obscure and around the fishermen's harbour, French stays the local tongue."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: angenehm warm, Hafen lebendig, Kreuzfahrer aber noch nicht in Massen. Juli-August fuellt sich der kleine Strand schnell. Im Winter mild und sehr ruhig, perfekt fuer eine entspannte Auszeit zwischen Nizza und Monaco.",
+      "hu": "Majus, junius es szeptember ideal: kellemes meleg, eleten kikoto, de meg keves a hajos turista. Julius-augusztus a kicsi strand gyorsan megtelik. A tel enyhe es csendes, tokeletes pihenes Nizza es Monaco kozott.",
+      "ro": "Mai, iunie si septembrie sunt ideale: cald placut, port vibrant, dar fara horde de croazieristi. Iulie-august plaja mica se umple repede. Iarna blanda si linistita, perfecta intre Nisa si Monaco.",
+      "en": "May, June and September are ideal: warm but not stifling, the harbour lively, cruise crowds not yet at peak. In July-August the small beach fills fast. Winter is mild and very quiet — perfect for a slow break between Nice and Monaco."
+    },
+    "neighborhood_warnings": {
+      "de": "Wenn ein Kreuzfahrtschiff anlegt, ist die Altstadt zwischen 10 und 16 Uhr ueberfuellt. Parken in der Stadt fast unmoeglich, lieber Zug von Nizza (10 Minuten). Steile Treppen ueberall, nicht barrierefrei.",
+      "hu": "Ha hajo all be a kikotobe, 10-16 ora kozott az ovaros tomott. Parkolas a varosban szinte lehetetlen, jobb vonattal Niceuk-bol (10 perc). Mindenhol meredek lepcsok, akadalymentestelen.",
+      "ro": "Cand acosteaza un vapor de croaziera, centrul vechi e plin intre 10 si 16. Parcarea in oras e aproape imposibila, mai bine cu trenul din Nisa (10 minute). Scari abrupte peste tot, nu e accesibil.",
+      "en": "When a cruise ship docks, the old town floods between 10am and 4pm. Parking in town is nearly impossible — take the train from Nice (10 minutes). Steep stairs everywhere, not wheelchair-friendly."
+    },
+    "parking_real_time": ""
   }
 }

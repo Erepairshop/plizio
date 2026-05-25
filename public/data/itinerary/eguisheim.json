@@ -1027,5 +1027,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.ot-eguisheim.fr/",
+    "events": "https://www.ot-eguisheim.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Eguisheim ist tief elsässisch, Deutsch wird flüssig gesprochen. Das Dorf ist ringförmig (deutsch: 'Ringdorf'), eine seltene Struktur. Lokale schätzen, wenn Sie 's'Dorf' oder 'Wii' (Wein) verwenden. Englisch funktioniert in den Weingütern an der Hauptachse.",
+      "hu": "Eguisheim mélyen elzászi, a németet folyékonyan beszélik. A falu körkörös (németül 'Ringdorf'), ritka szerkezet. A helyiek értékelik, ha 's'Dorf' vagy 'Wii' (bor) szavakat használsz. Az angol megy a főutca pincészeteiben.",
+      "ro": "Eguisheim este profund alsacian, germana se vorbește fluent. Satul are formă circulară ('Ringdorf'), o structură rară. Localnicii apreciază dacă folosiți 's'Dorf' sau 'Wii' (vin). Engleza funcționează la cramele de pe axa principală.",
+      "en": "Eguisheim is deeply Alsatian, German flows easily here. The village is a rare circular 'Ringdorf'. Locals warm up when you try 's'Dorf' or 'Wii' (wine). English works at the wineries along the main loop."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober ist ideal, mit der Weinlese im September als Höhepunkt. Dezember-Weihnachtsmarkt ist intim, weniger touristisch als in Colmar. Juli-August: heiß und voll. Vermeiden Sie Mitte Januar bis Februar, wenn der Ort sehr ruhig ist.",
+      "hu": "Május-október ideális, a szeptemberi szüret a csúcspont. A decemberi karácsonyi vásár bensőségesebb, mint Colmaré. Július-augusztus forró és zsúfolt. Január közepétől februárig nagyon csendes a falu.",
+      "ro": "Mai-octombrie este ideal, culesul din septembrie fiind apogeul. Târgul de Crăciun din decembrie este intim, mai puțin turistic decât Colmar. Iulie-august: cald și aglomerat. Evitați mijlocul ianuarie-februarie, satul este foarte liniștit.",
+      "en": "May to October is ideal, peaking with the September harvest. December's Christmas market is intimate, far less crowded than Colmar's. July-August is hot and busy. Mid-January to February feels very quiet, many closures."
+    },
+    "neighborhood_warnings": {
+      "de": "Eines der sichersten Dörfer Frankreichs. Hauptproblem ist die enge Gasse mit Touristenbussen im Sommer. Parken nur außerhalb. Achten Sie auf glatte Pflastersteine bei Regen oder Frost.",
+      "hu": "Franciaország egyik legbiztonságosabb faluja. A fő gond a turistabuszokkal teli szűk utca nyáron. Csak külső parkolás. Ügyelj a sikamlós macskakőre esőben vagy fagyban.",
+      "ro": "Unul dintre cele mai sigure sate din Franța. Problema principală: străduțele înguste pline de autocare turistice vara. Parcare doar la exterior. Atenție la pavajul alunecos la ploaie sau ger.",
+      "en": "One of France's safest villages. Main issue is narrow lanes clogged with tour buses in summer. Park outside the ring. Watch for slick cobbles in rain or frost."
+    },
+    "parking_real_time": ""
   }
 }

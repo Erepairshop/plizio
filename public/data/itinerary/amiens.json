@@ -1092,5 +1092,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.amiens-tourisme.com/",
+    "events": "https://www.amiens-tourisme.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.ametis.fr/",
+    "language_tips": {
+      "de": "Amiens spricht picardisches Franzoesisch, klar und freundlich, der Akzent ist sehr leicht. Englisch in Hotels und an der Kathedrale verbreitet, in den Hortillonnages-Restaurants weniger. 'Bonjour' und 'au revoir' sind hier echte Hoeflichkeitsregeln.",
+      "hu": "Amiens picardiai franciat beszel, tiszta es barati, az akcentus enyhe. A szallodakban es a katedralisnál van angol, a Hortillonnages ettermeiben kevesbe. A 'bonjour' es 'au revoir' itt valodi udvariassagi szabaly.",
+      "ro": "Amiens vorbeste franceza picarda, clara si prietenoasa, accentul e usor. Engleza merge la hoteluri si la catedrala, in restaurantele de la Hortillonnages mai putin. 'Bonjour' si 'au revoir' sunt reguli reale de politete aici.",
+      "en": "Amiens speaks Picard-flavoured French, clear and friendly, with a soft accent. English works in hotels and at the cathedral, less so in the Hortillonnages restaurants. A 'bonjour' and 'au revoir' here are real social rules."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (15-23 Grad), Hortillonnages-Bootsfahrten Juni-Oktober, Kathedral-Lichtshow 'Chroma' Juni-September. Winter feucht (3-7 Grad), aber Weihnachtsmarkt am Hotel de Ville und Kathedrale im Licht magisch.",
+      "hu": "Majus-szeptember a legjobb (15-23 fok), Hortillonnages-csonakazas junius-oktober, 'Chroma' fenyshow a katedralison junius-szeptember. Tel nyirkos (3-7 fok), de a Hotel de Ville-i karacsonyi vasar es a kivilagitott katedralis varazslatos.",
+      "ro": "Mai-septembrie sunt ideale (15-23 grade), plimbarile cu barca pe Hortillonnages iunie-octombrie, spectacolul de lumini 'Chroma' la catedrala iunie-septembrie. Iarna e umeda (3-7 grade), dar targul de Craciun de la Hotel de Ville si catedrala iluminata sunt magice.",
+      "en": "May-September are ideal (15-23°C), with Hortillonnages boat trips June-October and the 'Chroma' cathedral light show June-September. Winter is damp (3-7°C), but the Hotel de Ville Christmas market and the lit cathedral feel magical."
+    },
+    "neighborhood_warnings": {
+      "de": "Pierre-Rollin und Etouvie im Norden abends meiden. Innenstadt, Saint-Leu-Viertel und Kathedrale sicher. Bahnhof Amiens-Nord tagsueber okay, nachts ruhig.",
+      "hu": "Pierre-Rollin es Etouvie eszakon este nem ajanlott. A belvaros, Saint-Leu negyed es a katedralis biztonsagos. Amiens-Nord allomas nappal rendben, ejjel csendes.",
+      "ro": "Pierre-Rollin si Etouvie, in nord, sunt de evitat seara. Centrul, cartierul Saint-Leu si catedrala sunt sigure. Gara Amiens-Nord e ok ziua, linistita noaptea.",
+      "en": "Avoid Pierre-Rollin and Etouvie in the north after dark. The centre, Saint-Leu quarter and cathedral are safe. Amiens-Nord station is fine by day, quiet at night."
+    },
+    "parking_real_time": ""
   }
 }

@@ -636,5 +636,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.cabourg.fr/",
+    "events": "https://www.cabourg.fr/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.bus-verts.com/",
+    "language_tips": {
+      "de": "Cabourg spricht klares normannisches Franzoesisch, sehr literarisch (Proust-Mythos!). Englisch in Hotels und am Grand Hotel verbreitet. 'Bonjour' und 'merci' in jeder Bäckerei wichtig, Cabourg pflegt traditionellen guten Ton.",
+      "hu": "Cabourg tiszta normandiai franciat beszel, nagyon irodalmias (Proust-mitosz!). A szallodakban es a Grand Hotelben sok angol. A 'bonjour' es 'merci' minden peksegben fontos, Cabourg orzi a hagyomanyos jo modort.",
+      "ro": "Cabourg vorbeste franceza normanda clara, foarte literara (mitul Proust!). Engleza merge la hoteluri si la Grand Hotel. 'Bonjour' si 'merci' sunt importante in fiecare boulangerie, Cabourg pastreaza buna cuviinta traditionala.",
+      "en": "Cabourg speaks clear Norman French, very literary (the Proust myth!). English works in hotels and at the Grand Hotel. 'Bonjour' and 'merci' matter in every bakery — Cabourg keeps traditional manners alive."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-September sind ideal (15-22 Grad), Festival du Film Romantique Mitte Juni Highlight (Proust-Thematik). Juli-August warm und voll. Winter mild und nass (5-9 Grad), Strand-Promenade fast leer, Grand Hotel im Nebel romantisch.",
+      "hu": "Majus-szeptember a legjobb (15-22 fok), junius kozepen Romantikus Filmfesztival a fenypont (Proust-tema). Julius-augusztus meleg es zsufolt. Tel enyhe es nyirkos (5-9 fok), a strand-promenad szinte ures, a kodos Grand Hotel romantikus.",
+      "ro": "Mai-septembrie sunt ideale (15-22 grade), Festivalul de Film Romantic la mijlocul lui iunie e atractia (tematica Proust). Iulie-august sunt calde si aglomerate. Iarna e blanda si umeda (5-9 grade), promenada aproape goala, Grand Hotel in ceata e romantic.",
+      "en": "May-September are ideal (15-22°C), with the Romantic Film Festival in mid-June (Proust-themed) as the highlight. July-August are warm and packed. Winter is mild and damp (5-9°C), the promenade almost empty, the Grand Hotel in mist purely romantic."
+    },
+    "neighborhood_warnings": {
+      "de": "Cabourg ist sehr sicher, kleines elegantes Seebad. Keine Problemviertel. Strand-Promenade auch nachts beleuchtet, sehr ruhig. Achtung auf Gezeiten, das Wasser zieht sich weit zurueck.",
+      "hu": "Cabourg nagyon biztonsagos, kis elegans tengerparti varos. Nincs problemas negyed. A strand-promenad ejjel is kivilagitott, nagyon csendes. Figyelj a dagalyra, a viz tagasul.",
+      "ro": "Cabourg e foarte sigur, mic statiune eleganta. Nu exista cartiere problematice. Promenada e iluminata si noaptea, foarte linistita. Atentie la maree, apa se retrage mult.",
+      "en": "Cabourg is very safe — small elegant resort. No problem districts. The promenade stays lit and very calm at night. Mind tides — water pulls back far."
+    },
+    "parking_real_time": ""
   }
 }

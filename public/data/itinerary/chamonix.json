@@ -980,5 +980,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.chamonix.com/webcams,3,en.html",
+    "tourism_office": "https://www.chamonix.com/",
+    "events": "https://www.chamonix.com/events,33,en.html",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.chamonix-bus.com/",
+    "language_tips": {
+      "de": "In Chamonix wird Franzoesisch gesprochen, aber wegen der vielen internationalen Gaeste klappt Englisch in Hotels, Skischulen und Restaurants meistens problemlos. Ein 'bonjour' beim Betreten eines Ladens und 'merci' beim Gehen oeffnet trotzdem Tueren. Berg-Profis und Guides reden oft Englisch, im Tal eher Franzoesisch.",
+      "hu": "Chamonix-ban a francia a hivatalos, de a sok kulfoldi sielo miatt a hotelekben, sioktatoknal es ettermekben az angol legtobbszor megy. Egy 'bonjour' belepeskor es egy 'merci' tavozaskor megis sokat szamit. A hegyi vezetok altalaban beszelnek angolul, a volgyben inkabb francia megy.",
+      "ro": "La Chamonix se vorbeste franceza, dar din cauza turistilor internationali engleza merge usor in hoteluri, scoli de schi si restaurante. Un 'bonjour' la intrare si 'merci' la plecare deschid orice usa. Ghizii montani vorbesc adesea engleza, in vale e mai mult franceza.",
+      "en": "Chamonix speaks French, but with so many international skiers, English works fine in hotels, ski schools and most restaurants. Still, a 'bonjour' when you enter a shop and 'merci' when you leave goes a long way. Mountain guides usually speak English; down in the valley it's more French."
+    },
+    "best_time_to_visit": {
+      "de": "Hochwinter Dezember bis Maerz fuer Ski (Schneegarantie auf hohen Lagen), Juli und August fuer Wandern und Mont-Blanc-Touren. Mai und November sind Zwischensaisons, viele Lifte geschlossen und Hotels guenstig, aber das Wetter ist launisch. Im August Massenandrang am Aiguille du Midi.",
+      "hu": "December-marcius a si szezon (a magas reszeken biztos a ho), julius-augusztus a turazas es Mont-Blanc-csucshodito ideje. Majus es november koztes idoszak, sok felvono zarva es a hotelek olcsobbak, de az ido szeszelyes. Augusztusban brutalis tomeg az Aiguille du Midi-nel.",
+      "ro": "Decembrie-martie pentru schi (zapada garantata in zonele inalte), iulie-august pentru drumetii si ture pe Mont Blanc. Mai si noiembrie sunt sezoane intermediare, multe telecabine inchise si hoteluri ieftine, dar vremea e capricioasa. In august aglomeratie uriasa la Aiguille du Midi.",
+      "en": "December to March for skiing (guaranteed snow up high), July and August for hiking and Mont Blanc trips. May and November are shoulder seasons with cheaper hotels but many lifts closed and unpredictable weather. Expect huge crowds at the Aiguille du Midi in August."
+    },
+    "neighborhood_warnings": {
+      "de": "Im Zentrum am Wochenende Parkplatzchaos und teure Garagen, lieber Park-and-Ride nutzen. Bei Schoenwetter im Sommer ist die Aiguille-du-Midi-Schlange oft 2-3 Stunden, frueh online buchen. Berggefahren ernst nehmen, Lawinen und Spaltensturz fordern jedes Jahr Opfer.",
+      "hu": "Hetvegen a kozpontban parkolasi kaosz es draga garazsok, jobb a Park-and-Ride. Nyari napos idoben az Aiguille-du-Midi sor 2-3 ora, korai online jegyfoglalas kotelezo. A hegyi veszelyeket vedd komolyan, lavina es gleccserszakadek minden evben szed aldozatot.",
+      "ro": "In centru weekendul aduce haos cu parcarea si garaje scumpe, mai bine foloseste Park-and-Ride. Vara, pe vreme buna, coada la Aiguille du Midi e 2-3 ore, rezerva online din timp. Pericolele montane (avalanse, crevase) fac victime in fiecare an, ia-le in serios.",
+      "en": "Parking in the centre is chaos on weekends and garages are pricey, use the Park-and-Ride instead. On sunny summer days the Aiguille du Midi queue runs 2-3 hours, book online early. Take mountain hazards seriously — avalanches and crevasse falls claim lives every year."
+    },
+    "parking_real_time": ""
   }
 }

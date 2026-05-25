@@ -1216,5 +1216,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.alpedhuez.com/en/webcams",
+    "tourism_office": "https://www.alpedhuez.com/",
+    "events": "https://www.alpedhuez.com/en/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "L'Alpe d'Huez ist bekannt fuer britische und niederlaendische Skifahrer und Radfahrer (legendaere Tour-de-France-Etappe), Englisch ist Standard in Bars und Hotels. Die langen sonnigen Pisten ziehen viele Familien an, das Personal in den Restaurants ist meist mehrsprachig.",
+      "hu": "L'Alpe d'Huez brit es holland sielok es kerekparosok (legendas Tour-szakasz) kedvence, az angol alap a baroknal, hoteleknel. A hosszu napos pistak sok csaladot vonzanak, az ettermekben a szemelyzet altalaban tobb nyelven beszel.",
+      "ro": "L'Alpe d'Huez e favoritul britanicilor si olandezilor pentru schi si ciclism (etapa legendara din Tour de France), engleza e standard in baruri si hoteluri. Partiile lungi si insorite atrag multe familii, personalul restaurantelor e adesea multilingv.",
+      "en": "L'Alpe d'Huez is a favourite of British and Dutch skiers and cyclists (the legendary Tour de France climb) — English is standard in bars and hotels. The long sunny pistes attract many families, and restaurant staff are usually multilingual."
+    },
+    "best_time_to_visit": {
+      "de": "Skisaison Mitte Dezember bis Ende April, 300 Sonnentage im Jahr machen die Pisten besonders attraktiv. Tour-de-France-Etappe meist im Juli, dann ist die Stadt voll mit Radfahrern. Mai und November Zwischensaison, viel geschlossen.",
+      "hu": "Si szezon december kozeptol aprilis vegeig, 300 napos nap evente vonzova teszi a pistakat. A Tour-szakasz altalaban juliusban, ekkor a varos tele van kerekparossal. Majus es november koztes idoszak, sok zarva.",
+      "ro": "Sezonul de schi din mijlocul lui decembrie pana la sfarsitul lui aprilie, 300 de zile cu soare anual fac partiile speciale. Etapa din Tour de France e de obicei in iulie, orasul e plin de ciclisti. Mai si noiembrie sunt sezoane intermediare, multe lucruri inchise.",
+      "en": "Ski season mid-December to late April — 300 sunny days a year make the pistes especially appealing. The Tour de France stage usually runs in July, packing the town with cyclists. May and November are quiet shoulder seasons with much closed."
+    },
+    "neighborhood_warnings": {
+      "de": "Die 21 Serpentinen von Bourg-d'Oisans hinauf sind im Winter mit Schneeketten Pflicht und bei Schneesturm gesperrt. Sarenne-Piste ist die laengste schwarze Piste Europas, nur fuer erfahrene Skifahrer. Apres-Ski im Folie Douce wild und teuer.",
+      "hu": "A 21 szerpentin Bourg-d'Oisans-tol felfele telen holanc kotelezo, hovihar eseten lezarjak. A Sarenne pista Europa leghosszabb fekete pistaja, csak tapasztalt sielonek. A Folie Douce-ban vad es draga az apres-ski.",
+      "ro": "Cele 21 de serpentine de la Bourg-d'Oisans sus sunt cu lanturi obligatorii iarna si se inchid la viscol. Pista Sarenne e cea mai lunga partie neagra din Europa, doar pentru schiori avansati. La Folie Douce, apres-ski salbatic si scump.",
+      "en": "The 21 hairpins from Bourg-d'Oisans up demand snow chains in winter and close in blizzards. The Sarenne piste is Europe's longest black run — experts only. Après-ski at La Folie Douce is wild and pricey."
+    },
+    "parking_real_time": ""
   }
 }

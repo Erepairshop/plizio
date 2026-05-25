@@ -1241,5 +1241,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.tourisme-collioure.com/decouvrir/webcams/",
+    "tourism_office": "https://www.tourisme-collioure.com/",
+    "events": "https://www.tourisme-collioure.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.collioure.com/transports",
+    "language_tips": {
+      "de": "Collioure liegt im katalanischen Roussillon, daher hört man neben Französisch oft Katalanisch. 'Bon dia' funktioniert ebenso gut wie 'Bonjour'. In den Galerien rund um den Hafen wird auch Englisch und Spanisch gesprochen. Probieren Sie 'un verre de Banyuls' zu bestellen, der lokale Süßwein ist eine kulturelle Visitenkarte.",
+      "hu": "Collioure a katalán Roussillonban fekszik, így a francia mellett gyakran katalán szó is hallható. A 'Bon dia' éppúgy működik, mint a 'Bonjour'. A kikötő körüli galériákban beszélnek angolul és spanyolul is. Próbálj meg egy pohár Banyuls édes bort kérni, ez a helyi specialitás a kulturális identitás része.",
+      "ro": "Collioure se află în Roussillon-ul catalan, așa că pe lângă franceză se aude des catalana. 'Bon dia' funcționează la fel de bine ca 'Bonjour'. În galeriile din jurul portului se vorbește engleza și spaniola. Cereți un pahar de Banyuls, vinul dulce local este o carte de vizită culturală.",
+      "en": "Collioure sits in Catalan Roussillon, so you'll hear Catalan alongside French. 'Bon dia' works just as well as 'Bonjour'. Galleries around the harbour speak English and Spanish too. Try ordering 'un verre de Banyuls' - the local sweet wine is a cultural calling card and an instant icebreaker."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: warmes Wetter, weniger Touristen und das Licht, das einst Matisse anzog, ist besonders intensiv. Juli und August sind sehr voll, Parkplätze im Zentrum praktisch unmöglich. Die Weinlese im Oktober bringt ein authentisches Dorfgefühl zurück, perfekt für ruhige Spaziergänge.",
+      "hu": "Május, június és szeptember ideális: meleg idő, kevés turista és a Matisse-t is megihlető fény különösen intenzív. Július és augusztus zsúfolt, parkolni szinte lehetetlen a központban. Az októberi szüret idején visszatér a hiteles falusi hangulat, tökéletes csendes sétákhoz.",
+      "ro": "Mai, iunie și septembrie sunt ideale: vreme caldă, mai puțini turiști și lumina care l-a inspirat pe Matisse este deosebit de intensă. Iulie și august sunt foarte aglomerate, parcările din centru aproape imposibile. Culesul viilor din octombrie aduce înapoi atmosfera autentică de sat.",
+      "en": "May, June and September are ideal: warm weather, fewer tourists, and the famous light that drew Matisse here is at its most vivid. July and August are packed, with parking in the centre nearly impossible. The October wine harvest restores an authentic village feel, perfect for quiet exploration."
+    },
+    "neighborhood_warnings": {
+      "de": "Collioure ist sehr sicher, doch die schmalen Gassen werden im Sommer zur Falle für Autos. Parken Sie außerhalb am Cap Béar und gehen zu Fuß. Im August können die Strände extrem überfüllt sein.",
+      "hu": "Collioure biztonságos, de a szűk utcák nyáron csapdát jelentenek az autóknak. Parkolj a Cap Béar mellett és gyere gyalog. Augusztusban a strandok rendkívül zsúfoltak lehetnek.",
+      "ro": "Collioure este foarte sigur, dar străduțele înguste devin o capcană pentru mașini vara. Parcați în afara orașului la Cap Béar și mergeți pe jos. În august, plajele pot fi extrem de aglomerate.",
+      "en": "Collioure is very safe, but narrow lanes turn into car traps in summer. Park outside near Cap Béar and walk in. In August, the small pebble beaches can feel extremely crowded."
+    },
+    "parking_real_time": ""
   }
 }

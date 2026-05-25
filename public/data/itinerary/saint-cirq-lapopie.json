@@ -1109,5 +1109,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "",
+    "tourism_office": "https://www.saint-cirqlapopie.com/",
+    "events": "https://www.saint-cirqlapopie.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Saint-Cirq-Lapopie ist ein winziges Felsendorf mit nur ~200 Einwohnern. Erwarten Sie kaum Englisch, lernen Sie 'Bonjour' und 'Merci'. Lokale sprechen langsam und freundlich. Quercy-Dialekt-Worte tauchen auf Speisekarten auf, fragen Sie ruhig nach.",
+      "hu": "Saint-Cirq-Lapopie egy apró sziklafalu, mindössze ~200 lakossal. Ne számíts angolra, tanuld meg a 'Bonjour' és 'Merci' szavakat. A helyiek lassan és barátságosan beszélnek. A Quercy-tájszólás szavai felbukkannak az étlapon, nyugodtan kérdezz rá.",
+      "ro": "Saint-Cirq-Lapopie este un sătuc cocoțat pe stâncă cu doar ~200 de locuitori. Nu vă așteptați la engleză, învățați 'Bonjour' și 'Merci'. Localnicii vorbesc rar și prietenos. Cuvinte din dialectul Quercy apar pe meniuri, întrebați liniștit.",
+      "en": "Saint-Cirq-Lapopie is a tiny clifftop village with only ~200 residents. Don't expect English, learn 'Bonjour' and 'Merci'. Locals speak slowly and warmly. Quercy dialect words appear on menus, just ask for clarification."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind perfekt: warm, weniger Tagesausflügler, blühender Lot-Fluss. Juli-August ist überlaufen, parken Sie weit unten. Oktober bietet Herbstfarben über dem Tal. Winter: viele Lokale geschlossen, aber stille Schönheit.",
+      "hu": "Május, június és szeptember a legjobb: meleg, kevesebb napi turista, virágzó Lot völgy. Július-augusztus zsúfolt, lent kell parkolnod. Október őszi színeket kínál a völgy felett. Télen sok hely zárva, de csendes szépség.",
+      "ro": "Mai, iunie și septembrie sunt perfecte: cald, mai puțini turiști, valea Lot înflorită. Iulie-august este aglomerat, parcați jos în vale. Octombrie oferă culori de toamnă. Iarna multe localuri sunt închise, dar liniștea este superbă.",
+      "en": "May, June and September are perfect: warm, fewer day-trippers, the Lot valley in bloom. July-August is crowded, park down in the valley. October brings autumn colors over the gorge. Winter: many shops closed but serene beauty."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, das größte Risiko sind rutschige Kopfsteinpflaster bei Regen und schwindelerregende Klippenkanten. Tragen Sie festes Schuhwerk. Im Sommer kann der einzige Parkplatz mittags voll sein, kommen Sie früh oder spät.",
+      "hu": "Nagyon biztonságos, a legnagyobb veszély a csúszós macskakő esőben és a szédítő sziklaperemek. Vegyél fel stabil cipőt. Nyáron az egyetlen parkoló délben megtelhet, érkezz korán vagy késő délután.",
+      "ro": "Foarte sigur, cel mai mare risc sunt pavajele alunecoase pe ploaie și marginile abrupte ale stâncii. Purtați încălțăminte solidă. Vara, singura parcare se umple la prânz, veniți devreme sau seara.",
+      "en": "Very safe; main hazards are slippery cobblestones in rain and dizzying cliff edges. Wear sturdy shoes. The single car park fills by noon in summer, arrive early or late afternoon."
+    },
+    "parking_real_time": ""
   }
 }

@@ -978,5 +978,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
+    "tourism_office": "https://www.ot-carnac.fr/",
+    "events": "https://www.ot-carnac.fr/",
+    "city_card": "",
+    "museum_tickets": "https://www.menhirs-carnac.fr/",
+    "transit_official": "",
+    "language_tips": {
+      "de": "Carnac ist Bretagne, hier hoerst du Franzoesisch und manchmal Bretonisch in Strassennamen und Liedern. Englisch klappt in Hotels und am Megalith-Besucherzentrum, in Creperien und Markt gehoert ein 'bonjour' und ein 'kenavo' (auf Wiedersehen, bretonisch) bringt Sympathiepunkte.",
+      "hu": "Carnac Bretagne, itt franciat es neha bretont is hallasz utcanevekben es dalokban. Az angol megy a szallodakban es a megalit latogatokozpontban, a creperie-kben es a piacon egy 'bonjour' alap, egy 'kenavo' (viszlat, breton) szimpatipontot hoz.",
+      "ro": "Carnac e Bretania, aici auzi franceza si uneori bretona in nume de strazi si cantece. Engleza merge la hoteluri si la centrul de vizitare al megalitilor, dar la creperii si in piata un 'bonjour' e obligatoriu, iar un 'kenavo' (la revedere in bretona) iti aduce simpatie.",
+      "en": "Carnac is Brittany — you'll hear French and sometimes Breton in street names and songs. English works at hotels and the megalith visitor centre; at creperies and the market 'bonjour' is essential and a 'kenavo' (Breton for goodbye) earns smiles."
+    },
+    "best_time_to_visit": {
+      "de": "Mai, Juni und September sind ideal: 18-23 Grad, gefuehrte Megalith-Touren auf Englisch und ruhige Straende. Juli und August sind familienvoll, aber lange Sonnenstunden. Winter ist stuermisch und mystisch, ideal fuer Stein-Fotos im Nebel.",
+      "hu": "Majus, junius es szeptember a legjobb: 18-23 fok, angol nyelvu megalit-tura es csendes strandok. Julius-augusztusban csaladok zsufoljak el, de hosszu napsutes. Telen viharos es mistikus, a kovekrol kodos fotokra ideális.",
+      "ro": "Mai, iunie si septembrie sunt ideale: 18-23 grade, tururi ghidate ale megalitilor in engleza si plaje linistite. Iulie-august sunt aglomerate de familii, dar zile lungi de soare. Iarna e furtunoasa si mistica, ideala pentru poze cu pietre in ceata.",
+      "en": "May, June and September are ideal: 18-23°C, English-guided megalith tours and quiet beaches. July and August are family-packed but with long sunshine. Winter is stormy and mystical — perfect for misty stone photos."
+    },
+    "neighborhood_warnings": {
+      "de": "Sehr sicher, einzige Aufpassen-Sachen: Megalithen-Felder darf man im Sommer nur mit Guide betreten (Schutz), und Atlantikstroemungen am Strand sind stark, nur bewachte Zonen.",
+      "hu": "Nagyon biztonsagos, csak nyaron a megalit-mezok csak idegenvezetovel jarhatok (vedelmi okok), az atlanti strandon erős aram, csak felugyelt szakaszon uszorat.",
+      "ro": "Foarte sigur, atentie doar la campurile de megaliti care in vara pot fi vizitate doar cu ghid (motive de protectie) si la curentii puternici de pe plaja Atlanticului; inoata in zone supravegheate.",
+      "en": "Very safe; main thing to know is that megalith fields require a guide to enter in summer (for protection), and Atlantic currents on the beaches are strong — swim only in lifeguarded areas."
+    },
+    "parking_real_time": ""
   }
 }

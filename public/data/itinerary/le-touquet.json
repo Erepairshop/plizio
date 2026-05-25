@@ -1040,5 +1040,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.letouquet.com/webcams",
+    "tourism_office": "https://www.letouquet.com/",
+    "events": "https://www.letouquet.com/agenda",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://www.letouquet.com/se-deplacer",
+    "language_tips": {
+      "de": "Le Touquet ist ein eleganter Badeort mit britischem Flair. Französisch ist Pflicht, doch in den Hotels und Restaurants entlang der Rue Saint-Jean wird häufig Englisch gesprochen. Ein höfliches 'Bonjour Madame' beim Betreten der Geschäfte gilt als selbstverständlich und öffnet hier viele Türen.",
+      "hu": "Le Touquet elegáns tengerparti üdülőhely brit beütéssel. A franciát illik használni, de a Rue Saint-Jean menti szállodákban és éttermekben általában beszélnek angolul is. A boltokba lépéskor mindig köszönj 'Bonjour Madame' vagy 'Bonjour Monsieur' formában, ez itt különösen fontos.",
+      "ro": "Le Touquet este o stațiune elegantă cu influențe britanice. Franceza este obligatorie, dar în hotelurile și restaurantele de pe Rue Saint-Jean se vorbește deseori engleza. Un salut politicos 'Bonjour Madame' la intrarea în magazine este considerat firesc și deschide multe uși în acest oraș.",
+      "en": "Le Touquet is an elegant seaside resort with a British twist. French is essential, though hotels and restaurants along Rue Saint-Jean often speak English. Always greet shopkeepers with 'Bonjour Madame' or 'Bonjour Monsieur' upon entering - in this refined town, manners count more than vocabulary."
+    },
+    "best_time_to_visit": {
+      "de": "Die beste Reisezeit ist von Mai bis September, wenn die Strände belebt und die Temperaturen mild sind. Juli und August können überlaufen sein, besonders während des Enduropale-Strandrennens im Februar. Der Frühherbst bietet ruhigere Spaziergänge im Wald von Le Touquet und immer noch angenehme Tage am Meer.",
+      "hu": "A legjobb időszak május és szeptember között van, amikor a strandok élettel telik meg és kellemes a hőmérséklet. Július és augusztus zsúfolt lehet, csakúgy mint a februári Enduropale homokrali idején. Kora ősszel csendesebbek a sétáink a Le Touquet-i erdőben, a tenger pedig még mindig kellemes.",
+      "ro": "Cea mai bună perioadă este între mai și septembrie, când plajele sunt animate, iar temperaturile sunt blânde. Iulie și august pot fi aglomerate, mai ales în timpul cursei Enduropale din februarie. Începutul toamnei oferă plimbări liniștite în pădurea Le Touquet și zile încă plăcute la malul mării.",
+      "en": "Best from May to September, when the beaches buzz and temperatures stay mild. July and August get crowded, as does February during the famous Enduropale beach race. Early autumn offers quieter walks in the Le Touquet forest and still-pleasant days by the sea, perfect for a relaxed visit."
+    },
+    "neighborhood_warnings": {
+      "de": "Le Touquet ist sehr sicher, doch die Strandgezeiten sind tückisch: das Meer zieht sich weit zurück und kommt schnell zurück. Achten Sie auf die Gezeitenpläne und parken Sie nie auf den Sandflächen am Strand.",
+      "hu": "Le Touquet biztonságos város, de a parti dagály alattomos: a tenger messze visszahúzódik, majd gyorsan visszatér. Mindig nézd meg az árapálytáblát, és soha ne parkolj a homokos részen a strandon.",
+      "ro": "Le Touquet este foarte sigur, dar mareea este înșelătoare: marea se retrage departe și revine rapid. Consultați mereu orarul mareelor și nu parcați niciodată pe nisipul de pe plajă.",
+      "en": "Le Touquet is very safe, but the tides are tricky - the sea recedes far and returns fast. Always check tide tables and never park on the sand flats at the beach."
+    },
+    "parking_real_time": ""
   }
 }

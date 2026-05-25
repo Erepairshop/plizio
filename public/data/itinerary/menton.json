@@ -1018,5 +1018,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-d-azur/alpes-maritimes/menton.html",
+    "tourism_office": "https://www.menton-riviera-merveilles.fr/",
+    "events": "https://www.menton-riviera-merveilles.fr/en/agenda/",
+    "city_card": "",
+    "museum_tickets": "",
+    "transit_official": "https://zou.maregionsud.fr/",
+    "language_tips": {
+      "de": "Menton liegt direkt an der italienischen Grenze, Italienisch ist quasi zweite Sprache, viele Schilder zweisprachig. Englisch klappt in Hotels und Restaurants, aber 'buongiorno' funktioniert oft genauso gut wie 'bonjour'. Aelteres Personal spricht den lokalen Mentonasque-Dialekt.",
+      "hu": "Menton kozvetlenul az olasz hatarnal van, az olasz szinte masodik nyelv, sok tabla ketnyelvu. Az angol megy hotelekben, ettermekben, de a 'buongiorno' gyakran olyan jol jon, mint a 'bonjour'. Az idosebb dolgozok beszelik a helyi mentonasque dialektust.",
+      "ro": "Menton e chiar la granita italiana, italiana e cvasi a doua limba, multe semne bilingve. Engleza merge in hoteluri si restaurante, dar 'buongiorno' functioneaza adesea la fel ca 'bonjour'. Personalul mai in varsta vorbeste dialectul local mentonasque.",
+      "en": "Menton sits right on the Italian border — Italian is practically a second language and many signs are bilingual. English works in hotels and restaurants, but 'buongiorno' often lands as well as 'bonjour'. Older staff still speak the local Mentonasque dialect."
+    },
+    "best_time_to_visit": {
+      "de": "Februar fuer das beruehmte Zitronenfest (Fête du Citron), eines der spektakulaersten Frankreichs. April-Juni und September-Oktober ideal: 20-25 Grad, alle Gaerten in voller Bluete (Serre de la Madone, Jardin Botanique). Juli-August warm aber nicht erdrueckend.",
+      "hu": "Februarban a hires citromfeszitval (Fête du Citron), az egyik legkivalobb Franciaorszagban. Aprilis-junius es szeptember-oktober ideal: 20-25 fok, kertek (Serre de la Madone, Jardin Botanique) viragzasban. Julius-augusztus meleg de nem fojto.",
+      "ro": "In februarie are loc faimosul festival al lamaii (Fête du Citron), unul din cele mai spectaculoase din Franta. Aprilie-iunie si septembrie-octombrie sunt ideale: 20-25 grade, gradini (Serre de la Madone, Jardin Botanique) inflorite. Iulie-august cald dar nu sufocant.",
+      "en": "February brings the famous Lemon Festival (Fête du Citron), one of France's most spectacular. April-June and September-October are ideal: 20-25°C, gardens (Serre de la Madone, Jardin Botanique) in full bloom. July-August is warm but not stifling."
+    },
+    "neighborhood_warnings": {
+      "de": "Waehrend des Zitronenfests im Februar Hotels Monate vorher ausgebucht. Parken in der Altstadt schwierig, am Bahnhof oder Park-and-Ride besser. Italienische Grenze nur 1 km, Tagesausflug nach Ventimiglia oder Markt am Freitag empfohlen.",
+      "hu": "A citromfeszitval idejen februarban a hotelek honapokkal elobb betelnek. Parkolas a ovarosban nehez, jobb az allomas vagy Park-and-Ride. Az olasz hatar 1 km, naponta atugorhatsz Ventimigliaba vagy a penteki piacra.",
+      "ro": "In timpul festivalului lamaii (februarie), hotelurile sunt rezervate cu luni inainte. Parcari in centrul vechi dificile, mai bine la gara sau Park-and-Ride. Granita italiana e la 1 km, o zi la Ventimiglia sau piata de vineri e recomandata.",
+      "en": "During the February Lemon Festival, hotels book up months ahead. Parking in the old town is tough — use the station or Park-and-Ride. The Italian border is just 1 km away — a day trip to Ventimiglia or the Friday market is well worth it."
+    },
+    "parking_real_time": ""
   }
 }

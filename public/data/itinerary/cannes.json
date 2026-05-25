@@ -1153,5 +1153,32 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "webcam": "https://en.cannes-france.com/practical-info/webcams/",
+    "tourism_office": "https://en.cannes-france.com/",
+    "events": "https://en.cannes-france.com/agenda/",
+    "city_card": "",
+    "museum_tickets": "https://en.cannes-france.com/tickets/",
+    "transit_official": "https://www.palmbus.fr/",
+    "language_tips": {
+      "de": "Cannes ist international wegen des Filmfestivals, Englisch wird überall verstanden, ebenso Italienisch und Russisch in den Luxushotels. Lernen Sie 'la Croisette' korrekt auszusprechen - das ist die berühmte Promenade. Beim Bestellen in den Strandrestaurants 's'il vous plaît' nicht vergessen, auch wenn die Karte englisch ist.",
+      "hu": "Cannes nemzetközi a filmfesztiválnak köszönhetően, az angolt mindenhol megértik, a luxushotelekben az olaszt és az oroszt is. Tanuld meg helyesen kiejteni a 'la Croisette' nevet - ez a híres promenád. A strandi éttermekben rendelésnél ne feledd a 's'il vous plaît'-t, akkor is, ha angol a menü.",
+      "ro": "Cannes este internațional datorită festivalului de film, engleza se înțelege peste tot, la fel italiana și rusa în hotelurile de lux. Învățați să pronunțați 'la Croisette' - este celebra promenadă. Când comandați în restaurantele de pe plajă, nu uitați 's'il vous plaît', chiar dacă meniul e în engleză.",
+      "en": "Cannes is international thanks to the film festival; English is understood everywhere, alongside Italian and Russian in luxury hotels. Learn to pronounce 'la Croisette' correctly - the famous promenade. When ordering at beach restaurants, don't forget 's'il vous plaît' even if menus are in English."
+    },
+    "best_time_to_visit": {
+      "de": "April, Mai, September und Oktober sind ideal: angenehmes Wetter, weniger Touristen und akzeptable Hotelpreise. Mai bringt das Filmfestival mit Glamour, aber auch Sperrzonen und überhöhte Preise. Juli und August sind extrem voll mit Yacht-Touristen. Im Winter ist Cannes ruhig und elegant.",
+      "hu": "Április, május, szeptember és október ideális: kellemes idő, kevés turista és elfogadható szállodaárak. Májusban a filmfesztivál csillogást hoz, de lezárt zónákat és magas árakat is. Július és augusztus extrém zsúfolt jachtos turistákkal. Télen Cannes csendes és elegáns.",
+      "ro": "Aprilie, mai, septembrie și octombrie sunt ideale: vreme plăcută, mai puțini turiști și prețuri acceptabile. Mai aduce festivalul de film cu glamour, dar și zone închise și prețuri mari. Iulie și august sunt extrem de aglomerate cu turiști de iaht. Iarna, Cannes este liniștit.",
+      "en": "April, May, September and October are ideal: pleasant weather, fewer crowds and reasonable hotel rates. May brings festival glamour but also closed zones and inflated prices. July and August are extremely packed with yacht crowds. Winter Cannes is quiet and elegant."
+    },
+    "neighborhood_warnings": {
+      "de": "Cannes ist meist sicher, doch der Bahnhofsbereich und das Viertel La Bocca nachts meiden. An der Croisette und im Festivalpalast Taschendiebe und Trickbetrüger, besonders während Großveranstaltungen.",
+      "hu": "Cannes többnyire biztonságos, de a pályaudvar környékét és La Bocca negyedet éjjel kerüld. A Croisette-en és a Festivalpalotánál zsebtolvajok és trükkös csalók várnak, főleg nagy események idején.",
+      "ro": "Cannes este în general sigur, dar evitați zona gării și cartierul La Bocca noaptea. Pe Croisette și la Palatul Festivalului sunt hoți de buzunare și escroci, mai ales în timpul evenimentelor mari.",
+      "en": "Cannes is mostly safe, but avoid the station area and La Bocca district at night. Watch for pickpockets and confidence scammers on the Croisette and around the Palais during major events."
+    },
+    "parking_real_time": ""
   }
 }
