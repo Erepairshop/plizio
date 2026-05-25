@@ -1,0 +1,886 @@
+{
+  "city_id": "capbreton",
+  "anchor": {
+    "name": "Capbreton Centre",
+    "coords": [
+      43.6431,
+      -1.4297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marché aux Poissons",
+          "coords": [
+            43.6551,
+            -1.4423
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie frischen Fisch direkt von den Booten.",
+            "hu": "Vegyél friss halat közvetlenül a halászhajókról.",
+            "ro": "Cumpărați pește proaspăt direct de pe bărci.",
+            "en": "Buy fresh fish directly from the fishing boats."
+          }
+        },
+        {
+          "name": "Maison de l'Oralité et du Patrimoine",
+          "coords": [
+            43.6395,
+            -1.4318
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Legenden des Gouf de Capbreton.",
+            "hu": "Fedezze fel a Capbreton-árok legendáit.",
+            "ro": "Descoperiți legendele canionului submarin Gouf.",
+            "en": "Discover the legends of the Gouf de Capbreton canyon."
+          }
+        },
+        {
+          "name": "Église Saint-Nicolas",
+          "coords": [
+            43.6388,
+            -1.4312
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Wandgemälde mit biblischen Fischszenen.",
+            "hu": "Csodálja meg a bibliai halászjeleneteket ábrázoló falfestményeket.",
+            "ro": "Admirați picturile murale cu scene biblice de pescuit.",
+            "en": "Admire the murals depicting biblical fishing scenes."
+          }
+        },
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            43.6512,
+            -1.4405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Jachten im einzigen Hafen der Landes.",
+            "hu": "Figyelje a jachtokat Landes megye egyetlen kikötőjében.",
+            "ro": "Observați iahturile în singurul port din regiunea Landes.",
+            "en": "Watch the yachts in the only port of the Landes department."
+          }
+        },
+        {
+          "name": "L'Estacade de Capbreton",
+          "coords": [
+            43.6542,
+            -1.4485
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang auf der 189 m langen Holzmole von Napoleon III.",
+            "hu": "Séta a III. Napóleon által építtetett 189 méteres fa mólón.",
+            "ro": "Plimbare pe digul de lemn de 189 m construit de Napoleon III.",
+            "en": "Walk on the 189m wooden pier built by Napoleon III."
+          }
+        },
+        {
+          "name": "Plage Notre-Dame",
+          "coords": [
+            43.6585,
+            -1.4462
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick zum Sonnenuntergang am Dünenrand.",
+            "hu": "Tökéletes naplementés piknikhely a dűnék szélén.",
+            "ro": "Perfect pentru un picnic la apus lângă dune.",
+            "en": "Perfect for a sunset picnic by the dunes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Fischmarkt, wo der Fang des Tages direkt am Kai verkauft wird. Ein authentisches Erlebnis, das die maritime Seele der Stadt zeigt.\n\nMittags erkunden Sie das historische Zentrum und die Kirche Saint-Nicolas mit ihren einzigartigen Votivgaben von Seeleuten, bevor Sie am Yachthafen einkehren.\n\nDer Nachmittag führt zur berühmten Estacade. Diese hölzerne Mole bietet einen weiten Blick über den Atlantik und den Eingang zum Unterwassercanyon.\n\nZum Abschluss genießen Sie die Ruhe am Strand Notre-Dame. Hier verbinden sich goldener Sand und der Duft der Pinienwälder bei untergehender Sonne.",
+        "hu": "A reggel a halpiacon kezdődik, ahol a napi fogást közvetlenül a rakparton árulják. Ez egy hiteles élmény, amely megmutatja a város tengeri lelkét.\n\nDélben felfedezzük a történelmi központot és a Szent Miklós-templomot a tengerészek fogadalmi ajándékaival, majd a jachtkikötőnél pihenünk meg.\n\nA délután a híres Estacade mólóhoz vezet. Ez a fa építmény pazar kilátást nyújt az Atlanti-óceánra és a víz alatti kanyon bejáratára.\n\nBefejezésül élvezze a nyugalmat a Notre-Dame strandon. Itt az aranyszínű homok és a fenyőerdő illata találkozik a lemenő nap fényében.",
+        "ro": "Dimineața începe la piața de pește, unde captura zilei este vândută direct pe chei. O experiență autentică ce dezvăluie sufletul maritim al orașului.\n\nLa prânz explorați centrul istoric și Biserica Sfântul Nicolae cu ofrandele marinarilor, înainte de a vă opri la portul de agrement pentru relaxare.\n\nDupă-amiaza vă duce la faimosul dig Estacade. Această structură de lemn oferă o vedere largă asupra Atlanticului și a intrării în canionul submarin.\n\nLa final, bucurați-vă de liniște pe Plaja Notre-Dame. Aici, nisipul auriu și mirosul pădurilor de pini se împletesc sub razele soarelui la apus.",
+        "en": "Morning starts at the fish market, where the daily catch is sold directly on the quay. An authentic experience showing the city's maritime soul.\n\nAt midday, explore the historic center and Saint-Nicolas Church with its unique sailor votive offerings, then rest at the marina.\n\nAfternoon leads to the famous Estacade pier. This wooden structure offers wide views over the Atlantic and the entrance to the underwater canyon.\n\nTo finish, enjoy the peace at Notre-Dame Beach. Here, golden sand and the scent of pine forests meet under the setting sun."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chipirons à la plancha",
+            "tip": "Gegrillter Tintenfisch, serviert in den Bistros am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chipirons à la plancha",
+            "tip": "Grillezett tintahal, a kikötői bisztrók specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chipirons à la plancha",
+            "tip": "Calamari la grătar, serviți în bistrourile din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chipirons à la plancha",
+            "tip": "Grilled squid, a specialty served in the harbor bistros."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Gouf Aussichtspunkt",
+            "tip": "Blick auf die Stelle, wo der Ozean plötzlich tief wird.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gouf kilátópont",
+            "tip": "Kilátás a helyre, ahol az óceán hirtelen mélyülni kezd.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de observație Gouf",
+            "tip": "Vedere spre locul unde oceanul devine brusc adânc.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gouf viewpoint",
+            "tip": "View over the spot where the ocean suddenly deepens.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vin de Sable",
+            "tip": "Einzigartiger Wein, der in den sandigen Dünen von Capbreton wächst."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vin de Sable",
+            "tip": "Egyedülálló bor, amelyet Capbreton homokdűnéin termesztenek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Sable",
+            "tip": "Vin unic cultivat în dunele de nisip din Capbreton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vin de Sable",
+            "tip": "Unique wine grown in the sandy dunes of Capbreton."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Fischmarkt schließt gegen 12 Uhr, kommen Sie früh.",
+          "Tragen Sie bequeme Schuhe für den langen Weg auf der Mole.",
+          "Die Estacade kann bei Flut und Wind nass werden.",
+          "Im Sommer ist das Stadtzentrum abends sehr belebt."
+        ],
+        "hu": [
+          "A halpiac déli 12 körül bezár, érkezzen korán.",
+          "Viseljen kényelmes cipőt a mólón való hosszú sétához.",
+          "Az Estacade móló dagálykor és szélben vizes lehet.",
+          "Nyáron a városközpont este nagyon forgalmas."
+        ],
+        "ro": [
+          "Piața de pește se închide în jur de ora 12, veniți devreme.",
+          "Purtați încălțăminte comodă pentru plimbarea lungă pe dig.",
+          "Digul Estacade poate deveni ud în timpul fluxului sau vântului.",
+          "Vara, centrul orașului este foarte animat seara."
+        ],
+        "en": [
+          "The fish market closes around noon, arrive early.",
+          "Wear comfortable shoes for the long walk on the pier.",
+          "The Estacade can get wet during high tide and wind.",
+          "In summer, the city center is very lively in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            43.6512,
+            -1.4405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Starten Sie auf den Radwegen entlang des Kanals.",
+            "hu": "Induljon a csatorna menti kerékpárutakon.",
+            "ro": "Începeți pe pistele de biciclete de-a lungul canalului.",
+            "en": "Start on the bike paths along the canal."
+          }
+        },
+        {
+          "name": "Plage des Océanides",
+          "coords": [
+            43.6455,
+            -1.4442
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wilder Strand, ideal für Surfer und Radfahrer.",
+            "hu": "Vadstrand, ideális szörfösöknek és kerékpárosoknak.",
+            "ro": "Plajă sălbatică, ideală pentru surferi și bicicliști.",
+            "en": "Wild beach, ideal for surfers and cyclists."
+          }
+        },
+        {
+          "name": "Le Gouf de Capbreton (Info Point)",
+          "coords": [
+            43.6545,
+            -1.4492
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die Geologie des 3500 m tiefen Canyons kennen.",
+            "hu": "Ismerje meg a 3500 méter mély kanyon geológiáját.",
+            "ro": "Aflați despre geologia canionului adânc de 3500 m.",
+            "en": "Learn about the geology of the 3500m deep canyon."
+          }
+        },
+        {
+          "name": "Marché aux Poissons",
+          "coords": [
+            43.6551,
+            -1.4423
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrradständer sind direkt am Hafeneingang vorhanden.",
+            "hu": "Kerékpártárolók közvetlenül a kikötő bejáratánál.",
+            "ro": "Rasteluri de biciclete direct la intrarea în port.",
+            "en": "Bike racks available directly at the harbor entrance."
+          }
+        },
+        {
+          "name": "Plage Notre-Dame",
+          "coords": [
+            43.6585,
+            -1.4462
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Radwege führen durch die kühlen Pinienwälder.",
+            "hu": "A kerékpárutak hűvös fenyőerdőkön vezetnek keresztül.",
+            "ro": "Pistele de biciclete trec prin păduri de pini răcoroase.",
+            "en": "The bike paths lead through cool pine forests."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie die gesamte Küste von Capbreton mühelos. Beginnen Sie am Hafen und folgen Sie den flachen Wegen.\n\nVormittags erreichen Sie die wildere Plage des Océanides, wo die Kraft des Atlantiks besonders spürbar ist.\n\nNach einer Fahrt entlang der Dünen erfahren Sie mehr über den Gouf, den riesigen Unterwassercanyon, der die Wellen hier so besonders macht.\n\nDer Tag endet im Schatten der Pinien bei der Plage Notre-Dame, wo die Radwege perfekt ausgebaut sind.",
+        "hu": "Kerékpárral könnyedén felfedezheti Capbreton egész tengerpartját. Kezdje a kikötőben, és kövesse a sík utakat.\n\nDélelőtt eléri a vadabb Plage des Océanides-t, ahol az Atlanti-óceán ereje különösen érezhető.\n\nA dűnék menti tekerés után többet tudhat meg a Gouf-ról, az óriási víz alatti kanyonról, amely különlegessé teszi itt a hullámokat.\n\nA nap a fenyők árnyékában zárul a Notre-Dame strandon, ahol a kerékpárutak kiválóan kiépítettek.",
+        "ro": "Cu bicicleta explorați fără efort întreaga coastă a Capbretonului. Începeți în port și urmați traseele plate.\n\nÎn cursul dimineții ajungeți la sălbatica Plajă des Océanides, unde forța Atlanticului este resimțită din plin.\n\nDupă o plimbare de-a lungul dunelor, aflați mai multe despre Gouf, uriașul canion submarin care face valurile de aici atât de speciale.\n\nZiua se încheie la umbra pinilor lângă Plaja Notre-Dame, unde pistele de biciclete sunt perfect amenajate.",
+        "en": "By bike, you can effortlessly explore the entire coast of Capbreton. Start at the harbor and follow the flat paths.\n\nIn the morning, you reach the wilder Plage des Océanides, where the power of the Atlantic is especially palpable.\n\nAfter a ride along the dunes, learn more about the Gouf, the giant underwater canyon that makes the waves here so unique.\n\nThe day ends in the shade of pines near Notre-Dame Beach, where the bike paths are perfectly developed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Taloa",
+            "tip": "Maisfladen aus dem Baskenland, oft an Strandbuden verkauft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Taloa",
+            "tip": "Baszk kukoricalángos, gyakran árusítják a strandbüfékben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Taloa",
+            "tip": "Plăcinte de porumb din Țara Bascilor, vândute adesea la tonetele de pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Taloa",
+            "tip": "Basque corn flatbread, often sold at beach stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt Landaise",
+            "tip": "Ruhige Radwege im Wald hinter den Dünen.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Landes-i erdő",
+            "tip": "Csendes kerékpárutak az erdőben a dűnék mögött.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Landaise",
+            "tip": "Piste de biciclete liniștite în pădurea din spatele dunelor.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Landaise Forest",
+            "tip": "Quiet bike paths in the forest behind the dunes.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Surf-Shops",
+            "tip": "Trendige Kleidung und Zubehör in den Läden nahe der Strände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szörfboltok",
+            "tip": "Trendi ruhák és felszerelések a strandok közeli boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de surf",
+            "tip": "Haine și accesorii trendy în magazinele de lângă plaje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Surf shops",
+            "tip": "Trendy clothing and gear in shops near the beaches."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Capbreton ist sehr flach, ideal für gemütliches Radfahren.",
+          "Schließen Sie Ihr Rad an den offiziellen Ständern ab.",
+          "Die Wege sind oft geteilt mit Fußgängern, Vorsicht.",
+          "Mieten Sie ein Rad für den ganzen Tag für maximale Freiheit."
+        ],
+        "hu": [
+          "Capbreton nagyon sík, ideális a kényelmes biciklizéshez.",
+          "Zárja le a biciklit a hivatalos tárolókhoz.",
+          "Az utak gyakran közösek a gyalogosokkal, legyen óvatos.",
+          "Béreljen biciklit egész napra a maximális szabadságért."
+        ],
+        "ro": [
+          "Capbreton este foarte plat, ideal pentru mersul lejer cu bicicleta.",
+          "Încuiați bicicleta la suporturile oficiale.",
+          "Traseele sunt adesea împărțite cu pietonii, fiți atenți.",
+          "Închiriați o bicicletă pentru întreaga zi pentru libertate maximă."
+        ],
+        "en": [
+          "Capbreton is very flat, ideal for easy cycling.",
+          "Lock your bike at the official racks.",
+          "Paths are often shared with pedestrians, be careful.",
+          "Rent a bike for the full day for maximum freedom."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20.0,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marché aux Poissons",
+          "coords": [
+            43.6551,
+            -1.4423
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze befinden sich oft etwas abseits des Hafens.",
+            "hu": "Ingyenes parkolók gyakran a kikötőtől kissé távolabb találhatók.",
+            "ro": "Parcări gratuite se găsesc adesea puțin mai departe de port.",
+            "en": "Free parking is often found a bit further from the harbor."
+          }
+        },
+        {
+          "name": "L'Estacade de Capbreton",
+          "coords": [
+            43.6542,
+            -1.4485
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt am Ende des Hafens.",
+            "hu": "A város jelképe a kikötő végén.",
+            "ro": "Simbolul orașului la capătul portului.",
+            "en": "The city's landmark at the end of the harbor."
+          }
+        },
+        {
+          "name": "Lac d'Hossegor (Nearby)",
+          "coords": [
+            43.6685,
+            -1.4325
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Salzwassersee, ideal für eine Pause.",
+            "hu": "Gyönyörű sós vizű tó, ideális egy pihenőre.",
+            "ro": "Lac superb cu apă sărată, ideal pentru o pauză.",
+            "en": "Beautiful saltwater lake, ideal for a break."
+          }
+        },
+        {
+          "name": "Maison de l'Oralité et du Patrimoine",
+          "coords": [
+            43.6395,
+            -1.4318
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum nahe der Kirche.",
+            "hu": "Parkoljon a városközpontban a templom közelében.",
+            "ro": "Parcați în centrul orașului lângă biserică.",
+            "en": "Park in the city center near the church."
+          }
+        },
+        {
+          "name": "Plage des Océanides",
+          "coords": [
+            43.6455,
+            -1.4442
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt hinter der Düne.",
+            "hu": "Nagy parkoló közvetlenül a dűne mögött.",
+            "ro": "Parcare mare chiar în spatele dunei.",
+            "en": "Large parking lot right behind the dune."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die umliegenden Highlights wie den See von Hossegor schnell. Starten Sie früh am Fischmarkt von Capbreton.\n\nNach einem Besuch der Seebrücke fahren Sie zum Lac d'Hossegor, um die baskisch-ländischen Villen und die ruhigen Gewässer zu bewundern.\n\nAm Nachmittag tauchen Sie im Stadtzentrum in die Geschichte der Fischer ein, bevor Sie den Tag am weiten Strand Océanides ausklingen lassen.\n\nDie kurzen Wege machen diesen Tag entspannt und abwechslungsreich.",
+        "hu": "Autóval gyorsan elérheti a környék nevezetességeit is, mint például a Hossegor-tavat. Kezdjen korán a capbretoni halpiacon.\n\nA móló meglátogatása után hajtson a Hossegor-tóhoz, hogy megcsodálja a baszk-landes-i villákat és a nyugodt vizet.\n\nDélután a városközpontban merüljön el a halászok történelmében, majd zárja a napot a tágas Océanides strandon.\n\nA rövid távolságok pihentetővé és változatossá teszik ezt a napot.",
+        "ro": "Cu mașina ajungeți rapid și la punctele de atracție din jur, precum lacul Hossegor. Începeți devreme la piața de pește din Capbreton.\n\nDupă o vizită la dig, conduceți spre Lac d'Hossegor pentru a admira vilele basco-landeze și apele liniștite.\n\nDupă-amiaza pătrundeți în istoria pescarilor în centrul orașului, înainte de a încheia ziua pe vasta plajă Océanides.\n\nDistanțele scurte fac ca această zi să fie relaxantă și diversificată.",
+        "en": "By car, you can quickly reach surrounding highlights like Lake Hossegor. Start early at the Capbreton fish market.\n\nAfter visiting the pier, drive to Lac d'Hossegor to admire the Basque-Landaise villas and the calm waters.\n\nIn the afternoon, dive into the history of fishermen in the city center before ending the day at the wide Océanides beach.\n\nThe short distances make this day relaxed and varied."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Huîtres du Lac",
+            "tip": "Frische Austern direkt am See von Hossegor probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huîtres du Lac",
+            "tip": "Kóstoljon friss osztrigát közvetlenül a Hossegor-tónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Huîtres du Lac",
+            "tip": "Gustați stridii proaspete chiar lângă lacul Hossegor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huîtres du Lac",
+            "tip": "Try fresh oysters directly at Lake Hossegor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bord du Lac",
+            "tip": "Ruhiger Spaziergang um den See von Hossegor.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tópart",
+            "tip": "Csendes séta a Hossegor-tó körül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul lacului",
+            "tip": "Plimbare liniștită în jurul lacului Hossegor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeside",
+            "tip": "Quiet walk around Lake Hossegor.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quiksilver Outlet",
+            "tip": "Große Auswahl an Surfmarken in der Zone Pedebert (Soorts-Hossegor)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quiksilver Outlet",
+            "tip": "Nagy választék szörfmárkákból a Pedebert zónában (Soorts-Hossegor)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quiksilver Outlet",
+            "tip": "Selecție mare de mărci de surf în zona Pedebert (Soorts-Hossegor)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiksilver Outlet",
+            "tip": "Large selection of surf brands in the Pedebert zone (Soorts-Hossegor)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Strand ist im Sommer kostenpflichtig.",
+          "Die Verbindung nach Hossegor ist nur wenige Minuten Fahrt.",
+          "Vermeiden Sie die Stoßzeiten am späten Nachmittag.",
+          "Nutzen Sie die Parkplätze am Hafen für den Fischmarkt."
+        ],
+        "hu": [
+          "A strandnál a parkolás nyáron fizetős.",
+          "Hossegor mindössze néhány perc autóút.",
+          "Kerülje a késő délutáni csúcsforgalmat.",
+          "Használja a kikötői parkolókat a halpiachoz."
+        ],
+        "ro": [
+          "Parcarea la plajă este cu plată în timpul verii.",
+          "Legătura cu Hossegor este la doar câteva minute de mers cu mașina.",
+          "Evitați orele de vârf de după-amiază târziu.",
+          "Folosiți parcările din port pentru piața de pește."
+        ],
+        "en": [
+          "Parking at the beach is paid during summer.",
+          "The connection to Hossegor is just a few minutes' drive.",
+          "Avoid late afternoon rush hours.",
+          "Use the harbor parking lots for the fish market."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Marché aux Poissons",
+          "coords": [
+            43.6551,
+            -1.4423
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Haltestelle ist nur wenige Gehminuten vom Kai entfernt.",
+            "hu": "A megálló csak néhány perc sétára van a rakparttól.",
+            "ro": "Stația este la doar câteva minute de mers pe jos de chei.",
+            "en": "The stop is just a few minutes' walk from the quay."
+          }
+        },
+        {
+          "name": "L'Estacade de Capbreton",
+          "coords": [
+            43.6542,
+            -1.4485
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Hafenbecken aus leicht zu Fuß erreichbar.",
+            "hu": "A kikötőmedencétől könnyen elérhető gyalog.",
+            "ro": "Accesibil ușor pe jos din bazinul portului.",
+            "en": "Easily reachable on foot from the harbor basin."
+          }
+        },
+        {
+          "name": "Maison de l'Oralité et du Patrimoine",
+          "coords": [
+            43.6395,
+            -1.4318
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Pendelbus 'Yégo' zwischen Hafen und Zentrum.",
+            "hu": "Használja a 'Yégo' buszjáratot a kikötő és a központ között.",
+            "ro": "Folosiți autobuzul 'Yégo' între port și centru.",
+            "en": "Use the 'Yégo' shuttle bus between the harbor and the center."
+          }
+        },
+        {
+          "name": "Église Saint-Nicolas",
+          "coords": [
+            43.6388,
+            -1.4312
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Befindet sich direkt im historischen Zentrum.",
+            "hu": "Közvetlenül a történelmi központban található.",
+            "ro": "Situată direct în centrul istoric.",
+            "en": "Located directly in the historic center."
+          }
+        },
+        {
+          "name": "Plage Notre-Dame",
+          "coords": [
+            43.6585,
+            -1.4462
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der Strandbus fährt im Sommer regelmäßig.",
+            "hu": "A strandbusz nyáron rendszeresen közlekedik.",
+            "ro": "Autobuzul pentru plajă circulă regulat vara.",
+            "en": "The beach bus runs regularly in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des Yégo-Netzes können Sie Capbreton auch ohne Auto erkunden. Der Vormittag ist dem maritimen Leben am Hafen gewidmet.\n\nNach dem Fischmarkt und der Estacade bringt Sie der Bus ins alte Zentrum, wo Geschichte und Tradition lebendig sind.\n\nBesuchen Sie die Kirche Saint-Nicolas, bevor Sie am Nachmittag zu den Stränden fahren.\n\nDer kostenlose Strandbus im Sommer macht den Weg zur Plage Notre-Dame unkompliziert und umweltfreundlich.",
+        "hu": "A Yégo hálózatnak köszönhetően autó nélkül is felfedezheti Capbretont. A délelőtt a kikötői tengeri életnek szentelt.\n\nA halpiac és az Estacade után a busz a régi központba viszi, ahol a történelem és a hagyományok életre kelnek.\n\nLátogasson el a Szent Miklós-templomba, mielőtt délután a strandok felé veszi az irányt.\n\nA nyári ingyenes strandbusz egyszerűvé és környezetbaráttá teszi az utat a Notre-Dame strandhoz.",
+        "ro": "Datorită rețelei Yégo, puteți explora Capbreton și fără mașină. Dimineața este dedicată vieții maritime din port.\n\nDupă piața de pește și digul Estacade, autobuzul vă duce în centrul vechi, unde istoria și tradiția prind viață.\n\nVizitați Biserica Sfântul Nicolae înainte de a pleca spre plaje după-amiaza.\n\nAutobuzul gratuit pentru plajă din timpul verii face drumul către Plaja Notre-Dame simplu și ecologic.",
+        "en": "Thanks to the Yégo network, you can explore Capbreton without a car. The morning is dedicated to maritime life at the harbor.\n\nAfter the fish market and the Estacade, the bus takes you to the old center, where history and tradition are alive.\n\nVisit Saint-Nicolas Church before heading to the beaches in the afternoon.\n\nThe free beach bus in summer makes the trip to Notre-Dame Beach simple and eco-friendly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastis Landais",
+            "tip": "Süßer Hefekuchen mit Anis und Vanille aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastis Landais",
+            "tip": "Édes kelt tészta ánizzsal és vaníliával, helyi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastis Landais",
+            "tip": "Cozonac dulce cu anason și vanilie din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastis Landais",
+            "tip": "Sweet yeast cake with anise and vanilla from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la MOP",
+            "tip": "Kleiner Garten hinter dem Heimatmuseum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "MOP kert",
+            "tip": "Kis kert a helytörténeti múzeum mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina MOP",
+            "tip": "O mică grădină în spatele muzeului de istorie locală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "MOP Garden",
+            "tip": "Small garden behind the local history museum.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Tradition",
+            "tip": "Kaufen Sie lokales Gebäck im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos pékség",
+            "tip": "Vásároljon helyi süteményeket a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie tradițională",
+            "tip": "Cumpărați produse de patiserie locale în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional bakery",
+            "tip": "Buy local pastries in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Im Sommer sind die Strandbusse (Navettes) kostenlos.",
+          "Prüfen Sie den Fahrplan der Linie 1 für das Stadtzentrum.",
+          "Entwerten Sie Ihr Ticket beim Einstieg.",
+          "Die Haltestellen sind gut markiert."
+        ],
+        "hu": [
+          "Nyáron a strandbuszok (Navettes) ingyenesek.",
+          "Ellenőrizze az 1-es vonal menetrendjét a városközponthoz.",
+          "Érvényesítse jegyét felszálláskor.",
+          "A megállók jól kitáblázottak."
+        ],
+        "ro": [
+          "Vara, autobuzele pentru plajă (Navettes) sunt gratuite.",
+          "Verificați orarul liniei 1 pentru centrul orașului.",
+          "Validați biletul la urcare.",
+          "Stațiile sunt bine marcate."
+        ],
+        "en": [
+          "In summer, the beach shuttles (Navettes) are free.",
+          "Check the Line 1 schedule for the city center.",
+          "Validate your ticket when boarding.",
+          "Stops are well marked."
+        ]
+      }
+    }
+  }
+}

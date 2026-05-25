@@ -1,0 +1,1062 @@
+{
+  "city_id": "meribel",
+  "anchor": {
+    "name": "Méribel Centre",
+    "coords": [
+      6.5683,
+      45.4014
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Parc Olympique",
+          "coords": [
+            6.5665,
+            45.3985
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Eislaufbahn aus dem Jahr 1992.",
+            "hu": "Nézd meg az 1992-es téli olimpia jégpályáját.",
+            "ro": "Vizitați patinoarul construit pentru olimpiada din 1992.",
+            "en": "Visit the ice rink built for the 1992 Olympics."
+          }
+        },
+        {
+          "name": "Chapelle Notre-Dame-des-Neiges",
+          "coords": [
+            6.5712,
+            45.3942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Eine moderne Kapelle mit warmem Holzinterieur.",
+            "hu": "Modern kápolna meleg fa belsővel.",
+            "ro": "O capelă modernă cu un interior cald din lemn.",
+            "en": "A modern chapel with a warm wooden interior."
+          }
+        },
+        {
+          "name": "Lac de Tuéda",
+          "coords": [
+            6.5815,
+            45.3725
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick am kristallklaren Wasser.",
+            "hu": "Tökéletes hely egy piknikhez a kristálytiszta víznél.",
+            "ro": "Perfect pentru un picnic lângă apa cristalină.",
+            "en": "Perfect for a picnic by the crystal clear water."
+          }
+        },
+        {
+          "name": "Réserve du Plan de Tuéda",
+          "coords": [
+            6.5835,
+            45.3705
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die geschützten Zirbelkiefern.",
+            "hu": "Figyeld a védett havasi cincéreket és fenyőket.",
+            "ro": "Observați pinii cembru protejați din rezervație.",
+            "en": "Look out for the protected stone pines in the reserve."
+          }
+        },
+        {
+          "name": "Méribel Village Gastro",
+          "coords": [
+            6.5685,
+            45.401
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie lokalen Beaufort-Käse.",
+            "hu": "Kóstold meg a helyi Beaufort sajtot.",
+            "ro": "Gustați brânza locală Beaufort.",
+            "en": "Try some local Beaufort cheese."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Parc Olympique, dem Herzen der sportlichen Geschichte von Méribel. Ein gemütlicher Spaziergang führt Sie zur modernen Kapelle Notre-Dame-des-Neiges, bevor Sie in die alpine Natur eintauchen. Am Lac de Tuéda genießen Sie die frische Bergluft und das Panorama. Der Nachmittag gehört der Erkundung des Naturschutzgebietes, gefolgt von einem herzhaften savoyischen Abendessen im Zentrum.",
+        "hu": "Kezdje a napot az Olimpiai Parkban, Méribel sporttörténeti központjában. Egy kellemes séta elvezeti a modern Notre-Dame-des-Neiges kápolnához, mielőtt elmerülne az alpesi természetben. A Tuéda-tónál élvezze a friss hegyi levegőt és a panorámát. A délután a természetvédelmi terület felfedezéséé, majd a napot egy kiadós savoyai vacsorával zárjuk a központban.",
+        "ro": "Începeți ziua la Parcul Olimpic, inima istoriei sportive din Méribel. O plimbare relaxantă vă duce la capela modernă Notre-Dame-des-Neiges înainte de a intra în natura alpină. La Lac de Tuéda, bucurați-vă de aerul proaspăt de munte și de panoramă. După-amiaza este dedicată explorării rezervației naturale, urmată de o cină savoyardă copioasă în centru.",
+        "en": "Start your day at the Olympic Park, the heart of Méribel's sporting history. A pleasant walk takes you to the modern Notre-Dame-des-Neiges chapel before diving into Alpine nature. At Lac de Tuéda, enjoy the fresh mountain air and the panorama. The afternoon is dedicated to exploring the nature reserve, followed by a hearty Savoyard dinner in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Clos Bernard",
+            "tip": "Rustikale Hütte mit traditioneller Holzfeuerküche."
+          },
+          {
+            "name": "La Fromagerie",
+            "tip": "Der beste Ort für Fondue und Raclette im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Clos Bernard",
+            "tip": "Rusztikus hütte hagyományos fatüzelésű konyhával."
+          },
+          {
+            "name": "La Fromagerie",
+            "tip": "A legjobb hely fonduhoz és rakletthez a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Clos Bernard",
+            "tip": "Cabană rustică cu bucătărie tradițională la foc de lemne."
+          },
+          {
+            "name": "La Fromagerie",
+            "tip": "Cel mai bun loc pentru fondue și raclette în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Clos Bernard",
+            "tip": "Rustic hut with traditional wood-fired cooking."
+          },
+          {
+            "name": "La Fromagerie",
+            "tip": "The best place for fondue and raclette in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de Tuéda Ufer",
+            "tip": "Ruhiger Platz am Wasser für Meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Altiport Waldweg",
+            "tip": "Einsamer Pfad durch duftende Nadelwälder.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac de Tuéda part",
+            "tip": "Csendes vízparti hely meditációhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Altiport erdei út",
+            "tip": "Magányos ösvény illatos fenyőerdőkön át.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lac de Tuéda",
+            "tip": "Loc liniștit lângă apă pentru meditație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Drumul forestier Altiport",
+            "tip": "Potecă izolată prin păduri de conifere parfumate.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac de Tuéda Shore",
+            "tip": "Quiet spot by the water for meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Altiport Forest Path",
+            "tip": "Lonely path through fragrant pine forests.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Méribel Market",
+            "tip": "Lokale Produkte und Kunsthandwerk (Dienstag/Freitag)."
+          },
+          {
+            "name": "Sport 2000 Front de Neige",
+            "tip": "Hochwertige Bergausrüstung und Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méribel Piac",
+            "tip": "Helyi termékek és kézműves áruk (kedd/péntek)."
+          },
+          {
+            "name": "Sport 2000 Front de Neige",
+            "tip": "Minőségi hegyi felszerelés és divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Méribel",
+            "tip": "Produse locale și artizanat (marți/vineri)."
+          },
+          {
+            "name": "Sport 2000 Front de Neige",
+            "tip": "Echipament montan de înaltă calitate și modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Méribel Market",
+            "tip": "Local produce and crafts (Tuesday/Friday)."
+          },
+          {
+            "name": "Sport 2000 Front de Neige",
+            "tip": "High-quality mountain gear and fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Wege steinig sein können.",
+          "Nutzen Sie die kostenlosen Meribus-Shuttles für steile Abschnitte.",
+          "Die Sonne ist in den Bergen stark, vergessen Sie den Sonnenschutz nicht.",
+          "Reservieren Sie Restaurants für das Abendessen im Voraus.",
+          "Besuchen Sie das Maison de la Réserve am See für Naturinfos."
+        ],
+        "hu": [
+          "Viselj kényelmes túrabakancsot, mert az utak kövesek lehetnek.",
+          "Használd az ingyenes Meribus járatokat a meredek szakaszokon.",
+          "A hegyekben erős a nap, ne felejtsd el a fényvédőt.",
+          "Foglald le előre az éttermeket a vacsorához.",
+          "Látogass el a Maison de la Réserve-be a tónál természetismereti infókért."
+        ],
+        "ro": [
+          "Purtați bocanci de munte confortabili, deoarece potecile pot fi pietroase.",
+          "Folosiți navetele gratuite Meribus pentru secțiunile abrupte.",
+          "Soarele este puternic la munte, nu uitați protecția solară.",
+          "Rezervați restaurantele pentru cină în avans.",
+          "Vizitați Maison de la Réserve de lângă lac pentru informații despre natură."
+        ],
+        "en": [
+          "Wear comfortable hiking boots as the paths can be stony.",
+          "Use the free Meribus shuttles for steep sections.",
+          "The sun is strong in the mountains, don't forget sun protection.",
+          "Book restaurants for dinner in advance.",
+          "Visit the Maison de la Réserve by the lake for nature information."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Col de la Loze",
+          "coords": [
+            6.6005,
+            45.4125
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine legendäre Etappe der Tour de France.",
+            "hu": "A Tour de France egyik legendás szakasza.",
+            "ro": "O etapă legendară a Turului Franței.",
+            "en": "A legendary stage of the Tour de France."
+          }
+        },
+        {
+          "name": "Altiport Méribel",
+          "coords": [
+            6.5925,
+            45.4055
+          ],
+          "category": "industry",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Sehen Sie kleinen Flugzeugen beim Starten in den Alpen zu.",
+            "hu": "Nézd meg a kisrepülőket felszállni az Alpokban.",
+            "ro": "Urmăriți avioanele mici decolând în Alpi.",
+            "en": "Watch small planes take off in the Alps."
+          }
+        },
+        {
+          "name": "Lac de Tuéda",
+          "coords": [
+            6.5815,
+            45.3725
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Rundweg um den See ist auch mit dem Rad befahrbar.",
+            "hu": "A tó körüli út kerékpárral is járható.",
+            "ro": "Drumul din jurul lacului este practicabil și cu bicicleta.",
+            "en": "The path around the lake is also accessible by bike."
+          }
+        },
+        {
+          "name": "Musée de Méribel (Les Allues)",
+          "coords": [
+            6.5565,
+            45.4315
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über das ursprüngliche Dorfleben.",
+            "hu": "Tudj meg mindent az eredeti falusi életről.",
+            "ro": "Aflați totul despre viața originală din sat.",
+            "en": "Learn all about the original village life."
+          }
+        },
+        {
+          "name": "Église Saint-Odon",
+          "coords": [
+            6.5575,
+            45.4305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Barocke Kirche im traditionellen Les Allues.",
+            "hu": "Barokk templom a hagyományos Les Allues-ben.",
+            "ro": "Biserică barocă în tradiționalul Les Allues.",
+            "en": "Baroque church in traditional Les Allues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour verbindet sportliche Herausforderung mit Kultur. Der Aufstieg zum Col de la Loze bietet atemberaubende Ausblicke. Nach einer rasanten Abfahrt passieren Sie den Altiport und erreichen das idyllische Mottaret am See. Der Weg führt schließlich bergab ins Tal nach Les Allues, wo Sie im Museum und in der alten Kirche tief in die Geschichte der Region eintauchen.",
+        "hu": "Ez a kerékpártúra a sportos kihívást ötvözi a kultúrával. A Col de la Loze hágóra való felkapaszkodás lélegzetelállító kilátást nyújt. Egy gyors lejtmenet után elhalad az Altiport mellett, és eléri az idilli Mottaret-t a tónál. Az út végül lefelé vezet a völgybe Les Allues-be, ahol a múzeumban és a régi templomban elmerülhet a régió történelmében.",
+        "ro": "Acest tur cu bicicleta combină provocarea sportivă cu cultura. Urcarea spre Col de la Loze oferă priveliști uluitoare. După o coborâre rapidă, treceți pe lângă Altiport și ajungeți la idilicul Mottaret de lângă lac. Drumul duce în cele din urmă la vale, în Les Allues, unde vă puteți cufunda în istoria regiunii la muzeu și în vechea biserică.",
+        "en": "This bike tour combines sporting challenge with culture. The climb to Col de la Loze offers breathtaking views. After a fast descent, you pass the Altiport and reach idyllic Mottaret by the lake. The path finally leads downhill into the valley to Les Allues, where you can immerse yourself in the region's history at the museum and the old church."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Adray Télébar",
+            "tip": "Perfekter Stopp für eine heiße Schokolade auf der Terrasse."
+          },
+          {
+            "name": "La Tsaretta",
+            "tip": "Hervorragende Pizza und Pub-Atmosphäre in Les Allues."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adray Télébar",
+            "tip": "Tökéletes megálló egy forró csokihoz a teraszon."
+          },
+          {
+            "name": "La Tsaretta",
+            "tip": "Kiváló pizza és pub hangulat Les Allues-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Adray Télébar",
+            "tip": "Oprire perfectă pentru o ciocolată caldă pe terasă."
+          },
+          {
+            "name": "La Tsaretta",
+            "tip": "Pizza excelentă și atmosferă de pub în Les Allues."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adray Télébar",
+            "tip": "Perfect stop for a hot chocolate on the terrace."
+          },
+          {
+            "name": "La Tsaretta",
+            "tip": "Excellent pizza and pub atmosphere in Les Allues."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel Col de la Loze",
+            "tip": "Früh am Morgen ist es hier oben absolut still.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege bei Les Allues",
+            "tip": "Verschlungene Pfade abseits der Lifte.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Col de la Loze csúcs",
+            "tip": "Kora reggel abszolút csend van itt fent.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei utak Les Allues mellett",
+            "tip": "Kanyargós ösvények távol a felvonóktól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Col de la Loze",
+            "tip": "Dimineața devreme este o liniște absolută aici sus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci forestiere lângă Les Allues",
+            "tip": "Căi șerpuite departe de teleschiuri.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Col de la Loze Summit",
+            "tip": "Early morning is absolutely silent up here.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest paths near Les Allues",
+            "tip": "Winding paths away from the lifts.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Eskiador",
+            "tip": "Spezialisierter Radverleih und Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eskiador",
+            "tip": "Specializált kerékpárkölcsönző és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eskiador",
+            "tip": "Centru specializat de închirieri biciclete și accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Eskiador",
+            "tip": "Specialized bike rental and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die steilen Anstiege zum Col de la Loze.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Les Allues.",
+          "Fahren Sie immer mit Helm und nehmen Sie ausreichend Wasser mit.",
+          "Die Bergwege werden oft mit Wanderern geteilt, bitte Vorsicht.",
+          "Einige Gondeln transportieren im Sommer auch Fahrräder."
+        ],
+        "hu": [
+          "Bérelj e-bike-ot a meredek emelkedőkhöz a Col de la Loze felé.",
+          "Ellenőrizd a fékeidet a Les Allues felé tartó lejtő előtt.",
+          "Mindig viselj sisakot és vigyél magaddal elég vizet.",
+          "A hegyi utakon sok a túrázó, légy körültekintő.",
+          "Néhány felvonó nyáron kerékpárokat is szállít."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru urcările abrupte spre Col de la Loze.",
+          "Verificați frânele înainte de coborârea spre Les Allues.",
+          "Purtați întotdeauna cască și luați suficientă apă cu voi.",
+          "Potecile montane sunt adesea împărțite cu drumeții, vă rugăm fiți prudenți.",
+          "Unele telegondole transportă și biciclete în timpul verii."
+        ],
+        "en": [
+          "Rent an e-bike for the steep climbs to Col de la Loze.",
+          "Check your brakes before the descent to Les Allues.",
+          "Always wear a helmet and take enough water with you.",
+          "Mountain paths are often shared with hikers, please be careful.",
+          "Some gondolas also transport bicycles in the summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 32.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Musée de Méribel",
+          "coords": [
+            6.5565,
+            45.4315
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze direkt beim Museum im Dorf.",
+            "hu": "Ingyenes parkolás közvetlenül a faluban a múzeumnál.",
+            "ro": "Parcare gratuită direct la muzeul din sat.",
+            "en": "Free parking directly at the museum in the village."
+          }
+        },
+        {
+          "name": "Église Saint-Odon",
+          "coords": [
+            6.5575,
+            45.4305
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Altarbilder.",
+            "hu": "Csodáld meg a barokk oltárképeket.",
+            "ro": "Admirați altarele baroce.",
+            "en": "Admire the baroque altarpieces."
+          }
+        },
+        {
+          "name": "Mont Vallon (Gondelstation)",
+          "coords": [
+            6.5855,
+            45.3625
+          ],
+          "category": "natural features",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Gondel auf 2950m für das beste Panorama.",
+            "hu": "Menj fel a felvonóval 2950m-re a legjobb panorámáért.",
+            "ro": "Urcați cu telegondola la 2950m pentru cea mai bună panoramă.",
+            "en": "Take the gondola to 2950m for the best panorama."
+          }
+        },
+        {
+          "name": "Lac de Tuéda",
+          "coords": [
+            6.5815,
+            45.3725
+          ],
+          "category": "natural features",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe des Seezugangs.",
+            "hu": "Nagy parkoló a tó bejáratának közelében.",
+            "ro": "Parcare mare în apropierea accesului la lac.",
+            "en": "Large parking lot near the lake access."
+          }
+        },
+        {
+          "name": "Méribel Centre Shopping",
+          "coords": [
+            6.5683,
+            45.4014
+          ],
+          "category": "shopping",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Zentrale Tiefgarage nutzen, um Stress zu vermeiden.",
+            "hu": "Használd a központi mélygarázst a stressz elkerülésére.",
+            "ro": "Folosiți parcarea subterană centrală pentru a evita stresul.",
+            "en": "Use the central underground parking to avoid stress."
+          }
+        },
+        {
+          "name": "Sunset am Altiport",
+          "coords": [
+            6.5925,
+            45.4055
+          ],
+          "category": "natural features",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Sonnenuntergang über dem Tal.",
+            "hu": "Gyönyörű naplemente a völgy felett.",
+            "ro": "Apus de soare minunat peste vale.",
+            "en": "Beautiful sunset over the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die gesamte Vielfalt des Tals mit dem Auto. Wir beginnen im Tal bei den historischen Stätten von Les Allues. Danach führt die Fahrt steil hinauf nach Mottaret, von wo aus Sie den Mont Vallon erklimmen. Nach einem entspannten Halt am Lac de Tuéda kehren wir ins pulsierende Méribel Centre zurück, um die Boutiquen zu erkunden, und schließen den Tag mit einem Panorama am Altiport ab.",
+        "hu": "Fedezze fel a völgy teljes sokszínűségét autóval. A völgyben kezdünk Les Allues történelmi helyszíneinél. Ezután az út meredeken vezet fel Mottaret-be, ahonnan megmásszuk a Mont Vallon-t (felvonóval). Egy pihentető megálló után a Tuéda-tónál visszatérünk a vibráló Méribel központjába a butikok felfedezésére, a napot pedig az Altiport panorámájával zárjuk.",
+        "ro": "Descoperiți întreaga diversitate a văii cu mașina. Începem în vale la siturile istorice din Les Allues. Apoi drumul urcă abrupt spre Mottaret, de unde veți urca pe Mont Vallon. După o oprire relaxantă la Lac de Tuéda, ne întoarcem în centrul vibrant Méribel pentru a explora buticurile și încheiem ziua cu o panoramă la Altiport.",
+        "en": "Discover the entire diversity of the valley by car. We start in the valley at the historical sites of Les Allues. Then the drive leads steeply up to Mottaret, from where you will climb Mont Vallon. After a relaxed stop at Lac de Tuéda, we return to the vibrant Méribel Centre to explore the boutiques, and close the day with a panorama at the Altiport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Allis",
+            "tip": "Moderne Küche mit regionalem Touch im Zentrum."
+          },
+          {
+            "name": "Le Blanchot",
+            "tip": "Direkt am Altiport, ideal für ein feines Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Allis",
+            "tip": "Modern konyha regionális beütéssel a központban."
+          },
+          {
+            "name": "Le Blanchot",
+            "tip": "Közvetlenül az Altiportnál, ideális egy elegáns ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Allis",
+            "tip": "Bucătărie modernă cu o notă regională în centru."
+          },
+          {
+            "name": "Le Blanchot",
+            "tip": "Direct la Altiport, ideal pentru un prânz rafinat."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Allis",
+            "tip": "Modern cuisine with a regional touch in the center."
+          },
+          {
+            "name": "Le Blanchot",
+            "tip": "Right at the Altiport, ideal for a fine lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mont Vallon Gipfel",
+            "tip": "Über den Wolken auf fast 3000 Metern.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Parkplatz Les Allues",
+            "tip": "Startpunkt für ruhige Dorfspaziergänge.",
+            "emoji": "🏘️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mont Vallon csúcs",
+            "tip": "A felhők felett, majdnem 3000 méteren.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Les Allues parkoló",
+            "tip": "Kiindulópont csendes falusi sétákhoz.",
+            "emoji": "🏘️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Mont Vallon",
+            "tip": "Deasupra norilor la aproape 3000 de metri.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Parcarea Les Allues",
+            "tip": "Punct de plecare pentru plimbări liniștite prin sat.",
+            "emoji": "🏘️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mont Vallon Summit",
+            "tip": "Above the clouds at almost 3000 meters.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Les Allues Parking",
+            "tip": "Starting point for quiet village walks.",
+            "emoji": "🏘️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Grenier de Méribel",
+            "tip": "Wunderschöne savoyische Deko und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Grenier de Méribel",
+            "tip": "Gyönyörű savoyai dekorációk és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Grenier de Méribel",
+            "tip": "Frumoase decorațiuni savoyarde și cadouri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Grenier de Méribel",
+            "tip": "Beautiful Savoyard decor and gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind kurvig, fahren Sie vorsichtig.",
+          "Im Sommer sind Parkplätze im Zentrum oft kostenpflichtig.",
+          "Ein Allradantrieb ist im Sommer nicht nötig, aber gute Bremsen.",
+          "Tanken Sie im Tal (Moûtiers), oben ist es deutlich teurer.",
+          "Achten Sie auf Wanderer und Radfahrer an den Straßenrändern."
+        ],
+        "hu": [
+          "Az utak kanyargósak, vezess óvatosan.",
+          "Nyáron a központi parkolók gyakran fizetősek.",
+          "Összkerékhajtás nyáron nem szükséges, de jó fékek igen.",
+          "Tankolj lent a völgyben (Moûtiers), fent sokkal drágább.",
+          "Figyelj az út menti túrázókra és kerékpárosokra."
+        ],
+        "ro": [
+          "Drumurile sunt virajate, conduceți cu atenție.",
+          "Vara, parcările din centru sunt adesea cu plată.",
+          "Tracțiunea integrală nu este necesară vara, dar frânele bune da.",
+          "Alimentați în vale (Moûtiers), sus este mult mai scump.",
+          "Atenție la drumeții și bicicliștii de pe marginea drumului."
+        ],
+        "en": [
+          "The roads are winding, drive carefully.",
+          "In summer, central parking lots are often paid.",
+          "All-wheel drive is not necessary in summer, but good brakes are.",
+          "Refuel in the valley (Moûtiers), it's much more expensive up top.",
+          "Watch out for hikers and cyclists on the road edges."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Méribel Centre (Busbahnhof)",
+          "coords": [
+            6.5683,
+            45.4014
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle kostenlosen Buslinien.",
+            "hu": "Központi csomópont minden ingyenes buszjáratnak.",
+            "ro": "Nod central pentru toate liniile de autobuz gratuite.",
+            "en": "Central hub for all free bus lines."
+          }
+        },
+        {
+          "name": "Parc Olympique",
+          "coords": [
+            6.5665,
+            45.3985
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Haltestelle 'La Chaudanne' ist direkt davor.",
+            "hu": "A 'La Chaudanne' megálló közvetlenül előtte van.",
+            "ro": "Stația 'La Chaudanne' este chiar în față.",
+            "en": "Stop 'La Chaudanne' is right in front."
+          }
+        },
+        {
+          "name": "Lac de Tuéda (Mottaret)",
+          "coords": [
+            6.5815,
+            45.3725
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Linie C bringt Sie direkt nach Mottaret.",
+            "hu": "A C vonal közvetlenül Mottaret-be visz.",
+            "ro": "Linia C vă duce direct la Mottaret.",
+            "en": "Line C takes you directly to Mottaret."
+          }
+        },
+        {
+          "name": "Musée de Méribel (Les Allues)",
+          "coords": [
+            6.5565,
+            45.4315
+          ],
+          "category": "museums",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus bergab nach Les Allues.",
+            "hu": "Szállj buszra lefelé Les Allues-be.",
+            "ro": "Luați autobuzul la vale spre Les Allues.",
+            "en": "Take the bus downhill to Les Allues."
+          }
+        },
+        {
+          "name": "Mairie des Allues",
+          "coords": [
+            6.557,
+            45.431
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das traditionelle Rathausviertel.",
+            "hu": "Nézd meg a hagyományos városháza környékét.",
+            "ro": "Vizitați zona tradițională a primăriei.",
+            "en": "Visit the traditional town hall district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Bussystems von Méribel können Sie das Tal stressfrei erkunden. Wir starten im Zentrum und besuchen das Olympia-Gelände. Mit dem Shuttle geht es hinauf zum See von Mottaret für eine Naturpause. Am Nachmittag bringt uns der Bus hinunter in das historische Les Allues, um das Museum zu besuchen, bevor wir bequem wieder in das Hauptresort zurückkehren.",
+        "hu": "Méribel kiváló buszhálózatának köszönhetően stresszmentesen fedezheti fel a völgyet. A központban kezdünk és meglátogatjuk az olimpiai helyszínt. A busszal felmegyünk a mottaret-i tóhoz egy természetközeli pihenőre. Délután a busz levisz minket a történelmi Les Allues-be a múzeum megtekintésére, mielőtt kényelmesen visszatérnénk a fő üdülőhelyre.",
+        "ro": "Datorită sistemului excelent de autobuze din Méribel, puteți explora valea fără stres. Începem în centru și vizităm zona olimpică. Cu naveta mergem sus la lacul din Mottaret pentru o pauză în natură. După-amiaza, autobuzul ne duce jos în istoricul Les Allues pentru a vizita muzeul, înainte de a ne întoarce confortabil în stațiunea principală.",
+        "en": "Thanks to Méribel's excellent bus system, you can explore the valley stress-free. We start in the center and visit the Olympic site. With the shuttle we go up to the lake in Mottaret for a nature break. In the afternoon, the bus takes us down to historical Les Allues to visit the museum, before comfortably returning to the main resort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Mottaret",
+            "tip": "Sonnige Terrasse direkt an der Bushaltestelle."
+          },
+          {
+            "name": "L'Abreuvoir",
+            "tip": "Gemütliche Bar mit lokalen Spezialitäten im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Mottaret",
+            "tip": "Napsütötte terasz közvetlenül a buszmegállónál."
+          },
+          {
+            "name": "L'Abreuvoir",
+            "tip": "Hangulatos bár helyi specialitásokkal a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Mottaret",
+            "tip": "Terasă însorită chiar lângă stația de autobuz."
+          },
+          {
+            "name": "L'Abreuvoir",
+            "tip": "Bar primitor cu specialități locale în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Mottaret",
+            "tip": "Sunny terrace right by the bus stop."
+          },
+          {
+            "name": "L'Abreuvoir",
+            "tip": "Cozy bar with local specialties in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterer Teil Lac de Tuéda",
+            "tip": "Abseits der Touristenströme am Waldrand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Les Allues Gassen",
+            "tip": "Ruhige, alte Dorfstraßen ohne Skitrubel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tuéda-tó hátsó része",
+            "tip": "Távol a turistaáradattól az erdő szélén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Les Allues sikátorok",
+            "tip": "Csendes, régi falusi utcák síelői zsivaly nélkül.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Partea din spate a Lac de Tuéda",
+            "tip": "Departe de fluxul de turiști, la marginea pădurii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Străduțele din Les Allues",
+            "tip": "Străzi vechi și liniștite, fără agitația de la schi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Back part of Lac de Tuéda",
+            "tip": "Away from tourist crowds at the forest edge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Les Allues Alleys",
+            "tip": "Quiet, old village streets without the ski bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sherpa Méribel",
+            "tip": "Große Auswahl an lokalen Käse- und Wurstsorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sherpa Méribel",
+            "tip": "Helyi sajt- és felvágottválaszték."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sherpa Méribel",
+            "tip": "Selecție mare de brânzeturi și mezeluri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sherpa Méribel",
+            "tip": "Large selection of local cheese and cold cuts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Meribus-Shuttles sind innerhalb des Resorts kostenlos.",
+          "Laden Sie die Méribel-App für Echtzeit-Fahrpläne herunter.",
+          "Die Busse fahren im Sommer seltener als im Winter, Plan prüfen.",
+          "Halten Sie sich fest, die Straßen haben viele scharfe Kurven.",
+          "Die Hauptlinie verbindet Méribel Centre, Mottaret und Les Allues."
+        ],
+        "hu": [
+          "A Meribus járatok az üdülőhelyen belül ingyenesek.",
+          "Töltsd le a Méribel appot a valós idejű menetrendhez.",
+          "A buszok nyáron ritkábban járnak, mint télen, ellenőrizd a tervet.",
+          "Kapaszkodj erősen, az utaknak sok éles kanyarja van.",
+          "A fővonal összeköti Méribel központot, Mottaret-t és Les Allues-t."
+        ],
+        "ro": [
+          "Navetele Meribus sunt gratuite în interiorul stațiunii.",
+          "Descărcați aplicația Méribel pentru orare în timp real.",
+          "Autobuzele circulă mai rar vara decât iarna, verificați planul.",
+          "Țineți-vă bine, drumurile au multe curbe strânse.",
+          "Linia principală leagă Méribel Centre, Mottaret și Les Allues."
+        ],
+        "en": [
+          "The Meribus shuttles are free within the resort.",
+          "Download the Méribel app for real-time schedules.",
+          "Buses run less frequently in summer than winter, check the schedule.",
+          "Hold on tight, the roads have many sharp turns.",
+          "The main line connects Méribel Centre, Mottaret, and Les Allues."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1046 @@
+{
+  "city_id": "antibes",
+  "anchor": {
+    "name": "Antibes Centre",
+    "coords": [
+      7.1239,
+      43.5808
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marché Provençal",
+            "hu": "Provençal piac",
+            "ro": "Piața Provensală",
+            "en": "Provençal Market"
+          },
+          "coords": [
+            7.1264,
+            43.5811
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Socca direkt vom Blech.",
+            "hu": "Kóstold meg a friss soccát a bódéknál.",
+            "ro": "Gustați socca proaspătă de la tarabe.",
+            "en": "Try the fresh socca directly from the stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Antibes",
+            "hu": "Antibes-i székesegyház",
+            "ro": "Catedrala din Antibes",
+            "en": "Antibes Cathedral"
+          },
+          "coords": [
+            7.1281,
+            43.5808
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Altarbild aus dem 16. Jahrhundert.",
+            "hu": "Nézd meg a 16. századi oltárképet.",
+            "ro": "Admirați altarul din secolul al XVI-lea.",
+            "en": "Admire the 16th-century altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Picasso",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Picasso Museum"
+          },
+          "coords": [
+            7.1278,
+            43.5804
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Terrasse bietet einen der besten Fotospots.",
+            "hu": "A teraszról nyílik a legjobb kilátás fotózáshoz.",
+            "ro": "Terasa oferă unul dintre cele mai bune locuri pentru poze.",
+            "en": "The terrace offers one of the best photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Nomade",
+            "hu": "Le Nomade szobor",
+            "ro": "Statuia Le Nomade",
+            "en": "Le Nomade Statue"
+          },
+          "coords": [
+            7.1292,
+            43.5835
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie in die Skulptur hinein für ein tolles Erlebnis.",
+            "hu": "Menj be a szobor belsejébe a különleges élményért.",
+            "ro": "Intrați în interiorul sculpturii pentru o experiență inedită.",
+            "en": "Walk inside the sculpture for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Vauban",
+            "hu": "Vauban kikötő",
+            "ro": "Portul Vauban",
+            "en": "Port Vauban"
+          },
+          "coords": [
+            7.1255,
+            43.5855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie den 'Quai des Milliardaires' für Superyachten.",
+            "hu": "Keresd a Milliárdosok Rakpartját a szuperjachtokért.",
+            "ro": "Căutați 'Quai des Milliardaires' pentru iahturi de lux.",
+            "en": "Look for the Billionaires' Quay for superyachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Carré",
+            "hu": "Fort Carré erőd",
+            "ro": "Fortăreața Carré",
+            "en": "Fort Carré"
+          },
+          "coords": [
+            7.1279,
+            43.5902
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Buchen Sie die geführte Tour, um auf die Mauern zu gelangen.",
+            "hu": "Vegyél részt vezetett túrán a várfalak megtekintéséhez.",
+            "ro": "Rezervați turul ghidat pentru a ajunge pe ziduri.",
+            "en": "Book the guided tour to access the ramparts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen der Altstadt auf dem Marché Provençal, wo die Düfte von Kräutern und frischem Käse die Luft erfüllen. Nach einem kurzen Besuch der Kathedrale tauchen Sie im Grimaldi-Schloss in die Welt von Picasso ein.\n\nMittags schlendern Sie entlang der alten Stadtmauer zur Bastion Saint-Jaume, um die monumentale Skulptur 'Le Nomade' zu bewundern. Die weißen Buchstaben bilden einen faszinierenden Kontrast zum azurblauen Meer.\n\nDer Nachmittag gehört dem Port Vauban, einem der größten Jachthäfen Europas. Spazieren Sie gemütlich am Wasser entlang und bestaunen Sie die schwimmenden Paläste, während Sie sich dem historischen Fort Carré nähern.\n\nZum Abschluss erkunden Sie die sternförmige Festung Fort Carré. Von den hohen Mauern genießen Sie einen 360-Grad-Panoramablick über die Bucht von Engel und die schneebedeckten Alpen im Hintergrund.",
+        "hu": "Reggel az óváros szívében, a provence-i piacon kezdesz, ahol a fűszerek és friss sajtok illata lengi be a teret. Egy rövid székesegyházi látogatás után a Grimaldi-kastélyban merülhetsz el Picasso művészetében.\n\nDélben a várfal mentén sétálva jutsz el a Bastion Saint-Jaume-hoz, ahol a 'Le Nomade' monumentális szobra fogad. A fehér betűkből formált alak különleges kontrasztot alkot az azúrkék tengerrel.\n\nDélután a Vauban kikötőé a főszerep, amely Európa egyik legnagyobb jachtkikötője. Sétálj a vízparton a luxushajók között, miközben fokozatosan közeledsz a történelmi Fort Carré erőd felé.\n\nA napot a csillag alakú Fort Carré felfedezésével zárod. A várfalak tetejéről 360 fokos panoráma nyílik az Angyal-öbölre és a háttérben húzódó, hófödte Alpok csúcsaira.",
+        "ro": "Dimineața începe în inima orașului vechi la Piața Provensală, unde aromele de ierburi și brânzeturi proaspete umplu aerul. După o scurtă vizită la catedrală, pătrundeți în lumea lui Picasso în incinta castelului Grimaldi.\n\nLa prânz, plimbați-vă de-a lungul zidurilor vechi până la Bastion Saint-Jaume pentru a admira sculptura monumentală 'Le Nomade'. Literele albe creează un contrast fascinant cu marea azurie.\n\nDupă-amiaza este dedicată Portului Vauban, unul dintre cele mai mari porturi de iahturi din Europa. Relaxați-vă la o plimbare pe malul apei, admirând palatele plutitoare în timp ce vă îndreptați spre fortăreața istorică.\n\nÎn încheiere, explorați Fort Carré, fortăreața în formă de stea. De pe zidurile sale înalte vă veți bucura de o vedere panoramică de 360 de grade asupra Golfului Îngerilor și a Alpilor înzăpeziți.",
+        "en": "Your morning starts in the heart of the old town at the Provençal Market, where scents of herbs and fresh cheese fill the air. After a short visit to the Cathedral, immerse yourself in Picasso's world inside the Grimaldi Castle.\n\nAt midday, stroll along the ancient ramparts to Bastion Saint-Jaume to admire the monumental 'Le Nomade' sculpture. Its white letters form a striking contrast against the azure sea.\n\nIn the afternoon, head to Port Vauban, one of Europe's largest yacht harbors. Enjoy a leisurely walk by the water among luxury vessels as you approach the historic Fort Carré.\n\nTo wrap up, explore the star-shaped Fort Carré. From its high ramparts, enjoy a 360-degree panoramic view over the Bay of Angels and the snow-capped Alps in the distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Socca im Marché Provençal",
+            "tip": "Traditioneller Kichererbsenpfannkuchen, heiß serviert."
+          },
+          {
+            "name": "Le Brulot",
+            "tip": "Authentische provençalische Küche im Kellergewölbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Socca a piacon",
+            "tip": "Hagyományos csicseriborsó palacsinta, forrón tálalva."
+          },
+          {
+            "name": "Le Brulot",
+            "tip": "Hiteles provence-i konyha egy hangulatos pincehelyiségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Socca în piață",
+            "tip": "Clătită tradițională din făină de năut, servită fierbinte."
+          },
+          {
+            "name": "Le Brulot",
+            "tip": "Bucătărie provensală autentică într-o pivniță boltită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Socca at the Market",
+            "tip": "Traditional chickpea pancake, served piping hot."
+          },
+          {
+            "name": "Le Brulot",
+            "tip": "Authentic Provençal cuisine in a cozy vaulted cellar."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bastion Saint-André",
+            "tip": "Ruhiger Blick auf das Meer abseits der Massen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bastion Saint-André",
+            "tip": "Csendes kilátás a tengerre a tömegtől távol.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bastion Saint-André",
+            "tip": "Priviște liniștită spre mare, departe de aglomerație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bastion Saint-André",
+            "tip": "Quiet sea views away from the main crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue James Close",
+            "tip": "Boutiquen und lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue James Close",
+            "tip": "Boutique üzletek és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue James Close",
+            "tip": "Boutique-uri și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue James Close",
+            "tip": "Boutique shops and local artisanal crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie den Markt vor 13:00 Uhr.",
+          "Die Kathedrale schließt oft über Mittag.",
+          "Reservieren Sie für das Picasso-Museum im Voraus."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "A piacot délelőtt, 13 óra előtt látogasd meg.",
+          "A székesegyház délben gyakran zárva tart.",
+          "Érdemes előre jegyet foglalni a Picasso Múzeumba."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Vizitați piața înainte de ora 13:00.",
+          "Catedrala este adesea închisă în timpul prânzului.",
+          "Rezervați biletele pentru Muzeul Picasso în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the market in the morning before 1 PM.",
+          "The cathedral often closes during lunchtime.",
+          "Book Picasso Museum tickets in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Vauban",
+            "hu": "Vauban kikötő",
+            "ro": "Portul Vauban",
+            "en": "Port Vauban"
+          },
+          "coords": [
+            7.1255,
+            43.5855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den Promenadenwegen.",
+            "hu": "Óvatosan tekerj a sétányokon.",
+            "ro": "Mergeți cu atenție pe aleile de promenadă.",
+            "en": "Ride carefully on the promenade paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Garoupe",
+            "hu": "Garoupe világítótorony",
+            "ro": "Farul Garoupe",
+            "en": "Garoupe Lighthouse"
+          },
+          "coords": [
+            7.1309,
+            43.5638
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Anstieg ist steil, aber die Aussicht lohnt sich.",
+            "hu": "Az emelkedő meredek, de a kilátás megéri.",
+            "ro": "Urcarea este abruptă, dar vederea merită.",
+            "en": "The climb is steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Sentier du Littoral",
+            "hu": "Parti ösvény",
+            "ro": "Sentier du Littoral",
+            "en": "Sentier du Littoral"
+          },
+          "coords": [
+            7.135,
+            43.555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie die Fahrräder am Eingang gut ab.",
+            "hu": "Zárd le alaposan a biciklit a bejáratnál.",
+            "ro": "Încuiați bine bicicletele la intrare.",
+            "en": "Lock your bikes securely at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Picasso",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Picasso Museum"
+          },
+          "coords": [
+            7.1278,
+            43.5804
+          ],
+          "category": "museums",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parkplätze für Räder befinden sich direkt davor.",
+            "hu": "Biciklitárolók közvetlenül a bejárat előtt találhatók.",
+            "ro": "Parcările pentru biciclete sunt chiar în față.",
+            "en": "Bike racks are located directly in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Carré",
+            "hu": "Fort Carré erőd",
+            "ro": "Fortăreața Carré",
+            "en": "Fort Carré"
+          },
+          "coords": [
+            7.1279,
+            43.5902
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die letzte Brise vor der Rückgabe.",
+            "hu": "Élvezd az utolsó tengeri szellőt a leadás előtt.",
+            "ro": "Bucurați-vă de ultima briză înainte de returnare.",
+            "en": "Enjoy the last sea breeze before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Port Vauban, wo Sie zwischen den Masten der Segelboote hindurchgleiten. Die frische Morgenluft am Hafen bereitet Sie perfekt auf den bevorstehenden Anstieg zum Kap vor.\n\nDer Weg führt Sie hinauf zum Phare de la Garoupe. Es ist die höchste Erhebung von Antibes und bietet einen spektakulären Blick über die gesamte Côte d'Azur. Danach geht es bergab zum Eingang des Sentier du Littoral.\n\nStellen Sie Ihre Räder ab und erkunden Sie zu Fuß den Sentier du Littoral. Dieser Küstenpfad führt um die Spitze des Cap d'Antibes herum, vorbei an wilden Felsen und luxuriösen Anwesen, perfekt für ein Picknick oder ein Bad im Meer.\n\nAm Nachmittag radeln Sie zurück ins Zentrum zum Picasso-Museum und beenden den Tag an der markanten Festung Fort Carré, die wie ein Wächter über den Hafen ragt.",
+        "hu": "Indítsd a biciklis túrát a Vauban kikötőben, sikolva a vitorlások árbocai között. A reggeli friss tengeri levegő tökéletesen felkészít a fokozatos emelkedőre a félsziget csúcsa felé.\n\nAz út felvezet a Garoupe világítótoronyhoz. Ez Antibes legmagasabb pontja, ahonnan lenyűgöző kilátás nyílik az egész Azúr-partra. Innen legurulhatsz a parti ösvény, a Sentier du Littoral bejáratához.\n\nHagyd a bicikliket a tárolóban, és járd be gyalog a Sentier du Littoral ösvényt. Ez a vadregényes út a Cap d'Antibes csúcsát kerüli meg, sziklák és luxusvillák között, ideális egy gyors mártózásra.\n\nDélután tekerj vissza a központba a Picasso Múzeumhoz, majd zárd a napot a Fort Carré erődnél, amely őrszemként magasodik a kikötő fölé.",
+        "ro": "Începeți turul cu bicicleta la Port Vauban, strecurându-vă printre catargele iahturilor. Aerul proaspăt de dimineață din port vă pregătește perfect pentru urcarea spre promontoriu.\n\nDrumul vă conduce sus la Farul Garoupe. Este cel mai înalt punct din Antibes și oferă o vedere spectaculoasă asupra întregii Coaste de Azur. Apoi coborâți spre intrarea de pe Sentier du Littoral.\n\nLăsați bicicletele și explorați la pas Sentier du Littoral. Acest drum de coastă înconjoară vârful Cap d'Antibes, trecând pe lângă stânci sălbatice și vile luxoase, fiind ideal pentru un picnic sau o baie în mare.\n\nDupă-amiaza pedalați înapoi spre centru la Muzeul Picasso și încheiați ziua la Fort Carré, fortăreața care veghează asupra portului ca o santinelă.",
+        "en": "Start your bike tour at Port Vauban, gliding between the masts of the sailboats. The fresh morning harbor air perfectly prepares you for the upcoming climb toward the cape.\n\nThe path leads you up to the Garoupe Lighthouse. It's the highest point in Antibes and offers a spectacular view across the entire Côte d'Azur. Then, coast downhill to the entrance of the Sentier du Littoral.\n\nPark your bikes and explore the Sentier du Littoral on foot. This coastal path winds around the tip of Cap d'Antibes, passing wild rocks and luxurious estates, perfect for a picnic or a swim.\n\nIn the afternoon, cycle back to the center to visit the Picasso Museum and finish your day at the striking Fort Carré fortress, standing like a guardian over the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Jardin du Helder",
+            "tip": "Gartenrestaurant ideal für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Jardin du Helder",
+            "tip": "Kerthelyiséges étterem, ideális pihenő bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Jardin du Helder",
+            "tip": "Restaurant cu grădină, ideal pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Jardin du Helder",
+            "tip": "Garden restaurant, ideal for a cyclist's break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle de la Garoupe",
+            "tip": "Friedliche Kapelle neben dem Leuchtturm.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chapelle de la Garoupe",
+            "tip": "Békés kápolna a világítótorony mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chapelle de la Garoupe",
+            "tip": "Capelă liniștită lângă far.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapelle de la Garoupe",
+            "tip": "Peaceful chapel next to the lighthouse.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cap d'Antibes Souvenirs",
+            "tip": "Postkarten und lokale Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap d'Antibes Souvenirs",
+            "tip": "Képeslapok és helyi emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cap d'Antibes Souvenirs",
+            "tip": "Vederi și suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap d'Antibes Souvenirs",
+            "tip": "Postcards and local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor dem Anstieg zum Kap.",
+          "Nehmen Sie viel Wasser für den Sentier du Littoral mit.",
+          "Ein Vorhängeschloss ist am Kap zwingend erforderlich.",
+          "Meiden Sie die Hauptstraße am späten Nachmittag."
+        ],
+        "hu": [
+          "Ellenőrizd a guminyomást a félszigeti emelkedő előtt.",
+          "Vigyél sok vizet a parti ösvényhez.",
+          "A lakat használata kötelező a félszigeten.",
+          "Kerüld a főutakat késő délután a forgalom miatt."
+        ],
+        "ro": [
+          "Verificați presiunea roților înainte de urcarea pe cap.",
+          "Luați multă apă pentru Sentier du Littoral.",
+          "Un lacăt este obligatoriu pentru oprirea la cap.",
+          "Evitați drumul principal la sfârșitul după-amiezii."
+        ],
+        "en": [
+          "Check tire pressure before the climb to the cape.",
+          "Take plenty of water for the Sentier du Littoral.",
+          "A bike lock is mandatory for stops at the cape.",
+          "Avoid the main roads in the late afternoon due to traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Carré",
+            "hu": "Fort Carré erőd",
+            "ro": "Fortăreața Carré",
+            "en": "Fort Carré"
+          },
+          "coords": [
+            7.1279,
+            43.5902
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt vor dem Eingang.",
+            "hu": "Ingyenes parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare gratuită chiar în fața intrării.",
+            "en": "Free parking available directly at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Vauban",
+            "hu": "Vauban kikötő",
+            "ro": "Portul Vauban",
+            "en": "Port Vauban"
+          },
+          "coords": [
+            7.1255,
+            43.5855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Gravette' am Hafen.",
+            "hu": "Használd a Gravette parkolóházat a kikötőnél.",
+            "ro": "Folosiți parcarea etajată 'Gravette' din port.",
+            "en": "Use the 'Gravette' parking garage by the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché Provençal",
+            "hu": "Provençal piac",
+            "ro": "Piața Provensală",
+            "en": "Provençal Market"
+          },
+          "coords": [
+            7.1264,
+            43.5811
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Altstadt ist eine Fußgängerzone.",
+            "hu": "Az óváros gyalogos zóna, parkolj kívül.",
+            "ro": "Centrul vechi este zonă pietonală.",
+            "en": "The old town is a pedestrian zone; park outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Picasso",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Picasso Museum"
+          },
+          "coords": [
+            7.1278,
+            43.5804
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Ticket gilt auch für temporäre Ausstellungen.",
+            "hu": "A jegy az időszaki kiállításokra is érvényes.",
+            "ro": "Biletul este valabil și pentru expoziții temporare.",
+            "en": "The ticket is also valid for temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Garoupe",
+            "hu": "Garoupe világítótorony",
+            "ro": "Farul Garoupe",
+            "en": "Farul Garoupe"
+          },
+          "coords": [
+            7.1309,
+            43.5638
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Anfahrt erfolgt über gewundene Villenstraßen.",
+            "hu": "Az út kanyargós villák közötti utcákon vezet.",
+            "ro": "Accesul se face pe străzi șerpuite printre vile.",
+            "en": "The drive follows winding streets through villa districts."
+          }
+        },
+        {
+          "name": {
+            "de": "Sentier du Littoral",
+            "hu": "Parti ösvény",
+            "ro": "Sentier du Littoral",
+            "en": "Sentier du Littoral"
+          },
+          "coords": [
+            7.135,
+            43.555
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie an der Plage de la Garoupe.",
+            "hu": "Parkolj a Garoupe strand melletti helyeken.",
+            "ro": "Parcați lângă Plage de la Garoupe.",
+            "en": "Park near Plage de la Garoupe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem mit dem Auto am Fort Carré, wo Sie problemlos parken können. Diese Festung bietet den besten Überblick über den Hafen, bevor Sie sich in das geschäftige Zentrum wagen.\n\nMittags lassen Sie das Auto in einem der Parkhäuser am Rande der Altstadt stehen. Erkunden Sie den Marché Provençal und das Picasso-Museum zu Fuß, da die charmanten Gassen für den Verkehr gesperrt sind.\n\nAm Nachmittag führt Sie eine malerische Fahrt entlang der Küstenstraße zum Cap d'Antibes. Der Phare de la Garoupe bietet ein Panorama, das bis nach Nizza und Cannes reicht.\n\nBeenden Sie den Tag mit einem Spaziergang am Sentier du Littoral. Wenn die Sonne tiefer steht, färben sich die Felsen golden – ein perfekter Abschluss, bevor Sie bequem zurückfahren.",
+        "hu": "Kezdd kényelmesen az autós túrát a Fort Carré erődnél, ahol bőséges parkolóhely áll rendelkezésre. Ez az erőd adja a legjobb áttekintést a kikötőről, mielőtt behajtanál a nyüzsgő központba.\n\nDélben hagyd az autót az óváros szélén lévő parkolóházak egyikében. A provence-i piacot és a Picasso Múzeumot gyalog fedezd fel, mivel a hangulatos sikátorok el vannak zárva a forgalom elől.\n\nDélután festői autózás vár a tengerparti úton a Cap d'Antibes felé. A Garoupe világítótoronytól nyíló panoráma egészen Nizzáig és Cannes-ig ellátszik.\n\nA napot a Sentier du Littoral mentén tett sétával zárd. Ahogy a nap alacsonyabban jár, a sziklák aranyszínben játszanak – tökéletes befejezés a hazautazás előtt.",
+        "ro": "Începeți confortabil cu mașina la Fort Carré, unde puteți parca fără probleme. Această fortăreață oferă cea mai bună vedere asupra portului înainte de a vă aventura în centrul aglomerat.\n\nLa prânz, lăsați mașina într-una dintre parcările de la marginea centrului vechi. Explorați Piața Provensală și Muzeul Picasso la pas, deoarece străzile fermecătoare sunt închise traficului.\n\nDupă-amiaza, o unitate pitorească de-a lungul drumului de coastă vă conduce spre Cap d'Antibes. Farul Garoupe oferă o panoramă care se întinde până la Nisa și Cannes.\n\nÎncheiați ziua cu o plimbare pe Sentier du Littoral. Când soarele coboară, stâncile capătă nuanțe aurii – un final perfect înainte de a porni spre casă.",
+        "en": "Start your car tour comfortably at Fort Carré, where parking is easy. This fortress offers the best overview of the harbor before you venture into the bustling center.\n\nAt midday, leave your car in one of the parking garages on the edge of the old town. Explore the Provençal Market and the Picasso Museum on foot, as the charming alleys are pedestrian-only.\n\nIn the afternoon, a scenic drive along the coast road takes you to Cap d'Antibes. The Garoupe Lighthouse offers a panorama stretching as far as Nice and Cannes.\n\nWrap up the day with a stroll along the Sentier du Littoral. As the sun gets lower, the rocks turn golden – a perfect ending before driving back comfortably."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Oursin",
+            "tip": "Hervorragende Meeresfrüchte im Stadtzentrum."
+          },
+          {
+            "name": "Bacon",
+            "tip": "Legendäres Fischrestaurant am Cap d'Antibes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Oursin",
+            "tip": "Kiváló tenger gyümölcsei a városközpontban."
+          },
+          {
+            "name": "Bacon",
+            "tip": "Legendás halétterem a Cap d'Antibes félszigeten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Oursin",
+            "tip": "Fructe de mare excelente în centrul orașului."
+          },
+          {
+            "name": "Bacon",
+            "tip": "Restaurant legendar cu specific pescăresc la Cap d'Antibes."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Oursin",
+            "tip": "Excellent seafood in the city center."
+          },
+          {
+            "name": "Bacon",
+            "tip": "Legendary fish restaurant on Cap d'Antibes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de la Salis",
+            "tip": "Ruhiger Strandabschnitt am Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de la Salis",
+            "tip": "Csendesebb strandszakasz az esti órákban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage de la Salis",
+            "tip": "Secțiune de plajă mai liniștită seara.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage de la Salis",
+            "tip": "Quieter beach section in the evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché aux Vêtements",
+            "tip": "Kleidermarkt am Port Vauban."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché aux Vêtements",
+            "tip": "Ruhapiac a Vauban kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché aux Vêtements",
+            "tip": "Piață de haine lângă Port Vauban."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché aux Vêtements",
+            "tip": "Clothing market near Port Vauban."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Stadtzentrum zur Rushhour.",
+          "Parkhäuser sind oft eng, achten Sie auf Schrammen.",
+          "Am Cap d'Antibes ist das Parken im Sommer schwierig.",
+          "Fahren Sie die Küstenstraße für die beste Aussicht."
+        ],
+        "hu": [
+          "Kerüld a városközpontot a csúcsforgalom idején.",
+          "A parkolóházak szűkek lehetnek, vigyázz az autóra.",
+          "Nyáron a Cap d'Antibes környékén nehéz parkolni.",
+          "A legjobb kilátásért válaszd a parti utat."
+        ],
+        "ro": [
+          "Evitați centrul orașului la orele de vârf.",
+          "Parcările etajate sunt înguste, atenție la mașină.",
+          "Parcarea la Cap d'Antibes este dificilă vara.",
+          "Conduceți pe drumul de coastă pentru cele mai bune vederi."
+        ],
+        "en": [
+          "Avoid the city center during rush hour.",
+          "Parking garages are often narrow; watch for scrapes.",
+          "Parking at Cap d'Antibes is difficult in summer.",
+          "Drive along the coast road for the best views."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marché Provençal",
+            "hu": "Provençal piac",
+            "ro": "Piața Provensală",
+            "en": "Provençal Market"
+          },
+          "coords": [
+            7.1264,
+            43.5811
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buslinie 14 hält in der Nähe der Altstadt.",
+            "hu": "A 14-es busz megáll az óváros közelében.",
+            "ro": "Linia 14 oprește aproape de centrul vechi.",
+            "en": "Bus line 14 stops near the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Picasso",
+            "hu": "Picasso Múzeum",
+            "ro": "Muzeul Picasso",
+            "en": "Picasso Museum"
+          },
+          "coords": [
+            7.1278,
+            43.5804
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Envibus-Pass für den ganzen Tag.",
+            "hu": "Vegyél egész napos Envibus bérletet.",
+            "ro": "Folosiți un abonament Envibus pentru întreaga zi.",
+            "en": "Use an Envibus day pass for unlimited rides."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Vauban",
+            "hu": "Vauban kikötő",
+            "ro": "Portul Vauban",
+            "en": "Port Vauban"
+          },
+          "coords": [
+            7.1255,
+            43.5855
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Hafen aus fahren viele Linien ab.",
+            "hu": "A kikötőtől számos buszjárat indul.",
+            "ro": "Din port pleacă multe linii de autobuz.",
+            "en": "Many bus lines depart from the harbor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Carré",
+            "hu": "Fort Carré erőd",
+            "ro": "Fortăreața Carré",
+            "en": "Fort Carré"
+          },
+          "coords": [
+            7.1279,
+            43.5902
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Haltestelle 'Fort Carré' direkt an der Hauptstraße.",
+            "hu": "A 'Fort Carré' megálló közvetlenül a főúton van.",
+            "ro": "Stația 'Fort Carré' este chiar pe drumul principal.",
+            "en": "The 'Fort Carré' stop is right on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Garoupe",
+            "hu": "Garoupe világítótorony",
+            "ro": "Farul Garoupe",
+            "en": "Garoupe Lighthouse"
+          },
+          "coords": [
+            7.1309,
+            43.5638
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buslinie 2 fährt direkt zum Kap hinauf.",
+            "hu": "A 2-es busz közvetlenül felvisz a félszigetre.",
+            "ro": "Linia 2 merge direct sus pe cap.",
+            "en": "Bus line 2 goes directly up to the cape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Antibes lässt sich wunderbar mit dem Envibus-Netzwerk erkunden. Starten Sie am Marché Provençal, dem pulsierenden Herz der Stadt. Ein kurzer Spaziergang führt Sie zum Picasso-Museum, wo Sie die Kunstwerke in den historischen Räumen bewundern.\n\nMittags nehmen Sie einen der Busse zum Port Vauban. Genießen Sie die Atmosphäre am Jachthafen und machen Sie eine Pause, bevor Sie zum historischen Fort Carré weiterfahren.\n\nAm Nachmittag bringt Sie der Bus hinauf zum Cap d'Antibes. Die Strecke zum Phare de la Garoupe bietet durch die hohen Fenster der Busse tolle Ausblicke auf die Villen der 'Bucht der Milliardäre'.\n\nZum Ausklang genießen Sie den Panoramablick vom Leuchtturm, bevor Sie mit der Linie 2 entspannt zurück ins Stadtzentrum fahren.",
+        "hu": "Antibes remekül felfedezhető az Envibus hálózattal. Kezdj a provence-i piacon, a város lüktető szívében. Rövid séta után jutsz el a Picasso Múzeumba, ahol a történelmi falak között csodálhatod meg a mester műveit.\n\nDélben pattanj buszra a Vauban kikötő felé. Élvezd a kikötői hangulatot és tarts egy ebédszünetet, mielőtt továbbutaznál a történelmi Fort Carré erőd irányába.\n\nDélután a busz felvisz a Cap d'Antibes félszigetre. A Garoupe világítótoronyhoz vezető út során a busz ablakából remek rálátás nyílik a 'Milliárdosok öblének' luxusvilláira.\n\nBefejezésként élvezd a panorámát a világítótoronytól, majd a 2-es busszal kényelmesen térj vissza a városközpontba.",
+        "ro": "Antibes poate fi explorat minunat cu rețeaua Envibus. Începeți la Piața Provensală, inima vibrantă a orașului. O scurtă plimbare vă duce la Muzeul Picasso, unde admirați operele de artă în sălile istorice.\n\nLa prânz, luați unul dintre autobuze spre Port Vauban. Bucurați-vă de atmosfera din portul de iahturi și faceți o pauză înainte de a continua spre istoricul Fort Carré.\n\nDupă-amiaza, autobuzul vă duce sus pe Cap d'Antibes. Traseul spre Farul Garoupe oferă vederi excelente prin ferestrele autobuzului asupra vilelor din 'Golful Miliardarilor'.\n\nLa final, bucurați-vă de panorama de la far înainte de a vă întoarce relaxat în centrul orașului cu linia 2.",
+        "en": "Antibes is easily explored using the Envibus network. Start at the Provençal Market, the pulsing heart of the city. A short walk takes you to the Picasso Museum to admire artworks in historical settings.\n\nAt midday, hop on a bus toward Port Vauban. Soak in the harbor atmosphere and take a break before heading further to the historic Fort Carré.\n\nIn the afternoon, the bus takes you up to Cap d'Antibes. The route to the Garoupe Lighthouse offers great views from the bus windows of the villas in the 'Billionaires' Bay.'\n\nTo finish, enjoy the panoramic view from the lighthouse before taking line 2 for a relaxed ride back to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Civette du Marché",
+            "tip": "Snacks und Kaffee direkt am Marktplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Civette du Marché",
+            "tip": "Gyors ételek és kávé közvetlenül a piactéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Civette du Marché",
+            "tip": "Gustări și cafea chiar în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Civette du Marché",
+            "tip": "Snacks and coffee right at the marketplace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square du 8 Mai",
+            "tip": "Kleiner Park am Meer in der Nähe des Hafens.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square du 8 Mai",
+            "tip": "Kis tengerparti park a kikötő közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square du 8 Mai",
+            "tip": "Mic parc la malul mării lângă port.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square du 8 Mai",
+            "tip": "Small seaside park near the harbor.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Envibus Verkaufsstelle",
+            "tip": "Für Souvenirs und Fahrkarten am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Envibus iroda",
+            "tip": "Bérletek és menetrendek a buszpályaudvaron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct Envibus",
+            "tip": "Pentru bilete și informații la autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Envibus Point",
+            "tip": "For tickets and info at the bus station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Envibus-App für Echtzeit-Infos herunter.",
+          "Tickets können beim Fahrer gekauft werden (teurer).",
+          "Busse fahren am Wochenende seltener.",
+          "Die Linie 2 ist die beste Verbindung zum Kap."
+        ],
+        "hu": [
+          "Töltsd le az Envibus appot a valós idejű infókért.",
+          "A jegy a sofőrnél is megvehető (drágább).",
+          "Hétvégén a buszok ritkábban járnak.",
+          "A 2-es busz a legjobb járat a félszigetre."
+        ],
+        "ro": [
+          "Descărcați aplicația Envibus pentru info în timp real.",
+          "Biletele pot fi cumpărate de la șofer (mai scump).",
+          "Autobuzele circulă mai rar în weekend.",
+          "Linia 2 este cea mai bună conexiune către cap."
+        ],
+        "en": [
+          "Download the Envibus app for real-time info.",
+          "Tickets can be bought from the driver (more expensive).",
+          "Buses run less frequently on weekends.",
+          "Line 2 is the best connection to the cape."
+        ]
+      }
+    }
+  }
+}

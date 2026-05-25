@@ -1,0 +1,726 @@
+{
+  "city_id": "rocamadour",
+  "anchor": {
+    "name": "Rocamadour",
+    "coords": [
+      1.6175,
+      44.7997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Porte du Figuier",
+          "coords": [
+            1.6185,
+            44.799
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Holen Sie sich hier eine Karte des Dorfes.",
+            "hu": "Itt szerezhet be térképet a faluról.",
+            "ro": "Luați o hartă a satului de aici.",
+            "en": "Pick up a map of the village here."
+          }
+        },
+        {
+          "name": "Grand Escalier",
+          "coords": [
+            1.6183,
+            44.7995
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zählen Sie die 216 Stufen beim Aufstieg.",
+            "hu": "Számolja meg a 216 lépcsőfokot felfelé menet.",
+            "ro": "Numărați cele 216 trepte în timp ce urcați.",
+            "en": "Count the 216 steps as you climb up."
+          }
+        },
+        {
+          "name": "Chapelle Notre-Dame",
+          "coords": [
+            1.6181,
+            44.7998
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte Schwarze Madonna.",
+            "hu": "Csodálja meg a híres Fekete Madonnát.",
+            "ro": "Admirați faimoasa Madonă Neagră.",
+            "en": "Admire the famous Black Madonna statue."
+          }
+        },
+        {
+          "name": "Basilique Saint-Sauveur",
+          "coords": [
+            1.6179,
+            44.7999
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Schwert Durandal im Fels.",
+            "hu": "Keresse a sziklába szúrt Durandal kardot.",
+            "ro": "Căutați sabia Durandal înfiptă în stâncă.",
+            "en": "Look for the Durandal sword embedded in the rock."
+          }
+        },
+        {
+          "name": "Remparts du Château",
+          "coords": [
+            1.6172,
+            44.8012
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Panoramablick über das Alzou-Tal.",
+            "hu": "A legjobb panoráma az Alzou-völgyre.",
+            "ro": "Cea mai bună panoramă asupra văii Alzou.",
+            "en": "The best panoramic view over the Alzou valley."
+          }
+        },
+        {
+          "name": "Chemin de Croix",
+          "coords": [
+            1.6178,
+            44.8005
+          ],
+          "category": "park",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schattiger Zickzack-Weg nach unten.",
+            "hu": "Árnyas cikkcakkos ösvény lefelé menet.",
+            "ro": "O potecă în zigzag la umbră spre bază.",
+            "en": "A shaded zigzag path on your way down."
+          }
+        },
+        {
+          "name": "L'Hospitalet Viewpoint",
+          "coords": [
+            1.6235,
+            44.8052
+          ],
+          "category": "sunset",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Abschiedsfoto.",
+            "hu": "Tökéletes hely egy búcsúfotóhoz.",
+            "ro": "Locul perfect pentru o fotografie de rămas bun.",
+            "en": "Perfect spot for a final souvenir photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Porte du Figuier und tauchen Sie ein in die mittelalterliche Atmosphäre der Hauptstraße. Der Aufstieg über die Grand Escalier ist ein klassisches Erlebnis, das früher Pilger auf Knien bewältigten. Der Vormittag gehört den heiligen Kapellen und der geheimnisvollen schwarzen Statue.\n\nNach einem kräftigen Mittagessen in der Unterstadt steigen Sie hinauf zum Schloss. Die Aussicht von den Festungsmauern ist schwindelerregend und zeigt die dramatische Lage des Ortes. Am Nachmittag schlendern Sie den Kreuzweg entlang, der sich sanft durch den Wald schlängelt.\n\nZum Abschluss wandern Sie hinüber nach L'Hospitalet. Von diesem Plateau aus hat man den ikonischen Blick auf das gesamte Dorf, das sich an den Felsen klammert. Wenn die Sonne tiefer steht, färben sich die Kalksteinfelsen in warmen Ockertönen.\n\nGenießen Sie den Abend bei einem Glas Wein aus der Region Cahors. Rocamadour ist bei Sonnenuntergang am ruhigsten, wenn die Tagesbesucher langsam abziehen und die Beleuchtung der Basilika die Szenerie in ein magisches Licht taucht.",
+        "hu": "Kezdje a napot a Porte du Figuier-nél, és merüljön el a főutca középkori hangulatában. A Grand Escalier megmászása klasszikus élmény, amelyet a zarándokok régen térden állva tettek meg. A délelőtt a szent kápolnáké és a titokzatos fekete szoboré.\n\nEgy kiadós ebéd után az alsóvárosban, menjen fel a várba. A bástyákról nyíló kilátás szédítő, és jól mutatja a hely drámai fekvését. Délután sétáljon végig a Keresztúton, amely lágyan kanyarog az erdőn keresztül.\n\nVégezetül sétáljon át L'Hospitalet-be. Erről a fennsíkról nyílik az ikonikus kilátás az egész falura, amely a sziklába kapaszkodik. Ahogy a nap lejjebb süllyed, a mészkősziklák meleg okkersárga színt öltenek.\n\nÉlvezze az estét egy pohár Cahors borral. Rocamadour naplementekor a legcsendesebb, amikor a látogatók lassan elmennek, és a bazilika díszkivilágítása mágikus fénybe vonja a környéket.",
+        "ro": "Începeți ziua la Porte du Figuier și scufundați-vă în atmosfera medievală a străzii principale. Urcarea pe Grand Escalier este o experiență clasică, pe care pelerinii o făceau pe vremuri în genunchi. Dimineața este dedicată capelelor sfinte și misterioasei statui negre.\n\nDupă un prânz copios în orașul de jos, urcați la castel. Vederea de pe zidurile fortăreței este amețitoare și arată locația dramatică a locului. După-amiaza, plimbați-vă pe Calea Crucii, care șerpuiește blând prin pădure.\n\nÎn încheiere, mergeți spre L'Hospitalet. De pe acest platou aveți vederea iconică asupra întregului sat care se agață de stânci. Pe măsură ce soarele coboară, stâncile de calcar capătă nuanțe calde de ocru.\n\nBucurați-vă de seară cu un pahar de vin din regiunea Cahors. Rocamadour este cel mai liniștit la apus, când vizitatorii de o zi pleacă încet, iar iluminatul basilicii scaldă scena într-o lumină magică.",
+        "en": "Start your day at the Porte du Figuier and immerse yourself in the medieval atmosphere of the main street. Climbing the Grand Escalier is a classic experience that pilgrims used to perform on their knees. The morning belongs to the sacred chapels and the mysterious black statue.\n\nAfter a hearty lunch in the lower town, ascend to the castle. The view from the ramparts is dizzying and showcases the dramatic setting of the site. In the afternoon, stroll along the Way of the Cross, which winds gently through the forest.\n\nTo finish, walk over to L'Hospitalet. From this plateau, you get the iconic view of the entire village clinging to the cliffs. As the sun sits lower, the limestone cliffs turn warm shades of ochre.\n\nEnjoy the evening with a glass of local Cahors wine. Rocamadour is quietest at sunset, as the day-trippers slowly depart and the basilica's illumination bathes the scene in a magical light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rocamadour Käse",
+            "tip": "Kleiner Ziegenkäse mit cremiger Textur, perfekt auf warmem Toast."
+          },
+          {
+            "name": "Confit de Canard",
+            "tip": "Traditionell zubereitete Entenkeule, sehr zart."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rocamadour sajt",
+            "tip": "Krémes állagú kisméretű kecskesajt, pirítóson tálalva a legjobb."
+          },
+          {
+            "name": "Confit de Canard",
+            "tip": "Hagyományosan készített kacsacomb, rendkívül omlós."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Rocamadour",
+            "tip": "Brânză mică de capră cu textură cremoasă, delicioasă pe pâine prăjită."
+          },
+          {
+            "name": "Confit de Canard",
+            "tip": "Pulpe de rață gătite tradițional, foarte fragede."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocamadour Cheese",
+            "tip": "Small goat cheese with a creamy texture, perfect on warm toast."
+          },
+          {
+            "name": "Confit de Canard",
+            "tip": "Traditionally prepared duck leg, incredibly tender."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "L'Hospitalet Plateau",
+            "tip": "Bester Fernblick auf die Stadt.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alzou Talufer",
+            "tip": "Ruhiger Spaziergang am Flussgrund.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Hospitalet fennsík",
+            "tip": "A legjobb távoli kilátás a városra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alzou-völgy partja",
+            "tip": "Csendes séta a völgy alján.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul L'Hospitalet",
+            "tip": "Cea mai bună vedere panoramică de la distanță.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul văii Alzou",
+            "tip": "O plimbare liniștită la baza stâncii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Hospitalet Plateau",
+            "tip": "Best distant view of the whole town.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Alzou Valley Floor",
+            "tip": "Quiet walk along the river at the base.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Walnuss-Kuchen",
+            "tip": "Spezialität der Region Quercy."
+          },
+          {
+            "name": "Handgefertigter Schmuck",
+            "tip": "In den kleinen Ateliers der Unterstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diótorta",
+            "tip": "A Quercy régió híres édessége."
+          },
+          {
+            "name": "Kézműves ékszerek",
+            "tip": "Az alsóváros kis műhelyeiben találhatóak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort cu nuci",
+            "tip": "Specialitate celebră din regiunea Quercy."
+          },
+          {
+            "name": "Bijuterii artizanale",
+            "tip": "Găsite în micile ateliere din orașul de jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Walnut Cake",
+            "tip": "Famous specialty of the Quercy region."
+          },
+          {
+            "name": "Artisan Jewelry",
+            "tip": "Found in small workshops in the lower town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da es viele Treppen gibt.",
+          "Nutzen Sie den Aufzug, wenn der Aufstieg zu anstrengend ist.",
+          "Besuchen Sie das Heiligtum früh am Morgen, um Gruppen zu vermeiden.",
+          "Parken Sie oben in L'Hospitalet für einen einfacheren Start.",
+          "Die Stadt ist nachts wunderschön beleuchtet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a sok lépcső miatt.",
+          "Használja a liftet, ha a mászás túl fárasztó lenne.",
+          "Látogassa meg a szentélyt korán reggel a tömeg elkerülése végett.",
+          "Parkoljon fent L'Hospitalet-ben a könnyebb indulásért.",
+          "A város éjszaka gyönyörűen ki van világítva."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă din cauza numeroaselor trepte.",
+          "Folosiți liftul dacă urcarea vi se pare prea obositoare.",
+          "Vizitați sanctuarul dimineața devreme pentru a evita grupurile mari.",
+          "Parcați sus în L'Hospitalet pentru un început mai ușor.",
+          "Orașul este superb iluminat pe timp de noapte."
+        ],
+        "en": [
+          "Wear comfortable walking shoes as there are many stairs.",
+          "Use the elevator if the climb is too strenuous for you.",
+          "Visit the sanctuary early in the morning to avoid crowds.",
+          "Park at the top in L'Hospitalet for an easier start.",
+          "The town is beautifully illuminated at night."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "L'Hospitalet",
+          "coords": [
+            1.6235,
+            44.8052
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Startpunkt für Radtouren.",
+            "hu": "A legjobb kiindulópont kerékpárosoknak.",
+            "ro": "Cel mai bun punct de plecare pentru bicicliști.",
+            "en": "Best starting point for cyclists."
+          }
+        },
+        {
+          "name": "Grotte des Merveilles",
+          "coords": [
+            1.625,
+            44.806
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prähistorische Malereien in einer Höhle.",
+            "hu": "Őskori barlangrajzok egy kis barlangban.",
+            "ro": "Picturi preistorice într-o peșteră mică.",
+            "en": "Prehistoric cave paintings in a small cave."
+          }
+        },
+        {
+          "name": "Moulin de Caoulet",
+          "coords": [
+            1.605,
+            44.795
+          ],
+          "category": "park",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine alte Mühle am Fluss Alzou.",
+            "hu": "Régi malom az Alzou folyó partján.",
+            "ro": "O moară veche pe malul râului Alzou.",
+            "en": "An old mill on the banks of the Alzou."
+          }
+        },
+        {
+          "name": "Forêt des Singes",
+          "coords": [
+            1.635,
+            44.808
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Über 200 Berberaffen in Freiheit.",
+            "hu": "Több mint 200 szabadon élő berbermajom.",
+            "ro": "Peste 200 de maimuțe berbere în libertate.",
+            "en": "Over 200 Barbary macaques living in freedom."
+          }
+        },
+        {
+          "name": "Rocamadour Plateau",
+          "coords": [
+            1.617,
+            44.8015
+          ],
+          "category": "sunset",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ruhiger Blick auf das Schloss.",
+            "hu": "Csendes kilátás a várra.",
+            "ro": "Vedere liniștită spre castel.",
+            "en": "Quiet view towards the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Rocamadour mit dem Fahrrad. Starten Sie in L'Hospitalet und besuchen Sie die nahe gelegene Grotte des Merveilles. Danach radeln Sie hinunter in das ruhige Alzou-Tal, wo Sie die Natur fernab der Touristenströme genießen können.\n\nDer Nachmittag führt Sie zur Forêt des Singes, einem einzigartigen Park, in dem Affen frei herumlaufen. Die Rückfahrt bietet weite Ausblicke über die karge Kalksteinlandschaft des Causse de Gramat.",
+        "hu": "Fedezze fel Rocamadour környékét kerékpárral. Kezdjen L'Hospitalet-ben, látogasson el a Csodák Barlangjához, majd guruljon le a csendes Alzou-völgybe. Itt a turistáktól távol élvezheti a természetet.\n\nA délután a Majomerdőbe vezet, ahol szabadon élő majmokat láthat. A visszaút során tágas kilátás nyílik a Causse de Gramat mészkőfennsíkjára.",
+        "ro": "Explorați împrejurimile Rocamadourului cu bicicleta. Începeți în L'Hospitalet, vizitați Grotte des Merveilles, apoi coborâți în valea liniștită Alzou. Aici vă puteți bucura de natură departe de mulțimile de turiști.\n\nDupă-amiaza vă duce la Pădurea Maimuțelor, unde puteți vedea maimuțe în libertate. Drumul de întoarcere oferă vederi largi asupra peisajului calcaros din Causse de Gramat.",
+        "en": "Explore the surroundings of Rocamadour by bike. Start in L'Hospitalet, visit the Cave of Wonders, then cycle down into the quiet Alzou valley. Here you can enjoy nature away from the tourist crowds.\n\nThe afternoon takes you to the Monkey Forest, where you can see free-roaming monkeys. The ride back offers wide views over the limestone landscape of the Causse de Gramat."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind hügelig, ein E-Bike wird empfohlen.",
+          "Achten Sie auf Wanderer auf den gemeinsamen Wegen."
+        ],
+        "hu": [
+          "Az utak dombosak, elektromos kerékpár ajánlott.",
+          "Figyeljen a gyalogosokra a közös ösvényeken."
+        ],
+        "ro": [
+          "Drumurile sunt deluroase, se recomandă o bicicletă electrică.",
+          "Atenție la drumeți pe potecile comune."
+        ],
+        "en": [
+          "The roads are hilly, an e-bike is recommended.",
+          "Watch out for hikers on shared paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Rocamadour Sanctuary",
+          "coords": [
+            1.6181,
+            44.7998
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Tals (P1).",
+            "hu": "Parkoljon a völgy alján (P1).",
+            "ro": "Parcați la baza văii (P1).",
+            "en": "Park at the bottom of the valley (P1)."
+          }
+        },
+        {
+          "name": "Forêt des Singes",
+          "coords": [
+            1.635,
+            44.808
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ideal für Familien mit Kindern.",
+            "hu": "Ideális kisgyermekes családoknak.",
+            "ro": "Ideal pentru familiile cu copii.",
+            "en": "Ideal for families with children."
+          }
+        },
+        {
+          "name": "Gouffre de Padirac",
+          "coords": [
+            1.7565,
+            44.858
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Reservieren Sie Tickets weit im Voraus!",
+            "hu": "Foglaljon jegyet jó előre!",
+            "ro": "Rezervați bilete cu mult timp înainte!",
+            "en": "Book tickets well in advance!"
+          }
+        },
+        {
+          "name": "Loubressac",
+          "coords": [
+            1.8035,
+            44.8715
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": "Autoire Cascade",
+          "coords": [
+            1.821,
+            44.854
+          ],
+          "category": "park",
+          "arrive_at": "16:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein spektakulärer 30m hoher Wasserfall.",
+            "hu": "Látványos, 30 méter magas vízesés.",
+            "ro": "O cascadă spectaculoasă de 30 m.",
+            "en": "A spectacular 30m high waterfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie Rocamadour mit den Schätzen des Lot-Tals. Besuchen Sie morgens das Heiligtum und fahren Sie dann zum beeindruckenden Gouffre de Padirac, einer riesigen unterirdischen Höhle mit einem Fluss.\n\nDen Nachmittag verbringen Sie in Loubressac, einem Blumendorf mit herrlicher Aussicht, und beenden den Tag am Wasserfall von Autoire, der in einem natürlichen Amphitheater aus Felsen liegt.",
+        "hu": "Autóval összekötheti Rocamadourt a Lot-völgy kincseivel. Reggel látogassa meg a szentélyt, majd induljon a lenyűgöző Gouffre de Padirac-hoz, amely egy óriási földalatti barlang folyóval.\n\nA délutánt töltse Loubressac-ban, a virágos faluban, és fejezze be a napot az Autoire vízesésnél, amely egy természetes szikla-amfiteátrumban található.",
+        "ro": "Cu mașina puteți combina Rocamadour cu comorile văii Lot. Vizitați sanctuarul dimineața, apoi mergeți la impresionantul Gouffre de Padirac, o peșteră subterană uriașă cu un râu.\n\nPetreceți după-amiaza în Loubressac, un sat plin de flori, și încheiați ziua la cascada Autoire, situată într-un amfiteatru natural de stâncă.",
+        "en": "By car, you can combine Rocamadour with the treasures of the Lot valley. Visit the sanctuary in the morning, then head to the impressive Gouffre de Padirac, a giant underground cave with a river.\n\nSpend the afternoon in Loubressac, a floral village with great views, and end the day at the Autoire waterfall, set in a natural rock amphitheater."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+          "Buchen Sie Höhlentouren online."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak, vezessen óvatosan.",
+          "A barlangtúrákat foglalja le online."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite, conduceți cu atenție.",
+          "Rezervați tururile de peșteră online."
+        ],
+        "en": [
+          "The roads are narrow and winding, drive carefully.",
+          "Book cave tours online."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 4.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "L'Hospitalet (Parking P2)",
+          "coords": [
+            1.624,
+            44.8055
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier startet der 'Petit Train' zur Unterstadt.",
+            "hu": "Itt indul a kisvonat az alsóvárosba.",
+            "ro": "De aici pleacă trenulețul spre orașul de jos.",
+            "en": "The 'Petit Train' to the lower town starts here."
+          }
+        },
+        {
+          "name": "Ascenseur incliné (Top)",
+          "coords": [
+            1.6172,
+            44.8012
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Lift verbindet das Schloss mit dem Heiligtum.",
+            "hu": "A lift összeköti a várat a szentéllyel.",
+            "ro": "Liftul face legătura între castel și sanctuar.",
+            "en": "The lift connects the castle and the sanctuary."
+          }
+        },
+        {
+          "name": "Cité Religieuse",
+          "coords": [
+            1.6181,
+            44.7998
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den zweiten Lift zur Hauptstraße.",
+            "hu": "Használja a második liftet a főutcához.",
+            "ro": "Folosiți al doilea lift către strada principală.",
+            "en": "Use the second lift to the main street."
+          }
+        },
+        {
+          "name": "Petit Train Touristique",
+          "coords": [
+            1.619,
+            44.7985
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine bequeme Tour durch das Tal.",
+            "hu": "Kényelmes utazás a völgyön keresztül.",
+            "ro": "Un tur confortabil prin vale.",
+            "en": "A comfortable tour through the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rocamadour bietet ein System aus Liften und einem Touristenzug, um die steilen Hänge bequem zu überwinden. Starten Sie oben in L'Hospitalet, fahren Sie mit dem Lift hinunter zum Heiligtum und erkunden Sie die Kirchen ohne Treppensteigen.\n\nAm Nachmittag bringt Sie der 'Petit Train' durch das Alzou-Tal und zurück zum Parkplatz, was Ihnen einen umfassenden Überblick bietet, ohne dass Sie weite Strecken zu Fuß zurücklegen müssen.",
+        "hu": "Rocamadour liftekkel és kisvonattal teszi kényelmessé a meredek hegyoldal felfedezését. Kezdjen fent L'Hospitalet-ben, liftezzen le a szentélyhez, és fedezze fel a templomokat lépcsőzés nélkül.\n\nDélután a kisvonat átviszi az Alzou-völgyön és visszaviszi a parkolóhoz, így teljes képet kap a városról anélkül, hogy sokat kellene gyalogolnia.",
+        "ro": "Rocamadour oferă un sistem de lifturi și un trenuleț turistic pentru a depăși pantele abrupte. Începeți sus în L'Hospitalet, coborâți cu liftul la sanctuar și explorați bisericile fără a urca trepte.\n\nDupă-amiaza, trenulețul vă poartă prin valea Alzou și vă aduce înapoi la parcare, oferindu-vă o imagine de ansamblu fără a fi nevoie de mult mers pe jos.",
+        "en": "Rocamadour provides a system of lifts and a tourist train to comfortably navigate the steep slopes. Start at the top in L'Hospitalet, take the lift down to the sanctuary, and explore the churches without climbing stairs.\n\nIn the afternoon, the 'Petit Train' takes you through the Alzou valley and back to the parking lot, giving you a full overview without needing much walking."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Kombiticket für beide Lifte.",
+          "Der Zug fährt saisonal, prüfen Sie die Fahrzeiten."
+        ],
+        "hu": [
+          "Vásároljon kombinált jegyet mindkét liftre.",
+          "A vonat szezonálisan jár, ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați un bilet combinat pentru ambele lifturi.",
+          "Trenulețul circulă sezonier, verificați orarul."
+        ],
+        "en": [
+          "Buy a combined ticket for both lifts.",
+          "The train runs seasonally, check the schedule."
+        ]
+      }
+    }
+  }
+}

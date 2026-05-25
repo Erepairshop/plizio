@@ -1,0 +1,1089 @@
+{
+  "city_id": "monaco",
+  "anchor": {
+    "name": "Monaco",
+    "coords": [
+      7.4246,
+      43.7384
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais Princier",
+            "hu": "Hercegi Palota",
+            "ro": "Palatul Princiar",
+            "en": "Prince's Palace"
+          },
+          "coords": [
+            7.4208,
+            43.7311
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Pünktlich um 11:55 Uhr findet der Wachwechsel statt.",
+            "hu": "Nézze meg az őrségváltást minden nap pontosan 11:55-kor.",
+            "ro": "Urmăriți schimbarea gărzii zilnic la ora 11:55 fix.",
+            "en": "Watch the changing of the guard daily at 11:55 sharp."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Monaco",
+            "hu": "Szent Miklós-székesegyház",
+            "ro": "Catedrala din Monaco",
+            "en": "Monaco Cathedral"
+          },
+          "coords": [
+            7.4225,
+            43.7301
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier befinden sich die Gräber von Grace Kelly und Fürst Rainier.",
+            "hu": "Itt található Grace Kelly és Rainier herceg síremléke.",
+            "ro": "Aici se află mormintele lui Grace Kelly și ale Prințului Rainier.",
+            "en": "Visit the tombs of Grace Kelly and Prince Rainier III here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozeanographisches Museum",
+            "hu": "Óceanográfiai Múzeum",
+            "ro": "Muzeul Oceanografic",
+            "en": "Oceanographic Museum"
+          },
+          "coords": [
+            7.4255,
+            43.7306
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Dachterrasse mit Blick auf das Meer.",
+            "hu": "Ne hagyja ki a tetőteraszt és a pazar tengeri kilátást.",
+            "ro": "Nu ratați terasa de pe acoperiș cu vedere la mare.",
+            "en": "Don't miss the rooftop terrace with stunning sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Hercule",
+            "hu": "Hercule-kikötő",
+            "ro": "Portul Hercule",
+            "en": "Port Hercule"
+          },
+          "coords": [
+            7.422,
+            43.7347
+          ],
+          "category": "gastro",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit Blick auf die Superyachten.",
+            "hu": "Tökéletes hely egy ebédhez a luxusjachtok gyűrűjében.",
+            "ro": "Locul perfect pentru prânz cu vedere la iahturile de lux.",
+            "en": "Perfect spot for lunch with a view of the superyachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Monte-Carlo",
+            "hu": "Monte-Carlo Kaszinó",
+            "ro": "Cazinoul din Monte-Carlo",
+            "en": "Casino de Monte-Carlo"
+          },
+          "coords": [
+            7.4285,
+            43.7392
+          ],
+          "category": "historical",
+          "arrive_at": "15:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Angemessene Kleidung ist erforderlich, um das Casino zu betreten.",
+            "hu": "A kaszinóba való belépéshez alkalomhoz illő öltözet szükséges.",
+            "ro": "Este necesară o ținută adecvată pentru a intra în cazinou.",
+            "en": "Proper attire is required to enter the casino gaming rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Japanischer Garten",
+            "hu": "Japán Kert",
+            "ro": "Grădina Japoneză",
+            "en": "Japanese Garden"
+          },
+          "coords": [
+            7.4308,
+            43.7431
+          ],
+          "category": "park",
+          "arrive_at": "17:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine Oase der Ruhe inmitten der modernen Gebäude.",
+            "hu": "A nyugalom oázisa a modern épületek rengetegében.",
+            "ro": "O oază de liniște în mijlocul clădirilor moderne.",
+            "en": "An oasis of calm amidst the modern skyscrapers."
+          }
+        },
+        {
+          "name": {
+            "de": "Larvotto Strand",
+            "hu": "Larvotto strand",
+            "ro": "Plaja Larvotto",
+            "en": "Larvotto Beach"
+          },
+          "coords": [
+            7.4355,
+            43.7445
+          ],
+          "category": "beach",
+          "arrive_at": "17:49",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang bei einem Drink am Meer.",
+            "hu": "Élvezze a naplementét egy hűsítő itallal a tengerparton.",
+            "ro": "Bucurați-vă de apus cu o băutură pe malul mării.",
+            "en": "Enjoy the sunset with a drink by the Mediterranean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem 'Felsen' von Monaco mit der prachtvollen Wachablösung am Palast und der ehrwürdigen Kathedrale. Mittags tauchen Sie in die Unterwasserwelt des Ozeanographischen Museums ein, bevor Sie zum Hafen hinuntersteigen. Der Nachmittag gehört dem Glamour von Monte-Carlo mit seinem berühmten Casino und den luxuriösen Gärten. Lassen Sie den Abend entspannt am Larvotto-Strand ausklingen, wo das Mittelmeer sanft an die Küste schlägt.",
+        "hu": "Kezdje a napot Monaco szikláján, a hercegi palota díszes őrségváltásával és a katedrális csendjével. Délben merüljön el az Óceanográfiai Múzeum csodáiban, majd sétáljon le a kikötőbe a luxusjachtok közé. Délután Monte-Carlo csillogása várja a világhírű kaszinóval és a trópusi kertekkel. Az estét töltse a Larvotto strandon, ahol a lemenő nap fényeiben megmártózhat a Földközi-tenger hangulatában.",
+        "ro": "Începeți ziua pe 'Stânca' din Monaco cu schimbarea gărzii la palat și liniștea catedralei istorice. La prânz, explorați minunile Muzeului Oceanografic înainte de a coborî spre portul plin de iahturi. După-amiaza este dedicată strălucirii din Monte-Carlo, cu celebrul său cazinou și grădinile luxuriante. Încheiați seara relaxat pe plaja Larvotto, admirând culorile apusului reflectate în apele Mediteranei.",
+        "en": "Start your day on the 'Rock' of Monaco with the palace's ceremonial guard change and the solemn beauty of the Cathedral. Midday is for exploring the Oceanographic Museum before descending to the yacht-filled harbor. Spend your afternoon embracing Monte Carlo's glamor at the world-famous Casino and its surrounding gardens. Finally, unwind at Larvotto Beach as the sun sets over the Mediterranean sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barbajuan",
+            "tip": "Frittierte Teigtaschen gefüllt mit Mangold und Ricotta bei A Roca."
+          },
+          {
+            "name": "Quai des Artistes",
+            "tip": "Klassische Brasserie am Hafen für frische Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barbajuan",
+            "tip": "Mángolddal és ricottával töltött sült tészta az A Roca üzleteiben."
+          },
+          {
+            "name": "Quai des Artistes",
+            "tip": "Klasszikus kikötői étterem kiváló tengeri gyümölcsökkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barbajuan",
+            "tip": "Plăcinte prăjite cu sfeclă și ricotta la A Roca."
+          },
+          {
+            "name": "Quai des Artistes",
+            "tip": "Braserie clasică în port pentru fructe de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barbajuan",
+            "tip": "Fried pastry filled with Swiss chard and ricotta at A Roca."
+          },
+          {
+            "name": "Quai des Artistes",
+            "tip": "Classic portside brasserie known for fresh seafood platters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins Saint-Martin",
+            "tip": "Ruhige Gärten an den Klippen mit Panoramablick.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fontvieille Park",
+            "tip": "Entspannter Park mit Skulpturen und Rosengarten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins Saint-Martin",
+            "tip": "Csendes szikla menti kertek panorámás kilátással.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fontvieille park",
+            "tip": "Nyugodt park szobrokkal és rózsakerttel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins Saint-Martin",
+            "tip": "Grădini liniștite pe stânci cu vedere panoramică.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Fontvieille",
+            "tip": "Parc relaxant cu sculpturi și o grădină de trandafiri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Martin Gardens",
+            "tip": "Quiet cliffside gardens with panoramic sea views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fontvieille Park",
+            "tip": "Relaxing park with sculptures and a rose garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de la Condamine",
+            "tip": "Authentischer lokaler Markt für Spezialitäten."
+          },
+          {
+            "name": "Métropole Shopping Monte-Carlo",
+            "tip": "Luxuriöses Einkaufszentrum unter der Erde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché de la Condamine",
+            "tip": "Hiteles helyi piac monacói különlegességekkel."
+          },
+          {
+            "name": "Métropole Shopping Monte-Carlo",
+            "tip": "Luxus bevásárlóközpont csillogó belső terekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché de la Condamine",
+            "tip": "Piață locală autentică pentru specialități."
+          },
+          {
+            "name": "Métropole Shopping Monte-Carlo",
+            "tip": "Centru comercial de lux cu interioare elegante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Condamine Market",
+            "tip": "Authentic local market for Monegasque specialties."
+          },
+          {
+            "name": "Métropole Shopping Monte-Carlo",
+            "tip": "High-end shopping center with stunning interiors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die öffentlichen Aufzüge, um die verschiedenen Ebenen der Stadt mühelos zu erreichen.",
+          "Die Altstadt (Monaco-Ville) lässt sich am besten vormittags erkunden.",
+          "Tragen Sie bequeme Schuhe, da Monaco trotz seiner Größe viele Steigungen hat.",
+          "Die meisten Sehenswürdigkeiten sind fußläufig erreichbar."
+        ],
+        "hu": [
+          "Használja a nyilvános lifteket, hogy könnyen közlekedhessen a város szintjei között.",
+          "Az óvárost (Monaco-Ville) érdemes délelőtt felfedezni a tömeg előtt.",
+          "Viseljen kényelmes cipőt, mert Monaco domborzata tartogat emelkedőket.",
+          "A látnivalók nagy része gyalogosan is sétatávolságra van egymástól."
+        ],
+        "ro": [
+          "Folosiți lifturile publice pentru a naviga ușor între diferitele niveluri ale orașului.",
+          "Orașul vechi (Monaco-Ville) este cel mai bine explorat dimineața.",
+          "Purtați încălțăminte confortabilă, deoarece Monaco are multe pante.",
+          "Majoritatea obiectivelor turistice sunt accesibile pe jos."
+        ],
+        "en": [
+          "Use the public elevators to travel between the city's different levels easily.",
+          "Explore the Old Town (Monaco-Ville) in the morning to avoid the largest crowds.",
+          "Wear comfortable shoes as Monaco has many steep paths and stairs.",
+          "Most main attractions are within walking distance of each other."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontvieille Park",
+            "hu": "Fontvieille park",
+            "ro": "Parcul Fontvieille",
+            "en": "Fontvieille Park"
+          },
+          "coords": [
+            7.4182,
+            43.7285
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Princess Grace Rosengarten.",
+            "hu": "Látogasson el a Grace hercegnő rózsakertbe.",
+            "ro": "Vizitați grădina de trandafiri Princess Grace.",
+            "en": "Visit the Princess Grace Rose Garden here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Fontvieille",
+            "hu": "Fontvieille kikötő",
+            "ro": "Portul Fontvieille",
+            "en": "Port of Fontvieille"
+          },
+          "coords": [
+            7.4205,
+            43.7275
+          ],
+          "category": "port",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ruhiger als Port Hercule und sehr fotogen.",
+            "hu": "Csendesebb és nagyon fotogén kikötő.",
+            "ro": "Mai liniștit decât Port Hercule și foarte fotogenic.",
+            "en": "Quieter than Port Hercule and very photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai des États-Unis",
+            "hu": "Quai des États-Unis",
+            "ro": "Quai des États-Unis",
+            "en": "Quai des États-Unis"
+          },
+          "coords": [
+            7.4255,
+            43.7375
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Formel-1-Strecke.",
+            "hu": "Tekerjen végig a Forma-1-es pálya vonalán.",
+            "ro": "Pedalați de-a lungul circuitului de Formula 1.",
+            "en": "Cycle along the famous Formula 1 track route."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Dévote",
+            "hu": "Szent Devóta-templom",
+            "ro": "Biserica Sainte-Dévote",
+            "en": "Sainte-Dévote Church"
+          },
+          "coords": [
+            7.4195,
+            43.7385
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kleine Kirche in einem tiefen Tal.",
+            "hu": "Egy kis templom egy mély völgyben.",
+            "ro": "O biserică mică situată într-o vale adâncă.",
+            "en": "A charming small church in a deep valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Casino",
+            "hu": "Kaszinó tér",
+            "ro": "Piața Cazinoului",
+            "en": "Casino Square"
+          },
+          "coords": [
+            7.4281,
+            43.7391
+          ],
+          "category": "square",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und genießen Sie ein Eis.",
+            "hu": "Parkolja le a biciklit és élvezzen egy fagyit.",
+            "ro": "Parcați bicicleta și savurați o înghețată.",
+            "en": "Park your bike and enjoy an ice cream here."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Méridien Beach",
+            "hu": "Le Méridien part",
+            "ro": "Plaja Le Méridien",
+            "en": "Le Méridien Beach"
+          },
+          "coords": [
+            7.4375,
+            43.7465
+          ],
+          "category": "beach",
+          "arrive_at": "14:36",
+          "stay_min": 120,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am östlichen Ende Monacos.",
+            "hu": "A túra lezárása Monaco keleti végén.",
+            "ro": "Finalul turului la capătul estic al Monaco.",
+            "en": "End your tour at the eastern edge of Monaco."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Monaco mit dem Fahrrad und starten Sie im ruhigen Fontvieille, vorbei an Jachthäfen und Gärten. Fahren Sie ein Stück auf der legendären Grand-Prix-Strecke bis zum Casino-Platz. Mittags machen Sie eine Pause an der malerischen Sainte-Dévote-Kirche. Der Nachmittag führt Sie entlang der Küste bis zu den Stränden im Osten, wo Sie die Meeresbrise und die Freiheit auf zwei Rädern voll genießen können.",
+        "hu": "Fedezze fel Monacót kerékpáron, kezdve a nyugodt Fontvieille negyedben, jachtkikötők és kertek mellett elhaladva. Tekerjen végig a legendás Grand Prix pálya egy szakaszán egészen a Kaszinó térig. Délben tartson pihenőt a festői Sainte-Dévote templomnál. A délután a tengerparti úton vezet el a keleti strandokig, ahol élvezheti a tengeri szellőt és a két keréken átélt szabadságot.",
+        "ro": "Explorați Monaco cu bicicleta, începând din liniștitul Fontvieille, trecând pe lângă porturi și grădini. Pedalați pe o porțiune din legendarul circuit de Grand Prix până la Piața Cazinoului. La prânz, faceți o pauză la pitoreasca biserică Sainte-Dévote. După-amiaza vă poartă de-a lungul coastei până la plajele din est, unde vă puteți bucura de briza mării și de libertatea pe două roți.",
+        "en": "Explore Monaco by bike, starting in the peaceful Fontvieille district, passing marinas and lush gardens. Cycle a portion of the legendary Grand Prix circuit all the way to Casino Square. Take a midday break at the scenic Sainte-Dévote Church. Your afternoon continues along the coastal road to the eastern beaches, where you can fully enjoy the sea breeze and the freedom of being on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mona",
+            "tip": "Gesunde Bowls und Säfte im Monte-Carlo Star."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mona",
+            "tip": "Egészséges tálak és levek a Monte-Carlo Star-nál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mona",
+            "tip": "Boluri sănătoase și sucuri la Monte-Carlo Star."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mona",
+            "tip": "Healthy bowls and fresh juices near Monte-Carlo Star."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Roseraie Princesse Grace",
+            "tip": "Ein duftender Ort der Stille.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grace hercegnő rózsakert",
+            "tip": "Illatos, csendes sziget a városban.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roseraie Princesse Grace",
+            "tip": "Un loc parfumat de liniște.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Princess Grace Rose Garden",
+            "tip": "A fragrant haven of peace.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fontvieille Shopping Centre",
+            "tip": "Praktisch und gut erreichbar mit dem Rad."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontvieille bevásárlóközpont",
+            "tip": "Praktikus és biciklivel könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Fontvieille",
+            "tip": "Practic și ușor accesibil cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fontvieille Shopping Centre",
+            "tip": "Convenient and easily accessible by bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'MonaBike' Elektrofahrräder für die steilen Abschnitte.",
+          "Fahrradwege sind im Tunnelabschnitt gut markiert.",
+          "Vermeiden Sie die Hauptverkehrszeiten auf den engen Straßen.",
+          "Achten Sie auf Fußgänger in den gemischten Zonen."
+        ],
+        "hu": [
+          "Használja a 'MonaBike' elektromos kerékpárokat az emelkedőkön.",
+          "A kerékpárutak jól jelzettek az alagút szakaszokon is.",
+          "Kerülje a csúcsforgalmat a szűk utcákon.",
+          "Figyeljen a gyalogosokra a vegyes zónákban."
+        ],
+        "ro": [
+          "Folosiți bicicletele electrice 'MonaBike' pentru secțiunile în pantă.",
+          "Pistele de biciclete sunt bine marcate în secțiunile de tunel.",
+          "Evitați orele de vârf pe străzile înguste.",
+          "Fiți atenți la pietoni în zonele mixte."
+        ],
+        "en": [
+          "Use 'MonaBike' electric bicycles to tackle the city's steep hills.",
+          "Bike lanes are clearly marked, even through the tunnel sections.",
+          "Avoid peak traffic hours on the narrow city streets.",
+          "Be mindful of pedestrians in shared zones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Exotischer Garten",
+            "hu": "Egzotikus Kert",
+            "ro": "Grădina Exotică",
+            "en": "Exotic Garden"
+          },
+          "coords": [
+            7.4137,
+            43.7314
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt im Parkhaus unter dem Garten.",
+            "hu": "Parkoljon közvetlenül a kert alatti parkolóházban.",
+            "ro": "Parcați direct în garajul de sub grădină.",
+            "en": "Park directly in the underground garage below the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Èze Village",
+            "hu": "Èze falu",
+            "ro": "Satul Èze",
+            "en": "Èze Village"
+          },
+          "coords": [
+            7.3615,
+            43.7276
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein mittelalterliches Dorf hoch über dem Meer.",
+            "hu": "Középkori falu magasan a tenger felett.",
+            "ro": "Un sat medieval cocoțat deasupra mării.",
+            "en": "A medieval village perched high above the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte-Carlo Beach",
+            "hu": "Monte-Carlo Beach",
+            "ro": "Monte-Carlo Beach",
+            "en": "Monte-Carlo Beach"
+          },
+          "coords": [
+            7.4425,
+            43.7505
+          ],
+          "category": "beach",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Exklusiver Strandclub an der Grenze zu Frankreich.",
+            "hu": "Exkluzív strandklub a francia határon.",
+            "ro": "Club de plajă exclusivist la granița cu Franța.",
+            "en": "Exclusive beach club on the border with France."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête de Chien",
+            "hu": "Tête de Chien kilátó",
+            "ro": "Tête de Chien",
+            "en": "Tête de Chien"
+          },
+          "coords": [
+            7.4025,
+            43.7315
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Der beste Blick von oben auf das gesamte Fürstentum.",
+            "hu": "A legjobb kilátás fentről az egész hercegségre.",
+            "ro": "Cea mai bună vedere de sus asupra întregului principat.",
+            "en": "The best aerial view of the entire Principality."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            7.4175,
+            43.7325
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für einen Snack vor der Abfahrt.",
+            "hu": "Ideális egy gyors falathoz indulás előtt.",
+            "ro": "Ideal pentru o gustare înainte de plecare.",
+            "en": "Ideal for a quick snack before heading out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Freiheit, auch die Umgebung Monacos zu erkunden. Starten Sie im Exotischen Garten mit seiner Höhle, bevor Sie ins malerische Èze Village fahren. Mittags entspannen Sie in einem exklusiven Beach Club. Der Nachmittag bietet spektakuläre Ausblicke vom Tête de Chien, bevor Sie den Tag am lebhaften Place d'Armes im Herzen des Kondamine-Viertels beenden.",
+        "hu": "Autóval élvezheti a szabadságot, hogy Monaco környékét is felfedezze. Kezdjen az Egzotikus Kertnél, majd autózzon át a festői Èze faluba. Délben pihenjen egy exkluzív strandklubban. A délután látványos kilátást kínál a Tête de Chien szikláról, mielőtt a napot a nyüzsgő Place d'Armes téren fejezné be, a Condamine negyed szívében.",
+        "ro": "Cu mașina, vă bucurați de libertatea de a explora și împrejurimile Monaco. Începeți la Grădina Exotică, apoi conduceți spre satul pitoresc Èze. La prânz, relaxați-vă la un club de plajă exclusivist. După-amiaza oferă vederi spectaculoase de pe Tête de Chien, înainte de a încheia ziua în vibranta Place d'Armes, inima cartierului Condamine.",
+        "en": "By car, you enjoy the freedom to explore Monaco’s stunning surroundings. Start at the Exotic Garden and its cave before driving to the picturesque village of Èze. Spend your midday relaxing at an exclusive beach club. The afternoon offers spectacular views from Tête de Chien, before wrapping up your day at the lively Place d'Armes in the heart of the Condamine district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Castelroc",
+            "tip": "Traditionelle Küche auf dem Felsen von Monaco."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Castelroc",
+            "tip": "Hagyományos konyha Monaco szikláján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Castelroc",
+            "tip": "Bucătărie tradițională pe stânca din Monaco."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Castelroc",
+            "tip": "Traditional Monegasque cuisine on the Rock of Monaco."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tête de Chien",
+            "tip": "Ruhe und Weite hoch über der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tête de Chien",
+            "tip": "Csend és tágas tér magasan a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tête de Chien",
+            "tip": "Liniște și spațiu deasupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tête de Chien",
+            "tip": "Peace and wide horizons high above the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrefour Monaco",
+            "tip": "Großer Supermarkt für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrefour Monaco",
+            "tip": "Nagy szupermarket helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrefour Monaco",
+            "tip": "Supermarket mare pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrefour Monaco",
+            "tip": "Large supermarket for local French and Monegasque products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die zahlreichen Parkhäuser (Parkings Publics).",
+          "Achten Sie auf die Einbahnstraßenregelung in Monte-Carlo.",
+          "Die Parkgebühren sind für die erste Stunde oft kostenlos.",
+          "In Èze gibt es nur begrenzte Parkmöglichkeiten am Fuß des Dorfes."
+        ],
+        "hu": [
+          "Használja a számos nyilvános parkolóházat (Parkings Publics).",
+          "Figyeljen az egyirányú utcákra Monte-Carlóban.",
+          "A parkolás az első órában gyakran ingyenes.",
+          "Èze-ben korlátozott a parkolási lehetőség a falu alján."
+        ],
+        "ro": [
+          "Folosiți numeroasele parcări publice (Parkings Publics).",
+          "Atenție la sensurile unice din Monte-Carlo.",
+          "Parcarea este adesea gratuită pentru prima oră.",
+          "În Èze, locurile de parcare sunt limitate la baza satului."
+        ],
+        "en": [
+          "Take advantage of the many public parking garages (Parkings Publics).",
+          "Be mindful of the one-way street systems in Monte Carlo.",
+          "Parking is often free for the first hour in most garages.",
+          "In Èze, parking is limited at the foot of the medieval village."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Monaco-Monte-Carlo",
+            "hu": "Monaco-Monte-Carlo vasútállomás",
+            "ro": "Gara Monaco-Monte-Carlo",
+            "en": "Monaco-Monte-Carlo Station"
+          },
+          "coords": [
+            7.4185,
+            43.7385
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein moderner, unterirdischer Bahnhof.",
+            "hu": "Modern, föld alatti vasútállomás.",
+            "ro": "O gară modernă, subterană.",
+            "en": "A modern, underground railway station."
+          }
+        },
+        {
+          "name": {
+            "de": "Bateau Bus - Port Hercule",
+            "hu": "Bateau Bus - Kikötői kishajó",
+            "ro": "Bateau Bus - Port Hercule",
+            "en": "Bateau Bus - Port Hercule"
+          },
+          "coords": [
+            7.4245,
+            43.7355
+          ],
+          "category": "port",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Hafen mit dem Solarboot.",
+            "hu": "Szelje át a kikötőt a napelemes kishajóval.",
+            "ro": "Traversați portul cu barca solară.",
+            "en": "Cross the harbor using the solar-powered boat."
+          }
+        },
+        {
+          "name": {
+            "de": "Grimaldi Forum",
+            "hu": "Grimaldi Forum",
+            "ro": "Grimaldi Forum",
+            "en": "Grimaldi Forum"
+          },
+          "coords": [
+            7.4305,
+            43.7425
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Kalender auf aktuelle Ausstellungen.",
+            "hu": "Ellenőrizze a naptárat az aktuális kiállításokért.",
+            "ro": "Verificați calendarul pentru expozițiile curente.",
+            "en": "Check the calendar for current cultural exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Condamine Markt",
+            "hu": "Condamine piac",
+            "ro": "Piața Condamine",
+            "en": "Condamine Market"
+          },
+          "coords": [
+            7.4195,
+            43.7335
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Halle mit vielen kleinen Essensständen.",
+            "hu": "Vásárcsarnok sok kis ételstanddal.",
+            "ro": "Hala cu multe standuri de mâncare.",
+            "en": "Food hall with many local gourmet stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum (Villa Sauber)",
+            "hu": "Nemzeti Múzeum (Villa Sauber)",
+            "ro": "Muzeul Național (Villa Sauber)",
+            "en": "National Museum (Villa Sauber)"
+          },
+          "coords": [
+            7.4325,
+            43.7445
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zeitgenössische Kunst in einer prächtigen Villa.",
+            "hu": "Kortárs művészet egy pompás villában.",
+            "ro": "Artă contemporană într-o vilă superbă.",
+            "en": "Contemporary art set in a magnificent villa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem und den Bateau Bus, um Monaco entspannt zu erleben. Starten Sie am beeindruckenden Bahnhof und gleiten Sie mit dem Solarboot über den Hafen. Entdecken Sie Kultur im Grimaldi Forum und genießen Sie die lebhafte Atmosphäre auf dem Condamine Markt. Den Nachmittag verbringen Sie im Nationalmuseum, untergebracht in einer historischen Villa mit wunderschönem Garten.",
+        "hu": "Használja ki az élenjáró buszhálózatot és a Bateau Bus-t Monaco kényelmes felfedezéséhez. Kezdjen a lenyűgöző vasútállomásnál, majd szelje át a kikötőt napelemes kishajóval. Fedezze fel a kultúrát a Grimaldi Forumon, és élvezze a pezsgő hangulatot a Condamine piacon. A délutánt töltse a Nemzeti Múzeumban, amely egy történelmi villában kapott helyet.",
+        "ro": "Profită de sistemul eficient de autobuze și de Bateau Bus pentru a experimenta Monaco relaxat. Începeți de la gara impresionantă și traversați portul cu barca solară. Descoperiți cultura la Grimaldi Forum și bucurați-vă de atmosfera vibrantă din Piața Condamine. După-amiaza, vizitați Muzeul Național, găzduit într-o vilă istorică superbă.",
+        "en": "Utilize Monaco's efficient bus network and the Bateau Bus to experience the city at a relaxed pace. Start at the impressive railway station and glide across the harbor on a solar-powered boat. Discover culture at the Grimaldi Forum and enjoy the lively gourmet atmosphere at Condamine Market. Spend your afternoon at the National Museum, housed in a historic villa with beautiful gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Roger",
+            "tip": "Beste Socca der Stadt auf dem Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Roger",
+            "tip": "A város legjobb Soccája (csicseriborsó lepény) a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Roger",
+            "tip": "Cea mai bună Socca din oraș la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Roger",
+            "tip": "Known for serving the best Socca (chickpea pancake) in town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Japonais",
+            "tip": "Stille am Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japán kert",
+            "tip": "Csend a tengerpart közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză",
+            "tip": "Liniște lângă mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden",
+            "tip": "A peaceful escape by the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de la Condamine",
+            "tip": "Regionale Produkte und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Condamine piac",
+            "tip": "Regionális termékek és helyi ízek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Condamine",
+            "tip": "Produse regionale și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Condamine Market",
+            "tip": "Great for regional produce and specialty foods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket direkt beim Fahrer oder am Automaten.",
+          "Der Bateau Bus ist im Tagesticket enthalten.",
+          "Die Busse fahren sehr häufig und pünktlich.",
+          "Nutzen Sie die App 'Monapass' für digitale Tickets."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a vezetőnél vagy az automatáknál.",
+          "A Bateau Bus ára benne van a napijegyben.",
+          "A buszok gyakran és nagyon pontosan járnak.",
+          "Használja a 'Monapass' alkalmazást digitális jegyvásárláshoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi direct de la șofer sau de la automat.",
+          "Bateau Bus este inclus în biletul de o zi.",
+          "Autobuzele circulă foarte frecvent și punctual.",
+          "Folosiți aplicația 'Monapass' pentru bilete digitale."
+        ],
+        "en": [
+          "Buy a day pass from the bus driver or at ticket machines.",
+          "The Bateau Bus harbor crossing is included in your bus pass.",
+          "Buses are very frequent and run strictly on schedule.",
+          "Download the 'Monapass' app for easy digital ticket management."
+        ]
+      }
+    }
+  }
+}

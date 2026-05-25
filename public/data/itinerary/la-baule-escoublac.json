@@ -1,0 +1,1134 @@
+{
+  "city_id": "la-baule-escoublac",
+  "anchor": {
+    "name": "La Baule-Escoublac",
+    "coords": [
+      -2.3939,
+      47.2856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt von La Baule",
+            "hu": "La Baule piaca",
+            "ro": "Piața din La Baule",
+            "en": "La Baule Market"
+          },
+          "coords": [
+            -2.3905,
+            47.2872
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Kouign-amann Kuchen.",
+            "hu": "Kóstolja meg a helyi Kouign-amann süteményt.",
+            "ro": "Gustați prăjitura locală Kouign-amann.",
+            "en": "Try the local Kouign-amann cake."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenue du Général de Gaulle",
+            "hu": "Avenue de Gaulle sugárút",
+            "ro": "Bulevardul de Gaulle",
+            "en": "Avenue de Gaulle"
+          },
+          "coords": [
+            -2.392,
+            47.285
+          ],
+          "category": "shopping",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die schickste Einkaufsstraße der Stadt.",
+            "hu": "A város legelegánsabb bevásárlóutcája.",
+            "ro": "Cea mai elegantă stradă de shopping.",
+            "en": "The chicest shopping street in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von La Baule",
+            "hu": "La Baule-i strand",
+            "ro": "Plaja La Baule",
+            "en": "La Baule Beach"
+          },
+          "coords": [
+            -2.394,
+            47.2825
+          ],
+          "category": "beach",
+          "arrive_at": "11:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mieten Sie eine der blau-weiß gestreiften Strandkabinen.",
+            "hu": "Béreljen egyet a kék-fehér csíkos strandkabinokból.",
+            "ro": "Închiriați o cabină de plajă cu dungi albastre.",
+            "en": "Rent one of the blue and white striped beach cabins."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer",
+            "hu": "Tengerparti ebéd",
+            "ro": "Prânz pe malul mării",
+            "en": "Seaside Lunch"
+          },
+          "coords": [
+            -2.396,
+            47.2818
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frische Muscheln mit Pommes sind ein Muss.",
+            "hu": "A friss kagyló sült krumplival kötelező.",
+            "ro": "Scoicile proaspete cu cartofi prăjiți sunt obligatorii.",
+            "en": "Fresh mussels with fries are a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Barrière",
+            "hu": "Barrière Kaszinó",
+            "ro": "Cazinoul Barrière",
+            "en": "Casino Barrière"
+          },
+          "coords": [
+            -2.398,
+            47.2815
+          ],
+          "category": "landmark",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude im Belle-Époque-Stil.",
+            "hu": "Pompás épület Belle-Époque stílusban.",
+            "ro": "O clădire splendidă în stil Belle-Époque.",
+            "en": "A magnificent building in Belle-Époque style."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Anne",
+            "hu": "Szent Anna kápolna",
+            "ro": "Capela Sainte-Anne",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            -2.385,
+            47.286
+          ],
+          "category": "religious",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Oft finden hier schöne Kunstausstellungen statt.",
+            "hu": "Gyakran rendeznek itt szép művészeti kiállításokat.",
+            "ro": "Aici se organizează des expoziții de artă.",
+            "en": "Beautiful art exhibitions are often held here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften Markt, wo Sie lokale Köstlichkeiten und das berühmte Guérande-Salz finden. Ein kurzer Spaziergang führt Sie durch die Avenue de Gaulle, das Herz des eleganten Einkaufsviertels der Stadt.\n\nMittags erwartet Sie der 9 Kilometer lange Sandstrand, einer der schönsten Europas. Genießen Sie die Sonne und das entspannte Treiben unter den ikonischen Sonnenschirmen.\n\nNach einem ausgiebigen Mittagessen mit Meeresfrüchten direkt am Wasser schlendern wir entlang der Promenade zum prachtvollen Casino, einem Symbol für den Glanz der Belle Époque.\n\nDen Nachmittag lassen wir kulturell in der Kapelle Sainte-Anne ausklingen, bevor wir den Tag mit einem Blick auf die Villen der Pinienwälder beenden.",
+        "hu": "Kezdje a napot a nyüzsgő piacon, ahol helyi finomságokat és a híres guérande-i sót is megtalálja. Egy rövid séta elvezeti az Avenue de Gaulle-ra, a város elegáns bevásárlónegyedének szívébe.\n\nDélben várja Önt a 9 kilométer hosszú homokos strand, Európa egyik legszebbje. Élvezze a napsütést és a pihentető nyüzsgést az ikonikus napernyők alatt.\n\nEgy bőséges, közvetlenül a vízparton elfogyasztott tengeri ebéd után végigsétálunk a sétányon a pompás Kaszinóig, amely a Belle Époque csillogásának jelképe.\n\nA délutánt kulturális élménnyel zárjuk a Szent Anna kápolnában, majd a napot a fenyvesek villái közötti sétával fejezzük be.",
+        "ro": "Începeți ziua în piața plină de viață, unde veți găsi delicii locale și faimoasa sare de Guérande. O scurtă plimbare vă duce pe Avenue de Gaulle, inima zonei comerciale elegante a orașului.\n\nLa prânz, vă așteaptă plaja cu nisip lungă de 9 kilometri, una dintre cele mai frumoase din Europa. Bucurați-vă de soare și de atmosfera relaxată sub umbrelele iconice.\n\nDupă un prânz copios cu fructe de mare chiar pe malul apei, ne plimbăm de-a lungul promenadei până la splendidul Cazinou, un simbol al strălucirii din Belle Époque.\n\nÎncheiem după-amiaza cultural la Capela Sainte-Anne, înainte de a finaliza ziua cu o privire asupra vilelor ascunse în pădurea de pini.",
+        "en": "Start your day at the lively market, where you can find local delicacies and the famous Guérande salt. A short walk takes you to Avenue de Gaulle, the heart of the city's elegant shopping district.\n\nAt midday, the 9-kilometer long sandy beach awaits, one of the most beautiful in Europe. Enjoy the sun and the relaxing buzz under the iconic beach umbrellas.\n\nAfter a hearty seafood lunch right by the water, we stroll along the promenade to the magnificent Casino, a symbol of Belle Époque glamour.\n\nWe end the afternoon with a cultural touch at Chapelle Sainte-Anne, before finishing the day by admiring the villas nestled in the pine woods."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plateau de Fruits de Mer",
+            "tip": "Frische Meeresfrüchte direkt am Strand bei 'Les Albatros'."
+          },
+          {
+            "name": "Kouign-amann",
+            "tip": "Ein buttriger bretonischer Kuchen vom Markt."
+          },
+          {
+            "name": "Crêpes & Galettes",
+            "tip": "Traditionelle Buchweizenpfannkuchen in der 'Crêperie du Derwin'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Friss tengeri herkenyűk a 'Les Albatros' teraszán."
+          },
+          {
+            "name": "Kouign-amann",
+            "tip": "Vajas breton sütemény a helyi piacról."
+          },
+          {
+            "name": "Crêpes és Galettes",
+            "tip": "Hagyományos hajdina palacsinta a 'Crêperie du Derwin'-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Fructe de mare proaspete pe malul mării la 'Les Albatros'."
+          },
+          {
+            "name": "Kouign-amann",
+            "tip": "O prăjitură bretonă cu unt de la piață."
+          },
+          {
+            "name": "Crêpes & Galettes",
+            "tip": "Clătite tradiționale din hrișcă la 'Crêperie du Derwin'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Platter",
+            "tip": "Fresh seafood right on the beach at 'Les Albatros'."
+          },
+          {
+            "name": "Kouign-amann",
+            "tip": "A buttery Breton cake from the local market."
+          },
+          {
+            "name": "Crêpes & Galettes",
+            "tip": "Traditional buckwheat pancakes at 'Crêperie du Derwin'."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt d'Escoublac",
+            "tip": "Ein ruhiger Pinienwald zum Wandern.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Parc des Dryades",
+            "tip": "Ein friedlicher Park mit einem Amphitheater.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sonnenuntergang am Strand",
+            "tip": "Romantischer Abendspaziergang am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forêt d'Escoublac",
+            "tip": "Csendes fenyőerdő túrázáshoz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Parc des Dryades",
+            "tip": "Békés park amfiteátrummal.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Naplemente a strandon",
+            "tip": "Romantikus esti séta a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Escoublac",
+            "tip": "O pădure de pini liniștită pentru drumeții.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Parcul Dryades",
+            "tip": "Un parc liniștit cu un amfiteatru.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus pe plajă",
+            "tip": "Plimbare romantică de seară pe malul apei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Escoublac Forest",
+            "tip": "A quiet pine forest for hiking.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Dryades Park",
+            "tip": "A peaceful park with an amphitheater.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Sunset on the beach",
+            "tip": "Romantic evening walk by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de La Baule",
+            "tip": "Lokale Produkte und Kleidung."
+          },
+          {
+            "name": "Avenue de Gaulle",
+            "tip": "Luxusmarken und kleine Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Baule-i piac",
+            "tip": "Helyi termékek és ruházati cikkek."
+          },
+          {
+            "name": "Avenue de Gaulle",
+            "tip": "Luxusmárkák és kis butikok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața La Baule",
+            "tip": "Produse locale și îmbrăcăminte."
+          },
+          {
+            "name": "Bulevardul de Gaulle",
+            "tip": "Branduri de lux și buticuri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Baule Market",
+            "tip": "Local products and clothing."
+          },
+          {
+            "name": "Avenue de Gaulle",
+            "tip": "Luxury brands and small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Strandspaziergang.",
+          "Der Markt ist morgens am besten besucht.",
+          "Casual Chic ist der passende Kleidungsstil für die Stadt.",
+          "In der Hochsaison ist der Strand sehr belebt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a tengerparti sétához.",
+          "A piac reggel a legélénkebb.",
+          "A 'casual chic' a legmegfelelőbb öltözködési stílus.",
+          "Főszezonban a strand nagyon zsúfolt lehet."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru plimbarea pe plajă.",
+          "Piața este cea mai animată dimineața.",
+          "Stilul 'casual chic' este cel mai potrivit pentru oraș.",
+          "În plin sezon, plaja este foarte aglomerată."
+        ],
+        "en": [
+          "Wear comfortable shoes for the beach walk.",
+          "The market is best visited in the morning.",
+          "Casual chic is the appropriate dress code for the town.",
+          "The beach gets very busy during high season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forêt d'Escoublac",
+            "hu": "Escoublac fenyves",
+            "ro": "Pădurea Escoublac",
+            "en": "Escoublac Forest"
+          },
+          "coords": [
+            -2.378,
+            47.292
+          ],
+          "category": "park",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekte Wege im Schatten der Pinien.",
+            "hu": "Tökéletes ösvények a fenyők árnyékában.",
+            "ro": "Trasee perfecte la umbra pinilor.",
+            "en": "Perfect paths in the shade of the pines."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Dryades",
+            "hu": "Dryades park",
+            "ro": "Parcul Dryades",
+            "en": "Dryades Park"
+          },
+          "coords": [
+            -2.368,
+            47.289
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein botanisches Juwel der Stadt.",
+            "hu": "A város botanikai ékszere.",
+            "ro": "O bijuterie botanică a orașului.",
+            "en": "A botanical gem of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "La Baule Promenade",
+            "hu": "La Baule sétány",
+            "ro": "Promenada La Baule",
+            "en": "La Baule Promenade"
+          },
+          "coords": [
+            -2.39,
+            47.283
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Radweg mit herrlicher Aussicht.",
+            "hu": "Kerékpárút gyönyörű kilátással.",
+            "ro": "Pistă de biciclete cu vedere superbă.",
+            "en": "A bike path with a stunning view."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de La Baule - Le Pouliguen",
+            "hu": "La Baule - Le Pouliguen kikötő",
+            "ro": "Portul La Baule - Le Pouliguen",
+            "en": "Port of La Baule - Le Pouliguen"
+          },
+          "coords": [
+            -2.42,
+            47.275
+          ],
+          "category": "port",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen am Hafen.",
+            "hu": "Ideális egy kikötői ebédhez.",
+            "ro": "Ideal pentru un prânz în port.",
+            "en": "Ideal for a lunch at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Penchâteau",
+            "hu": "Penchâteau-fok",
+            "ro": "Punctul Penchâteau",
+            "en": "Pointe de Penchâteau"
+          },
+          "coords": [
+            -2.428,
+            47.265
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht auf den Ozean.",
+            "hu": "Látványos kilátás az óceánra.",
+            "ro": "Vedere spectaculoasă spre ocean.",
+            "en": "Spectacular view of the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché de La Baule",
+            "hu": "La Baule-i piac",
+            "ro": "Piața La Baule",
+            "en": "La Baule Market"
+          },
+          "coords": [
+            -2.3905,
+            47.2872
+          ],
+          "category": "shopping",
+          "arrive_at": "15:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besorgen Sie Souvenirs für zu Hause.",
+            "hu": "Vásároljon ajándéktárgyakat hazára.",
+            "ro": "Cumpărați suveniruri pentru acasă.",
+            "en": "Buy some souvenirs to take home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und erkunden Sie zuerst den schattigen Pinienwald von Escoublac, wo die Wege flach und einladend sind. Weiter geht es zum Parc des Dryades, einer grünen Oase der Ruhe.\n\nMittags radeln wir entlang der gesamten Bucht von La Baule bis zum charmanten Hafen von Le Pouliguen, wo Fischerboote und Yachten nebeneinander schaukeln.\n\nNach einer Stärkung am Hafen führt uns der Weg zur Pointe de Penchâteau, wo die Küste wilder wird und der Blick über den Atlantik grenzenlos scheint.\n\nZum Abschluss des Tages fahren wir zurück ins Stadtzentrum, um die Atmosphäre am Markt zu genießen und die prachtvollen Villen in den Alleen zu bewundern.",
+        "hu": "Pattanjon nyeregbe, és fedezze fel először Escoublac árnyas fenyőerdőjét, ahol az utak síkok és csalogatóak. Folytassa az utat a Parc des Dryades-hez, a nyugalom zöld oázisához.\n\nDélben végigkerekezünk a teljes La Baule-i öblön egészen Le Pouliguen bájos kikötőjéig, ahol halászhajók és jachtok ringatóznak egymás mellett.\n\nEgy kikötői ebéd után az út a Penchâteau-fokhoz vezet, ahol a partvidék vadabbá válik, és az Atlanti-óceánra nyíló kilátás határtalannak tűnik.\n\nA nap végén visszatérünk a városközpontba, hogy élvezzük a piaci hangulatot és megcsodáljuk az allékon sorakozó pompás villákat.",
+        "ro": "Urcați pe bicicletă și explorați mai întâi pădurea de pini umbroasă din Escoublac, unde potecile sunt plate și primitoare. Continuați spre Parcul Dryades, o oază verde de liniște.\n\nLa prânz, pedalăm de-a lungul întregului golf La Baule până la portul fermecător din Le Pouliguen, unde bărcile de pescuit și iahturile se leagănă împreună.\n\nDupă o gustare în port, drumul ne duce la Pointe de Penchâteau, unde coasta devine mai sălbatică și vederea spre Atlantic pare nesfârșită.\n\nLa finalul zilei, ne întoarcem în centrul orașului pentru a ne bucura de atmosfera pieței și pentru a admira vilele splendide de pe alei.",
+        "en": "Hop on your bike and first explore the shaded pine forest of Escoublac, where the paths are flat and inviting. Continue to Dryades Park, a green oasis of peace.\n\nAt midday, we cycle along the entire bay of La Baule to the charming harbor of Le Pouliguen, where fishing boats and yachts rock side by side.\n\nAfter a harbor-side lunch, the path leads to Pointe de Penchâteau, where the coast becomes wilder and the view over the Atlantic seems boundless.\n\nTo end the day, we cycle back to the town center to enjoy the market atmosphere and admire the magnificent villas along the avenues."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêpe Caramel au Beurre Salé",
+            "tip": "Am Hafen von Le Pouliguen genießen."
+          },
+          {
+            "name": "Austern aus der Bucht",
+            "tip": "Frisch vom Erzeuger am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sós karamellás palacsinta",
+            "tip": "Élvezze Le Pouliguen kikötőjében."
+          },
+          {
+            "name": "Osztriga az öbölből",
+            "tip": "Frissen a termelőtől a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêpe cu caramel sărat",
+            "tip": "Savurați-o în portul Le Pouliguen."
+          },
+          {
+            "name": "Stridii din golf",
+            "tip": "Proaspete de la producător în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salted Caramel Crêpe",
+            "tip": "Enjoy it by the harbor in Le Pouliguen."
+          },
+          {
+            "name": "Bay Oysters",
+            "tip": "Fresh from the producer at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe de Penchâteau",
+            "tip": "Ruhiger Blick auf die Klippen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Penchâteau-fok",
+            "tip": "Csendes kilátás a sziklákra.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe de Penchâteau",
+            "tip": "Vedere liniștită spre stânci.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe de Penchâteau",
+            "tip": "Quiet view of the cliffs.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "In den kleinen Läden von Le Pouliguen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Le Pouliguen kis boltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "În micile magazine din Le Pouliguen."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "In the small shops of Le Pouliguen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße ist ideal zum Radfahren.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Leihen Sie ein Elektrofahrrad für längere Strecken.",
+          "Schließen Sie Ihr Rad immer gut ab."
+        ],
+        "hu": [
+          "A tengerparti út ideális kerékpározáshoz.",
+          "Figyeljen a gyalogosokra a sétányon.",
+          "Béreljen elektromos kerékpárt a hosszabb szakaszokhoz.",
+          "Mindig jól zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Drumul de coastă este ideal pentru ciclism.",
+          "Atenție la pietoni pe promenadă.",
+          "Închiriați o bicicletă electrică pentru distanțe mai lungi.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "The coastal road is ideal for cycling.",
+          "Watch out for pedestrians on the promenade.",
+          "Rent an e-bike for longer stretches.",
+          "Always lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marché de La Baule",
+            "hu": "La Baule-i piac",
+            "ro": "Piața La Baule",
+            "en": "La Baule Market"
+          },
+          "coords": [
+            -2.3905,
+            47.2872
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie frühzeitig in der Nähe.",
+            "hu": "Parkoljon le időben a közelben.",
+            "ro": "Parcați din timp în apropiere.",
+            "en": "Park early nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Guérande - Mittelalterliche Stadt",
+            "hu": "Guérande - Középkori város",
+            "ro": "Guérande - Orașul medieval",
+            "en": "Guérande - Medieval Town"
+          },
+          "coords": [
+            -2.428,
+            47.327
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Stadtmauern.",
+            "hu": "Sétáljon a városfalakon.",
+            "ro": "Plimbați-vă pe zidurile cetății.",
+            "en": "Walk on the city walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzwiesen von Guérande",
+            "hu": "Guérande-i sós mocsarak",
+            "ro": "Mlaștinile sărate din Guérande",
+            "en": "Salt Marshes of Guérande"
+          },
+          "coords": [
+            -2.44,
+            47.3
+          ],
+          "category": "nature",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das 'Terre de Sel' Museum.",
+            "hu": "Látogassa meg a 'Terre de Sel' múzeumot.",
+            "ro": "Vizitați muzeul 'Terre de Sel'.",
+            "en": "Visit the 'Terre de Sel' museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Baule",
+            "hu": "La Baule-i strand",
+            "ro": "Plaja La Baule",
+            "en": "La Baule Beach"
+          },
+          "coords": [
+            -2.394,
+            47.2825
+          ],
+          "category": "beach",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ideal für ein spätes Bad im Meer.",
+            "hu": "Ideális egy késő délutáni fürdőzéshez.",
+            "ro": "Ideal pentru o baie târzie în mare.",
+            "en": "Ideal for a late dip in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Côte Sauvage",
+            "hu": "Vadpart",
+            "ro": "Coasta Sălbatică",
+            "en": "Côte Sauvage"
+          },
+          "coords": [
+            -2.45,
+            47.26
+          ],
+          "category": "landmark",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für den Sonnenuntergang.",
+            "hu": "Tökéletes hely a naplementéhez.",
+            "ro": "Locul perfect pentru apus.",
+            "en": "Perfect spot for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir heute nicht nur La Baule, sondern auch das faszinierende Hinterland. Nach dem Marktbesuch in La Baule fahren wir in die mittelalterliche Stadt Guérande, deren massive Mauern eine Reise in die Vergangenheit versprechen.\n\nMittags tauchen wir in die Welt des weißen Goldes ein: die Salzwiesen von Guérande bieten eine einzigartige Landschaft und Einblicke in die traditionelle Salzgewinnung.\n\nAm Nachmittag kehren wir an die Küste zurück, um die Sonne am endlosen Strand von La Baule zu genießen, bevor wir zur Côte Sauvage fahren.\n\nDer Tag endet an den wilden Klippen der Côte Sauvage, wo die Wellen des Atlantiks spektakulär gegen die Felsen schlagen und die untergehende Sonne die Küste in goldenes Licht taucht.",
+        "hu": "Autóval ma nemcsak La Baule-t, hanem a lenyűgöző hátországot is felfedezzük. A piaclátogatás után Guérande középkori városába hajtunk, amelynek hatalmas falai időutazást ígérnek.\n\nDélben elmerülünk a 'fehér arany' világában: a guérande-i sós mocsarak egyedülálló tájat és betekintést nyújtanak a hagyományos sólepárlásba.\n\nDélután visszatérünk a partra, hogy élvezzük a napsütést La Baule végtelen strandján, mielőtt a Vadpart (Côte Sauvage) felé vennénk az irányt.\n\nA nap a Vadpart vad szikláinál ér véget, ahol az Atlanti-óceán hullámai látványosan csapódnak a kőfalaknak, és a lemenő nap aranyfénybe öltözteti a partot.",
+        "ro": "Cu mașina explorăm astăzi nu doar La Baule, ci și hinterlandul fascinant. După vizita la piață, conducem spre orașul medieval Guérande, ale cărui ziduri masive promit o călătorie în trecut.\n\nLa prânz pătrundem în lumea 'aurului alb': mlaștinile sărate din Guérande oferă un peisaj unic și o incursiune în extracția tradițională a sării.\n\nDupă-amiaza ne întoarcem pe coastă pentru a ne bucura de soare pe plaja nesfârșită din La Baule, înainte de a pleca spre Côte Sauvage.\n\nZiua se încheie la stâncile sălbatice din Côte Sauvage, unde valurile Atlanticului se izbesc spectaculos de pietre, iar apusul scaldă coasta în lumină aurie.",
+        "en": "By car, today we explore not only La Baule but also the fascinating hinterland. After visiting the market, we drive to the medieval town of Guérande, whose massive walls promise a journey back in time.\n\nAt midday, we dive into the world of 'white gold': the salt marshes of Guérande offer a unique landscape and insights into traditional salt harvesting.\n\nIn the afternoon, we return to the coast to enjoy the sun on La Baule's endless beach before heading to the Côte Sauvage.\n\nThe day ends at the wild cliffs of the Côte Sauvage, where the Atlantic waves crash spectacularly against the rocks and the setting sun bathes the coast in golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fleur de Sel de Guérande",
+            "tip": "Das beste Salz direkt beim Erzeuger kaufen."
+          },
+          {
+            "name": "Bretonischer Hummer",
+            "tip": "In einem der gehobenen Restaurants in La Baule."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fleur de Sel de Guérande",
+            "tip": "Vásárolja a legjobb sót közvetlenül a termelőtől."
+          },
+          {
+            "name": "Breton homár",
+            "tip": "La Baule egyik elegáns éttermében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fleur de Sel de Guérande",
+            "tip": "Cumpărați cea mai bună sare direct de la producător."
+          },
+          {
+            "name": "Homar breton",
+            "tip": "Într-unul dintre restaurantele elegante din La Baule."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fleur de Sel de Guérande",
+            "tip": "Buy the best salt directly from the producer."
+          },
+          {
+            "name": "Breton Lobster",
+            "tip": "In one of the upscale restaurants in La Baule."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marais Salants",
+            "tip": "Meditative Stille in den Salzwiesen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sós mocsarak",
+            "tip": "Meditatív csend a sós réteken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mlaștinile sărate",
+            "tip": "Liniște meditativă în zonele de sare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt Marshes",
+            "tip": "Meditative silence in the salt fields.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Guérande Salzprodukte",
+            "tip": "In der Boutique 'Terre de Sel'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guérande-i sótermékek",
+            "tip": "A 'Terre de Sel' butikban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu sare de Guérande",
+            "tip": "În buticul 'Terre de Sel'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guérande Salt Products",
+            "tip": "At the 'Terre de Sel' boutique."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in La Baule ist im Sommer schwierig und teuer.",
+          "Die Straßen nach Guérande können zur Hauptverkehrszeit voll sein.",
+          "Nehmen Sie eine Jacke für die Côte Sauvage mit, es ist windig.",
+          "Reservieren Sie ein Restaurant am Strand im Voraus."
+        ],
+        "hu": [
+          "A parkolás La Baule-ban nyáron nehéz és drága.",
+          "A Guérande felé vezető utak csúcsidőben zsúfoltak lehetnek.",
+          "Vigyen kabátot a Vadpartra, mert szeles.",
+          "Foglaljon asztalt előre a tengerparti éttermekben."
+        ],
+        "ro": [
+          "Parcarea în La Baule este dificilă și scumpă vara.",
+          "Drumurile spre Guérande pot fi aglomerate la orele de vârf.",
+          "Luați o jachetă pentru Côte Sauvage, este vânt.",
+          "Rezervați o masă la un restaurant de pe plajă în avans."
+        ],
+        "en": [
+          "Parking in La Baule is difficult and expensive in summer.",
+          "Roads to Guérande can be busy during peak hours.",
+          "Take a jacket for the Côte Sauvage, it's windy.",
+          "Reserve a beachside restaurant in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof La Baule-Escoublac",
+            "hu": "La Baule-Escoublac vasútállomás",
+            "ro": "Gara La Baule-Escoublac",
+            "en": "La Baule-Escoublac Station"
+          },
+          "coords": [
+            -2.388,
+            47.288
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Ausgangspunkt für den Shuttle-Bus.",
+            "hu": "A helyi buszjáratok központi kiindulópontja.",
+            "ro": "Punct central de plecare pentru autobuze.",
+            "en": "Central starting point for the shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt / Stadtzentrum",
+            "hu": "Piac / Városközpont",
+            "ro": "Piața / Centrul orașului",
+            "en": "Market / Town Center"
+          },
+          "coords": [
+            -2.3905,
+            47.2872
+          ],
+          "category": "shopping",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kostenlosen Shuttle 'La Navette'.",
+            "hu": "Használja az ingyenes 'La Navette' járatot.",
+            "ro": "Folosiți naveta gratuită 'La Navette'.",
+            "en": "Use the free 'La Navette' shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand (Lajarrige)",
+            "hu": "Strand (Lajarrige)",
+            "ro": "Plaja (Lajarrige)",
+            "en": "Beach (Lajarrige)"
+          },
+          "coords": [
+            -2.375,
+            47.284
+          ],
+          "category": "beach",
+          "arrive_at": "10:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein etwas ruhigerer Strandabschnitt.",
+            "hu": "Egy valamivel csendesebb strandrész.",
+            "ro": "O secțiune de plajă ceva mai liniștită.",
+            "en": "A slightly quieter section of the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Dryades",
+            "hu": "Dryades park",
+            "ro": "Parcul Dryades",
+            "en": "Dryades Park"
+          },
+          "coords": [
+            -2.368,
+            47.289
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Gut erreichbar mit der Linie 20.",
+            "hu": "Könnyen elérhető a 20-as busszal.",
+            "ro": "Ușor accesibil cu linia 20.",
+            "en": "Easily accessible with bus line 20."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino Barrière",
+            "hu": "Kaszinó",
+            "ro": "Cazinoul",
+            "en": "Casino"
+          },
+          "coords": [
+            -2.398,
+            47.2815
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Bahnhof in 10 Minuten.",
+            "hu": "Visszaút az állomásra 10 perc alatt.",
+            "ro": "Retur la gară în 10 minute.",
+            "en": "Return to the station in 10 minutes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der effizienten Shuttles und Busse lässt sich La Baule wunderbar ohne eigenes Auto erkunden. Wir starten am Bahnhof und tauchen sofort in das lebendige Markttreiben im Zentrum ein.\n\nMittags bringt uns der Bus zum Strandabschnitt Lajarrige, der für seine entspannte Atmosphäre und schönen Villen bekannt ist. Genießen Sie das Meer ohne Parkplatzsorgen.\n\nNachmittags führt uns die Fahrt zum Parc des Dryades, wo botanische Vielfalt und Ruhe auf uns warten. Der Park ist ein Geheimtipp abseits der großen Touristenströme.\n\nZum Abschluss fahren wir zum Casino, dem gesellschaftlichen Mittelpunkt, bevor wir bequem mit dem Shuttle zurück zum Bahnhof gelangen.",
+        "hu": "A hatékony ingajáratoknak és buszoknak köszönhetően La Baule remekül felfedezhető saját autó nélkül is. Az állomásról indulunk, és azonnal elmerülünk a központ pezsgő piaci forgatagában.\n\nDélben a busz a Lajarrige strandrészhez visz minket, amely nyugodt légköréről és gyönyörű villáiról ismert. Élvezze a tengert parkolási gondok nélkül.\n\nDélután a 20-as busz a Parc des Dryades-hez repít, ahol botanikai sokszínűség és nyugalom vár ránk. A park titkos tipp a nagy turistaáradaton kívül.\n\nBefejezésül a Kaszinóhoz utazunk, amely a társasági élet központja, mielőtt kényelmesen visszatérnénk busszal az állomásra.",
+        "ro": "Datorită navetelor și autobuzelor eficiente, La Baule poate fi explorat minunat fără mașină proprie. Începem de la gară și ne scufundăm imediat în animația pieței din centru.\n\nLa prânz, autobuzul ne duce la secțiunea de plajă Lajarrige, cunoscută pentru atmosfera relaxată și vilele frumoase. Bucurați-vă de mare fără grija parcării.\n\nDupă-amiaza, călătoria ne duce la Parcul Dryades, unde ne așteaptă diversitatea botanică și liniștea. Parcul este un pont secret, departe de fluxurile mari de turiști.\n\nLa final, mergem la Cazinou, centrul social al orașului, înainte de a ne întoarce confortabil cu naveta la gară.",
+        "en": "Thanks to efficient shuttles and buses, La Baule can be explored wonderfully without your own car. We start at the station and immediately dive into the lively market bustle in the center.\n\nAt midday, the bus takes us to the Lajarrige beach section, known for its relaxed atmosphere and beautiful villas. Enjoy the sea without parking worries.\n\nIn the afternoon, the ride takes us to Dryades Park, where botanical diversity and peace await. The park is a hidden gem away from the major tourist crowds.\n\nTo finish, we head to the Casino, the social center, before comfortably taking the shuttle back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Niniche de La Baule",
+            "tip": "Berühmte Lutscher, in vielen Läden im Zentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Niniche de La Baule",
+            "tip": "Híres nyalóka, a központ számos boltjában kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Niniche de La Baule",
+            "tip": "Acadele faimoase, disponibile în multe magazine din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Niniche de La Baule",
+            "tip": "Famous lollipops, available in many shops in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc des Dryades",
+            "tip": "Viel Platz und Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dryades park",
+            "tip": "Sok hely és árnyék.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Dryades",
+            "tip": "Mult spațiu și umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dryades Park",
+            "tip": "Plenty of space and shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen in Lajarrige",
+            "tip": "Etwas entspannter als im Hauptzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lajarrige butikjai",
+            "tip": "Valamivel nyugodtabbak, mint a fő központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri în Lajarrige",
+            "tip": "Ceva mai relaxate decât în centrul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutiques in Lajarrige",
+            "tip": "A bit more relaxed than in the main center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Shuttle 'La Navette' ist im Stadtzentrum kostenlos.",
+          "Informieren Sie sich über die App 'Destineo' über Fahrzeiten.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen.",
+          "Die Busse fahren im Sommer häufiger."
+        ],
+        "hu": [
+          "A 'La Navette' ingajárat ingyenes a városközpontban.",
+          "Tájékozódjon a 'Destineo' alkalmazáson keresztül a menetrendről.",
+          "Érvényesítse jegyét felszálláskor.",
+          "A buszok nyáron gyakrabban közlekednek."
+        ],
+        "ro": [
+          "Naveta 'La Navette' este gratuită în centrul orașului.",
+          "Informați-vă prin aplicația 'Destineo' despre orar.",
+          "Validați biletul la urcare.",
+          "Autobuzele circulă mai des vara."
+        ],
+        "en": [
+          "The 'La Navette' shuttle is free in the town center.",
+          "Check schedules via the 'Destineo' app.",
+          "Validate your ticket upon boarding.",
+          "Buses run more frequently during summer."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1100 @@
+{
+  "city_id": "perpignan",
+  "anchor": {
+    "name": "Le Castillet",
+    "coords": [
+      2.8949,
+      42.6997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Le Castillet",
+          "coords": [
+            2.8933,
+            42.6999
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf das Dach für einen Blick über die Dächer der Stadt.",
+            "hu": "Mássz fel a tetőre a város háztetőire nyíló panorámáért.",
+            "ro": "Urcați pe acoperiș pentru o vedere panoramică asupra orașului.",
+            "en": "Climb to the roof for a panoramic view over the city's rooftops."
+          }
+        },
+        {
+          "name": "Place de la Loge",
+          "coords": [
+            2.8945,
+            42.6991
+          ],
+          "category": "square",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Loge de Mer und die Statue von Maillol.",
+            "hu": "Csodáld meg a Loge de Mer épületét és Maillol szobrát.",
+            "ro": "Admirați Loge de Mer și statuia lui Maillol.",
+            "en": "Admire the Loge de Mer and the statue by Maillol."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Jean-Baptiste",
+          "coords": [
+            2.8988,
+            42.7001
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das angrenzende Campo Santo, einen gotischen Kreuzgang-Friedhof.",
+            "hu": "Látogasd meg a szomszédos Campo Santót, a gótikus kerengő-temetőt.",
+            "ro": "Vizitați Campo Santo, un cimitir-cloistru gotic adiacent.",
+            "en": "Visit the adjacent Campo Santo, a Gothic cloister-cemetery."
+          }
+        },
+        {
+          "name": "Musée d'Art Hyacinthe Rigaud",
+          "coords": [
+            2.8955,
+            42.6982
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Werke von Picasso und lokalen Künstlern.",
+            "hu": "Fedezd fel Picasso és helyi művészek alkotásait.",
+            "ro": "Descoperiți lucrări de Picasso și artiști locali.",
+            "en": "Discover works by Picasso and local artists."
+          }
+        },
+        {
+          "name": "Palais des Rois de Majorque",
+          "coords": [
+            2.8953,
+            42.6934
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese Festung aus dem 13. Jahrhundert bietet einen Blick auf den Canigou.",
+            "hu": "Ez a 13. századi erőd kilátást nyújt a Canigou-hegyre.",
+            "ro": "Această fortăreață din secolul al XIII-lea oferă vedere spre Canigou.",
+            "en": "This 13th-century fortress offers views toward Mount Canigou."
+          }
+        },
+        {
+          "name": "Square Bir Hakeim",
+          "coords": [
+            2.9021,
+            42.6975
+          ],
+          "category": "park",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Schatten der jahrhundertealten Platanen.",
+            "hu": "Pihenj meg az évszázados platánfák árnyékában.",
+            "ro": "Relaxați-vă la umbra platanilor seculari.",
+            "en": "Relax in the shade of century-old plane trees."
+          }
+        },
+        {
+          "name": "Place de la République",
+          "coords": [
+            2.8962,
+            42.6988
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Glas Roussillon-Wein.",
+            "hu": "Zárd a napot egy pohár roussilloni borral.",
+            "ro": "Încheiați ziua cu un pahar de vin de Roussillon.",
+            "en": "End the day with a glass of Roussillon wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Perpignan, die ehemalige Hauptstadt des Königreichs Mallorca, empfängt Sie mit katalanischem Charme. Wir beginnen am Castillet, dem Wahrzeichen der Stadt. Am Vormittag erkunden wir das gotische Erbe rund um die Kathedrale und den Campo Santo.\n\nMittags tauchen wir in das bunte Treiben der Place de la Loge ein, bevor wir im Rigaud-Museum Kunstgeschichte atmen. Der Aufstieg zum Palast der Könige von Mallorca ist der Höhepunkt des Nachmittags.\n\nDer späte Nachmittag gehört der Ruhe im Square Bir Hakeim, wo die Natur mitten im Zentrum blüht. Ein Spaziergang durch die engen Gassen führt uns zurück zum belebten Herz der Stadt.\n\nZum Abschluss genießen wir die Atmosphäre auf der Place de la République. Zwischen ockerfarbenen Fassaden und Palmen spürt man hier die Nähe zu Spanien und das mediterrane Lebensgefühl.",
+        "hu": "Perpignan, Mallorca egykori királyi székhelye, katalán hangulattal várja. A túrát a város jelképénél, a Castilletnél kezdjük. Délelőtt a katedrális és a Campo Santo gótikus örökségét fedezzük fel.\n\nDélidőben a Place de la Loge színes forgatagába merülünk, majd a Rigaud Múzeumban művészettörténetet szippantunk. A Mallorcai Királyok Palotájába tett látogatás a délután fénypontja.\n\nA késő délután a nyugalomé a Square Bir Hakeim parkban, ahol a természet a központban virágzik. Egy séta a szűk utcákon át vezet vissza a város lüktető szívébe.\n\nZárásként a Place de la République hangulatát élvezzük. Az okkersárga homlokzatok és pálmafák között itt igazán érezhető Spanyolország közelsége és a mediterrán életérzés.",
+        "ro": "Perpignan, fosta capitală a Regatului de Mallorca, vă întâmpină cu farmecul său catalan. Începem la Castillet, simbolul orașului. Dimineața explorăm moștenirea gotică din jurul catedralei și Campo Santo.\n\nLa prânz ne cufundăm în agitația colorată din Place de la Loge, înainte de a respira istoria artei la Muzeul Rigaud. Urcarea la Palatul Regilor de Mallorca este punctul culminant al după-amiezii.\n\nTârziu după-amiaza aparține liniștii din Square Bir Hakeim, unde natura înflorește chiar în centru. O plimbare prin străzile înguste ne duce înapoi în inima vibrantă a orașului.\n\nLa final, ne bucurăm de atmosfera din Place de la République. Între fațadele ocru și palmieri, se simte aici proximitatea Spaniei și stilul de viață mediteranean.",
+        "en": "Perpignan, the former capital of the Kingdom of Mallorca, welcomes you with its Catalan charm. We begin at Le Castillet, the city's emblem. In the morning, we explore the Gothic heritage around the cathedral and the Campo Santo.\n\nAt midday, we immerse ourselves in the colorful bustle of Place de la Loge before breathing in art history at the Rigaud Museum. The visit to the Palace of the Kings of Mallorca is the highlight of the afternoon.\n\nLate afternoon is dedicated to tranquility in Square Bir Hakeim, where nature flourishes right in the center. A stroll through narrow streets leads us back to the vibrant heart of the city.\n\nFinally, we enjoy the atmosphere at Place de la République. Between ochre facades and palm trees, the proximity to Spain and the Mediterranean lifestyle are truly felt here."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Katalanische Fleischbällchen in würziger Sauce."
+          },
+          {
+            "name": "Anchois de Collioure",
+            "tip": "Berühmte Sardellen, oft als Tapas serviert."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "Das klassische Dessert mit Karamellkruste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Katalán húsgombócok fűszeres szószban."
+          },
+          {
+            "name": "Anchois de Collioure",
+            "tip": "Híres szardella, gyakran tapaszként tálalva."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "Klasszikus desszert karamellizált tetővel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Chiftele catalane în sos condimentat."
+          },
+          {
+            "name": "Anchois de Collioure",
+            "tip": "Hamsii celebre, servite adesea ca tapas."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "Desertul clasic cu crustă de zahăr ars."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boles de Picolat",
+            "tip": "Catalan meatballs in a spicy sauce."
+          },
+          {
+            "name": "Anchois de Collioure",
+            "tip": "Famous anchovies, often served as tapas."
+          },
+          {
+            "name": "Crème Catalane",
+            "tip": "The classic dessert with a burnt sugar crust."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Campo Santo",
+            "tip": "Stiller gotischer Kreuzgang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jardin de la Digue",
+            "tip": "Ruhiger Spaziergang am Fluss Têt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Palais Dachterrasse",
+            "tip": "Panoramablick zum Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Campo Santo",
+            "tip": "Csendes gótikus kerengő.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jardin de la Digue",
+            "tip": "Nyugodt séta a Têt-folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Palota tetőterasza",
+            "tip": "Panoráma a naplementében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Campo Santo",
+            "tip": "Cloistru gotic liniștit.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jardin de la Digue",
+            "tip": "Plimbare calmă pe malul râului Têt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Terasa Palatului",
+            "tip": "Vedere panoramică la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Campo Santo",
+            "tip": "Quiet Gothic cloister.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Jardin de la Digue",
+            "tip": "Calm walk along the Têt river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Palace Roof Terrace",
+            "tip": "Panoramic view at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Cassanyes",
+            "tip": "Bunter Markt mit mediterranem Flair."
+          },
+          {
+            "name": "Sant Vicens",
+            "tip": "Traditionelle katalanische Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Cassanyes",
+            "tip": "Színes piac mediterrán hangulattal."
+          },
+          {
+            "name": "Sant Vicens",
+            "tip": "Tradicionális katalán kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Cassanyes",
+            "tip": "Piață colorată cu fler mediteraneean."
+          },
+          {
+            "name": "Sant Vicens",
+            "tip": "Ceramică tradițională catalană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Cassanyes",
+            "tip": "Colorful market with Mediterranean flair."
+          },
+          {
+            "name": "Sant Vicens",
+            "tip": "Traditional Catalan ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das historische Zentrum ist kompakt und ideal zu Fuß erkundbar.",
+          "Achten Sie auf die zweisprachigen Straßenschilder (Französisch/Katalanisch).",
+          "Zwischen 12:00 und 14:00 Uhr schließen viele kleine Geschäfte.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt."
+        ],
+        "hu": [
+          "A történelmi központ kompakt, gyalogosan tökéletesen bejárható.",
+          "Figyeld a kétnyelvű utcatáblákat (francia és katalán).",
+          "12:00 és 14:00 között sok kisebb üzlet bezár pihenni.",
+          "Viselj kényelmes cipőt az óváros macskaköves utcáihoz."
+        ],
+        "ro": [
+          "Centrul istoric este compact și ideal de explorat la pas.",
+          "Observați plăcuțele bilingve ale străzilor (franceză/catalană).",
+          "Multe magazine mici se închid între orele 12:00 și 14:00.",
+          "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi."
+        ],
+        "en": [
+          "The historic center is compact and ideal for exploring on foot.",
+          "Look out for the bilingual street signs (French and Catalan).",
+          "Many small shops close between 12:00 and 14:00 for lunch.",
+          "Wear comfortable shoes for the cobblestone streets in the old town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Théâtre de l'Archipel",
+          "coords": [
+            2.8901,
+            42.7032
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur von Jean Nouvel.",
+            "hu": "Csodáld meg Jean Nouvel modern építészetét.",
+            "ro": "Admirați arhitectura modernă a lui Jean Nouvel.",
+            "en": "Admire the modern architecture by Jean Nouvel."
+          }
+        },
+        {
+          "name": "Promenade le long de la Têt",
+          "coords": [
+            2.9055,
+            42.7055
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den flachen Radweg am Flussufer.",
+            "hu": "Élvezd a sík kerékpárutat a folyóparton.",
+            "ro": "Bucurați-vă de pista plată de biciclete de pe malul râului.",
+            "en": "Enjoy the flat cycling path along the riverbank."
+          }
+        },
+        {
+          "name": "Saint-Vicens",
+          "coords": [
+            2.9188,
+            42.6933
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Keramikwerkstatt, die Dali und Picasso inspirierte.",
+            "hu": "Látogasd meg a kerámiaműhelyt, amely Dalit és Picassót is megihlette.",
+            "ro": "Vizitați atelierul de ceramică ce i-a inspirat pe Dali și Picasso.",
+            "en": "Visit the ceramics workshop that inspired Dali and Picasso."
+          }
+        },
+        {
+          "name": "Palais des Rois de Majorque",
+          "coords": [
+            2.8953,
+            42.6934
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad am Eingang sicher ab.",
+            "hu": "Zárd le biztonságosan a biciklit a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike securely at the entrance."
+          }
+        },
+        {
+          "name": "Parc Sant Vicens",
+          "coords": [
+            2.9195,
+            42.6911
+          ],
+          "category": "park",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein moderner Park ideal für eine Radpause.",
+            "hu": "Modern park, ideális egy kerékpáros pihenőhöz.",
+            "ro": "Un parc modern ideal pentru o pauză de bicicletă.",
+            "en": "A modern park ideal for a cycling break."
+          }
+        },
+        {
+          "name": "Gare de Perpignan",
+          "coords": [
+            2.8791,
+            42.6965
+          ],
+          "category": "landmark",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Dali nannte dies das 'Zentrum der Welt'.",
+            "hu": "Dali a 'világ közepének' nevezte ezt a helyet.",
+            "ro": "Dali a numit acest loc 'centrul lumii'.",
+            "en": "Dali called this place the 'center of the world'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden wir Perpignan über seine Grenzen hinaus. Wir starten am modernen Théâtre de l'Archipel und folgen dem Fluss Têt auf grünen Wegen.\n\nDie Fahrt führt uns zum kunstvollen Viertel Saint-Vicens, bevor wir den Hügel zum Königspalast erklimmen. Die Wege sind meist flach und fahrradfreundlich.\n\nNach einer Pause im Parc Sant Vicens radeln wir durch die Alleen zurück Richtung Westen.\n\nDen Abschluss bildet der Bahnhof, ein skurriler Ort voller surrealistischer Geschichte, den schon Salvador Dalí verehrte.",
+        "hu": "Két keréken fedezzük fel Perpignant a határain túl is. A modern Théâtre de l'Archipel-től indulunk, és a Têt-folyót követjük zöld ösvényeken.\n\nAz út a művészettel teli Saint-Vicens negyedbe vezet, mielőtt felkapaszkodnánk a királyi palota dombjára. Az utak többnyire síkak és biciklibarátok.\n\nA Parc Sant Vicens-ben tartott pihenő után a sugárutakon tekerünk vissza nyugat felé.\n\nA túrát a pályaudvarnál zárjuk, amely egy különleges, szürrealista történetekkel teli hely, és amelyet már Salvador Dalí is imádott.",
+        "ro": "Pe două roți explorăm Perpignan dincolo de limitele sale. Pornim de la modernul Théâtre de l'Archipel și urmăm râul Têt pe poteci verzi.\n\nTraseul ne duce spre cartierul artistic Saint-Vicens, înainte de a urca dealul spre palatul regal. Drumurile sunt în mare parte plate și prietenoase cu bicicletele.\n\nDupă o pauză în Parc Sant Vicens, pedalăm pe bulevarde înapoi spre vest.\n\nÎncheiem la gară, un loc bizar plin de istorie suprarealistă, pe care Salvador Dalí l-a adorat.",
+        "en": "On two wheels, we explore Perpignan beyond its limits. We start at the modern Théâtre de l'Archipel and follow the Têt River along green paths.\n\nThe ride leads us to the artistic Saint-Vicens district before climbing the hill to the Royal Palace. The paths are mostly flat and bike-friendly.\n\nAfter a break in Parc Sant Vicens, we cycle through the avenues back toward the west.\n\nWe conclude at the train station, a peculiar place full of surrealist history that Salvador Dalí himself worshipped."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katalanisches Picknick",
+            "tip": "Holen Sie sich Fuet (Wurst) und Oliven auf dem Markt."
+          },
+          {
+            "name": "Rousquilles",
+            "tip": "Traditionelles Gebäck mit Anis und Zitronenglasur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalán piknik",
+            "tip": "Vegyél Fuet kolbászt és olívabogyót a piacon."
+          },
+          {
+            "name": "Rousquilles",
+            "tip": "Hagyományos ánizsos-citromos mázas sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic catalan",
+            "tip": "Luați cârnați Fuet și măsline din piață."
+          },
+          {
+            "name": "Rousquilles",
+            "tip": "Produse de patiserie tradiționale cu anason și glazură de lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catalan Picnic",
+            "tip": "Pick up Fuet sausage and olives at the market."
+          },
+          {
+            "name": "Rousquilles",
+            "tip": "Traditional pastry with anise and lemon glaze."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Têt Uferweg",
+            "tip": "Grüne Oase abseits des Verkehrs.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Sant Vicens",
+            "tip": "Große Rasenflächen zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Têt-parti út",
+            "tip": "Zöld oázis távol a forgalomtól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Sant Vicens",
+            "tip": "Hatalmas gyepek a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Têt",
+            "tip": "Oază verde departe de trafic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Sant Vicens",
+            "tip": "Pajiști mari pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Têt River Path",
+            "tip": "Green oasis away from traffic.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc Sant Vicens",
+            "tip": "Large lawns for relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atelier Sant Vicens",
+            "tip": "Einzigartige Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sant Vicens műhely",
+            "tip": "Egyedi kerámiák és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelier Sant Vicens",
+            "tip": "Ceramică și textile unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atelier Sant Vicens",
+            "tip": "Unique ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Perpignan hat ein gutes Selbstbedienungs-Fahrradsystem (Bip!).",
+          "Nutzen Sie die Radwege entlang des Flusses für eine entspannte Fahrt.",
+          "Einige Einbahnstraßen in der Altstadt sind für Radfahrer in beide Richtungen offen.",
+          "Vermeiden Sie das Radfahren in den engsten Fußgängerzonen am Mittag."
+        ],
+        "hu": [
+          "Perpignan jó önkiszolgáló kerékpárrendszerrel rendelkezik (Bip!).",
+          "Használd a folyó menti kerékpárutakat a nyugodt haladáshoz.",
+          "Néhány egyirányú utca az óvárosban mindkét irányban nyitva áll a bringásoknak.",
+          "Délidőben kerüld a kerékpározást a legszűkebb sétálóutcákban."
+        ],
+        "ro": [
+          "Perpignan are un sistem bun de bike-sharing (Bip!).",
+          "Folosiți pistele de biciclete de-a lungul râului pentru o călătorie relaxată.",
+          "Unele străzi cu sens unic din centrul vechi sunt deschise bicicliștilor în ambele sensuri.",
+          "Evitați mersul cu bicicleta în cele mai înguste zone pietonale la prânz."
+        ],
+        "en": [
+          "Perpignan has a good self-service bike system (Bip!).",
+          "Use the bike paths along the river for a relaxed ride.",
+          "Some one-way streets in the old town are open to cyclists in both directions.",
+          "Avoid cycling in the narrowest pedestrian zones at midday."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 65.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Palais des Rois de Majorque",
+          "coords": [
+            2.8953,
+            42.6934
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Eingang verfügbar.",
+            "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+            "ro": "Parcare mare disponibilă chiar la intrare.",
+            "en": "Large parking lot available right at the entrance."
+          }
+        },
+        {
+          "name": "Le Castillet",
+          "coords": [
+            2.8933,
+            42.6999
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Arago' in der Nähe.",
+            "hu": "Használd a közeli 'Arago' parkolóházat.",
+            "ro": "Folosiți parcarea subterană 'Arago' din apropiere.",
+            "en": "Use the 'Arago' parking garage nearby."
+          }
+        },
+        {
+          "name": "Canet-en-Roussillon",
+          "coords": [
+            3.0366,
+            42.6841
+          ],
+          "category": "beach",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Mittagessen mit Blick auf das Meer.",
+            "hu": "Élvezz egy ebédet tengerre néző kilátással.",
+            "ro": "Bucurați-vă de un prânz cu vedere la mare.",
+            "en": "Enjoy a lunch with a view of the sea."
+          }
+        },
+        {
+          "name": "Collioure",
+          "coords": [
+            3.0841,
+            42.5255
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Die Perle der Küste, Heimat des Fauvismus.",
+            "hu": "A part gyöngyszeme, a fauvizmus hazája.",
+            "ro": "Perla coastei, locul de naștere al fauvismului.",
+            "en": "The pearl of the coast, home of Fauvism."
+          }
+        },
+        {
+          "name": "Elne Maternité Suisse",
+          "coords": [
+            2.9711,
+            42.5991
+          ],
+          "category": "historical",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein berührender Ort der Geschichte aus dem Zweiten Weltkrieg.",
+            "hu": "Megható történelmi helyszín a második világháborúból.",
+            "ro": "Un loc istoric emoționant din Al Doilea Război Mondial.",
+            "en": "A touching historical site from World War II."
+          }
+        },
+        {
+          "name": "Perpignan Centre",
+          "coords": [
+            2.8949,
+            42.6997
+          ],
+          "category": "gastro",
+          "arrive_at": "18:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Abendessen in der Nähe des beleuchteten Castillet.",
+            "hu": "Vacsora a kivilágított Castillet közelében.",
+            "ro": "Cină în apropierea monumentului Castillet iluminat.",
+            "en": "Dinner near the illuminated Castillet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir das historische Perpignan mit der wilden Schönheit der Mittelmeerküste. Nach dem morgendlichen Kulturprogramm in der Stadt fahren wir zum breiten Sandstrand von Canet.\n\nMittags genießen wir frischen Fisch direkt am Wasser. Die Küstenstraße führt uns weiter nach Süden in das malerische Collioure, ein Muss für jeden Besucher.\n\nDer Nachmittag steht im Zeichen der Kunst und Geschichte in Collioure, bevor wir auf dem Rückweg einen Halt in Elne einlegen.\n\nZum Abschluss kehren wir nach Perpignan zurück, um den Tag bei katalanischen Tapas ausklingen zu lassen.",
+        "hu": "Autóval összekötjük a történelmi Perpignant a Földközi-tenger partvidékének vad szépségével. A reggeli városi kulturális program után Canet széles homokos strandja felé vesszük az irányt.\n\nDélben friss halat élvezünk közvetlenül a parton. A tengerparti út délre visz minket a festői Collioure-ba, amelyet minden látogatónak látnia kell.\n\nA délután Collioure művészetének és történelmének felfedezésével telik, majd visszaúton megállunk Elne-ben.\n\nVégül visszatérünk Perpignanba, hogy katalán tapaszokkal zárjuk a napot.",
+        "ro": "Cu mașina legăm Perpignan-ul istoric de frumusețea sălbatică a coastei mediteraneene. După programul cultural de dimineață din oraș, pornim spre plaja largă cu nisip din Canet.\n\nLa prânz ne bucurăm de pește proaspăt chiar pe malul mării. Drumul de coastă ne duce mai departe spre sud, în pitorescul Collioure, o destinație obligatorie.\n\nDupă-amiaza este dedicată artei și istoriei din Collioure, înainte de a face o oprire în Elne la întoarcere.\n\nLa final revenim în Perpignan pentru a încheia ziua cu tapas catalane.",
+        "en": "By car, we combine historic Perpignan with the wild beauty of the Mediterranean coast. After the morning cultural program in the city, we head to the wide sandy beach of Canet.\n\nAt lunch, we enjoy fresh fish right by the water. The coastal road takes us further south to picturesque Collioure, a must-see for every visitor.\n\nThe afternoon is spent exploring the art and history of Collioure before stopping in Elne on the way back.\n\nFinally, we return to Perpignan to end the day with some Catalan tapas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plateau de Fruits de Mer",
+            "tip": "Frische Meeresfrüchte in Canet-en-Roussillon."
+          },
+          {
+            "name": "Anchois de Collioure",
+            "tip": "Traditionell eingelegte Sardellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Friss tengeri fogások Canet-en-Roussillonban."
+          },
+          {
+            "name": "Collioure-i szardella",
+            "tip": "Hagyományosan pácolt szardella."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Fructe de mare proaspete în Canet-en-Roussillon."
+          },
+          {
+            "name": "Hamsii de Collioure",
+            "tip": "Hamsii marinate tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Platter",
+            "tip": "Fresh seafood in Canet-en-Roussillon."
+          },
+          {
+            "name": "Collioure Anchovies",
+            "tip": "Traditionally marinated anchovies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canet Strand",
+            "tip": "Lange Spaziergänge am Ufer.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Kapelle von Collioure",
+            "tip": "Sonnenuntergang am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canet strand",
+            "tip": "Hosszú séták a parton.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Collioure kápolna",
+            "tip": "Naplemente a tengerparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Canet",
+            "tip": "Plimbări lungi pe țărm.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Capela din Collioure",
+            "tip": "Apus de soare la malul mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canet Beach",
+            "tip": "Long walks along the shore.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Collioure Chapel",
+            "tip": "Sunset by the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinkeller des Roussillon",
+            "tip": "Kaufen Sie Banyuls oder Muscat de Rivesaltes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Roussillon borpincék",
+            "tip": "Vegyél Banyuls-t vagy Muscat de Rivesaltes-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramele din Roussillon",
+            "tip": "Cumpărați vinuri Banyuls sau Muscat de Rivesaltes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roussillon Wine Cellars",
+            "tip": "Buy Banyuls or Muscat de Rivesaltes wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Collioure ist im Sommer sehr schwierig; kommen Sie früh.",
+          "Die Autobahn A9 verbindet die Orte schnell, aber die Küstenstraße ist schöner.",
+          "In Canet gibt es viele kostenlose Parkplätze in Strandnähe.",
+          "Achten Sie auf die starken Winde (Tramontane), die oft an der Küste wehen."
+        ],
+        "hu": [
+          "Collioure-ban a parkolás nyáron nagyon nehéz; érkezz korán.",
+          "Az A9-es autópálya gyors, de a tengerparti út sokkal szebb.",
+          "Canet-ben sok ingyenes parkoló van a strand közelében.",
+          "Figyelj az erős szélre (Tramontane), amely gyakran fúj a parton."
+        ],
+        "ro": [
+          "Parcarea în Collioure este foarte dificilă vara; veniți devreme.",
+          "Autostrada A9 face legătura rapid, dar drumul de coastă este mai frumos.",
+          "În Canet există multe parcări gratuite lângă plajă.",
+          "Atenție la vânturile puternice (Tramontane) care bat adesea pe coastă."
+        ],
+        "en": [
+          "Parking in Collioure is very difficult in summer; arrive early.",
+          "The A9 highway is fast, but the coastal road is much more scenic.",
+          "In Canet, there are many free parking spots near the beach.",
+          "Be aware of the strong winds (Tramontane) that often blow on the coast."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Perpignan",
+          "coords": [
+            2.8791,
+            42.6965
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hauptknotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Hub principal pentru toate liniile de autobuz.",
+            "en": "Main hub for all bus lines."
+          }
+        },
+        {
+          "name": "Le Castillet",
+          "coords": [
+            2.8933,
+            42.6999
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Linien 1, 2 und 3 halten hier direkt am Eingang zur Altstadt.",
+            "hu": "Az 1-es, 2-es és 3-as buszok közvetlenül az óváros bejáratánál állnak meg.",
+            "ro": "Liniile 1, 2 și 3 opresc aici, chiar la intrarea în centrul vechi.",
+            "en": "Lines 1, 2, and 3 stop here, right at the old town entrance."
+          }
+        },
+        {
+          "name": "Palais des Rois de Majorque",
+          "coords": [
+            2.8953,
+            42.6934
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle 'Le P'tit Bus' für das Zentrum.",
+            "hu": "Használd a 'Le P'tit Bus' ingajáratot a központban.",
+            "ro": "Folosiți naveta 'Le P'tit Bus' pentru zona centrală.",
+            "en": "Use 'Le P'tit Bus' shuttle for the city center."
+          }
+        },
+        {
+          "name": "Saint-Vicens",
+          "coords": [
+            2.9188,
+            42.6933
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit der Linie 4 vom Zentrum aus.",
+            "hu": "A központból a 4-es busszal érhető el.",
+            "ro": "Accesibil cu linia 4 din centru.",
+            "en": "Accessible via line 4 from the center."
+          }
+        },
+        {
+          "name": "Place de la République",
+          "coords": [
+            2.8962,
+            42.6988
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Zentraler Platz, umgeben von Cafés.",
+            "hu": "Központi tér, kávézókkal körbevéve.",
+            "ro": "Piață centrală, înconjurată de cafenele.",
+            "en": "Central square, surrounded by cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem effizienten Bussystem 'Sankéo' erkunden wir Perpignan stressfrei. Wir beginnen am architektonisch einzigartigen Bahnhof und fahren direkt zum Castillet.\n\nNach dem Besuch der Altstadt bringt uns der Bus zum majestätischen Königspalast auf dem Hügel. Das Umsteigen im Zentrum ist einfach und gut beschildert.\n\nEin Abstecher in das Viertel Saint-Vicens zeigt uns die künstlerische Seite der Stadt, bevor wir zurück ins Herz von Perpignan fahren.\n\nDer Tag endet entspannt auf der Place de la République, wo man das Treiben der Stadt bei einem Kaffee beobachten kann.",
+        "hu": "A 'Sankéo' hatékony buszhálózatával stresszmentesen fedezzük fel Perpignant. Az építészetileg egyedülálló pályaudvartól indulunk, és egyenesen a Castillethez utazunk.\n\nAz óvárosi séta után a busz felvisz minket a dombon álló fenséges királyi palotához. Az átszállás a központban egyszerű és jól kitáblázott.\n\nEgy kitérő a Saint-Vicens negyedbe megmutatja a város művészi arcát, mielőtt visszatérnénk Perpignan szívébe.\n\nA napot nyugodtan zárjuk a Place de la République-on, ahol egy kávé mellett figyelhetjük a város forgatagát.",
+        "ro": "Cu sistemul eficient de autobuze 'Sankéo', explorăm Perpignan fără stres. Începem la gară, un obiectiv arhitectural unic, și mergem direct la Castillet.\n\nDupă vizitarea centrului vechi, autobuzul ne duce la maiestuosul palat regal de pe deal. Schimbarea liniilor în centru este simplă și bine semnalizată.\n\nO scurtă vizită în cartierul Saint-Vicens ne arată latura artistică a orașului, înainte de a reveni în inima Perpignanului.\n\nZiua se încheie relaxat în Place de la République, unde puteți observa agitația orașului la o cafea.",
+        "en": "With the efficient 'Sankéo' bus network, we explore Perpignan stress-free. We start at the architecturally unique train station and travel straight to Le Castillet.\n\nAfter visiting the old town, the bus takes us up to the majestic Royal Palace on the hill. Transferring in the center is easy and well-signposted.\n\nA detour to the Saint-Vicens district shows us the artistic side of the city before we head back to the heart of Perpignan.\n\nThe day ends peacefully at Place de la République, where you can watch the city's bustle over a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katalanische Tapas",
+            "tip": "Probieren Sie Patatas Bravas und lokales Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalán tapaszok",
+            "tip": "Kóstold meg a Patatas Bravas-t és a helyi olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tapas catalane",
+            "tip": "Încercați Patatas Bravas și uleiul de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catalan Tapas",
+            "tip": "Try Patatas Bravas and local olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palais Gärten",
+            "tip": "Ruhige Gärten innerhalb der Festung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palota kertjei",
+            "tip": "Csendes kertek az erődön belül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Palatului",
+            "tip": "Grădini liniștite în interiorul cetății.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palace Gardens",
+            "tip": "Quiet gardens inside the fortress.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen am Quai Vauban",
+            "tip": "Schöne Geschäfte entlang des Kanals."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai Vauban üzletei",
+            "tip": "Csinos boltok a csatorna mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-urile de pe Quai Vauban",
+            "tip": "Magazine frumoase de-a lungul canalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quai Vauban Boutiques",
+            "tip": "Charming shops along the canal."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Sankéo-Netzwerk für unbegrenzte Fahrten.",
+          "Die 'P'tit Bus' sind kleine Elektroshuttles, die kostenlos durch die Altstadt fahren.",
+          "Bushaltestellen sind oft mit Echtzeitanzeigen ausgestattet.",
+          "An Sonntagen verkehren die Busse seltener; planen Sie voraus."
+        ],
+        "hu": [
+          "Vegyél napijegyet a Sankéo hálózatra a korlátlan utazáshoz.",
+          "A 'P'tit Bus' kis elektromos járatok, amelyek ingyen járnak az óvárosban.",
+          "A buszmegállók gyakran fel vannak szerelve valós idejű kijelzőkkel.",
+          "Vasárnaponként a buszok ritkábban járnak; tervezz előre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua Sankéo pentru călătorii nelimitate.",
+          "Microbuzele 'P'tit Bus' sunt electrice și circulă gratuit prin centrul vechi.",
+          "Stațiile de autobuz sunt adesea dotate cu afișaje în timp real.",
+          "Duminica autobuzele circulă mai rar; planificați din timp."
+        ],
+        "en": [
+          "Buy a day ticket for the Sankéo network for unlimited travel.",
+          "The 'P'tit Bus' are small electric shuttles that run for free through the old town.",
+          "Bus stops are often equipped with real-time displays.",
+          "Buses run less frequently on Sundays; plan ahead."
+        ]
+      }
+    }
+  }
+}

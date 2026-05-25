@@ -1,0 +1,932 @@
+{
+  "city_id": "bordeaux",
+  "anchor": {
+    "name": "Place de la Bourse",
+    "coords": [
+      -0.5701,
+      44.8412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de la Bourse & Miroir d'eau",
+          "coords": [
+            -0.5702,
+            44.8413
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kommen Sie früh morgens für die besten Reflexionen.",
+            "hu": "Gyere kora reggel a legtökéletesebb tükröződésért.",
+            "ro": "Veniți dimineața devreme pentru cele mai bune reflexii.",
+            "en": "Come early in the morning for the best reflections."
+          }
+        },
+        {
+          "name": "Grand Théâtre de Bordeaux",
+          "coords": [
+            -0.5741,
+            44.8427
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die 12 korinthischen Säulen.",
+            "hu": "Csodáld meg a 12 korinthoszi oszlopot a homlokzaton.",
+            "ro": "Admirați cele 12 coloane corintice de pe fațadă.",
+            "en": "Admire the 12 Corinthian columns on the facade."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-André",
+          "coords": [
+            -0.5776,
+            44.8378
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Pey-Berland-Turm bietet eine tolle Aussicht.",
+            "hu": "A különálló Pey-Berland toronyból pazar a kilátás.",
+            "ro": "Turnul Pey-Berland oferă o vedere panoramică superbă.",
+            "en": "The separate Pey-Berland tower offers a great view."
+          }
+        },
+        {
+          "name": "Musée d'Aquitaine",
+          "coords": [
+            -0.5755,
+            44.8355
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte von der Vorzeit bis heute.",
+            "hu": "Fedezd fel a régió történelmét az őskortól napjainkig.",
+            "ro": "Descoperiți istoria regiunii din preistorie până azi.",
+            "en": "Explore the region's history from prehistory to today."
+          }
+        },
+        {
+          "name": "Grosse Cloche",
+          "coords": [
+            -0.5714,
+            44.8357
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eines der ältesten Stadttore Frankreichs.",
+            "hu": "Franciaország egyik legrégebbi városkapuja.",
+            "ro": "Una dintre cele mai vechi porți de oraș din Franța.",
+            "en": "One of the oldest city gates in France."
+          }
+        },
+        {
+          "name": "Rue Sainte-Catherine",
+          "coords": [
+            -0.5735,
+            44.8385
+          ],
+          "category": "shopping",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Europas längste Fußgängerzone für Shopping.",
+            "hu": "Európa leghosszabb sétáló- és bevásárlóutcája.",
+            "ro": "Cea mai lungă stradă pietonală de cumpărături din Europa.",
+            "en": "Europe's longest pedestrian shopping street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erleben Sie den magischen Wasserspiegel an der Place de la Bourse. Mittags erkunden Sie die prächtige Kathedrale und das Theater im Herzen der Stadt. Nachmittags tauchen Sie im Musée d'Aquitaine in die regionale Geschichte ein. Abends lassen Sie den Tag beim Shopping in der lebhaften Rue Sainte-Catherine ausklingen.",
+        "hu": "Reggel a Place de la Bourse vízi tükrének varázsával indítunk. Délben a monumentális katedrálist és a színházat fedezzük fel a belvárosban. Délután az Aquitaine Múzeumban merülünk el a helyi történelemben. Este a Rue Sainte-Catherine nyüzsgő forgatagában zárjuk a napot, ahol a vásárlásé a főszerep.",
+        "ro": "Dimineața începe cu magia oglinzii de apă de la Place de la Bourse. La prânz explorăm catedrala monumentală și teatrul din inima orașului. După-amiaza ne scufundăm în istoria regională la Musée d'Aquitaine. Seara încheiem ziua cu o plimbare și cumpărături pe vibranta stradă Sainte-Catherine.",
+        "en": "Morning begins with the magical Water Mirror at Place de la Bourse. At midday, explore the grand cathedral and theater in the city heart. In the afternoon, dive into regional history at the Musée d'Aquitaine. Evening concludes with shopping and a lively atmosphere along the famous Rue Sainte-Catherine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cannelés Baillardran",
+            "tip": "Probieren Sie die karamellisierten Minikuchen."
+          },
+          {
+            "name": "Le Chapon Fin",
+            "tip": "Historisches Gourmetrestaurant."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cannelés Baillardran",
+            "tip": "Kóstold meg a helyi karamellizált süteményt."
+          },
+          {
+            "name": "Le Chapon Fin",
+            "tip": "Történelmi gourmet étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cannelés Baillardran",
+            "tip": "Gustați celebrele prăjituri caramelizate."
+          },
+          {
+            "name": "Le Chapon Fin",
+            "tip": "Restaurant gourmet istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cannelés Baillardran",
+            "tip": "Taste the iconic caramelized mini cakes."
+          },
+          {
+            "name": "Le Chapon Fin",
+            "tip": "A historic gourmet dining institution."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Public",
+            "tip": "Ein idyllischer Park zum Entspannen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Public",
+            "tip": "Idilli park a város szívében a pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Public",
+            "tip": "Un parc idilic în centrul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Public",
+            "tip": "An idyllic park in the city center for relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Sainte-Catherine",
+            "tip": "Hauptgeschäftsstraße von Bordeaux."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Sainte-Catherine",
+            "tip": "Bordeaux fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Sainte-Catherine",
+            "tip": "Principala arteră comercială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Sainte-Catherine",
+            "tip": "The main commercial artery of Bordeaux."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bordeaux ist sehr flach und perfekt zu Fuß erkundbar.",
+          "Achten Sie auf die Straßenbahnen im Zentrum.",
+          "Reservieren Sie Restaurants im Voraus.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Bordeaux teljesen sík, így gyalogosan is kényelmes.",
+          "Figyelj a villamosokra a belvárosban.",
+          "Érdemes előre asztalt foglalni az éttermekbe.",
+          "Viselj kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Bordeaux este plat și perfect pentru explorat pe jos.",
+          "Atenție la tramvaiele din zona centrală.",
+          "Rezervați masa la restaurant în avans.",
+          "Purtați încălțăminte comodă pentru zonele pavate."
+        ],
+        "en": [
+          "Bordeaux is very flat and perfect for exploring on foot.",
+          "Watch out for trams in the pedestrian zones.",
+          "Book restaurants in advance for dinner.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Quais de Bordeaux",
+          "coords": [
+            -0.565,
+            44.845
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Breite Radwege entlang der Garonne.",
+            "hu": "Széles kerékpárutak a Garonne mentén.",
+            "ro": "Piste largi de biciclete de-a lungul Garonei.",
+            "en": "Wide bike paths along the Garonne river."
+          }
+        },
+        {
+          "name": "Cité du Vin",
+          "coords": [
+            -0.5501,
+            44.8623
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Weinkultur mit Verkostung.",
+            "hu": "A borkultúra fellegvára, kóstolóval a tetején.",
+            "ro": "Simbolul culturii vinului, cu degustare inclusă.",
+            "en": "The landmark of wine culture with a tasting view."
+          }
+        },
+        {
+          "name": "Pont Jacques Chaban-Delmas",
+          "coords": [
+            -0.548,
+            44.858
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Europas höchste Hebebrücke.",
+            "hu": "Európa legmagasabb emelőhídja.",
+            "ro": "Cel mai înalt pod mobil din Europa.",
+            "en": "Europe's tallest vertical-lift bridge."
+          }
+        },
+        {
+          "name": "Jardin Botanique (La Bastide)",
+          "coords": [
+            -0.558,
+            44.843
+          ],
+          "category": "park",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ruhiger Garten auf der rechten Uferseite.",
+            "hu": "Csendes botanikus kert a jobb parton.",
+            "ro": "Grădină botanică liniștită pe malul drept.",
+            "en": "Quiet botanical garden on the right bank."
+          }
+        },
+        {
+          "name": "Pont de Pierre",
+          "coords": [
+            -0.5655,
+            44.8385
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Silhouette der Stadt.",
+            "hu": "Élvezd a kilátást a város sziluettjére a hídról.",
+            "ro": "Bucurați-vă de panorama orașului de pe pod.",
+            "en": "Enjoy the view of the city skyline from the bridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie entlang der Garonne-Quais. Mittags besuchen Sie die spektakuläre Cité du Vin im modernen Viertel. Nachmittags überqueren Sie die futuristische Chaban-Delmas-Brücke zum botanischen Garten. Abends kehren Sie über die historische Steinbrücke Pont de Pierre ins Zentrum zurück.",
+        "hu": "Reggel a Garonne-parti sétányokon tekerünk. Délben meglátogatjuk a látványos Bormúzeumot (Cité du Vin). Délután a futurisztikus Chaban-Delmas hídon átkelve a botanikus kertet érintjük. Este a történelmi kőhídon, a Pont de Pierre-en keresztül térünk vissza a belvárosba.",
+        "ro": "Dimineața pedalăm pe cheiurile Garonei. La prânz vizităm spectaculoasa Cité du Vin în cartierul modern. După-amiaza traversăm podul futurist Chaban-Delmas spre grădina botanică. Seara revenim în centru peste istoricul pod de piatră, Pont de Pierre.",
+        "en": "Morning ride along the scenic Garonne quayside. Midday visit to the spectacular Cité du Vin museum. In the afternoon, cross the futuristic Chaban-Delmas bridge to the botanical gardens. Evening return to the center via the historic Pont de Pierre stone bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Magasin Général",
+            "tip": "Bio-Bistro im Darwin Eco-système."
+          },
+          {
+            "name": "Les Halles de Bacalan",
+            "tip": "Moderne Food-Markthalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Magasin Général",
+            "tip": "Bio bisztró a Darwin öko-negyedben."
+          },
+          {
+            "name": "Les Halles de Bacalan",
+            "tip": "Modern gasztro-piaccsarnok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magasin Général",
+            "tip": "Bistro bio în Darwin Eco-système."
+          },
+          {
+            "name": "Les Halles de Bacalan",
+            "tip": "Hală gastronomică modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Magasin Général",
+            "tip": "Organic bistro in the Darwin Eco-district."
+          },
+          {
+            "name": "Les Halles de Bacalan",
+            "tip": "Modern food hall with local stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc aux Angéliques",
+            "tip": "Grüner Uferstreifen auf der rechten Seite.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc aux Angéliques",
+            "tip": "Zöld vízparti sáv a jobb parton.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc aux Angéliques",
+            "tip": "Zonă verde pe malul drept al râului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc aux Angéliques",
+            "tip": "Lush riverside strip on the right bank.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Darwin Eco-système",
+            "tip": "Alternative Läden und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Darwin Eco-système",
+            "tip": "Alternatív boltok és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Darwin Eco-système",
+            "tip": "Magazine alternative și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Darwin Eco-système",
+            "tip": "Alternative shops and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das V3-Leihradsystem der Stadt.",
+          "Die Wege am Fluss sind komplett flach.",
+          "Die Brücken haben separate Radwege.",
+          "Schließen Sie Ihr Fahrrad immer gut ab."
+        ],
+        "hu": [
+          "Használd a városi V3 bérbringarendszert.",
+          "A folyóparti utak teljesen síkak.",
+          "A hidakon külön sáv van a bicikliseknek.",
+          "Mindig alaposan zárd le a kerékpárt."
+        ],
+        "ro": [
+          "Utilizați sistemul public de închirieri V3.",
+          "Traseele de pe malul râului sunt plate.",
+          "Podurile au piste de biciclete separate.",
+          "Încuiați întotdeauna bine bicicleta."
+        ],
+        "en": [
+          "Use the city's V3 bike-sharing system.",
+          "Riverside paths are completely flat and easy.",
+          "Bridges have dedicated bike lanes.",
+          "Always lock your bike securely when stopping."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 142.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bordeaux Zentrum (Triangle d'Or)",
+          "coords": [
+            -0.575,
+            44.8435
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Das luxuriöse Viertel mit klassischer Architektur.",
+            "hu": "Luxus negyed klasszikus építészettel.",
+            "ro": "Cartier de lux cu arhitectură clasică.",
+            "en": "The luxury district with classical architecture."
+          }
+        },
+        {
+          "name": "Bassins des Lumières",
+          "coords": [
+            -0.559,
+            44.871
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Digitale Kunstausstellung in einer U-Boot-Basis.",
+            "hu": "Digitális művészeti kiállítás egy tengeralattjáró-bázison.",
+            "ro": "Expoziție de artă digitală într-o bază de submarine.",
+            "en": "Digital art exhibition in a former submarine base."
+          }
+        },
+        {
+          "name": "Dune du Pilat (Arcachon)",
+          "coords": [
+            -1.211,
+            44.59
+          ],
+          "category": "nature",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 65.0,
+          "tip_5lang": {
+            "de": "Die höchste Wanderdüne Europas.",
+            "hu": "Európa legmagasabb vándordűnéje.",
+            "ro": "Cea mai înaltă dună de nisip din Europa.",
+            "en": "The tallest sand dune in Europe."
+          }
+        },
+        {
+          "name": "Arcachon Ville d'Hiver",
+          "coords": [
+            -1.168,
+            44.658
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Prachtvolle Villen aus dem 19. Jahrhundert.",
+            "hu": "Pompás 19. századi villák negyede.",
+            "ro": "Vile splendide din secolul al XIX-lea.",
+            "en": "Splendid 19th-century villas district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das elegante Zentrum von Bordeaux. Mittags besuchen Sie die beeindruckenden Bassins des Lumières. Nachmittags fahren Sie zur Dune du Pilat für einen atemberaubenden Blick über den Ozean. Abends spazieren Sie durch die historische Winterstadt von Arcachon.",
+        "hu": "Reggel Bordeaux elegáns belvárosával kezdünk. Délben a lenyűgöző Bassins des Lumières fénykiállítást nézzük meg. Délután az óceánparti Dune du Pilat dűnéhez autózunk a kilátásért. Este Arcachon történelmi 'Téli Város' negyedében teszünk egy sétát.",
+        "ro": "Dimineața explorăm centrul elegant din Bordeaux. La prânz vizităm expoziția Bassins des Lumières. După-amiaza conducem spre Dune du Pilat pentru o vedere uluitoare asupra oceanului. Seara ne plimbăm prin cartierul istoric Ville d'Hiver din Arcachon.",
+        "en": "Morning starts with the elegant center of Bordeaux. Midday visit to the immersive Bassins des Lumières. In the afternoon, drive to the Dune du Pilat for breathtaking ocean views. Evening walk through the historic Winter Town of Arcachon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Hortense",
+            "tip": "Frische Austern direkt am Cap Ferret."
+          },
+          {
+            "name": "La Guérinière",
+            "tip": "Exzellente Meeresfrüchte in Gujan-Mestras."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Hortense",
+            "tip": "Friss osztriga közvetlenül az óceánparton."
+          },
+          {
+            "name": "La Guérinière",
+            "tip": "Kiváló tenger gyümölcsei Gujan-Mestrasban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Hortense",
+            "tip": "Stridii proaspete direct pe malul mării."
+          },
+          {
+            "name": "La Guérinière",
+            "tip": "Fructe de mare excelente în Gujan-Mestras."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Hortense",
+            "tip": "Fresh oysters right by the ocean shore."
+          },
+          {
+            "name": "La Guérinière",
+            "tip": "Excellent seafood in Gujan-Mestras."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de la Lagune",
+            "tip": "Ruhigerer Strand südlich der Düne.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de la Lagune",
+            "tip": "Csendesebb strand a dűnétől délre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage de la Lagune",
+            "tip": "Plajă mai liniștită la sud de dună.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage de la Lagune",
+            "tip": "Quieter beach south of the dune.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché d'Arcachon",
+            "tip": "Lokale Produkte und frischer Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché d'Arcachon",
+            "tip": "Helyi termékek és friss halak piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché d'Arcachon",
+            "tip": "Produse locale și pește proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché d'Arcachon",
+            "tip": "Local products and fresh fish market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum von Bordeaux ist teuer.",
+          "Die Autobahn nach Arcachon kann am Wochenende voll sein.",
+          "Nehmen Sie Wasser für den Aufstieg auf die Düne mit.",
+          "Buchen Sie Bassins des Lumières Tickets vorab."
+        ],
+        "hu": [
+          "Bordeaux belvárosában drága a parkolás.",
+          "Az Arcachon felé vezető út hétvégén forgalmas lehet.",
+          "Vigyél vizet a dűne megmászásához.",
+          "Foglald le előre a Bassins des Lumières jegyeit."
+        ],
+        "ro": [
+          "Parcarea în centrul Bordeaux-ului este scumpă.",
+          "Autostrada spre Arcachon poate fi aglomerată în weekend.",
+          "Luați apă pentru urcarea pe dună.",
+          "Rezervați biletele pentru Bassins des Lumières în avans."
+        ],
+        "en": [
+          "Parking in Bordeaux city center is expensive.",
+          "The highway to Arcachon can be busy on weekends.",
+          "Bring water for the climb up the sand dune.",
+          "Book Bassins des Lumières tickets online in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Esplanade des Quinconces",
+          "coords": [
+            -0.574,
+            44.8455
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der größte Platz Frankreichs mit dem Girondins-Monument.",
+            "hu": "Franciaország legnagyobb tere a Girondins-emlékművel.",
+            "ro": "Cea mai mare piață din Franța, cu monumentul Girondinilor.",
+            "en": "The largest square in France with the Girondins monument."
+          }
+        },
+        {
+          "name": "Cité du Vin (Tram B)",
+          "coords": [
+            -0.5501,
+            44.8623
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Mit der Tramlinie B direkt erreichbar.",
+            "hu": "A B villamosvonalon közvetlenül elérhető.",
+            "ro": "Accesibil direct cu linia de tramvai B.",
+            "en": "Easily accessible via tram line B."
+          }
+        },
+        {
+          "name": "Porte de Bourgogne",
+          "coords": [
+            -0.5665,
+            44.8375
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Zentraler Umstiegspunkt am Fluss.",
+            "hu": "Központi átszállóhely a folyóparton.",
+            "ro": "Punct central de transfer pe malul râului.",
+            "en": "Central transfer hub by the river."
+          }
+        },
+        {
+          "name": "Basilique Saint-Michel",
+          "coords": [
+            -0.565,
+            44.8345
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lebhaftes Viertel mit prächtiger Basilika.",
+            "hu": "Nyüzsgő negyed pompás bazilikával.",
+            "ro": "Cartier vibrant cu o bazilică splendidă.",
+            "en": "Lively neighborhood with a grand basilica."
+          }
+        },
+        {
+          "name": "Marché des Capucins",
+          "coords": [
+            -0.5685,
+            44.831
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der Bauch von Bordeaux - ein Schmaus.",
+            "hu": "Bordeaux éléskamrája - igazi gasztroélmény.",
+            "ro": "Pântecele orașului Bordeaux - o experiență culinară.",
+            "en": "The belly of Bordeaux - a culinary feast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens besuchen Sie die Quinconces mit der Tram. Mittags fahren Sie zur Cité du Vin im Norden. Nachmittags erkunden Sie das Saint-Michel-Viertel mit seiner Basilika. Abends genießen Sie lokale Köstlichkeiten auf dem berühmten Marché des Capucins.",
+        "hu": "Reggel a Quinconces teret nézzük meg villamossal. Délben északra utazunk a Bormúzeumba. Délután a Saint-Michel negyedet és a bazilikát fedezzük fel. Este a híres Capucins piacon kóstoljuk meg a helyi ízeket.",
+        "ro": "Dimineața vizităm piața Quinconces cu tramvaiul. La prânz mergem spre nord la Cité du Vin. După-amiaza explorăm cartierul Saint-Michel și bazilica sa. Seara savurăm delicatese locale în faimoasa piață Marché des Capucins.",
+        "en": "Morning visit to the Quinconces square by tram. Midday journey to the Cité du Vin in the north. In the afternoon, explore the Saint-Michel district and its basilica. Evening enjoyment of local flavors at the Marché des Capucins."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Jean-Mi",
+            "tip": "Austern und Wein am Markt."
+          },
+          {
+            "name": "La Tupina",
+            "tip": "Klassische südwestfranzösische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Jean-Mi",
+            "tip": "Osztriga és bor a piacon."
+          },
+          {
+            "name": "La Tupina",
+            "tip": "Klasszikus délnyugat-francia konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Jean-Mi",
+            "tip": "Stridii și vin direct în piață."
+          },
+          {
+            "name": "La Tupina",
+            "tip": "Bucătărie clasică din sud-vestul Franței."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Jean-Mi",
+            "tip": "Oysters and wine stalls at the market."
+          },
+          {
+            "name": "La Tupina",
+            "tip": "Classic Southwest French cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Csendes tér a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Piațetă liniștită în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la Basilique",
+            "tip": "Quiet square located behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "Traditioneller Lebensmittelmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "Hagyományos élelmiszerpiac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "Piață tradițională de alimente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché des Capucins",
+            "tip": "Traditional local food market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das TBM-Netz.",
+          "Die Tramlinien A, B und C decken alles ab.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen.",
+          "Nutzen Sie die App 'TBM' für Echtzeiten."
+        ],
+        "hu": [
+          "Vegyen napijegyet a TBM hálózatra.",
+          "Az A, B és C villamosvonal minden főbb helyet érint.",
+          "Érvényesítsd a jegyedet felszálláskor.",
+          "Használd a 'TBM' alkalmazást a menetrendhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua TBM.",
+          "Liniile de tramvai A, B și C acoperă tot centrul.",
+          "Validați biletul la fiecare urcare.",
+          "Folosiți aplicația TBM pentru timpi reali."
+        ],
+        "en": [
+          "Buy a day pass for the TBM transport network.",
+          "Tram lines A, B, and C cover all major sights.",
+          "Validate your ticket upon boarding every time.",
+          "Use the 'TBM' mobile app for real-time info."
+        ]
+      }
+    }
+  }
+}

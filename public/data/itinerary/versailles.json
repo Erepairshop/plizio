@@ -1,0 +1,1036 @@
+{
+  "city_id": "versailles",
+  "anchor": {
+    "name": "Palace of Versailles",
+    "coords": [
+      2.1204,
+      48.8049
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            2.1221,
+            48.8045
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Bester Blick auf die goldene Fassade.",
+            "hu": "A legjobb kilátás az aranykapura.",
+            "ro": "Cea mai bună vedere a porții de aur.",
+            "en": "Best view of the golden gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Versailles",
+            "hu": "Versailles-i Kastély",
+            "ro": "Palatul Versailles",
+            "en": "Palace of Versailles"
+          },
+          "coords": [
+            2.1202,
+            48.8048
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Besuchen Sie den Spiegelsaal zuerst.",
+            "hu": "A Tükörteremmel kezdje a látogatást.",
+            "ro": "Vizitați Sala Oglinzilor mai întâi.",
+            "en": "Visit the Hall of Mirrors first."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossgärten",
+            "hu": "Kastélykert",
+            "ro": "Grădinile Palatului",
+            "en": "Palace Gardens"
+          },
+          "coords": [
+            2.1105,
+            48.8062
+          ],
+          "category": "park",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Die musikalischen Wasserspiele sind ein Muss.",
+            "hu": "A zenélő szökőkutak kihagyhatatlanok.",
+            "ro": "Fântânile muzicale sunt de neratat.",
+            "en": "The musical fountains are a must-see."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Louis",
+            "hu": "Szent Lajos-székesegyház",
+            "ro": "Catedrala Saint-Louis",
+            "en": "Saint-Louis Cathedral"
+          },
+          "coords": [
+            2.1265,
+            48.7992
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Barockorgel.",
+            "hu": "Csodálja meg a barokk orgonát.",
+            "ro": "Admirați orga barocă.",
+            "en": "Admire the Baroque organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt Notre-Dame",
+            "hu": "Notre-Dame piac",
+            "ro": "Piața Notre-Dame",
+            "en": "Marché Notre-Dame"
+          },
+          "coords": [
+            2.1315,
+            48.8075
+          ],
+          "category": "shopping",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_4lang": {
+            "de": "Probieren Sie lokalen Käse.",
+            "hu": "Kóstolja meg a helyi sajtokat.",
+            "ro": "Gustați brânzeturile locale.",
+            "en": "Taste some local cheeses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem majestätischen Place d'Armes, bevor Sie in den Prunk des Schlosses eintauchen. Am Mittag erkunden Sie die geometrische Perfektion der Gärten von Le Nôtre bei einem ausgiebigen Spaziergang. Der Nachmittag führt Sie in das ruhige Saint-Louis-Viertel mit seiner beeindruckenden Barock-Kathedrale. Den Abend lassen Sie bei kulinarischen Entdeckungen auf dem historischen Markt Notre-Dame ausklingen, wo das echte Versailler Leben pulsiert.",
+        "hu": "Kezdje a napot a fenséges Place d'Armes téren, majd merüljön el a kastély pompájában. Délben fedezze fel a Le Nôtre által tervezett kertek mértani tökéletességét egy hosszú séta során. A délután a csendes Saint-Louis negyedbe vezeti, ahol a lenyűgöző barokk katedrálist láthatja. Az estét töltse a történelmi Notre-Dame piacon, ahol a helyi élet pezseg és kiváló francia finomságokat kóstolhat a hangulatos standok között.",
+        "ro": "Începeți ziua în maiestuoasa Place d'Armes înainte de a pătrunde în opulența palatului. La prânz, explorați perfecțiunea geometrică a grădinilor proiectate de Le Nôtre printr-o plimbare relaxantă. După-amiaza vă poartă în cartierul liniștit Saint-Louis, cu catedrala sa barocă impresionantă. Încheiați seara cu descoperiri culinare în piața istorică Notre-Dame, unde viața locală pulsează cu energie și arome autentice.",
+        "en": "Start your day at the majestic Place d'Armes before diving into the opulence of the palace. At midday, explore the geometric perfection of the gardens designed by Le Nôtre during an extensive stroll. The afternoon leads you to the quiet Saint-Louis district with its impressive Baroque cathedral. End your evening with culinary discoveries at the historic Notre-Dame market, where local life pulses with energy and authentic French flavors."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Table du 11",
+            "tip": "Moderne französische Küche in elegantem Ambiente."
+          },
+          {
+            "name": "Crêperie la Place",
+            "tip": "Klassische Galettes direkt am Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Table du 11",
+            "tip": "Modern francia konyha elegáns környezetben."
+          },
+          {
+            "name": "Crêperie la Place",
+            "tip": "Hagyományos palacsinták közvetlenül a kastélynál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Table du 11",
+            "tip": "Bucătărie franceză modernă într-un cadru elegant."
+          },
+          {
+            "name": "Crêperie la Place",
+            "tip": "Clătite clasice chiar lângă palat."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table du 11",
+            "tip": "Modern French cuisine in an elegant setting."
+          },
+          {
+            "name": "Crêperie la Place",
+            "tip": "Classic galettes right next to the palace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pièce d'Eau des Suisses",
+            "tip": "Ein ruhiger See abseits der Massen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pièce d'Eau des Suisses",
+            "tip": "Csendes tó a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pièce d'Eau des Suisses",
+            "tip": "Un lac liniștit departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pièce d'Eau des Suisses",
+            "tip": "A quiet lake away from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Frische Produkte und regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Friss termékek és regionális különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Produse proaspete și specialități regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Notre-Dame",
+            "tip": "Fresh produce and regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für das Schloss Wochen im Voraus.",
+          "Bequeme Schuhe sind für die weiten Wege Pflicht.",
+          "Besuchen Sie den Markt am Dienstag, Freitag oder Sonntag."
+        ],
+        "hu": [
+          "Foglalja le a kastélybelépőt hetekkel előre.",
+          "Kényelmes cipő kötelező a hatalmas távolságok miatt.",
+          "Látogasson el a piacra kedden, pénteken vagy vasárnap."
+        ],
+        "ro": [
+          "Rezervați biletele pentru palat cu săptămâni în avans.",
+          "Pantofii confortabili sunt obligatorii pentru distanțele lungi.",
+          "Vizitați piața marți, vineri sau duminică."
+        ],
+        "en": [
+          "Book palace tickets weeks in advance.",
+          "Comfortable shoes are mandatory for the long distances.",
+          "Visit the market on Tuesday, Friday, or Sunday."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand Canal",
+            "hu": "Nagy-csatorna",
+            "ro": "Marele Canal",
+            "en": "Grand Canal"
+          },
+          "coords": [
+            2.1005,
+            48.8095
+          ],
+          "category": "park",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Fahren Sie die gesamte Länge entlang.",
+            "hu": "Tekerjen végig a teljes hossza mentén.",
+            "ro": "Pedalați pe întreaga lungime.",
+            "en": "Cycle along the entire length."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Trianon",
+            "hu": "Nagy-Trianon",
+            "ro": "Marele Trianon",
+            "en": "Grand Trianon"
+          },
+          "coords": [
+            2.1052,
+            48.8155
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie den rosa Marmor.",
+            "hu": "Csodálja meg a rózsaszín márványt.",
+            "ro": "Admirați marmura roz.",
+            "en": "Admire the pink marble."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit Trianon",
+            "hu": "Kis-Trianon",
+            "ro": "Micul Trianon",
+            "en": "Petit Trianon"
+          },
+          "coords": [
+            2.1095,
+            48.8162
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Marie-Antoinettes Zufluchtsort.",
+            "hu": "Marie Antoinette menedékhelye.",
+            "ro": "Refugiul Mariei Antoaneta.",
+            "en": "Marie Antoinette's sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Hameau de la Reine",
+            "hu": "A királyné faluja",
+            "ro": "Cătunul Reginei",
+            "en": "The Queen's Hamlet"
+          },
+          "coords": [
+            2.1125,
+            48.8192
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Ein idyllisches Dorf im Park.",
+            "hu": "Idilli falu a parkban.",
+            "ro": "Un sat idilic în parc.",
+            "en": "An idyllic village in the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Potager du Roi",
+            "hu": "A király konyhakertje",
+            "ro": "Grădina de legume a Regelui",
+            "en": "King's Kitchen Garden"
+          },
+          "coords": [
+            2.1215,
+            48.7985
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Kaufen Sie frisches Obst der Saison.",
+            "hu": "Vásároljon friss szezonális gyümölcsöt.",
+            "ro": "Cumpărați fructe proaspete de sezon.",
+            "en": "Buy fresh seasonal fruit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die weitläufigen Parkanlagen von Versailles mühelos mit dem Fahrrad. Radeln Sie am Grand Canal entlang und genießen Sie die Meeresbrise mitten in Frankreich. Der Vormittag gehört der Architektur von Mansart in den Trianon-Schlössern. Am Nachmittag führt Sie der Weg in das rustikale Paradies der Königin, das Hameau, bevor Sie den Potager du Roi besuchen, wo einst die Tafel des Sonnenkönigs mit exotischen Früchten versorgt wurde.",
+        "hu": "Fedezze fel Versailles hatalmas parkját könnyedén, két keréken. Tekerjen a Nagy-csatorna mentén, és élvezze a szabadságot a királyi környezetben. A délelőtt a Trianon-kastélyok elegáns építészetéé. Délután az út a királyné rusztikus paradicsomába, a falucskába repíti, majd zárásként látogassa meg a király konyhakertjét, ahonnan egykor a Napkirály asztalát látták el a legfinomabb gyümölcsökkel és zöldségekkel.",
+        "ro": "Explorați parcul vast din Versailles fără efort, pe bicicletă. Pedalați de-a lungul Marelui Canal și bucurați-vă de libertate în cadrul regal. Dimineața este dedicată arhitecturii elegante a castelelor Trianon. După-amiaza, drumul vă poartă în paradisul rustic al reginei, cătunul, înainte de a vizita Potager du Roi, de unde era aprovizionată odinioară masa Regelui Soare cu cele mai fine fructe.",
+        "en": "Explore the vast parklands of Versailles effortlessly on two wheels. Cycle along the Grand Canal and enjoy the freedom of the royal setting. The morning is dedicated to the elegant architecture of the Trianon palaces. In the afternoon, the path takes you to the Queen's rustic paradise, the Hamlet, before ending with a visit to the King's Kitchen Garden, which once supplied the Sun King's table with the finest produce."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Angelina",
+            "tip": "Berühmte heiße Schokolade am Grand Trianon."
+          },
+          {
+            "name": "La Flottille",
+            "tip": "Essen mit Blick auf den Canal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angelina",
+            "tip": "Híres forró csokoládé a Nagy-Trianonnál."
+          },
+          {
+            "name": "La Flottille",
+            "tip": "Ebéd kilátással a csatornára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Angelina",
+            "tip": "Faimoasa ciocolată caldă lângă Marele Trianon."
+          },
+          {
+            "name": "La Flottille",
+            "tip": "Masă cu vedere la canal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Angelina",
+            "tip": "Famous hot chocolate near the Grand Trianon."
+          },
+          {
+            "name": "La Flottille",
+            "tip": "Dining with a view of the Canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petit Lac",
+            "tip": "Ruhiger Spot beim Hameau.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Étoile Royale",
+            "tip": "Das ferne Ende des Kanals.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petit Lac",
+            "tip": "Csendes hely a falunál.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Étoile Royale",
+            "tip": "A csatorna távoli vége.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petit Lac",
+            "tip": "Loc liniștit lângă cătun.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Étoile Royale",
+            "tip": "Capătul îndepărtat al canalului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petit Lac",
+            "tip": "Quiet spot near the Hamlet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Étoile Royale",
+            "tip": "The far end of the canal.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Boutique du Jardin",
+            "tip": "Garten-Themen Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boutique du Jardin",
+            "tip": "Kerti témájú ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Boutique du Jardin",
+            "tip": "Suveniruri cu tematică florală."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Boutique du Jardin",
+            "tip": "Garden-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrräder können am Canal oder am Bahnhof gemietet werden.",
+          "Das Radfahren ist nur auf den markierten Wegen im Park erlaubt.",
+          "Nehmen Sie ausreichend Wasser für die weiten Strecken mit."
+        ],
+        "hu": [
+          "Kerékpár a csatornánál vagy az állomásnál bérelhető.",
+          "A kerékpározás csak a park kijelölt útjain engedélyezett.",
+          "Vigyen magával elegendő vizet a nagy távolságokhoz."
+        ],
+        "ro": [
+          "Bicicletele pot fi închiriate la Canal sau la gară.",
+          "Ciclismul este permis doar pe traseele marcate din parc.",
+          "Luați suficientă apă pentru distanțele lungi."
+        ],
+        "en": [
+          "Bikes can be rented at the Canal or near the station.",
+          "Cycling is only allowed on marked paths in the park.",
+          "Take plenty of water for the long distances."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Versailles",
+            "hu": "Versailles-i Kastély",
+            "ro": "Palatul Versailles",
+            "en": "Palace of Versailles"
+          },
+          "coords": [
+            2.1202,
+            48.8048
+          ],
+          "category": "museum",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Nutzen Sie das Parkhaus am Place d'Armes.",
+            "hu": "Használja a Place d'Armes parkolóját.",
+            "ro": "Folosiți parcarea din Place d'Armes.",
+            "en": "Use the parking lot at Place d'Armes."
+          }
+        },
+        {
+          "name": {
+            "de": "Trianon-Anwesen",
+            "hu": "Trianon-birtok",
+            "ro": "Domeniul Trianon",
+            "en": "Trianon Estate"
+          },
+          "coords": [
+            2.1075,
+            48.8165
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Separater Parkplatz 'Grand Trianon' vorhanden.",
+            "hu": "Külön parkoló áll rendelkezésre a Nagy-Trianonnál.",
+            "ro": "Parcare separată disponibilă la Marele Trianon.",
+            "en": "Separate 'Grand Trianon' parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum de Chèvreloup",
+            "hu": "Chèvreloup Arborétum",
+            "ro": "Arboretumul Chèvreloup",
+            "en": "Arboretum de Chèvreloup"
+          },
+          "coords": [
+            2.1125,
+            48.8315
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Tausende von seltenen Baumarten.",
+            "hu": "Több ezer ritka fafajta gyűjteménye.",
+            "ro": "Mii de specii rare de arbori.",
+            "en": "Thousands of rare tree species."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Marly",
+            "hu": "Marly-birtok",
+            "ro": "Domeniul Marly",
+            "en": "Domaine de Marly"
+          },
+          "coords": [
+            2.1025,
+            48.8415
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Ein ehemaliger Rückzugsort des Königs.",
+            "hu": "A király egykori titkos menedékhelye.",
+            "ro": "O fostă reședință privată a regelui.",
+            "en": "A former private retreat of the King."
+          }
+        },
+        {
+          "name": {
+            "de": "Versailles Altstadt",
+            "hu": "Versailles óváros",
+            "ro": "Centrul vechi Versailles",
+            "en": "Versailles Old Town"
+          },
+          "coords": [
+            2.1285,
+            48.8055
+          ],
+          "category": "historical",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Abendessen im Viertel Notre-Dame.",
+            "hu": "Vacsora a Notre-Dame negyedben.",
+            "ro": "Cina în cartierul Notre-Dame.",
+            "en": "Dinner in the Notre-Dame district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie die Freiheit, Versailles über das Hauptschloss hinaus zu erkunden. Vormittags tauchen Sie in den Prunk ein, bevor Sie bequem zum abgelegeneren Trianon-Gelände fahren. Der Nachmittag führt Sie in das Arboretum de Chèvreloup, eine Oase der Ruhe. Ein kurzer Ausflug zum nahegelegenen Domaine de Marly zeigt Ihnen, wo der König dem höfischen Protokoll entfloh. Den Tag beenden Sie entspannt in der Altstadt von Versailles.",
+        "hu": "Autóval élvezheti a szabadságot, és Versailles-t a főkastélyon túl is felfedezheti. Délelőtt merüljön el a pompában, majd hajtson kényelmesen a távolabb eső Trianon-birtokra. A délután a Chèvreloup arborétumba vezet, amely a nyugalom oázisa. Egy rövid kirándulás a közeli Marly-birtokra megmutatja, hová menekült a király az udvari protokoll elől. A napot Versailles óvárosában, egy kellemes vacsorával zárhatja.",
+        "ro": "Cu mașina, vă bucurați de libertatea de a explora Versailles dincolo de palatul principal. Dimineața, cufundați-vă în splendoare, apoi conduceți confortabil către domeniul Trianon, mai retras. După-amiaza vă duce la Arboretumul Chèvreloup, o oază de liniște. O scurtă excursie la domeniul Marly vă arată unde evada regele de protocolul curții. Încheiați ziua relaxat în centrul vechi al orașului Versailles.",
+        "en": "With a car, you enjoy the freedom to explore Versailles beyond the main palace. Immerse yourself in the splendor in the morning, then drive comfortably to the more secluded Trianon estate. The afternoon leads you to the Chèvreloup Arboretum, an oasis of calm. A short trip to the nearby Domaine de Marly shows you where the King escaped court protocol. End the day relaxed in the old town of Versailles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ore - Alain Ducasse",
+            "tip": "Exzellente Küche im Schloss Versailles."
+          },
+          {
+            "name": "Le Gordon Bennett",
+            "tip": "Gartenrestaurant im Trianon Palace Hotel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ore - Alain Ducasse",
+            "tip": "Kiváló konyha a Versailles-i kastélyban."
+          },
+          {
+            "name": "Le Gordon Bennett",
+            "tip": "Kerti étterem a Trianon Palace Hotelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ore - Alain Ducasse",
+            "tip": "Bucătărie excelentă în palatul Versailles."
+          },
+          {
+            "name": "Le Gordon Bennett",
+            "tip": "Restaurant în grădină la Trianon Palace Hotel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ore - Alain Ducasse",
+            "tip": "Excellent cuisine inside the Palace of Versailles."
+          },
+          {
+            "name": "Le Gordon Bennett",
+            "tip": "Garden restaurant at the Trianon Palace Hotel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt de Marly",
+            "tip": "Ruhiger Wald zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Forêt de Marly",
+            "tip": "Csendes erdő a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Forêt de Marly",
+            "tip": "Pădure liniștită pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forêt de Marly",
+            "tip": "Quiet forest for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parly 2",
+            "tip": "Großes Einkaufszentrum ganz in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parly 2",
+            "tip": "Nagy bevásárlóközpont a közvetlen közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parly 2",
+            "tip": "Centru comercial mare în imediata apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Parly 2",
+            "tip": "Large shopping center very close by."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Schloss ist teuer, nutzen Sie P+R wenn möglich.",
+          "Vermeiden Sie die Wochenenden wegen des starken Verkehrs.",
+          "In der Innenstadt ist das Parken oft auf 2 Stunden begrenzt."
+        ],
+        "hu": [
+          "A parkolás a kastélynál drága, használja a P+R-t ha lehet.",
+          "Kerülje a hétvégéket a nagy forgalom miatt.",
+          "A belvárosban a parkolás gyakran 2 órára korlátozott."
+        ],
+        "ro": [
+          "Parcarea la palat este scumpă, folosiți P+R dacă e posibil.",
+          "Evitați weekendurile din cauza traficului intens.",
+          "În centrul orașului, parcarea este adesea limitată la 2 ore."
+        ],
+        "en": [
+          "Parking at the palace is expensive; use P+R if possible.",
+          "Avoid weekends due to heavy traffic.",
+          "In the city center, parking is often limited to 2 hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Versailles Château",
+            "hu": "Versailles Château vasútállomás",
+            "ro": "Gara Versailles Château",
+            "en": "Versailles Château Station"
+          },
+          "coords": [
+            2.1285,
+            48.8005
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Der Hauptankunftspunkt aus Paris.",
+            "hu": "A Párizsból érkezők fő érkezési pontja.",
+            "ro": "Principalul punct de sosire din Paris.",
+            "en": "The main arrival point from Paris."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Versailles",
+            "hu": "Versailles-i Kastély",
+            "ro": "Palatul Versailles",
+            "en": "Palace of Versailles"
+          },
+          "coords": [
+            2.1202,
+            48.8048
+          ],
+          "category": "museum",
+          "arrive_at": "09:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Nutzen Sie den kostenlosen Audio-Guide.",
+            "hu": "Használja az ingyenes audió-kalauzt.",
+            "ro": "Folosiți ghidul audio gratuit.",
+            "en": "Use the free audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle du Jeu de Paume",
+            "hu": "Labdaház",
+            "ro": "Sala Jocului cu Mingea",
+            "en": "Salle du Jeu de Paume"
+          },
+          "coords": [
+            2.1242,
+            48.8012
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Ort des historischen Schwurs von 1789.",
+            "hu": "Az 1789-es történelmi eskü helyszíne.",
+            "ro": "Locul jurământului istoric din 1789.",
+            "en": "Site of the historic oath of 1789."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Lambinet",
+            "hu": "Lambinet Múzeum",
+            "ro": "Muzeul Lambinet",
+            "en": "Musée Lambinet"
+          },
+          "coords": [
+            2.1322,
+            48.8085
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Ein prächtiges Bürgerhaus-Museum.",
+            "hu": "Pompás polgári házban berendezett múzeum.",
+            "ro": "Un muzeu superb într-o casă burgheză.",
+            "en": "A magnificent townhouse museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier Saint-Louis",
+            "hu": "Szent Lajos negyed",
+            "ro": "Cartierul Saint-Louis",
+            "en": "Quartier Saint-Louis"
+          },
+          "coords": [
+            2.1265,
+            48.7995
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Carrés de Saint-Louis.",
+            "hu": "Látogassa meg a Carrés de Saint-Louis-t.",
+            "ro": "Vizitați Carrés de Saint-Louis.",
+            "en": "Visit the Carrés de Saint-Louis."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des effizienten Nahverkehrs können Sie Versailles stressfrei erkunden. Vom RER-Bahnhof ist es nur ein kurzer Fußweg zum Schloss. Nach der Besichtigung bringt Sie der lokale Bus schnell zu geschichtsträchtigen Orten wie der Salle du Jeu de Paume oder dem eleganten Lambinet-Museum im Norden der Stadt. Der Tag endet im charmanten Saint-Louis-Viertel, das mit seinen historischen Carrés und der Kathedrale perfekt mit den Stadtbussen erreichbar ist.",
+        "hu": "A jól kiépített tömegközlekedésnek köszönhetően stresszmentesen fedezheti fel Versailles-t. A RER állomástól csak rövid séta a kastély. A látogatás után a helyi buszok gyorsan elrepítik olyan történelmi helyszínekre, mint a Labdaház vagy a város északi részén található elegáns Lambinet Múzeum. A nap a bájos Saint-Louis negyedben zárul, amely a történelmi Carrés-szal és a katedrálissal könnyen elérhető a városi buszjáratokkal.",
+        "ro": "Datorită transportului public eficient, puteți explora Versailles fără stres. De la stația RER este doar o scurtă plimbare până la palat. După vizită, autobuzul local vă duce rapid la locuri încărcate de istorie, precum Salle du Jeu de Paume sau elegantul Muzeu Lambinet din nordul orașului. Ziua se încheie în fermecătorul cartier Saint-Louis, cu ale sale Carrés istorice și catedrală, perfect accesibile cu autobuzele urbane.",
+        "en": "Thanks to efficient public transport, you can explore Versailles stress-free. From the RER station, it's just a short walk to the palace. After the visit, local buses quickly take you to historic sites like the Salle du Jeu de Paume or the elegant Lambinet Museum in the north of the city. The day ends in the charming Saint-Louis district, which with its historic Carrés and cathedral is perfectly accessible by city buses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Sept",
+            "tip": "Klassische französische Bistro-Küche."
+          },
+          {
+            "name": "A l'Abord'Age",
+            "tip": "Gemütliches Café im Saint-Louis Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Sept",
+            "tip": "Klasszikus francia bisztró konyha."
+          },
+          {
+            "name": "A l'Abord'Age",
+            "tip": "Hangulatos kávézó a Saint-Louis negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Sept",
+            "tip": "Bucătărie clasică de bistro francez."
+          },
+          {
+            "name": "A l'Abord'Age",
+            "tip": "Cafenea primitoare în cartierul Saint-Louis."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Sept",
+            "tip": "Classic French bistro cuisine."
+          },
+          {
+            "name": "A l'Abord'Age",
+            "tip": "Cozy cafe in the Saint-Louis district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Récollets",
+            "tip": "Ein versteckter kleiner Klostergarten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Récollets",
+            "tip": "Egy rejtett kis kolostorkert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Récollets",
+            "tip": "O mică grădină mănăstirească ascunsă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Récollets",
+            "tip": "A hidden small monastery garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue de Saint-Cloud",
+            "tip": "Zahlreiche lokale Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue de Saint-Cloud",
+            "tip": "Számos helyi butik és üzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue de Saint-Cloud",
+            "tip": "Numeroase boutiq-uri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue de Saint-Cloud",
+            "tip": "Numerous local boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Île-de-France Mobilités' App für Busverbindungen.",
+          "Die RER C Linie ist die schnellste Verbindung nach Paris.",
+          "Kaufen Sie ein Tagesticket für die Zonen 1-4."
+        ],
+        "hu": [
+          "Használja az 'Île-de-France Mobilités' alkalmazást a buszokhoz.",
+          "A RER C vonal a leggyorsabb kapcsolat Párizshoz.",
+          "Vásároljon napijegyet az 1-4-es zónákra."
+        ],
+        "ro": [
+          "Utilizați aplicația 'Île-de-France Mobilités' pentru rutele de autobuz.",
+          "Linia RER C este cea mai rapidă legătură cu Parisul.",
+          "Cumpărați un bilet de o zi pentru zonele 1-4."
+        ],
+        "en": [
+          "Use the 'Île-de-France Mobilités' app for bus connections.",
+          "The RER C line is the fastest connection to Paris.",
+          "Buy a day ticket for zones 1-4."
+        ]
+      }
+    }
+  }
+}

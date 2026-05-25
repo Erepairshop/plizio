@@ -1,0 +1,866 @@
+{
+  "city_id": "font-romeu",
+  "anchor": {
+    "name": "Font-Romeu Centre",
+    "coords": [
+      42.5097,
+      2.0383
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Grand Hôtel de Font-Romeu",
+          "coords": [
+            42.5105,
+            2.035
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude aus der Belle Époque.",
+            "hu": "Pompás Belle Époque épület.",
+            "ro": "O clădire magnifică din perioada Belle Époque.",
+            "en": "A magnificent building from the Belle Époque era."
+          }
+        },
+        {
+          "name": "Musée Sans Murs",
+          "coords": [
+            42.513,
+            2.032
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Einzigartige Skulpturen in einem Kiefernwald.",
+            "hu": "Egyedülálló szobrok egy fenyőerdőben.",
+            "ro": "Sculpturi unice într-o pădure de pini.",
+            "en": "Unique sculptures set in a pine forest."
+          }
+        },
+        {
+          "name": "Les Airelles",
+          "coords": [
+            42.522,
+            2.036
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Herz des Skigebiets mit toller Aussicht.",
+            "hu": "A síközpont szíve remek kilátással.",
+            "ro": "Inima domeniului schiabil cu o vedere superbă.",
+            "en": "The heart of the ski area with great views."
+          }
+        },
+        {
+          "name": "Ermitage de Font-Romeu",
+          "coords": [
+            42.52,
+            2.043
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den vergoldeten Altaraufsatz.",
+            "hu": "Nézze meg az aranyozott oltárképet.",
+            "ro": "Vizitați altarul aurit de o frumusețe rară.",
+            "en": "Visit the gilded altarpiece of rare beauty."
+          }
+        },
+        {
+          "name": "Le Calvaire",
+          "coords": [
+            42.515,
+            2.04
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Panoramablick über die Cerdagne-Hochebene.",
+            "hu": "Panoráma a Cerdagne-fennsíkra.",
+            "ro": "Vedere panoramică asupra platoului Cerdagne.",
+            "en": "Panoramic view over the Cerdagne plateau."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Font-Romeu zu Fuß, beginnend beim luxuriösen Grand Hôtel. Am Vormittag spazieren Sie durch das Freilichtmuseum 'Musée Sans Murs'. Nach dem Mittagessen in den Airelles besuchen Sie die heilige Eremitage mit ihrem prunkvollen Altar. Der Tag endet am Kalvarienberg mit einem weiten Blick über die Pyrenäen. Eine Mischung aus Kunst, Geschichte und Natur.",
+        "hu": "Fedezze fel Font-Romeu-t gyalog, a luxus Grand Hoteltől indulva. Délelőtt a 'Musée Sans Murs' szabadtéri múzeum szobrai között sétálunk. Ebéd után Les Airelles-nél meglátogatjuk a szent Ermitage-t és pompás oltárát. A nap a Kálváriánál zárul, ahonnan belátni az egész Pireneusokat. A művészet, a történelem és a természet ötvözete.",
+        "ro": "Descoperiți Font-Romeu la pas, începând de la luxosul Grand Hôtel. Dimineața vă plimbați prin muzeul în aer liber 'Musée Sans Murs'. După prânzul la Les Airelles, vizitați schitul Ermitage cu altarul său fastuos. Ziua se încheie la Calvar cu o vedere largă asupra Pirineilor. Un amestec de artă, istorie și natură.",
+        "en": "Explore Font-Romeu on foot, starting from the luxurious Grand Hôtel. In the morning, stroll through the 'Musée Sans Murs' open-air museum. After lunch at Les Airelles, visit the sacred Ermitage and its magnificent altar. The day ends at the Calvary with a vast view over the Pyrenees. A blend of art, history, and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trinxat de la Cerdanya",
+            "tip": "Kohl-Kartoffel-Gericht mit Speck."
+          },
+          {
+            "name": "Boles de Picolat",
+            "tip": "Katalanische Fleischbällchen in Sauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trinxat de la Cerdanya",
+            "tip": "Káposztás-krumplis étel húsos szalonnával."
+          },
+          {
+            "name": "Boles de Picolat",
+            "tip": "Katalán húsgombóc mártásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trinxat de la Cerdanya",
+            "tip": "Mâncare de varză și cartofi cu slănină."
+          },
+          {
+            "name": "Boles de Picolat",
+            "tip": "Chiftele catalane în sos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trinxat de la Cerdanya",
+            "tip": "Cabbage and potato dish with bacon."
+          },
+          {
+            "name": "Boles de Picolat",
+            "tip": "Catalan meatballs in sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Ideal für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Kálvária",
+            "tip": "Ideális hely a naplemente megcsodálására.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Ideal pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Calvaire",
+            "tip": "Ideal for sunset watching.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Epicerie Fine",
+            "tip": "Lokale Weine und katalanische Wurstwaren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Epicerie Fine",
+            "tip": "Helyi borok és katalán felvágottak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Epicerie Fine",
+            "tip": "Vinuri locale și mezeluri catalane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Epicerie Fine",
+            "tip": "Local wines and Catalan charcuterie."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Klima ist sehr sonnig, vergessen Sie die Sonnencreme nicht.",
+          "Die Wanderwege im Musée Sans Murs sind leicht begehbar.",
+          "Besuchen Sie die Eremitage für einen Moment der Stille.",
+          "Tragen Sie bequeme Schuhe für die Waldpfade."
+        ],
+        "hu": [
+          "Az éghajlat nagyon napos, ne felejtse el a naptejet.",
+          "A Musée Sans Murs ösvényei könnyen járhatóak.",
+          "Látogassa meg az Ermitage-t egy csendes pillanatért.",
+          "Viseljen kényelmes cipőt az erdei ösvényekhez."
+        ],
+        "ro": [
+          "Climatul este foarte însorit, nu uitați crema solară.",
+          "Potecile din Musée Sans Murs sunt ușor accesibile.",
+          "Vizitați Ermitage pentru un moment de liniște.",
+          "Purtați încălțăminte comodă pentru potecile din pădure."
+        ],
+        "en": [
+          "The climate is very sunny, don't forget your sunscreen.",
+          "The paths in Musée Sans Murs are easy to walk.",
+          "Visit the Ermitage for a moment of quiet reflection.",
+          "Wear comfortable shoes for the forest trails."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Font-Romeu Centre",
+          "coords": [
+            42.5097,
+            2.0383
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptplatz des Ortes.",
+            "hu": "Induljon a település főteréről.",
+            "ro": "Porniți din piața centrală a localității.",
+            "en": "Start at the main square of the town."
+          }
+        },
+        {
+          "name": "Four Solaire d'Odeillo",
+          "coords": [
+            42.491,
+            2.035
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein futuristisches Wahrzeichen der Solarforschung.",
+            "hu": "A napenergia-kutatás futurisztikus jelképe.",
+            "ro": "Un simbol futurist al cercetării solare.",
+            "en": "A futuristic landmark of solar research."
+          }
+        },
+        {
+          "name": "Église Saint-Martin d'Odeillo",
+          "coords": [
+            42.489,
+            2.033
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine charmante romanische Kirche im alten Dorf.",
+            "hu": "Bájos román kori templom az ófaluban.",
+            "ro": "O biserică romanică fermecătoare în satul vechi.",
+            "en": "A charming Romanesque church in the old village."
+          }
+        },
+        {
+          "name": "Ermitage de Font-Romeu",
+          "coords": [
+            42.52,
+            2.043
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Anstrengender Aufstieg, aber lohnenswert.",
+            "hu": "Fárasztó emelkedő, de megéri.",
+            "ro": "Urcare solicitantă, dar merită efortul.",
+            "en": "Challenging climb, but worth the effort."
+          }
+        },
+        {
+          "name": "Les Airelles",
+          "coords": [
+            42.522,
+            2.036
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Pause nach dem Bergauf-Radeln.",
+            "hu": "Tökéletes hely a pihenésre a hegymenet után.",
+            "ro": "Locul perfect pentru odihnă după urcare.",
+            "en": "Perfect place for a break after cycling uphill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour verbindet Technik und Tradition. Zuerst rollen Sie bergab zum weltberühmten Solarofen von Odeillo. Nach einem Besuch der romanischen Kirche im Dorfzentrum folgt der sportliche Teil: der Aufstieg zur Eremitage. Der Nachmittag endet entspannt in Les Airelles, dem Tor zum Hochgebirge. Genießen Sie die frische Luft auf zwei Rädern.",
+        "hu": "Ez a kerékpártúra összeköti a technikát és a hagyományt. Először legurulunk az Odeillo-i világhírű naperőműhöz. Az ófalu román kori templomának megtekintése után jön a sportos rész: az emelkedő az Ermitage-hoz. A délután Les Airelles-nél zárul, a magashegység kapujában. Élvezze a friss levegőt két keréken.",
+        "ro": "Acest tur cu bicicleta îmbină tehnologia și tradiția. Mai întâi coborâți spre cuptorul solar de renume mondial din Odeillo. După o vizită la biserica romanică din centrul vechi, urmează partea sportivă: urcarea spre Ermitage. După-amiaza se încheie relaxat la Les Airelles, poarta către munte. Bucurați-vă de aerul curat pe două roți.",
+        "en": "This bike tour combines technology and tradition. First, roll downhill to the world-famous solar furnace of Odeillo. After visiting the Romanesque church in the old village, the sporty part follows: the climb to the Ermitage. The afternoon ends relaxed at Les Airelles, the gateway to the high mountains. Enjoy the fresh air on two wheels."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Honigkuchen",
+            "tip": "Energieschub für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézes sütemény",
+            "tip": "Energialöket két tekerés között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turtă dulce cu miere",
+            "tip": "Sursă de energie între două pedale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey Cake",
+            "tip": "Energy boost for in-between rides."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kiefernwälder",
+            "tip": "Schatten und Ruhe entlang der Wege.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyőerdők",
+            "tip": "Árnyék és nyugalom az utak mentén.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păduri de pini",
+            "tip": "Umbră și liniște de-a lungul drumurilor.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine Forests",
+            "tip": "Shade and peace along the paths.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Zubehör und Kleidung für Bergsport."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Hegyi sportfelszerelések és ruházat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Accesorii și îmbrăcăminte montană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sport Shops",
+            "tip": "Accessories and clothing for mountain sports."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind aufgrund der Höhenunterschiede empfehlenswert.",
+          "Trinken Sie viel Wasser bei der körperlichen Anstrengung.",
+          "Prüfen Sie den Reifendruck vor der Tour.",
+          "Tragen Sie immer einen Helm."
+        ],
+        "hu": [
+          "Az e-bike ajánlott a szintkülönbségek miatt.",
+          "Igyon sok vizet a fizikai megterhelés során.",
+          "Túra előtt ellenőrizze a guminyomást.",
+          "Mindig viseljen bukósisakot."
+        ],
+        "ro": [
+          "Bicicletele electrice sunt recomandate datorită diferențelor de nivel.",
+          "Beți multă apă în timpul efortului fizic.",
+          "Verificați presiunea în pneuri înainte de tur.",
+          "Purtați întotdeauna cască de protecție."
+        ],
+        "en": [
+          "E-bikes are recommended due to the altitude changes.",
+          "Drink plenty of water during physical exertion.",
+          "Check tire pressure before the tour.",
+          "Always wear a helmet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Four Solaire d'Odeillo",
+          "coords": [
+            42.491,
+            2.035
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Forschungszentrum.",
+            "hu": "Nagy parkoló közvetlenül a kutatóközpontnál.",
+            "ro": "Parcare mare direct la centrul de cercetare.",
+            "en": "Large parking area right at the research center."
+          }
+        },
+        {
+          "name": "Grand Hôtel de Font-Romeu",
+          "coords": [
+            42.5105,
+            2.035
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stoppen Sie kurz für Fotos der Fassade.",
+            "hu": "Álljon meg egy fotóra a homlokzat előtt.",
+            "ro": "Opriți scurt pentru fotografii cu fațada.",
+            "en": "Stop briefly for photos of the facade."
+          }
+        },
+        {
+          "name": "Ermitage de Font-Romeu",
+          "coords": [
+            42.52,
+            2.043
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einfach per Auto über die Bergstraße erreichbar.",
+            "hu": "Autóval könnyen elérhető a hegyi úton.",
+            "ro": "Accesibil ușor cu mașina pe drumul montan.",
+            "en": "Easily accessible by car via the mountain road."
+          }
+        },
+        {
+          "name": "Les Airelles",
+          "coords": [
+            42.522,
+            2.036
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für Wanderungen ins Hochgebirge.",
+            "hu": "Központi parkoló a magashegyi túrákhoz.",
+            "ro": "Parcare centrală pentru drumeții în munții înalți.",
+            "en": "Central parking for high mountain hikes."
+          }
+        },
+        {
+          "name": "Odeillo Village",
+          "coords": [
+            42.489,
+            2.033
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kleiner Rundgang durch die alten Gassen.",
+            "hu": "Rövid séta az ódon utcákon.",
+            "ro": "Scurtă plimbare pe străzile vechi.",
+            "en": "Short walk through the old alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights rund um Font-Romeu zeitsparend. Start beim imposanten Solarofen von Odeillo, gefolgt von der glanzvollen Architektur des Grand Hôtels. Mittags geht es hinauf zur Eremitage und anschließend zum Plateau Airelles, wo Sie die Aussicht genießen können. Der Tag endet im malerischen alten Dorf Odeillo.",
+        "hu": "Autóval időtakarékosan fedezheti fel Font-Romeu környékének látnivalóit. Kezdés az impozáns Odeillo-i naperőműnél, majd a Grand Hotel csodás épülete következik. Délben felhajtunk az Ermitage-hoz, utána pedig az Airelles-fennsíkra a kilátásért. A nap az ódon hangulatú Odeillo faluban zárul.",
+        "ro": "Cu mașina descoperiți punctele de atracție din jurul Font-Romeu economisind timp. Începeți la impunătorul cuptor solar din Odeillo, urmat de arhitectura strălucitoare a Grand Hôtel-ului. La prânz urcați spre Ermitage și apoi spre platoul Airelles pentru priveliște. Ziua se încheie în pitorescul sat vechi Odeillo.",
+        "en": "By car, you can discover the highlights around Font-Romeu while saving time. Start at the imposing solar furnace of Odeillo, followed by the brilliant architecture of the Grand Hôtel. At midday, drive up to the Ermitage and then to the Airelles plateau to enjoy the view. The day ends in the picturesque old village of Odeillo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Katalanische Spezialitäten",
+            "tip": "Besuchen Sie das Restaurant La Chaumière."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katalán specialitások",
+            "tip": "Látogassa meg a La Chaumière éttermet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități catalane",
+            "tip": "Vizitați restaurantul La Chaumière."
+          }
+        ],
+        "en": [
+          {
+            "name": "Catalan Specialties",
+            "tip": "Visit La Chaumière restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plateau de la Calme",
+            "tip": "Ein Stück weiter fahren für totale Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plateau de la Calme",
+            "tip": "Hajtson kicsit tovább a teljes csendért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plateau de la Calme",
+            "tip": "Conduceți puțin mai departe pentru liniște totală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plateau de la Calme",
+            "tip": "Drive a bit further for total silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Ortseingang",
+            "tip": "Regionale Käsesorten zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket a falu szélén",
+            "tip": "Regionális sajtok hazavitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket la intrare",
+            "tip": "Brânzeturi regionale pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket at entrance",
+            "tip": "Regional cheeses to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind in der Hochsaison oft voll, parken Sie früh.",
+          "Nutzen Sie den großen Parkplatz in Les Airelles.",
+          "Die Bergstraßen sind gut ausgebaut, aber kurvig.",
+          "Achten Sie auf Wanderer am Straßenrand."
+        ],
+        "hu": [
+          "A parkolók főszezonban hamar betelnek, érkezzen korán.",
+          "Használja a nagy parkolót Les Airelles-nél.",
+          "A hegyi utak jó minőségűek, de kanyargósak.",
+          "Figyeljen az út menti gyalogosokra."
+        ],
+        "ro": [
+          "Parcările sunt adesea pline în sezon, parcați devreme.",
+          "Folosiți parcarea mare de la Les Airelles.",
+          "Drumurile montane sunt bune, dar sinuoase.",
+          "Atenție la drumeții de pe marginea drumului."
+        ],
+        "en": [
+          "Parking lots fill up quickly in peak season, park early.",
+          "Use the large parking area in Les Airelles.",
+          "Mountain roads are well-maintained but winding.",
+          "Watch out for hikers along the roadside."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Gare de Font-Romeu (Bus)",
+          "coords": [
+            42.495,
+            2.042
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt für den Bus aus Perpignan.",
+            "hu": "A Perpignanból érkező busz megállója.",
+            "ro": "Punctul de sosire pentru autobuzul din Perpignan.",
+            "en": "Arrival point for the bus from Perpignan."
+          }
+        },
+        {
+          "name": "Four Solaire d'Odeillo",
+          "coords": [
+            42.491,
+            2.035
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus per Shuttle oder kurzem Weg erreichbar.",
+            "hu": "Az állomástól transzferrel vagy rövid sétával elérhető.",
+            "ro": "Accesibil de la gară cu transfer sau pe jos.",
+            "en": "Accessible from the station by shuttle or short walk."
+          }
+        },
+        {
+          "name": "Font-Romeu Centre",
+          "coords": [
+            42.5097,
+            2.0383
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das pulsierende Zentrum mit vielen Geschäften.",
+            "hu": "A lüktető központ sok üzlettel.",
+            "ro": "Centrul vibrant cu multe magazine.",
+            "en": "The vibrant center with many shops."
+          }
+        },
+        {
+          "name": "Les Airelles (via Skibus)",
+          "coords": [
+            42.522,
+            2.036
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kostenlosen Shuttlebus im Winter.",
+            "hu": "Télen használja az ingyenes síbuszt.",
+            "ro": "Folosiți autobuzul gratuit în timpul iernii.",
+            "en": "Use the free shuttle bus during winter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Busverbindungen lässt sich Font-Romeu stressfrei erkunden. Nach der Ankunft geht es zum futuristischen Solarofen. Mittags verbringen Sie Zeit im lebhaften Stadtzentrum mit seinen Cafés. Ein lokaler Shuttle bringt Sie am Nachmittag hinauf nach Les Airelles für einen Blick auf die Pisten, bevor es zurück zur Haltestelle geht. Perfekt für einen entspannten Tag.",
+        "hu": "A jó buszközlekedésnek köszönhetően Font-Romeu stresszmentesen bejárható. Érkezés után a futurisztikus naperőműhöz indulunk. Délben a pezsgő városközpontban pihenhetünk egy kávé mellett. Egy helyi transzferbusz délután felvisz Les Airelles-be a sípályákhoz, majd vissza a megállóba. Tökéletes választás egy nyugodt naphoz.",
+        "ro": "Datorită legăturilor bune de autobuz, Font-Romeu poate fi explorat fără stres. După sosire, mergeți la cuptorul solar futurist. La prânz petreceți timp în centrul plin de viață cu cafenelele sale. Un transfer local vă duce după-amiaza la Les Airelles pentru o vedere asupra pârtiilor, înainte de a reveni la stație. Perfect pentru o zi relaxată.",
+        "en": "Thanks to good bus connections, Font-Romeu can be explored stress-free. After arrival, head to the futuristic solar furnace. At midday, spend time in the lively town center with its cafes. A local shuttle takes you to Les Airelles in the afternoon for a view of the slopes before heading back to the stop. Perfect for a relaxed day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêpes im Zentrum",
+            "tip": "Süße Pause in einer der vielen Crêperien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsinta a központban",
+            "tip": "Édes pihenő a sok palacsintázó egyikében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite în centru",
+            "tip": "Pauză dulce la una dintre numeroasele clătitării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêpes in the Center",
+            "tip": "Sweet break in one of the many creperies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park de la Mairie",
+            "tip": "Kleine Grünanlage für eine Verschnaufpause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városháza parkja",
+            "tip": "Kis zöldterület egy rövid pihenőhöz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Primăriei",
+            "tip": "Mic spațiu verde pentru o pauză de respirație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Town Hall Park",
+            "tip": "Small green area for a short breather.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutiquen in der Avenue",
+            "tip": "Mode und Sportartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sugárúti butikok",
+            "tip": "Divat és sportcikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri pe bulevard",
+            "tip": "Modă și articole sportive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue Boutiques",
+            "tip": "Fashion and sporting goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den Pass für die Shuttlebusse, falls Sie mehrmals fahren.",
+          "Die Busse verkehren im Winter häufiger als im Sommer.",
+          "Informieren Sie sich über die letzte Rückfahrt nach Perpignan.",
+          "Der 'Petit Train Jaune' ist eine tolle Alternative für die Anreise."
+        ],
+        "hu": [
+          "Vegyen bérletet a transzferbuszokra, ha többször utazna.",
+          "A buszok télen gyakrabban járnak, mint nyáron.",
+          "Tájékozódjon az utolsó Perpignanba tartó járatról.",
+          "A 'Sárga Kisvonat' remek alternatíva az ideutazáshoz."
+        ],
+        "ro": [
+          "Cumpărați un permis pentru autobuzele de transfer dacă mergeți de mai multe ori.",
+          "Autobuzele circulă mai des iarna decât vara.",
+          "Informați-vă despre ultima cursă de întoarcere spre Perpignan.",
+          "Micul Tren Galben este o alternativă excelentă pentru sosire."
+        ],
+        "en": [
+          "Buy a pass for the shuttle buses if you plan to ride several times.",
+          "Buses run more frequently in winter than in summer.",
+          "Check the time for the last return trip to Perpignan.",
+          "The 'Petit Train Jaune' (Little Yellow Train) is a great arrival alternative."
+        ]
+      }
+    }
+  }
+}

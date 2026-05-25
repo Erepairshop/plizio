@@ -1,0 +1,994 @@
+{
+  "city_id": "lille",
+  "anchor": {
+    "name": "Grand Place",
+    "coords": [
+      50.6371,
+      3.0635
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Grand Place",
+          "coords": [
+            50.6371,
+            3.0635
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Buchhandlung Furet du Nord direkt am Platz.",
+            "hu": "Nézze meg a Furet du Nord könyvesboltot a téren.",
+            "ro": "Vizitați librăria Furet du Nord direct în piață.",
+            "en": "Visit the Furet du Nord bookstore right on the square."
+          }
+        },
+        {
+          "name": "Vieille Bourse",
+          "coords": [
+            50.6373,
+            3.0645
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie im Innenhof nach alten Büchern und Schachspielern.",
+            "hu": "Keressen antik könyveket és sakkozókat a belső udvarban.",
+            "ro": "Căutați cărți vechi și jucători de șah în curtea interioară.",
+            "en": "Look for old books and chess players in the inner courtyard."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame-de-la-Treille",
+          "coords": [
+            50.6401,
+            3.0622
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Fassade von innen bei Sonnenlicht.",
+            "hu": "Csodálja meg a modern homlokzatot belülről, napfényben.",
+            "ro": "Admirați fațada modernă din interior în lumina soarelui.",
+            "en": "Admire the modern facade from the inside in sunlight."
+          }
+        },
+        {
+          "name": "Hospice Comtesse",
+          "coords": [
+            50.6412,
+            3.0632
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ehemaliges Krankenhaus mit wunderschönen flämischen Fliesen.",
+            "hu": "Egykori kórház gyönyörű flamand csempékkel.",
+            "ro": "Un fost spital cu plăci ceramice flamande superbe.",
+            "en": "A former hospital with beautiful Flemish tiles."
+          }
+        },
+        {
+          "name": "Citadelle de Lille",
+          "coords": [
+            50.6405,
+            3.0455
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der sternförmigen Festungsmauern von Vauban.",
+            "hu": "Sétáljon a Vauban által tervezett csillag alakú erőd falain.",
+            "ro": "Plimbați-vă de-a lungul zidurilor cetății în formă de stea ale lui Vauban.",
+            "en": "Walk along the star-shaped fortress walls by Vauban."
+          }
+        },
+        {
+          "name": "Palais des Beaux-Arts",
+          "coords": [
+            50.6312,
+            3.0625
+          ],
+          "category": "museum",
+          "arrive_at": "16:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Eines der größten Kunstmuseen Frankreichs außerhalb von Paris.",
+            "hu": "Franciaország egyik legnagyobb művészeti múzeuma Párizson kívül.",
+            "ro": "Unul dintre cele mai mari muzee de artă din Franța în afara Parisului.",
+            "en": "One of the largest art museums in France outside Paris."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Lille auf dem Grand Place, umgeben von prächtiger flämischer Architektur. Besuchen Sie die Vieille Bourse, wo Sie im Innenhof in alten Büchern stöbern können. Mittags erkunden Sie die Gassen der Altstadt und die beeindruckende moderne Kathedrale.\n\nAm Nachmittag führt Sie ein entspannter Spaziergang zur majestätischen Zitadelle von Vauban. Genießen Sie die grüne Lunge der Stadt und die historische Festungsanlage. Den Abschluss bildet ein Besuch im Palais des Beaux-Arts, bevor Sie den Abend in einer typischen Brasserie im Viertel Saint-Michel ausklingen lassen.",
+        "hu": "Kezdje a napot Lille szívében, a Grand Place-on, amelyet pompás flamand építészet vesz körül. Látogasson el a Vieille Bourse-ba, ahol a belső udvarban régi könyvek között böngészhet. Délben fedezze fel az óváros szűk utcáit és a lenyűgöző modern katedrálist.\n\nDélután egy pihentető séta vezet a Vauban által tervezett fenséges citadellához. Élvezze a város zöld tüdejét és a történelmi erődítményt. A napot a Palais des Beaux-Arts látogatása zárja, mielőtt az estét egy tipikus sörözőben töltené a Saint-Michel negyedben.",
+        "ro": "Începeți ziua în inima orașului Lille, în Grand Place, înconjurată de o arhitectură flamandă magnifică. Vizitați Vieille Bourse, unde puteți răsfoi cărți vechi în curtea interioară. La prânz, explorați străzile înguste ale orașului vechi și impresionanta catedrală modernă.\n\nDupă-amiaza, o plimbare relaxantă vă va duce la maiestuoasa Citadelă a lui Vauban. Bucurați-vă de plămânul verde al orașului și de fortificația istorică. Finalul este marcat de o vizită la Palais des Beaux-Arts, înainte de a încheia seara într-o braserie tipică din cartierul Saint-Michel.",
+        "en": "Start your day in the heart of Lille at the Grand Place, surrounded by magnificent Flemish architecture. Visit the Vieille Bourse, where you can browse old books in the inner courtyard. At noon, explore the narrow streets of the old town and the impressive modern cathedral.\n\nIn the afternoon, a relaxing walk takes you to the majestic Citadel of Vauban. Enjoy the city's green lung and the historical fortification. The day concludes with a visit to the Palais des Beaux-Arts before spending the evening in a typical brasserie in the Saint-Michel district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Rindergulasch in Biersauce, probieren Sie es im Estaminet Chez la Vieille."
+          },
+          {
+            "name": "Le Welsh",
+            "tip": "Überbackener Käse auf Brot mit Schinken und Ei, ein Muss im Vieux Lille."
+          },
+          {
+            "name": "Gaufres Meert",
+            "tip": "Gefüllte Waffeln in der historischen Pâtisserie Meert seit 1761."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Sörös marharagu, kóstolja meg az Estaminet Chez la Vieille-ben."
+          },
+          {
+            "name": "Le Welsh",
+            "tip": "Sajttal sült kenyér sonkával és tojással, kötelező a Vieux Lille-ben."
+          },
+          {
+            "name": "Gaufres Meert",
+            "tip": "Töltött ostyák a történelmi Meert cukrászdában 1761 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Tocană de vită în sos de bere, încercați-o la Estaminet Chez la Vieille."
+          },
+          {
+            "name": "Le Welsh",
+            "tip": "Brânză topită pe pâine cu șuncă și ou, un must în Vieux Lille."
+          },
+          {
+            "name": "Gaufres Meert",
+            "tip": "Vafe umplute la patiseria istorică Meert, deschisă din 1761."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carbonnade Flamande",
+            "tip": "Beef stew in beer sauce, try it at Estaminet Chez la Vieille."
+          },
+          {
+            "name": "Le Welsh",
+            "tip": "Melted cheese on bread with ham and egg, a must in Vieux Lille."
+          },
+          {
+            "name": "Gaufres Meert",
+            "tip": "Filled waffles at the historic Meert pastry shop since 1761."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Citadelle",
+            "tip": "Ruhiger Spaziergang entlang der Kanäle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardin Vauban",
+            "tip": "Englischer Garten mit kleinen Grotten und Wasserfällen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Citadelle",
+            "tip": "Csendes séta a csatornák mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardin Vauban",
+            "tip": "Angolkert kis barlangokkal és vízesésekkel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de la Citadelle",
+            "tip": "Plimbare liniștită de-a lungul canalelor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardin Vauban",
+            "tip": "Grădină englezească cu mici grote și cascade.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Citadelle",
+            "tip": "Quiet walk along the canals.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Jardin Vauban",
+            "tip": "English garden with small grottoes and waterfalls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vieux Lille",
+            "tip": "Luxusboutiquen und Kunstgalerien in kopfsteingepflasterten Gassen."
+          },
+          {
+            "name": "Furet du Nord",
+            "tip": "Einer der größten Buchläden Europas am Grand Place."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vieux Lille",
+            "tip": "Luxusboltok és galériák a macskaköves utcákban."
+          },
+          {
+            "name": "Furet du Nord",
+            "tip": "Európa egyik legnagyobb könyvesboltja a Grand Place-on."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vieux Lille",
+            "tip": "Boutique-uri de lux și galerii de artă pe străzile pietruite."
+          },
+          {
+            "name": "Furet du Nord",
+            "tip": "Una dintre cele mai mari librării din Europa, în Grand Place."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vieux Lille",
+            "tip": "Luxury boutiques and art galleries in cobblestone streets."
+          },
+          {
+            "name": "Furet du Nord",
+            "tip": "One of the largest bookstores in Europe on Grand Place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lille lässt sich hervorragend zu Fuß erkunden, da das Zentrum kompakt ist.",
+          "Probieren Sie das lokale Bier, die Region ist berühmt für ihre Brautradition.",
+          "Achten Sie auf die 'Estaminets', die traditionellen flämischen Restaurants.",
+          "Sonntags ist der Markt in Wazemmes ein Muss für lokale Atmosphäre."
+        ],
+        "hu": [
+          "Lille kiválóan felfedezhető gyalog, mivel a központ kompakt.",
+          "Kóstolja meg a helyi sört, a régió híres a sörfőzési hagyományairól.",
+          "Keresse az 'Estaminet'-eket, a hagyományos flamand éttermeket.",
+          "Vasárnap a wazemmes-i piac kötelező a helyi hangulat miatt."
+        ],
+        "ro": [
+          "Lille poate fi explorat excelent pe jos, deoarece centrul este compact.",
+          "Gustați berea locală, regiunea este faimoasă pentru tradiția berii.",
+          "Căutați 'Estaminets', restaurantele tradiționale flamande.",
+          "Duminica, piața din Wazemmes este un must pentru atmosfera locală."
+        ],
+        "en": [
+          "Lille is excellent to explore on foot as the center is compact.",
+          "Try the local beer; the region is famous for its brewing tradition.",
+          "Look for 'Estaminets', the traditional Flemish restaurants.",
+          "On Sundays, the Wazemmes market is a must for local atmosphere."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Grand Place",
+          "coords": [
+            50.6371,
+            3.0635
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit V'Lille Leihrädern.",
+            "hu": "Indulópont V'Lille bérbiciklikkel.",
+            "ro": "Punct de plecare cu biciclete de închiriat V'Lille.",
+            "en": "Starting point with V'Lille rental bikes."
+          }
+        },
+        {
+          "name": "Wazemmes Market",
+          "coords": [
+            50.6255,
+            3.0505
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besonders lebhaft am Sonntagvormittag.",
+            "hu": "Különösen élénk vasárnap délelőtt.",
+            "ro": "Foarte plin de viață duminică dimineața.",
+            "en": "Especially lively on Sunday mornings."
+          }
+        },
+        {
+          "name": "Palais des Beaux-Arts",
+          "coords": [
+            50.6312,
+            3.0625
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrradabstellplätze direkt vor dem Museum.",
+            "hu": "Biciklitárolók közvetlenül a múzeum előtt.",
+            "ro": "Parcare pentru biciclete chiar în fața muzeului.",
+            "en": "Bike parking right in front of the museum."
+          }
+        },
+        {
+          "name": "Parc de la Citadelle",
+          "coords": [
+            50.6405,
+            3.0455
+          ],
+          "category": "park",
+          "arrive_at": "13:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Breite Wege ideal zum Radfahren im Grünen.",
+            "hu": "Széles utak, ideális biciklizéshez a zöldben.",
+            "ro": "Alei late ideale pentru ciclism în natură.",
+            "en": "Wide paths ideal for cycling in the greenery."
+          }
+        },
+        {
+          "name": "Gare Saint-Sauveur",
+          "coords": [
+            50.6275,
+            3.0725
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ehemaliger Güterbahnhof, heute Kulturzentrum.",
+            "hu": "Egykori teherpályaudvar, ma kulturális központ.",
+            "ro": "Fostă gară de mărfuri, astăzi centru cultural.",
+            "en": "Former freight station, now a cultural center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Lille auf zwei Rädern! Starten Sie am Grand Place und radeln Sie zum lebhaften Markt von Wazemmes. Nach einer kulturellen Pause im Palais des Beaux-Arts genießen Sie die Natur im großen Parc de la Citadelle, der perfekt mit dem Fahrrad zu erkunden ist. Den Abschluss bildet die Gare Saint-Sauveur mit ihren Ausstellungen.",
+        "hu": "Fedezze fel Lillét két keréken! Kezdje a Grand Place-on, majd tekerjen a nyüzsgő wazemmes-i piachoz. Egy kis kulturális szünet után a Palais des Beaux-Arts-ban, élvezze a természetet a Citadella parkban, amely tökéletes biciklizéshez. A napot a Gare Saint-Sauveur kiállításai zárják.",
+        "ro": "Explorați Lille pe două roți! Începeți în Grand Place și pedalați până la piața plină de viață din Wazemmes. După o pauză culturală la Palais des Beaux-Arts, bucurați-vă de natură în marele Parc de la Citadelle, perfect pentru explorat cu bicicleta. Finalul aparține Gare Saint-Sauveur și expozițiilor sale.",
+        "en": "Explore Lille on two wheels! Start at Grand Place and cycle to the lively Wazemmes market. After a cultural break at Palais des Beaux-Arts, enjoy nature in the large Parc de la Citadelle, perfect for cycling. The trip ends at Gare Saint-Sauveur with its exhibitions."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wazemmes Market",
+            "tip": "Hähnchen mit Pommes oder lokale Käsesorten."
+          },
+          {
+            "name": "Bistrot Saint So",
+            "tip": "Essen in industriellem Ambiente an der Gare Saint-Sauveur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wazemmes Market",
+            "tip": "Sült csirke sült krumplival vagy helyi sajtok."
+          },
+          {
+            "name": "Bistrot Saint So",
+            "tip": "Étkezés ipari környezetben a Gare Saint-Sauveur-nél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wazemmes Market",
+            "tip": "Pui cu cartofi prăjiți sau brânzeturi locale."
+          },
+          {
+            "name": "Bistrot Saint So",
+            "tip": "Masă în ambient industrial la Gare Saint-Sauveur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wazemmes Market",
+            "tip": "Roasted chicken with fries or local cheeses."
+          },
+          {
+            "name": "Bistrot Saint So",
+            "tip": "Dining in an industrial setting at Gare Saint-Sauveur."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Deûle Kanal",
+            "tip": "Radweg entlang des Wassers.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deûle-csatorna",
+            "tip": "Kerékpárút a víz mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Deûle",
+            "tip": "Pistă de biciclete de-a lungul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Deûle Canal",
+            "tip": "Bike path along the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wazemmes",
+            "tip": "Günstige Kleidung und internationale Lebensmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wazemmes",
+            "tip": "Olcsó ruhák és nemzetközi élelmiszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Wazemmes",
+            "tip": "Haine ieftine și alimente internaționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wazemmes",
+            "tip": "Affordable clothing and international food."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das V'Lille System mit vielen Stationen in der ganzen Stadt.",
+          "Die Zitadelle bietet die schönsten Radwege im Grünen.",
+          "Achten Sie auf Kopfsteinpflaster im Vieux Lille."
+        ],
+        "hu": [
+          "Használja a V'Lille rendszert, amelynek számos állomása van városszerte.",
+          "A Citadella kínálja a legszebb zöld kerékpárutakat.",
+          "Ügyeljen a macskakőre az óvárosban (Vieux Lille)."
+        ],
+        "ro": [
+          "Utilizați sistemul V'Lille cu multe stații în tot orașul.",
+          "Citadela oferă cele mai frumoase piste de biciclete în natură.",
+          "Atenție la pavajul cu piatră cubică din Vieux Lille."
+        ],
+        "en": [
+          "Use the V'Lille system with many stations across the city.",
+          "The Citadel offers the most beautiful green bike paths.",
+          "Watch out for cobblestones in Vieux Lille."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Euralille",
+          "coords": [
+            50.6385,
+            3.0765
+          ],
+          "category": "shopping",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großes Parkhaus direkt unter dem Einkaufszentrum.",
+            "hu": "Nagy parkolóház közvetlenül a bevásárlóközpont alatt.",
+            "ro": "Parcare mare direct sub centrul comercial.",
+            "en": "Large parking garage directly under the shopping center."
+          }
+        },
+        {
+          "name": "Vieux Lille",
+          "coords": [
+            50.6405,
+            3.0625
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Peuple Belge'.",
+            "hu": "Parkoljon a 'Peuple Belge' parkolóházban.",
+            "ro": "Parcați în parcarea 'Peuple Belge'.",
+            "en": "Park in the 'Peuple Belge' parking garage."
+          }
+        },
+        {
+          "name": "Citadelle de Lille",
+          "coords": [
+            50.6405,
+            3.0455
+          ],
+          "category": "park",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz 'Champ de Mars' in der Nähe.",
+            "hu": "Nagy parkoló 'Champ de Mars' a közelben.",
+            "ro": "Parcare mare 'Champ de Mars' în apropiere.",
+            "en": "Large 'Champ de Mars' parking lot nearby."
+          }
+        },
+        {
+          "name": "Villa Cavrois (Croix)",
+          "coords": [
+            50.6675,
+            3.1665
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Meisterwerk der modernen Architektur von Mallet-Stevens.",
+            "hu": "Mallet-Stevens modern építészeti remekműve.",
+            "ro": "Capodoperă a arhitecturii moderne de Mallet-Stevens.",
+            "en": "Masterpiece of modern architecture by Mallet-Stevens."
+          }
+        },
+        {
+          "name": "La Piscine (Roubaix)",
+          "coords": [
+            50.6935,
+            3.1675
+          ],
+          "category": "museum",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Einzigartiges Museum in einem ehemaligen Art-Déco-Schwimmbad.",
+            "hu": "Egyedülálló múzeum egy egykori Art Deco uszodában.",
+            "ro": "Muzeu unic într-o fostă piscină Art Deco.",
+            "en": "Unique museum in a former Art Deco swimming pool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie nicht nur das Zentrum, sondern auch die architektonischen Schätze der Umgebung. Nach dem modernen Euralille und der historischen Altstadt fahren wir zur Villa Cavrois in Croix, einer Ikone der Moderne. Den Höhepunkt bildet das Museum La Piscine in Roubaix, bevor es zurück nach Lille geht.",
+        "hu": "Autóval nemcsak a központot, hanem a környék építészeti kincseit is felfedezheti. A modern Euralille és a történelmi óváros után a Croix-ban található Villa Cavrois-hoz utazunk, amely a modernizmus ikonja. A csúcspont a roubaix-i La Piscine múzeum, mielőtt visszatérnénk Lillére.",
+        "ro": "Cu mașina veți descoperi nu doar centrul, ci și comorile arhitecturale din împrejurimi. După modernul Euralille și centrul istoric, mergem la Villa Cavrois din Croix, o icoană a modernismului. Punctul culminant este muzeul La Piscine din Roubaix, înainte de a reveni la Lille.",
+        "en": "By car, you will discover not only the center but also the architectural treasures of the surrounding area. After modern Euralille and the historic old town, we travel to Villa Cavrois in Croix, an icon of modernism. The highlight is the La Piscine museum in Roubaix before returning to Lille."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meert",
+            "tip": "Berühmte Waffeln im Herzen von Lille."
+          },
+          {
+            "name": "Le Barbier de Roubaix",
+            "tip": "Gutes Essen in der Nähe des Museums La Piscine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meert",
+            "tip": "Híres ostyák Lille szívében."
+          },
+          {
+            "name": "Le Barbier de Roubaix",
+            "tip": "Jó ételek a La Piscine múzeum közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Meert",
+            "tip": "Vafe faimoase în inima orașului Lille."
+          },
+          {
+            "name": "Le Barbier de Roubaix",
+            "tip": "Mâncare bună în apropierea muzeului La Piscine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meert",
+            "tip": "Famous waffles in the heart of Lille."
+          },
+          {
+            "name": "Le Barbier de Roubaix",
+            "tip": "Good food near the La Piscine museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Villa Cavrois",
+            "tip": "Sehr ruhiger und gepflegter Garten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Cavrois kertje",
+            "tip": "Nagyon csendes és gondozott kert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Villa Cavrois",
+            "tip": "O grădină foarte liniștită și îngrijită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden of Villa Cavrois",
+            "tip": "Very quiet and well-maintained garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Euralille",
+            "tip": "Riesiges Einkaufszentrum mit allen großen Marken."
+          },
+          {
+            "name": "L'Usine Roubaix",
+            "tip": "Outlet-Center für Schnäppchenjäger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Euralille",
+            "tip": "Hatalmas bevásárlóközpont minden nagy márkával."
+          },
+          {
+            "name": "L'Usine Roubaix",
+            "tip": "Outlet központ az akciós termékek kedvelőinek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Euralille",
+            "tip": "Centru comercial uriaș cu toate mărcile mari."
+          },
+          {
+            "name": "L'Usine Roubaix",
+            "tip": "Centru outlet pentru vânători de chilipiruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Euralille",
+            "tip": "Huge shopping mall with all major brands."
+          },
+          {
+            "name": "L'Usine Roubaix",
+            "tip": "Outlet center for bargain hunters."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum kann schwierig sein, nutzen Sie Parkhäuser.",
+          "Die Fahrt nach Roubaix dauert etwa 20-30 Minuten.",
+          "Villa Cavrois erfordert eine Reservierung für den Parkplatz/Besuch."
+        ],
+        "hu": [
+          "A parkolás a városközpontban nehéz lehet, használjon parkolóházakat.",
+          "Az út Roubaix-ba körülbelül 20-30 percet vesz igénybe.",
+          "A Villa Cavrois látogatásához/parkolásához előzetes foglalás ajánlott."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului poate fi dificilă, folosiți parcările etajate.",
+          "Drumul spre Roubaix durează aproximativ 20-30 de minute.",
+          "Villa Cavrois necesită rezervare pentru parcare/vizită."
+        ],
+        "en": [
+          "Parking in the city center can be difficult; use parking garages.",
+          "The drive to Roubaix takes about 20-30 minutes.",
+          "Villa Cavrois requires a reservation for parking/visit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare Lille Flandres",
+          "coords": [
+            50.6365,
+            3.0695
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt aller Metrolinien.",
+            "hu": "Minden metróvonal csomópontja.",
+            "ro": "Nodul central al tuturor liniilor de metrou.",
+            "en": "Hub of all metro lines."
+          }
+        },
+        {
+          "name": "Palais des Beaux-Arts",
+          "coords": [
+            50.6312,
+            3.0625
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Metrostation 'République - Beaux-Arts'.",
+            "hu": "'République - Beaux-Arts' metrómegálló.",
+            "ro": "Stația de metrou 'République - Beaux-Arts'.",
+            "en": "Metro station 'République - Beaux-Arts'."
+          }
+        },
+        {
+          "name": "Wazemmes",
+          "coords": [
+            50.6255,
+            3.0505
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Metrostation 'Gambetta' oder 'Wazemmes'.",
+            "hu": "'Gambetta' vagy 'Wazemmes' metrómegálló.",
+            "ro": "Stația de metrou 'Gambetta' sau 'Wazemmes'.",
+            "en": "Metro station 'Gambetta' or 'Wazemmes'."
+          }
+        },
+        {
+          "name": "Citadelle (Champ de Mars)",
+          "coords": [
+            50.6405,
+            3.0455
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie CIT oder Metro 'Rihour' und kurzer Fußweg.",
+            "hu": "CIT buszjárat vagy 'Rihour' metró és rövid séta.",
+            "ro": "Linia de autobuz CIT sau metrou 'Rihour' și o scurtă plimbare.",
+            "en": "CIT bus line or 'Rihour' metro and a short walk."
+          }
+        },
+        {
+          "name": "Euralille",
+          "coords": [
+            50.6385,
+            3.0765
+          ],
+          "category": "shopping",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Metro 'Gare Lille Europe'.",
+            "hu": "'Gare Lille Europe' metrómegálló.",
+            "ro": "Stația de metrou 'Gare Lille Europe'.",
+            "en": "Metro station 'Gare Lille Europe'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Metronetz von Lille. Starten Sie am historischen Bahnhof Lille Flandres, besuchen Sie das Kunstmuseum und tauchen Sie in das bunte Leben von Wazemmes ein. Nach einem Spaziergang an der Zitadelle beenden Sie den Tag im modernen Euralille.",
+        "hu": "Használja Lille hatékony metróhálózatát. Kezdjen a történelmi Lille Flandres pályaudvaron, látogassa meg a művészeti múzeumot, és merüljön el Wazemmes színes életében. Egy citadellai séta után fejezze be a napot a modern Euralille-ben.",
+        "ro": "Utilizați rețeaua eficientă de metrou din Lille. Începeți la gara istorică Lille Flandres, vizitați muzeul de artă și cufundați-vă în viața colorată din Wazemmes. După o plimbare la Citadelă, încheiați ziua în modernul Euralille.",
+        "en": "Use Lille's efficient metro network. Start at the historic Lille Flandres station, visit the art museum, and immerse yourself in the colorful life of Wazemmes. After a walk at the Citadel, end the day at modern Euralille."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aux Merveilleux de Fred",
+            "tip": "Himmliche Baiser-Spezialitäten in Wazemmes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aux Merveilleux de Fred",
+            "tip": "Mennyei habcsók különlegességek Wazemmes-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aux Merveilleux de Fred",
+            "tip": "Specialități delicioase de bezea în Wazemmes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aux Merveilleux de Fred",
+            "tip": "Heavenly meringue specialties in Wazemmes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Géants",
+            "tip": "Moderner Park in der Nähe von Lille Europe.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Géants",
+            "tip": "Modern park Lille Europe közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Géants",
+            "tip": "Parc modern în apropiere de Lille Europe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Géants",
+            "tip": "Modern park near Lille Europe.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Euralille",
+            "tip": "Direkt an den Bahnhöfen gelegen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Euralille",
+            "tip": "Közvetlenül a pályaudvarok mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Euralille",
+            "tip": "Situat direct lângă gări."
+          },
+          {
+            "name": "Euralille",
+            "tip": "Located directly by the train stations."
+          }
+        ],
+        "en": [
+          {
+            "name": "Euralille",
+            "tip": "Located directly by the train stations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Metro in Lille ist fahrerlos (VAL-System).",
+          "Kaufen Sie eine Tageskarte (Pass Journée) für unbegrenzte Fahrten.",
+          "Die Stationen sind oft mit Kunstwerken gestaltet."
+        ],
+        "hu": [
+          "Lille metrója vezető nélküli (VAL rendszer).",
+          "Vásároljon napijegyet (Pass Journée) a korlátlan utazáshoz.",
+          "Az állomások gyakran műalkotásokkal vannak díszítve."
+        ],
+        "ro": [
+          "Metroul din Lille este fără conductor (sistemul VAL).",
+          "Cumpărați un bilet de o zi (Pass Journée) pentru călătorii nelimitate.",
+          "Stațiile sunt adesea decorate cu opere de artă."
+        ],
+        "en": [
+          "Lille's metro is driverless (VAL system).",
+          "Buy a day pass (Pass Journée) for unlimited travel.",
+          "The stations are often decorated with artworks."
+        ]
+      }
+    }
+  }
+}

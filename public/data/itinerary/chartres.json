@@ -1,0 +1,872 @@
+{
+  "city_id": "chartres",
+  "anchor": {
+    "name": "Chartres",
+    "coords": [
+      1.4892,
+      48.4439
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cathédrale Notre-Dame de Chartres",
+          "coords": [
+            1.4875,
+            48.4477
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie das Labyrinth im Boden und die berühmten blauen Glasfenster.",
+            "hu": "Figyelje meg a padló labirintusát és a világhírű kék üvegablakokat.",
+            "ro": "Observați labirintul din podea și faimoasele vitralii albastre.",
+            "en": "Observe the floor labyrinth and the world-famous blue stained glass windows."
+          }
+        },
+        {
+          "name": "Centre International du Vitrail",
+          "coords": [
+            1.4885,
+            48.4485
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen, vertieft es das Wissen über Glaskunst.",
+            "hu": "Közvetlenül a katedrális mellett található, mélyebb betekintést ad az üvegművészetbe.",
+            "ro": "Situat chiar lângă catedrală, oferă o perspectivă profundă asupra artei vitraliului.",
+            "en": "Located right next to the cathedral, it offers deep insight into the art of stained glass."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            1.4868,
+            48.4485
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der ehemalige Bischofspalast beherbergt eine reiche Kunstsammlung.",
+            "hu": "Az egykori püspöki palota gazdag művészeti gyűjteménynek ad otthont.",
+            "ro": "Fostul palat episcopal găzduiește o bogată colecție de artă.",
+            "en": "The former episcopal palace houses a rich art collection."
+          }
+        },
+        {
+          "name": "Église Saint-Pierre",
+          "coords": [
+            1.493,
+            48.4445
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Eine unterschätzte gotische Perle mit beeindruckenden Fenstern.",
+            "hu": "Egy alulértékelt gótikus gyöngyszem lenyűgöző ablakokkal.",
+            "ro": "O perlă gotică subestimată, cu ferestre impresionante.",
+            "en": "An underrated Gothic gem with impressive windows."
+          }
+        },
+        {
+          "name": "Promenade des bords de l'Eure",
+          "coords": [
+            1.495,
+            48.4455
+          ],
+          "category": "park",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der alten Kanäle und Fachwerkhäuser der Unterstadt.",
+            "hu": "Séta az óváros csatornái és favázas házai mentén az alsóvárosban.",
+            "ro": "Plimbare de-a lungul vechilor canale și case din lemn ale orașului de jos.",
+            "en": "Walk along the old canals and half-timbered houses of the lower town."
+          }
+        },
+        {
+          "name": "Place Billard",
+          "coords": [
+            1.4895,
+            48.4465
+          ],
+          "category": "square",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein belebter Platz, ideal für einen Kaffee am späten Nachmittag.",
+            "hu": "Hangulatos tér, ideális egy délutáni kávéhoz.",
+            "ro": "O piață plină de viață, ideală pentru o cafea după-amiaza.",
+            "en": "A lively square, ideal for a late afternoon coffee."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der majestätischen Kathedrale, einem Meisterwerk der Gotik, gefolgt von der Entdeckung der geheimen Glaskunst im Vitrail-Zentrum. Mittags tauchen wir im Kunstmuseum in die Geschichte ein. Der Nachmittag führt uns hinunter zum Fluss Eure, wo mittelalterliche Idylle und Ruhe herrschen. Zum Abschluss genießen wir die Atmosphäre auf der Place Billard.",
+        "hu": "A reggel a fenséges katedrálisnál kezdődik, amely a gótika remekműve, majd az üvegművészet titkait fedezzük fel. Délben a szépművészeti múzeumban merülünk el a történelemben. A délután az Eure folyó partjára vezet, ahol középkori idill és nyugalom vár ránk. Végezetül a Place Billard hangulatát élvezzük egy kávé mellett.",
+        "ro": "Dimineața începe la catedrala maiestuoasă, o capodoperă gotică, urmată de descoperirea secretelor artei vitraliului. La prânz, ne cufundăm în istorie la muzeul de artă. După-amiaza ne duce pe malul râului Eure, unde domnește idila medievală și liniștea. În încheiere, ne bucurăm de atmosfera din Place Billard.",
+        "en": "The morning starts at the majestic cathedral, a Gothic masterpiece, followed by the discovery of stained glass secrets at the Vitrail center. At midday, we dive into history at the fine arts museum. The afternoon leads to the banks of the Eure river, where medieval idyll and tranquility await. Finally, we enjoy the atmosphere at Place Billard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Georges",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          },
+          {
+            "name": "Mentchikoff",
+            "tip": "Traditionelles Schoko-Baiser-Konfekt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Georges",
+            "tip": "Elegáns konyha történelmi környezetben."
+          },
+          {
+            "name": "Mentchikoff",
+            "tip": "Hagyományos csokoládés-habcsók édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Georges",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          },
+          {
+            "name": "Mentchikoff",
+            "tip": "Bomboane tradiționale cu ciocolată și bezea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Georges",
+            "tip": "Upscale cuisine in a historical setting."
+          },
+          {
+            "name": "Mentchikoff",
+            "tip": "Traditional chocolate-meringue confectionery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bords de l'Eure",
+            "tip": "Ruhiges Flussufer mit Weidenbäumen.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardins de l'Évêché",
+            "tip": "Panoramablick hinter der Kathedrale.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bords de l'Eure",
+            "tip": "Csendes folyópart szomorúfűzekkel.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardins de l'Évêché",
+            "tip": "Panorámás kilátás a katedrális mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bords de l'Eure",
+            "tip": "Malul liniștit al râului cu sălcii.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardins de l'Évêché",
+            "tip": "Vedere panoramică în spatele catedralei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bords de l'Eure",
+            "tip": "Quiet riverbank with willow trees.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Jardins de l'Évêché",
+            "tip": "Panoramic view behind the cathedral.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de la Place Billard",
+            "tip": "Samstagsmarkt mit lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché de la Place Billard",
+            "tip": "Szombati piac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché de la Place Billard",
+            "tip": "Piața de sâmbătă cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché de la Place Billard",
+            "tip": "Saturday market with local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Krypta der Kathedrale nur mit Führung."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A katedrális kriptáját csak vezetett túrával látogassa meg."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Vizitați cripta catedralei doar cu tur ghidat."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the cathedral crypt only with a guided tour."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            1.4875,
+            48.4477
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrrad am Vorplatz parken und zu Fuß eintreten.",
+            "hu": "Parkolja le a bringát a téren és gyalog menjen be.",
+            "ro": "Parcați bicicleta în piață și intrați pe jos.",
+            "en": "Park the bike in the square and enter on foot."
+          }
+        },
+        {
+          "name": "Maison Picassiette",
+          "coords": [
+            1.5035,
+            48.4425
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Haus, komplett aus Mosaiken aus zerbrochenem Geschirr gebaut.",
+            "hu": "Egy ház, amely teljesen törött edények mozaikjaiból épült.",
+            "ro": "O casă construită integral din mozaicuri de veselă spartă.",
+            "en": "A house built entirely from mosaics of broken crockery."
+          }
+        },
+        {
+          "name": "Parc des Bords de l'Eure",
+          "coords": [
+            1.501,
+            48.435
+          ],
+          "category": "park",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Fahrradtour entlang des Flusses.",
+            "hu": "Tökéletes kerékpáros túrához a folyó mentén.",
+            "ro": "Perfect pentru o tură cu bicicleta de-a lungul râului.",
+            "en": "Perfect for a bike tour along the river."
+          }
+        },
+        {
+          "name": "Église Saint-André",
+          "coords": [
+            1.4915,
+            48.4485
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Alte romanische Kirche direkt am Flussufer.",
+            "hu": "Régi román stílusú templom közvetlenül a folyóparton.",
+            "ro": "Veche biserică romanică chiar pe malul râului.",
+            "en": "Old Romanesque church right on the riverbank."
+          }
+        },
+        {
+          "name": "Place des Épars",
+          "coords": [
+            1.4855,
+            48.444
+          ],
+          "category": "square",
+          "arrive_at": "14:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt, ideal für eine Erfrischung.",
+            "hu": "Központi csomópont, ideális egy frissítőhöz.",
+            "ro": "Nod central, ideal pentru o răcoritoare.",
+            "en": "Central hub, ideal for a refreshment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir erst die Kathedrale, bevor wir zur faszinierenden Maison Picassiette fahren. Danach genießen wir die grüne Lunge der Stadt entlang der Eure. Der Nachmittag bietet romanische Architektur und endet entspannt im modernen Stadtzentrum.",
+        "hu": "Kerékpárral fedezzük fel a katedrálist, majd a különleges Picassiette-házhoz tekerünk. Ezután az Eure menti zöldövezetben pihenünk. A délután román kori építészetet kínál, majd a modern városközpontban zárjuk a napot.",
+        "ro": "Cu bicicleta explorăm mai întâi catedrala, înainte de a pedala spre fascinanta Casă Picassiette. Apoi ne bucurăm de plămânul verde al orașului de-a lungul Eure. După-amiaza oferă arhitectură romanică și se încheie relaxat în centrul modern.",
+        "en": "By bike, we explore the cathedral first before cycling to the fascinating Picassiette House. Then we enjoy the city's green lung along the Eure. The afternoon offers Romanesque architecture and ends relaxingly in the modern city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Vieux Chartres",
+            "tip": "Herzhafte Galettes nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Vieux Chartres",
+            "tip": "Kiadós galette-ek a bringázás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Vieux Chartres",
+            "tip": "Galette consistente după turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Vieux Chartres",
+            "tip": "Hearty galettes after the bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petite Venise",
+            "tip": "Romantische Kanäle der Unterstadt.",
+            "emoji": "🛶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petite Venise",
+            "tip": "Romantikus csatornák az alsóvárosban.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petite Venise",
+            "tip": "Canale romantice în orașul de jos.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petite Venise",
+            "tip": "Romantic canals of the lower town.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Atelier de Vitrail",
+            "tip": "Handgefertigte Glas-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Atelier de Vitrail",
+            "tip": "Kézzel készített üveg szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelier de Vitrail",
+            "tip": "Suveniruri din sticlă lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Atelier de Vitrail",
+            "tip": "Handmade glass souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Wege am Flussufer.",
+          "Vorsicht bei nassen Machensteinen im Zentrum."
+        ],
+        "hu": [
+          "Használja a kijelölt utakat a folyóparton.",
+          "Vigyázzon a vizes macskaköveken a központban."
+        ],
+        "ro": [
+          "Folosiți pistele marcate de pe malul râului.",
+          "Atenție la pietrele cubice umede din centru."
+        ],
+        "en": [
+          "Use the marked paths on the riverbank.",
+          "Watch out for wet cobblestones in the center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 42.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Cathédrale de Chartres",
+          "coords": [
+            1.4875,
+            48.4477
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Hôtel de Ville' direkt im Zentrum.",
+            "hu": "Használja a 'Hôtel de Ville' parkolóházat a központban.",
+            "ro": "Folosiți parcarea subterană 'Hôtel de Ville' din centru.",
+            "en": "Use the 'Hôtel de Ville' parking garage right in the center."
+          }
+        },
+        {
+          "name": "Château de Maintenon",
+          "coords": [
+            1.5855,
+            48.5862
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Beeindruckendes Schloss mit den Ruinen eines Aquädukts von Ludwig XIV.",
+            "hu": "Lenyűgöző kastély XIV. Lajos vízvezetékének romjaival.",
+            "ro": "Castel impresionant cu ruinele unui apeduct construit de Ludovic al XIV-lea.",
+            "en": "Impressive castle with the ruins of an aqueduct by Louis XIV."
+          }
+        },
+        {
+          "name": "Maison Picassiette",
+          "coords": [
+            1.5035,
+            48.4425
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Einzigartiges Beispiel naiver Kunst, nur mit dem Auto leicht erreichbar.",
+            "hu": "A naiv művészet egyedülálló példája, autóval könnyen elérhető.",
+            "ro": "Exemplu unic de artă naivă, ușor accesibil cu mașina.",
+            "en": "Unique example of naive art, easily accessible by car."
+          }
+        },
+        {
+          "name": "Place Billard (Altstadt)",
+          "coords": [
+            1.4895,
+            48.4465
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Ort für ein spätes Mittagessen oder Nachmittagssnack.",
+            "hu": "A legjobb hely egy késői ebédhez vagy délutáni uzsonnához.",
+            "ro": "Cel mai bun loc pentru un prânz târziu sau o gustare.",
+            "en": "Best place for a late lunch or afternoon snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens bewundern wir die Kathedrale, bevor wir zum prachtvollen Château de Maintenon fahren. Nach der Rückkehr besuchen wir das skurrile Haus Picassiette und lassen den Tag kulinarisch in der Altstadt ausklingen.",
+        "hu": "Reggel a katedrálist csodáljuk meg, majd a pompás Maintenon-kastélyhoz autózunk. A visszatérés után meglátogatjuk a különc Picassiette-házat, a napot pedig gasztronómiai élményekkel zárjuk az óvárosban.",
+        "ro": "Dimineața admirăm catedrala, apoi conducem spre splendidul Castel Maintenon. După întoarcere, vizităm bizara Casă Picassiette și încheiem ziua cu experiențe culinare în centrul vechi.",
+        "en": "In the morning we admire the cathedral before driving to the magnificent Château de Maintenon. After returning, we visit the whimsical Picassiette House and end the day with culinary experiences in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pâté de Chartres",
+            "tip": "Herzhafte Fleischpastete, eine lokale Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pâté de Chartres",
+            "tip": "Kiadós húspástétom, helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pâté de Chartres",
+            "tip": "Pateu de carne consistent, o specialitate locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pâté de Chartres",
+            "tip": "Hearty meat pâté, a local specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Maintenon Gärten",
+            "tip": "Elegante Parkanlage von Le Nôtre entworfen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maintenon kertje",
+            "tip": "Le Nôtre által tervezett elegáns park.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Maintenon",
+            "tip": "Parc elegant proiectat de Le Nôtre.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maintenon Gardens",
+            "tip": "Elegant park designed by Le Nôtre.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sablés de Beauce",
+            "tip": "Traditionelle Butterkekse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sablés de Beauce",
+            "tip": "Hagyományos vajas keksz a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sablés de Beauce",
+            "tip": "Biscuiți tradiționali cu unt din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sablés de Beauce",
+            "tip": "Traditional butter biscuits from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum und gehen Sie in der Altstadt zu Fuß.",
+          "Buchen Sie Tickets für Maintenon im Voraus."
+        ],
+        "hu": [
+          "Parkoljon a központban, és az óvárost gyalog fedezze fel.",
+          "Foglaljon jegyet Maintenonba előre."
+        ],
+        "ro": [
+          "Parcați în centru și explorați orașul vechi pe jos.",
+          "Rezervați bilete pentru Maintenon în avans."
+        ],
+        "en": [
+          "Park in the center and explore the old town on foot.",
+          "Book tickets for Maintenon in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cathédrale de Chartres",
+          "coords": [
+            1.4875,
+            48.4477
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nur 10 Gehminuten vom Bahnhof entfernt.",
+            "hu": "Csak 10 perc séta a vasútállomástól.",
+            "ro": "La doar 10 minute de mers pe jos de gară.",
+            "en": "Only 10 minutes walk from the train station."
+          }
+        },
+        {
+          "name": "Centre International du Vitrail",
+          "coords": [
+            1.4885,
+            48.4485
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für Kulturliebhaber ohne Auto.",
+            "hu": "Ideális kulturális élmény autó nélkül.",
+            "ro": "Ideal pentru iubitorii de cultură fără mașină.",
+            "en": "Ideal for culture lovers without a car."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            1.4868,
+            48.4485
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gegenüber dem Kathedralenplatz.",
+            "hu": "A katedrális térrel szemben.",
+            "ro": "Vis-a-vis de piața catedralei.",
+            "en": "Opposite the cathedral square."
+          }
+        },
+        {
+          "name": "Église Saint-Pierre",
+          "coords": [
+            1.493,
+            48.4445
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ruhiger Ort abseits der Touristenmassen.",
+            "hu": "Csendes hely távol a turisták tömegétől.",
+            "ro": "Loc liniștit, departe de mulțimile de turiști.",
+            "en": "Quiet place away from the tourist crowds."
+          }
+        },
+        {
+          "name": "Bords de l'Eure (Unterstadt)",
+          "coords": [
+            1.495,
+            48.4455
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buslinie 4 verbindet die Unterstadt mit dem Bahnhof.",
+            "hu": "A 4-es buszjárat összeköti az alsóvárost a vasútállomással.",
+            "ro": "Linia de autobuz 4 leagă orașul de jos de gară.",
+            "en": "Bus line 4 connects the lower town to the train station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Nähe zum Bahnhof lässt sich Chartres perfekt mit dem Zug erkunden. Wir starten bei der Kathedrale und wandern durch Museen und Kirchen. Der Nachmittag gehört der Unterstadt, bevor wir bequem mit dem Stadtbus zurückfahren.",
+        "hu": "A vasútállomás közelségének köszönhetően Chartres tökéletesen felfedezhető vonattal. A katedrálistól indulva múzeumokon és templomokon át sétálunk. A délután az alsóvárosé, mielőtt kényelmesen visszabuszoznánk.",
+        "ro": "Datorită proximității gării, Chartres poate fi explorat perfect cu trenul. Începem la catedrală și ne plimbăm prin muzee și biserici. După-amiaza aparține orașului de jos, înainte de a ne întoarce confortabil cu autobuzul.",
+        "en": "Thanks to its proximity to the station, Chartres is perfect to explore by train. We start at the cathedral and wander through museums and churches. The afternoon belongs to the lower town before heading back comfortably by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie de l'Ouest",
+            "tip": "Klassische französische Küche am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie de l'Ouest",
+            "tip": "Klasszikus francia konyha a pályaudvarnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie de l'Ouest",
+            "tip": "Bucătărie clasică franceză lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie de l'Ouest",
+            "tip": "Classic French cuisine by the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "L'Apostrophe",
+            "tip": "Moderne Mediathek in einem historischen Gebäude.",
+            "emoji": "📚"
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Apostrophe",
+            "tip": "Modern médiatár egy történelmi épületben.",
+            "emoji": "📚"
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Apostrophe",
+            "tip": "Mediatecă modernă într-o clădire istorică.",
+            "emoji": "📚"
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Apostrophe",
+            "tip": "Modern media library in a historical building.",
+            "emoji": "📚"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue des Changes",
+            "tip": "Schöne Fußgängerzone mit kleinen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue des Changes",
+            "tip": "Szép sétálóutca kis butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue des Changes",
+            "tip": "Zonă pietonală frumoasă cu buticuri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue des Changes",
+            "tip": "Beautiful pedestrian street with small boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Pendelbus 'Filibus' für weite Strecken.",
+          "Der Bahnhof bietet Schließfächer für Gepäck."
+        ],
+        "hu": [
+          "Használja a 'Filibus' ingajáratot a nagyobb távolságokhoz.",
+          "A vasútállomáson csomagmegőrző szekrények találhatók."
+        ],
+        "ro": [
+          "Folosiți autobuzul 'Filibus' pentru distanțe mari.",
+          "Gara oferă dulapuri pentru bagaje."
+        ],
+        "en": [
+          "Use the 'Filibus' shuttle bus for longer distances.",
+          "The train station offers lockers for luggage."
+        ]
+      }
+    }
+  }
+}

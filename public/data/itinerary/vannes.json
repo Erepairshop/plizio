@@ -1,0 +1,1028 @@
+{
+  "city_id": "vannes",
+  "anchor": {
+    "name": "Vannes Port",
+    "coords": [
+      -2.7603,
+      47.6587
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Lices",
+            "hu": "Place des Lices",
+            "ro": "Place des Lices",
+            "en": "Place des Lices"
+          },
+          "coords": [
+            -2.7585,
+            47.6575
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Markthalle an Markttagen.",
+            "hu": "Látogasson el a piaccsarnokba piaci napokon.",
+            "ro": "Vizitați hala pieței în zilele de târg.",
+            "en": "Visit the covered market hall on market days."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            -2.7575,
+            47.6582
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus Gotik und Renaissance.",
+            "hu": "Csodálja meg a gótika és a reneszánsz keveredését.",
+            "ro": "Admirați amestecul de stil gotic și renașcentist.",
+            "en": "Admire the blend of Gothic and Renaissance styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Vannes et sa femme",
+            "hu": "Vannes és felesége",
+            "ro": "Vannes și soția sa",
+            "en": "Vannes and his Wife"
+          },
+          "coords": [
+            -2.7578,
+            47.6586
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie diese berühmte Skulptur an der Straßenecke.",
+            "hu": "Keresse ezt a híres szobrot az utcasarkon.",
+            "ro": "Căutați această sculptură faimoasă la colțul străzii.",
+            "en": "Look for this famous sculpture on the street corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Cohue",
+            "hu": "La Cohue Szépművészeti Múzeum",
+            "ro": "Muzeul de Artă La Cohue",
+            "en": "La Cohue Fine Arts Museum"
+          },
+          "coords": [
+            -2.7572,
+            47.658
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Hervorragende Sammlung zeitgenössischer Kunst.",
+            "hu": "Kiváló kortárs művészeti gyűjtemény.",
+            "ro": "Colecție excelentă de artă contemporană.",
+            "en": "Excellent collection of contemporary art."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Vannes",
+            "hu": "Vannes városfala",
+            "ro": "Zidurile cetății Vannes",
+            "en": "Vannes City Walls"
+          },
+          "coords": [
+            -2.7555,
+            47.6572
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang durch die perfekt gepflegten Gärten.",
+            "hu": "Sétáljon a tökéletesen gondozott kertekben.",
+            "ro": "Plimbare prin grădinile perfect întreținute.",
+            "en": "Walk through the perfectly manicured gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoirs de la Garenne",
+            "hu": "Garenne mosóházak",
+            "ro": "Spălătoriile Garenne",
+            "en": "Lavoirs de la Garenne"
+          },
+          "coords": [
+            -2.755,
+            47.6565
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die malerischsten alten Waschhäuser am Fluss.",
+            "hu": "A legfestőibb régi mosóházak a folyóparton.",
+            "ro": "Cele mai pitorești spălătorii vechi de pe râu.",
+            "en": "The most picturesque old washhouses by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Vannes",
+            "hu": "Vannes kikötője",
+            "ro": "Portul din Vannes",
+            "en": "Vannes Port"
+          },
+          "coords": [
+            -2.7595,
+            47.6535
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für einen Drink am frühen Abend.",
+            "hu": "Tökéletes hely egy kora esti italhoz.",
+            "ro": "Locul perfect pentru o băutură devreme seara.",
+            "en": "Perfect place for an early evening drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Vannes am Place des Lices, wo die Fachwerkhäuser die reiche Handelsgeschichte der Stadt widerspiegeln. Mittags erkunden Sie die spirituelle Seite in der Kathedrale Saint-Pierre und entdecken die charmante Skulptur 'Vannes und seine Frau'. Am Nachmittag spazieren Sie entlang der beeindruckenden Stadtmauern und besichtigen die Lavoirs de la Garenne. Den Abend lassen Sie am belebten Hafen bei frischen Meeresfrüchten ausklingen.",
+        "hu": "Kezdje a napot Vannes történelmi szívében, a Place des Lices téren, ahol a favázas házak a város gazdag kereskedelmi múltját idézik. Délben fedezze fel a spirituális oldalt a Szent Péter-székesegyházban, és keresse meg a bájos 'Vannes és felesége' szobrot. Délután sétáljon a lenyűgöző városfalak mentén és látogassa meg a Garenne mosóházakat. Az estét töltse a nyüzsgő kikötőben, friss tengeri ételeket kóstolva.",
+        "ro": "Începeți ziua în inima istorică a orașului Vannes, în Place des Lices, unde casele cu bârne de lemn reflectă istoria comercială bogată. La prânz, explorați latura spirituală la Catedrala Saint-Pierre și descoperiți sculptura fermecătoare 'Vannes și soția sa'. După-amiaza, plimbați-vă de-a lungul zidurilor impresionante ale orașului și vizitați spălătoriile Garenne. Încheiați seara în portul plin de viață, savurând fructe de mare proaspete.",
+        "en": "Start your day in the historic heart of Vannes at Place des Lices, where half-timbered houses reflect the city's rich commercial past. At midday, explore the spiritual side at Saint-Pierre Cathedral and find the charming 'Vannes and his Wife' sculpture. In the afternoon, stroll along the impressive city walls and visit the Lavoirs de la Garenne. End your evening at the lively port, enjoying fresh seafood by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie Dan Ewen",
+            "tip": "Probieren Sie eine traditionelle Galette Sarrasin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie Dan Ewen",
+            "tip": "Kóstoljon meg egy tradicionális hajdina palacsintát (galette)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie Dan Ewen",
+            "tip": "Încercați o galette tradițională de hrișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie Dan Ewen",
+            "tip": "Try a traditional buckwheat galette."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Remparts",
+            "tip": "Ruhiger Park unter den Mauern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Remparts",
+            "tip": "Csendes park a városfalak alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Remparts",
+            "tip": "Parc liniștit sub zidurile cetății.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Remparts",
+            "tip": "Quiet park beneath the city walls.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles des Lices",
+            "tip": "Frische bretonische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles des Lices",
+            "tip": "Friss breton termékek és helyi ízek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles des Lices",
+            "tip": "Produse bretone proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles des Lices",
+            "tip": "Fresh Breton products and local flavors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vannes ist sehr fußgängerfreundlich.",
+          "Tragen Sie bequemes Schuhwerk für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "Vannes központja gyalogosan kiválóan bejárható.",
+          "A macskaköves utcák miatt viseljen kényelmes cipőt."
+        ],
+        "ro": [
+          "Vannes este foarte prietenos cu pietonii.",
+          "Purtați încălțăminte comodă pentru străzile pietruite."
+        ],
+        "en": [
+          "Vannes is very pedestrian-friendly.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Vannes",
+            "hu": "Vannes kikötője",
+            "ro": "Portul Vannes",
+            "en": "Vannes Port"
+          },
+          "coords": [
+            -2.7595,
+            47.6535
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mieten Sie hier Ihr Fahrrad.",
+            "hu": "Itt bérelheti ki a kerékpárját.",
+            "ro": "Închiriați bicicleta de aici.",
+            "en": "Rent your bike here near the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade de la Rabine",
+            "hu": "La Rabine sétány",
+            "ro": "Promenada de la Rabine",
+            "en": "Promenade de la Rabine"
+          },
+          "coords": [
+            -2.762,
+            47.645
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Breite, baumbestandene Allee am Wasser.",
+            "hu": "Széles, fákkal szegélyezett sétány a víz mellett.",
+            "ro": "Alee largă, mărginită de copaci, pe malul apei.",
+            "en": "Wide, tree-lined avenue along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Rosvellec",
+            "hu": "Pointe de Rosvellec",
+            "ro": "Pointe de Rosvellec",
+            "en": "Pointe de Rosvellec"
+          },
+          "coords": [
+            -2.775,
+            47.635
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Blick auf den Golf von Morbihan.",
+            "hu": "Gyönyörű kilátás a Morbihani-öbölre.",
+            "ro": "Vedere minunată asupra Golfului Morbihan.",
+            "en": "Beautiful view of the Gulf of Morbihan."
+          }
+        },
+        {
+          "name": {
+            "de": "Presqu'île de Conleau",
+            "hu": "Conleau-félsziget",
+            "ro": "Peninsula Conleau",
+            "en": "Conleau Peninsula"
+          },
+          "coords": [
+            -2.78,
+            47.632
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder ein Bad im Meerwasserbecken.",
+            "hu": "Ideális piknikhez vagy fürdéshez a tengervizes medencében.",
+            "ro": "Ideal pentru un picnic sau o baie în piscina cu apă de mare.",
+            "en": "Ideal for a picnic or a swim in the seawater pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium de Vannes",
+            "hu": "Vannes-i Akvárium",
+            "ro": "Acvariul din Vannes",
+            "en": "Vannes Aquarium"
+          },
+          "coords": [
+            -2.763,
+            47.642
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Meeresfauna des Golfs.",
+            "hu": "Fedezze fel az öböl tengeri élővilágát.",
+            "ro": "Descoperiți fauna marină a golfului.",
+            "en": "Discover the marine life of the Gulf."
+          }
+        },
+        {
+          "name": {
+            "de": "Rive Gauche du Port",
+            "hu": "A kikötő bal partja",
+            "ro": "Malul stâng al portului",
+            "en": "Port Left Bank"
+          },
+          "coords": [
+            -2.759,
+            47.653
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Geben Sie das Rad ab und genießen Sie ein Getränk.",
+            "hu": "Adja le a biciklit és élvezze a frissítőt.",
+            "ro": "Returnați bicicleta și savurați o băutură.",
+            "en": "Return the bike and enjoy a refreshment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den Golf von Morbihan mit dem Fahrrad. Starten Sie am Hafen und radeln Sie die Promenade de la Rabine entlang. Erreichen Sie die Halbinsel Conleau für einen entspannten Mittag am Strand. Nachmittags besuchen Sie das Aquarium, bevor Sie gemütlich zum Hafen zurückkehren.",
+        "hu": "Fedezze fel a Morbihani-öböl környékét kerékpárral. Induljon a kikötőből, és tekerjen végig a La Rabine sétányon. Érje el a Conleau-félszigetet egy pihentető déli fürdőzésre. Délután látogasson el az akváriumba, mielőtt kényelmesen visszatérne a kikötőbe.",
+        "ro": "Descoperiți împrejurimile Golfului Morbihan cu bicicleta. Porniți din port și pedalați de-a lungul promenadei La Rabine. Ajungeți la peninsula Conleau pentru o amiază relaxantă la plajă. După-amiaza vizitați acvariul înainte de a reveni în port.",
+        "en": "Discover the surroundings of the Gulf of Morbihan by bike. Start at the port and cycle along the Promenade de la Rabine. Reach the Conleau Peninsula for a relaxing midday at the beach. In the afternoon, visit the aquarium before a leisurely return to the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Roof",
+            "tip": "Meeresfrüchte mit Blick auf den Golf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Roof",
+            "tip": "Tenger gyümölcsei kilátással az öbölre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Roof",
+            "tip": "Fructe de mare cu vedere la golf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Roof",
+            "tip": "Seafood with a view of the Gulf."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de Conleau",
+            "tip": "Ruhiger Strandabschnitt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de Conleau",
+            "tip": "Csendes tengerparti szakasz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage de Conleau",
+            "tip": "Secțiune liniștită de plajă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage de Conleau",
+            "tip": "Quiet beach section.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie de Vannes",
+            "tip": "Traditionelle bretonische Kekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie de Vannes",
+            "tip": "Hagyományos breton sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie de Vannes",
+            "tip": "Biscuiți tradiționali bretoni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuiterie de Vannes",
+            "tip": "Traditional Breton biscuits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind flach und gut ausgeschildert.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt mit."
+        ],
+        "hu": [
+          "Az útvonalak síkak és jól kitáblázottak.",
+          "Vigyen magával elegendő vizet az útra."
+        ],
+        "ro": [
+          "Traseele sunt plate și bine semnalizate.",
+          "Luați suficientă apă pentru drum."
+        ],
+        "en": [
+          "The paths are flat and well-signposted.",
+          "Take enough water for the ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vannes Altstadt",
+            "hu": "Vannes óvárosa",
+            "ro": "Orașul vechi Vannes",
+            "en": "Vannes Old Town"
+          },
+          "coords": [
+            -2.758,
+            47.657
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus am Hafen.",
+            "hu": "Parkoljon a kikötői parkolóházban.",
+            "ro": "Parcați în parcarea din port.",
+            "en": "Park in the underground parking at the port."
+          }
+        },
+        {
+          "name": {
+            "de": "Arradon Pointe de l'Anse",
+            "hu": "Arradon Pointe de l'Anse",
+            "ro": "Arradon Pointe de l'Anse",
+            "en": "Arradon Pointe de l'Anse"
+          },
+          "coords": [
+            -2.825,
+            47.615
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Spektakulärer Panoramablick auf die Inseln.",
+            "hu": "Látványos panoráma a szigetekre.",
+            "ro": "Panoramă spectaculoasă asupra insulelor.",
+            "en": "Spectacular panoramic view of the islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Larmor-Baden",
+            "hu": "Larmor-Baden",
+            "ro": "Larmor-Baden",
+            "en": "Larmor-Baden"
+          },
+          "coords": [
+            -2.895,
+            47.585
+          ],
+          "category": "port",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Austern direkt vom Erzeuger.",
+            "hu": "Kóstoljon osztrigát közvetlenül a termelőtől.",
+            "ro": "Gustați scoici direct de la producător.",
+            "en": "Taste oysters directly from the producer."
+          }
+        },
+        {
+          "name": {
+            "de": "Cairn de Gavrinis",
+            "hu": "Gavrinis kőhalom",
+            "ro": "Cairn de Gavrinis",
+            "en": "Gavrinis Cairn"
+          },
+          "coords": [
+            -2.898,
+            47.575
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bootstour zur megalithischen Fundstätte.",
+            "hu": "Hajókirándulás a megalitikus emlékhelyhez.",
+            "ro": "Tur cu barca la situl megalitic.",
+            "en": "Boat trip to the megalithic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Vannes Hafenabend",
+            "hu": "Vannes-i kikötő este",
+            "ro": "Portul Vannes seara",
+            "en": "Vannes Port Evening"
+          },
+          "coords": [
+            -2.7595,
+            47.6535
+          ],
+          "category": "gastro",
+          "arrive_at": "16:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Rückkehr nach Vannes für das Abendessen.",
+            "hu": "Visszatérés Vannes-ba vacsorázni.",
+            "ro": "Revenire în Vannes pentru cină.",
+            "en": "Return to Vannes for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die weitere Umgebung des Golfs von Morbihan. Nach einem kurzen Besuch in der Altstadt von Vannes fahren Sie nach Arradon für atemberaubende Ausblicke. Mittags genießen Sie Austern in Larmor-Baden und besuchen den mystischen Cairn de Gavrinis per Boot.",
+        "hu": "Autóval fedezze fel a Morbihani-öböl tágabb környékét. Vannes óvárosának rövid megtekintése után irány Arradon a lélegzetelállító kilátásért. Délben kóstoljon osztrigát Larmor-Badenben, majd látogasson el hajóval a misztikus Gavrinis kőhalomhoz.",
+        "ro": "Cu mașina veți explora împrejurimile mai largi ale Golfului Morbihan. După o scurtă vizită în centrul vechi din Vannes, mergeți spre Arradon pentru vederi uluitoare. La prânz, savurați stridii în Larmor-Baden și vizitați misticul Cairn de Gavrinis cu barca.",
+        "en": "By car, explore the wider surroundings of the Gulf of Morbihan. After a short visit to Vannes old town, head to Arradon for breathtaking views. At midday, enjoy oysters in Larmor-Baden and visit the mystical Gavrinis Cairn by boat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ostréiculture Larmor-Baden",
+            "tip": "Frische Austern direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ostréiculture Larmor-Baden",
+            "tip": "Friss osztriga közvetlenül a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ostréiculture Larmor-Baden",
+            "tip": "Stridii proaspete direct pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ostréiculture Larmor-Baden",
+            "tip": "Fresh oysters directly by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe d'Arradon",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe d'Arradon",
+            "tip": "Tökéletes hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe d'Arradon",
+            "tip": "Locul perfect pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe d'Arradon",
+            "tip": "Perfect spot for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cidrerie du Golfe",
+            "tip": "Lokaler Cidre und Apfelsaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cidrerie du Golfe",
+            "tip": "Helyi cider és almalé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidrerie du Golfe",
+            "tip": "Cidru local și suc de mere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cidrerie du Golfe",
+            "tip": "Local cider and apple juice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraßen sind eng, fahren Sie vorsichtig.",
+          "Buchen Sie die Gavrinis-Tour im Voraus."
+        ],
+        "hu": [
+          "A parti utak keskenyek, vezessen óvatosan.",
+          "A Gavrinis túrát foglalja le előre."
+        ],
+        "ro": [
+          "Drumurile de coastă sunt înguste, conduceți cu atenție.",
+          "Rezervați turul Gavrinis în avans."
+        ],
+        "en": [
+          "Coastal roads are narrow, drive carefully.",
+          "Book the Gavrinis tour in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Place de la République"
+          },
+          "coords": [
+            -2.761,
+            47.6575
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt in Vannes.",
+            "hu": "Vannes központi buszcsomópontja.",
+            "ro": "Principalul nod de autobuz din Vannes.",
+            "en": "Main bus hub in Vannes."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Patern Viertel",
+            "hu": "Saint-Patern negyed",
+            "ro": "Cartierul Saint-Patern",
+            "en": "Saint-Patern District"
+          },
+          "coords": [
+            -2.7555,
+            47.6595
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das älteste Viertel der Stadt.",
+            "hu": "A város legősibb negyede.",
+            "ro": "Cel mai vechi cartier al orașului.",
+            "en": "The oldest district of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Vannes Bahnhof",
+            "hu": "Vannes vasútállomás",
+            "ro": "Gara Vannes",
+            "en": "Vannes Station"
+          },
+          "coords": [
+            -2.752,
+            47.665
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schönes Gebäude aus dem 19. Jahrhundert.",
+            "hu": "Szép 19. századi épület.",
+            "ro": "Clădire frumoasă din secolul al XIX-lea.",
+            "en": "Beautiful 19th-century building."
+          }
+        },
+        {
+          "name": {
+            "de": "Conleau Beach (Bus 2)",
+            "hu": "Conleau strand (2-es busz)",
+            "ro": "Plaja Conleau (Autobuz 2)",
+            "en": "Conleau Beach (Bus 2)"
+          },
+          "coords": [
+            -2.779,
+            47.6325
+          ],
+          "category": "beach",
+          "arrive_at": "12:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Einfach erreichbar mit der Kicéo-Linie 2.",
+            "hu": "Könnyen elérhető a Kicéo 2-es vonalával.",
+            "ro": "Ușor accesibil cu linia Kicéo 2.",
+            "en": "Easily accessible with Kicéo line 2."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Golfe",
+            "hu": "Öböl Park",
+            "ro": "Parcul Golfului",
+            "en": "Parc du Golfe"
+          },
+          "coords": [
+            -2.764,
+            47.643
+          ],
+          "category": "park",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ort für Ausflugsboote und Freizeit.",
+            "hu": "Kirándulóhajók és szabadidő helyszíne.",
+            "ro": "Loc pentru bărci de excursie și timp liber.",
+            "en": "Site for excursion boats and leisure."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Vannes Center",
+            "hu": "Vannes kikötő központ",
+            "ro": "Centrul Portului Vannes",
+            "en": "Vannes Port Center"
+          },
+          "coords": [
+            -2.7595,
+            47.6535
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abendessen im Herzen des Hafens.",
+            "hu": "Vacsora a kikötő szívében.",
+            "ro": "Cină în inima portului.",
+            "en": "Dinner in the heart of the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Kicéo-Busnetz, um Vannes stressfrei zu erkunden. Beginnen Sie am Place de la République und spazieren Sie durch Saint-Patern. Nehmen Sie die Linie 2 zum Strand von Conleau für ein erfrischendes Bad und beenden Sie den Tag am Parc du Golfe.",
+        "hu": "Használja a Kicéo buszhálózatot Vannes stresszmentes felfedezéséhez. Kezdjen a Köztársaság téren, és sétáljon Saint-Patern negyedében. Utazzon a 2-es vonallal a Conleau strandra egy frissítő fürdőre, majd zárja a napot az Öböl Parkban.",
+        "ro": "Utilizați rețeaua de autobuze Kicéo pentru a explora Vannes fără stres. Începeți în Piața Republicii și plimbați-vă prin cartierul Saint-Patern. Luați linia 2 către plaja Conleau pentru o baie răcoritoare și încheiați ziua în Parcul Golfului.",
+        "en": "Use the Kicéo bus network to explore Vannes stress-free. Start at Place de la République and stroll through the Saint-Patern district. Take line 2 to Conleau beach for a refreshing swim and end the day at Parc du Golfe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "A l'Aise Breizh Café",
+            "tip": "Moderne bretonische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A l'Aise Breizh Café",
+            "tip": "Modern breton konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "A l'Aise Breizh Café",
+            "tip": "Bucătărie bretonă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "A l'Aise Breizh Café",
+            "tip": "Modern Breton cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Étang au Duc",
+            "tip": "Ruhiger See im Norden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étang au Duc",
+            "tip": "Csendes tó északon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Étang au Duc",
+            "tip": "Lac liniștit în nord.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Étang au Duc",
+            "tip": "Quiet lake in the north.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Saint-Vincent",
+            "tip": "Boutiquen in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Saint-Vincent",
+            "tip": "Butikok a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Saint-Vincent",
+            "tip": "Boutique-uri în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Saint-Vincent",
+            "tip": "Boutiques in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für den Bus.",
+          "Laden Sie die Kicéo-App für Fahrpläne herunter."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "Töltse le a Kicéo alkalmazást a menetrendekhez."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Descărcați aplicația Kicéo pentru orare."
+        ],
+        "en": [
+          "Buy a day pass for the bus.",
+          "Download the Kicéo app for schedules."
+        ]
+      }
+    }
+  }
+}

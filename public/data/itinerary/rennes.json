@@ -1,0 +1,1100 @@
+{
+  "city_id": "rennes",
+  "anchor": {
+    "name": "Hôtel de Ville de Rennes",
+    "coords": [
+      -1.6778,
+      48.1173
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Lices",
+            "hu": "Place des Lices",
+            "ro": "Place des Lices",
+            "en": "Place des Lices"
+          },
+          "coords": [
+            -1.6824,
+            48.1132
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie am Samstagmorgen den berühmten Markt.",
+            "hu": "Szombat reggel látogasson el a híres piacra.",
+            "ro": "Vizitați piața celebră sâmbătă dimineața.",
+            "en": "Visit the famous market on Saturday morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Portes Mordelaises",
+            "hu": "Mordelaises-kapuk",
+            "ro": "Porțile Mordelaises",
+            "en": "Mordelaises Gates"
+          },
+          "coords": [
+            -1.6841,
+            48.1126
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der historische Eingang der bretonischen Herzöge.",
+            "hu": "A breton hercegek történelmi bejárata.",
+            "ro": "Intrarea istorică a ducilor de Bretania.",
+            "en": "The historical entrance of the Breton dukes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            -1.6833,
+            48.1114
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das prachtvolle neoklassizistische Interieur.",
+            "hu": "Csodálja meg a pompás neoklasszicista belsőt.",
+            "ro": "Admirați interiorul neoclasic magnific.",
+            "en": "Admire the magnificent neoclassical interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais du Parlement de Bretagne",
+            "hu": "Bretagne-i Parlament Palotája",
+            "ro": "Palatul Parlamentului din Bretania",
+            "en": "Palais du Parlement de Bretagne"
+          },
+          "coords": [
+            -1.6775,
+            48.1131
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung, um die goldenen Decken zu sehen.",
+            "hu": "Foglaljon vezetett túrát az aranyozott mennyezetekhez.",
+            "ro": "Rezervați un tur ghidat pentru tavanele aurite.",
+            "en": "Book a guided tour to see the gilded ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            -1.6755,
+            48.1095
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die ägyptische Sammlung.",
+            "hu": "Ne hagyja ki az egyiptomi gyűjteményt.",
+            "ro": "Nu ratați colecția egipteană.",
+            "en": "Don't miss the Egyptian collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Thabor",
+            "hu": "Thabor park",
+            "ro": "Parcul Thabor",
+            "en": "Thabor Park"
+          },
+          "coords": [
+            -1.6685,
+            48.1142
+          ],
+          "category": "park",
+          "arrive_at": "16:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Rosengarten im Sommer.",
+            "hu": "Látogasson el a rózsakertbe nyáron.",
+            "ro": "Vizitați grădina de trandafiri vara.",
+            "en": "Visit the rose garden in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Sainte-Anne",
+            "hu": "Szent Anna tér",
+            "ro": "Piața Sfânta Ana",
+            "en": "Place Sainte-Anne"
+          },
+          "coords": [
+            -1.6805,
+            48.1145
+          ],
+          "category": "gastro",
+          "arrive_at": "18:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der ideale Ort für eine Galette und Cidre.",
+            "hu": "Ideális hely egy galette-re és cidre-re.",
+            "ro": "Locul ideal pentru o galette și cidru.",
+            "en": "Ideal spot for a galette and cider."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Rennes auf dem Place des Lices, wo die Fachwerkhäuser die Geschichte der Stadt erzählen. Spazieren Sie durch die majestätischen Portes Mordelaises und bewundern Sie die Kathedrale Saint-Pierre.\n\nMittags tauchen Sie in die politische Geschichte Bretagnes im Palais du Parlement ein, einem architektonischen Juwel des 17. Jahrhunderts. Genießen Sie eine Pause in den umliegenden gepflasterten Gassen.\n\nDer Nachmittag gehört der Kunst im Musée des Beaux-Arts, gefolgt von einem entspannenden Spaziergang im Parc du Thabor, einem der schönsten Gärten Frankreichs mit seinen Volieren und Rosengärten.\n\nBeenden Sie den Tag im lebhaften Viertel Sainte-Anne, wo die mittelalterliche Atmosphäre bei einem typisch bretonischen Abendessen zum Leben erwacht.",
+        "hu": "Kezdje a napot Rennes szívében, a Place des Lices téren, ahol a favázas házak a város múltjáról mesélnek. Sétáljon át a fenséges Mordelaises-kapukon, és csodálja meg a Szent Péter-székesegyházat.\n\nDélben merüljön el Bretagne politikai történelmében a Parlament Palotájában, amely a 17. század építészeti remekműve. Élvezze a pihenőt a környező macskaköves utcákban.\n\nA délután a művészeté a Szépművészeti Múzeumban, majd pihentető séta következik a Thabor parkban, Franciaország egyik legszebb kertjében, madárházaival és rózsakertjével.\n\nZárja a napot a nyüzsgő Szent Anna negyedben, ahol a középkori hangulat életre kel egy tipikus breton vacsora mellett.",
+        "ro": "Începeți ziua în inima orașului Rennes, în Place des Lices, unde casele cu cherestea spun povestea orașului. Treceți prin maiestuoasele Porți Mordelaises și admirați Catedrala Sfântul Petru.\n\nLa prânz, scufundați-vă în istoria politică a Bretaniei la Palatul Parlamentului, o bijuterie arhitecturală a secolului al XVII-lea. Bucurați-vă de o pauză pe străzile pavate din jur.\n\nDupă-amiaza este dedicată artei la Muzeul de Arte Frumoase, urmată de o plimbare relaxantă în Parcul Thabor, una dintre cele mai frumoase grădini din Franța, cu volierele și grădinile sale de trandafiri.\n\nÎncheiați ziua în cartierul plin de viață Sainte-Anne, unde atmosfera medievală prinde viață la o cină tipic bretonă.",
+        "en": "Start your day in the heart of Rennes at Place des Lices, where half-timbered houses tell the city's story. Walk through the majestic Mordelaises Gates and admire Saint-Pierre Cathedral.\n\nAt midday, immerse yourself in Brittany's political history at the Palais du Parlement, a 17th-century architectural gem. Enjoy a break in the surrounding cobbled streets.\n\nThe afternoon is for art at the Museum of Fine Arts, followed by a relaxing stroll in Thabor Park, one of France's most beautiful gardens with its aviaries and rose gardens.\n\nEnd the day in the lively Sainte-Anne district, where the medieval atmosphere comes alive over a typical Breton dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie La Saint-Georges",
+            "tip": "Moderne Interpretation bretonischer Galettes."
+          },
+          {
+            "name": "Le Saint-Sauveur",
+            "tip": "Traditionelle Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie La Saint-Georges",
+            "tip": "A breton galette modern értelmezése."
+          },
+          {
+            "name": "Le Saint-Sauveur",
+            "tip": "Hagyományos konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie La Saint-Georges",
+            "tip": "Interpretare modernă a galettelor bretone."
+          },
+          {
+            "name": "Le Saint-Sauveur",
+            "tip": "Bucătărie tradițională într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie La Saint-Georges",
+            "tip": "Modern interpretation of Breton galettes."
+          },
+          {
+            "name": "Le Saint-Sauveur",
+            "tip": "Traditional cuisine in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Vilaine",
+            "tip": "Ruhiger Spaziergang am Fluss.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc du Thabor Kreuzgang",
+            "tip": "Stille Oase im Stadtpark.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vilaine partja",
+            "tip": "Csendes séta a folyó mentén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thabor park kolostorkert",
+            "tip": "Csendes oázis a városi parkban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Vilaine",
+            "tip": "Plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Claustrul Parcului Thabor",
+            "tip": "Oază de liniște în parcul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vilaine River Banks",
+            "tip": "Quiet stroll along the river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thabor Park Cloister",
+            "tip": "Quiet oasis in the city park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Lices",
+            "tip": "Einer der größten Märkte Frankreichs (samstags)."
+          },
+          {
+            "name": "Rue Le Bastard",
+            "tip": "Haupteinkaufsstraße mit bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Lices",
+            "tip": "Franciaország egyik legnagyobb piaca (szombaton)."
+          },
+          {
+            "name": "Rue Le Bastard",
+            "tip": "Fő bevásárlóutca ismert márkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Lices",
+            "tip": "Una dintre cele mai mari piețe din Franța (sâmbăta)."
+          },
+          {
+            "name": "Rue Le Bastard",
+            "tip": "Principala stradă comercială cu mărci cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché des Lices",
+            "tip": "One of the largest markets in France (Saturdays)."
+          },
+          {
+            "name": "Rue Le Bastard",
+            "tip": "Main shopping street with famous brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist größtenteils Fußgängerzone.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Probieren Sie unbedingt die 'Galette-Saucisse'.",
+          "Reservieren Sie für den Palais du Parlement im Voraus."
+        ],
+        "hu": [
+          "A belváros nagy része sétálóövezet.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Mindenképpen kóstolja meg a 'Galette-Saucisse'-t.",
+          "A Parlament Palotájába foglaljon előre jegyet."
+        ],
+        "ro": [
+          "Centrul orașului este în mare parte pietonal.",
+          "Purtați pantofi confortabili pentru străzile pavate.",
+          "Nu uitați să gustați 'Galette-Saucisse'.",
+          "Rezervați din timp pentru Palais du Parlement."
+        ],
+        "en": [
+          "The city center is mostly pedestrianized.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Be sure to try the 'Galette-Saucisse'.",
+          "Book in advance for the Palais du Parlement."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Canal d'Ille-et-Rance",
+            "hu": "Ille-et-Rance csatorna",
+            "ro": "Canalul Ille-et-Rance",
+            "en": "Ille-et-Rance Canal"
+          },
+          "coords": [
+            -1.6855,
+            48.1185
+          ],
+          "category": "river",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Radweg entlang des Wassers.",
+            "hu": "Gyönyörű kerékpárút a víz mentén.",
+            "ro": "Pistă de biciclete superbă de-a lungul apei.",
+            "en": "Beautiful bike path along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Prairies Saint-Martin",
+            "hu": "Szent Márton-rétek",
+            "ro": "Prairies Saint-Martin",
+            "en": "Saint-Martin Meadows"
+          },
+          "coords": [
+            -1.6755,
+            48.1255
+          ],
+          "category": "park",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine grüne Lunge im Herzen der Stadt.",
+            "hu": "A város szívének zöld tüdeje.",
+            "ro": "Un plămân verde în inima orașului.",
+            "en": "A green lung in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Thabor",
+            "hu": "Thabor park",
+            "ro": "Parcul Thabor",
+            "en": "Thabor Park"
+          },
+          "coords": [
+            -1.6685,
+            48.1142
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrräder müssen draußen geparkt werden.",
+            "hu": "A kerékpárokat kint kell hagyni.",
+            "ro": "Bicicletele trebuie parcate afară.",
+            "en": "Bikes must be parked outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Champs Libres",
+            "hu": "Les Champs Libres",
+            "ro": "Les Champs Libres",
+            "en": "Les Champs Libres"
+          },
+          "coords": [
+            -1.6745,
+            48.1055
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Planetarium und das Bretagne-Museum.",
+            "hu": "Látogassa meg a planetáriumot és a Bretagne múzeumot.",
+            "ro": "Vizitați planetariul și muzeul Bretaniei.",
+            "en": "Visit the planetarium and the Brittany museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang d'Apigné",
+            "hu": "Apigné-tó",
+            "ro": "Étang d'Apigné",
+            "en": "Apigné Lake"
+          },
+          "coords": [
+            -1.7455,
+            48.0955
+          ],
+          "category": "lake",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Erfrischung am Ende des Tages.",
+            "hu": "Tökéletes felfrissülés a nap végén.",
+            "ro": "Perfect pentru o răcorire la sfârșitul zilei.",
+            "en": "Perfect for a refresh at the end of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Roazhon Park",
+            "hu": "Roazhon Park",
+            "ro": "Roazhon Park",
+            "en": "Roazhon Park"
+          },
+          "coords": [
+            -1.7125,
+            48.1075
+          ],
+          "category": "historical",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Heimstadion des Stade Rennais FC.",
+            "hu": "A Stade Rennais FC hazai stadionja.",
+            "ro": "Stadionul de acasă al Stade Rennais FC.",
+            "en": "The home stadium of Stade Rennais FC."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Rennes auf zwei Rädern, beginnend am Canal d'Ille-et-Rance, wo die Treidelpfade flach und malerisch sind. Radeln Sie zu den Prairies Saint-Martin für eine Naturpause.\n\nMittags erreichen Sie den Parc du Thabor. Parken Sie Ihr Rad und genießen Sie ein Picknick unter den hundertjährigen Bäumen, bevor Sie zur modernen Architektur von Les Champs Libres weiterfahren.\n\nDer Nachmittag führt Sie aus dem Zentrum heraus zum Étang d'Apigné über den Vilaine-Radweg. Eine perfekte Strecke, um die ländliche Seite von Rennes zu entdecken.\n\nBeenden Sie Ihre Tour am Roazhon Park Stadion, einem Symbol des lokalen Stolzes, bevor Sie gemütlich ins Stadtzentrum zurückkehren.",
+        "hu": "Fedezze fel Rennes-t két keréken, kezdve az Ille-et-Rance csatornánál, ahol a vontatóutak síkak és festőiek. Kerekezzen a Szent Márton-rétekhez egy természetközeli pihenőre.\n\nDélben érje el a Thabor parkot. Parkolja le a biciklit, és élvezze a pikniket a százéves fák alatt, mielőtt továbbindulna a Les Champs Libres modern épülete felé.\n\nA délután kivezeti a központból az Apigné-tóhoz a Vilaine menti kerékpárúton. Tökéletes útvonal Rennes vidékies arcának felfedezéséhez.\n\nZárja a túrát a Roazhon Park stadionnál, a helyi büszkeség szimbólumánál, mielőtt kényelmesen visszatérne a városközpontba.",
+        "ro": "Explorați Rennes pe două roți, începând de la Canalul Ille-et-Rance, unde potecile sunt plate și pitorești. Pedalati până la Prairies Saint-Martin pentru o pauză în natură.\n\nLa prânz, ajungeți la Parcul Thabor. Parcați bicicleta și bucurați-vă de un picnic sub copacii centenari, înainte de a continua spre arhitectura modernă de la Les Champs Libres.\n\nDupă-amiaza vă scoate din centru spre Étang d'Apigné pe pista de biciclete Vilaine. Un traseu perfect pentru a descoperi latura rurală a orașului Rennes.\n\nÎncheiați turul la stadionul Roazhon Park, simbol al mândriei locale, înainte de a vă întoarce relaxat în centrul orașului.",
+        "en": "Explore Rennes on two wheels, starting at the Ille-et-Rance Canal, where the towpaths are flat and picturesque. Cycle to the Prairies Saint-Martin for a nature break.\n\nAt midday, reach Thabor Park. Park your bike and enjoy a picnic under the century-old trees before heading to the modern architecture of Les Champs Libres.\n\nThe afternoon leads you out of the center to Étang d'Apigné via the Vilaine bike path. A perfect route to discover the rural side of Rennes.\n\nEnd your tour at the Roazhon Park stadium, a symbol of local pride, before a leisurely return to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette du Thabor",
+            "tip": "Snacks im schönsten Park der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buvette du Thabor",
+            "tip": "Snackek a város legszebb parkjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvette du Thabor",
+            "tip": "Gustări în cel mai frumos parc al orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette du Thabor",
+            "tip": "Snacks in the city's most beautiful park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal d'Ille-et-Rance",
+            "tip": "Ruhiges Radeln am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ille-et-Rance csatorna",
+            "tip": "Csendes biciklizés a vízparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Ille-et-Rance",
+            "tip": "Pedalat liniștit pe malul apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ille-et-Rance Canal",
+            "tip": "Quiet cycling by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélopark",
+            "tip": "Fahrradservice und Zubehör am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélopark",
+            "tip": "Kerékpár szerviz és kiegészítők a vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélopark",
+            "tip": "Service de biciclete și accesorii la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélopark",
+            "tip": "Bike service and accessories at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'Star le vélo' Verleihsystem.",
+          "Die Wege am Kanal sind sehr sicher.",
+          "Achten Sie auf Fußgänger im Zentrum."
+        ],
+        "hu": [
+          "Használja a 'Star le vélo' bérlőrendszert.",
+          "A csatorna menti utak nagyon biztonságosak.",
+          "Figyeljen a gyalogosokra a központban."
+        ],
+        "ro": [
+          "Utilizați sistemul de închirieri 'Star le vélo'.",
+          "Drumurile de pe canal sunt foarte sigure.",
+          "Atenție la pietoni în centru."
+        ],
+        "en": [
+          "Use the 'Star le vélo' bike-sharing system.",
+          "The canal paths are very safe.",
+          "Watch out for pedestrians in the center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 45.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Rennes",
+            "hu": "Rennes belváros",
+            "ro": "Centrul orașului Rennes",
+            "en": "Rennes City Center"
+          },
+          "coords": [
+            -1.6778,
+            48.1173
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Tiefgarage Place des Lices.",
+            "hu": "Parkoljon a Place des Lices mélygarázsban.",
+            "ro": "Parcați în parcarea subterană Place des Lices.",
+            "en": "Park in the Place des Lices underground garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Bécherel",
+            "hu": "Bécherel",
+            "ro": "Bécherel",
+            "en": "Bécherel"
+          },
+          "coords": [
+            -1.9455,
+            48.2955
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 30.0,
+          "tip_5lang": {
+            "de": "Das berühmte Buchdorf Frankreichs.",
+            "hu": "Franciaország híres könyves faluja.",
+            "ro": "Satul cărților celebru în Franța.",
+            "en": "The famous book village of France."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Combourg",
+            "hu": "Combourg kastélya",
+            "ro": "Castelul Combourg",
+            "en": "Combourg Castle"
+          },
+          "coords": [
+            -1.7515,
+            48.4095
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Wohnort von Chateaubriand.",
+            "hu": "Chateaubriand lakóhelye.",
+            "ro": "Locuința lui Chateaubriand.",
+            "en": "Home of Chateaubriand."
+          }
+        },
+        {
+          "name": {
+            "de": "Forêt de Brocéliande (Paimpont)",
+            "hu": "Brocéliande erdő",
+            "ro": "Pădurea Brocéliande",
+            "en": "Brocéliande Forest"
+          },
+          "coords": [
+            -2.1755,
+            48.0155
+          ],
+          "category": "forest",
+          "arrive_at": "16:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 50.0,
+          "tip_5lang": {
+            "de": "Sitz der Artussage.",
+            "hu": "Az Arthur-mondakör helyszíne.",
+            "ro": "Locul legendei lui Arthur.",
+            "en": "Site of the Arthurian legend."
+          }
+        },
+        {
+          "name": {
+            "de": "Rennes Sunset Panorama",
+            "hu": "Rennes naplemente panoráma",
+            "ro": "Panorama apusului în Rennes",
+            "en": "Rennes Sunset Panorama"
+          },
+          "coords": [
+            -1.6885,
+            48.1255
+          ],
+          "category": "sunset",
+          "arrive_at": "19:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Blick über die Stadt von den Anhöhen.",
+            "hu": "Kilátás a városra a dombokról.",
+            "ro": "Vedere asupra orașului de pe dealuri.",
+            "en": "View over the city from the heights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Schätze rund um Rennes entdecken. Beginnen Sie mit einem kurzen Rundgang im Zentrum, bevor Sie ins charmante Bécherel fahren, das Dorf der Bücher.\n\nMittags erkunden Sie die Romantik im Château de Combourg, der Wiege der französischen Literatur. Die Fahrt durch die bretonische Landschaft ist erholsam.\n\nDer Nachmittag führt Sie in den sagenumwobenen Wald von Brocéliande. Wandern Sie auf den Spuren von Merlin und König Artus zwischen uralten Eichen.\n\nKehren Sie rechtzeitig nach Rennes zurück, um den Sonnenuntergang von einem der Aussichtspunkte im Norden der Stadt zu genießen.",
+        "hu": "Autóval felfedezheti Rennes környékének kincseit. Kezdje egy rövid belvárosi sétával, majd induljon a bájos Bécherel-be, a könyvek falujába.\n\nDélben fedezze fel a romantikát Combourg kastélyában, a francia irodalom bölcsőjében. Az út a breton tájon keresztül pihentető.\n\nA délután a titokzatos Brocéliande erdőbe vezet. Sétáljon Merlin és Arthur király nyomában az ősi tölgyek között.\n\nTérjen vissza időben Rennes-be, hogy élvezze a naplementét a város északi dombjainak egyik kilátópontjáról.",
+        "ro": "Cu mașina puteți descoperi comorile din jurul orașului Rennes. Începeți cu un scurt tur în centru înainte de a merge în fermecătorul Bécherel, satul cărților.\n\nLa prânz, explorați romantismul la Castelul Combourg, leagănul literaturii franceze. Drumul prin peisajul breton este relaxant.\n\nDupă-amiaza vă duce în legendara pădure Brocéliande. Mergeți pe urmele lui Merlin și ale regelui Arthur printre stejari seculari.\n\nÎntoarceți-vă la timp în Rennes pentru a vă bucura de apusul de soare de la unul dintre punctele de belvedere din nordul orașului.",
+        "en": "By car, you can discover the treasures around Rennes. Start with a quick tour of the center before heading to charming Bécherel, the village of books.\n\nAt midday, explore romanticism at the Château de Combourg, the cradle of French literature. The drive through the Breton countryside is relaxing.\n\nThe afternoon leads you to the legendary Brocéliande Forest. Walk in the footsteps of Merlin and King Arthur among ancient oaks.\n\nReturn to Rennes in time to enjoy the sunset from one of the viewpoints in the north of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge de Brocéliande",
+            "tip": "Rustikale bretonische Küche im Wald."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge de Brocéliande",
+            "tip": "Rusztikus breton konyha az erdőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge de Brocéliande",
+            "tip": "Bucătărie bretonă rustică în pădure."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge de Brocéliande",
+            "tip": "Rustic Breton cuisine in the forest."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac au Duc",
+            "tip": "Stiller See für eine Pause.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac au Duc",
+            "tip": "Csendes tó egy pihenőhöz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lac au Duc",
+            "tip": "Lac liniștit pentru o pauză.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac au Duc",
+            "tip": "Quiet lake for a break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bécherel Antiquariate",
+            "tip": "Seltene Bücher und Antiquitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bécherel antikváriumok",
+            "tip": "Ritka könyvek és régiségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anticariatele din Bécherel",
+            "tip": "Cărți rare și antichități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bécherel Bookshops",
+            "tip": "Rare books and antiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Zentrum in Parkhäusern.",
+          "Die Landstraßen sind gut ausgebaut.",
+          "In Brocéliande gibt es viele Wanderwege."
+        ],
+        "hu": [
+          "A központban parkolóházakat használjon.",
+          "Az országutak jól kiépítettek.",
+          "Brocéliande-ban sok a túraútvonal."
+        ],
+        "ro": [
+          "Parcați în parcări etajate în centru.",
+          "Drumurile naționale sunt bine întreținute.",
+          "În Brocéliande sunt multe trasee de drumeție."
+        ],
+        "en": [
+          "Use parking garages in the center.",
+          "The country roads are well-maintained.",
+          "There are many hiking trails in Brocéliande."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Rennes",
+            "hu": "Rennes vasútállomás",
+            "ro": "Gara din Rennes",
+            "en": "Rennes Railway Station"
+          },
+          "coords": [
+            -1.6725,
+            48.1035
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein architektonisches Highlight der Moderne.",
+            "hu": "A modern építészet egyik kiemelkedő darabja.",
+            "ro": "Un punct de reper al arhitecturii moderne.",
+            "en": "An architectural highlight of modernity."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Champs Libres",
+            "hu": "Les Champs Libres",
+            "ro": "Les Champs Libres",
+            "en": "Les Champs Libres"
+          },
+          "coords": [
+            -1.6745,
+            48.1055
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kulturzentrum mit Bibliothek und Museum.",
+            "hu": "Kulturális központ könyvtárral és múzeummal.",
+            "ro": "Centru cultural cu bibliotecă și muzeu.",
+            "en": "Cultural center with library and museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Mairie",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "City Hall Square"
+          },
+          "coords": [
+            -1.6778,
+            48.1114
+          ],
+          "category": "square",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Sehen Sie die Oper gegenüber dem Rathaus.",
+            "hu": "Nézze meg az Operát a városházával szemben.",
+            "ro": "Vedeți Opera vis-à-vis de primărie.",
+            "en": "See the Opera opposite the City Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Sainte-Anne",
+            "hu": "Szent Anna tér",
+            "ro": "Piața Sfânta Ana",
+            "en": "Place Sainte-Anne"
+          },
+          "coords": [
+            -1.6805,
+            48.1145
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Herz des studentischen Lebens.",
+            "hu": "Az egyetemi élet szíve.",
+            "ro": "Inima vieții studențești.",
+            "en": "Heart of student life."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomusée de la Bintinais",
+            "hu": "Bintinais ökomúzeum",
+            "ro": "Ecomuzeul Bintinais",
+            "en": "Ecomuseum of La Bintinais"
+          },
+          "coords": [
+            -1.6655,
+            48.0755
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über das ländliche Leben.",
+            "hu": "Tudjon meg mindent a vidéki életről.",
+            "ro": "Aflați totul despre viața rurală.",
+            "en": "Learn everything about rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Bréquigny",
+            "hu": "Bréquigny park",
+            "ro": "Parcul Bréquigny",
+            "en": "Bréquigny Park"
+          },
+          "coords": [
+            -1.6855,
+            48.0855
+          ],
+          "category": "park",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein moderner Stadtpark im Süden.",
+            "hu": "Egy modern városi park délen.",
+            "ro": "Un parc urban modern în sud.",
+            "en": "A modern city park in the south."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Metrosystem von Rennes. Beginnen Sie am hochmodernen Bahnhof und spazieren Sie zu den Champs Libres für eine Dosis Kultur.\n\nMittags bringt Sie die Metro A schnell zum Place de la Mairie. Bewundern Sie die Architektur, bevor Sie zum historischen Zentrum bei Sainte-Anne weiterfahren.\n\nDer Nachmittag führt Sie in den Süden zum Ecomusée de la Bintinais (mit Bus oder Metro), um die Geschichte der bretonischen Landwirtschaft zu entdecken.\n\nBeenden Sie Ihren Tag im Parc de Bréquigny, bevor Sie bequem mit dem Bus zurück ins lebhafte Stadtzentrum fahren.",
+        "hu": "Használja Rennes hatékony metrórendszerét. Kezdjen a szupermodern vasútállomáson, majd sétáljon át a Champs Libres-hez egy kis kultúráért.\n\nDélben az A metró gyorsan elviszi a Városháza térre. Csodálja meg az építészetet, mielőtt továbbmenne a Szent Anna tér történelmi központjába.\n\nA délután délre vezet a Bintinais ökomúzeumhoz (busszal vagy metróval), hogy felfedezze a breton mezőgazdaság történetét.\n\nZárja a napot a Bréquigny parkban, mielőtt kényelmesen visszabuszozna a nyüzsgő városközpontba.",
+        "ro": "Utilizați sistemul eficient de metrou din Rennes. Începeți la gara ultramodernă și mergeți la Champs Libres pentru o doză de cultură.\n\nLa prânz, metroul A vă duce rapid la Piața Primăriei. Admirați arhitectura înainte de a continua spre centrul istoric de la Sainte-Anne.\n\nDupă-amiaza vă duce în sud la Ecomuzeul Bintinais (cu autobuzul sau metroul) pentru a descoperi istoria agriculturii bretone.\n\nÎncheiați ziua în Parcul Bréquigny înainte de a vă întoarce confortabil cu autobuzul în centrul plin de viață al orașului.",
+        "en": "Use Rennes' efficient metro system. Start at the ultra-modern railway station and walk to Champs Libres for a dose of culture.\n\nAt midday, metro line A quickly takes you to City Hall Square. Admire the architecture before heading to the historical center at Sainte-Anne.\n\nThe afternoon takes you south to the Ecomuseum of La Bintinais (by bus or metro) to discover the history of Breton agriculture.\n\nEnd your day in Bréquigny Park before taking a convenient bus back to the lively city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 4B",
+            "tip": "Restaurant im Kulturzentrum Champs Libres."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 4B",
+            "tip": "Étterem a Champs Libres kulturális központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 4B",
+            "tip": "Restaurant în centrul cultural Champs Libres."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 4B",
+            "tip": "Restaurant in the Champs Libres cultural center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek der Champs Libres",
+            "tip": "Stille mit Blick auf die Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Champs Libres könyvtár",
+            "tip": "Csend és kilátás a városra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Champs Libres",
+            "tip": "Liniște cu vedere la oraș.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Champs Libres Library",
+            "tip": "Quiet with a view over the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Colombia Einkaufszentrum",
+            "tip": "Großes Einkaufszentrum in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colombia bevásárlóközpont",
+            "tip": "Nagy pláza az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Colombia",
+            "tip": "Centru comercial mare lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Colombia Shopping Center",
+            "tip": "Large mall near the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Bus und Metro.",
+          "Rennes hat zwei Metrolinien (A und B).",
+          "Die Metro ist vollautomatisch."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra és metróra.",
+          "Rennes-nek két metróvonala van (A és B).",
+          "A metró teljesen automata."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru autobuz și metrou.",
+          "Rennes are două linii de metrou (A și B).",
+          "Metroul este complet automat."
+        ],
+        "en": [
+          "Buy a day pass for bus and metro.",
+          "Rennes has two metro lines (A and B).",
+          "The metro is fully automatic."
+        ]
+      }
+    }
+  }
+}

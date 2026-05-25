@@ -1,0 +1,906 @@
+{
+  "city_id": "ile-de-re",
+  "anchor": {
+    "name": "Île de Ré",
+    "coords": [
+      -1.4017,
+      46.2014
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fortifications de Saint-Martin-de-Ré",
+          "coords": [
+            -1.364,
+            46.205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie auf der Stadtmauer spazieren für die beste Aussicht.",
+            "hu": "Sétáljon végig a városfalakon a legjobb kilátásért.",
+            "ro": "Mergeți pe zidurile cetății pentru cea mai bună priveliște.",
+            "en": "Walk along the ramparts for the best panoramic views."
+          }
+        },
+        {
+          "name": "Port de Saint-Martin",
+          "coords": [
+            -1.3675,
+            46.2035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Esel in ihren berühmten Hosen.",
+            "hu": "Nézze meg a híres nadrágos szamarakat a közelben.",
+            "ro": "Vedeți celebrii măgăriți în pantaloni din apropiere.",
+            "en": "Spot the famous donkeys in trousers nearby."
+          }
+        },
+        {
+          "name": "Marché de Saint-Martin",
+          "coords": [
+            -1.3685,
+            46.2025
+          ],
+          "category": "shopping",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokalen Austern direkt am Stand.",
+            "hu": "Kóstolja meg a helyi osztrigát közvetlenül az árusnál.",
+            "ro": "Gustați stridiile locale direct la standul din piață.",
+            "en": "Taste local oysters directly at the market stalls."
+          }
+        },
+        {
+          "name": "Clocher d'Ars-en-Ré",
+          "coords": [
+            -1.516,
+            46.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der schwarz-weiße Turm diente früher als Seemarke.",
+            "hu": "A fekete-fehér torony egykor tengeri jelzőként szolgált.",
+            "ro": "Turnul alb-negru a servit drept reper pentru marinari.",
+            "en": "The black and white spire once served as a sea mark."
+          }
+        },
+        {
+          "name": "Plage de la Cible",
+          "coords": [
+            -1.355,
+            46.2015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Strand in Gehweite des Zentrums.",
+            "hu": "Csendes strand sétatávolságra a központtól.",
+            "ro": "O plajă liniștită la mică distanță de centrul orașului.",
+            "en": "A peaceful beach within walking distance of the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der UNESCO-geschützten Zitadelle von Saint-Martin. Schlendern Sie durch den charmanten Hafen und genießen Sie die maritime Atmosphäre. Der Vormittag ist perfekt für den lokalen Markt, um regionale Köstlichkeiten zu entdecken. Nach einem kurzen Transfer oder längeren Spaziergang bewundern Sie den ikonischen Kirchturm von Ars. Beenden Sie den Tag entspannt am Strand von La Cible, während die Sonne langsam untergeht.",
+        "hu": "Kezdje a napot Saint-Martin UNESCO által védett citadellájánál. Sétáljon végig a bájos kikötőben, és szívja be a sós tengeri levegőt. A délelőtt tökéletes a helyi piac felfedezésére és a regionális finomságok megkóstolására. Egy rövid utazás után csodálja meg Ars ikonikus, fekete-fehér templomtornyát. A napot pihenéssel zárja a La Cible strandon, élvezve a nyugodt hullámzást és a lemenő nap fényeit.",
+        "ro": "Începeți ziua la citadela din Saint-Martin, inclusă în patrimoniul UNESCO. Plimbați-vă prin portul fermecător și bucurați-vă de atmosfera maritimă. Dimineața este ideală pentru a explora piața locală și deliciile regionale. După un scurt transfer, admirați clopotnița iconică din Ars-en-Ré. Încheiați ziua relaxându-vă pe plaja La Cible, în timp ce soarele coboară spre linia orizontului.",
+        "en": "Start your day at the UNESCO-listed citadel of Saint-Martin. Stroll through the charming harbor and soak up the maritime atmosphere. The morning is perfect for exploring the local market and regional delicacies. After a short transfer, admire the iconic black and white spire of Ars-en-Ré. End the day relaxing at La Cible beach, enjoying the gentle waves and the golden hour light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Huîtres de l'Île de Ré",
+            "tip": "Frische Austern direkt von den Salzmatten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Île de Ré osztriga",
+            "tip": "Friss osztriga közvetlenül a sólepárlók mellől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii de Île de Ré",
+            "tip": "Stridii proaspete direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Île de Ré Oysters",
+            "tip": "Fresh oysters directly from the local salt marshes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadellen-Gärten",
+            "tip": "Ruhiger Rückzugsort hinter den Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella kertjei",
+            "tip": "Csendes menedék a falak mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Cetății",
+            "tip": "Un refugiu liniștit în spatele zidurilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Gardens",
+            "tip": "Quiet retreat behind the stone walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Das berühmte handgeschöpfte Meersalz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "A híres, kézzel gyűjtött tengeri sóvirág."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Faimoasa sare de mare recoltată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "The famous hand-harvested sea salt."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie den Markt vor 13 Uhr.",
+          "Achten Sie auf die Gezeiten für den Strandbesuch."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A piacot délelőtt, 13 óra előtt látogassa meg.",
+          "Figyelje az árapályt a strandolás tervezésekor."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Vizitați piața înainte de ora 13:00.",
+          "Verificați mareea înainte de a merge la plajă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the market before 1:00 PM.",
+          "Check the tides before planning your beach time."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Abbaye des Châteliers",
+          "coords": [
+            -1.2965,
+            46.175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Ruinen sind im Morgenlicht am fotogensten.",
+            "hu": "A romok reggeli fényben a legszebbek a fotózáshoz.",
+            "ro": "Ruinele sunt cele mai fotogenice în lumina dimineții.",
+            "en": "The ruins are most photogenic in the morning light."
+          }
+        },
+        {
+          "name": "Port de Saint-Martin",
+          "coords": [
+            -1.3675,
+            46.2035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Kaffeepause am Wasser.",
+            "hu": "Tökéletes hely egy kávészünethez a vízparton.",
+            "ro": "Locul perfect pentru o pauză de cafea pe malul apei.",
+            "en": "Perfect spot for a coffee break by the water."
+          }
+        },
+        {
+          "name": "Écomusée du Marais Salant",
+          "coords": [
+            -1.4885,
+            46.2195
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie, wie das berühmte Salz gewonnen wird.",
+            "hu": "Ismerje meg, hogyan nyerik ki a híres sót.",
+            "ro": "Aflați cum este extrasă faimoasa sare.",
+            "en": "Learn how the famous salt is extracted."
+          }
+        },
+        {
+          "name": "Phare des Baleines",
+          "coords": [
+            -1.562,
+            46.2465
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die 257 Stufen für einen Panoramablick hinauf.",
+            "hu": "Mássza meg a 257 lépcsőfokot a panorámáért.",
+            "ro": "Urcați cele 257 de trepte pentru o vedere panoramică.",
+            "en": "Climb the 257 steps for a panoramic view."
+          }
+        },
+        {
+          "name": "Plage de la Conche des Baleines",
+          "coords": [
+            -1.545,
+            46.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der schönste und wildeste Strand der Insel.",
+            "hu": "A sziget legszebb és legvadabb strandja.",
+            "ro": "Cea mai frumoasă și sălbatică plajă de pe insulă.",
+            "en": "The most beautiful and wild beach on the island."
+          }
+        },
+        {
+          "name": "Réserve de Lilleau des Niges",
+          "coords": [
+            -1.515,
+            46.235
+          ],
+          "category": "natural features",
+          "arrive_at": "18:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie Zugvögel in den Salzwiesen.",
+            "hu": "Figyelje meg a költöző madarakat a sós mocsaraknál.",
+            "ro": "Observați păsările migratoare în mlaștinile sărate.",
+            "en": "Observe migratory birds in the salt marshes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Île de Ré ist ein Paradies für Radfahrer. Starten Sie bei den majestätischen Ruinen der Abtei Châteliers und radeln Sie entlang der Küste nach Saint-Martin. Nach einem Mittagessen am Hafen führt der Weg durch die faszinierenden Salzmatten zum Ökomuseum. Das Highlight ist der Leuchtturm Phare des Baleines an der Westspitze. Entspannen Sie kurz am wilden Conche-Strand, bevor Sie die reiche Vogelwelt im Naturschutzgebiet erkunden.",
+        "hu": "Az Île de Ré a kerékpárosok paradicsoma. Kezdje a Châteliers apátság fenséges romjainál, majd tekerjen a part mentén Saint-Martinbe. Egy kikötői ebéd után az út a lenyűgöző sólepárlókon keresztül vezet az ökomúzeumhoz. A nap csúcspontja a nyugati csücsökben található Phare des Baleines világítótorony. Pihenjen meg a vadregényes Conche strandon, mielőtt felfedezné a természetvédelmi terület gazdag madárvilágát.",
+        "ro": "Île de Ré este un paradis pentru bicicliști. Începeți la ruinele maiestuoase ale abației Châteliers, apoi pedalați de-a lungul coastei spre Saint-Martin. După un prânz în port, drumul vă poartă prin fascinantele mlaștini sărate către ecomuzeu. Punctul culminant este farul Baleines din vârful vestic. Relaxați-vă pe plaja sălbatică Conche înainte de a explora fauna bogată din rezervația naturală.",
+        "en": "Île de Ré is a cyclist's paradise. Start at the majestic ruins of Châteliers Abbey, then pedal along the coast towards Saint-Martin. After lunch at the harbor, the path leads through the fascinating salt marshes to the ecomuseum. The highlight is the Phare des Baleines lighthouse at the western tip. Relax briefly at the wild Conche beach before exploring the rich birdlife in the nature reserve."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sel de l'Île de Ré",
+            "tip": "Salziges Karamell ist ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Île de Ré só",
+            "tip": "A sós karamell kihagyhatatlan helyi csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare de Île de Ré",
+            "tip": "Caramelul sărat este un deliciu local obligatoriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Île de Ré Salt",
+            "tip": "Salted caramel is a must-try local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marais Salants",
+            "tip": "Stille Wege durch die Salzfelder.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sólepárlók",
+            "tip": "Csendes utak a sós mezők között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mlaștinile sărate",
+            "tip": "Poteci liniștite printre câmpurile de sare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt Marshes",
+            "tip": "Quiet paths through the salt fields.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Atelier du Sel",
+            "tip": "Handwerkliches Salz und Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Atelier du Sel",
+            "tip": "Kézműves sótermékek és ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Atelier du Sel",
+            "tip": "Sare artizanală și cadouri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Atelier du Sel",
+            "tip": "Artisanal salt and local gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad mit Korb für Einkäufe.",
+          "Die Insel ist sehr flach, ideal für alle Fitnessstufen.",
+          "Achten Sie auf den Wind, er kann auf dem Rückweg stark sein."
+        ],
+        "hu": [
+          "Béreljen kosaras kerékpárt a vásárláshoz.",
+          "A sziget nagyon sík, ideális minden edzettségi szinthez.",
+          "Figyeljen a szélre, visszafelé erős lehet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă cu coș pentru cumpărături.",
+          "Insula este foarte plată, ideală pentru toate nivelurile.",
+          "Atenție la vânt, poate fi puternic la întoarcere."
+        ],
+        "en": [
+          "Rent a bike with a basket for your market finds.",
+          "The island is very flat, ideal for all fitness levels.",
+          "Watch the wind direction; it can be strong on the way back."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Abbaye des Châteliers",
+          "coords": [
+            -1.2965,
+            46.175
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt neben der Ruine.",
+            "hu": "Ingyenes parkoló közvetlenül a romok mellett.",
+            "ro": "Parcare gratuită chiar lângă ruine.",
+            "en": "Free parking available right next to the ruins."
+          }
+        },
+        {
+          "name": "Port de Saint-Martin",
+          "coords": [
+            -1.3675,
+            46.2035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz P1 außerhalb der Mauern.",
+            "hu": "Használja a falakon kívüli P1 parkolót.",
+            "ro": "Folosiți parcarea P1 din afara zidurilor.",
+            "en": "Use the P1 parking lot outside the city walls."
+          }
+        },
+        {
+          "name": "Fortifications de Saint-Martin",
+          "coords": [
+            -1.364,
+            46.205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum im Inneren der Zitadelle.",
+            "hu": "Látogassa meg a citadellán belüli múzeumot.",
+            "ro": "Vizitați muzeul din interiorul cetății.",
+            "en": "Visit the museum located inside the citadel."
+          }
+        },
+        {
+          "name": "Clocher d'Ars-en-Ré",
+          "coords": [
+            -1.516,
+            46.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Eines der 'Plus Beaux Villages de France'.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the 'Most Beautiful Villages of France'."
+          }
+        },
+        {
+          "name": "Écomusée du Marais Salant",
+          "coords": [
+            -1.4885,
+            46.2195
+          ],
+          "category": "museums",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kaufen Sie hier originelles Salz-Souvenirs.",
+            "hu": "Itt vásárolhat eredeti sós ajándéktárgyakat.",
+            "ro": "Cumpărați suveniruri originale cu sare de aici.",
+            "en": "Buy original salt souvenirs here."
+          }
+        },
+        {
+          "name": "Phare des Baleines",
+          "coords": [
+            -1.562,
+            46.2465
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Es gibt auch einen kleineren alten Turm zu sehen.",
+            "hu": "Egy kisebb régi torony is megtekinthető.",
+            "ro": "Există și un turn vechi mai mic de vizitat.",
+            "en": "There is also a smaller old tower to see."
+          }
+        },
+        {
+          "name": "Plage de la Conche",
+          "coords": [
+            -1.545,
+            46.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Perfekt für den Sonnenuntergang vor der Rückfahrt.",
+            "hu": "Tökéletes naplementéhez a visszautazás előtt.",
+            "ro": "Perfect pentru apus înainte de drumul de întoarcere.",
+            "en": "Perfect for sunset before the drive back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem alle Ecken der Insel. Starten Sie bei der malerischen Abtei Châteliers und fahren Sie weiter ins Herz von Saint-Martin. Erkunden Sie die Festungsanlagen von Vauban, bevor Sie das charmante Dorf Ars-en-Ré besuchen. Tauchen Sie im Ökomuseum in die Tradition der Salzgewinnung ein. Der krönende Abschluss ist der Phare des Baleines mit seinem weiten Blick über den Ozean und ein entspannter Abend am Conche-Strand.",
+        "hu": "Autóval kényelmesen elérheti a sziget minden szegletét. Kezdje a festői Châteliers apátságnál, majd haladjon tovább Saint-Martin szívébe. Fedezze fel Vauban erődítményeit, mielőtt ellátogatna a bájos Ars-en-Ré falujába. Merüljön el a sókitermelés hagyományaiban az ökomúzeumban. A napot a Phare des Baleines koronázza meg az óceánra nyíló pazar kilátással, majd egy pihentető este a Conche strandon.",
+        "ro": "Cu mașina puteți ajunge confortabil în toate colțurile insulei. Începeți la pitoreasca abație Châteliers și continuați spre inima orașului Saint-Martin. Explorați fortificațiile lui Vauban înainte de a vizita fermecătorul sat Ars-en-Ré. Descoperiți tradiția recoltării sării la ecomuzeu. Punctul culminant este farul Baleines, cu vederea sa vastă peste ocean, urmat de o seară relaxantă pe plaja Conche.",
+        "en": "By car, you can easily reach every corner of the island. Start at the picturesque Châteliers Abbey and drive further into the heart of Saint-Martin. Explore Vauban's fortifications before visiting the charming village of Ars-en-Ré. Immerse yourself in the tradition of salt harvesting at the ecomuseum. The day concludes at Phare des Baleines with its wide ocean views and a relaxed evening at Conche beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules de Filière",
+            "tip": "Miesmuscheln aus lokaler Zucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules de Filière",
+            "tip": "Helyi tenyésztésű fekete kagyló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules de Filière",
+            "tip": "Midi proaspete din crescătorii locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules de Filière",
+            "tip": "Local rope-grown mussels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe de Groin",
+            "tip": "Ruhiger Aussichtspunkt im Norden.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe de Groin",
+            "tip": "Csendes kilátópont az északi részen.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe de Groin",
+            "tip": "Punct de observație liniștit în nord.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe de Groin",
+            "tip": "Quiet viewpoint in the north.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vins de l'Île de Ré",
+            "tip": "Lokale Weine und Cognacs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Île de Ré borok",
+            "tip": "Helyi borok és konyakok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri de Île de Ré",
+            "tip": "Vinuri și coniacuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Île de Ré Wines",
+            "tip": "Local wines and cognacs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Brückenmaut variiert je nach Saison.",
+          "Parkplätze in Saint-Martin sind im Sommer knapp.",
+          "Nutzen Sie die Küstenstraße für bessere Aussichten."
+        ],
+        "hu": [
+          "A hídvám a szezontól függően változik.",
+          "Saint-Martinben nyáron nehéz parkolót találni.",
+          "Használja a parti utat a szebb kilátásért."
+        ],
+        "ro": [
+          "Taxa de pod variază în funcție de sezon.",
+          "Parcarea în Saint-Martin este limitată vara.",
+          "Folosiți drumul de coastă pentru vederi mai bune."
+        ],
+        "en": [
+          "The bridge toll varies by season.",
+          "Parking in Saint-Martin is scarce in summer.",
+          "Take the coastal road for better scenic views."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Saint-Martin-de-Ré (Port)",
+          "coords": [
+            -1.3675,
+            46.2035
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt für alle Buslinien (Linie 3).",
+            "hu": "Minden buszjárat csomópontja (3-as vonal).",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Hub for all bus lines (Line 3)."
+          }
+        },
+        {
+          "name": "La Couarde-sur-Mer",
+          "coords": [
+            -1.4285,
+            46.195
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein Dorf mit wunderschönen Sandstränden.",
+            "hu": "Falu gyönyörű homokos strandokkal.",
+            "ro": "Un sat cu plaje de nisip superbe.",
+            "en": "A village with beautiful sandy beaches."
+          }
+        },
+        {
+          "name": "Ars-en-Ré (Village)",
+          "coords": [
+            -1.516,
+            46.2085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kunstgalerien im Dorfzentrum.",
+            "hu": "Látogassa meg a művészeti galériákat a faluközpontban.",
+            "ro": "Vizitați galeriile de artă din centrul satului.",
+            "en": "Visit the art galleries in the village center."
+          }
+        },
+        {
+          "name": "Phare des Baleines",
+          "coords": [
+            -1.562,
+            46.2465
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Die Endstation der Linie 3 an der Westküste.",
+            "hu": "A 3-as buszvonal végállomása a nyugati parton.",
+            "ro": "Capătul de linie al rutei 3 pe coasta de vest.",
+            "en": "The terminus of Line 3 on the west coast."
+          }
+        },
+        {
+          "name": "Plage de la Conche",
+          "coords": [
+            -1.545,
+            46.24
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Leuchtturm zum Strand.",
+            "hu": "Rövid séta a világítótoronytól a strandig.",
+            "ro": "O scurtă plimbare de la far până la plajă.",
+            "en": "A short walk from the lighthouse to the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den bequemen Bus 'Ré Réjoui' (Linie 3), um die Insel zu erkunden. Starten Sie im historischen Saint-Martin, bevor Sie nach La Couarde weiterfahren, um die Strände zu genießen. Der Bus bringt Sie direkt ins malerische Ars-en-Ré mit seinen weißen Häusern. Zum Abschluss erreichen Sie die Westspitze beim Phare des Baleines. Genießen Sie die Aussicht und den wilden Strand, bevor Sie mit dem Abendbus zurückfahren.",
+        "hu": "Használja a kényelmes 'Ré Réjoui' buszt (3-as vonal) a sziget felfedezéséhez. Kezdjen a történelmi Saint-Martinben, majd utazzon tovább La Couarde-ba a strandokért. A busz közvetlenül a festői, fehér házas Ars-en-Ré-be repíti. Zárásként érje el a nyugati csücsökben lévő Phare des Baleines-t. Élvezze a kilátást és a vadpartot, mielőtt visszaszállna az esti buszra.",
+        "ro": "Folosiți autobuzul convenabil 'Ré Réjoui' (Linia 3) pentru a explora insula. Începeți în istoricul Saint-Martin, apoi mergeți spre La Couarde pentru plajele sale. Autobuzul vă duce direct în pitorescul Ars-en-Ré cu casele sale albe. La final, ajungeți în vârful vestic la farul Baleines. Bucurați-vă de priveliște și de plaja sălbatică înainte de a lua autobuzul de seară înapoi.",
+        "en": "Use the convenient 'Ré Réjoui' bus (Line 3) to explore the island. Start in historic Saint-Martin before heading to La Couarde for its beaches. The bus takes you directly to the picturesque white houses of Ars-en-Ré. To finish, reach the western tip at Phare des Baleines. Enjoy the views and the wild beach before catching the evening bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Galettes Charentaises",
+            "tip": "Traditionelle Butterkekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galettes Charentaises",
+            "tip": "Hagyományos vajas sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galettes Charentaises",
+            "tip": "Biscuiți tradiționali cu unt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galettes Charentaises",
+            "tip": "Traditional butter biscuits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "La Couarde Dünen",
+            "tip": "Ruhige Plätze zwischen den Dünen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Couarde dűnék",
+            "tip": "Csendes helyek a dűnék között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dunele din La Couarde",
+            "tip": "Locuri liniștite printre dune.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "La Couarde Dunes",
+            "tip": "Quiet spots among the dunes.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Savonnerie de l'île de Ré",
+            "tip": "Handgemachte Seifen mit Eselmilch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savonnerie de l'île de Ré",
+            "tip": "Kézműves szappanok szamártejjel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Savonnerie de l'île de Ré",
+            "tip": "Săpunuri artizanale cu lapte de măgăriță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Savonnerie de l'île de Ré",
+            "tip": "Handmade soaps with donkey milk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket beim Fahrer.",
+          "Die Busse fahren im Sommer alle 30-60 Minuten.",
+          "Prüfen Sie den Fahrplan für die letzte Rückfahrt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a sofőrnél.",
+          "A buszok nyáron 30-60 percenként járnak.",
+          "Ellenőrizze az utolsó visszajárat menetrendjét."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi de la șofer.",
+          "Autobuzele circulă la fiecare 30-60 de minute vara.",
+          "Verificați programul pentru ultima cursă de întoarcere."
+        ],
+        "en": [
+          "Buy a day ticket from the driver.",
+          "Buses run every 30-60 minutes in summer.",
+          "Check the timetable for the last return trip."
+        ]
+      }
+    }
+  }
+}

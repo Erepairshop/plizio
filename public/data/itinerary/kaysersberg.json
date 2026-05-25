@@ -1,0 +1,1067 @@
+{
+  "city_id": "kaysersberg",
+  "anchor": {
+    "name": "Kaysersberg",
+    "coords": [
+      7.2664,
+      48.1394
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "City Hall Square"
+          },
+          "coords": [
+            7.2628,
+            48.139
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Fassade des Rathauses.",
+            "hu": "Csodálja meg a városháza reneszánsz homlokzatát.",
+            "ro": "Admirați fațada renascentistă a primăriei.",
+            "en": "Admire the Renaissance facade of the City Hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            7.2635,
+            48.1388
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das prächtige Retabel von Hans Bongart an.",
+            "hu": "Nézze meg Hans Bongart pompás szárnyasoltárát.",
+            "ro": "Vedeți magnificul retablu realizat de Hans Bongart.",
+            "en": "See the magnificent retable by Hans Bongart."
+          }
+        },
+        {
+          "name": {
+            "de": "Albert Schweitzer Museum",
+            "hu": "Albert Schweitzer Múzeum",
+            "ro": "Muzeul Albert Schweitzer",
+            "en": "Albert Schweitzer Museum"
+          },
+          "coords": [
+            7.261,
+            48.1396
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben des Friedensnobelpreisträgers.",
+            "hu": "Ismerje meg a Nobel-békedíjas orvos életútját.",
+            "ro": "Aflați mai multe despre viața laureatului Premiului Nobel pentru Pace.",
+            "en": "Learn about the life of the Nobel Peace Prize winner."
+          }
+        },
+        {
+          "name": {
+            "de": "Befestigte Brücke",
+            "hu": "Erődített híd",
+            "ro": "Podul Fortificat",
+            "en": "Fortified Bridge"
+          },
+          "coords": [
+            7.2618,
+            48.1394
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit Blick auf den Fluss Weiss.",
+            "hu": "Tökéletes hely egy ebédhez a Weiss-folyóra néző kilátással.",
+            "ro": "Locul perfect pentru un prânz cu vedere la râul Weiss.",
+            "en": "Perfect spot for lunch with a view of the Weiss river."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kaysersberg",
+            "hu": "Kaysersberg vára",
+            "ro": "Castelul Kaysersberg",
+            "en": "Kaysersberg Castle"
+          },
+          "coords": [
+            7.2625,
+            48.141
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den Turm für eine 360-Grad-Aussicht.",
+            "hu": "Másszon fel a toronyba a 360 fokos panorámáért.",
+            "ro": "Urcați în turn pentru o vedere de 360 de grade.",
+            "en": "Climb the tower for a 360-degree panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Konstant-Say-Haus",
+            "hu": "Constant Say-ház",
+            "ro": "Casa Constant Say",
+            "en": "Constant Say House"
+          },
+          "coords": [
+            7.262,
+            48.1392
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eines der schönsten Fachwerkhäuser der Stadt.",
+            "hu": "A város egyik legszebb gerendavázas háza.",
+            "ro": "Una dintre cele mai frumoase case cu paiantă din oraș.",
+            "en": "One of the most beautiful half-timbered houses in town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Kaysersberg auf dem Rathausplatz, umgeben von prächtigen Renaissance-Gebäuden. Ein kurzer Spaziergang führt Sie zur Heilig-Kreuz-Kirche mit ihrem berühmten Altarbild, bevor Sie in das Leben von Albert Schweitzer in seinem Geburtshaus eintauchen.\n\nMittags überqueren Sie die einzigartige befestigte Brücke aus dem 15. Jahrhundert. Genießen Sie ein traditionelles elsässisches Mittagessen in einem der Weinstuben am Ufer der Weiss, während Sie die mittelalterliche Atmosphäre der Stadt aufsaugen.\n\nAm Nachmittag fordern Sie sich mit dem Aufstieg zur Schlossruine heraus. Der Weg durch die Weinberge ist belohnt mit einem atemberaubenden Blick über das Tal und die Dächer der Altstadt. Es ist der ideale Ort, um die Geographie der elsässischen Weinstraße zu verstehen.\n\nBeenden Sie den Tag mit einem gemütlichen Bummel durch die gepflasterten Gassen der Unterstadt. Bewundern Sie die blumengeschmückten Fachwerkhäuser wie das Constant-Say-Haus und kaufen Sie lokale Köstlichkeiten, bevor die Sonne hinter den Vogesen untergeht.",
+        "hu": "Kezdje a reggelt Kaysersberg szívében, a Városháza téren, amelyet pompás reneszánsz épületek vesznek körül. Egy rövid séta elvezeti a Szent Kereszt-templomhoz és annak híres oltárképéhez, majd merüljön el Albert Schweitzer életében szülőházának falai között.\n\nDélben keljen át az egyedülálló, 15. századi erődített hídon. Élvezze a hagyományos elzászi ebédet a Weiss-folyó partján fekvő borozók egyikében, miközben magába szívja a város középkori hangulatát.\n\nDélután hívja ki magát a várromhoz vezető emelkedővel. A szőlőültetvényeken át vezető utat lélegzetelállító kilátás koronázza meg a völgyre és az óváros tetőire. Ez az ideális hely az elzászi borút földrajzának megértéséhez.\n\nA napot zárja egy kellemes sétával az alsóváros macskaköves utcáin. Csodálja meg a virágos gerendavázas házakat, mint például a Constant Say-házat, és vásároljon helyi finomságokat, mielőtt a nap lenyugszik a Vogézek mögött.",
+        "ro": "Începeți dimineața în inima orașului Kaysersberg, în Piața Primăriei, înconjurată de clădiri renascentiste magnifice. O scurtă plimbare vă duce la Biserica Sfânta Cruce și faimosul său retablu, apoi cufundați-vă în viața lui Albert Schweitzer în casa sa natală.\n\nLa prânz, traversați podul fortificat unic din secolul al XV-lea. Bucurați-vă de un prânz tradițional alsacian într-una dintre cramele de pe malul râului Weiss, în timp ce absorbiți atmosfera medievală a orașului.\n\nDupă-amiaza, provocați-vă cu urcarea către ruinele castelului. Drumul prin podgorii este răsplătit cu o vedere uluitoare asupra văii și a acoperișurilor orașului vechi. Este locul ideal pentru a înțelege geografia rutei vinului din Alsacia.\n\nÎncheiați ziua cu o plimbare relaxantă pe străzile pavate ale orașului de jos. Admirați casele cu paiantă pline de flori, cum ar fi Casa Constant Say, și cumpărați delicii locale înainte ca soarele să apună după Munții Vosgi.",
+        "en": "Start your morning in the heart of Kaysersberg at the City Hall Square, surrounded by magnificent Renaissance buildings. A short walk leads to the Sainte-Croix Church and its famous altarpiece, before immersing yourself in the life of Albert Schweitzer in his birthplace.\n\nAt midday, cross the unique 15th-century fortified bridge. Enjoy a traditional Alsatian lunch in one of the winstubs on the banks of the Weiss river while soaking up the medieval atmosphere of the town.\n\nIn the afternoon, challenge yourself with the climb to the castle ruins. The path through the vineyards is rewarded with a breathtaking view over the valley and the rooftops of the old town. It is the ideal place to understand the geography of the Alsatian Wine Route.\n\nEnd the day with a leisurely stroll through the cobbled streets of the lower town. Admire the flower-filled half-timbered houses like the Constant Say House and shop for local delicacies before the sun sets behind the Vosges mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flammekueche",
+            "tip": "Probieren Sie den traditionellen Flammkuchen im Caveau du Schloss."
+          },
+          {
+            "name": "Pinot Gris",
+            "tip": "Verkostung lokaler Weißweine in einer historischen Weinstube."
+          },
+          {
+            "name": "Kougelhopf",
+            "tip": "Holen Sie sich diesen typischen Napfkuchen in einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flammekueche",
+            "tip": "Kóstolja meg a hagyományos elzászi lepényt a Caveau du Schloss-ban."
+          },
+          {
+            "name": "Pinot Gris",
+            "tip": "Helyi fehérborok kóstolása egy történelmi borozóban."
+          },
+          {
+            "name": "Kougelhopf",
+            "tip": "Vásárolja meg ezt a tipikus kuglófot egy helyi pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flammekueche",
+            "tip": "Gustați tarta tradițională alsaciană la Caveau du Schloss."
+          },
+          {
+            "name": "Pinot Gris",
+            "tip": "Degustare de vinuri albe locale într-o cramă istorică."
+          },
+          {
+            "name": "Kougelhopf",
+            "tip": "Luați acest cozonac tipic de la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flammekueche",
+            "tip": "Try the traditional Alsatian thin-crust tart at Caveau du Schloss."
+          },
+          {
+            "name": "Pinot Gris",
+            "tip": "Tasting of local white wines in a historical winstub."
+          },
+          {
+            "name": "Kougelhopf",
+            "tip": "Pick up this typical Alsatian cake at a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossturm",
+            "tip": "Stille Aussicht über die Weinberge bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Weiss-Ufer",
+            "tip": "Ein ruhiger Platz am Fluss hinter dem Schweitzer Museum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Weinberge",
+            "tip": "Spaziergang oberhalb der Stadt für pure Entspannung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vártorony",
+            "tip": "Csendes kilátás a szőlőültetvényekre naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Weiss-part",
+            "tip": "Nyugodt hely a folyó mentén a Schweitzer Múzeum mögött.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szőlőhegy",
+            "tip": "Séta a város felett a tiszta kikapcsolódásért.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Castelului",
+            "tip": "Vedere liniștită asupra podgoriilor la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Weiss",
+            "tip": "Un loc calm lângă râu în spatele Muzeului Schweitzer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Podgorii",
+            "tip": "Plimbare deasupra orașului pentru relaxare pură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Tower",
+            "tip": "Quiet view over the vineyards at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Weiss Bank",
+            "tip": "A calm spot by the river behind the Schweitzer Museum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vineyards",
+            "tip": "Walk above the town for pure relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Domaine Weinbach",
+            "tip": "Hochwertige Weine direkt vom Erzeuger."
+          },
+          {
+            "name": "Handwerksläden",
+            "tip": "Lokale Töpferei und Holzschnitzereien in der Rue du Général de Gaulle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domaine Weinbach",
+            "tip": "Kiváló minőségű borok közvetlenül a termelőtől."
+          },
+          {
+            "name": "Kézműves boltok",
+            "tip": "Helyi kerámiák és fafaragványok a Rue du Général de Gaulle-on."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domaine Weinbach",
+            "tip": "Vinuri de înaltă calitate direct de la producător."
+          },
+          {
+            "name": "Magazine de artizanat",
+            "tip": "Ceramică locală și sculpturi în lemn pe Rue du Général de Gaulle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Domaine Weinbach",
+            "tip": "High-quality wines directly from the producer."
+          },
+          {
+            "name": "Craft Shops",
+            "tip": "Local pottery and wood carvings on Rue du Général de Gaulle."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Stadt früh am Morgen, um die Touristenbusse zu vermeiden.",
+          "Der Aufstieg zum Schloss ist steil, aber kurz.",
+          "Die meisten Geschäfte machen zwischen 12:00 und 14:00 Uhr Mittagspause."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogassa meg a várost kora reggel, hogy elkerülje a turistabuszokat.",
+          "A várba vezető út meredek, de rövid.",
+          "A legtöbb üzlet zárva tart dél és 14:00 óra között."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pavate.",
+          "Vizitați orașul dimineața devreme pentru a evita autobuzele cu turiști.",
+          "Urcarea la castel este abruptă, dar scurtă.",
+          "Majoritatea magazinelor se închid pentru pauza de prânz între 12:00 și 14:00."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the town early in the morning to avoid the tourist crowds.",
+          "The climb to the castle is steep but short.",
+          "Most shops close for lunch between 12:00 and 14:00."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaysersberg Zentrum",
+            "hu": "Kaysersberg központ",
+            "ro": "Centrul Kaysersberg",
+            "en": "Kaysersberg Center"
+          },
+          "coords": [
+            7.2628,
+            48.139
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die Tour durch die Weinberge.",
+            "hu": "A szőlőhegyi túra kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul podgoriilor.",
+            "en": "Starting point for the vineyard tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kientzheim Dorf",
+            "hu": "Kientzheim falu",
+            "ro": "Satul Kientzheim",
+            "en": "Kientzheim Village"
+          },
+          "coords": [
+            7.285,
+            48.135
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Weinmuseum im Schloss Lupfen.",
+            "hu": "Látogassa meg a bormúzeumot a Lupfen-kastélyban.",
+            "ro": "Vizitați Muzeul Vinului din Castelul Lupfen.",
+            "en": "Visit the Wine Museum in Lupfen Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sigolsheim Nekropole",
+            "hu": "Sigolsheim-i nekropolisz",
+            "ro": "Necropola Sigolsheim",
+            "en": "Sigolsheim Necropolis"
+          },
+          "coords": [
+            7.301,
+            48.138
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ehrenfriedhof mit Panoramablick auf die Rheinebene.",
+            "hu": "Hősi temető panorámás kilátással a Rajna-völgyre.",
+            "ro": "Cimitir de onoare cu vedere panoramică asupra câmpiei Rinului.",
+            "en": "Honorary cemetery with panoramic views of the Rhine plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Riquewihr",
+            "hu": "Riquewihr",
+            "ro": "Riquewihr",
+            "en": "Riquewihr"
+          },
+          "coords": [
+            7.297,
+            48.166
+          ],
+          "category": "city",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Mittagspause in einem der am besten erhaltenen Dörfer.",
+            "hu": "Ebédszünet az egyik legjobb állapotban maradt faluban.",
+            "ro": "Pauză de prânz într-unul dintre cele mai bine conservate sate.",
+            "en": "Lunch break in one of the best-preserved villages."
+          }
+        },
+        {
+          "name": {
+            "de": "Befestigte Brücke Kaysersberg",
+            "hu": "Erődített híd, Kaysersberg",
+            "ro": "Podul Fortificat Kaysersberg",
+            "en": "Kaysersberg Fortified Bridge"
+          },
+          "coords": [
+            7.2618,
+            48.1394
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum zur Fahrradabgabe.",
+            "hu": "Visszatérés a központba a kerékpárok leadásához.",
+            "ro": "Revenire în centru pentru returnarea bicicletelor.",
+            "en": "Return to the center for bike drop-off."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die elsässische Weinstraße auf zwei Rädern. Von Kaysersberg aus radeln Sie durch die Weinberge nach Kientzheim und weiter zur Sigolsheim-Nekropole, die einen weiten Blick bietet. Die Route führt Sie zum berühmten Riquewihr für ein Mittagessen, bevor Sie auf ruhigen Wegen zurück nach Kaysersberg kehren.",
+        "hu": "Fedezze fel az elzászi borutat két keréken. Kaysersbergből indulva tekerjen át a szőlőültetvényeken Kientzheimbe, majd a Sigolsheim-i nekropoliszhoz, ahonnan pazar kilátás nyílik. Az út a híres Riquewihrbe vezet egy ebédre, majd csendes utakon tér vissza Kaysersbergbe.",
+        "ro": "Explorați ruta vinului din Alsacia pe două roți. De la Kaysersberg, pedalați prin podgorii spre Kientzheim și mai departe spre Necropola Sigolsheim, care oferă o vedere largă. Traseul vă duce la faimosul Riquewihr pentru prânz, înainte de a reveni în Kaysersberg pe drumuri liniștite.",
+        "en": "Explore the Alsatian Wine Route on two wheels. From Kaysersberg, cycle through the vineyards to Kientzheim and on to the Sigolsheim Necropolis, which offers a vast view. The route takes you to the famous Riquewihr for lunch before returning to Kaysersberg on quiet paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Weinprobe",
+            "tip": "Besuchen Sie eine Genossenschaftskellerei in Kientzheim."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borkóstoló",
+            "tip": "Látogasson el egy szövetkezeti pincészetbe Kientzheimben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Degustare de vin",
+            "tip": "Vizitați o cramă cooperatistă în Kientzheim."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Tasting",
+            "tip": "Visit a cooperative winery in Kientzheim."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sigolsheim Hügel",
+            "tip": "Ruhe und Aussicht über das Elsass.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sigolsheim-domb",
+            "tip": "Csend és kilátás Elzászra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Sigolsheim",
+            "tip": "Liniște și vedere asupra Alsaciei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sigolsheim Hill",
+            "tip": "Quiet and views over Alsace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Waldhonig direkt bei den Imkern an der Strecke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon erdei mézet közvetlenül a méhészektől az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de pădure direct de la apicultorii de pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy forest honey directly from beekeepers along the route."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die hügeligen Abschnitte.",
+          "Achten Sie auf Traktoren in den Weinbergen.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a dombos szakaszokhoz.",
+          "Vigyázzon a traktorokra a szőlőültetvényeken.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru secțiunile deluroase.",
+          "Atenție la tractoare în podgorii.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Rent an e-bike for the hilly sections.",
+          "Watch out for tractors in the vineyards.",
+          "Carry enough water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaysersberg Altstadt",
+            "hu": "Kaysersberg óváros",
+            "ro": "Orașul vechi Kaysersberg",
+            "en": "Kaysersberg Old Town"
+          },
+          "coords": [
+            7.2628,
+            48.139
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Ortseingang.",
+            "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrarea în localitate.",
+            "en": "Park in the large parking lot at the entrance of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kaysersberg",
+            "hu": "Kaysersberg vára",
+            "ro": "Castelul Kaysersberg",
+            "en": "Kaysersberg Castle"
+          },
+          "coords": [
+            7.2625,
+            48.141
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum zum Schloss.",
+            "hu": "Rövid séta a központból a várhoz.",
+            "ro": "Scurtă plimbare din centru la castel.",
+            "en": "Short walk from the center to the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Noir",
+            "hu": "Lac Noir (Fekete-tó)",
+            "ro": "Lacul Noir",
+            "en": "Lac Noir"
+          },
+          "coords": [
+            7.08,
+            48.13
+          ],
+          "category": "lake",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Idyllischer Bergsee in den Vogesen für eine Pause.",
+            "hu": "Idilli hegyi tó a Vogézekben egy pihenőhöz.",
+            "ro": "Lac montan idilic în Munții Vosgi pentru o pauză.",
+            "en": "Idyllic mountain lake in the Vosges for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Col du Bonhomme",
+            "hu": "Col du Bonhomme",
+            "ro": "Col du Bonhomme",
+            "en": "Col du Bonhomme"
+          },
+          "coords": [
+            7.078,
+            48.165
+          ],
+          "category": "mountain",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Passhöhe mit herrlicher Aussicht auf die Täler.",
+            "hu": "Hágó lenyűgöző kilátással a völgyekre.",
+            "ro": "Pas montan cu vederi superbe asupra văilor.",
+            "en": "Mountain pass with superb views over the valleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaysersberg Zentrum",
+            "hu": "Kaysersberg központ",
+            "ro": "Centrul Kaysersberg",
+            "en": "Kaysersberg Center"
+          },
+          "coords": [
+            7.2628,
+            48.139
+          ],
+          "category": "square",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Abschluss des Tages mit einem Glas Wein.",
+            "hu": "A nap lezárása egy pohár borral.",
+            "ro": "Încheierea zilei cu un pahar de vin.",
+            "en": "Closing the day with a glass of wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie den mittelalterlichen Charme von Kaysersberg mit der wilden Natur der Hochvogesen. Nach der Erkundung der Altstadt fahren Sie hinauf zum Lac Noir, einem geheimnisvollen Bergsee. Genießen Sie die kurvenreichen Straßen zum Col du Bonhomme, bevor Sie für den Abend zurückkehren.",
+        "hu": "Autóval összekötheti Kaysersberg középkori báját a Magas-Vogézek vad természetével. Az óváros felfedezése után autózzon fel a Lac Noir-hoz, egy titokzatos hegyi tóhoz. Élvezze a kanyargós utakat a Col du Bonhomme hágóig, majd térjen vissza az estére.",
+        "ro": "Cu mașina, combinați farmecul medieval al Kaysersbergului cu natura sălbatică a Munților Vosgi. După explorarea orașului vechi, conduceți până la Lac Noir, un lac montan misterios. Bucurați-vă de drumurile șerpuite spre Col du Bonhomme înainte de a vă întoarce pentru seară.",
+        "en": "By car, combine the medieval charm of Kaysersberg with the wild nature of the High Vosges. After exploring the old town, drive up to Lac Noir, a mysterious mountain lake. Enjoy the winding roads to the Col du Bonhomme before returning for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Munster Käse",
+            "tip": "Kaufen Sie frischen Käse in einer Ferme-Auberge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Munster sajt",
+            "tip": "Vásároljon friss sajtot egy Ferme-Auberge-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Munster",
+            "tip": "Cumpărați brânză proaspătă la o Ferme-Auberge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Munster Cheese",
+            "tip": "Buy fresh cheese at a Ferme-Auberge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac Noir Ufer",
+            "tip": "Ruhiger Platz zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac Noir partja",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului Noir",
+            "tip": "Loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac Noir Shore",
+            "tip": "Quiet place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vogesen-Liköre",
+            "tip": "Spezialitäten aus Beeren und Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vogézek-i likőrök",
+            "tip": "Bogyós gyümölcsökből és gyógynövényekből készült különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichioruri din Vosgi",
+            "tip": "Specialități din fructe de pădure și plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vosges Liqueurs",
+            "tip": "Specialties made from berries and herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in der Stadt sind kostenpflichtig.",
+          "Die Bergstraßen können eng sein.",
+          "Prüfen Sie im Winter die Pass-Öffnungen."
+        ],
+        "hu": [
+          "A városi parkolók fizetősek.",
+          "A hegyi utak szűkek lehetnek.",
+          "Télen ellenőrizze a hágók nyitvatartását."
+        ],
+        "ro": [
+          "Parcările din oraș sunt cu plată.",
+          "Drumurile montane pot fi înguste.",
+          "Iarna, verificați dacă pasurile sunt deschise."
+        ],
+        "en": [
+          "Parking in town is paid.",
+          "Mountain roads can be narrow.",
+          "In winter, check if the passes are open."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Mairie",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Place de la Mairie"
+          },
+          "coords": [
+            7.2628,
+            48.139
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle für regionale Linien.",
+            "hu": "Központi buszmegálló a regionális járatokhoz.",
+            "ro": "Stație de autobuz centrală pentru liniile regionale.",
+            "en": "Central bus stop for regional lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt-templom",
+            "ro": "Biserica Sfânta Cruce",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            7.2635,
+            48.1388
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das romanische Portal.",
+            "hu": "Csodálja meg a román stílusú kaput.",
+            "ro": "Admirați portalul romanic.",
+            "en": "Admire the Romanesque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Befestigte Brücke",
+            "hu": "Erődített híd",
+            "ro": "Podul Fortificat",
+            "en": "Fortified Bridge"
+          },
+          "coords": [
+            7.2618,
+            48.1394
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentrum des mittelalterlichen Lebens.",
+            "hu": "A középkori élet központja.",
+            "ro": "Centrul vieții medievale.",
+            "en": "Center of medieval life."
+          }
+        },
+        {
+          "name": {
+            "de": "Albert Schweitzer Haus",
+            "hu": "Albert Schweitzer ház",
+            "ro": "Casa Albert Schweitzer",
+            "en": "Albert Schweitzer House"
+          },
+          "coords": [
+            7.261,
+            48.1396
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "A történelem iránt érdeklődőknek kötelező.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie.",
+            "en": "A must-visit for history enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Constant-Say-Haus",
+            "hu": "Constant Say-ház",
+            "ro": "Casa Constant Say",
+            "en": "Constant Say House"
+          },
+          "coords": [
+            7.262,
+            48.1392
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fotogenstes Haus in der Hauptstraße.",
+            "hu": "A főutca legfotogénebb háza.",
+            "ro": "Cea mai fotogenică casă de pe strada principală.",
+            "en": "Most photogenic house on the main street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Shuttle-Bus 'Kut'zig' oder die Regionallinien, um Kaysersberg stressfrei zu erreichen. Konzentrieren Sie sich auf die wichtigsten Monumente der Altstadt, vom Rathaus bis zum Schweitzer Museum, alles bequem zu Fuß von den Haltestellen erreichbar.",
+        "hu": "Használja a 'Kut'zig' buszjáratot vagy a regionális vonalakat, hogy stresszmentesen érje el Kaysersberget. Koncentráljon az óváros legfontosabb műemlékeire, a városházától a Schweitzer Múzeumig, amelyek kényelmesen elérhetők a megállóktól.",
+        "ro": "Folosiți autobuzul 'Kut'zig' sau liniile regionale pentru a ajunge la Kaysersberg fără stres. Concentrați-vă pe cele mai importante monumente ale orașului vechi, de la primărie la Muzeul Schweitzer, toate accesibile ușor pe jos de la stații.",
+        "en": "Use the 'Kut'zig' shuttle or regional lines to reach Kaysersberg stress-free. Focus on the main monuments of the old town, from the City Hall to the Schweitzer Museum, all easily reachable on foot from the stops."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "Ein traditioneller elsässischer Eintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "Hagyományos elzászi húsos egytálétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "O tocană tradițională alsaciană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "A traditional Alsatian meat stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Kleine Grünanlage in der Nähe des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi park",
+            "tip": "Kis zöldterület a folyó közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "Mic spațiu verde lângă râu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park",
+            "tip": "Small green space near the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten & Souvenirs",
+            "tip": "Schöne Karten lokaler Künstler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok és szuvenírek",
+            "tip": "Helyi művészek szép kártyái."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi și suveniruri",
+            "tip": "Carduri frumoase ale artiștilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards & Souvenirs",
+            "tip": "Beautiful cards by local artists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrpläne der Linie 145.",
+          "Der 'Kut'zig' Bus ist ideal für Weintouren.",
+          "Kaufen Sie Tickets im Voraus."
+        ],
+        "hu": [
+          "Ellenőrizze a 145-ös busz menetrendjét.",
+          "A 'Kut'zig' busz ideális bortúrákhoz.",
+          "Vásárolja meg a jegyeket előre."
+        ],
+        "ro": [
+          "Verificați mersul autobuzelor pentru linia 145.",
+          "Autobuzul 'Kut'zig' este ideal pentru tururi viticole.",
+          "Cumpărați biletele în avans."
+        ],
+        "en": [
+          "Check the schedules for line 145.",
+          "The 'Kut'zig' bus is ideal for wine tours.",
+          "Buy tickets in advance."
+        ]
+      }
+    }
+  }
+}

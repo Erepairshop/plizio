@@ -1,0 +1,991 @@
+{
+  "city_id": "chinon",
+  "anchor": {
+    "name": "Chinon",
+    "coords": [
+      0.235,
+      47.1672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Königliche Festung Chinon",
+            "hu": "Chinoni királyi vár",
+            "ro": "Cetatea Regală Chinon",
+            "en": "Royal Fortress of Chinon"
+          },
+          "coords": [
+            0.2365,
+            47.1685
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "HistoPad-Tour inklusive.",
+            "hu": "HistoPad túra az árban.",
+            "ro": "Tur HistoPad inclus.",
+            "en": "HistoPad tour included."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Chinon (Altstadt)",
+            "hu": "Chinon óvárosa",
+            "ro": "Centrul vechi Chinon",
+            "en": "Vieux Chinon (Old Town)"
+          },
+          "coords": [
+            0.2385,
+            47.1668
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fachwerkhäuser.",
+            "hu": "Gerendavázas házak.",
+            "ro": "Case cu bârne de lemn.",
+            "en": "Half-timbered houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Place de l'Hôtel de Ville",
+            "hu": "Ebéd a Városháza téren",
+            "ro": "Prânz în Piața Primăriei",
+            "en": "Lunch at Place de l'Hôtel de Ville"
+          },
+          "coords": [
+            0.2395,
+            47.1662
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Chinon-Rotwein probieren.",
+            "hu": "Kóstolja meg a chinoni vöröset.",
+            "ro": "Gustați vinul roșu Chinon.",
+            "en": "Taste the Chinon red wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Maurice",
+            "hu": "Szent Móric-templom",
+            "ro": "Biserica Sfântul Mauriciu",
+            "en": "Eglise Saint-Maurice"
+          },
+          "coords": [
+            0.241,
+            47.1665
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gotische Architektur.",
+            "hu": "Gótikus építészet.",
+            "ro": "Arhitectură gotică.",
+            "en": "Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Vienne-Uferpromenade",
+            "hu": "Vienne-parti sétány",
+            "ro": "Promenada de pe malul Viennei",
+            "en": "Vienne River Banks"
+          },
+          "coords": [
+            0.2405,
+            47.1655
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang am Fluss.",
+            "hu": "Séta a folyó mentén.",
+            "ro": "Plimbare pe malul râului.",
+            "en": "Walk along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Vienne-Brücke (Panorama)",
+            "hu": "Vienne-híd (Kilátás)",
+            "ro": "Podul peste Vienne",
+            "en": "Vienne Bridge (View)"
+          },
+          "coords": [
+            0.238,
+            47.1645
+          ],
+          "category": "quiet",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Burg.",
+            "hu": "Legjobb kilátás a várra.",
+            "ro": "Cea mai bună vedere la cetate.",
+            "en": "Best view of the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Chinon atmet Geschichte im Herzen des Loire-Tals. Beginnen Sie oben in der gewaltigen Königlichen Festung, wo Jeanne d’Arc den König traf. Steigen Sie hinab in die mittelalterlichen Gassen der Altstadt und genießen Sie ein lokales Mittagessen. Am Nachmittag locken die gotische Kirche Saint-Maurice und die entspannenden Ufer der Vienne. Der Tag endet perfekt mit dem ikonischen Blick von der Brücke auf die beleuchtete Festung.",
+        "hu": "Chinon történelmet áraszt a Loire-völgy szívében. Kezdje a napot a hatalmas királyi várban, ahol Jeanne d’Arc találkozott a királlyal. Ereszkedjen le az óváros középkori utcáiba, és kóstolja meg a helyi borokat az ebéd mellé. Délután várja a gótikus Szent Móric-templom és a Vienne folyó nyugodt partja. A napot a hídról nyíló ikonikus panoráma koronázza meg.",
+        "ro": "Chinon respiră istorie în inima Văii Loarei. Începeți sus, la marea Cetate Regală, unde Ioana d’Arc s-a întâlnit cu regele. Coborâți pe străzile medievale ale centrului vechi și bucurați-vă de un prânz local. După-amiaza, vizitați biserica gotică Sfântul Mauriciu și malurile relaxante ale Viennei. Ziua se încheie perfect cu vederea iconică de pe pod spre cetatea iluminată.",
+        "en": "Chinon breathes history in the heart of the Loire Valley. Start at the top in the massive Royal Fortress, where Joan of Arc met the king. Descend into the medieval streets of the old town and enjoy a local lunch. In the afternoon, visit the Gothic Saint-Maurice church and the relaxing banks of the Vienne river. The day ends perfectly with the iconic view of the fortress from the bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cabernet Franc (Chinon)",
+            "tip": "Der berühmte Rotwein."
+          },
+          {
+            "name": "Sainte-Maure de Touraine",
+            "tip": "Lokaler Ziegenkäse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabernet Franc (Chinon)",
+            "tip": "A híres vörösbor."
+          },
+          {
+            "name": "Sainte-Maure de Touraine",
+            "tip": "Helyi kecskesajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cabernet Franc (Chinon)",
+            "tip": "Celebrul vin roșu."
+          },
+          {
+            "name": "Sainte-Maure de Touraine",
+            "tip": "Brânză de capră locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cabernet Franc (Chinon)",
+            "tip": "The famous red wine."
+          },
+          {
+            "name": "Sainte-Maure de Touraine",
+            "tip": "Local goat cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quai de la Vienne",
+            "tip": "Picknick am Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vienne-part",
+            "tip": "Piknik a folyónál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Viennei",
+            "tip": "Picnic la râu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vienne Banks",
+            "tip": "Picnic by the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Caves Painctes",
+            "tip": "Wein direkt aus dem Felsenkeller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caves Painctes",
+            "tip": "Borvásárlás sziklapincéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caves Painctes",
+            "tip": "Vin direct din crama de stâncă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caves Painctes",
+            "tip": "Wine directly from rock cellars."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Aufzug zwischen Ober- und Unterstadt nutzen.",
+          "Die Festung ist sehr weitläufig, viel Zeit einplanen.",
+          "Montags haben viele Restaurants geschlossen."
+        ],
+        "hu": [
+          "Használja a liftet a vár és az óváros között.",
+          "A vár nagy területű, szánjon rá elég időt.",
+          "Hétfőn sok étterem zárva tart."
+        ],
+        "ro": [
+          "Folosiți liftul între cetate și orașul de jos.",
+          "Cetatea este vastă, alocați suficient timp.",
+          "Lunea multe restaurante sunt închise."
+        ],
+        "en": [
+          "Use the elevator between the castle and old town.",
+          "The fortress is large, allow plenty of time.",
+          "Many restaurants are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chinon Bahnhof",
+            "hu": "Chinon vasútállomás",
+            "ro": "Gara Chinon",
+            "en": "Chinon Station"
+          },
+          "coords": [
+            0.245,
+            47.163
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradverleih.",
+            "hu": "Kerékpárkölcsönző.",
+            "ro": "Închiriere biciclete.",
+            "en": "Bike rental."
+          }
+        },
+        {
+          "name": {
+            "de": "Vienne-Radweg",
+            "hu": "Vienne kerékpárút",
+            "ro": "Pista de biciclete Vienne",
+            "en": "Vienne Bike Path"
+          },
+          "coords": [
+            0.2,
+            47.17
+          ],
+          "category": "nature",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Flache Strecke.",
+            "hu": "Lapos útvonal.",
+            "ro": "Traseu plat.",
+            "en": "Flat route."
+          }
+        },
+        {
+          "name": {
+            "de": "Candes-Saint-Martin",
+            "hu": "Candes-Saint-Martin",
+            "ro": "Candes-Saint-Martin",
+            "en": "Candes-Saint-Martin"
+          },
+          "coords": [
+            0.0715,
+            47.211
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Schönstes Dorf.",
+            "hu": "Legszebb falu.",
+            "ro": "Cel mai frumos sat.",
+            "en": "Most beautiful village."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd a Loire-nál",
+            "hu": "Ebéd a Loire-nál",
+            "ro": "Prânz la Loara",
+            "en": "Lunch by the Loire"
+          },
+          "coords": [
+            0.07,
+            47.2105
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fischspezialitäten.",
+            "hu": "Halspecialitások.",
+            "ro": "Specialități din pește.",
+            "en": "Fish specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Chinon",
+            "hu": "Visszatérés Chinonba",
+            "ro": "Întoarcere în Chinon",
+            "en": "Return to Chinon"
+          },
+          "coords": [
+            0.235,
+            47.1672
+          ],
+          "category": "quiet",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Abendstimmung.",
+            "hu": "Esti hangulat.",
+            "ro": "Atmosferă de seară.",
+            "en": "Evening vibes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Folgen Sie dem 'Loire à Vélo' Weg. Radeln Sie entlang der Vienne bis zur Mündung in die Loire bei Candes-Saint-Martin, einem der schönsten Dörfer Frankreichs. Genießen Sie ein Mittagessen mit Blick auf den Zusammenfluss der Flüsse und kehren Sie entspannt durch die Weinberge nach Chinon zurück.",
+        "hu": "Kövesse a 'Loire à Vélo' útvonalat. Tekerjen a Vienne mentén a Loire torkolatáig Candes-Saint-Martin-be, amely Franciaország egyik legszebb faluja. Élvezze az ebédet a folyók összefolyásánál, majd a szőlőültetvényeken keresztül térjen vissza Chinonba.",
+        "ro": "Urmați traseul 'Loire à Vélo'. Mergeți cu bicicleta de-a lungul Viennei până la vărsarea în Loara, la Candes-Saint-Martin, unul dintre cele mai frumoase sate din Franța. Savurați un prânz cu vedere la confluența râurilor și reveniți relaxat prin podgorii spre Chinon.",
+        "en": "Follow the 'Loire à Vélo' path. Cycle along the Vienne to its confluence with the Loire at Candes-Saint-Martin, one of the most beautiful villages in France. Enjoy lunch with a view of the meeting rivers and return relaxed through the vineyards to Chinon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandre au beurre blanc",
+            "tip": "Zander in Buttersauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sandre au beurre blanc",
+            "tip": "Süllő vajas mártással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandre au beurre blanc",
+            "tip": "Șalău în sos de unt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandre au beurre blanc",
+            "tip": "Pike-perch in butter sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zusammenfluss Loire/Vienne",
+            "tip": "Natur pur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loire/Vienne összefolyás",
+            "tip": "Tiszta természet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confluența Loara/Vienne",
+            "tip": "Natură pură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loire/Vienne Confluence",
+            "tip": "Pure nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofläden",
+            "tip": "Frisches Obst der Touraine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gazdasági boltok",
+            "tip": "Friss touraine-i gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de fermă",
+            "tip": "Fructe proaspete din Touraine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm shops",
+            "tip": "Fresh Touraine fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg ist größtenteils flach.",
+          "Viel Wasser mitnehmen.",
+          "Fahrradschloss nicht vergessen."
+        ],
+        "hu": [
+          "Az út nagy része sík.",
+          "Vigyen magával sok vizet.",
+          "Ne felejtse el a lakatot."
+        ],
+        "ro": [
+          "Traseul este în mare parte plat.",
+          "Luați multă apă.",
+          "Nu uitați antifurtul."
+        ],
+        "en": [
+          "The path is mostly flat.",
+          "Take plenty of water.",
+          "Don't forget a bike lock."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 40.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Chinon",
+            "hu": "Chinoni vár",
+            "ro": "Cetatea Chinon",
+            "en": "Chinon Fortress"
+          },
+          "coords": [
+            0.2365,
+            47.1685
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz.",
+            "hu": "Nagy parkoló.",
+            "ro": "Parcare mare.",
+            "en": "Large parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Ussé",
+            "hu": "Ussé kastély",
+            "ro": "Castelul Ussé",
+            "en": "Château d'Ussé"
+          },
+          "coords": [
+            0.2915,
+            47.2498
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Dornröschen-Schloss.",
+            "hu": "Csipkerózsika vára.",
+            "ro": "Castelul Frumoasei din Pădurea Adormită.",
+            "en": "Sleeping Beauty's castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd Rigny-Ussé-ben",
+            "hu": "Ebéd Rigny-Ussé-ben",
+            "ro": "Prânz în Rigny-Ussé",
+            "en": "Lunch in Rigny-Ussé"
+          },
+          "coords": [
+            0.293,
+            47.2485
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Traditionelle Küche.",
+            "hu": "Hagyományos konyha.",
+            "ro": "Bucătărie tradițională.",
+            "en": "Traditional cuisine."
+          }
+        },
+        {
+          "name": {
+            "de": "Azay-le-Rideau",
+            "hu": "Azay-le-Rideau",
+            "ro": "Azay-le-Rideau",
+            "en": "Azay-le-Rideau"
+          },
+          "coords": [
+            0.4658,
+            47.2589
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Renaissance-Juwel.",
+            "hu": "Reneszánsz ékszerdoboz.",
+            "ro": "Bijuterie renascentistă.",
+            "en": "Renaissance jewel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Chinon",
+            "hu": "Visszatérés Chinonba",
+            "ro": "Întoarcere în Chinon",
+            "en": "Return to Chinon"
+          },
+          "coords": [
+            0.235,
+            47.1672
+          ],
+          "category": "quiet",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Weinberge bei Sonnenuntergang.",
+            "hu": "Szőlőhegyek naplementekor.",
+            "ro": "Podgorii la apus.",
+            "en": "Vineyards at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt Sie zu den Märchenschlössern der Touraine. Nach Chinon besuchen Sie das Château d'Ussé, das Perrault zu 'Dornröschen' inspiriert haben soll. Nach einem gemütlichen Mittagessen bewundern Sie das elegante Azay-le-Rideau, das mitten im Wasser zu schweben scheint.",
+        "hu": "Ez a túra Touraine mesebeli kastélyaihoz kalauzolja. Chinon után látogassa meg az Ussé kastélyt, amely állítólag Perrault-t ihlette a Csipkerózsika megírására. Egy kellemes ebéd után csodálja meg a vízen lebegni látszó, elegáns Azay-le-Rideau kastélyt.",
+        "ro": "Acest tur vă duce la castelele de poveste din Touraine. După Chinon, vizitați Castelul Ussé, care se spune că l-a inspirat pe Perrault pentru 'Frumoasa din Pădurea Adormită'. După un prânz plăcut, admirați elegantul Azay-le-Rideau, care pare să plutească pe apă.",
+        "en": "This tour takes you to the fairytale castles of Touraine. After Chinon, visit the Château d'Ussé, said to have inspired Perrault's 'Sleeping Beauty'. After a pleasant lunch, admire the elegant Azay-le-Rideau, which seems to float on the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Lokale Fleischspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Helyi hússpecialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Specialitate locală din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rillettes de Tours",
+            "tip": "Local meat specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlosspark Azay",
+            "tip": "Romantischer Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Azay kastélypark",
+            "tip": "Romantikus park.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul castelului Azay",
+            "tip": "Parc romantic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Azay Castle Park",
+            "tip": "Romantic park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kastorbier",
+            "tip": "Lokales Handwerksbier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastorbier",
+            "tip": "Helyi kézműves sör."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kastorbier",
+            "tip": "Bere artizanală locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kastorbier",
+            "tip": "Local craft beer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kombi-Tickets für Schlösser nutzen.",
+          "Vorausbuchen in der Hochsaison.",
+          "Parkplätze sind meist kostenpflichtig."
+        ],
+        "hu": [
+          "Használjon kombinált jegyeket a kastélyokhoz.",
+          "Főszezonban foglaljon előre.",
+          "A parkolás többnyire fizetős."
+        ],
+        "ro": [
+          "Folosiți bilete combinate pentru castele.",
+          "Rezervați în avans în sezonul de vârf.",
+          "Parcările sunt de obicei cu plată."
+        ],
+        "en": [
+          "Use combo tickets for castles.",
+          "Book in advance during peak season.",
+          "Parking is mostly paid."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Chinon",
+            "hu": "Vasútállomás Chinon",
+            "ro": "Gara Chinon",
+            "en": "Chinon Station"
+          },
+          "coords": [
+            0.245,
+            47.163
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Regionalzug-Anbindung.",
+            "hu": "Regionális vonatkapcsolat.",
+            "ro": "Conexiune tren regional.",
+            "en": "Regional train link."
+          }
+        },
+        {
+          "name": {
+            "de": "Chinon Zentrum",
+            "hu": "Chinon központ",
+            "ro": "Chinon centru",
+            "en": "Chinon Center"
+          },
+          "coords": [
+            0.2395,
+            47.1662
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalog elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd az óvárosban",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            0.239,
+            47.1665
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tagesmenüs prüfen.",
+            "hu": "Nézze meg a napi menüt.",
+            "ro": "Verificați meniul zilei.",
+            "en": "Check daily menus."
+          }
+        },
+        {
+          "name": {
+            "de": "Forteresse Royale",
+            "hu": "Királyi vár",
+            "ro": "Cetatea Regală",
+            "en": "Royal Fortress"
+          },
+          "coords": [
+            0.2365,
+            47.1685
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Aufzug nutzen.",
+            "hu": "Használja a liftet.",
+            "ro": "Folosiți liftul.",
+            "en": "Use the elevator."
+          }
+        },
+        {
+          "name": {
+            "de": "Abfahrt Bahnhof",
+            "hu": "Indulás az állomásról",
+            "ro": "Plecare din gară",
+            "en": "Station Departure"
+          },
+          "coords": [
+            0.245,
+            47.163
+          ],
+          "category": "quiet",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Pünktlich sein.",
+            "hu": "Legyen pontos.",
+            "ro": "Fiți punctuali.",
+            "en": "Be on time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Chinon ist ideal per Bahn von Tours aus erreichbar. Vom Bahnhof aus ist das gesamte Stadtzentrum und die Festung bequem zu Fuß oder mit dem kostenlosen Aufzug erreichbar. Genießen Sie die mittelalterliche Atmosphäre, ohne sich um Parkplätze kümmern zu müssen.",
+        "hu": "Chinon ideálisan elérhető vonattal Tours felől. Az állomástól az egész városközpont és a vár is könnyen megközelíthető gyalog vagy az ingyenes lifttel. Élvezze a középkori hangulatot parkolási gondok nélkül.",
+        "ro": "Chinon este ideal accesibil cu trenul din Tours. De la gară, întregul centru și cetatea sunt ușor accesibile pe jos sau cu liftul gratuit. Bucurați-vă de atmosfera medievală fără grija parcării.",
+        "en": "Chinon is ideally accessible by train from Tours. From the station, the entire city center and the fortress are easily reachable on foot or via the free elevator. Enjoy the medieval atmosphere without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie locale",
+            "tip": "Frisches Baguette für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Friss bagett az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Baghetă proaspătă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Fresh baguette for the trip."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsgarten",
+            "tip": "Kleiner Park zum Warten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási kert",
+            "tip": "Kis park várakozáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina gării",
+            "tip": "Parc mic pentru așteptare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Garden",
+            "tip": "Small park for waiting.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "In den Kiosken am Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "A központi kioszkokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "La chioșcurile din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "At kiosks in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "TER-Züge verkehren regelmäßig.",
+          "Fahrkarten am Automaten kaufen.",
+          "Bahnhof ist 10 Min zu Fuß vom Zentrum."
+        ],
+        "hu": [
+          "A TER vonatok rendszeresen járnak.",
+          "Vegyen jegyet az automatánál.",
+          "Az állomás 10 perc gyalog a központtól."
+        ],
+        "ro": [
+          "Trenurile TER circulă regulat.",
+          "Cumpărați bilete de la automat.",
+          "Gara este la 10 min de mers de centru."
+        ],
+        "en": [
+          "TER trains run regularly.",
+          "Buy tickets at the machine.",
+          "Station is 10 min walk from center."
+        ]
+      }
+    }
+  }
+}

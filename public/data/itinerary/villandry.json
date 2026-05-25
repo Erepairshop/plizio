@@ -1,0 +1,904 @@
+{
+  "city_id": "villandry",
+  "anchor": {
+    "name": "Villandry",
+    "coords": [
+      0.5147,
+      47.3403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Église Saint-Étienne",
+          "coords": [
+            0.5148,
+            47.3395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Kapitelle.",
+            "hu": "Csodálja meg a román stílusú oszlopfőket.",
+            "ro": "Admirați capitelurile romanice.",
+            "en": "Admire the Romanesque capitals."
+          }
+        },
+        {
+          "name": "Château de Villandry",
+          "coords": [
+            0.5125,
+            47.3405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die orientalische Decke im Inneren.",
+            "hu": "Nézze meg a keleti stílusú mennyezetet odabenn.",
+            "ro": "Vizitați tavanul oriental din interior.",
+            "en": "Visit the Oriental ceiling inside."
+          }
+        },
+        {
+          "name": "Potager Décoratif",
+          "coords": [
+            0.513,
+            47.34
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Farben wechseln mit jeder Jahreszeit.",
+            "hu": "A színek minden évszakkal változnak.",
+            "ro": "Culorile se schimbă în fiecare sezon.",
+            "en": "Colors change with every season."
+          }
+        },
+        {
+          "name": "Jardin d'Eau",
+          "coords": [
+            0.511,
+            47.341
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine ruhige Meditation am Wasser.",
+            "hu": "Ideális egy csendes meditációhoz a víznél.",
+            "ro": "Ideal pentru o meditație liniștită lângă apă.",
+            "en": "Ideal for a quiet meditation by the water."
+          }
+        },
+        {
+          "name": "Le Labyrinthe",
+          "coords": [
+            0.51,
+            47.342
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Spaß für Kinder und Erwachsene.",
+            "hu": "Szórakozás gyerekeknek és felnőtteknek egyaránt.",
+            "ro": "Distracție pentru copii și adulți deopotrivă.",
+            "en": "Fun for children and adults alike."
+          }
+        },
+        {
+          "name": "Belvédère",
+          "coords": [
+            0.5115,
+            47.3425
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bester Blick auf die gesamte Gartenanlage.",
+            "hu": "A legjobb kilátás az egész kertrendszerre.",
+            "ro": "Cea mai bună vedere asupra întregului sistem de grădini.",
+            "en": "Best view over the entire garden system."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Dorf mit der Besichtigung der Kirche Saint-Étienne. Danach tauchen Sie in die Geschichte des Schlosses Villandry ein, dem letzten der großen Renaissanceschlösser an der Loire.\n\nMittags schlendern Sie durch den berühmten dekorativen Gemüsegarten, wo Symmetrie auf Natur trifft. Genießen Sie die geometrischen Muster aus Kohl, Kürbis und Kräutern.\n\nAm Nachmittag finden Sie Ruhe im Wassergarten oder verlieren sich im verspielten Labyrinth aus Hainbuchen. Die Atmosphäre ist hier besonders friedlich und zeitlos.\n\nBeenden Sie den Tag am Belvedere, von wo aus Sie den Sonnenuntergang über den perfekt gepflegten Terrassen genießen können. Ein magischer Abschluss für diesen botanischen Ausflug.",
+        "hu": "Kezdje a napot a faluban a Szent István-templom megtekintésével. Ezután merüljön el a Villandry-kastély történetében, amely a Loire-menti nagy reneszánsz kastélyok utolsó tagja.\n\nDélben sétáljon végig a híres díszkonyhakerten, ahol a szimmetria találkozik a természettel. Élvezze a káposztákból, tökökből és fűszerekből alkotott mértani mintákat.\n\nDélután találja meg a nyugalmat a vízikertben, vagy vesszen el a gyertyánból készült játékos labirintusban. Az itteni légkör különösen békés és időtlen.\n\nZárja a napot a kilátónál, ahonnan megcsodálhatja a naplementét a tökéletesen gondozott teraszok felett. Varázslatos befejezése ennek a botanikai kirándulásnak.",
+        "ro": "Începeți ziua în sat vizitând Biserica Saint-Étienne. Apoi scufundați-vă în istoria Castelului Villandry, ultimul dintre marile castele renascentiste de pe Valea Loarei.\n\nLa prânz, plimbați-vă prin celebra grădină de legume decorativă, unde simetria întâlnește natura. Bucurați-vă de modelele geometrice create din varză, dovleci și ierburi.\n\nDupă-amiaza, găsiți liniștea în grădina de apă sau pierdeți-vă în labirintul jucăuș din carpen. Atmosfera de aici este deosebit de pașnică și atemporală.\n\nÎncheiați ziua la belvedere, de unde puteți admira apusul peste terasele perfect îngrijite. O încheiere magică pentru această excursie botanică.",
+        "en": "Start your day in the village by visiting the Saint-Étienne Church. Then immerse yourself in the history of the Château de Villandry, the last of the great Renaissance castles on the Loire.\n\nAt noon, stroll through the famous decorative kitchen garden, where symmetry meets nature. Enjoy the geometric patterns created from cabbages, pumpkins, and herbs.\n\nIn the afternoon, find peace in the water garden or get lost in the playful hornbeam labyrinth. The atmosphere here is particularly peaceful and timeless.\n\nEnd the day at the belvedere, where you can admire the sunset over the perfectly manicured terraces. A magical ending to this botanical excursion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Étape Gourmande",
+            "tip": "Probieren Sie die Tarte Tatin in diesem charmanten Bauernhaus."
+          },
+          {
+            "name": "Le Cheval Rouge",
+            "tip": "Klassische französische Küche direkt neben dem Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Étape Gourmande",
+            "tip": "Kóstolja meg a Tarte Tatint ebben a bájos tanyaházban."
+          },
+          {
+            "name": "Le Cheval Rouge",
+            "tip": "Klasszikus francia konyha közvetlenül a kastély mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Étape Gourmande",
+            "tip": "Gustați Tarte Tatin în această fermă fermecătoare."
+          },
+          {
+            "name": "Le Cheval Rouge",
+            "tip": "Bucătărie franceză clasică chiar lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Étape Gourmande",
+            "tip": "Try the Tarte Tatin in this charming farmhouse."
+          },
+          {
+            "name": "Le Cheval Rouge",
+            "tip": "Classic French cuisine right next to the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Soleil",
+            "tip": "Der am weitesten entfernte und ruhigste Garten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loire-Ufer",
+            "tip": "Ein kurzer Spaziergang zum Fluss für absolute Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Soleil",
+            "tip": "A legtávolabbi és legcsendesebb kert.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loire-part",
+            "tip": "Rövid séta a folyóhoz a teljes csendért.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Soleil",
+            "tip": "Cea mai îndepărtată și liniștită grădină.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul Loarei",
+            "tip": "O scurtă plimbare la râu pentru liniște deplină.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Soleil",
+            "tip": "The most distant and quietest garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Loire Banks",
+            "tip": "A short walk to the river for absolute silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Samen und Gärtnereizubehör für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Vetőmagok és kertészeti kiegészítők otthonra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Semințe și accesorii de grădinărit pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Seeds and gardening accessories for home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kommen Sie früh an, um die Gärten ohne Menschenmassen zu fotografieren.",
+          "Die Eintrittskarte für den Garten ist günstiger als die für das Schloss.",
+          "Bequeme Schuhe sind für die vielen Kieswege unerlässlich.",
+          "Prüfen Sie den saisonalen Kalender für die Ernte im Gemüsegarten."
+        ],
+        "hu": [
+          "Érkezzen korán, hogy tömeg nélkül fotózhassa a kerteket.",
+          "A kerti belépő olcsóbb, mint a kastélyos jegy.",
+          "A kényelmes cipő elengedhetetlen a sok kavicsos út miatt.",
+          "Ellenőrizze a szezonális naptárat a konyhakerti betakarításhoz."
+        ],
+        "ro": [
+          "Sosiți devreme pentru a fotografia grădinile fără mulțime.",
+          "Biletul pentru grădină este mai ieftin decât cel pentru castel.",
+          "Încălțămintea confortabilă este esențială pentru numeroasele poteci cu pietriș.",
+          "Verificați calendarul sezonier pentru recoltarea în grădina de legume."
+        ],
+        "en": [
+          "Arrive early to photograph the gardens without crowds.",
+          "The garden ticket is cheaper than the castle ticket.",
+          "Comfortable shoes are essential for the many gravel paths.",
+          "Check the seasonal calendar for harvests in the kitchen garden."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Château de Villandry",
+          "coords": [
+            0.5125,
+            47.3405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradparkplätze direkt am Eingang.",
+            "hu": "Használja a kerékpártárolókat közvetlenül a bejáratnál.",
+            "ro": "Folosiți parcarea pentru biciclete chiar la intrare.",
+            "en": "Use the bike racks right at the entrance."
+          }
+        },
+        {
+          "name": "Loire à Vélo Path",
+          "coords": [
+            0.505,
+            47.345
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Teil der berühmten europäischen EuroVelo 6 Route.",
+            "hu": "A híres európai EuroVelo 6 útvonal része.",
+            "ro": "Parte a faimosului traseu european EuroVelo 6.",
+            "en": "Part of the famous European EuroVelo 6 route."
+          }
+        },
+        {
+          "name": "Savonnières Village",
+          "coords": [
+            0.545,
+            47.348
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein malerisches Dorf am Ufer des Cher.",
+            "hu": "Gleccserkék vizű falu a Cher folyó partján.",
+            "ro": "Un sat pitoresc pe malul râului Cher.",
+            "en": "A picturesque village on the banks of the Cher."
+          }
+        },
+        {
+          "name": "Grottes Pétrifiantes",
+          "coords": [
+            0.55,
+            47.346
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Unterirdische Höhlen mit bizarren Kalkformationen.",
+            "hu": "Föld alatti barlangok bizarr mészkőformációkkal.",
+            "ro": "Peșteri subterane cu formațiuni calcaroase bizare.",
+            "en": "Underground caves with bizarre limestone formations."
+          }
+        },
+        {
+          "name": "Confluence Loire-Cher",
+          "coords": [
+            0.49,
+            47.35
+          ],
+          "category": "natural features",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Wo zwei mächtige Flüsse aufeinandertreffen.",
+            "hu": "Ahol két hatalmas folyó találkozik.",
+            "ro": "Unde se întâlnesc două râuri puternice.",
+            "en": "Where two mighty rivers meet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer ausgiebigen Besichtigung der Gärten von Villandry. Schwingen Sie sich dann aufs Rad und folgen Sie der 'Loire à Vélo'-Route Richtung Osten.\n\nMittags erreichen Sie Savonnières, ein charmantes Schifferdorf. Machen Sie eine Pause am Flussufer und genießen Sie die entspannte Atmosphäre.\n\nAm Nachmittag erkunden Sie die faszinierenden versteinerten Höhlen von Savonnières, bevor Sie zur Mündung des Cher in die Loire weiterfahren.\n\nDer Rückweg führt Sie durch flache Felder und Pappelalleen zurück nach Villandry, während die Nachmittagssonne die Landschaft golden färbt.",
+        "hu": "Kezdje a napot a Villandry-kertek alapos bejárásával. Ezután pattanjon nyeregbe és kövesse a 'Loire à Vélo' útvonalat kelet felé.\n\nDélben érkezzen meg Savonnières-be, a bájos hajósfaluba. Tartson pihenőt a folyóparton és élvezze a nyugodt légkört.\n\nDélután fedezze fel a savonnières-i megkövült barlangokat, mielőtt továbbrepedne a Cher és a Loire torkolatához.\n\nA visszaút sík mezőkön és nyárfasorokon keresztül vezet vissza Villandryba, miközben a délutáni nap aranyba vonja a tájat.",
+        "ro": "Începeți ziua cu o vizită amănunțită a grădinilor din Villandry. Apoi urcați-vă pe bicicletă și urmați traseul „Loire à Vélo” spre est.\n\nLa prânz, ajungeți în Savonnières, un sat fermecător de navigatori. Faceți o pauză pe malul râului și bucurați-vă de atmosfera relaxată.\n\nDupă-amiaza, explorați fascinantele peșteri petrificate din Savonnières înainte de a continua spre gura de vărsare a râului Cher în Loara.\n\nDrumul de întoarcere vă duce prin câmpuri plane și alei de plopi înapoi la Villandry, în timp ce soarele după-amiezii colorează peisajul în auriu.",
+        "en": "Start the day with a thorough visit to the gardens of Villandry. Then hop on your bike and follow the 'Loire à Vélo' route eastwards.\n\nAt noon, arrive in Savonnières, a charming boating village. Take a break on the riverbank and enjoy the relaxed atmosphere.\n\nIn the afternoon, explore the fascinating petrified caves of Savonnières before continuing to the confluence of the Cher and the Loire.\n\nThe ride back takes you through flat fields and poplar alleys back to Villandry as the afternoon sun turns the landscape golden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Maison de Béatrice",
+            "tip": "Hervorragende Crêpes im Zentrum von Savonnières."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Maison de Béatrice",
+            "tip": "Kiváló palacsinták Savonnières központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Maison de Béatrice",
+            "tip": "Clătite excelente în centrul localității Savonnières."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Maison de Béatrice",
+            "tip": "Excellent crêpes in the center of Savonnières."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cher-Ufer",
+            "tip": "Perfekter Ort für ein Picknick fernab der Massen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cher-part",
+            "tip": "Tökéletes hely egy piknikhez távol a tömegtől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Cher",
+            "tip": "Locul perfect pentru un picnic departe de mulțime.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cher Banks",
+            "tip": "Perfect spot for a picnic away from the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt in Savonnières",
+            "tip": "Samstags lokaler Markt mit Käse und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savonnières-i piac",
+            "tip": "Szombatonként helyi piac sajttal és borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Savonnières",
+            "tip": "Sâmbăta piață locală cu brânză și vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Savonnières Market",
+            "tip": "Saturdays local market with cheese and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg ist fast komplett flach und sehr sicher.",
+          "Mieten Sie Ihr Rad im Dorf Villandry vorab.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Ein Abstecher zur alten Brücke von Savonnières lohnt sich."
+        ],
+        "hu": [
+          "Az út szinte teljesen sík és nagyon biztonságos.",
+          "Bérelje ki a kerékpárt Villandry faluban előre.",
+          "Vigyen elég vizet, kevés az árnyék.",
+          "Érdemes egy kitérőt tenni a savonnières-i régi hídhoz."
+        ],
+        "ro": [
+          "Traseul este aproape complet plat și foarte sigur.",
+          "Închiriați bicicleta în satul Villandry în avans.",
+          "Luați suficientă apă, există puțină umbră.",
+          "Merită o abatere la vechiul pod din Savonnières."
+        ],
+        "en": [
+          "The path is almost completely flat and very safe.",
+          "Rent your bike in Villandry village in advance.",
+          "Take enough water, there is little shade.",
+          "A detour to the old bridge of Savonnières is worth it."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Villandry Gardens",
+          "coords": [
+            0.5125,
+            47.3405
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem kostenlosen Hauptparkplatz.",
+            "hu": "Parkoljon az ingyenes főparkolóban.",
+            "ro": "Parcați în parcarea principală gratuită.",
+            "en": "Park in the free main parking lot."
+          }
+        },
+        {
+          "name": "Château d'Azay-le-Rideau",
+          "coords": [
+            0.466,
+            47.259
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ein Juwel der Renaissance, das auf dem Wasser zu schweben scheint.",
+            "hu": "A reneszánsz ékköve, amely mintha a vízen lebegne.",
+            "ro": "O bijuterie a Renașterii care pare să plutească pe apă.",
+            "en": "A Renaissance jewel that seems to float on the water."
+          }
+        },
+        {
+          "name": "Azay-le-Rideau Old Town",
+          "coords": [
+            0.465,
+            47.26
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine gemütliche Mittagspause.",
+            "hu": "Tökéletes egy hangulatos ebédszünethez.",
+            "ro": "Perfect pentru o pauză de prânz primitoare.",
+            "en": "Perfect for a cozy lunch break."
+          }
+        },
+        {
+          "name": "Château de l'Islette",
+          "coords": [
+            0.445,
+            47.28
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Liebesort von Rodin und Camille Claudel.",
+            "hu": "Rodin és Camille Claudel szerelmi fészke.",
+            "ro": "Locul de dragoste al lui Rodin și Camille Claudel.",
+            "en": "The love nest of Rodin and Camille Claudel."
+          }
+        },
+        {
+          "name": "Belvédère de Villandry",
+          "coords": [
+            0.5115,
+            47.3425
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das finale Panorama.",
+            "hu": "Rövid megálló a végső panorámáért.",
+            "ro": "Scurtă oprire pentru panorama finală.",
+            "en": "Short stop for the final panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit den Gärten von Villandry am Morgen. Fahren Sie dann nach Süden zum Château d'Azay-le-Rideau, einem Meisterwerk der französischen Renaissance.\n\nMittags erkunden Sie die Gassen von Azay-le-Rideau und probieren lokale Weine der Region Touraine.\n\nDer Nachmittag führt Sie zum weniger bekannten Château de l'Islette, das durch seine romantische Geschichte und idyllische Lage am Fluss Indre besticht.\n\nKehren Sie gegen Abend nach Villandry zurück, um den Tag mit einem Blick von den Anhöhen über das Tal abzuschließen.",
+        "hu": "Kezdje a délelőttöt a Villandry-kertekben. Ezután autózzon délre az Azay-le-Rideau kastélyhoz, amely a francia reneszánsz egyik remekműve.\n\nDélben fedezze fel Azay-le-Rideau utcáit és kóstolja meg a környék Touraine borait.\n\nA délután a kevésbé ismert l'Islette kastélyhoz kalauzolja, amely romantikus történetével és az Indre folyó partján fekvő idilli helyszínével hódít.\n\nEste felé térjen vissza Villandryba, hogy a napot a völgy feletti dombokról nyíló kilátással zárja.",
+        "ro": "Începeți dimineața în grădinile din Villandry. Apoi conduceți spre sud către Castelul Azay-le-Rideau, o capodoperă a Renașterii franceze.\n\nLa prânz, explorați străzile din Azay-le-Rideau și degustați vinurile Touraine din regiune.\n\nDupă-amiaza vă poartă la Castelul l'Islette, mai puțin cunoscut, care captivează prin istoria sa romantică și locația idilică pe malul râului Indre.\n\nSpre seară, întoarceți-vă la Villandry pentru a încheia ziua cu o priveliște de pe dealurile de deasupra văii.",
+        "en": "Start the morning in the Villandry gardens. Then drive south to the Château d'Azay-le-Rideau, a masterpiece of the French Renaissance.\n\nAt noon, explore the streets of Azay-le-Rideau and taste the Touraine wines of the region.\n\nThe afternoon takes you to the lesser-known Château de l'Islette, which charms with its romantic history and idyllic location on the banks of the river Indre.\n\nTowards evening, return to Villandry to end the day with a view from the hills above the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge du Pommier",
+            "tip": "Rustikale Küche in Azay-le-Rideau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge du Pommier",
+            "tip": "Rusztikus konyha Azay-le-Rideau-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge du Pommier",
+            "tip": "Bucătărie rustică în Azay-le-Rideau."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge du Pommier",
+            "tip": "Rustic cuisine in Azay-le-Rideau."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Islette",
+            "tip": "Sehr ruhige Parks am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de l'Islette",
+            "tip": "Nagyon csendes vízparti parkok.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de l'Islette",
+            "tip": "Parcuri foarte liniștite pe malul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de l'Islette",
+            "tip": "Very quiet riverside parks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vins d'Azay",
+            "tip": "Kaufen Sie Weißwein direkt beim Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vins d'Azay",
+            "tip": "Vásároljon fehérbort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vins d'Azay",
+            "tip": "Cumpărați vin alb direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vins d'Azay",
+            "tip": "Buy white wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Tickets für Azay-le-Rideau online, um Warteschlangen zu vermeiden.",
+          "Die Parkplätze in Azay sind im Sommer oft voll.",
+          "Die Fahrt zwischen den Schlössern ist landschaftlich sehr reizvoll.",
+          "Achten Sie auf die Einbahnstraßen in Villandry-Dorf."
+        ],
+        "hu": [
+          "Foglalja le online a jegyeket Azay-le-Rideau-ba a sorban állás elkerülése végett.",
+          "Azay parkolói nyáron gyakran megtelnek.",
+          "A kastélyok közötti út tájilag nagyon szép.",
+          "Figyeljen az egyirányú utcákra Villandry faluban."
+        ],
+        "ro": [
+          "Rezervați biletele online pentru Azay-le-Rideau pentru a evita cozile.",
+          "Parcările din Azay sunt adesea pline vara.",
+          "Drumul între castele este foarte pitoresc.",
+          "Atenție la străzile cu sens unic din satul Villandry."
+        ],
+        "en": [
+          "Book tickets for Azay-le-Rideau online to avoid queues.",
+          "Parking lots in Azay are often full in summer.",
+          "The drive between the castles is very scenic.",
+          "Watch out for one-way streets in Villandry village."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 20.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Villandry Château",
+          "coords": [
+            0.5125,
+            47.3405
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle für die Linie V der Fil Bleu.",
+            "hu": "A Fil Bleu V vonalának központi megállója.",
+            "ro": "Stația centrală pentru linia V a Fil Bleu.",
+            "en": "Central stop for the Fil Bleu Line V."
+          }
+        },
+        {
+          "name": "Tours City Center",
+          "coords": [
+            0.685,
+            47.39
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Place Plumereau.",
+            "hu": "Látogasson el a Place Plumereau-ra.",
+            "ro": "Vizitați Place Plumereau.",
+            "en": "Visit Place Plumereau."
+          }
+        },
+        {
+          "name": "Cathédrale de Tours",
+          "coords": [
+            0.694,
+            47.395
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beeindruckende gotische Glasmalereien.",
+            "hu": "Lenyűgöző gótikus üvegablakok.",
+            "ro": "Vitralii gotice impresionante.",
+            "en": "Impressive Gothic stained glass."
+          }
+        },
+        {
+          "name": "Villandry Village",
+          "coords": [
+            0.5147,
+            47.3403
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Abendessen im Dorf vor der Rückreise.",
+            "hu": "Vacsora a faluban a visszautazás előtt.",
+            "ro": "Cină în sat înainte de plecare.",
+            "en": "Dinner in the village before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Shuttle-Bus 'Fil Bleu', um zwischen Villandry und Tours zu pendeln. Beginnen Sie morgens mit der Besichtigung der prachtvollen Gärten.\n\nMittags bringt Sie der Bus in das Herz von Tours, wo Sie auf dem Place Plumereau inmitten von Fachwerkhäusern essen können.\n\nNachmittags besichtigen Sie die imposante Kathedrale Saint-Gatien, bevor Sie den Bus zurück in die ländliche Ruhe von Villandry nehmen.\n\nDer Abend klingt im Dorf Villandry aus, weit weg vom Trubel der Stadt Tours.",
+        "hu": "Használja a 'Fil Bleu' ingajáratot Villandry és Tours között. Kezdje a reggelt a pompás kertek megtekintésével.\n\nDélben a busz Tours szívébe viszi, ahol a Place Plumereau-n, favázas házak között ebédelhet.\n\nDélután tekintsék meg az impozáns Saint-Gatien katedrálist, mielőtt visszabuszolnának Villandry vidéki nyugalmába.\n\nAz este Villandry faluban ér véget, távol Tours város nyüzsgésétől.",
+        "ro": "Folosiți autobuzul 'Fil Bleu' pentru a face naveta între Villandry și Tours. Începeți dimineața vizitând grădinile splendide.\n\nLa prânz, autobuzul vă duce în inima orașului Tours, unde puteți mânca în Place Plumereau, printre case cu structură de lemn.\n\nDupă-amiaza, vizitați catedrala impunătoare Saint-Gatien înainte de a lua autobuzul înapoi spre liniștea rurală din Villandry.\n\nSeara se încheie în satul Villandry, departe de agitația orașului Tours.",
+        "en": "Use the 'Fil Bleu' shuttle bus to commute between Villandry and Tours. Start the morning by visiting the magnificent gardens.\n\nAt noon, the bus takes you to the heart of Tours, where you can eat in Place Plumereau surrounded by half-timbered houses.\n\nIn the afternoon, visit the imposing Saint-Gatien Cathedral before taking the bus back to the rural peace of Villandry.\n\nThe evening ends in the village of Villandry, far from the hustle and bustle of Tours."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistrot de la Tranchée",
+            "tip": "Moderne Küche in Tours."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistrot de la Tranchée",
+            "tip": "Modern konyha Tours-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistrot de la Tranchée",
+            "tip": "Bucătărie modernă în Tours."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistrot de la Tranchée",
+            "tip": "Modern cuisine in Tours."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedralsgarten",
+            "tip": "Ein versteckter ruhiger Garten hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Katedrális kertje",
+            "tip": "Egy rejtett, csendes kert a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina catedralei",
+            "tip": "O grădină liniștită ascunsă în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Garden",
+            "tip": "A hidden quiet garden behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Nationale Tours",
+            "tip": "Die Haupteinkaufsstraße der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Nationale Tours",
+            "tip": "A régió fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Nationale Tours",
+            "tip": "Principala stradă comercială a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Nationale Tours",
+            "tip": "The region's main shopping street."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bus V verkehrt nur in der Hochsaison regelmäßig.",
+          "Kaufen Sie Ihr Ticket direkt beim Fahrer oder per App.",
+          "Die Fahrt dauert etwa 30-40 Minuten.",
+          "Prüfen Sie unbedingt die Zeit des letzten Rückbusses."
+        ],
+        "hu": [
+          "A V jelű busz csak főszezonban közlekedik rendszeresen.",
+          "Vegye meg a jegyet a sofőrnél vagy alkalmazáson keresztül.",
+          "Az utazás kb. 30-40 percet vesz igénybe.",
+          "Mindenképpen ellenőrizze az utolsó visszatérő busz idejét."
+        ],
+        "ro": [
+          "Autobuzul V circulă regulat doar în plin sezon.",
+          "Cumpărați biletul direct de la șofer sau prin aplicație.",
+          "Călătoria durează aproximativ 30-40 de minute.",
+          "Verificați neapărat ora ultimului autobuz de întoarcere."
+        ],
+        "en": [
+          "Bus V only runs regularly during high season.",
+          "Buy your ticket directly from the driver or via the app.",
+          "The journey takes about 30-40 minutes.",
+          "Be sure to check the time of the last return bus."
+        ]
+      }
+    }
+  }
+}

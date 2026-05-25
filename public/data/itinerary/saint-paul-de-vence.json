@@ -1,0 +1,1138 @@
+{
+  "city_id": "saint-paul-de-vence",
+  "anchor": {
+    "name": "Saint-Paul-de-Vence",
+    "coords": [
+      7.1219,
+      43.6975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Grand Buis",
+            "hu": "Place du Grand Buis",
+            "ro": "Place du Grand Buis",
+            "en": "Place du Grand Buis"
+          },
+          "coords": [
+            7.1221,
+            43.6974
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den morgendlichen Kaffee am Eingang des Dorfes.",
+            "hu": "Élvezze a reggeli kávét a falu bejáratánál.",
+            "ro": "Savurați o cafea de dimineață la intrarea în sat.",
+            "en": "Enjoy a morning coffee at the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Fontaine",
+            "hu": "Nagy Szökőkút",
+            "ro": "Marea Fântână",
+            "en": "The Great Fountain"
+          },
+          "coords": [
+            7.1218,
+            43.697
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein historischer Treffpunkt im Herzen der Gassen.",
+            "hu": "Történelmi találkozóhely a sikátorok szívében.",
+            "ro": "Un loc de întâlnire istoric în inima străduțelor.",
+            "en": "A historic meeting point in the heart of the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Histoire Locale",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            7.1215,
+            43.6968
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wachsfiguren zeigen die Geschichte der Provence.",
+            "hu": "Viaszfigurák mutatják be Provence történelmét.",
+            "ro": "Figurine de ceară prezintă istoria Provence-ului.",
+            "en": "Wax figures depict the history of Provence."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Collégiale de Saint-Paul",
+            "hu": "Szent Pál Kollégiumi Templom",
+            "ro": "Biserica Colegiată Saint-Paul",
+            "en": "Collegiate Church of Saint-Paul"
+          },
+          "coords": [
+            7.122,
+            43.6966
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Barockkapelle St. Clement.",
+            "hu": "Csodálja meg a pompás barokk Szent Kelemen-kápolnát.",
+            "ro": "Admirați magnifica capelă barocă Sfântul Clement.",
+            "en": "Admire the magnificent baroque St. Clement chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents Blancs",
+            "hu": "Fehér Bűnbánók Kápolnája",
+            "ro": "Capela Penitienților Albi",
+            "en": "White Penitents Chapel"
+          },
+          "coords": [
+            7.1222,
+            43.6967
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Innere wurde vom Künstler Jean-Michel Folon gestaltet.",
+            "hu": "A belsőt Jean-Michel Folon művész dekorálta.",
+            "ro": "Interiorul a fost decorat de artistul Jean-Michel Folon.",
+            "en": "The interior was decorated by artist Jean-Michel Folon."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Saint-Paul-de-Vence",
+            "hu": "Városfalak",
+            "ro": "Zidurile Cetății",
+            "en": "City Ramparts"
+          },
+          "coords": [
+            7.1225,
+            43.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang auf den Mauern mit Blick auf die Alpen.",
+            "hu": "Séta a falakon, kilátással az Alpokra.",
+            "ro": "Plimbare pe ziduri cu vedere spre Alpi.",
+            "en": "Walk on the walls with views of the Alps."
+          }
+        },
+        {
+          "name": {
+            "de": "Cimetière de Saint-Paul",
+            "hu": "Szent Pál Temető",
+            "ro": "Cimitirul Saint-Paul",
+            "en": "Saint-Paul Cemetery"
+          },
+          "coords": [
+            7.1235,
+            43.6955
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab von Marc Chagall.",
+            "hu": "Látogassa meg Marc Chagall sírját.",
+            "ro": "Vizitați mormântul lui Marc Chagall.",
+            "en": "Visit the grave of Marc Chagall."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Maeght",
+            "hu": "Maeght Alapítvány",
+            "ro": "Fundația Maeght",
+            "en": "Fondation Maeght"
+          },
+          "coords": [
+            7.115,
+            43.7008
+          ],
+          "category": "museums",
+          "arrive_at": "16:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einzigartige Skulpturengärten von Miró und Giacometti.",
+            "hu": "Miró és Giacometti egyedülálló szoborkertjei.",
+            "ro": "Grădini de sculptură unice de Miró și Giacometti.",
+            "en": "Unique sculpture gardens by Miró and Giacometti."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Place du Grand Buis, dem Tor zu diesem befestigten Dorf. Schlendern Sie durch die kopfsteingepflasterten Gassen, vorbei an der Grande Fontaine und dem Geschichtsmuseum, um in die provenzalische Vergangenheit einzutauchen.\n\nMittags erkunden Sie die religiösen Schätze: die barocke Stiftskirche und die farbenfrohe Folon-Kapelle. Die künstlerische Atmosphäre der zahlreichen Galerien wird Sie auf Schritt und Tritt begleiten.\n\nNachmittags führt der Weg auf die Stadtmauern. Von hier aus haben Sie einen atemberaubenden Blick über die Täler bis zum Mittelmeer. Ein Besuch am Grab von Marc Chagall bietet einen Moment der Stille.\n\nZum Abschluss wandern Sie zur Fondation Maeght, einem Mekka der modernen Kunst. Zwischen Pinien und außergewöhnlicher Architektur lassen Sie den Tag inmitten von Meisterwerken ausklingen.",
+        "hu": "Kezdje a napot a Place du Grand Buis-nél, a megerősített falu kapujánál. Barangoljon a macskaköves utcákon, érintve a Nagy Szökőkutat és a helytörténeti múzeumot, hogy elmerüljön Provence múltjában.\n\nDélben fedezze fel a vallási kincseket: a barokk kollégiumi templomot és a színes Folon-kápolnát. A számos galéria művészi hangulata minden lépésnél elkíséri önt.\n\nDélután az út a városfalakra vezet. Innentől lenyűgöző kilátás nyílik a völgyekre egészen a Földközi-tengerig. Marc Chagall sírjának meglátogatása a csend pillanatát nyújtja.\n\nVégezetül sétáljon el a Maeght Alapítványhoz, a modern művészet fellegvárához. A fenyőfák és a különleges építészet között, remekművek társaságában zárhatja a napot.",
+        "ro": "Începeți ziua la Place du Grand Buis, poarta de intrare în acest sat fortificat. Rătăciți pe străzile pietruite, trecând pe lângă Marea Fântână și muzeul de istorie, pentru a vă cufunda în trecutul provensal.\n\nLa prânz, explorați comorile religioase: biserica colegiată barocă și colorata Capelă Folon. Atmosfera artistică a numeroaselor galerii vă va însoți la fiecare pas.\n\nDupă-amiaza, drumul duce pe zidurile cetății. De aici aveți o vedere uluitoare peste văi până la Marea Mediterană. O vizită la mormântul lui Marc Chagall oferă un moment de liniște.\n\nÎn final, mergeți la Fundația Maeght, o mecca a artei moderne. Între pini și arhitectură excepțională, încheiați ziua în mijlocul capodoperelor.",
+        "en": "Start your day at Place du Grand Buis, the gateway to this fortified village. Wander through the cobblestone alleys, passing the Great Fountain and the history museum, to immerse yourself in the Provençal past.\n\nAt midday, explore the religious treasures: the baroque collegiate church and the colorful Folon Chapel. The artistic atmosphere of the numerous galleries will accompany you at every step.\n\nIn the afternoon, head to the city ramparts. From here, you have breathtaking views over the valleys to the Mediterranean. A visit to Marc Chagall's grave offers a moment of silence.\n\nFinally, walk to the Fondation Maeght, a mecca of modern art. Between pine trees and exceptional architecture, end your day surrounded by masterpieces."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Colombe d'Or",
+            "tip": "Legendäres Restaurant, in dem Picasso und Matisse mit Kunst bezahlten."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Moderne provenzalische Küche unter einer großen Linde."
+          },
+          {
+            "name": "Socca de Nice",
+            "tip": "Probieren Sie diesen lokalen Kichererbsenfladen an einem Marktstand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Colombe d'Or",
+            "tip": "Legendás étterem, ahol Picasso és Matisse művészettel fizetett az ételért."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Modern provence-i konyha egy hatalmas hársfa alatt."
+          },
+          {
+            "name": "Socca",
+            "tip": "Kóstolja meg ezt a helyi csicseriborsó-lepényt egy piaci standnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Colombe d'Or",
+            "tip": "Restaurant legendar unde Picasso și Matisse plăteau mesele cu artă."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Bucătărie provensală modernă sub un tei uriaș."
+          },
+          {
+            "name": "Socca",
+            "tip": "Gustați această clătită locală din năut la un stand din piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Colombe d'Or",
+            "tip": "Legendary restaurant where Picasso and Matisse paid for meals with art."
+          },
+          {
+            "name": "Le Tilleul",
+            "tip": "Modern Provençal cuisine under a giant linden tree."
+          },
+          {
+            "name": "Socca",
+            "tip": "Try this local chickpea pancake at a market stall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südliche Stadtmauer",
+            "tip": "Perfekter Ort für den Sonnenuntergang mit Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fondation Maeght Garten",
+            "tip": "Stille zwischen Skulpturen und schattigen Pinien.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "Ein ruhiger Platz am höchsten Punkt des Dorfes.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli városfal",
+            "tip": "Tökéletes hely a naplementéhez panorámás kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Maeght Alapítvány kertje",
+            "tip": "Csend a szobrok és az árnyas fenyők között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "Egy nyugodt tér a falu legmagasabb pontján.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidul sudic al cetății",
+            "tip": "Locul perfect pentru apus cu vedere panoramică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Fundației Maeght",
+            "tip": "Liniște între sculpturi și pini umbroși.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "O piață liniștită în cel mai înalt punct al satului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern Ramparts",
+            "tip": "Perfect spot for sunset with panoramic views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fondation Maeght Garden",
+            "tip": "Silence between sculptures and shady pines.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Place de l'Église",
+            "tip": "A quiet square at the highest point of the village.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Art Galleries",
+            "tip": "Entdecken Sie zeitgenössische Kunst in den unzähligen Galerien der Rue Grande."
+          },
+          {
+            "name": "L'Herbier de Saint-Paul",
+            "tip": "Handgemachte Seifen und provenzalische Düfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Művészeti galériák",
+            "tip": "Fedezze fel a kortárs művészetet a Rue Grande számtalan galériájában."
+          },
+          {
+            "name": "L'Herbier de Saint-Paul",
+            "tip": "Kézműves szappanok és provence-i illatok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă",
+            "tip": "Descoperiți arta contemporană în nenumăratele galerii de pe Rue Grande."
+          },
+          {
+            "name": "L'Herbier de Saint-Paul",
+            "tip": "Săpunuri artizanale și parfumuri provensale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Art Galleries",
+            "tip": "Discover contemporary art in the countless galleries of Rue Grande."
+          },
+          {
+            "name": "L'Herbier de Saint-Paul",
+            "tip": "Handmade soaps and Provençal scents."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Kopfsteinpflasterstraßen rutschig sein können.",
+          "Besuchen Sie das Dorf früh am Morgen, um den Touristenmassen zu entgehen.",
+          "Verpassen Sie nicht die Boulodrome, wo die Einheimischen Petanque spielen.",
+          "Buchen Sie Restaurants wie La Colombe d'Or Wochen im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert a macskaköves utcák csúszósak lehetnek.",
+          "Látogassa meg a falut kora reggel, hogy elkerülje a turistaáradatot.",
+          "Ne hagyja ki a Boulodrome-ot, ahol a helyiek pétanque-oznak.",
+          "Foglaljon asztalt olyan éttermekbe, mint a La Colombe d'Or, hetekkel előre."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece străzile pietruite pot fi alunecoase.",
+          "Vizitați satul dimineața devreme pentru a evita aglomerația de turiști.",
+          "Nu ratați Boulodrome, unde localnicii joacă pétanque.",
+          "Rezervați mese la restaurante precum La Colombe d'Or cu săptămâni înainte."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestone streets can be slippery.",
+          "Visit the village early in the morning to avoid the tourist crowds.",
+          "Don't miss the Boulodrome where locals play pétanque.",
+          "Book restaurants like La Colombe d'Or weeks in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Grand Buis",
+            "hu": "Place du Grand Buis",
+            "ro": "Place du Grand Buis",
+            "en": "Place du Grand Buis"
+          },
+          "coords": [
+            7.1221,
+            43.6974
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Dorfeingang.",
+            "hu": "Parkolja le biztonságosan a biciklijét a falu bejáratánál.",
+            "ro": "Parcați bicicleta în siguranță la intrarea în sat.",
+            "en": "Park your bike safely at the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Saint-Paul-de-Vence",
+            "hu": "Városfalak",
+            "ro": "Zidurile Cetății",
+            "en": "City Ramparts"
+          },
+          "coords": [
+            7.1225,
+            43.696
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrräder müssen im inneren Dorf geschoben werden.",
+            "hu": "A falun belül tolni kell a kerékpárt.",
+            "ro": "Bicicletele trebuie împinse în interiorul satului.",
+            "en": "Bikes must be pushed inside the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Maeght",
+            "hu": "Maeght Alapítvány",
+            "ro": "Fundația Maeght",
+            "en": "Fondation Maeght"
+          },
+          "coords": [
+            7.115,
+            43.7008
+          ],
+          "category": "museums",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Anstieg zur Stiftung ist steil, aber lohnenswert.",
+            "hu": "Az alapítványhoz vezető emelkedő meredek, de megéri.",
+            "ro": "Urcarea spre fundație este abruptă, dar merită.",
+            "en": "The climb to the foundation is steep but rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Rosaire (Vence)",
+            "hu": "Rózsafüzér-kápolna (Vence)",
+            "ro": "Capela Rozariului (Vence)",
+            "en": "Rosary Chapel (Vence)"
+          },
+          "coords": [
+            7.1155,
+            43.7252
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Matisses Meisterwerk im benachbarten Vence.",
+            "hu": "Matisse remekműve a szomszédos Vence-ben.",
+            "ro": "Capodopera lui Matisse în orașul vecin Vence.",
+            "en": "Matisse's masterpiece in neighboring Vence."
+          }
+        },
+        {
+          "name": {
+            "de": "Vence Altstadt",
+            "hu": "Vence óvárosa",
+            "ro": "Orașul vechi Vence",
+            "en": "Vence Old Town"
+          },
+          "coords": [
+            7.111,
+            43.723
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis auf der Place du Grand Jardin.",
+            "hu": "Egyen egy fagyit a Place du Grand Jardin-en.",
+            "ro": "Savurați o înghețată în Place du Grand Jardin.",
+            "en": "Enjoy an ice cream at Place du Grand Jardin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Kunst und körperliche Anstrengung in der hügeligen Provence. Nach einem kurzen Stopp in Saint-Paul radeln Sie bergauf zur Fondation Maeght. Der Weg führt weiter in das benachbarte Vence, wo Sie die berühmte Matisse-Kapelle besuchen können. Es ist eine sportliche Route mit kulturellen Highlights.",
+        "hu": "Ez a biciklis túra ötvözi a művészetet és a fizikai kihívást a dombos Provence-ban. Rövid Saint-Paul-i megálló után tekerjen fel a Maeght Alapítványhoz. Az út továbbvezet a szomszédos Vence-be, ahol meglátogathatja a híres Matisse-kápolnát. Sportos útvonal kulturális fénypontokkal.",
+        "ro": "Acest tur cu bicicleta combină arta și efortul fizic în dealurile provensale. După o scurtă oprire în Saint-Paul, pedalați spre Fundația Maeght. Drumul continuă spre Vence-ul vecin, unde puteți vizita faimoasa Capelă Matisse. Este o rută sportivă cu puncte de atracție culturale.",
+        "en": "This cycling tour combines art and physical exertion in the hilly Provence. After a short stop in Saint-Paul, bike up to the Fondation Maeght. The path continues to neighboring Vence, where you can visit the famous Matisse Chapel. It's a sporty route with cultural highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Tapas de la Victoire",
+            "tip": "Schnelle und leckere Snacks in Vence."
+          },
+          {
+            "name": "Crêperie du Château",
+            "tip": "Süße Belohnung nach der Steigung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Tapas de la Victoire",
+            "tip": "Gyors és finom falatok Vence-ben."
+          },
+          {
+            "name": "Crêperie du Château",
+            "tip": "Édes jutalom az emelkedő után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Tapas de la Victoire",
+            "tip": "Gustări rapide și gustoase în Vence."
+          },
+          {
+            "name": "Crêperie du Château",
+            "tip": "Răsplată dulce după urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Tapas de la Victoire",
+            "tip": "Quick and tasty snacks in Vence."
+          },
+          {
+            "name": "Crêperie du Château",
+            "tip": "Sweet reward after the climb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Col de Vence Aussicht",
+            "tip": "Für Ambitionierte: Blick über die gesamte Riviera.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Col de Vence kilátó",
+            "tip": "Eltökéltnek: kilátás az egész Riviérára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perspectiva Col de Vence",
+            "tip": "Pentru ambițioși: vedere peste întreaga Rivieră.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Col de Vence view",
+            "tip": "For the ambitious: view over the entire Riviera.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vence Market",
+            "tip": "Lokale Produkte am Dienstagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vence-i piac",
+            "tip": "Helyi termékek kedd reggelenként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Vence",
+            "tip": "Produse locale în diminețile de marți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vence Market",
+            "tip": "Local products on Tuesday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, wenn Sie nicht an steile Anstiege gewöhnt sind.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Achten Sie auf den Verkehr auf den schmalen Straßen zwischen Saint-Paul und Vence."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt, ha nincs hozzászokva a meredek emelkedőkhöz.",
+          "Vigyen magával elegendő vizet, különösen nyáron.",
+          "Ügyeljen a forgalomra a Saint-Paul és Vence közötti keskeny utakon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică dacă nu sunteți obișnuit cu urcările abrupte.",
+          "Luați suficientă apă, mai ales vara.",
+          "Fiți atenți la trafic pe drumurile înguste dintre Saint-Paul și Vence."
+        ],
+        "en": [
+          "Rent an e-bike if you are not used to steep climbs.",
+          "Take plenty of water, especially in summer.",
+          "Watch out for traffic on the narrow roads between Saint-Paul and Vence."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Paul-de-Vence Altstadt",
+            "hu": "Saint-Paul-de-Vence óvárosa",
+            "ro": "Centrul vechi Saint-Paul-de-Vence",
+            "en": "Saint-Paul-de-Vence Old Town"
+          },
+          "coords": [
+            7.1219,
+            43.6975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Indigo' am Dorfeingang.",
+            "hu": "Használja az Indigo parkolóházat a falu bejáratánál.",
+            "ro": "Folosiți parcarea 'Indigo' de la intrarea în sat.",
+            "en": "Use the 'Indigo' parking garage at the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Maeght",
+            "hu": "Maeght Alapítvány",
+            "ro": "Fundația Maeght",
+            "en": "Fondation Maeght"
+          },
+          "coords": [
+            7.115,
+            43.7008
+          ],
+          "category": "museums",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze direkt vor dem Museum.",
+            "hu": "Ingyenes parkolóhelyek közvetlenül a múzeum előtt.",
+            "ro": "Parcare gratuită chiar în fața muzeului.",
+            "en": "Free parking available right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Gourdon (Adlernest)",
+            "hu": "Gourdon (Sashészek)",
+            "ro": "Gourdon (Cuibul de Vulturi)",
+            "en": "Gourdon (Eagle's Nest)"
+          },
+          "coords": [
+            6.9785,
+            43.7205
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs mit Panoramablick.",
+            "hu": "Franciaország egyik legszebb faluja panorámás kilátással.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța cu vedere panoramică.",
+            "en": "One of the most beautiful villages in France with panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Saut du Loup Wasserfälle",
+            "hu": "Saut du Loup vízesések",
+            "ro": "Cascada Saut du Loup",
+            "en": "Saut du Loup Waterfalls"
+          },
+          "coords": [
+            6.993,
+            43.7435
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erfrischender Stopp in der Schlucht von Loup.",
+            "hu": "Frissítő megálló a Loup-szurdokban.",
+            "ro": "Oprire revigorantă în cheile Loup.",
+            "en": "Refreshing stop in the Loup gorge."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourrettes-sur-Loup",
+            "hu": "Tourrettes-sur-Loup",
+            "ro": "Tourrettes-sur-Loup",
+            "en": "Tourrettes-sur-Loup"
+          },
+          "coords": [
+            7.059,
+            43.7155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Bekannt als das Dorf der Veilchen.",
+            "hu": "Az ibolyák falvaként ismert.",
+            "ro": "Cunoscut ca satul viorelelor.",
+            "en": "Known as the village of violets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die 'Perlen der Seealpen'. Nach dem Besuch von Saint-Paul und der Fondation Maeght fahren Sie tief in das Hinterland nach Gourdon, das spektakulär auf einem Felsen thront. Der Rückweg führt durch die Loup-Schlucht und das charmante Tourrettes-sur-Loup.",
+        "hu": "Autóval fedezze fel a 'Tengeri-Alpok gyöngyszemeit'. Saint-Paul és a Maeght Alapítvány után induljon beljebb a szárazföld felé Gourdonba, amely látványosan trónol egy sziklán. A visszaút a Loup-szurdokon és a bájos Tourrettes-sur-Loup falun keresztül vezet.",
+        "ro": "Cu mașina explorați 'Perlele Alpilor Maritimi'. După vizitarea Saint-Paul și a Fundației Maeght, conduceți spre interiorul țării către Gourdon, cocoțat spectaculos pe o stâncă. Drumul de întoarcere trece prin cheile Loup și fermecătorul Tourrettes-sur-Loup.",
+        "en": "By car, explore the 'Pearls of the Maritime Alps'. After visiting Saint-Paul and the Fondation Maeght, drive deeper inland to Gourdon, spectacularly perched on a rock. The return journey leads through the Loup gorge and the charming Tourrettes-sur-Loup."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Table du Loup",
+            "tip": "Frische lokale Produkte direkt an der Schlucht."
+          },
+          {
+            "name": "Confiserie Florian",
+            "tip": "Probieren Sie kandierte Blüten in Tourrettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Table du Loup",
+            "tip": "Friss helyi termékek közvetlenül a szurdoknál."
+          },
+          {
+            "name": "Confiserie Florian",
+            "tip": "Kóstolja meg a kandírozott virágokat Tourrettes-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Table du Loup",
+            "tip": "Produse locale proaspete chiar lângă chei."
+          },
+          {
+            "name": "Confiserie Florian",
+            "tip": "Gustați florile confiate în Tourrettes."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table du Loup",
+            "tip": "Fresh local products right by the gorge."
+          },
+          {
+            "name": "Confiserie Florian",
+            "tip": "Try the candied flowers in Tourrettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gourdon Plateau",
+            "tip": "Endlose Weite mit Blick auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gourdoni fennsík",
+            "tip": "Végtelen tágasság kilátással a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Gourdon",
+            "tip": "Întinderi nesfârșite cu vedere spre mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gourdon Plateau",
+            "tip": "Endless expanse with views of the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tourrettes Crafts",
+            "tip": "Handgefertigte Keramik und Webereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tourrettesi kézművesek",
+            "tip": "Kézzel készített kerámiák és szőttesek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanii din Tourrettes",
+            "tip": "Ceramică și țesături realizate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tourrettes Crafts",
+            "tip": "Handmade ceramics and weavings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Hinterland sind oft schmal und kurvenreich.",
+          "Parken Sie in Saint-Paul unbedingt in markierten Zonen, es wird streng kontrolliert.",
+          "Ein kleiner Mietwagen ist für die Bergdörfer ideal."
+        ],
+        "hu": [
+          "A hátország útjai gyakran keskenyek és kanyargósak.",
+          "Saint-Paul-ban feltétlenül kijelölt helyen parkoljon, szigorúan ellenőrzik.",
+          "Egy kis bérautó ideális a hegyi falvakhoz."
+        ],
+        "ro": [
+          "Drumurile din interior sunt adesea înguste și șerpuite.",
+          "În Saint-Paul parcați neapărat în zonele marcate, se controlează strict.",
+          "O mașină de închiriat mică este ideală pentru satele de munte."
+        ],
+        "en": [
+          "Inland roads are often narrow and winding.",
+          "In Saint-Paul, make sure to park in marked zones, as it is strictly enforced.",
+          "A small rental car is ideal for the mountain villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Paul Village (Bushaltestelle)",
+            "hu": "Saint-Paul Village (buszmegálló)",
+            "ro": "Saint-Paul Village (stație de autobuz)",
+            "en": "Saint-Paul Village (Bus Stop)"
+          },
+          "coords": [
+            7.1215,
+            43.6985
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bus 400 verbindet Nizza mit Saint-Paul.",
+            "hu": "A 400-as busz köti össze Nizzát Saint-Paul-lal.",
+            "ro": "Autobuzul 400 leagă Nisa de Saint-Paul.",
+            "en": "Bus 400 connects Nice with Saint-Paul."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Maeght",
+            "hu": "Maeght Alapítvány",
+            "ro": "Fundația Maeght",
+            "en": "Fondation Maeght"
+          },
+          "coords": [
+            7.115,
+            43.7008
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle bergauf.",
+            "hu": "Rövid sétára a buszmegállótól felfelé.",
+            "ro": "Scurtă plimbare la deal de la stația de autobuz.",
+            "en": "Short walk uphill from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Cagnes-sur-Mer (Renoir Museum)",
+            "hu": "Cagnes-sur-Mer (Renoir Múzeum)",
+            "ro": "Cagnes-sur-Mer (Muzeul Renoir)",
+            "en": "Cagnes-sur-Mer (Renoir Museum)"
+          },
+          "coords": [
+            7.153,
+            43.6675
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das letzte Wohnhaus des Malers Renoir.",
+            "hu": "Látogassa meg Renoir festő utolsó lakóházát.",
+            "ro": "Vizitați ultima casă a pictorului Renoir.",
+            "en": "Visit the last home of the painter Renoir."
+          }
+        },
+        {
+          "name": {
+            "de": "Cros-de-Cagnes Strand",
+            "hu": "Cros-de-Cagnes tengerpart",
+            "ro": "Plaja Cros-de-Cagnes",
+            "en": "Cros-de-Cagnes Beach"
+          },
+          "coords": [
+            7.165,
+            43.659
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Meer vor der Rückfahrt nach Nizza.",
+            "hu": "Lazítson a tengerparton a nizzai visszautazás előtt.",
+            "ro": "Relaxați-vă la malul mării înainte de întoarcerea la Nisa.",
+            "en": "Relax by the sea before heading back to Nice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Buslinie 400 ist Saint-Paul leicht von der Küste aus erreichbar. Nach einem Vormittag voller Kunst und Geschichte im Dorf fahren Sie hinunter nach Cagnes-sur-Mer. Dort erwartet Sie das Renoir-Museum in einem idyllischen Olivenhain, bevor Sie den Tag am Strand von Cros-de-Cagnes ausklingen lassen.",
+        "hu": "A 400-as buszjáratnak köszönhetően Saint-Paul könnyen elérhető a part felől. A faluban töltött művészi délelőtt után utazzon le Cagnes-sur-Mer-be. Ott a Renoir-múzeum várja egy idilli olajfaligetben, mielőtt a napot Cros-de-Cagnes strandján zárná.",
+        "ro": "Datorită liniei de autobuz 400, Saint-Paul este ușor accesibil de pe coastă. După o dimineață plină de artă și istorie în sat, coborâți spre Cagnes-sur-Mer. Acolo vă așteaptă Muzeul Renoir într-o livadă de măslini idilică, înainte de a încheia ziua pe plaja din Cros-de-Cagnes.",
+        "en": "Thanks to bus line 400, Saint-Paul is easily accessible from the coast. After a morning full of art and history in the village, travel down to Cagnes-sur-Mer. There, the Renoir Museum awaits in an idyllic olive grove before ending the day at the beach of Cros-de-Cagnes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Art Gourmand",
+            "tip": "Hausgemachte Schokolade und Eis in Saint-Paul."
+          },
+          {
+            "name": "Le Cigalon",
+            "tip": "Meeresfrüchte in Cros-de-Cagnes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Art Gourmand",
+            "tip": "Házi készítésű csokoládé és fagylalt Saint-Paul-ban."
+          },
+          {
+            "name": "Le Cigalon",
+            "tip": "Tenger gyümölcsei Cros-de-Cagnes-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Art Gourmand",
+            "tip": "Ciocolată și înghețată de casă în Saint-Paul."
+          },
+          {
+            "name": "Le Cigalon",
+            "tip": "Fructe de mare în Cros-de-Cagnes."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Art Gourmand",
+            "tip": "Homemade chocolate and ice cream in Saint-Paul."
+          },
+          {
+            "name": "Le Cigalon",
+            "tip": "Seafood in Cros-de-Cagnes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Renoir Garten",
+            "tip": "Einhundertjährige Olivenbäume bieten Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Renoir-kert",
+            "tip": "Százéves olajfák nyújtanak árnyékot.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Renoir",
+            "tip": "Măslini centenari care oferă umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Renoir Garden",
+            "tip": "Centenary olive trees providing shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saint-Paul Postcards",
+            "tip": "Künstlerische Postkarten im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Paul képeslapok",
+            "tip": "Művészi képeslapok a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi Saint-Paul",
+            "tip": "Cărți poștale artistice în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Paul Postcards",
+            "tip": "Artistic postcards in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan genau, da die Frequenz am Wochenende variieren kann.",
+          "Die 'Zou!'-App hilft bei der Navigation im regionalen Nahverkehr.",
+          "In Cagnes-sur-Mer gibt es eine kostenlose Shuttle-Bus-Verbindung zur Oberstadt."
+        ],
+        "hu": [
+          "Ellenőrizze pontosan a buszmenetrendet, mert hétvégén változhat a gyakoriság.",
+          "A 'Zou!' alkalmazás segít a regionális közlekedésben való eligazodásban.",
+          "Cagnes-sur-Mer-ben ingyenes ingajárat közlekedik a felsővárosba."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor, deoarece frecvența poate varia în weekend.",
+          "Aplicația 'Zou!' ajută la navigarea în transportul public regional.",
+          "În Cagnes-sur-Mer există un microbuz gratuit către orașul de sus."
+        ],
+        "en": [
+          "Check the bus schedule carefully, as the frequency can vary on weekends.",
+          "The 'Zou!' app helps with navigating regional public transit.",
+          "In Cagnes-sur-Mer, there is a free shuttle bus to the upper town."
+        ]
+      }
+    }
+  }
+}

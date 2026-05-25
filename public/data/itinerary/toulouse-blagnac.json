@@ -1,0 +1,1105 @@
+{
+  "city_id": "toulouse-blagnac",
+  "anchor": {
+    "name": "Blagnac",
+    "coords": [
+      1.3933,
+      43.6356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Marronniers",
+            "hu": "Gesztenyék tere",
+            "ro": "Piața Marronniers",
+            "en": "Place des Marronniers"
+          },
+          "coords": [
+            1.3925,
+            43.6361
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Startpunkt im alten Dorf.",
+            "hu": "Remek kiindulópont az ófalu szívében.",
+            "ro": "Un punct de plecare frumos în satul vechi.",
+            "en": "A beautiful starting point in the old village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Clément",
+            "hu": "Szent Kelemen templom",
+            "ro": "Biserica Saint-Clément",
+            "en": "Saint-Clément Church"
+          },
+          "coords": [
+            1.3941,
+            43.6365
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur aus dem 15. Jahrhundert.",
+            "hu": "Csodálja meg a 15. századi építészetet.",
+            "ro": "Admirați arhitectura din secolul al XV-lea.",
+            "en": "Admire the 15th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Blagnac",
+            "hu": "Blagnac óvárosa",
+            "ro": "Centrul vechi Blagnac",
+            "en": "Old Blagnac"
+          },
+          "coords": [
+            1.393,
+            43.637
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen.",
+            "hu": "Vesszen el a szűk, hangulatos utcákban.",
+            "ro": "Pierdeți-vă pe străzile înguste și cochete.",
+            "en": "Get lost in the narrow, cozy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Odyssud",
+            "hu": "Odyssud park",
+            "ro": "Parcul Odyssud",
+            "en": "Odyssud Park"
+          },
+          "coords": [
+            1.385,
+            43.639
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick am See.",
+            "hu": "Tökéletes hely egy tóparti piknikhez.",
+            "ro": "Locul ideal pentru un picnic lângă lac.",
+            "en": "Ideal spot for a lakeside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Dominikanerinnen-Kloster",
+            "hu": "Dominikánus nővérek kolostora",
+            "ro": "Mănăstirea Dominicanelor",
+            "en": "Dominican Sisters Monastery"
+          },
+          "coords": [
+            1.398,
+            43.634
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und Kontemplation.",
+            "hu": "A csend és az elmélkedés helyszíne.",
+            "ro": "Un loc de liniște și contemplare.",
+            "en": "A place of silence and contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Garonne",
+            "hu": "Garonne-part",
+            "ro": "Malurile Garonne",
+            "en": "Garonne River Banks"
+          },
+          "coords": [
+            1.405,
+            43.632
+          ],
+          "category": "park",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Fluss.",
+            "hu": "Élvezze a naplementét a folyóparton.",
+            "ro": "Bucurați-vă de apusul de soare pe malul râului.",
+            "en": "Enjoy the sunset by the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Blagnac auf dem Place des Marronniers und besuchen Sie die Kirche Saint-Clément. Ein Spaziergang durch das alte Dorf führt Sie zurück in die Vergangenheit. Mittags bietet der Park Odyssud Entspannung pur in der Natur. Am Nachmittag entdecken Sie das spirituelle Erbe im Kloster, bevor Sie den Tag friedlich an den Ufern der Garonne ausklingen lassen.",
+        "hu": "Kezdje a napot Blagnac történelmi szívében, a Gesztenyék terén, majd látogasson el a Szent Kelemen templomba. Az óvárosi séta visszarepíti az időben. Délben az Odyssud park nyújt kikapcsolódást a természetben. Délután fedezze fel a kolostor spirituális örökségét, végül zárja a napot békésen a Garonne-parti sétányon, figyelve a folyó sodrását.",
+        "ro": "Începeți ziua în inima istorică a orașului Blagnac, în Piața Marronniers, și vizitați Biserica Saint-Clément. O plimbare prin satul vechi vă va purta înapoi în timp. La prânz, Parcul Odyssud oferă relaxare totală în natură. După-amiaza, descoperiți moștenirea spirituală de la mănăstire, înainte de a încheia ziua liniștit pe malurile râului Garonne.",
+        "en": "Start your day in the historical heart of Blagnac at Place des Marronniers and visit the Saint-Clément Church. A walk through the old village takes you back in time. At midday, Odyssud Park offers pure relaxation in nature. In the afternoon, discover the spiritual heritage at the monastery, before ending the day peacefully on the banks of the Garonne River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassoulet toulousain",
+            "tip": "Probieren Sie diesen Klassiker bei 'L'Amphitryon'."
+          },
+          {
+            "name": "Saucisse de Toulouse",
+            "tip": "Gegrillt am Marktplatz ein Muss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toulouse-i cassoulet",
+            "tip": "Kóstolja meg ezt a klasszikust az 'L'Amphitryon'-ban."
+          },
+          {
+            "name": "Toulouse-i kolbász",
+            "tip": "A piaci árusoknál frissen sütve a legjobb."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cassoulet toulousain",
+            "tip": "Gustați acest clasic la 'L'Amphitryon'."
+          },
+          {
+            "name": "Cârnați de Toulouse",
+            "tip": "Obligatoriu de încercat la grătar în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toulouse Cassoulet",
+            "tip": "Try this classic at 'L'Amphitryon'."
+          },
+          {
+            "name": "Toulouse Sausage",
+            "tip": "A must-try, freshly grilled at the market stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac d'Odyssud",
+            "tip": "Ruhiger Platz am Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garonne-Ufer",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Odyssud-tó",
+            "tip": "Csendes pont a vízparton.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garonne-part",
+            "tip": "Tökéletes naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Odyssud",
+            "tip": "Loc liniștit lângă apă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul Garonne",
+            "tip": "Perfect pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Odyssud Lake",
+            "tip": "Quiet spot by the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Garonne Banks",
+            "tip": "Perfect for sunset views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Blagnac",
+            "tip": "Lokale Produkte jeden Samstagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blagnac Piac",
+            "tip": "Helyi termékek minden szombat délelőtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Blagnac",
+            "tip": "Produse locale în fiecare sâmbătă dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blagnac Market",
+            "tip": "Local products every Saturday morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Promenade entlang der Garonne.",
+          "Das alte Dorf ist sehr fußgängerfreundlich.",
+          "Samstags ist Markttag.",
+          "Buchen Sie Restauranttische im Voraus."
+        ],
+        "hu": [
+          "Használja a Garonne menti sétányt.",
+          "Az óváros gyalogosan fedezhető fel a legjobban.",
+          "Szombaton tartják a nagy piacot.",
+          "Érdemes előre asztalt foglalni az éttermekben."
+        ],
+        "ro": [
+          "Folosiți promenada de-a lungul Garonne.",
+          "Satul vechi este foarte prietenos cu pietonii.",
+          "Sâmbăta este zi de piață.",
+          "Rezervați mese la restaurante în avans."
+        ],
+        "en": [
+          "Use the promenade along the Garonne.",
+          "The old village is very pedestrian-friendly.",
+          "Saturday is market day.",
+          "Book restaurant tables in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aeroscopia Museum",
+            "hu": "Aeroscopia Múzeum",
+            "ro": "Muzeul Aeroscopia",
+            "en": "Aeroscopia Museum"
+          },
+          "coords": [
+            1.36,
+            43.66
+          ],
+          "category": "museum",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die legendäre Concorde.",
+            "hu": "Nézze meg a legendás Concorde-ot.",
+            "ro": "Vizitați legendarul Concorde.",
+            "en": "Visit the legendary Concorde."
+          }
+        },
+        {
+          "name": {
+            "de": "Ailes Anciennes Toulouse",
+            "hu": "Régi Szárnyak Múzeuma",
+            "ro": "Aripile Vechi Toulouse",
+            "en": "Old Wings Museum"
+          },
+          "coords": [
+            1.361,
+            43.659
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Restaurierte historische Flugzeuge.",
+            "hu": "Restaurált történelmi repülőgépek.",
+            "ro": "Avioane istorice restaurate.",
+            "en": "Restored historic aircraft."
+          }
+        },
+        {
+          "name": {
+            "de": "Airbus Aussichtspunkt",
+            "hu": "Airbus kilátópont",
+            "ro": "Punct panoramic Airbus",
+            "en": "Airbus Viewpoint"
+          },
+          "coords": [
+            1.365,
+            43.65
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie startende Flugzeuge.",
+            "hu": "Figyelje meg a felszálló repülőket.",
+            "ro": "Observați avioanele care decolează.",
+            "en": "Watch planes taking off."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Ritouret",
+            "hu": "Ritouret park",
+            "ro": "Parcul Ritouret",
+            "en": "Ritouret Park"
+          },
+          "coords": [
+            1.388,
+            43.638
+          ],
+          "category": "park",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein moderner Park mit Skulpturen.",
+            "hu": "Modern park szobrokkal.",
+            "ro": "Un parc modern cu sculpturi.",
+            "en": "A modern park with sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Odyssud See",
+            "hu": "Odyssud-tó",
+            "ro": "Lacul Odyssud",
+            "en": "Odyssud Lake"
+          },
+          "coords": [
+            1.385,
+            43.639
+          ],
+          "category": "park",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine kurze Pause.",
+            "hu": "Tökéletes egy rövid pihenőhöz.",
+            "ro": "Perfect pentru o scurtă pauză.",
+            "en": "Perfect for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Blagnac",
+            "hu": "Blagnac óvárosa",
+            "ro": "Centrul vechi Blagnac",
+            "en": "Old Blagnac"
+          },
+          "coords": [
+            1.393,
+            43.637
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radfahren durch die engen Gassen.",
+            "hu": "Kerékpározzon végig a szűk utcákon.",
+            "ro": "Plimbare cu bicicleta pe străzile înguste.",
+            "en": "Cycle through the narrow streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Blagnacs Luftfahrtgeschichte mit dem Fahrrad. Starten Sie bei Aeroscopia und Ailes Anciennes, um ikonische Flugzeuge zu sehen. Radeln Sie zum Airbus-Aussichtspunkt für spektakuläre Starts. Am Nachmittag bieten der Ritouret-Park und der Odyssud-See eine grüne Auszeit, bevor Sie im historischen Zentrum von Blagnac ankommen.",
+        "hu": "Fedezze fel Blagnac repülési múltját kerékpáron. Kezdje az Aeroscopia és a Régi Szárnyak múzeumnál az ikonikus gépekkel. Tekerjen el az Airbus kilátóhoz a látványos felszállásokért. Délután a Ritouret park és az Odyssud-tó kínál zöld pihenőt, mielőtt megérkezne Blagnac hangulatos történelmi központjába.",
+        "ro": "Descoperiți istoria aviației din Blagnac cu bicicleta. Începeți la Aeroscopia și Aripile Vechi pentru a vedea avioane iconice. Pedalați spre punctul panoramic Airbus pentru decolări spectaculoase. După-amiaza, Parcul Ritouret și Lacul Odyssud oferă o pauză verde, înainte de a ajunge în centrul istoric al orașului.",
+        "en": "Explore Blagnac's aviation history by bike. Start at Aeroscopia and Old Wings to see iconic aircraft. Cycle to the Airbus viewpoint for spectacular take-offs. In the afternoon, Ritouret Park and Odyssud Lake offer a green escape before arriving in the charming historical center of Blagnac."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Violettes de Toulouse",
+            "tip": "Kandierte Veilchen als Dessert."
+          },
+          {
+            "name": "Bier aus lokaler Brauerei",
+            "tip": "Erfrischend nach der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toulouse-i ibolya",
+            "tip": "Kandírozott ibolya desszertként."
+          },
+          {
+            "name": "Helyi kézműves sör",
+            "tip": "Frissítő a biciklitúra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Violette de Toulouse",
+            "tip": "Violete zaharate ca desert."
+          },
+          {
+            "name": "Bere locală",
+            "tip": "Răcoritoare după tura cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toulouse Violets",
+            "tip": "Candied violets as a dessert."
+          },
+          {
+            "name": "Local Craft Beer",
+            "tip": "Refreshing after the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc du Ritouret",
+            "tip": "Ruhige Wege im Park.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ritouret park",
+            "tip": "Csendes ösvények a parkban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Ritouret",
+            "tip": "Alei liniștite în parc.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ritouret Park",
+            "tip": "Quiet paths in the park.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Aeroscopia Boutique",
+            "tip": "Modelle und Luftfahrt-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aeroscopia Bolt",
+            "tip": "Makettek és repülős szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Aeroscopia",
+            "tip": "Machete și suveniruri aviatice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aeroscopia Shop",
+            "tip": "Models and aviation souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Viele Radwege sind gut markiert.",
+          "Achten Sie am Airbus-Gelände auf Schilder.",
+          "Fahrradverleih am Odyssud möglich.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Sok kerékpárút jól ki van táblázva.",
+          "Az Airbus területén figyelje az útjelzéseket.",
+          "Az Odyssudnál van bérlési lehetőség.",
+          "Mindig viseljen bukósisakot."
+        ],
+        "ro": [
+          "Multe piste de biciclete sunt bine marcate.",
+          "Atenție la semne în zona Airbus.",
+          "Închiriere biciclete disponibilă la Odyssud.",
+          "Purtați cască de protecție."
+        ],
+        "en": [
+          "Many bike paths are well-marked.",
+          "Watch for signs in the Airbus area.",
+          "Bike rental is available at Odyssud.",
+          "Always wear a helmet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "MEETT Messezentrum",
+            "hu": "MEETT Kiállítási Központ",
+            "ro": "Centrul de expoziții MEETT",
+            "en": "MEETT Exhibition Center"
+          },
+          "coords": [
+            1.34,
+            43.67
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Moderne Architektur von Weltrang.",
+            "hu": "Világszínvonalú modern építészet.",
+            "ro": "Arhitectură modernă de talie mondială.",
+            "en": "World-class modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Aeroscopia",
+            "hu": "Aeroscopia",
+            "ro": "Aeroscopia",
+            "en": "Aeroscopia"
+          },
+          "coords": [
+            1.36,
+            43.66
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt auf dem Gelände.",
+            "hu": "Parkoljon közvetlenül a helyszínen.",
+            "ro": "Parcați direct în incintă.",
+            "en": "Park directly on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug: Grenade-sur-Garonne",
+            "hu": "Kirándulás: Grenade-sur-Garonne",
+            "ro": "Excursie: Grenade-sur-Garonne",
+            "en": "Excursion: Grenade-sur-Garonne"
+          },
+          "coords": [
+            1.293,
+            43.771
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Historische Markthalle aus dem 14. Jh.",
+            "hu": "14. századi történelmi vásárcsarnok.",
+            "ro": "Hală istorică din secolul al XIV-lea.",
+            "en": "14th-century historical market hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Odyssud Kulturzentrum",
+            "hu": "Odyssud Kulturális Központ",
+            "ro": "Centrul cultural Odyssud",
+            "en": "Odyssud Cultural Center"
+          },
+          "coords": [
+            1.385,
+            43.639
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Wichtiger kultureller Hotspot.",
+            "hu": "Fontos kulturális találkozóhely.",
+            "ro": "Punct cultural important.",
+            "en": "Important cultural hotspot."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Odyssud",
+            "hu": "Odyssud park",
+            "ro": "Parcul Odyssud",
+            "en": "Odyssud Park"
+          },
+          "coords": [
+            1.385,
+            43.639
+          ],
+          "category": "park",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannung vor der Rückfahrt.",
+            "hu": "Pihenés a visszaindulás előtt.",
+            "ro": "Relaxare înainte de întoarcere.",
+            "en": "Relaxation before the return trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Marronniers",
+            "hu": "Gesztenyék tere",
+            "ro": "Piața Marronniers",
+            "en": "Place des Marronniers"
+          },
+          "coords": [
+            1.3925,
+            43.6361
+          ],
+          "category": "square",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abendessen in der Nähe möglich.",
+            "hu": "Vacsora lehetőség a közelben.",
+            "ro": "Cină posibilă în apropiere.",
+            "en": "Dinner options available nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem das MEETT und Aeroscopia. Ein kleiner Ausflug nach Grenade-sur-Garonne zeigt Ihnen eine prächtige mittelalterliche Markthalle. Zurück in Blagnac bietet das Kulturzentrum Odyssud Inspiration, gefolgt von einem entspannten Spaziergang im Park und einem Abendessen im alten Dorf.",
+        "hu": "Autóval kényelmesen elérheti a MEETT központot és az Aeroscopia múzeumot. Egy rövid kirándulás Grenade-sur-Garonne-ba felfedi a középkori vásárcsarnok szépségét. Visszatérve Blagnacba, az Odyssud kulturális központ és park nyújt kikapcsolódást, mielőtt az ófalu szívében vacsorázna.",
+        "ro": "Cu mașina puteți ajunge ușor la MEETT și Aeroscopia. O mică excursie la Grenade-sur-Garonne vă va arăta o hală medievală superbă. Revenind în Blagnac, centrul cultural Odyssud oferă inspirație, urmată de o plimbare relaxantă în parc și o cină în satul vechi.",
+        "en": "By car, you can easily reach MEETT and Aeroscopia. A short excursion to Grenade-sur-Garonne reveals a magnificent medieval market hall. Back in Blagnac, the Odyssud cultural center offers inspiration, followed by a relaxed park walk and dinner in the old village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confit de Canard",
+            "tip": "Ein Muss in der Region."
+          },
+          {
+            "name": "Pastis Gascon",
+            "tip": "Süßer Apfelkuchen als Nachtisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confit de Canard",
+            "tip": "Kacsasült, a régió alapétele."
+          },
+          {
+            "name": "Pastis Gascon",
+            "tip": "Édes almás sütemény desszertnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confit de Canard",
+            "tip": "O specialitate regională obligatorie."
+          },
+          {
+            "name": "Pastis Gascon",
+            "tip": "Plăcintă cu mere ca desert."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duck Confit",
+            "tip": "A staple regional dish."
+          },
+          {
+            "name": "Pastis Gascon",
+            "tip": "Sweet apple pastry for dessert."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garonne-Ufer",
+            "tip": "Etwas außerhalb ruhiger.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garonne-part",
+            "tip": "Kicsit távolabb csendesebb.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Garonne",
+            "tip": "Mai liniștit la periferie.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Garonne Banks",
+            "tip": "Quieter further out.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blagnac Centre Commercial",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blagnac Bevásárlóközpont",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Blagnac",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blagnac Shopping Center",
+            "tip": "Large shopping mall nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Odyssud (P+R).",
+          "Vermeiden Sie die Rushhour Richtung Toulouse.",
+          "Nutzen Sie GPS für Grenade.",
+          "MEETT hat gute Parkmöglichkeiten."
+        ],
+        "hu": [
+          "Használja az Odyssud P+R parkolót.",
+          "Kerülje a csúcsforgalmat Toulouse felé.",
+          "Használjon GPS-t Grenade-hoz.",
+          "A MEETT-nél bőséges a parkolóhely."
+        ],
+        "ro": [
+          "Parcați la Odyssud (P+R).",
+          "Evitați orele de vârf spre Toulouse.",
+          "Folosiți GPS pentru Grenade.",
+          "MEETT are locuri de parcare bune."
+        ],
+        "en": [
+          "Park at Odyssud (P+R).",
+          "Avoid rush hour towards Toulouse.",
+          "Use GPS for the Grenade trip.",
+          "MEETT has ample parking available."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Relais (Tram)",
+            "hu": "Place du Relais (Villamos)",
+            "ro": "Place du Relais (Tramvai)",
+            "en": "Place du Relais (Tram)"
+          },
+          "coords": [
+            1.393,
+            43.636
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentraler Tram-Knotenpunkt.",
+            "hu": "Központi villamos megálló.",
+            "ro": "Nod central de tramvai.",
+            "en": "Central tram hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Odyssud (Tram)",
+            "hu": "Odyssud (Villamos)",
+            "ro": "Odyssud (Tramvai)",
+            "en": "Odyssud (Tram)"
+          },
+          "coords": [
+            1.385,
+            43.639
+          ],
+          "category": "park",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Direkter Zugang zum Park.",
+            "hu": "Közvetlen bejárat a parkhoz.",
+            "ro": "Acces direct la parc.",
+            "en": "Direct access to the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Beauzelle - Aeroscopia",
+            "hu": "Beauzelle - Aeroscopia",
+            "ro": "Beauzelle - Aeroscopia",
+            "en": "Beauzelle - Aeroscopia"
+          },
+          "coords": [
+            1.36,
+            43.66
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Tramlinie T1 bis zur Endstation.",
+            "hu": "T1-es villamos a végállomásig.",
+            "ro": "Linia T1 până la capăt.",
+            "en": "T1 tram line to the end station."
+          }
+        },
+        {
+          "name": {
+            "de": "Patinoire (Eishalle)",
+            "hu": "Jégcsarnok",
+            "ro": "Patinoar",
+            "en": "Ice Rink"
+          },
+          "coords": [
+            1.38,
+            43.642
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bekanntes lokales Eissportzentrum.",
+            "hu": "Ismert helyi jégkorong központ.",
+            "ro": "Centru local de sporturi pe gheață.",
+            "en": "Famous local ice sports center."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Blagnac",
+            "hu": "Blagnac óvárosa",
+            "ro": "Centrul vechi Blagnac",
+            "en": "Old Blagnac"
+          },
+          "coords": [
+            1.393,
+            43.637
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum.",
+            "hu": "Visszatérés a központba.",
+            "ro": "Revenire în centru.",
+            "en": "Return to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Tram-Netz von Blagnac. Die Linie T1 verbindet das alte Dorf mit dem Park Odyssud und den Luftfahrtmuseen. Am Nachmittag können Sie die Eishalle besuchen, bevor Sie für einen gemütlichen Abendspaziergang ins historische Viertel zurückkehren.",
+        "hu": "Használja Blagnac kiváló villamoshálózatát. A T1-es vonal összeköti az ófalut az Odyssud parkkal és a repülési múzeumokkal. Délután látogasson el a jégcsarnokhoz, majd térjen vissza a történelmi negyedbe egy kellemes esti sétára.",
+        "ro": "Utilizați rețeaua excelentă de tramvai din Blagnac. Linia T1 face legătura între satul vechi, parcul Odyssud și muzeele aviației. După-amiaza puteți vizita patinoarul, înainte de a reveni în cartierul istoric pentru o plimbare de seară.",
+        "en": "Use Blagnac's excellent tram network. The T1 line connects the old village with Odyssud Park and the aviation museums. In the afternoon, you can visit the ice rink before returning to the historical district for a pleasant evening walk."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêpes",
+            "tip": "Schneller Snack am Odyssud."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palacsinta",
+            "tip": "Gyors snack az Odyssudnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite",
+            "tip": "Gustare rapidă la Odyssud."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêpes",
+            "tip": "Quick snack at Odyssud."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Odyssud Parkbänke",
+            "tip": "Ruhiger Platz zum Lesen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Odyssud padok",
+            "tip": "Csendes hely olvasáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în Odyssud",
+            "tip": "Loc liniștit pentru citit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Odyssud Park Benches",
+            "tip": "Quiet spot for reading.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Tabac im Dorf",
+            "tip": "Zeitungen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falu trafikja",
+            "tip": "Újságok és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tabac în sat",
+            "tip": "Ziare și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Tabac",
+            "tip": "Newspapers and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Tisséo).",
+          "Die T1 fährt alle 10-15 Min.",
+          "Validieren Sie Ihr Ticket immer.",
+          "App 'Tisséo' zur Planung nutzen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Tisséo).",
+          "A T1 villamos 10-15 percenként jár.",
+          "Mindig érvényesítse a jegyét.",
+          "Használja a 'Tisséo' appot."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Tisséo).",
+          "Tramvaiul T1 circulă la 10-15 min.",
+          "Validați întotdeauna biletul.",
+          "Utilizați aplicația 'Tisséo'."
+        ],
+        "en": [
+          "Buy a day pass (Tisséo).",
+          "T1 tram runs every 10-15 min.",
+          "Always validate your ticket.",
+          "Use the 'Tisséo' app for planning."
+        ]
+      }
+    }
+  }
+}

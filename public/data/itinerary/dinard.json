@@ -1,0 +1,1102 @@
+{
+  "city_id": "dinard",
+  "anchor": {
+    "name": "Plage de l'Écluse",
+    "coords": [
+      -2.0497,
+      48.6311
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de l'Écluse",
+            "hu": "Plage de l'Écluse",
+            "ro": "Plage de l'Écluse",
+            "en": "Plage de l'Écluse"
+          },
+          "coords": [
+            -2.0497,
+            48.6311
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein gestreiftes Zelt für das echte Retro-Gefühl.",
+            "hu": "Béreljen csíkos sátrat az igazi retro hangulathoz.",
+            "ro": "Închiriați un cort în dungi pentru o senzație retro autentică.",
+            "en": "Rent a striped tent for that authentic retro feel."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Moulinet",
+            "hu": "Pointe du Moulinet",
+            "ro": "Pointe du Moulinet",
+            "en": "Pointe du Moulinet"
+          },
+          "coords": [
+            -2.0455,
+            48.6358
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Bucht von Saint-Malo.",
+            "hu": "A legjobb kilátás a Saint-Malo-öbölre.",
+            "ro": "Cea mai bună vedere spre golful Saint-Malo.",
+            "en": "Best view over the Saint-Malo bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Les Roches Brunes",
+            "hu": "Villa Les Roches Brunes",
+            "ro": "Villa Les Roches Brunes",
+            "en": "Villa Les Roches Brunes"
+          },
+          "coords": [
+            -2.0538,
+            48.6352
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kunstausstellungen im Inneren.",
+            "hu": "Látogassa meg a belső művészeti kiállításokat.",
+            "ro": "Vizitați expozițiile de artă din interior.",
+            "en": "Visit the art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché de Dinard",
+            "hu": "Dinardi Piac",
+            "ro": "Piața din Dinard",
+            "en": "Dinard Market"
+          },
+          "coords": [
+            -2.0558,
+            48.6305
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie die Galette-Saucisse an den Ständen.",
+            "hu": "Kóstolja meg a galette-saucisse-t a standoknál.",
+            "ro": "Gustați galette-saucisse la standuri.",
+            "en": "Taste the galette-saucisse at the stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade au Clair de Lune",
+            "hu": "Holdfény sétány",
+            "ro": "Promenada au Clair de Lune",
+            "en": "Moonlight Promenade"
+          },
+          "coords": [
+            -2.0485,
+            48.6285
+          ],
+          "category": "park",
+          "arrive_at": "16:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Im Sommer gibt es hier abends Musik.",
+            "hu": "Nyáron este zene szól a sétányon.",
+            "ro": "Vara, seara se aude muzică pe promenadă.",
+            "en": "In summer, there is music in the evenings."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Dinard",
+            "hu": "Dinardi Kaszinó",
+            "ro": "Cazinoul din Dinard",
+            "en": "Dinard Casino"
+          },
+          "coords": [
+            -2.0505,
+            48.6315
+          ],
+          "category": "historical",
+          "arrive_at": "18:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Cocktail auf der Terrasse.",
+            "hu": "Élvezzen egy koktélt a teraszon.",
+            "ro": "Savurați un cocktail pe terasă.",
+            "en": "Enjoy a cocktail on the terrace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Dinard beginnt am legendären Plage de l'Écluse, wo die blau-weiß gestreiften Zelte den Glamour der Belle Époque heraufbeschwören. Nach einem entspannten Strandaufenthalt spazieren Sie zur Pointe du Moulinet für ein atemberaubendes Panorama.\n\nMittags erkunden Sie die prächtige Villa Les Roches Brunes, ein Symbol des luxuriösen Erbes der Stadt. Tauchen Sie in die lokale Kultur auf dem geschäftigen Markt von Dinard ein, wo frische bretonische Produkte locken.\n\nDer Nachmittag führt Sie entlang der Promenade au Clair de Lune, einem gewundenen Pfad zwischen exotischen Pflanzen und dem Meer. Die frische Brise und die Aussicht auf Saint-Malo begleiten jeden Schritt.\n\nZum Abschluss des Tages bietet das Casino von Dinard eine elegante Kulisse. Genießen Sie die Abenddämmerung am Meer, bevor Sie in eines der exzellenten Fischrestaurants einkehren.",
+        "hu": "A reggel Dinardban a legendás Plage de l'Écluse strandon indul, ahol a kék-fehér csíkos sátrak a Belle Époque korszak fényűzését idézik. Egy pihentető tengerparti időtöltés után sétáljon el a Pointe du Moulinet-hez a lélegzetelállító panorámáért.\n\nDélben fedezze fel a pompás Villa Les Roches Brunes-t, amely a város luxusörökségének szimbóluma. Merüljön el a helyi kultúrában a nyüzsgő Dinard-i piacon, ahol friss breton termékek csábítanak.\n\nA délután a Holdfény sétányon (Promenade au Clair de Lune) folytatódik, amely egzotikus növények és a tenger között kanyarog. A friss szellő és a Saint-Malo-ra nyíló kilátás minden lépését elkíséri.\n\nA nap zárásaként a Dinard-i Kaszinó kínál elegáns hátteret. Élvezze a tengerparti alkonyt, mielőtt betérne a kiváló haléttermek egyikébe.",
+        "ro": "Dimineața în Dinard începe pe legendara Plage de l'Écluse, unde corturile cu dungi albastre și albe evocă farmecul epocii Belle Époque. După o relaxare pe plajă, plimbați-vă spre Pointe du Moulinet pentru o panoramă uluitoare.\n\nLa prânz, explorați splendida Villa Les Roches Brunes, un simbol al moștenirii luxoase a orașului. Imersați-vă în cultura locală în piața plină de viață din Dinard, unde produsele bretone proaspete vă atrag.\n\nDupă-amiaza vă poartă de-a lungul Promenade au Clair de Lune, o potecă șerpuită printre plante exotice și mare. Briza proaspătă și vederea spre Saint-Malo vă însoțesc la fiecare pas.\n\nPentru a încheia ziua, Cazinoul din Dinard oferă un cadru elegant. Bucurați-vă de amurgul de la malul mării înainte de a merge la unul dintre restaurantele excelente cu specific pescăresc.",
+        "en": "Your morning in Dinard begins at the legendary Plage de l'Écluse, where blue and white striped tents evoke the glamour of the Belle Époque. After a relaxing beach session, stroll to Pointe du Moulinet for a breathtaking panorama.\n\nAt midday, explore the magnificent Villa Les Roches Brunes, a symbol of the city's luxurious heritage. Immerse yourself in local culture at the bustling Dinard Market, where fresh Breton products await.\n\nAfternoon leads you along the Promenade au Clair de Lune, a winding path between exotic plants and the sea. The fresh breeze and views of Saint-Malo accompany every step.\n\nTo wrap up the day, the Dinard Casino provides an elegant backdrop. Enjoy the seaside twilight before heading to one of the excellent seafood restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Castor Bellux",
+            "tip": "Beste Galettes der Stadt."
+          },
+          {
+            "name": "Austern aus Cancale",
+            "tip": "Frisch am Markt probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Castor Bellux",
+            "tip": "A legjobb galette-ek a városban."
+          },
+          {
+            "name": "Cancale-i osztriga",
+            "tip": "Kóstolja frissen a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Castor Bellux",
+            "tip": "Cele mai bune galettes din oraș."
+          },
+          {
+            "name": "Stridii de Cancale",
+            "tip": "Gustați-le proaspete în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Castor Bellux",
+            "tip": "Best galettes in town."
+          },
+          {
+            "name": "Cancale Oysters",
+            "tip": "Try them fresh at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe de la Vicomté",
+            "tip": "Ruhiger Spot mit Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Port-Breton",
+            "tip": "Grüne Oase gegenüber dem Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe de la Vicomté",
+            "tip": "Csendes pont kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Port-Breton",
+            "tip": "Zöld oázis a tengerrel szemben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe de la Vicomté",
+            "tip": "Loc liniștit cu vedere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Port-Breton",
+            "tip": "Oază verde vis-à-vis de mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe de la Vicomté",
+            "tip": "Quiet spot with a view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc de Port-Breton",
+            "tip": "Green oasis opposite the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Levavasseur",
+            "tip": "Elegante Boutiquen."
+          },
+          {
+            "name": "Halles de Dinard",
+            "tip": "Lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Levavasseur",
+            "tip": "Elegáns butikok."
+          },
+          {
+            "name": "Halles de Dinard",
+            "tip": "Helyi finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Levavasseur",
+            "tip": "Boutique-uri elegante."
+          },
+          {
+            "name": "Halles de Dinard",
+            "tip": "Delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Levavasseur",
+            "tip": "Elegant boutiques."
+          },
+          {
+            "name": "Halles de Dinard",
+            "tip": "Local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Küstenpfade.",
+          "Der Markt ist besonders am Dienstagmorgen belebt.",
+          "Achten Sie auf die Gezeiten am Strand.",
+          "Die Promenade au Clair de Lune ist nachts beleuchtet."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parti ösvényekhez.",
+          "A piac különösen kedd délelőtt élénk.",
+          "Figyelje az árapályt a tengerparton.",
+          "A Holdfény sétány éjszaka ki van világítva."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru potecile de coastă.",
+          "Piața este deosebit de animată marți dimineața.",
+          "Fiți atenți la maree pe plajă.",
+          "Promenada au Clair de Lune este iluminată noaptea."
+        ],
+        "en": [
+          "Wear comfortable shoes for the coastal paths.",
+          "The market is especially lively on Tuesday mornings.",
+          "Watch the tides at the beach.",
+          "The Moonlight Promenade is illuminated at night."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de Port-Breton",
+            "hu": "Port-Breton park",
+            "ro": "Parcul Port-Breton",
+            "en": "Port-Breton Park"
+          },
+          "coords": [
+            -2.0465,
+            48.6255
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den kleinen Zoo im Park.",
+            "hu": "Látogassa meg a park kis állatkertjét.",
+            "ro": "Vizitați mica grădină zoologică din parc.",
+            "en": "Visit the small zoo inside the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Prieuré",
+            "hu": "Prieuré strand",
+            "ro": "Plaja Prieuré",
+            "en": "Prieuré Beach"
+          },
+          "coords": [
+            -2.0435,
+            48.6265
+          ],
+          "category": "beach",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehr ruhiger Strand mit Blick auf die Mündung.",
+            "hu": "Nagyon csendes strand kilátással a torkolatra.",
+            "ro": "Plajă foarte liniștită cu vedere spre estuar.",
+            "en": "Very quiet beach with a view of the estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Enogat",
+            "hu": "Saint-Enogat negyed",
+            "ro": "Cartierul Saint-Enogat",
+            "en": "Saint-Enogat district"
+          },
+          "coords": [
+            -2.0665,
+            48.6345
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das ursprüngliche Fischerdorf von Dinard.",
+            "hu": "Dinard eredeti halászfaluja.",
+            "ro": "Satul original de pescari din Dinard.",
+            "en": "The original fishing village of Dinard."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte (Rance-Ufer)",
+            "hu": "Zöld út (Rance-part)",
+            "ro": "Voie Verte (malul Rance)",
+            "en": "Greenway (Rance banks)"
+          },
+          "coords": [
+            -2.035,
+            48.615
+          ],
+          "category": "nature",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Sichere Radwege abseits des Verkehrs.",
+            "hu": "Biztonságos kerékpárutak a forgalomtól távol.",
+            "ro": "Piste de biciclete sigure, departe de trafic.",
+            "en": "Safe cycle paths away from traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Vicomté",
+            "hu": "Pointe de la Vicomté",
+            "ro": "Pointe de la Vicomté",
+            "en": "Pointe de la Vicomté"
+          },
+          "coords": [
+            -2.032,
+            48.625
+          ],
+          "category": "nature",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wildere Klippen als im Stadtzentrum.",
+            "hu": "Vadabb sziklák, mint a városközpontban.",
+            "ro": "Stânci mai sălbatice decât în centrul orașului.",
+            "en": "Wilder cliffs than in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse de Dinard",
+            "hu": "Dinardi-öböl",
+            "ro": "Golful Dinard",
+            "en": "Dinard Cove"
+          },
+          "coords": [
+            -2.048,
+            48.63
+          ],
+          "category": "sunset",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für das goldene Licht.",
+            "hu": "Tökéletes hely az aranyórához.",
+            "ro": "Loc perfect pentru lumina aurie.",
+            "en": "Perfect spot for the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Dinard auf zwei Rädern, beginnend im weitläufigen Parc de Port-Breton, wo Natur auf Geschichte trifft. Radeln Sie entlang der Küste zum ruhigen Plage du Prieuré.\n\nMittags führt der Weg ins charmante Saint-Enogat, die 'Wiege' von Dinard, ideal für eine Pause in authentischer Atmosphäre. Danach nutzen Sie die Voie Verte für eine entspannte Fahrt entlang der Rance-Mündung.\n\nDer Nachmittag bietet wilde Schönheit an der Pointe de la Vicomté, fernab der Touristenmassen. Genießen Sie die Brise und die weiten Horizonte.\n\nIhre Tour endet an der Anse de Dinard, wo Sie die Fahrräder abstellen und den Blick auf die Belle-Époque-Villen im sanften Licht des späten Nachmittags genießen können.",
+        "hu": "Fedezze fel Dinardot két keréken, kezdve a tágas Port-Breton parkban, ahol a természet és a történelem találkozik. Tekerjen a part mentén a nyugodt Prieuré strandig.\n\nDélben az út a bájos Saint-Enogat-ba vezet, Dinard 'bölcsőjébe', amely ideális egy szünetre autentikus környezetben. Ezután használja a Voie Verte-et (Zöld utat) egy pihentető tekeréshez a Rance-torkolat mentén.\n\nA délután vad szépséget kínál a Pointe de la Vicomté-nál, távol a turistaáradattól. Élvezze a szellőt és a tágas horizontot.\n\nA túra a Dinardi-öbölben ér véget, ahol leteheti a kerékpárt, és élvezheti a Belle Époque villák látványát a késő délutáni lágy fényben.",
+        "ro": "Descoperiți Dinard pe două roți, începând din vastul Parc de Port-Breton, unde natura se întâlnește cu istoria. Pedalați de-a lungul coastei spre liniștita plajă Prieuré.\n\nLa prânz, drumul duce spre fermecătorul Saint-Enogat, 'leagănul' orașului Dinard, ideal pentru o pauză într-o atmosferă autentică. Apoi, folosiți Voie Verte pentru o plimbare relaxantă de-a lungul estuarului Rance.\n\nDupă-amiaza oferă o frumusețe sălbatică la Pointe de la Vicomté, departe de mulțimile de turiști. Bucurați-vă de briză și de orizonturile largi.\n\nTurul se încheie la Anse de Dinard, unde puteți lăsa bicicletele și puteți admira vilele Belle Époque în lumina blândă a după-amiezii.",
+        "en": "Discover Dinard on two wheels, starting in the spacious Port-Breton Park, where nature meets history. Cycle along the coast to the quiet Prieuré Beach.\n\nAt midday, the path leads to charming Saint-Enogat, the 'cradle' of Dinard, ideal for a break in an authentic atmosphere. Then, use the Voie Verte for a relaxed ride along the Rance estuary.\n\nAfternoon offers wild beauty at Pointe de la Vicomté, far from the tourist crowds. Enjoy the breeze and the wide horizons.\n\nYour tour ends at Dinard Cove, where you can park the bikes and enjoy the view of the Belle Époque villas in the soft late afternoon light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Escale à Saint-Enogat",
+            "tip": "Hervorragende Meeresfrüchte."
+          },
+          {
+            "name": "Bretonischer Cidre",
+            "tip": "Erfrischend nach der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Escale à Saint-Enogat",
+            "tip": "Kiváló tenger gyümölcsei."
+          },
+          {
+            "name": "Breton cider",
+            "tip": "Frissítő a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Escale à Saint-Enogat",
+            "tip": "Fructe de mare excelente."
+          },
+          {
+            "name": "Cidru breton",
+            "tip": "Răcoritor după plimbare."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Escale à Saint-Enogat",
+            "tip": "Excellent seafood."
+          },
+          {
+            "name": "Breton Cider",
+            "tip": "Refreshing after the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de Saint-Enogat",
+            "tip": "Weniger besucht als die Écluse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Voie Verte Abschnitte",
+            "tip": "Völlige Ruhe im Wald.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de Saint-Enogat",
+            "tip": "Kevésbé látogatott, mint az Écluse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Voie Verte szakaszok",
+            "tip": "Teljes nyugalom az erdőben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage de Saint-Enogat",
+            "tip": "Mai puțin frecventată decât Écluse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Secțiunile Voie Verte",
+            "tip": "Liniște deplină în pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Enogat Beach",
+            "tip": "Less crowded than Écluse.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Voie Verte sections",
+            "tip": "Complete peace in the woods.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ateliers de Saint-Enogat",
+            "tip": "Lokales Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Enogat műhelyek",
+            "tip": "Helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierele din Saint-Enogat",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Enogat Workshops",
+            "tip": "Local handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes für die Hügel bei der Vicomté.",
+          "Nutzen Sie die markierten Wege 'Vélopromenades'.",
+          "Ein Schloss ist für Stopps in der Stadt unerlässlich.",
+          "Vermeiden Sie die Promenade au Clair de Lune mit dem Rad."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a Vicomté környéki dombokhoz.",
+          "Használja a kijelölt 'Vélopromenades' útvonalakat.",
+          "A városi megállókhoz elengedhetetlen a lakat.",
+          "Kerülje a kerékpározást a Holdfény sétányon."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice pentru dealurile de lângă Vicomté.",
+          "Utilizați rutele marcate 'Vélopromenades'.",
+          "Un lacăt este esențial pentru opririle în oraș.",
+          "Evitați mersul cu bicicleta pe Promenada au Clair de Lune."
+        ],
+        "en": [
+          "Rent electric bikes for the hills near Vicomté.",
+          "Use the marked 'Vélopromenades' routes.",
+          "A lock is essential for city stops.",
+          "Avoid cycling on the Moonlight Promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 45.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pointe du Décollé",
+            "hu": "Pointe du Décollé",
+            "ro": "Pointe du Décollé",
+            "en": "Pointe du Décollé"
+          },
+          "coords": [
+            -2.115,
+            48.642
+          ],
+          "category": "nature",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Klippen in Saint-Lunaire.",
+            "hu": "Látványos sziklák Saint-Lunaire-ben.",
+            "ro": "Stânci spectaculoase în Saint-Lunaire.",
+            "en": "Spectacular cliffs in Saint-Lunaire."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Briac-sur-Mer",
+            "hu": "Saint-Briac-sur-Mer",
+            "ro": "Saint-Briac-sur-Mer",
+            "en": "Saint-Briac-sur-Mer"
+          },
+          "coords": [
+            -2.133,
+            48.618
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Dorf, das Maler inspirierte.",
+            "hu": "Látogassa meg a festőket megihlető falut.",
+            "ro": "Vizitați satul care a inspirat pictorii.",
+            "en": "Visit the village that inspired painters."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrage de la Rance",
+            "hu": "Rance-gát",
+            "ro": "Barajul Rance",
+            "en": "Rance Tidal Dam"
+          },
+          "coords": [
+            -2.028,
+            48.6185
+          ],
+          "category": "industry",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Erstes Gezeitenkraftwerk der Welt.",
+            "hu": "A világ első árapály-erőműve.",
+            "ro": "Prima centrală mareomotrice din lume.",
+            "en": "The world's first tidal power station."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Aquarium Saint-Malo",
+            "hu": "Saint-Malo Akvárium",
+            "ro": "Acvariul din Saint-Malo",
+            "en": "Saint-Malo Aquarium"
+          },
+          "coords": [
+            -2.015,
+            48.613
+          ],
+          "category": "kid-landmark",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Toll für Familien, besonders bei Regen.",
+            "hu": "Kiváló családoknak, főleg esőben.",
+            "ro": "Excelent pentru familii, mai ales pe ploaie.",
+            "en": "Great for families, especially if it rains."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Malouine",
+            "hu": "Pointe de la Malouine",
+            "ro": "Pointe de la Malouine",
+            "en": "Pointe de la Malouine"
+          },
+          "coords": [
+            -2.052,
+            48.636
+          ],
+          "category": "landmark",
+          "arrive_at": "16:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prachtvollsten Villen.",
+            "hu": "Csodálja meg a legpompásabb villákat.",
+            "ro": "Admirați cele mai fastuoase vile.",
+            "en": "Admire the most magnificent villas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die 'Smaragdküste' über Dinard hinaus. Der Tag beginnt an der Pointe du Décollé mit einem dramatischen Blick auf das Meer. Danach besuchen Sie das malerische Saint-Briac, ein Juwel der bretonischen Architektur.\n\nMittags überqueren Sie den imposanten Rance-Staudamm, ein technisches Meisterwerk. Ein Besuch im großen Aquarium von Saint-Malo bietet faszinierende Einblicke in die Unterwelt der Ozeane.\n\nDer Nachmittag führt Sie zurück nach Dinard zur Pointe de la Malouine. Hier thronen die exklusivsten Villen der Stadt auf den Klippen.\n\nZum Abschluss genießen Sie die Freiheit, versteckte Buchten entlang der Küstenstraße anzusteuern, bevor Sie den Abend im Stadtzentrum von Dinard ausklingen lassen.",
+        "hu": "Autóval Dinard határain túl is felfedezheti a 'Smaragd-partot'. A nap a Pointe du Décollé-nál kezdődik, drámai tengeri kilátással. Ezután látogasson el a festői Saint-Briac-ba, amely a breton építészet gyöngyszeme.\n\nDélben keljen át az impozáns Rance-gáton, amely egy technikai mestermű. A Saint-Malo-i nagy akvárium meglátogatása lenyűgöző bepillantást nyújt az óceánok világába.\n\nA délután visszavezeti Dinardba, a Pointe de la Malouine-hoz. Itt a város legexkluzívabb villái trónolnak a sziklákon.\n\nBefejezésül élvezze a szabadságot, és fedezzen fel rejtett öblöket a parti út mentén, mielőtt az estét Dinard városközpontjában zárná.",
+        "ro": "Cu mașina, veți descoperi 'Coasta de Smarald' dincolo de limitele orașului Dinard. Ziua începe la Pointe du Décollé cu o vedere dramatică spre mare. Apoi, vizitați pitorescul Saint-Briac, o bijuterie a arhitecturii bretone.\n\nLa prânz, traversați impunătorul baraj Rance, o capodoperă tehnică. O vizită la marele acvariu din Saint-Malo oferă o incursiune fascinantă în lumea oceanelor.\n\nDupă-amiaza vă aduce înapoi în Dinard, la Pointe de la Malouine. Aici, cele mai exclusive vile ale orașului tronează pe stânci.\n\nÎn încheiere, bucurați-vă de libertatea de a opri în golfuri ascunse de-a lungul drumului de coastă, înainte de a încheia seara în centrul orașului Dinard.",
+        "en": "By car, you will discover the 'Emerald Coast' beyond Dinard's limits. The day starts at Pointe du Décollé with a dramatic sea view. Then, visit picturesque Saint-Briac, a gem of Breton architecture.\n\nAt midday, cross the imposing Rance Dam, a technical masterpiece. A visit to the large Saint-Malo Aquarium offers a fascinating look into the world of the oceans.\n\nAfternoon leads you back to Dinard, to Pointe de la Malouine. Here, the city's most exclusive villas sit perched on the cliffs.\n\nTo wrap up, enjoy the freedom of finding hidden coves along the coastal road before ending your evening in Dinard city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Rusty",
+            "tip": "In Saint-Lunaire, direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Rusty",
+            "tip": "Saint-Lunaire-ben, közvetlenül a víznél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Rusty",
+            "tip": "În Saint-Lunaire, chiar pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Rusty",
+            "tip": "In Saint-Lunaire, right on the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de la Fosse",
+            "tip": "Abgelegene Bucht für Kenner.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de la Fosse",
+            "tip": "Félreeső öböl ínyenceknek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage de la Fosse",
+            "tip": "Golf retras pentru cunoscători.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage de la Fosse",
+            "tip": "Remote cove for insiders.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bordier Butter Shop",
+            "tip": "In Saint-Malo (kurze Fahrt)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bordier Vajbolt",
+            "tip": "Saint-Malo-ban (rövid autóút)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de unt Bordier",
+            "tip": "În Saint-Malo (scurt drum)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bordier Butter Shop",
+            "tip": "In Saint-Malo (short drive)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum von Dinard ist im Sommer schwierig.",
+          "Nutzen Sie den P+R Parkplatz am Ortseingang.",
+          "Die Küstenstraße nach Saint-Lunaire ist sehr sehenswert.",
+          "Prüfen Sie die Öffnungszeiten des Rance-Staudamm-Besucherzentrums."
+        ],
+        "hu": [
+          "Dinard központjában nyáron nehéz parkolni.",
+          "Használja a P+R parkolót a város szélén.",
+          "A Saint-Lunaire felé vezető parti út nagyon látványos.",
+          "Ellenőrizze a Rance-gát látogatóközpontjának nyitvatartását."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului Dinard este dificilă vara.",
+          "Folosiți parcarea P+R de la intrarea în oraș.",
+          "Drumul de coastă spre Saint-Lunaire este spectaculos.",
+          "Verificați programul centrului de vizitare al barajului Rance."
+        ],
+        "en": [
+          "Parking in Dinard center is difficult in summer.",
+          "Use the P+R parking at the city entrance.",
+          "The coastal road to Saint-Lunaire is very scenic.",
+          "Check the opening hours of the Rance Dam visitor center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bus de Mer (Anlegestelle)",
+            "hu": "Tengeri busz megálló",
+            "ro": "Stația Bus de Mer",
+            "en": "Sea Bus Dock"
+          },
+          "coords": [
+            -2.046,
+            48.628
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die schönste Art, nach Saint-Malo zu gelangen.",
+            "hu": "A legszebb módja Saint-Malo elérésének.",
+            "ro": "Cel mai frumos mod de a ajunge la Saint-Malo.",
+            "en": "The most beautiful way to reach Saint-Malo."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Malo (Intra-Muros)",
+            "hu": "Saint-Malo (Városfalon belül)",
+            "ro": "Saint-Malo (Intra-Muros)",
+            "en": "Saint-Malo (Intra-Muros)"
+          },
+          "coords": [
+            -2.025,
+            48.65
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spaziergang auf den Stadtmauern ist Pflicht.",
+            "hu": "A városfalon tett séta kötelező.",
+            "ro": "Plimbarea pe zidurile cetății este obligatorie.",
+            "en": "A walk on the city walls is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinard Port-Breton (Bus line 16)",
+            "hu": "Port-Breton (16-os busz)",
+            "ro": "Port-Breton (Linia de autobuz 16)",
+            "en": "Port-Breton (Bus line 16)"
+          },
+          "coords": [
+            -2.0465,
+            48.6255
+          ],
+          "category": "park",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Direktverbindung vom Busbahnhof Saint-Malo.",
+            "hu": "Közvetlen kapcsolat Saint-Malo buszpályaudvaráról.",
+            "ro": "Conexiune directă de la autogara Saint-Malo.",
+            "en": "Direct connection from Saint-Malo bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinard Centre (Eglise)",
+            "hu": "Dinard központ (Templom)",
+            "ro": "Centrul Dinard (Biserica)",
+            "en": "Dinard Center (Church)"
+          },
+          "coords": [
+            -2.052,
+            48.631
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt aller lokalen Busse.",
+            "hu": "Minden helyi busz központi csomópontja.",
+            "ro": "Nodul central al tuturor autobuzelor locale.",
+            "en": "Central hub for all local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Clair de Lune",
+            "hu": "Holdfény sétány",
+            "ro": "Promenada au Clair de Lune",
+            "en": "Moonlight Promenade"
+          },
+          "coords": [
+            -2.0485,
+            48.6285
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten zu Fuß von der Bushaltestelle entfernt.",
+            "hu": "Csak 5 perc séta a buszmegállótól.",
+            "ro": "La doar 5 minute de mers pe jos de stația de autobuz.",
+            "en": "Just a 5-minute walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die bequemen Verbindungen, um Dinard und seine Nachbarstadt Saint-Malo ohne Auto zu erleben. Das Highlight ist der 'Bus de Mer', die Personenfähre, die Ihnen eine Mini-Kreuzfahrt über die Bucht bietet.\n\nMittags erkunden Sie die Korsarenstadt Saint-Malo, bevor Sie mit dem Linienbus zurück nach Dinard zum Park Port-Breton fahren. Hier können Sie die Natur genießen, bevor es zurück ins Zentrum geht.\n\nDer Nachmittag ist der Erkundung des Zentrums von Dinard gewidmet. Von der zentralen Haltestelle an der Kirche erreichen Sie bequem die wichtigsten Sehenswürdigkeiten.\n\nZum Ausklang spazieren Sie zur Moonlight Promenade, die perfekt an das Verkehrsnetz angebunden ist. Ein stressfreier Tag zwischen zwei historischen Küstenperlen.",
+        "hu": "Használja a kényelmes járatokat, hogy autó nélkül is felfedezhesse Dinardot és szomszédos városát, Saint-Malo-t. A fénypont a 'Bus de Mer', a személyszállító komp, amely egy mini-hajóutat kínál az öblön át.\n\nDélben fedezze fel Saint-Malo kalózvárosát, mielőtt menetrend szerinti busszal visszatérne Dinardba, a Port-Breton parkhoz. Itt élvezheti a természetet, mielőtt visszatérne a központba.\n\nA délután Dinard központjának felfedezésére szolgál. A templom melletti központi megállóból könnyen elérheti a főbb látnivalókat.\n\nZárásként sétáljon el a Holdfény sétányra, amely tökéletesen kapcsolódik a közlekedési hálózathoz. Egy stresszmentes nap két történelmi tengerparti gyöngyszem között.",
+        "ro": "Utilizați conexiunile convenabile pentru a experimenta Dinard și orașul vecin Saint-Malo fără mașină. Punctul culminant este 'Bus de Mer', feribotul de pasageri care vă oferă o mini-croazieră prin golf.\n\nLa prânz, explorați orașul corsar Saint-Malo, înainte de a reveni cu autobuzul de linie în Dinard, la parcul Port-Breton. Aici vă puteți bucura de natură înainte de a reveni în centru.\n\nDupă-amiaza este dedicată explorării centrului din Dinard. De la stația centrală de lângă biserică, puteți ajunge ușor la principalele atracții.\n\nÎn final, plimbați-vă spre Promenada au Clair de Lune, care este perfect conectată la rețeaua de transport. O zi fără stres între două perle de coastă istorice.",
+        "en": "Use the convenient connections to experience Dinard and its neighbor Saint-Malo without a car. The highlight is the 'Bus de Mer', the passenger ferry that offers you a mini-cruise across the bay.\n\nAt midday, explore the corsair city of Saint-Malo before taking the scheduled bus back to Dinard to Port-Breton Park. Here you can enjoy nature before heading back to the center.\n\nAfternoon is dedicated to exploring Dinard's center. From the central stop near the church, you can easily reach the main sights.\n\nTo wrap up, walk to the Moonlight Promenade, which is perfectly connected to the transport network. A stress-free day between two historical coastal gems."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Amirauté",
+            "tip": "In der Nähe der Bushaltestelle im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Amirauté",
+            "tip": "A központi buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Amirauté",
+            "tip": "Lângă stația de autobuz din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Amirauté",
+            "tip": "Near the central bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fährfahrt bei Sonnenuntergang",
+            "tip": "Letzte Fahrt des Tages genießen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kompút naplementekor",
+            "tip": "Élvezze a nap utolsó járatát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu feribotul la apus",
+            "tip": "Bucurați-vă de ultima cursă a zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry ride at sunset",
+            "tip": "Enjoy the last trip of the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirläden in Intra-Muros",
+            "tip": "Bretonische Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírboltok Intra-Muros-ban",
+            "tip": "Breton különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de suveniruri în Intra-Muros",
+            "tip": "Specialități bretone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shops in Intra-Muros",
+            "tip": "Breton specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan des Bus de Mer (gezeitenabhängig).",
+          "Kaufen Sie ein Tagesticket für das lokale Busnetz BreizhGo.",
+          "Die Fähre startet am 'Quai de la Perle'.",
+          "In Saint-Malo ist fast alles fußläufig erreichbar."
+        ],
+        "hu": [
+          "Ellenőrizze a Bus de Mer menetrendjét (apály-dagály függő).",
+          "Vásároljon napijegyet a BreizhGo helyi buszhálózatra.",
+          "A komp a 'Quai de la Perle' rakpartról indul.",
+          "Saint-Malo-ban szinte minden elérhető gyalog."
+        ],
+        "ro": [
+          "Verificați programul Bus de Mer (depinde de maree).",
+          "Cumpărați un bilet de o zi pentru rețeaua locală BreizhGo.",
+          "Feribotul pleacă de la 'Quai de la Perle'.",
+          "În Saint-Malo aproape totul este accesibil pe jos."
+        ],
+        "en": [
+          "Check the Bus de Mer schedule (tide-dependent).",
+          "Buy a day ticket for the local BreizhGo bus network.",
+          "The ferry leaves from 'Quai de la Perle'.",
+          "In Saint-Malo, almost everything is reachable on foot."
+        ]
+      }
+    }
+  }
+}

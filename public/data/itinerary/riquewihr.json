@@ -1,0 +1,1075 @@
+{
+  "city_id": "riquewihr",
+  "anchor": {
+    "name": "Riquewihr Centre",
+    "coords": [
+      7.2989,
+      48.1672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            7.2994,
+            48.1665
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie am neoklassizistischen Tor, dem Eingang zur Altstadt.",
+            "hu": "Kezdje a sétát a neoklasszicista kapunál, az óváros bejáratánál.",
+            "ro": "Începeți la poarta neoclasică, intrarea în orașul vechi.",
+            "en": "Start at the neoclassical gate, the entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Hansi Museum",
+            "hu": "Hansi Múzeum",
+            "ro": "Muzeul Hansi",
+            "en": "Hansi Museum"
+          },
+          "coords": [
+            7.2986,
+            48.1669
+          ],
+          "category": "museum",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke von Jean-Jacques Waltz über das elsässische Leben.",
+            "hu": "Fedezze fel Jean-Jacques Waltz elzászi életről szóló műveit.",
+            "ro": "Descoperiți lucrările lui Jean-Jacques Waltz despre viața alsaciană.",
+            "en": "Discover the works of Jean-Jacques Waltz about Alsatian life."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstraße (Général-de-Gaulle)",
+            "hu": "Fő utca (Général-de-Gaulle)",
+            "ro": "Strada Principală",
+            "en": "Main Street (Général-de-Gaulle)"
+          },
+          "coords": [
+            7.298,
+            48.1673
+          ],
+          "category": "square",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Fachwerkhäuser aus dem 16. Jahrhundert.",
+            "hu": "Csodálja meg a 16. századi színes fagerendás házakat.",
+            "ro": "Admirați casele colorate cu bârne de lemn din secolul al XVI-lea.",
+            "en": "Admire the colorful half-timbered houses from the 16th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolder-Turm",
+            "hu": "Dolder-torony",
+            "ro": "Turnul Dolder",
+            "en": "Dolder Tower"
+          },
+          "coords": [
+            7.2974,
+            48.1678
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das 25 Meter hohe Stadttor bietet ein kleines Museum zur Stadtgeschichte.",
+            "hu": "A 25 méter magas városkapu kis helytörténeti múzeumnak ad otthont.",
+            "ro": "Poarta orașului de 25 de metri găzduiește un mic muzeu de istorie.",
+            "en": "The 25-meter high city gate houses a small local history museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Diebesturm",
+            "hu": "Tolvajok tornya",
+            "ro": "Turnul Hoților",
+            "en": "Thieves Tower"
+          },
+          "coords": [
+            7.2971,
+            48.1681
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das ehemalige Gefängnis mit seiner authentischen Folterkammer.",
+            "hu": "Látogasson el az egykori börtönbe az eredeti kínzókamrával.",
+            "ro": "Vizitați fosta închisoare cu camera sa de tortură autentică.",
+            "en": "Visit the former prison with its authentic torture chamber."
+          }
+        },
+        {
+          "name": {
+            "de": "Hugel et Fils Weinkeller",
+            "hu": "Hugel et Fils borpince",
+            "ro": "Crama Hugel et Fils",
+            "en": "Hugel et Fils Wine Cellar"
+          },
+          "coords": [
+            7.2977,
+            48.1675
+          ],
+          "category": "gastro",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Riesling in einem der ältesten Keller.",
+            "hu": "Kóstolja meg a híres rajnai rizlinget az egyik legrégebbi pincében.",
+            "ro": "Degustați faimosul Riesling într-una dintre cele mai vechi crame.",
+            "en": "Taste the famous Riesling in one of the oldest cellars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt märchenhaft am Rathausplatz, gefolgt von der charmanten Kunst im Hansi-Museum. Riquewihr wirkt wie eine Filmkulisse aus einer anderen Zeit.\n\nMittags schlendern Sie die ansteigende Hauptstraße hinauf. Die Dichte an perfekt erhaltenen Renaissance-Bauten ist in Europa nahezu einzigartig.\n\nAm Nachmittag erkunden Sie die Verteidigungsanlagen am Dolder und gruseln sich im Diebesturm. Die Stadtmauern erzählen von kriegerischen Zeiten im friedlichen Elsass.\n\nDer Abend gehört dem Wein. In den historischen Kellern von Hugel et Fils lassen Sie den Tag bei edlen Tropfen und lokaler Gastfreundschaft ausklingen.",
+        "hu": "A délelőtt mesésen indul a Városháza téren, majd Hansi bájos művészetével folytatódik. Riquewihr olyan, mint egy díszlet egy letűnt korból.\n\nDélben a felfelé ívelő főutcán sétálhatunk. A tökéletesen megőrzött reneszánsz épületek sűrűsége szinte egyedülálló Európában.\n\nDélután a Dolder védműveit fedezzük fel, és borzonghatunk a Tolvajok tornyában. A városfalak a békés Elzász viharos történelméről mesélnek.\n\nAz este a boré. A Hugel et Fils történelmi pincéiben nemes italokkal és helyi vendégszeretettel zárjuk a napot a búcsú előtt.",
+        "ro": "Dimineața începe ca în povești în Piața Primăriei, urmată de arta fermecătoare din Muzeul Hansi. Riquewihr pare un decor de film dintr-o altă epocă.\n\nLa prânz, vă plimbați pe strada principală în pantă. Densitatea clădirilor renascentiste perfect conservate este aproape unică în Europa.\n\nDupă-amiaza, explorați fortificațiile de la Dolder și vizitați Turnul Hoților. Zidurile orașului povestesc despre vremuri de război în Alsacia pașnică.\n\nSeara este dedicată vinului. În cramele istorice Hugel et Fils, încheiați ziua cu vinuri nobile și ospitalitate locală înainte de plecare.",
+        "en": "The morning begins like a fairytale at the Town Hall Square, followed by the charming art in the Hansi Museum. Riquewihr feels like a movie set from another era.\n\nAt midday, stroll up the sloping main street. The density of perfectly preserved Renaissance buildings is almost unique in Europe.\n\nIn the afternoon, explore the defensive works at the Dolder and get a chill at the Thieves' Tower. The city walls tell stories of warring times in peaceful Alsace.\n\nEvening belongs to the wine. In the historic cellars of Hugel et Fils, end the day with noble drops and local hospitality before departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Choucroute Alsacienne",
+            "tip": "Probieren Sie das klassische Sauerkraut im Restaurant Le Sarment d'Or."
+          },
+          {
+            "name": "Kugelhopf",
+            "tip": "Ein traditioneller Hefekuchen, perfekt zum Nachmittagskaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Choucroute Alsacienne",
+            "tip": "Kóstolja meg a klasszikus elzászi káposztát a Le Sarment d'Or étteremben."
+          },
+          {
+            "name": "Kugelhopf",
+            "tip": "Hagyományos kuglóf, amely tökéletes a délutáni kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Choucroute Alsacienne",
+            "tip": "Gustați varza călită clasică la restaurantul Le Sarment d'Or."
+          },
+          {
+            "name": "Kugelhopf",
+            "tip": "O prăjitură tradițională cu drojdie, perfectă lângă cafeaua de după-amiază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Choucroute Alsacienne",
+            "tip": "Try the classic Alsatian sauerkraut at Le Sarment d'Or restaurant."
+          },
+          {
+            "name": "Kugelhopf",
+            "tip": "A traditional yeast cake, perfect with afternoon coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge Schoenenbourg",
+            "tip": "Ein kurzer Spaziergang oberhalb der Stadt bietet Ruhe und Aussicht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sentier Viticole",
+            "tip": "Ein Pfad durch die Reben, ideal für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Schoenenbourg szőlőskert",
+            "tip": "Rövid séta a város felett, amely csendet és kilátást kínál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sentier Viticole",
+            "tip": "Ösvény a tőkék között, ideális naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoria Schoenenbourg",
+            "tip": "O scurtă plimbare deasupra orașului oferă liniște și panoramă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sentier Viticole",
+            "tip": "O potecă printre vii, ideală pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Schoenenbourg Vineyards",
+            "tip": "A short walk above the town offers peace and views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sentier Viticole",
+            "tip": "A path through the vines, ideal for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Féerie de Noël",
+            "tip": "Ein ganzjähriges Weihnachtsgeschäft voller Magie."
+          },
+          {
+            "name": "L'Échoppe de la Sorcière",
+            "tip": "Lokales Kunsthandwerk und Souvenirs in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Féerie de Noël",
+            "tip": "Egész évben nyitva tartó karácsonyi bolt, tele varázslattal."
+          },
+          {
+            "name": "L'Échoppe de la Sorcière",
+            "tip": "Helyi kézműves termékek és ajándéktárgyak történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Féerie de Noël",
+            "tip": "Un magazin de Crăciun deschis tot anul, plin de magie."
+          },
+          {
+            "name": "L'Échoppe de la Sorcière",
+            "tip": "Artizanat local și suveniruri într-un ambient istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Féerie de Noël",
+            "tip": "A year-round Christmas shop full of magic."
+          },
+          {
+            "name": "L'Échoppe de la Sorcière",
+            "tip": "Local crafts and souvenirs in a historical setting."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster ist uneben.",
+          "Kommen Sie früh am Morgen, um die Touristenmassen zu vermeiden.",
+          "Viele Weinkeller bieten kostenlose Proben bei Kaufabsicht an.",
+          "Die Stadt ist klein, man kann alles problemlos zu Fuß erkunden.",
+          "Parken Sie auf den markierten Plätzen außerhalb der Stadtmauer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskaköves burkolat egyenetlen.",
+          "Érkezzen korán reggel, hogy elkerülje a turistaáradatot.",
+          "Sok borpince ingyenes kóstolót kínál vásárlási szándék esetén.",
+          "A város kicsi, minden könnyen bejárható gyalogosan.",
+          "Parkoljon a városfalon kívüli kijelölt parkolóhelyeken."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, pavajul cu piatră cubică este neregulat.",
+          "Veniți dimineața devreme pentru a evita aglomerația de turiști.",
+          "Multe crame oferă degustări gratuite dacă intenționați să cumpărați.",
+          "Orașul este mic, totul poate fi explorat cu ușurință pe jos.",
+          "Parcați în locurile marcate din afara zidurilor orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes, the cobblestone pavement is uneven.",
+          "Arrive early in the morning to avoid the tourist crowds.",
+          "Many wine cellars offer free tastings if you intend to buy.",
+          "The town is small, everything can be easily explored on foot.",
+          "Park in the designated spots outside the city walls."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Mairie",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            7.2995,
+            48.1664
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Startpunkt für die Tour durch die Weinberge.",
+            "hu": "A szőlőskerti túra kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul podgoriilor.",
+            "en": "Starting point for the vineyard tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinlehrpfad Schoenenbourg",
+            "hu": "Schoenenbourg borösvény",
+            "ro": "Traseul viticol Schoenenbourg",
+            "en": "Schoenenbourg Wine Trail"
+          },
+          "coords": [
+            7.2965,
+            48.171
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch die Grand-Cru-Lagen.",
+            "hu": "Élvezze a biciklizést a Grand Cru dűlők között.",
+            "ro": "Bucurați-vă de plimbarea prin viile Grand Cru.",
+            "en": "Enjoy the ride through the Grand Cru vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Zellenberg Panorama",
+            "hu": "Zellenberg panoráma",
+            "ro": "Panorama Zellenberg",
+            "en": "Zellenberg Panorama"
+          },
+          "coords": [
+            7.319,
+            48.1685
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein herrlicher Blick zurück auf Riquewihr.",
+            "hu": "Csodálatos kilátás vissza Riquewihr irányába.",
+            "ro": "O vedere superbă înapoi spre Riquewihr.",
+            "en": "A magnificent view back towards Riquewihr."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Riquewihr",
+            "hu": "Riquewihr óváros",
+            "ro": "Centrul vechi Riquewihr",
+            "en": "Riquewihr Old Town"
+          },
+          "coords": [
+            7.2974,
+            48.1678
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die engen Gassen.",
+            "hu": "Tolja a biciklit a szűk utcákon.",
+            "ro": "Împingeți bicicleta prin străzile înguste.",
+            "en": "Push your bike through the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokale Weinstube",
+            "hu": "Helyi borozó",
+            "ro": "Tavernă locală",
+            "en": "Local Wine Tavern"
+          },
+          "coords": [
+            7.2982,
+            48.1671
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verdiente Pause mit elsässischen Spezialitäten.",
+            "hu": "Megérdemelt pihenő elzászi specialitásokkal.",
+            "ro": "Pauză binemeritată cu specialități alsaciene.",
+            "en": "Well-deserved break with Alsatian specialties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie durch die weltberühmten Weinberge des Schoenenbourg. Die frische Luft und die sanften Hügel bieten den perfekten Start.\n\nMittags erreichen Sie das benachbarte Zellenberg für einen Panoramablick. Die Silhouette von Riquewihr vor den Vogesen ist unvergesslich.\n\nAm Nachmittag kehren Sie in die befestigte Stadt zurück. Erkunden Sie die historischen Details, während Sie Ihr Rad durch die Gassen führen.\n\nDer Tag endet entspannt in einer gemütlichen Weinstube. Genießen Sie die Früchte der Arbeit, die Sie zuvor auf den Feldern gesehen haben.",
+        "hu": "Reggel a világhírű Schoenenbourg szőlőskertjei között kerekezünk. A friss levegő és a lankás dombok tökéletes kezdést nyújtanak.\n\nDélben elérjük a szomszédos Zellenberget a panorámáért. Riquewihr sziluettje a Vogézek előtt felejthetetlen látvány.\n\nDélután visszatérünk a fallal körülvett városba. Fedezzük fel a történelmi részleteket, miközben a biciklit toljuk a sikátorokban.\n\nA nap egy hangulatos borozóban ér véget. Élvezze a munka gyümölcsét, amelyet korábban a dűlők között láthatott.",
+        "ro": "Dimineața pedalați prin podgoriile celebre din Schoenenbourg. Aerul proaspăt și dealurile domoale oferă începutul perfect.\n\nLa prânz ajungeți în Zellenbergul vecin pentru o vedere panoramică. Silueta orașului Riquewihr în fața Munților Vosgi este de neuitat.\n\nDupă-amiaza vă întoarceți în orașul fortificat. Explorați detaliile istorice în timp ce vă conduceți bicicleta prin străduțe.\n\nZiua se încheie relaxat într-o tavernă primitoare. Bucurați-vă de fructele muncii pe care le-ați văzut anterior pe câmp.",
+        "en": "In the morning, cycle through the world-famous Schoenenbourg vineyards. The fresh air and rolling hills offer the perfect start.\n\nAt midday, reach neighboring Zellenberg for a panoramic view. Riquewihr's silhouette against the Vosges mountains is unforgettable.\n\nIn the afternoon, return to the fortified town. Explore the historical details while guiding your bike through the alleys.\n\nThe day ends relaxingly in a cozy wine tavern. Enjoy the fruits of the labor you previously saw in the fields."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Dünn und knusprig, direkt aus dem Steinofen."
+          },
+          {
+            "name": "Crémant d'Alsace",
+            "tip": "Ein spritziger Schaumwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Vékony és ropogós lepény, egyenesen a kemencéből."
+          },
+          {
+            "name": "Crémant d'Alsace",
+            "tip": "Helyi pezsgőbor a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Subțire și crocant, direct din cuptorul cu piatră."
+          },
+          {
+            "name": "Crémant d'Alsace",
+            "tip": "Un vin spumant efervescent din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Thin and crispy tart flambée, straight from the stone oven."
+          },
+          {
+            "name": "Crémant d'Alsace",
+            "tip": "A sparkling wine from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldrand bei Zellenberg",
+            "tip": "Ruhiger Platz im Schatten der Bäume.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zellenbergi erdőszél",
+            "tip": "Csendes hely a fák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea pădurii la Zellenberg",
+            "tip": "Loc liniștit la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zellenberg Forest Edge",
+            "tip": "Quiet spot in the shade of the trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vignerons de Riquewihr",
+            "tip": "Direktkauf beim Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riquewihri borászok",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vignerons de Riquewihr",
+            "tip": "Cumpărați direct de la viticultori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vignerons de Riquewihr",
+            "tip": "Buy directly from the winemakers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes für die steilen Abschnitte.",
+          "Achten Sie auf Wanderer auf den gemeinsamen Wegen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Radwege sind gut beschildert.",
+          "Schließen Sie Ihr Rad im Ort sicher ab."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a meredekebb szakaszokhoz.",
+          "Ügyeljen a túrázókra a közös utakon.",
+          "Vigyen magával elegendő vizet.",
+          "A kerékpárutak jól ki vannak táblázva.",
+          "Zárja le biztonságosan a biciklit a városban."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice pentru porțiunile abrupte.",
+          "Atenție la drumeți pe potecile comune.",
+          "Luați suficientă apă cu voi.",
+          "Pistele de biciclete sunt bine semnalizate.",
+          "Încuiați bicicleta în siguranță în localitate."
+        ],
+        "en": [
+          "Rent e-bikes for the steeper sections.",
+          "Watch out for hikers on shared paths.",
+          "Take enough water with you.",
+          "Cycling paths are well signposted.",
+          "Lock your bike securely in town."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Riquewihr Parkplatz",
+            "hu": "Riquewihr parkoló",
+            "ro": "Parcare Riquewihr",
+            "en": "Riquewihr Parking"
+          },
+          "coords": [
+            7.301,
+            48.1655
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor den Toren.",
+            "hu": "Nagy parkoló közvetlenül a kapuk előtt.",
+            "ro": "Parcare mare chiar în fața porților.",
+            "en": "Large parking lot just outside the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt Rundgang",
+            "hu": "Óvárosi körséta",
+            "ro": "Turul centrului vechi",
+            "en": "Old Town Walk"
+          },
+          "coords": [
+            7.2974,
+            48.1678
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Dolder und die bunten Gassen.",
+            "hu": "Látogassa meg a Doldert és a színes sikátorokat.",
+            "ro": "Vizitați Dolder și străduțele colorate.",
+            "en": "Visit the Dolder and the colorful alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Ribeauvillé Zentrum",
+            "hu": "Ribeauvillé központ",
+            "ro": "Centrul Ribeauvillé",
+            "en": "Ribeauvillé Center"
+          },
+          "coords": [
+            7.3185,
+            48.1945
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Nachbarstadt mit ihren drei Burgen.",
+            "hu": "A szomszédos város három várával.",
+            "ro": "Orașul vecin cu cele trei castele ale sale.",
+            "en": "The neighboring town with its three castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Ulrich",
+            "hu": "Saint-Ulrich vára",
+            "ro": "Castelul Saint-Ulrich",
+            "en": "Saint-Ulrich Castle"
+          },
+          "coords": [
+            7.305,
+            48.199
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zu den Ruinen mit Weitblick.",
+            "hu": "Rövid út a romokhoz pazar kilátással.",
+            "ro": "Drum scurt către ruine cu vedere panoramică.",
+            "en": "Short drive to the ruins with a wide view."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave de Ribeauvillé",
+            "hu": "Ribeauvilléi borászat",
+            "ro": "Crama Ribeauvillé",
+            "en": "Cave de Ribeauvillé"
+          },
+          "coords": [
+            7.325,
+            48.192
+          ],
+          "category": "gastro",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine der besten Winzergenossenschaften.",
+            "hu": "Az egyik legjobb borászati szövetkezet.",
+            "ro": "Una dintre cele mai bune cooperative viticole.",
+            "en": "One of the best wine cooperatives."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Riquewihr, dem 'Juwel der Weinstraße'. Der Vormittag gehört den verwinkelten Gassen und der Geschichte der Stadt.\n\nMittags fahren Sie das kurze Stück nach Ribeauvillé. Die Stadt der Pfeifer bietet eine ebenso beeindruckende Kulisse aus Fachwerk.\n\nAm Nachmittag erkunden Sie die Umgebung der Burgruinen. Der Blick über die Rheinebene bis zum Schwarzwald ist bei gutem Wetter spektakulär.\n\nZum Abschluss besuchen Sie die Cave de Ribeauvillé. Hier können Sie regionale Weine für die Heimreise erwerben und den Tag Revue passieren lassen.",
+        "hu": "Kezdje a napot Riquewihrben, a 'borút ékkövében'. A délelőtt a kanyargós sikátoroké és a város történelméé.\n\nDélben tegyen egy rövid autós utat Ribeauvillébe. A 'síposok városa' hasonlóan lenyűgöző fagerendás kulisszákkal várja.\n\nDélután a várromok környékét fedezzük fel. Tiszta időben a kilátás a Rajna-völgyén át egészen a Fekete-erdőig tart.\n\nZárásként látogasson el a Ribeauvilléi borászatba. Itt regionális borokat vásárolhat hazatérés előtt, és összegezheti a nap élményeit.",
+        "ro": "Începeți ziua în Riquewihr, 'bijuteria drumului vinului'. Dimineața este dedicată străduțelor întortocheate și istoriei orașului.\n\nLa prânz, faceți un scurt drum cu mașina până la Ribeauvillé. Orașul menestrelilor oferă un decor la fel de impresionant cu bârne de lemn.\n\nDupă-amiaza explorați împrejurimile ruinelor castelelor. Vederea peste valea Rinului până la Pădurea Neagră este spectaculoasă pe vreme bună.\n\nLa final, vizitați Crama Ribeauvillé. Aici puteți cumpăra vinuri regionale pentru drumul spre casă și puteți trece în revistă experiențele zilei.",
+        "en": "Start the day in Riquewihr, the 'jewel of the wine route'. The morning is dedicated to the winding alleys and the town's history.\n\nAt midday, take the short drive to Ribeauvillé. The town of the pipers offers an equally impressive backdrop of half-timbered houses.\n\nIn the afternoon, explore the area around the castle ruins. The view over the Rhine valley to the Black Forest is spectacular in good weather.\n\nTo finish, visit the Cave de Ribeauvillé. Here you can purchase regional wines for your journey home and review the day's highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "Ein herzhafter Eintopf aus drei Fleischsorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "Kiadós egytálétel háromféle húsból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "O tocană consistentă din trei tipuri de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Baeckeoffe",
+            "tip": "A hearty stew made from three types of meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burgruinen Ribeauvillé",
+            "tip": "Einsame Plätze inmitten alter Mauern.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribeauvilléi várromok",
+            "tip": "Magányos helyek a régi falak között.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele castelelor Ribeauvillé",
+            "tip": "Locuri izolate în mijlocul zidurilor vechi.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribeauvillé Castle Ruins",
+            "tip": "Solitary spots amidst old walls.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Beauvillé Textilien",
+            "tip": "Hochwertige elsässische Stoffe und Tischwäsche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beauvillé textíliák",
+            "tip": "Kiváló minőségű elzászi anyagok és asztalterítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Textile Beauvillé",
+            "tip": "Țesături alsaciene de înaltă calitate și lenjerie de masă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beauvillé Textiles",
+            "tip": "High-quality Alsatian fabrics and table linens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die P+R Parkplätze in der Hochsaison.",
+          "Die Route du Vin ist landschaftlich sehr reizvoll.",
+          "Fahren Sie vorsichtig, die Straßen sind eng.",
+          "Alkohol am Steuer wird streng kontrolliert.",
+          "Ein GPS hilft bei den kleinen Winzerorten."
+        ],
+        "hu": [
+          "Főszezonban használja a P+R parkolókat.",
+          "A Borút (Route du Vin) tájilag nagyon vonzó.",
+          "Vezessen óvatosan, az utak szűkek.",
+          "Szigorúan ellenőrzik az ittas vezetést.",
+          "A GPS segít eligazodni a kis borászfalvak között."
+        ],
+        "ro": [
+          "Folosiți parcările P+R în plin sezon.",
+          "Route du Vin este foarte pitorească.",
+          "Conduceți cu atenție, drumurile sunt înguste.",
+          "Alcoolul la volan este controlat strict.",
+          "Un GPS ajută în micile sate viticole."
+        ],
+        "en": [
+          "Use P+R parking lots during high season.",
+          "The Route du Vin is very scenic.",
+          "Drive carefully, the roads are narrow.",
+          "Drunk driving is strictly controlled.",
+          "A GPS helps in the small wine villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Post",
+            "hu": "Posta buszmegálló",
+            "ro": "Stația de autobuz Poșta",
+            "en": "Post Bus Stop"
+          },
+          "coords": [
+            7.3005,
+            48.166
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ankunft mit der Linie 106 von Colmar.",
+            "hu": "Érkezés Colmar felől a 106-os busszal.",
+            "ro": "Sosire cu linia 106 din Colmar.",
+            "en": "Arrival with line 106 from Colmar."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolder Museum",
+            "hu": "Dolder Múzeum",
+            "ro": "Muzeul Dolder",
+            "en": "Dolder Museum"
+          },
+          "coords": [
+            7.2974,
+            48.1678
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historisches Herzstück der Befestigung.",
+            "hu": "Az erődítmény történelmi szíve.",
+            "ro": "Inima istorică a fortificației.",
+            "en": "Historical heart of the fortification."
+          }
+        },
+        {
+          "name": {
+            "de": "Elsässisches Mittagessen",
+            "hu": "Elzászi ebéd",
+            "ro": "Prânz alsacian",
+            "en": "Alsatian Lunch"
+          },
+          "coords": [
+            7.2985,
+            48.167
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten im Zentrum.",
+            "hu": "Élvezze a helyi specialitásokat a központban.",
+            "ro": "Bucurați-vă de specialități locale în centru.",
+            "en": "Enjoy local specialties in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Hansi",
+            "hu": "Hansi-ház",
+            "ro": "Casa Hansi",
+            "en": "Hansi House"
+          },
+          "coords": [
+            7.2986,
+            48.1669
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kultur und Kunst im Herzen der Stadt.",
+            "hu": "Kultúra és művészet a város szívében.",
+            "ro": "Cultură și artă în inima orașului.",
+            "en": "Culture and art in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinbergspaziergang",
+            "hu": "Séta a szőlőben",
+            "ro": "Plimbare în podgorie",
+            "en": "Vineyard Walk"
+          },
+          "coords": [
+            7.302,
+            48.17
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss vor der Rückfahrt.",
+            "hu": "Pihentető lezárás a visszautazás előtt.",
+            "ro": "O încheiere relaxantă înainte de întoarcere.",
+            "en": "A relaxing end before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie Riquewihr bequem von Colmar aus. Der Tag beginnt stressfrei ohne Parkplatzsuche am historischen Stadteingang.\n\nVormittags tauchen Sie im Dolder Museum tief in die Geschichte ein. Die Aussicht vom Turm bietet einen tollen Überblick über die Dächer.\n\nMittags genießen Sie die elsässische Küche in einem der zahlreichen Restaurants. Die Atmosphäre in den Gassen ist besonders am Mittag sehr lebendig.\n\nNachmittags steht Kultur im Hansi-Museum und ein kurzer Spaziergang in die Reben auf dem Programm, bevor der Bus Sie wieder zurückbringt.",
+        "hu": "Busszal kényelmesen elérhető Riquewihr Colmar felől. A nap stresszmentesen, parkolóhely-keresés nélkül indul a történelmi városkapunál.\n\nDélelőtt a Dolder Múzeumban merülhetünk el a történelemben. A toronyból nyíló kilátás remek rálátást biztosít a háztetőkre.\n\nDélben élvezze az elzászi konyhát a számos étterem egyikében. A sikátorok hangulata délidőben különösen élénk.\n\nDélután a Hansi Múzeum kultúrája és egy rövid szőlőskerti séta szerepel a programban, mielőtt a busz visszaviszi Önt.",
+        "ro": "Cu autobuzul ajungeți confortabil în Riquewihr din Colmar. Ziua începe fără stresul căutării parcării, la intrarea istorică în oraș.\n\nÎn cursul dimineții, aprofundați istoria la Muzeul Dolder. Vederea din turn oferă o perspectivă excelentă asupra acoperișurilor.\n\nLa prânz, savurați bucătăria alsaciană într-unul dintre numeroasele restaurante. Atmosfera de pe străduțe este deosebit de animată la amiază.\n\nDupă-amiaza este dedicată culturii la Muzeul Hansi și unei scurte plimbări prin vii, înainte ca autobuzul să vă ducă înapoi.",
+        "en": "By bus, you can easily reach Riquewihr from Colmar. The day starts stress-free without searching for parking at the historical town entrance.\n\nIn the morning, dive deep into history at the Dolder Museum. The view from the tower offers a great overview of the rooftops.\n\nAt midday, enjoy Alsatian cuisine in one of the many restaurants. The atmosphere in the alleys is especially lively at lunchtime.\n\nIn the afternoon, culture at the Hansi Museum and a short walk into the vines are on the agenda before the bus takes you back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Munster Käse",
+            "tip": "Ein kräftiger lokaler Käse, oft mit Kümmel serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Munster sajt",
+            "tip": "Erős helyi sajt, gyakran köménnyel tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Munster",
+            "tip": "O brânză locală puternică, servită adesea cu chimion."
+          }
+        ],
+        "en": [
+          {
+            "name": "Munster Cheese",
+            "tip": "A strong local cheese, often served with cumin."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterhöfe von Riquewihr",
+            "tip": "Versteckte Winkel abseits der Hauptroute.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riquewihr belső udvarai",
+            "tip": "Rejtett zugok a fő útvonaltól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curțile interioare din Riquewihr",
+            "tip": "Unghiuri ascunse departe de traseul principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Courtyards of Riquewihr",
+            "tip": "Hidden corners off the main route.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pain d'Epices",
+            "tip": "Traditioneller Gewürzkuchen in verschiedenen Variationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pain d'Epices",
+            "tip": "Hagyományos fűszeres sütemény (mézeskalács) többféle változatban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pain d'Epices",
+            "tip": "Turtă dulce tradițională în diverse variații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pain d'Epices",
+            "tip": "Traditional spice bread in various variations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Linie 106 vorab.",
+          "Kaufen Sie das Ticket direkt beim Fahrer oder per App.",
+          "Am Wochenende fahren weniger Busse.",
+          "Die Haltestelle liegt nah am Stadtzentrum.",
+          "Kombinieren Sie den Besuch mit Colmar."
+        ],
+        "hu": [
+          "Előre ellenőrizze a 106-os busz menetrendjét.",
+          "Vásárolja meg a jegyet a sofőrnél vagy applikációban.",
+          "Hétvégén kevesebb busz jár.",
+          "A megálló közel van a városközponthoz.",
+          "Kombinálja a látogatást Colmarral."
+        ],
+        "ro": [
+          "Verificați orarul liniei 106 în prealabil.",
+          "Cumpărați biletul direct de la șofer sau prin aplicație.",
+          "În weekend circulă mai puține autobuze.",
+          "Stația este situată aproape de centrul orașului.",
+          "Combinați vizita cu o oprire în Colmar."
+        ],
+        "en": [
+          "Check the schedule for line 106 in advance.",
+          "Buy the ticket directly from the driver or via app.",
+          "Fewer buses run on weekends.",
+          "The stop is located close to the town center.",
+          "Combine the visit with a stop in Colmar."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1043 @@
+{
+  "city_id": "dinan",
+  "anchor": {
+    "name": "Dinan Centre",
+    "coords": [
+      -2.0457,
+      48.4549
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss von Dinan",
+            "hu": "Dinani vár",
+            "ro": "Castelul din Dinan",
+            "en": "Dinan Castle"
+          },
+          "coords": [
+            -2.0441,
+            48.4502
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie auf die Ringmauer für das beste Panorama.",
+            "hu": "Menj fel a várfalra a legjobb panorámáért.",
+            "ro": "Urcați pe metereze pentru cea mai bună panoramă.",
+            "en": "Go up the ramparts for the best panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm (Tour de l'Horloge)",
+            "hu": "Óratorony",
+            "ro": "Turnul Ceasului",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            -2.0432,
+            48.4535
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Treppen sind steil, aber die Aussicht lohnt sich.",
+            "hu": "A lépcsők meredekek, de a kilátás megéri.",
+            "ro": "Scările sunt abrupte, dar vederea merită.",
+            "en": "The stairs are steep, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Sauveur",
+            "hu": "Szent Üdvözítő-bazilika",
+            "ro": "Bazilica Saint-Sauveur",
+            "en": "Basilica of Saint-Sauveur"
+          },
+          "coords": [
+            -2.0415,
+            48.4541
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Herz von Bertrand du Guesclin.",
+            "hu": "Csodálja meg Bertrand du Guesclin szívét.",
+            "ro": "Admirați inima lui Bertrand du Guesclin.",
+            "en": "Admire the heart of Bertrand du Guesclin."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Jerzual",
+            "hu": "Rue du Jerzual",
+            "ro": "Rue du Jerzual",
+            "en": "Rue du Jerzual"
+          },
+          "coords": [
+            -2.0401,
+            48.4555
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ateliers der Kunsthandwerker.",
+            "hu": "Látogassa meg a kézművesek műhelyeit.",
+            "ro": "Vizitați atelierele meșteșugarilor.",
+            "en": "Visit the artisans' workshops along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Dinan",
+            "hu": "Dinani kikötő",
+            "ro": "Portul din Dinan",
+            "en": "Port of Dinan"
+          },
+          "coords": [
+            -2.0385,
+            48.4565
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Galette am Ufer der Rance.",
+            "hu": "Kóstoljon meg egy galette-et a Rance partján.",
+            "ro": "Gustați o galette pe malul râului Rance.",
+            "en": "Try a galette by the banks of the Rance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern Spaziergang",
+            "hu": "Várfal sétány",
+            "ro": "Plimbare pe zidurile cetății",
+            "en": "Ramparts Walk"
+          },
+          "coords": [
+            -2.0455,
+            48.4542
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der Jardin Anglais bietet einen tollen Blick auf das Viadukt.",
+            "hu": "Az Angolkert nagyszerű kilátást nyújt a viaduktra.",
+            "ro": "Grădina Engleză oferă o vedere excelentă spre viaduct.",
+            "en": "The English Garden offers a great view of the viaduct."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Vormittag beginnt im imposanten Schloss von Dinan, gefolgt von einem Aufstieg auf den Uhrturm für eine 360-Grad-Aussicht. Mittags spazieren Sie durch die Basilika Saint-Sauveur, bevor Sie die berühmte Rue du Jerzual hinuntersteigen. Den Nachmittag verbringen Sie am malerischen Hafen der Rance bei einem traditionellen Mittagessen. Zum Abschluss umrunden Sie die Altstadt auf den mittelalterlichen Stadtmauern, die spektakuläre Ausblicke auf das Tal bieten.",
+        "hu": "Délelőttje az impozáns dinani várban kezdődik, majd felkapaszkodik az Óratoronyba a 360 fokos panorámáért. Délben a Szent Üdvözítő-bazilikát érinti, mielőtt leereszkedne a híres Rue du Jerzual macskaköves utcáján. A délutánt a Rance folyó festői kikötőjében tölti egy hagyományos ebéd mellett. Búcsúzóul körbesétálja az óvárost a középkori várfalakon, ahonnan lenyűgöző kilátás nyílik a völgyre.",
+        "ro": "Dimineața începe la impunătorul Castel din Dinan, urmată de o urcare în Turnul Ceasului pentru o vedere panoramică. La prânz, vizitați Bazilica Saint-Sauveur înainte de a coborî pe celebra stradă Rue du Jerzual. Petreceți după-amiaza în portul pitoresc de pe Rance, savurând un prânz tradițional. La final, înconjurați orașul vechi pe zidurile medievale, care oferă priveliști spectaculoase asupra văii.",
+        "en": "Your morning starts at the imposing Dinan Castle, followed by a climb up the Clock Tower for a 360-degree view. At midday, visit the Basilica of Saint-Sauveur before descending the famous cobbled Rue du Jerzual. Spend the afternoon at the picturesque port on the Rance with a traditional lunch. To finish, walk around the old town on the medieval ramparts, offering spectacular views over the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kouign-amann",
+            "tip": "Buttriges bretonisches Gebäck in der Boulangerie des Remparts."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Buchweizenpfannkuchen im Crêperie Ahna."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kouign-amann",
+            "tip": "Vajas breton sütemény a Boulangerie des Remparts-ban."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Hajdinapalacsinta a Crêperie Ahna vendéglőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kouign-amann",
+            "tip": "Patiserie bretonă cu unt la Boulangerie des Remparts."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Clătită din hrișcă la Crêperie Ahna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kouign-amann",
+            "tip": "Buttery Breton pastry at Boulangerie des Remparts."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Buckwheat pancake at Crêperie Ahna."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Anglais",
+            "tip": "Ruhiger Park hinter der Basilika.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenade des Petits Fossés",
+            "tip": "Spaziergang am Fuße der Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angolkert",
+            "tip": "Csendes park a bazilika mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenade des Petits Fossés",
+            "tip": "Séta a várfalak tövében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Anglais",
+            "tip": "Parc liniștit în spatele bazilicii.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenade des Petits Fossés",
+            "tip": "Plimbare la baza zidurilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "English Garden",
+            "tip": "Quiet park behind the basilica.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Promenade des Petits Fossés",
+            "tip": "Walk at the foot of the ramparts.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Poissonnerie",
+            "tip": "Lokale Delikatessen und Cidre."
+          },
+          {
+            "name": "Ateliers du Jerzual",
+            "tip": "Handgefertigte Keramik und Glas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Poissonnerie",
+            "tip": "Helyi finomságok és cidre."
+          },
+          {
+            "name": "Ateliers du Jerzual",
+            "tip": "Kézműves kerámia és üvegtárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Poissonnerie",
+            "tip": "Delicii locale și cidru."
+          },
+          {
+            "name": "Ateliers du Jerzual",
+            "tip": "Ceramică și sticlărie artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la Poissonnerie",
+            "tip": "Local delicacies and cider."
+          },
+          {
+            "name": "Ateliers du Jerzual",
+            "tip": "Handmade ceramics and glassware."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Rue du Jerzual ist sehr steil, planen Sie Pausen ein.",
+          "Parken Sie außerhalb der Stadtmauer am Place Duguesclin.",
+          "Probieren Sie den lokalen Cidre zu Ihren Galettes."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A Rue du Jerzual nagyon meredek, tervezzen pihenőket.",
+          "Parkoljon a falakon kívül, a Place Duguesclin téren.",
+          "Kóstolja meg a helyi cidre-t a galette mellé."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Rue du Jerzual este foarte abruptă, planificați pauze.",
+          "Parcați în afara zidurilor, în Place Duguesclin.",
+          "Gustați cidrul local alături de galette."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Rue du Jerzual is very steep, plan for breaks.",
+          "Park outside the ramparts at Place Duguesclin.",
+          "Try the local cider with your galettes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum Dinan",
+            "hu": "Dinan belváros",
+            "ro": "Centrul vechi Dinan",
+            "en": "Dinan Old Town"
+          },
+          "coords": [
+            -2.0435,
+            48.4532
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "A szűk utcákban tolja a biciklit.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Dinan",
+            "hu": "Dinani kikötő",
+            "ro": "Portul din Dinan",
+            "en": "Port of Dinan"
+          },
+          "coords": [
+            -2.0382,
+            48.4568
+          ],
+          "category": "port",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt für den Treppelweg entlang der Rance.",
+            "hu": "A Rance menti vontatóút kezdőpontja.",
+            "ro": "Punctul de plecare pentru drumul de halaj de pe Rance.",
+            "en": "Starting point for the towpath along the Rance."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Saint-Magloire de Léhon",
+            "hu": "Léhoni apátság",
+            "ro": "Abatia Saint-Magloire de Léhon",
+            "en": "Abbey of Léhon"
+          },
+          "coords": [
+            -2.0392,
+            48.4415
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein 'Petite Cité de Caractère' nur 2 km entfernt.",
+            "hu": "Egy bájos kisváros mindössze 2 km-re.",
+            "ro": "Un oraș de caracter la doar 2 km distanță.",
+            "en": "A charming small town just 2km away."
+          }
+        },
+        {
+          "name": {
+            "de": "Rance Treppelweg (Treizain)",
+            "hu": "Rance vontatóút",
+            "ro": "Drumul de halaj Rance",
+            "en": "Rance Towpath"
+          },
+          "coords": [
+            -2.0155,
+            48.4725
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Flach und perfekt für entspanntes Radfahren.",
+            "hu": "Lapos és tökéletes a pihentető tekeréshez.",
+            "ro": "Plan și perfect pentru ciclism relaxat.",
+            "en": "Flat and perfect for relaxed cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Dinan",
+            "hu": "Dinani viadukt",
+            "ro": "Viaductul din Dinan",
+            "en": "Dinan Viaduct"
+          },
+          "coords": [
+            -2.0375,
+            48.4552
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick von oben auf den Hafen.",
+            "hu": "Élvezze a fentről nyíló kilátást a kikötőre.",
+            "ro": "Bucurați-vă de vederea de sus asupra portului.",
+            "en": "Enjoy the view from the top overlooking the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Geschichte von Dinan mit der Natur der Rance. Nach einer Erkundung der Oberstadt fahren Sie hinunter zum Hafen und folgen dem flachen Treppelweg zum malerischen Dorf Léhon. Dort besichtigen Sie die Abtei und die mittelalterliche Brücke. Am Nachmittag radeln Sie weiter entlang des Flusses, bevor Sie über das beeindruckende Viadukt nach Dinan zurückkehren.",
+        "hu": "Ez a kerékpártúra ötvözi Dinan történelmét a Rance természetével. A felsőváros felfedezése után legurul a kikötőbe, és a lapos vontatóutat követve eljut Léhon festői falujába. Itt megtekinti az apátságot és a középkori hidat. Délután a folyó mentén teker tovább, majd a lenyűgöző viadukton keresztül tér vissza Dinanba.",
+        "ro": "Acest tur cu bicicleta combină istoria orașului Dinan cu natura de pe Rance. După explorarea orașului de sus, coborâți în port și urmați drumul de halaj până în satul pitoresc Léhon. Acolo vizitați abația și podul medieval. După-amiaza pedalați de-a lungul râului, înainte de a reveni în Dinan traversând viaductul impresionant.",
+        "en": "This bike tour combines the history of Dinan with the nature of the Rance. After exploring the upper town, ride down to the port and follow the flat towpath to the picturesque village of Léhon. There, visit the abbey and the medieval bridge. In the afternoon, cycle further along the river before returning to Dinan via the impressive viaduct."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Perfekt für eine Pause am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Tökéletes pihenőhely a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Perfect pentru o pauză pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Perfect for a break by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Léhon Brücke",
+            "tip": "Idyllischer Ort zum Verweilen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Léhoni híd",
+            "tip": "Idilli hely a megálláshoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul din Léhon",
+            "tip": "Loc idilic pentru relaxare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Léhon Bridge",
+            "tip": "Idyllic spot to linger.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie de Dinan",
+            "tip": "Bretonische Kekse für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie de Dinan",
+            "tip": "Breton kekszek az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie de Dinan",
+            "tip": "Biscuiți bretoni pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuiterie de Dinan",
+            "tip": "Breton biscuits for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Fahrräder direkt am Hafen.",
+          "Der Treppelweg ist am Wochenende oft belebt, fahren Sie vorsichtig.",
+          "Die Auffahrt vom Hafen in die Stadt ist sehr steil.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Béreljen kerékpárt közvetlenül a kikötőben.",
+          "A vontatóút hétvégén zsúfolt lehet, tekerjen óvatosan.",
+          "A kikötőből a városba vezető út nagyon meredek.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Închiriați biciclete direct din port.",
+          "Drumul de halaj este aglomerat în weekend, pedalați cu grijă.",
+          "Urcarea din port spre oraș este foarte abruptă.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Rent bikes directly at the port.",
+          "The towpath can be busy on weekends, ride carefully.",
+          "The climb from the port back to town is very steep.",
+          "Take enough water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Dinan",
+            "hu": "Dinan óváros",
+            "ro": "Centrul vechi Dinan",
+            "en": "Dinan Old Town"
+          },
+          "coords": [
+            -2.045,
+            48.454
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Place Duguesclin.",
+            "hu": "Parkoljon a Place Duguesclin téren.",
+            "ro": "Parcați în Place Duguesclin.",
+            "en": "Park at Place Duguesclin."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite Cité de Léhon",
+            "hu": "Léhon kisvárosa",
+            "ro": "Micul oraș Léhon",
+            "en": "Small town of Léhon"
+          },
+          "coords": [
+            -2.039,
+            48.442
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Klostergärten.",
+            "hu": "Látogassa meg a kolostorkertet.",
+            "ro": "Vizitați grădinile mănăstirii.",
+            "en": "Visit the monastery gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Dinan (Mittagessen)",
+            "hu": "Dinani kikötő (ebéd)",
+            "ro": "Portul Dinan (prânz)",
+            "en": "Port of Dinan (Lunch)"
+          },
+          "coords": [
+            -2.038,
+            48.456
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Steinbrücke.",
+            "hu": "Élvezze a kilátást a kőhídra.",
+            "ro": "Bucurați-vă de vederea spre podul de piatră.",
+            "en": "Enjoy the view of the stone bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss La Hunaudaye",
+            "hu": "La Hunaudaye vára",
+            "ro": "Castelul La Hunaudaye",
+            "en": "La Hunaudaye Castle"
+          },
+          "coords": [
+            -2.341,
+            48.473
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Beeindruckende Burgruine im Wald.",
+            "hu": "Lenyűgöző várrom az erdőben.",
+            "ro": "Ruine impresionante de castel în pădure.",
+            "en": "Impressive castle ruins in the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramparts Panorama",
+            "hu": "Várfal panoráma",
+            "ro": "Panorama zidurilor",
+            "en": "Ramparts Panorama"
+          },
+          "coords": [
+            -2.043,
+            48.452
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Letzter Blick über die Dächer von Dinan.",
+            "hu": "Utolsó pillantás Dinan háztetőire.",
+            "ro": "O ultimă privire peste acoperișurile din Dinan.",
+            "en": "A final look over the rooftops of Dinan."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie nicht nur Dinan, sondern auch die Umgebung. Nach dem Vormittag in der Altstadt fahren Sie ins nahegelegene Léhon. Nach einem Mittagessen am Hafen von Dinan führt die Fahrt zur majestätischen Ruine von La Hunaudaye, einer echten Ritterburg. Zum Abschluss kehren Sie nach Dinan zurück, um den Tag auf den Stadtmauern ausklingen zu lassen.",
+        "hu": "Autóval nemcsak Dinant, hanem a környékét is felfedezi. Az óvárosi délelőtt után a közeli Léhonba látogat. A dinani kikötőben elköltött ebéd után az út a fenséges La Hunaudaye várromhoz vezet, amely egy valódi lovagvár. Végezetül visszatér Dinanba, hogy a napot a várfalakon zárja.",
+        "ro": "Cu mașina explorați nu doar Dinan, ci și împrejurimile. După dimineața în orașul vechi, conduceți spre Léhon. După un prânz în portul Dinan, drumul vă duce la ruinele maiestuoase de la La Hunaudaye, un adevărat castel cavaleresc. La final, reveniți în Dinan pentru a încheia ziua pe zidurile cetății.",
+        "en": "By car, you explore not only Dinan but also its surroundings. After a morning in the old town, drive to nearby Léhon. After lunch at the port of Dinan, the trip leads to the majestic ruins of La Hunaudaye, a true knight's castle. Finally, return to Dinan to end the day on the ramparts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant La Courtine",
+            "tip": "Gehobene Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant La Courtine",
+            "tip": "Elegáns konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant La Courtine",
+            "tip": "Bucătărie rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant La Courtine",
+            "tip": "Fine dining in a historical atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt de Coëtquen",
+            "tip": "Ruhiger Wald in der Nähe von La Hunaudaye.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coëtquen erdő",
+            "tip": "Csendes erdő La Hunaudaye közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Coëtquen",
+            "tip": "Pădure liniștită lângă La Hunaudaye.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coëtquen Forest",
+            "tip": "Quiet forest near La Hunaudaye.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Local",
+            "tip": "Shop für regionale Produkte (Salz, Cidre)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Local",
+            "tip": "Regionális termékek boltja (só, cidre)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Local",
+            "tip": "Magazin cu produse regionale (sare, cidru)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Local",
+            "tip": "Shop for regional products (salt, cider)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze im Zentrum sind schnell voll, kommen Sie früh.",
+          "Die Landstraßen in der Bretagne sind eng aber landschaftlich schön.",
+          "Einige Sehenswürdigkeiten schließen über Mittag.",
+          "Prüfen Sie die Öffnungszeiten von La Hunaudaye."
+        ],
+        "hu": [
+          "A központi parkolók gyorsan megtelnek, érkezzen korán.",
+          "A breton országutak szűkek, de látványosak.",
+          "Néhány látnivaló bezár ebédidőben.",
+          "Ellenőrizze La Hunaudaye nyitvatartását."
+        ],
+        "ro": [
+          "Parcările centrale se umplu repede, veniți devreme.",
+          "Drumurile județene din Bretania sunt înguste, dar pitorești.",
+          "Unele obiective se închid la prânz.",
+          "Verificați programul de vizitare la La Hunaudaye."
+        ],
+        "en": [
+          "Central parking fills up quickly, arrive early.",
+          "Breton country roads are narrow but scenic.",
+          "Some sights close during lunchtime.",
+          "Check the opening hours for La Hunaudaye."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Dinan",
+            "hu": "Dinani vasútállomás",
+            "ro": "Gara Dinan",
+            "en": "Dinan Train Station"
+          },
+          "coords": [
+            -2.0528,
+            48.4578
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Bahnhofsgebäude ist architektonisch interessant.",
+            "hu": "Az állomás épülete építészetileg is érdekes.",
+            "ro": "Clădirea gării este interesantă arhitectural.",
+            "en": "The station building is architecturally interesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Duguesclin",
+            "hu": "Place Duguesclin",
+            "ro": "Place Duguesclin",
+            "en": "Place Duguesclin"
+          },
+          "coords": [
+            -2.0455,
+            48.4525
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der zentrale Knotenpunkt für lokale Busse.",
+            "hu": "A helyi buszok központi csomópontja.",
+            "ro": "Nodul central pentru autobuzele locale.",
+            "en": "The central hub for local buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Malo",
+            "hu": "Szent Malo-templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -2.0452,
+            48.4545
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschöne Buntglasfenster.",
+            "hu": "Gyönyörű ólomüveg ablakok.",
+            "ro": "Vitralii superbe.",
+            "en": "Beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen (via Dinibus)",
+            "hu": "Kikötő (Dinibusszal)",
+            "ro": "Port (via Dinibus)",
+            "en": "Port (via Dinibus)"
+          },
+          "coords": [
+            -2.0385,
+            48.4565
+          ],
+          "category": "port",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Dinibus, um den steilen Jerzual zu vermeiden.",
+            "hu": "Használja a Dinibuszt, hogy elkerülje a meredek Jerzualt.",
+            "ro": "Folosiți Dinibus pentru a evita panta abruptă Jerzual.",
+            "en": "Use the Dinibus to avoid the steep Jerzual climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum / Shopping",
+            "hu": "Központ / Vásárlás",
+            "ro": "Centru / Cumpărături",
+            "en": "Center / Shopping"
+          },
+          "coords": [
+            -2.044,
+            48.453
+          ],
+          "category": "shopping",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleinen Boutiquen im Zentrum.",
+            "hu": "Fedezze fel a központ kis butikjait.",
+            "ro": "Descoperiți micile buticuri din centru.",
+            "en": "Explore the small boutiques in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr ist Dinan leicht zu erkunden. Vom Bahnhof gelangen Sie schnell zum Place Duguesclin, dem Herz der Stadt. Nach dem Besuch der Kirche Saint-Malo bringt Sie der lokale Dinibus bequem hinunter zum Hafen und später wieder hinauf, was Ihnen den steilen Fußweg erspart. Den Nachmittag verbringen Sie mit Shopping und Entspannung in den Gassen des Zentrums.",
+        "hu": "Tömegközlekedéssel Dinan könnyen felfedezhető. A vasútállomástól gyorsan eljut a Place Duguesclin térre, a város szívébe. A Szent Malo-templom megtekintése után a helyi Dinibusz kényelmesen leviszi a kikötőbe, majd később vissza is hozza, megkímélve Önt a meredek gyalogúttól. A délutánt vásárlással és pihenéssel tölti a központ utcáin.",
+        "ro": "Dinan este ușor de explorat cu transportul public. De la gară ajungeți rapid în Place Duguesclin, inima orașului. După vizitarea bisericii Saint-Malo, autobuzul local Dinibus vă duce confortabil în port și vă aduce înapoi, scutindu-vă de urcarea abruptă. Petreceți după-amiaza la cumpărături și relaxare pe străzile centrale.",
+        "en": "Dinan is easy to explore by public transport. From the train station, you quickly reach Place Duguesclin, the heart of the city. After visiting Saint-Malo Church, the local Dinibus takes you comfortably down to the port and back up later, saving you from the steep walk. Spend the afternoon shopping and relaxing in the central streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Glacier",
+            "tip": "Hausgemachtes Eis am Place Duguesclin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Glacier",
+            "tip": "Házias fagylalt a Place Duguesclin téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Glacier",
+            "tip": "Înghețată artizanală în Place Duguesclin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Glacier",
+            "tip": "Homemade ice cream at Place Duguesclin."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place Saint-Sauveur",
+            "tip": "Gemütlicher Platz mit Cafés.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Saint-Sauveur",
+            "tip": "Hangulatos tér kávézókkal.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place Saint-Sauveur",
+            "tip": "Piață primitoare cu cafenele.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Saint-Sauveur",
+            "tip": "Cosy square with cafes.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de l'Apport",
+            "tip": "Klassische bretonische Kleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de l'Apport",
+            "tip": "Klasszikus breton ruházat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de l'Apport",
+            "tip": "Haine clasice bretone."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de l'Apport",
+            "tip": "Classic Breton clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Dinibus ist im Stadtzentrum kostenlos.",
+          "Prüfen Sie den Fahrplan für die Rückfahrt zum Bahnhof.",
+          "Die Busse fahren seltener an Sonntagen.",
+          "Entwerten Sie Ihr Ticket direkt beim Einstieg."
+        ],
+        "hu": [
+          "A Dinibusz a városközpontban ingyenes.",
+          "Ellenőrizze a vasútállomásra induló járatok menetrendjét.",
+          "Vasárnap ritkábban járnak a buszok.",
+          "Érvényesítse jegyét felszálláskor."
+        ],
+        "ro": [
+          "Dinibus este gratuit în centrul orașului.",
+          "Verificați orarul pentru întoarcerea la gară.",
+          "Autobuzele circulă mai rar duminica.",
+          "Validați biletul imediat la urcare."
+        ],
+        "en": [
+          "The Dinibus is free within the city center.",
+          "Check the schedule for return trips to the station.",
+          "Buses run less frequently on Sundays.",
+          "Validate your ticket upon boarding."
+        ]
+      }
+    }
+  }
+}

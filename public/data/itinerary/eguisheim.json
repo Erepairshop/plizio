@@ -1,0 +1,1031 @@
+{
+  "city_id": "eguisheim",
+  "anchor": {
+    "name": "Place du Château Saint-Léon",
+    "coords": [
+      7.3097,
+      48.0431
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Château & Chapelle Saint-Léon",
+            "hu": "Vár tér és Szent Leó-kápolna",
+            "ro": "Piața Castelului și Capela Sf. Leon",
+            "en": "Château Square & Saint-Léon Chapel"
+          },
+          "coords": [
+            7.3097,
+            48.0431
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Deckenmalereien in der Kapelle.",
+            "hu": "Csodálja meg a kápolna színes mennyezeti festményeit.",
+            "ro": "Admirați picturile colorate de pe tavanul capelei.",
+            "en": "Admire the colorful ceiling paintings inside the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Rempart (Ringgassen)",
+            "hu": "Rue du Rempart (Kör alakú utcák)",
+            "ro": "Rue du Rempart (Străzile circulare)",
+            "en": "Rue du Rempart (Circular Streets)"
+          },
+          "coords": [
+            7.3085,
+            48.0425
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das berühmte 'Le Pigeonnier' Haus ist der perfekte Fotospot.",
+            "hu": "A híres galambdúc ház (Le Pigeonnier) a legjobb fotóhelyszín.",
+            "ro": "Faimoasa casă 'Le Pigeonnier' este locul perfect pentru poze.",
+            "en": "The famous 'Le Pigeonnier' house is the ultimate photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-et-Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Sf. Petru și Paul",
+            "en": "Saint-Pierre-et-Paul Church"
+          },
+          "coords": [
+            7.3068,
+            48.0428
+          ],
+          "category": "religious",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das romanische Portal aus dem 13. Jahrhundert.",
+            "hu": "Figyelje meg a 13. századi román stílusú kapuzatot.",
+            "ro": "Observați portalul romanic din secolul al XIII-lea.",
+            "en": "Look for the 13th-century Romanesque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Elsässer Winstub",
+            "hu": "Ebéd egy elzászi Winstubban",
+            "ro": "Prânz într-un Winstub alsacian",
+            "en": "Lunch in an Alsatian Winstub"
+          },
+          "coords": [
+            7.309,
+            48.0435
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Flammkuchen oder Sauerkraut.",
+            "hu": "Kóstolja meg a flammkuchent vagy a savanyú káposztát.",
+            "ro": "Încercați tarte flambée sau varză murată.",
+            "en": "Try some tarte flambée or local sauerkraut."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinverkostung (Vigneron)",
+            "hu": "Borkóstolás egy helyi pincében",
+            "ro": "Degustare de vinuri locale",
+            "en": "Wine Tasting at a Local Cellar"
+          },
+          "coords": [
+            7.311,
+            48.044
+          ],
+          "category": "shopping",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Gewürztraminer ist eine Spezialität der Region.",
+            "hu": "A Gewürztraminer a régió egyik különlegessége.",
+            "ro": "Gewürztraminer este o specialitate a regiunii.",
+            "en": "Gewürztraminer is a regional specialty you must taste."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine Saint-Léon & Abschied",
+            "hu": "Szent Leó-kút és búcsú",
+            "ro": "Fântâna Sf. Leon și final",
+            "en": "Saint-Léon Fountain & Farewell"
+          },
+          "coords": [
+            7.3095,
+            48.0432
+          ],
+          "category": "square",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dies ist einer der größten Brunnen im Elsass.",
+            "hu": "Ez Elzász egyik legnagyobb szökőkútja.",
+            "ro": "Aceasta este una dintre cele mai mari fântâni din Alsacia.",
+            "en": "This is one of the largest fountains in Alsace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen des kreisförmig angelegten Dorfes am Schlossplatz. Vormittags schlendern Sie durch die malerischen Ringgassen mit ihren blumengeschmückten Fachwerkhäusern. Nach einem deftigen Elsässer Mittagessen besuchen Sie die historische Kirche. Den Nachmittag lassen Sie bei einer Weinverkostung ausklingen, bevor Sie am großen Brunnen den Abend genießen.",
+        "hu": "Kezdje a napot a kör alaprajzú falu szívében, a Vár téren. Délelőtt sétáljon végig a festői körutakon, ahol virágos fagerendás házak sorakoznak. Egy kiadós elzászi ebéd után látogassa meg a történelmi templomot. A délutánt zárja borkóstolással az egyik helyi pincében, majd élvezze az estét a hatalmas Szent Leó-kút mellett.",
+        "ro": "Începeți ziua în inima satului circular, în Piața Castelului. Dimineața, plimbați-vă pe străzile circulare pitorești, mărginite de case cu bârne de lemn decorate cu flori. După un prânz alsacian copios, vizitați biserica istorică. Încheiați după-amiaza cu o degustare de vinuri la o cramă locală, apoi bucurați-vă de seară lângă marea fântână.",
+        "en": "Start your day in the heart of the circular village at Castle Square. Spend the morning wandering through the picturesque concentric streets lined with flower-decked half-timbered houses. After a hearty Alsatian lunch, visit the historic church. Spend the afternoon tasting world-class wines at a local cellar before ending your visit at the grand fountain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Dünner Teig mit Sauerrahm, Zwiebeln und Speck."
+          },
+          {
+            "name": "Winstub du Rempart",
+            "tip": "Traditionelle Gerichte in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Vékony tészta tejföllel, hagymával és szalonnával."
+          },
+          {
+            "name": "Winstub du Rempart",
+            "tip": "Hagyományos ételek történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarte Flambée",
+            "tip": "Aluat subțire cu smântână, ceapă și slănină."
+          },
+          {
+            "name": "Winstub du Rempart",
+            "tip": "Mâncăruri tradiționale într-o ambianță istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Flammkuchen",
+            "tip": "Thin crust pizza-like dish with cream, onions, and bacon."
+          },
+          {
+            "name": "Winstub du Rempart",
+            "tip": "Traditional local dishes in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge am Dorfrand",
+            "tip": "Ruhiger Spaziergang mit Blick auf den Ort.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Hof des Schlosses",
+            "tip": "Ein friedlicher Ort im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőültetvények a falu szélén",
+            "tip": "Csendes séta kilátással a falura.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várudvar",
+            "tip": "Békés hely a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile de la marginea satului",
+            "tip": "O plimbare liniștită cu vedere spre sat.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Curtea castelului",
+            "tip": "Un loc liniștit chiar în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards at the village edge",
+            "tip": "Peaceful walk with views over the rooftops.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Castle Courtyard",
+            "tip": "A quiet spot in the middle of the village.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weingüter",
+            "tip": "Kaufen Sie direkt beim Erzeuger."
+          },
+          {
+            "name": "Boulangerie Marx",
+            "tip": "Traditionelles elsässisches Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászatok",
+            "tip": "Vásároljon bort közvetlenül a termelőtől."
+          },
+          {
+            "name": "Boulangerie Marx",
+            "tip": "Hagyományos elzászi pékáruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinării locale",
+            "tip": "Cumpărați vin direct de la producător."
+          },
+          {
+            "name": "Boulangerie Marx",
+            "tip": "Produse de patiserie tradiționale alsaciene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wineries",
+            "tip": "Buy wine directly from the producers."
+          },
+          {
+            "name": "Boulangerie Marx",
+            "tip": "Traditional Alsatian pastries and breads."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Eguisheim ist klein, tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Kommen Sie früh am Morgen, um die Touristenmassen zu vermeiden.",
+          "Folgen Sie der Beschilderung für den Rundgang 'Sentier de découverte'.",
+          "Viele Weingüter bieten kostenlose Verkostungen an."
+        ],
+        "hu": [
+          "Eguisheim kicsi, viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Érkezzen korán reggel, hogy elkerülje a turisták tömegét.",
+          "Kövesse a 'Sentier de découverte' nevű felfedező útvonal jelzéseit.",
+          "Sok borászat kínál ingyenes kóstolót vásárlás előtt."
+        ],
+        "ro": [
+          "Eguisheim este mic, purtați pantofi confortabili pentru străzile cu piatră cubică.",
+          "Veniți dimineața devreme pentru a evita grupurile mari de turiști.",
+          "Urmați semnele pentru traseul turistic 'Sentier de découverte'.",
+          "Multe crame oferă degustări gratuite dacă doriți să cumpărați."
+        ],
+        "en": [
+          "Eguisheim is compact; wear comfortable shoes for the cobblestones.",
+          "Arrive early in the morning to enjoy the streets before the crowds.",
+          "Follow the signs for the 'Sentier de découverte' walking loop.",
+          "Most local winemakers offer tastings if you are interested in buying."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Start Eguisheim",
+            "hu": "Indulás Eguisheim",
+            "ro": "Start Eguisheim",
+            "en": "Start Eguisheim"
+          },
+          "coords": [
+            7.3097,
+            48.0431
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie Reifendruck vor dem Anstieg.",
+            "hu": "Ellenőrizze a guminyomást az emelkedő előtt.",
+            "ro": "Verificați presiunea roților înainte de urcare.",
+            "en": "Check your tire pressure before the climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Trois Châteaux (Drei Burgen)",
+            "hu": "A Három Vár (Les Trois Châteaux)",
+            "ro": "Cele Trei Castele",
+            "en": "The Three Castles (Les Trois Châteaux)"
+          },
+          "coords": [
+            7.275,
+            48.04
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht über die Rheinebene.",
+            "hu": "Látványos kilátás a Rajna-völgyre.",
+            "ro": "Vedere spectaculoasă asupra văii Rinului.",
+            "en": "Spectacular views over the Rhine valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Husseren-les-Châteaux",
+            "hu": "Husseren-les-Châteaux falu",
+            "ro": "Husseren-les-Châteaux",
+            "en": "Husseren-les-Châteaux"
+          },
+          "coords": [
+            7.28,
+            48.035
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Das höchstgelegene Dorf der Elsässer Weinstraße.",
+            "hu": "Az elzászi borút legmagasabban fekvő faluja.",
+            "ro": "Cel mai înalt sat de pe drumul vinului din Alsacia.",
+            "en": "The highest village on the Alsatian Wine Route."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen & Weinberge",
+            "hu": "Ebéd és szőlőhegyek",
+            "ro": "Prânz și podgorii",
+            "en": "Lunch & Vineyards"
+          },
+          "coords": [
+            7.3,
+            48.04
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Picknick zwischen den Reben.",
+            "hu": "Élvezze a pikniket a szőlőtőkék között.",
+            "ro": "Bucurați-vă de un picnic printre vii.",
+            "en": "Enjoy a picnic or a snack among the vines."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr Eguisheim",
+            "hu": "Visszatérés Eguisheimbe",
+            "ro": "Revenire în Eguisheim",
+            "en": "Return to Eguisheim"
+          },
+          "coords": [
+            7.309,
+            48.0435
+          ],
+          "category": "square",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Ein letzter Spaziergang durch die Gassen.",
+            "hu": "Egy utolsó séta a sikátorokban.",
+            "ro": "O ultimă plimbare pe străduțe.",
+            "en": "A final stroll through the narrow alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt Sie aus dem Dorf hinauf zu den drei Burgen. Der Anstieg ist fordernd, aber die Aussicht belohnt jede Mühe. Mittags radeln Sie durch das malerische Husseren, bevor es sanft bergab zurück nach Eguisheim geht.",
+        "hu": "Ez a túra kivezeti Önt a faluból a dombtetőn álló három várhoz. Az emelkedő megterhelő, de a kilátás kárpótol mindenért. Délben Husseren faluján keresztül tekerhet, majd lassan gurulhat vissza Eguisheimbe.",
+        "ro": "Acest tur vă scoate din sat și vă duce sus la cele trei castele. Urcarea este solicitantă, dar priveliștea merită efortul. La prânz pedalați prin Husseren, înainte de o coborâre ușoară înapoi în Eguisheim.",
+        "en": "This tour takes you out of the village up to the Three Castles. The climb is challenging, but the panoramic views are rewarding. Cycle through Husseren at midday before a gentle descent back to Eguisheim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vignoble Eichberg",
+            "tip": "Wein direkt am Hang probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eichberg dűlő",
+            "tip": "Kóstolja meg a bort közvetlenül a domboldalon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vignoble Eichberg",
+            "tip": "Degustați vinul direct pe deal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vichberg Vineyard",
+            "tip": "Taste wine right on the slopes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Trois Châteaux Plateau",
+            "tip": "Ruhe mit Aussicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trois Châteaux fennsík",
+            "tip": "Csend és panoráma.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul celor Trei Castele",
+            "tip": "Liniște cu priveliște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Three Castles Plateau",
+            "tip": "Peaceful spot with a view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Domaine Zinck",
+            "tip": "Hervorragende Bio-Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domaine Zinck",
+            "tip": "Kiváló bioborok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domaine Zinck",
+            "tip": "Vinuri bio excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Domaine Zinck",
+            "tip": "Excellent organic wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird für den Anstieg zu den Burgen empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Abfahrt erfordert gute Bremsen."
+        ],
+        "hu": [
+          "A várakhoz vezető emelkedőhöz elektromos kerékpár ajánlott.",
+          "Vigyen magával elegendő vizet.",
+          "A lejtőhöz jó fékekre van szükség."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru urcarea la castele.",
+          "Luați suficientă apă cu voi.",
+          "Coborârea necesită frâne bune."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the castle climb.",
+          "Carry plenty of water for the uphill sections.",
+          "Ensure your brakes are in good condition for the descent."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eguisheim Zentrum",
+            "hu": "Eguisheim központ",
+            "ro": "Eguisheim Centru",
+            "en": "Eguisheim Center"
+          },
+          "coords": [
+            7.3097,
+            48.0431
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz 'Mairie'.",
+            "hu": "Parkoljon a nagy 'Mairie' parkolóban.",
+            "ro": "Parcați în parcarea mare de la 'Mairie'.",
+            "en": "Park at the large 'Mairie' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Trois Châteaux (Aussichtspunkt)",
+            "hu": "Három Vár (Kilátópont)",
+            "ro": "Cele Trei Castele",
+            "en": "The Three Castles (Viewpoint)"
+          },
+          "coords": [
+            7.275,
+            48.04
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz zu den Ruinen.",
+            "hu": "Rövid séta a parkolótól a romokig.",
+            "ro": "Scurtă plimbare de la parcare la ruine.",
+            "en": "A short walk from the parking lot to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Husseren",
+            "hu": "Ebéd Husserenben",
+            "ro": "Prânz în Husseren",
+            "en": "Lunch in Husseren"
+          },
+          "coords": [
+            7.285,
+            48.036
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Toller Blick auf Eguisheim von hier oben.",
+            "hu": "Nagyszerű kilátás Eguisheimre innen fentről.",
+            "ro": "Vedere minunată asupra Eguisheim de aici de sus.",
+            "en": "Great views over Eguisheim from this elevation."
+          }
+        },
+        {
+          "name": {
+            "de": "Route des Vins (Panoramafahrt)",
+            "hu": "Borút (Panorámaút)",
+            "ro": "Drumul Vinului",
+            "en": "Wine Route (Scenic Drive)"
+          },
+          "coords": [
+            7.32,
+            48.05
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahren Sie Richtung Wettolsheim.",
+            "hu": "Hajtson Wettolsheim irányába.",
+            "ro": "Conduceți spre Wettolsheim.",
+            "en": "Drive towards Wettolsheim for more scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Eguisheim Wein-Shopping",
+            "hu": "Eguisheim borvásárlás",
+            "ro": "Cumpărături vin Eguisheim",
+            "en": "Eguisheim Wine Shopping"
+          },
+          "coords": [
+            7.311,
+            48.044
+          ],
+          "category": "shopping",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kofferraum mit Elsässer Schätzen füllen.",
+            "hu": "Töltse meg a csomagtartót elzászi kincsekkel.",
+            "ro": "Umpleți portbagajul cu comori alsaciene.",
+            "en": "Fill your trunk with Alsatian liquid treasures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie den Charme von Eguisheim mit der dramatischen Lage der drei Burgen auf dem Hügel. Nach dem Dorfrundgang fahren Sie hinauf zu den Ruinen. Genießen Sie ein Mittagessen mit Aussicht in Husseren und beenden Sie den Tag mit einer entspannten Fahrt durch die Weinberge.",
+        "hu": "Autóval kombinálhatja Eguisheim báját a dombtetőn álló három vár drámai látványával. A falunézés után hajtson fel a romokhoz. Élvezze a panorámás ebédet Husserenben, majd zárja a napot egy pihentető autózással a szőlőültetvények között.",
+        "ro": "Cu mașina puteți combina farmecul satului Eguisheim cu locația dramatică a celor trei castele de pe deal. După vizitarea satului, urcați la ruine. Bucurați-vă de un prânz cu priveliște în Husseren și încheiați ziua cu o plimbare relaxantă prin podgorii.",
+        "en": "By car, you can combine the charm of Eguisheim with the dramatic hilltop setting of the Three Castles. After exploring the village, drive up to the ruins. Enjoy a panoramic lunch in Husseren and finish the day with a scenic drive through the endless vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge des Trois Châteaux",
+            "tip": "Traditionelle Küche mit Panorama."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge des Trois Châteaux",
+            "tip": "Hagyományos konyha panorámával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge des Trois Châteaux",
+            "tip": "Bucătărie tradițională cu panoramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge des Trois Châteaux",
+            "tip": "Traditional cuisine with a panoramic view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Wettolsheim",
+            "tip": "Ruhiger Blick auf die Ebene.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wettolsheim kilátópont",
+            "tip": "Csendes kilátás a síkságra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Wettolsheim",
+            "tip": "Vedere liniștită spre câmpie.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Wettolsheim Viewpoint",
+            "tip": "Quiet spot looking over the plain.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wolfberger Shop",
+            "tip": "Große Auswahl an Weinen und Crémants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Wolfberger üzlet",
+            "tip": "Széles választék borokból és crémantokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Wolfberger",
+            "tip": "Gamă largă de vinuri și crémant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wolfberger Shop",
+            "tip": "Huge selection of wines and local Crémant."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zu den Burgen ist schmal und kurvig.",
+          "Parkgebühren im Ort sind obligatorisch.",
+          "In der Hochsaison ist das Parken schwierig."
+        ],
+        "hu": [
+          "A várakhoz vezető út keskeny és kanyargós.",
+          "A faluban a parkolás fizetős.",
+          "Főszezonban nehéz parkolóhelyet találni."
+        ],
+        "ro": [
+          "Drumul spre castele este îngust și șerpuitor.",
+          "Taxele de parcare în sat sunt obligatorii.",
+          "În plin sezon, parcarea poate fi dificilă."
+        ],
+        "en": [
+          "The road to the castles is narrow and winding.",
+          "Parking fees apply throughout the village.",
+          "In peak season, parking lots fill up very quickly."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Place de Gaulle",
+            "hu": "Place de Gaulle buszmegálló",
+            "ro": "Stația de autobuz Place de Gaulle",
+            "en": "Place de Gaulle Bus Stop"
+          },
+          "coords": [
+            7.3105,
+            48.0435
+          ],
+          "category": "square",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Checken Sie den Fahrplan für die Rückfahrt nach Colmar.",
+            "hu": "Ellenőrizze a menetrendet a Colmarba való visszatéréshez.",
+            "ro": "Verificați orarul pentru întoarcerea la Colmar.",
+            "en": "Double-check the return bus schedule to Colmar."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfrundgang (Gassen)",
+            "hu": "Falunézés (sikátorok)",
+            "ro": "Turul satului",
+            "en": "Village Exploration (Alleys)"
+          },
+          "coords": [
+            7.309,
+            48.043
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt zu Fuß erreichbar.",
+            "hu": "Gyalogosan tökéletesen bejárható.",
+            "ro": "Perfect de explorat la pas.",
+            "en": "Perfectly explored on foot from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            7.3095,
+            48.0432
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reservieren Sie in der Ferienzeit einen Tisch.",
+            "hu": "A nyaralási szezonban érdemes asztalt foglalni.",
+            "ro": "Rezervați o masă în timpul sezonului turistic.",
+            "en": "Book a table in advance during holiday seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "Szent Leó-kápolna",
+            "hu": "Szent Leó-kápolna",
+            "ro": "Capela Sf. Leon",
+            "en": "Saint-Léon Chapel"
+          },
+          "coords": [
+            7.3097,
+            48.0431
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe.",
+            "hu": "A nyugalom szigete.",
+            "ro": "Un loc de liniște.",
+            "en": "A place of peace and quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Wein-Souvenirs",
+            "hu": "Bor-szuvenírek",
+            "ro": "Suveniruri cu vin",
+            "en": "Wine Souvenirs"
+          },
+          "coords": [
+            7.31,
+            48.044
+          ],
+          "category": "shopping",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Glaswaren sind auch schöne Souvenirs.",
+            "hu": "Az üvegáruk is szép emléktárgyak.",
+            "ro": "Produsele din sticlă sunt, de asemenea, suveniruri frumoase.",
+            "en": "Local glassware also makes for beautiful souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eguisheim ist von Colmar aus leicht mit dem Bus erreichbar. Nach der Ankunft tauchen Sie sofort in die mittelalterliche Atmosphäre ein. Der gesamte Ort lässt sich wunderbar zu Fuß erkunden. Genießen Sie die Gastronomie und den Wein, bevor Sie entspannt mit dem Bus zurückfahren.",
+        "hu": "Eguisheim könnyen elérhető busszal Colmarból. Érkezés után azonnal elmerülhet a középkori hangulatban. Az egész falu csodálatosan bejárható gyalog. Élvezze a gasztronómiát és a bort, mielőtt kényelmesen visszautazna a busszal.",
+        "ro": "Eguisheim este ușor accesibil cu autobuzul din Colmar. După sosire, vă scufundați imediat în atmosfera medievală. Întregul sat poate fi explorat minunat la pas. Bucurați-vă de gastronomie și vin înainte de a vă întoarce relaxat cu autobuzul.",
+        "en": "Eguisheim is easily accessible by bus from Colmar. Upon arrival, you'll immediately step into a medieval fairytale. The entire village is best explored on foot. Enjoy the local food and wine culture before heading back by bus in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kugelhupf",
+            "tip": "Traditioneller Elsässer Napfkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gugelhupf",
+            "tip": "Hagyományos elzászi kalács."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kugelhupf",
+            "tip": "Cozonac tradițional alsacian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kugelhupf",
+            "tip": "Traditional Alsatian bundt cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Csendes hely a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Loc liniștit în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "Quiet spot behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Feinkostläden",
+            "tip": "Elsässer Senf und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi csemegeboltok",
+            "tip": "Elzászi mustár és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine cu delicatese",
+            "tip": "Muștar și miere alsaciană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gourmet shops",
+            "tip": "Alsatian mustard and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buslinie 208 ab Colmar nutzen.",
+          "Sonntags ist der Busverkehr eingeschränkt.",
+          "Kaufen Sie Fahrkarten direkt beim Fahrer."
+        ],
+        "hu": [
+          "Használja a 208-as buszt Colmarból.",
+          "Vasárnap korlátozott a buszközlekedés.",
+          "Vásároljon jegyet közvetlenül a sofőrnél."
+        ],
+        "ro": [
+          "Folosiți linia de autobuz 208 din Colmar.",
+          "Duminica serviciul de autobuz este limitat.",
+          "Cumpărați bilete direct de la șofer."
+        ],
+        "en": [
+          "Take bus 208 from Colmar.",
+          "Bus services are limited on Sundays.",
+          "You can buy tickets directly from the driver."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1043 @@
+{
+  "city_id": "perigueux",
+  "anchor": {
+    "name": "Cathédrale Saint-Front",
+    "coords": [
+      0.7218,
+      45.1842
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Front",
+            "hu": "Saint-Front székesegyház",
+            "ro": "Catedrala Saint-Front",
+            "en": "Saint-Front Cathedral"
+          },
+          "coords": [
+            0.7218,
+            45.1842
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Achten Sie auf die byzantinischen Kuppeln, die dem Sacré-Cœur in Paris ähneln.",
+            "hu": "Figyeld meg a bizánci kupolákat, amelyek a párizsi Sacré-Cœur mintájául szolgáltak.",
+            "ro": "Observați cupolele bizantine care seamănă cu Sacré-Cœur din Paris.",
+            "en": "Notice the Byzantine domes that inspired the Sacré-Cœur in Paris."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Clautre",
+            "hu": "Place de la Clautre",
+            "ro": "Place de la Clautre",
+            "en": "Place de la Clautre"
+          },
+          "coords": [
+            0.7208,
+            45.1845
+          ],
+          "category": "square",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Besuchen Sie den Markt am Mittwoch oder Samstag für lokale Trüffel.",
+            "hu": "Látogassa meg a szerdai vagy szombati piacot a helyi szarvasgombáért.",
+            "ro": "Vizitați piața miercuri sau sâmbătă pentru trufe locale.",
+            "en": "Visit the market on Wednesday or Saturday for local truffles."
+          }
+        },
+        {
+          "name": {
+            "de": "MAAP - Kunst- und Archäologiemuseum",
+            "hu": "MAAP - Művészeti és Régészeti Múzeum",
+            "ro": "MAAP - Muzeul de Artă și Arheologie",
+            "en": "MAAP - Art and Archaeology Museum"
+          },
+          "coords": [
+            0.7185,
+            45.1865
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Bewundern Sie die prähistorische Sammlung und die gallo-römischen Mosaike.",
+            "hu": "Csodálja meg az őskori gyűjteményt és a gall-római mozaikokat.",
+            "ro": "Admirați colecția preistorică și mozaicurile galo-romane.",
+            "en": "Admire the prehistoric collection and the Gallo-Roman mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Vesunna Gallo-Römisches Museum",
+            "hu": "Vesunna Gallo-Római Múzeum",
+            "ro": "Muzeul Galo-Roman Vesunna",
+            "en": "Vesunna Gallo-Roman Museum"
+          },
+          "coords": [
+            0.7125,
+            45.1815
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_at_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Das von Jean Nouvel entworfene Gebäude schützt eine echte römische Villa.",
+            "hu": "A Jean Nouvel által tervezett épület egy valódi római villát védelmez.",
+            "ro": "Clădirea proiectată de Jean Nouvel protejează o vilă romană reală.",
+            "en": "The building designed by Jean Nouvel protects a real Roman villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Vésonne",
+            "hu": "Tour de Vésonne",
+            "ro": "Turnul Vésonne",
+            "en": "Tour de Vésonne"
+          },
+          "coords": [
+            0.712,
+            45.1795
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein 24 Meter hoher Rest eines antiken römischen Tempels.",
+            "hu": "Egy ókori római templom 24 méter magas maradványa.",
+            "ro": "O rămășiță de 24 de metri înălțime a unui templu roman antic.",
+            "en": "A 24-meter high remnant of an ancient Roman temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Arènes",
+            "hu": "Jardin des Arènes",
+            "ro": "Grădina Arenelor",
+            "en": "Jardin des Arènes"
+          },
+          "coords": [
+            0.716,
+            45.1825
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Entspannen Sie in den Ruinen des römischen Amphitheaters.",
+            "hu": "Pihenjen a római amfiteátrum romjai között kialakított parkban.",
+            "ro": "Relaxați-vă în grădina amenajată în ruinele amfiteatrului roman.",
+            "en": "Relax in the park set within the ruins of the Roman amphitheater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der beeindruckenden Kathedrale Saint-Front, einem Wahrzeichen des UNESCO-Welterbes. Schlendern Sie durch die mittelalterlichen Gassen zum lebhaften Place de la Clautre. Nach einem kulturellen Vormittag im MAAP tauchen Sie im Vesunna-Museum tief in die römische Vergangenheit der Stadt ein. Beenden Sie den Tag entspannt im Jardin des Arènes, wo sich Natur und antike Geschichte perfekt verbinden.",
+        "hu": "Kezdje a napot az impozáns Saint-Front székesegyháznál, amely az UNESCO Világörökség része. Sétáljon végig a középkori utcákon a nyüzsgő Place de la Clautre térig. A MAAP múzeumban töltött kulturális délelőtt után merüljön el a város római múltjában a Vesunna múzeumban. Zárja a napot pihenéssel a Jardin des Arènes parkban, ahol a természet és az antik történelem tökéletesen találkozik.",
+        "ro": "Începeți ziua la impresionanta Catedrală Saint-Front, un reper al patrimoniului mondial UNESCO. Plimbați-vă pe străzile medievale până la animata Place de la Clautre. După o dimineață culturală la MAAP, scufundați-vă în trecutul roman al orașului la muzeul Vesunna. Încheiați ziua relaxându-vă în Jardin des Arènes, unde natura și istoria antică se îmbină perfect.",
+        "en": "Start your day at the impressive Saint-Front Cathedral, a UNESCO World Heritage landmark. Stroll through the medieval streets to the lively Place de la Clautre. After a cultural morning at MAAP, dive deep into the city's Roman past at the Vesunna museum. End the day relaxing in the Jardin des Arènes park, where nature and ancient history blend perfectly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Foie Gras du Périgord",
+            "tip": "Probieren Sie diese lokale Delikatesse in einer der Boutiquen in der Altstadt."
+          },
+          {
+            "name": "Le 5",
+            "tip": "Ein renommiertes Restaurant mit Blick auf die Kathedrale für gehobene regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Périgordi hízott libamáj",
+            "tip": "Kóstolja meg ezt a helyi különlegességet az óváros egyik boltjában."
+          },
+          {
+            "name": "Le 5",
+            "tip": "Nívós étterem a katedrálisra néző kilátással, kiváló regionális fogásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Foie Gras du Périgord",
+            "tip": "Gustați această delicatesă locală în unul dintre magazinele din centrul vechi."
+          },
+          {
+            "name": "Le 5",
+            "tip": "Un restaurant renumit cu vedere la catedrală pentru bucătărie regională rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Périgord Foie Gras",
+            "tip": "Try this local delicacy in one of the boutiques in the old town."
+          },
+          {
+            "name": "Le 5",
+            "tip": "A renowned restaurant with views of the cathedral for upscale regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Isle",
+            "tip": "Ein ruhiger Spaziergang entlang des Flusses bietet eine tolle Perspektive auf die Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Square Jean Jaurès",
+            "tip": "Ein kleiner, friedlicher Park abseits der touristischen Pfade.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Az Isle folyó partja",
+            "tip": "Egy csendes séta a folyó mentén remek kilátást nyújt a városra.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Square Jean Jaurès",
+            "tip": "Egy apró, békés park távol a turistaútvonalaktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Isle",
+            "tip": "O plimbare liniștită de-a lungul râului oferă o perspectivă excelentă asupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Square Jean Jaurès",
+            "tip": "Un parc mic și liniștit, departe de traseele turistice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Isle",
+            "tip": "A quiet walk along the river offers a great perspective on the city.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Square Jean Jaurès",
+            "tip": "A small, peaceful park away from the tourist paths.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché du Coderc",
+            "tip": "Ein überdachter Markt für frische lokale Produkte und Käse."
+          },
+          {
+            "name": "Rue Limogeanne",
+            "tip": "Die Haupteinkaufsstraße mit vielen charmanten Geschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché du Coderc",
+            "tip": "Fedett piac friss helyi termékekkel és sajtokkal."
+          },
+          {
+            "name": "Rue Limogeanne",
+            "tip": "A fő bevásárlóutca számos bájos üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché du Coderc",
+            "tip": "O piață acoperită pentru produse locale proaspete și brânzeturi."
+          },
+          {
+            "name": "Rue Limogeanne",
+            "tip": "Principala stradă comercială cu multe magazine fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché du Coderc",
+            "tip": "A covered market for fresh local produce and cheeses."
+          },
+          {
+            "name": "Rue Limogeanne",
+            "tip": "The main shopping street with many charming shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Périgueux ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Kathedrale ist mittags oft für eine kurze Pause geschlossen.",
+          "Parken Sie Ihr Auto am Stadtrand und nutzen Sie die Beine, um die versteckten Höfe zu entdecken.",
+          "Probieren Sie unbedingt die 'Noix du Périgord' (Walnüsse) auf dem Markt."
+        ],
+        "hu": [
+          "Périgueux nagyon gyalogosbarát, viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A katedrális délidőben gyakran bezár egy rövid szünetre.",
+          "Parkoljon a város szélén, és fedezze fel gyalog a rejtett belső udvarokat.",
+          "Mindenképpen kóstolja meg a 'Noix du Périgord'-ot (helyi dió) a piacon."
+        ],
+        "ro": [
+          "Périgueux este foarte prietenos cu pietonii, purtați pantofi confortabili pentru pavaj.",
+          "Catedrala este adesea închisă la prânz pentru o scurtă pauză.",
+          "Parcați mașina la marginea orașului și folosiți picioarele pentru a descoperi curțile ascunse.",
+          "Nu uitați să gustați 'Noix du Périgord' (nuci) la piață."
+        ],
+        "en": [
+          "Périgueux is very pedestrian-friendly, wear comfortable shoes for the cobblestones.",
+          "The cathedral often closes for a short break during lunchtime.",
+          "Park your car on the outskirts and use your legs to discover the hidden courtyards.",
+          "Be sure to try the 'Noix du Périgord' (walnuts) at the market."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Voie Verte des Berges de l'Isle",
+            "hu": "Voie Verte - Isle parti kerékpárút",
+            "ro": "Voie Verte des Berges de l'Isle",
+            "en": "Isle Riverside Greenway"
+          },
+          "coords": [
+            0.725,
+            45.183
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Genießen Sie die flache, grüne Route entlang des Flusses.",
+            "hu": "Élvezze a sík, zöld útvonalat a folyó mentén.",
+            "ro": "Bucurați-vă de traseul plat și verde de-a lungul râului.",
+            "en": "Enjoy the flat, green route along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Vesunna Museum",
+            "hu": "Vesunna Múzeum",
+            "ro": "Muzeul Vesunna",
+            "en": "Vesunna Museum"
+          },
+          "coords": [
+            0.7125,
+            45.1815
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Es gibt gute Fahrradständer direkt vor dem Eingang.",
+            "hu": "Közvetlenül a bejárat előtt jó kerékpártárolók találhatók.",
+            "ro": "Există rastele bune de biciclete chiar în fața intrării.",
+            "en": "There are good bike racks right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Vésonne",
+            "hu": "Tour de Vésonne",
+            "ro": "Turnul Vésonne",
+            "en": "Tour de Vésonne"
+          },
+          "coords": [
+            0.712,
+            45.1795
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Ein kurzer Stopp im antiken Viertel.",
+            "hu": "Rövid megálló az antik negyedben.",
+            "ro": "O scurtă oprire în cartierul antic.",
+            "en": "A quick stop in the ancient district."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt / Puy-Saint-Front",
+            "hu": "Óváros / Puy-Saint-Front",
+            "ro": "Centrul vechi / Puy-Saint-Front",
+            "en": "Old Town / Puy-Saint-Front"
+          },
+          "coords": [
+            0.72,
+            45.184
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "A szűk utcákban tolja a kerékpárt.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Front Kathedrale",
+            "hu": "Saint-Front székesegyház",
+            "ro": "Catedrala Saint-Front",
+            "en": "Saint-Front Cathedral"
+          },
+          "coords": [
+            0.7218,
+            45.1842
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Blick von der Brücke ist perfekt für Fotos.",
+            "hu": "A hídról nyíló kilátás tökéletes fotózáshoz.",
+            "ro": "Vederea de pe pod este perfectă pentru fotografii.",
+            "en": "The view from the bridge is perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Consuls",
+            "hu": "Maison des Consuls",
+            "ro": "Maison des Consuls",
+            "en": "Maison des Consuls"
+          },
+          "coords": [
+            0.7235,
+            45.1855
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Wunderschöne Renaissance-Architektur am Fluss.",
+            "hu": "Gyönyörű reneszánsz építészet a folyóparton.",
+            "ro": "Arhitectură renascentistă superbă pe malul râului.",
+            "en": "Beautiful Renaissance architecture on the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Périgueux und seine Umgebung auf zwei Rädern. Beginnen Sie entspannt auf der Voie Verte entlang der Isle. Besuchen Sie das moderne Vesunna-Museum und die römischen Ruinen, bevor Sie ins historische Zentrum radeln. Die Route kombiniert die Ruhe des Flusses mit der beeindruckenden Architektur der Kathedrale Saint-Front und der Renaissance-Häuser.",
+        "hu": "Fedezze fel Périgueux-t és környékét két keréken. Kezdjen egy pihentető tekeréssel az Isle menti Voie Verte útvonalon. Látogassa meg a modern Vesunna múzeumot és a római romokat, mielőtt a történelmi központ felé venné az irányt. Az útvonal ötvözi a folyópart nyugalmát a Saint-Front székesegyház és a reneszánsz házak lenyűgöző látványával.",
+        "ro": "Explorați Périgueux și împrejurimile sale pe două roți. Începeți relaxat pe Voie Verte de-a lungul râului Isle. Vizitați muzeul modern Vesunna și ruinele romane înainte de a pedala spre centrul istoric. Traseul combină liniștea râului cu arhitectura impresionantă a Catedralei Saint-Front și a caselor renascentiste.",
+        "en": "Explore Périgueux and its surroundings on two wheels. Start with a relaxing ride on the Voie Verte along the Isle. Visit the modern Vesunna museum and Roman ruins before heading towards the historical center. The route combines the tranquility of the river with the impressive architecture of Saint-Front Cathedral and Renaissance houses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Epicurien",
+            "tip": "Ideal für ein schnelles, aber hochwertiges Mittagessen für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Epicurien",
+            "tip": "Ideális gyors, de minőségi ebédhez kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Epicurien",
+            "tip": "Ideal pentru un prânz rapid, dar de calitate, pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Epicurien",
+            "tip": "Ideal for a quick but high-quality lunch for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont des Barris",
+            "tip": "Blick auf die Kathedrale bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont des Barris",
+            "tip": "Kilátás a katedrálisra naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont des Barris",
+            "tip": "Vedere spre catedrală la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pont des Barris",
+            "tip": "View of the cathedral at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo Passion",
+            "tip": "Lokaler Fahrradladen für Zubehör oder Reparaturen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo Passion",
+            "tip": "Helyi kerékpárbolt kiegészítőkhöz vagy javításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velo Passion",
+            "tip": "Magazin local de biciclete pentru accesorii sau reparații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo Passion",
+            "tip": "Local bike shop for accessories or repairs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Voie Verte ist fast komplett flach und sehr sicher.",
+          "In der Altstadt ist das Radfahren aufgrund der Fußgängerzonen eingeschränkt.",
+          "Mieten Sie E-Bikes, wenn Sie die umliegenden Hügel erkunden möchten.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt entlang des Flusses mit."
+        ],
+        "hu": [
+          "A Voie Verte szinte teljesen sík és nagyon biztonságos.",
+          "Az óvárosban a kerékpározás korlátozott a sétálóövezetek miatt.",
+          "Béreljen elektromos kerékpárt, ha a környező dombokat is felfedezné.",
+          "Vigyen magával elegendő vizet a folyó menti szakaszra."
+        ],
+        "ro": [
+          "Voie Verte este aproape complet plată și foarte sigură.",
+          "În centrul vechi, mersul pe bicicletă este limitat din cauza zonelor pietonale.",
+          "Închiriați biciclete electrice dacă doriți să explorați dealurile din jur.",
+          "Luați suficientă apă pentru plimbarea de-a lungul râului."
+        ],
+        "en": [
+          "The Voie Verte is almost completely flat and very safe.",
+          "In the old town, cycling is restricted due to pedestrian zones.",
+          "Rent e-bikes if you want to explore the surrounding hills.",
+          "Take enough water for the ride along the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Front",
+            "hu": "Saint-Front székesegyház",
+            "ro": "Catedrala Saint-Front",
+            "en": "Saint-Front Cathedral"
+          },
+          "coords": [
+            0.7218,
+            45.1842
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Parken Sie auf dem großen Parkplatz 'Place Tourny'.",
+            "hu": "Parkoljon a nagy 'Place Tourny' parkolóban.",
+            "ro": "Parcați în parcarea mare 'Place Tourny'.",
+            "en": "Park at the large 'Place Tourny' parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Vesunna Museum",
+            "hu": "Vesunna Múzeum",
+            "ro": "Muzeul Vesunna",
+            "en": "Vesunna Museum"
+          },
+          "coords": [
+            0.7125,
+            45.1815
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Kostenlose Parkplätze stehen oft in der Nähe zur Verfügung.",
+            "hu": "Ingyenes parkolóhelyek gyakran állnak rendelkezésre a közelben.",
+            "ro": "Locuri de parcare gratuite sunt adesea disponibile în apropiere.",
+            "en": "Free parking spaces are often available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Hautefort (Exkursion)",
+            "hu": "Hautefort kastély (kirándulás)",
+            "ro": "Castelul Hautefort (excursie)",
+            "en": "Hautefort Castle (excursion)"
+          },
+          "coords": [
+            1.1444,
+            45.2594
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_at_prev_min": 75,
+          "hop_from_prev_km": 35.0,
+          "tip_4lang": {
+            "de": "Eines der prächtigsten Schlösser des Périgord.",
+            "hu": "Périgord egyik legpompásabb kastélya.",
+            "ro": "Unul dintre cele mai splendide castele din Périgord.",
+            "en": "One of the most splendid castles in Périgord."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte de Tourtoirac",
+            "hu": "Tourtoirac-i barlang",
+            "ro": "Peștera Tourtoirac",
+            "en": "Tourtoirac Cave"
+          },
+          "coords": [
+            1.0667,
+            45.2667
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_4lang": {
+            "de": "Eine beeindruckende Tropfsteinhöhle ganz in der Nähe.",
+            "hu": "Lenyűgöző cseppkőbarlang a közelben.",
+            "ro": "O peșteră de stalactite impresionantă în apropiere.",
+            "en": "An impressive stalactite cave nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um sowohl das Herz von Périgueux als auch die Schätze der Umgebung zu entdecken. Nach der Besichtigung der Kathedrale und des Vesunna-Museums fahren Sie zum majestätischen Château de Hautefort. Diese Route bietet eine perfekte Mischung aus Stadtgeschichte und der ländlichen Pracht der Dordogne.",
+        "hu": "Használja az autót Périgueux szívének és a környék kincseinek felfedezéséhez. A katedrális és a Vesunna múzeum megtekintése után induljon a fenséges Hautefort kastélyhoz. Ez az útvonal tökéletes keveréke a várostörténetnek és a Dordogne vidéki pompájának.",
+        "ro": "Folosiți mașina pentru a descoperi atât inima orașului Périgueux, cât și comorile din jur. După vizitarea catedralei și a muzeului Vesunna, conduceți spre maiestuosul Castel Hautefort. Acest traseu oferă un amestec perfect între istoria orașului și splendoarea rurală a Dordognei.",
+        "en": "Use the car to discover both the heart of Périgueux and the treasures of the surroundings. After visiting the cathedral and the Vesunna museum, drive to the majestic Hautefort Castle. This route offers a perfect blend of city history and the rural splendor of the Dordogne."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Escapade",
+            "tip": "Gemütliches Restaurant in Hautefort mit traditioneller Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Escapade",
+            "tip": "Hangulatos étterem Hautefort-ban hagyományos konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Escapade",
+            "tip": "Restaurant primitor în Hautefort cu bucătărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Escapade",
+            "tip": "Cozy restaurant in Hautefort with traditional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Hautefort",
+            "tip": "Wunderschön gepflegte französische Gärten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hautefort kertjei",
+            "tip": "Gyönyörűen gondozott francia kertek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Hautefort",
+            "tip": "Grădini franceze superb întreținute.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hautefort Gardens",
+            "tip": "Beautifully maintained French gardens.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Maison de la Truffe",
+            "tip": "Spezialgeschäft für Trüffelprodukte in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Maison de la Truffe",
+            "tip": "Szarvasgomba termékekre szakosodott üzlet a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Maison de la Truffe",
+            "tip": "Magazin specializat în produse din trufe din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Maison de la Truffe",
+            "tip": "Specialty shop for truffle products in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in der Innenstadt von Périgueux kann schwierig sein; nutzen Sie P+R.",
+          "Die Straßen im Périgord sind oft schmal und kurvenreich.",
+          "Buchen Sie Tickets für das Château de Hautefort im Voraus.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen in den Dörfern."
+        ],
+        "hu": [
+          "A parkolás Périgueux belvárosában nehéz lehet; használja a P+R parkolókat.",
+          "A périgordi utak gyakran szűkek és kanyargósak.",
+          "Foglalja le előre a jegyeket a Hautefort kastélyba.",
+          "Ügyeljen a sebességkorlátozásokra a falvakban."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului Périgueux poate fi dificilă; folosiți P+R.",
+          "Drumurile din Périgord sunt adesea înguste și sinuoase.",
+          "Rezervați biletele pentru Castelul Hautefort în avans.",
+          "Atenție la limitele de viteză în sate."
+        ],
+        "en": [
+          "Parking in downtown Périgueux can be difficult; use P+R parking.",
+          "Roads in Périgord are often narrow and winding.",
+          "Book tickets for Hautefort Castle in advance.",
+          "Watch out for speed limits in the villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Front",
+            "hu": "Saint-Front székesegyház",
+            "ro": "Catedrala Saint-Front",
+            "en": "Saint-Front Cathedral"
+          },
+          "coords": [
+            0.7218,
+            45.1842
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Zentraler Punkt, von dem aus viele Buslinien starten.",
+            "hu": "Központi pont, ahonnan számos buszjárat indul.",
+            "ro": "Punct central de unde pleacă multe linii de autobuz.",
+            "en": "Central point from which many bus lines start."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Francheville",
+            "hu": "Place Francheville",
+            "ro": "Place Francheville",
+            "en": "Place Francheville"
+          },
+          "coords": [
+            0.7175,
+            45.1835
+          ],
+          "category": "square",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Wichtiger Verkehrsknotenpunkt mit vielen Anschlüssen.",
+            "hu": "Fontos közlekedési csomópont számos csatlakozással.",
+            "ro": "Nod important de transport cu multe conexiuni.",
+            "en": "Important transport hub with many connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Vesunna Museum",
+            "hu": "Vesunna Múzeum",
+            "ro": "Muzeul Vesunna",
+            "en": "Vesunna Museum"
+          },
+          "coords": [
+            0.7125,
+            45.1815
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Die Linie B hält direkt vor dem Museum.",
+            "hu": "A B jelzésű busz közvetlenül a múzeum előtt áll meg.",
+            "ro": "Linia B oprește chiar în fața muzeului.",
+            "en": "Bus line B stops right in front of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "MAAP Museum",
+            "hu": "MAAP Múzeum",
+            "ro": "Muzeul MAAP",
+            "en": "MAAP Museum"
+          },
+          "coords": [
+            0.7185,
+            45.1865
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_at_prev_min": 55,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie den Stadtbus, um den Hügel leicht zu erklimmen.",
+            "hu": "Használja a helyi buszt, hogy könnyen feljusson a dombra.",
+            "ro": "Folosiți autobuzul local pentru a urca ușor dealul.",
+            "en": "Use the city bus to easily climb the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Culture",
+            "hu": "Maison de la Culture",
+            "ro": "Maison de la Culture",
+            "en": "Maison de la Culture"
+          },
+          "coords": [
+            0.715,
+            45.188
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein moderner Treffpunkt für Kunst und Events.",
+            "hu": "Modern művészeti és rendezvényhelyszín.",
+            "ro": "Un loc modern pentru artă și evenimente.",
+            "en": "A modern venue for art and events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Péribus-Netzwerk, um bequem zwischen den wichtigsten Sehenswürdigkeiten von Périgueux zu wechseln. Diese Route verbindet die historische Altstadt mit den bedeutendsten Museen wie Vesunna und MAAP. Es ist eine stressfreie Möglichkeit, die kulturelle Vielfalt der Stadt zu erleben, ohne sich um Parkplätze kümmern zu müssen.",
+        "hu": "Használja a Péribus hálózatot, hogy kényelmesen váltson Périgueux fő látnivalói között. Ez az útvonal összeköti a történelmi óvárost a legjelentősebb múzeumokkal, mint a Vesunna és a MAAP. Ez egy stresszmentes módja a város kulturális sokszínűségének felfedezésének, anélkül, hogy a parkolás miatt aggódna.",
+        "ro": "Folosiți rețeaua Péribus pentru a schimba confortabil între principalele atracții din Périgueux. Acest traseu conectează centrul istoric cu cele mai importante muzee, precum Vesunna și MAAP. Este o modalitate fără stres de a experimenta diversitatea culturală a orașului fără a vă face griji pentru parcare.",
+        "en": "Use the Péribus network to comfortably switch between the main sights of Périgueux. This route connects the historical old town with the most significant museums like Vesunna and MAAP. It's a stress-free way to experience the city's cultural diversity without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Ferme",
+            "tip": "Traditionelle Gerichte in der Nähe der Bushaltestelle Place Francheville."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Ferme",
+            "tip": "Hagyományos ételek a Place Francheville buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Ferme",
+            "tip": "Mâncăruri tradiționale lângă stația de autobuz Place Francheville."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Ferme",
+            "tip": "Traditional dishes near the Place Francheville bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Gamenson",
+            "tip": "Ein schöner öffentlicher Park hinter dem Rathaus.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Gamenson",
+            "tip": "Szép közpark a városháza mögött.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Gamenson",
+            "tip": "Un parc public frumos în spatele primăriei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Gamenson",
+            "tip": "A beautiful public park behind the city hall.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Périgueux Centre-Ville",
+            "tip": "Zahlreiche Boutiquen im Umkreis der zentralen Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Périgueux belváros",
+            "tip": "Számos üzlet a központi megállók környékén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Périgueux Centru",
+            "tip": "Numeroase magazine în jurul stațiilor centrale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Périgueux City Center",
+            "tip": "Numerous boutiques around the central stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihre Fahrkarten im Voraus am Kiosk oder per App.",
+          "Die Busse fahren am Wochenende seltener.",
+          "Überprüfen Sie den Fahrplan der Linie NS für das historische Viertel.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Vásárolja meg jegyeit előre az újságárusoknál vagy alkalmazáson keresztül.",
+          "A buszok hétvégén ritkábban járnak.",
+          "Ellenőrizze az NS vonal menetrendjét a történelmi negyedhez.",
+          "Érvényesítse jegyét felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați biletele în avans de la chioșcuri sau prin aplicație.",
+          "Autobuzele circulă mai rar în weekend.",
+          "Verificați orarul liniei NS pentru cartierul istoric.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Buy your tickets in advance at kiosks or via the app.",
+          "Buses run less frequently on weekends.",
+          "Check the timetable for the NS line for the historical district.",
+          "Validate your ticket when boarding."
+        ]
+      }
+    }
+  }
+}

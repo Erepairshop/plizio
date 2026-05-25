@@ -1,0 +1,968 @@
+{
+  "city_id": "toulon",
+  "anchor": {
+    "name": "Port de Toulon",
+    "coords": [
+      43.1242,
+      5.928
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Toulon",
+            "hu": "Touloni kikötő",
+            "ro": "Portul Toulon",
+            "en": "Port of Toulon"
+          },
+          "coords": [
+            5.932,
+            43.12
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote.",
+            "hu": "Nézze meg a halászhajókat reggel.",
+            "ro": "Priviți bărcile de pescuit dimineața.",
+            "en": "Watch the fishing boats in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Marinemuseum",
+            "hu": "Nemzeti Tengerészeti Múzeum",
+            "ro": "Muzeul Național al Marinei",
+            "en": "National Navy Museum"
+          },
+          "coords": [
+            5.928,
+            43.121
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Tor von 1738 ist spektakulär.",
+            "hu": "Az 1738-as kapu lenyűgöző látvány.",
+            "ro": "Poarta din 1738 este spectaculoasă.",
+            "en": "The gate from 1738 is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt am Cours Lafayette",
+            "hu": "Cours Lafayette piac",
+            "ro": "Piața Cours Lafayette",
+            "en": "Cours Lafayette Market"
+          },
+          "coords": [
+            5.934,
+            43.121
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie die 'Cade'.",
+            "hu": "Kóstolja meg a 'Cade'-t.",
+            "ro": "Gustați specialitatea locală 'Cade'.",
+            "en": "Try the local specialty 'Cade'."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Sainte-Marie",
+            "hu": "Sainte-Marie-de-la-Seds katedrális",
+            "ro": "Catedrala Sainte-Marie",
+            "en": "Sainte-Marie Cathedral"
+          },
+          "coords": [
+            5.933,
+            43.122
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Barocke Architektur im Inneren.",
+            "hu": "Barokk építészet a belső térben.",
+            "ro": "Arhitectură barocă în interior.",
+            "en": "Baroque architecture inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Oper von Toulon",
+            "hu": "Touloni Operaház",
+            "ro": "Opera din Toulon",
+            "en": "Opera of Toulon"
+          },
+          "coords": [
+            5.931,
+            43.123
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eines der größten Opernhäuser.",
+            "hu": "Az egyik legnagyobb operaház.",
+            "ro": "Una dintre cele mai mari opere.",
+            "en": "One of the largest opera houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Liberté",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Place de la Liberté"
+          },
+          "coords": [
+            5.93,
+            43.126
+          ],
+          "category": "square",
+          "arrive_at": "16:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der Brunnen der Föderation.",
+            "hu": "A Föderáció kútja a központban.",
+            "ro": "Fântâna Federației în centru.",
+            "en": "The Federation Fountain in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Hafen, wo die Meeresbrise und die Marinegeschichte aufeinandertreffen. Nach einem Besuch im Marinemuseum tauchen Sie in die Düfte des provenzalischen Marktes ein. Der Nachmittag gehört der Architektur, von der Kathedrale bis zur prächtigen Oper. Den Abend lassen Sie am belebten Place de la Liberté ausklingen.",
+        "hu": "Kezdje a napot a kikötőben, ahol a tengeri szellő és a haditengerészeti múlt találkozik. A tengerészeti múzeum után merüljön el a provence-i piac illataiban. A délután az építészeté: a katedrálistól a pompás Operaházig jutunk el. Az estét a nyüzsgő Szabadság téren, Toulon szívében zárjuk egy kényelmes vacsorával.",
+        "ro": "Începeți ziua în port, unde briza mării se întâlnește cu istoria navală. După muzeul marinei, lăsați-vă purtați de aromele pieței provensale. După-amiaza este dedicată arhitecturii, de la catedrală la impunătoarea Operă. Seara se încheie în Place de la Liberté, inima vibrantă a orașului Toulon.",
+        "en": "Start your day at the harbor, where the sea breeze meets naval history. After the naval museum, immerse yourself in the scents of the Provençal market. The afternoon is dedicated to architecture, from the cathedral to the grand Opera House. The evening concludes at the lively Place de la Liberté with a nice dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cade",
+            "tip": "Kichererbsenfladen, warm genießen."
+          },
+          {
+            "name": "Le Tables de la Fontaine",
+            "tip": "Provenzalische Küche am Place de la Liberté."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cade",
+            "tip": "Csicseriborsó lepény, melegen a legjobb."
+          },
+          {
+            "name": "Le Tables de la Fontaine",
+            "tip": "Helyi ízek a Szabadság téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cade",
+            "tip": "Plăcintă de năut, servită caldă."
+          },
+          {
+            "name": "Le Tables de la Fontaine",
+            "tip": "Bucătărie provensală în piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cade",
+            "tip": "Chickpea flatbread, best eaten warm."
+          },
+          {
+            "name": "Le Tables de la Fontaine",
+            "tip": "Provencal cuisine at the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Alexandre Ier",
+            "tip": "Ruhiger Stadtpark mit Skulpturen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Alexandre Ier",
+            "tip": "Csendes városi park szobrokkal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Alexandru I",
+            "tip": "Parc liniștit cu sculpturi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Alexandre Ier",
+            "tip": "Quiet city park with sculptures.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cours Lafayette",
+            "tip": "Täglicher Markt für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cours Lafayette",
+            "tip": "Napi piac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cours Lafayette",
+            "tip": "Piață zilnică cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cours Lafayette",
+            "tip": "Daily market for local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Der Markt schließt gegen 13 Uhr.",
+          "Die Oper bietet oft Führungen an."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott az óváros köveihez.",
+          "A piac déli 1 óra körül bezár.",
+          "Az operában gyakran vannak vezetett túrák."
+        ],
+        "ro": [
+          "Pantofii comozi sunt necesari pentru centrul vechi.",
+          "Piața se închide în jurul orei 13:00.",
+          "Opera oferă adesea tururi ghidate."
+        ],
+        "en": [
+          "Comfortable shoes are needed for the old town stones.",
+          "The market closes around 1 PM.",
+          "The Opera house often offers guided tours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Toulon",
+            "hu": "Touloni kikötő",
+            "ro": "Portul Toulon",
+            "en": "Port of Toulon"
+          },
+          "coords": [
+            5.932,
+            43.12
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt an der Uferpromenade.",
+            "hu": "Indulópont a vízparti sétányon.",
+            "ro": "Punct de plecare pe faleză.",
+            "en": "Starting point on the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Royale",
+            "hu": "Királyi Torony",
+            "ro": "Turnul Regal",
+            "en": "Tour Royale"
+          },
+          "coords": [
+            5.935,
+            43.108
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Historische Festung am Meer.",
+            "hu": "Történelmi erőd a tengerparton.",
+            "ro": "Fortăreață istorică la malul mării.",
+            "en": "Historic fortress by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strände von Mourillon",
+            "hu": "Mourillon strandok",
+            "ro": "Plajele Mourillon",
+            "en": "Mourillon Beaches"
+          },
+          "coords": [
+            5.95,
+            43.11
+          ],
+          "category": "beach",
+          "arrive_at": "11:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Mittagspause.",
+            "hu": "Tökéletes hely az ebédszünethez.",
+            "ro": "Loc perfect pentru pauza de prânz.",
+            "en": "Perfect spot for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse de Magaud",
+            "hu": "Magaud öböl",
+            "ro": "Anse de Magaud",
+            "en": "Anse de Magaud"
+          },
+          "coords": [
+            5.975,
+            43.105
+          ],
+          "category": "nature",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser.",
+            "hu": "Kristálytiszta víz és sziklák.",
+            "ro": "Apă de cristal și stânci.",
+            "en": "Crystal clear water and rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Plaisance",
+            "hu": "Szabadidős kikötő",
+            "ro": "Port de Plaisance",
+            "en": "Port de Plaisance"
+          },
+          "coords": [
+            5.935,
+            43.118
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrrad abstellen und Eis essen.",
+            "hu": "Parkolja le a bringát egy fagyira.",
+            "ro": "Parcați bicicleta pentru o înghețată.",
+            "en": "Park your bike for an ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der Küste von Toulon. Von der historischen Tour Royale führt der Weg zu den familienfreundlichen Mourillon-Stränden. Weiter östlich entdecken Sie versteckte Buchten mit klarem Wasser, bevor Sie entspannt zum Yachthafen zurückkehren.",
+        "hu": "Tekerjen végig Toulon partvidékén. A történelmi Királyi Toronytól az út a családbarát Mourillon strandokhoz vezet. Keletebbre haladva rejtett öblöket és kristálytiszta vizet fedezhet fel, mielőtt visszatérne a jachtkikötőbe.",
+        "ro": "Pedalați de-a lungul coastei din Toulon. De la Turnul Regal, traseul duce spre plajele prietenoase din Mourillon. Mergând spre est, veți descoperi golfuri ascunse și apă cristalină, înainte de a reveni la port.",
+        "en": "Cycle along the coast of Toulon. From the historic Tour Royale, the path leads to the family-friendly Mourillon beaches. Heading further east, you will discover hidden coves with clear water before returning to the marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chichi Frégi",
+            "tip": "Frittiertes Gebäck am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chichi Frégi",
+            "tip": "Olajban sült tészta a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chichi Frégi",
+            "tip": "Gogoși tradiționale la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chichi Frégi",
+            "tip": "Fried dough specialty at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap Brun",
+            "tip": "Panoramablick auf die Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Brun",
+            "tip": "Panorámás kilátás az öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cap Brun",
+            "tip": "Vedere panoramică asupra golfului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap Brun",
+            "tip": "Panoramic view of the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mourillon Shops",
+            "tip": "Kleine Boutiquen für Bademode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mourillon üzletek",
+            "tip": "Kis butikok fürdőruhákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine Mourillon",
+            "tip": "Boutique-uri mici de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mourillon Shops",
+            "tip": "Small boutiques for swimwear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg ist flach und gut ausgebaut.",
+          "Vorsicht bei starkem Wind (Mistral).",
+          "Bringen Sie Schnorchelausrüstung mit."
+        ],
+        "hu": [
+          "A parti út sík és jól kiépített.",
+          "Vigyázzon az erős szélre (Mistral).",
+          "Hozzon magával búvárszemüveget."
+        ],
+        "ro": [
+          "Traseul de coastă este plat și bine amenajat.",
+          "Atenție la vântul puternic (Mistral).",
+          "Aduceți echipament de snorkeling."
+        ],
+        "en": [
+          "The coastal path is flat and well-maintained.",
+          "Watch out for strong winds (Mistral).",
+          "Bring snorkeling gear for the coves."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 32.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Gipfel des Mont Faron",
+            "hu": "Mont Faron csúcs",
+            "ro": "Vârful Mont Faron",
+            "en": "Mont Faron Summit"
+          },
+          "coords": [
+            5.93,
+            43.145
+          ],
+          "category": "mountain",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Bergstraße zum Gipfel.",
+            "hu": "Látványos hegyi út a csúcsig.",
+            "ro": "Drum montan spectaculos spre vârf.",
+            "en": "Spectacular mountain road to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Strände von Mourillon",
+            "hu": "Mourillon strandok",
+            "ro": "Plajele Mourillon",
+            "en": "Mourillon Beaches"
+          },
+          "coords": [
+            5.95,
+            43.11
+          ],
+          "category": "beach",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Große Parkplätze direkt am Meer.",
+            "hu": "Nagy parkolók közvetlenül a tengerparton.",
+            "ro": "Parcări mari chiar lângă plajă.",
+            "en": "Large parking lots right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanary-sur-Mer",
+            "hu": "Sanary-sur-Mer",
+            "ro": "Sanary-sur-Mer",
+            "en": "Sanary-sur-Mer"
+          },
+          "coords": [
+            5.802,
+            43.12
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Fischerdörfer.",
+            "hu": "Az egyik legszebb halászfalu.",
+            "ro": "Unul dintre cele mai frumoase sate de pescari.",
+            "en": "One of the most beautiful fishing villages."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Toulon",
+            "hu": "Touloni kikötő",
+            "ro": "Portul Toulon",
+            "en": "Port of Toulon"
+          },
+          "coords": [
+            5.932,
+            43.12
+          ],
+          "category": "square",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.5,
+          "tip_5lang": {
+            "de": "Abendlicher Spaziergang am Quai.",
+            "hu": "Esti séta a rakparton.",
+            "ro": "Plimbare de seară pe chei.",
+            "en": "Evening walk at the quay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erklimmen Sie zuerst den Mont Faron für den besten Blick über die Reede. Danach geht es zum Mourillon für ein Mittagessen am Meer. Den Nachmittag verbringen Sie im charmanten Nachbarort Sanary-sur-Mer, bevor Sie für den Abend zurückkehren.",
+        "hu": "Autóval először a Mont Faronra hajtunk fel a legjobb panorámáért. Ezután a Mourillon strandjai következnek egy tengerparti ebédhez. A délutánt a bájos szomszédos városban, Sanary-sur-Merben töltjük, mielőtt visszaérnénk Toulonba.",
+        "ro": "Cu mașina, urcați mai întâi pe Mont Faron pentru cea mai bună panoramă. Urmează Mourillon pentru un prânz la malul mării. După-amiaza o petreceți în fermecătorul oraș vecin Sanary-sur-Mer, înainte de a reveni în Toulon.",
+        "en": "By car, first climb Mont Faron for the best panorama over the bay. Then head to Mourillon for a seaside lunch. Spend the afternoon in the charming neighboring town of Sanary-sur-Mer before returning to Toulon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poissonnerie Sanary",
+            "tip": "Frischester Fisch direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poissonnerie Sanary",
+            "tip": "Friss halak a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poissonnerie Sanary",
+            "tip": "Pește proaspăt chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poissonnerie Sanary",
+            "tip": "Freshest fish right at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mont Faron",
+            "tip": "Panoramablick über das Mittelmeer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mont Faron",
+            "tip": "Panorámás kilátás a Földközi-tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mont Faron",
+            "tip": "Priveliște panoramică spre Mediterană.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mont Faron",
+            "tip": "Panoramic view over the Mediterranean.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sanary Boutiquen",
+            "tip": "Schicke Kleidung im provenzalischen Stil."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sanary butikok",
+            "tip": "Provence-i stílusú ruhák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri Sanary",
+            "tip": "Haine șic în stil provensal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanary Boutiques",
+            "tip": "Chic clothes in Provencal style."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Mont Faron ist eine Einbahnstraße (Auffahrt/Abfahrt getrennt).",
+          "Parken in Sanary ist im Sommer schwierig.",
+          "Nutzen Sie Parkhäuser im Zentrum."
+        ],
+        "hu": [
+          "A Mont Faron útja egyirányú (fel és le külön).",
+          "Nyáron nehéz parkolni Sanaryban.",
+          "Használja a központi parkolóházakat."
+        ],
+        "ro": [
+          "Drumul spre Mont Faron este cu sens unic.",
+          "Parcarea în Sanary este dificilă vara.",
+          "Folosiți parcările supraetajate din centru."
+        ],
+        "en": [
+          "The road to Mont Faron is one-way (ascent/descent separate).",
+          "Parking in Sanary is hard in summer.",
+          "Use the parking garages in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen / Rathaus",
+            "hu": "Kikötő / Városháza",
+            "ro": "Port / Primărie",
+            "en": "Harbor / City Hall"
+          },
+          "coords": [
+            5.932,
+            43.12
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Busknoten am Meer.",
+            "hu": "Központi buszmegálló a tengerparton.",
+            "ro": "Nod central de autobuze la mare.",
+            "en": "Central bus hub at the seafront."
+          }
+        },
+        {
+          "name": {
+            "de": "Strände von Mourillon",
+            "hu": "Mourillon strandok",
+            "ro": "Plajele Mourillon",
+            "en": "Mourillon Beaches"
+          },
+          "coords": [
+            5.95,
+            43.11
+          ],
+          "category": "beach",
+          "arrive_at": "10:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Linie 3 oder 23 vom Hafen.",
+            "hu": "3-as vagy 23-as busz a kikötőtől.",
+            "ro": "Linia 3 sau 23 de la port.",
+            "en": "Line 3 or 23 from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Mont Faron (Talstation)",
+            "hu": "Mont Faron felvonó (alsó állomás)",
+            "ro": "Telecabina Mont Faron",
+            "en": "Mont Faron Cable Car"
+          },
+          "coords": [
+            5.93,
+            43.138
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahrt mit der roten Seilbahn.",
+            "hu": "Utazás a piros felvonóval.",
+            "ro": "Călătorie cu telecabina roșie.",
+            "en": "Ride the iconic red cable car."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Liberté",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Place de la Liberté"
+          },
+          "coords": [
+            5.93,
+            43.126
+          ],
+          "category": "square",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Herz der Oberstadt.",
+            "hu": "A felsőváros szíve.",
+            "ro": "Inima orașului de sus.",
+            "en": "The heart of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Opéra de Toulon",
+            "hu": "Touloni Operaház",
+            "ro": "Opera din Toulon",
+            "en": "Opera of Toulon"
+          },
+          "coords": [
+            5.931,
+            43.123
+          ],
+          "category": "historical",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In der Nähe vieler Buslinien.",
+            "hu": "Számos buszjárat közelében.",
+            "ro": "Aproape de multe linii de autobuz.",
+            "en": "Near many bus lines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Netzwerk von 'Mistral', um Toulon stressfrei zu erkunden. Morgens geht es zum Strand und mittags mit der berühmten Seilbahn auf den Berg. Den Nachmittag verbringen Sie im eleganten Viertel rund um die Freiheitsterrasse.",
+        "hu": "Használja a 'Mistral' közlekedési hálózatot Toulon felfedezéséhez. Reggel irány a strand, délben pedig a híres felvonóval a hegyre. A délutánt az elegáns felsővárosban, a Szabadság tér környékén töltheti.",
+        "ro": "Folosiți rețeaua 'Mistral' pentru a explora Toulon fără stres. Dimineața mergeți la plajă, iar la prânz cu faimoasa telecabină pe munte. După-amiaza o veți petrece în cartierul elegant din jurul Pieței Libertății.",
+        "en": "Use the 'Mistral' transit network to explore Toulon stress-free. Head to the beach in the morning, and take the famous cable car to the mountain at noon. Spend the afternoon in the elegant upper town area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Nautique",
+            "tip": "Meeresfrüchte mit Hafenblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Nautique",
+            "tip": "Tengeri ételek kikötői kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Nautique",
+            "tip": "Fructe de mare cu vedere la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Nautique",
+            "tip": "Seafood with harbor view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mont Faron Gipfel",
+            "tip": "Ruhiger Pinienwald oben am Berg.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mont Faron csúcs",
+            "tip": "Csendes fenyőerdő a hegytetőn.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Mont Faron",
+            "tip": "Pădure de pini liniștită pe munte.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mont Faron Summit",
+            "tip": "Quiet pine forest at the mountain top.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mayol Shopping",
+            "tip": "Großes Einkaufszentrum am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mayol Shopping",
+            "tip": "Nagy bevásárlóközpont a kikötőnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mayol Shopping",
+            "tip": "Centru comercial mare la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mayol Shopping",
+            "tip": "Large shopping mall by the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Busse und Boote.",
+          "Die Seilbahn ist bei Wind geschlossen.",
+          "Busse fahren sehr pünktlich."
+        ],
+        "hu": [
+          "Vegyen napijegyet a buszokra és hajókra.",
+          "Szeles időben a felvonó nem üzemel.",
+          "A buszok nagyon pontosak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuze și bărci.",
+          "Telecabina este închisă pe vânt puternic.",
+          "Autobuzele sunt foarte punctuale."
+        ],
+        "en": [
+          "Buy a day pass for buses and boats.",
+          "The cable car is closed during high winds.",
+          "Buses are very punctual."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1083 @@
+{
+  "city_id": "mont-saint-michel",
+  "anchor": {
+    "name": "Mont-Saint-Michel",
+    "coords": [
+      -1.5114,
+      48.6361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Grande Rue",
+            "hu": "Grande Rue",
+            "ro": "Grande Rue",
+            "en": "Grande Rue"
+          },
+          "coords": [
+            -1.5105,
+            48.6358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Touristenströme in der schmalen Gasse zu vermeiden.",
+            "hu": "Érkezz korán, hogy elkerüld a tömeget a szűk, meredek utcában.",
+            "ro": "Vino devreme pentru a evita aglomerația pe strada principală îngustă.",
+            "en": "Arrive early to avoid the crowds in the narrow, steep main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Logis Tiphaine",
+            "hu": "Logis Tiphaine",
+            "ro": "Logis Tiphaine",
+            "en": "Logis Tiphaine"
+          },
+          "coords": [
+            -1.5107,
+            48.636
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Haus von Bertrand du Guesclin aus dem 14. Jahrhundert.",
+            "hu": "Látogasd meg Bertrand du Guesclin 14. századi lakóházát.",
+            "ro": "Vizitează casa lui Bertrand du Guesclin din secolul al XIV-lea.",
+            "en": "Visit the 14th-century residence of Bertrand du Guesclin."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.5108,
+            48.6361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue des Heiligen Michael in dieser bescheidenen Pfarrei.",
+            "hu": "Csodáld meg Szent Mihály szobrát ebben a szerény plébániatemplomban.",
+            "ro": "Admiră statuia Sfântului Mihail în această biserică parohială modestă.",
+            "en": "Admire the statue of Saint Michael in this modest parish church."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel apátság",
+            "ro": "Abația Mont-Saint-Michel",
+            "en": "Mont-Saint-Michel Abbey"
+          },
+          "coords": [
+            -1.5112,
+            48.636
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Buchen Sie Ihr Ticket im Voraus, um lange Warteschlangen am Eingang zu umgehen.",
+            "hu": "Foglald le a jegyedet előre, hogy elkerüld a hosszú sorban állást a bejáratnál.",
+            "ro": "Rezervă biletul în avans pentru a evita cozile lungi de la intrare.",
+            "en": "Book your ticket in advance to bypass long queues at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "La Merveille",
+            "hu": "La Merveille",
+            "ro": "La Merveille",
+            "en": "La Merveille"
+          },
+          "coords": [
+            -1.5115,
+            48.6362
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Staunen Sie über die gotische Architektur des Speisesaals und des Skriptoriums.",
+            "hu": "Ámulj el az ebédlő és a szkriptórium lenyűgöző gótikus építészetén.",
+            "ro": "Uimește-te de arhitectura gotică a trapezei și a scriptoriului.",
+            "en": "Marvel at the Gothic architecture of the dining hall and scriptorium."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloître de l'Abbaye",
+            "hu": "Apátsági kolostorfolyosó",
+            "ro": "Cloître de l'Abbaye",
+            "en": "Abbey Cloister"
+          },
+          "coords": [
+            -1.5111,
+            48.6361
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille in diesem hängenden Garten zwischen Himmel und Meer.",
+            "hu": "Élvezd a csendet ebben az ég és tenger között lebegő kertben.",
+            "ro": "Bucură-te de liniște în această grădină suspendată între cer și mare.",
+            "en": "Enjoy the silence in this hanging garden suspended between sky and sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel várfalai",
+            "ro": "Meterezele din Mont-Saint-Michel",
+            "en": "Ramparts of Mont-Saint-Michel"
+          },
+          "coords": [
+            -1.5098,
+            48.6354
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die Mauern für einen Panoramablick auf die Bucht.",
+            "hu": "Sétálj végig a falakon az öbölre nyíló panorámás kilátásért.",
+            "ro": "Plimbă-te pe ziduri pentru o vedere panoramică asupra golfului.",
+            "en": "Walk along the walls for a panoramic view of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Gabriel",
+            "hu": "Gabriel-torony",
+            "ro": "Turnul Gabriel",
+            "en": "Tour Gabriel"
+          },
+          "coords": [
+            -1.5126,
+            48.6357
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieses ehemalige Windrad bietet eine einzigartige Perspektive auf die Westseite.",
+            "hu": "Ez az egykori szélmalom-torony egyedi perspektívát kínál a nyugati oldalra.",
+            "ro": "Acest fost turn cu moară de vânt oferă o perspectivă unică asupra laturii de vest.",
+            "en": "This former windmill tower offers a unique perspective on the west side."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in den verwinkelten Gassen der Grande Rue, wo das Mittelalter noch lebendig ist. Nach einem kurzen Besuch im Logis Tiphaine und der Dorfkirche steigen Sie zur prächtigen Abtei hinauf. Mittags erkunden Sie die 'Merveille' und den friedlichen Kreuzgang. Am Nachmittag wandern Sie entlang der mächtigen Festungsmauern und beenden die Tour an der Tour Gabriel, während die Flut langsam den Felsen umschließt.",
+        "hu": "A napod a Grande Rue kanyargós utcáin kezdődik, ahol a középkor ma is élő valóság. A Logis Tiphaine és a falusi templom megtekintése után felkapaszkodsz a monumentális apátságba. Délben a 'Merveille' gótikus termeit és a békés kolostorkertet fedezed fel. Délután a hatalmas várfalakon sétálva csodálhatod meg az öblöt, végül a Gabriel-toronynál zárod a túrát, miközben az árapály lassan körbezárja a sziklát.",
+        "ro": "Ziua începe pe străzile întortocheate din Grande Rue, unde Evul Mediu este încă viu. După o scurtă vizită la Logis Tiphaine și biserica satului, urcați la abația impunătoare. La prânz, explorați sălile gotice din 'Merveille' și claustrul liniștit. După-amiaza, vă plimbați de-a lungul zidurilor puternice de fortificație și încheiați turul la Turnul Gabriel, în timp ce fluxul înconjoară încet stânca.",
+        "en": "Your day starts in the winding alleys of Grande Rue, where the Middle Ages are still alive. After a quick visit to Logis Tiphaine and the village church, ascend to the magnificent Abbey. At noon, explore the Gothic halls of 'La Merveille' and the peaceful cloister. In the afternoon, walk along the mighty fortress walls and finish your tour at Tour Gabriel as the tide slowly encircles the rock."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Mère Poulard",
+            "tip": "Probieren Sie das berühmte, über dem offenen Feuer zubereitete Soufflé-Omelett."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Mère Poulard",
+            "tip": "Kóstold meg a híres, nyílt tűzön sült szuflé-omlettet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Mère Poulard",
+            "tip": "Încearcă celebra omletă sufleu gătită la foc deschis."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Mère Poulard",
+            "tip": "Try the famous soufflé omelet cooked over an open fire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gärten von Saint-Symphorien",
+            "tip": "Ein versteckter Rückzugsort abseits der Hauptwege.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Symphorien kertek",
+            "tip": "Rejtett menedékhely a fő útvonalaktól távol.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Saint-Symphorien",
+            "tip": "Un refugiu ascuns departe de traseele principale.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardens of Saint-Symphorien",
+            "tip": "A hidden retreat away from the main tourist paths.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie de la Baie",
+            "tip": "Klassische normannische Butterkekse (Sablés) als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie de la Baie",
+            "tip": "Klasszikus normandiai vajas kekszek (Sablés) ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie de la Baie",
+            "tip": "Biscuiți clasici cu unt din Normandia (Sablés) ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuiterie de la Baie",
+            "tip": "Classic Norman butter biscuits (Sablés) as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für die steilen Treppen.",
+          "Überprüfen Sie den Gezeitenkalender vor Ihrem Besuch.",
+          "Die Abtei schließt früher als die Stadtmauern.",
+          "Nehmen Sie eine leichte Jacke mit, es ist oft windig auf den Mauern."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a meredek lépcsőkhöz.",
+          "Látogatás előtt ellenőrizd az árapály-naptárat.",
+          "Az apátság korábban zár, mint a várfalak.",
+          "Vigyél magaddal egy könnyű kabátot, a falakon gyakran fúj a szél."
+        ],
+        "ro": [
+          "Poartă încălțăminte comodă pentru scările abrupte.",
+          "Verifică calendarul mareelor înainte de vizită.",
+          "Abația se închide mai devreme decât meterezele.",
+          "Ia o jachetă ușoară, de multe ori bate vântul pe ziduri."
+        ],
+        "en": [
+          "Wear sturdy shoes for the steep stairs and cobblestones.",
+          "Check the tide schedule before your visit.",
+          "The Abbey closes earlier than the ramparts.",
+          "Bring a light jacket, as it is often windy on the walls."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barrage sur le Couesnon",
+            "hu": "Couesnon gát",
+            "ro": "Barajul de pe Couesnon",
+            "en": "Couesnon Dam"
+          },
+          "coords": [
+            -1.5135,
+            48.6145
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ersten Blick auf den Mont von diesem modernen Damm.",
+            "hu": "Élvezd az első pillantást a Montra erről a modern gátról.",
+            "ro": "Bucură-te de prima vedere asupra Mont-ului de pe acest baraj modern.",
+            "en": "Enjoy your first view of the Mont from this modern dam."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Rue",
+            "hu": "Grande Rue",
+            "ro": "Grande Rue",
+            "en": "Grande Rue"
+          },
+          "coords": [
+            -1.5105,
+            48.6358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad an den vorgesehenen Plätzen am Fuße des Berges ab.",
+            "hu": "Zárd le a kerékpárod a szikla lábánál kijelölt tárolóknál.",
+            "ro": "Parchează bicicleta în locurile special amenajate la baza stâncii.",
+            "en": "Park your bike in the designated areas at the base of the rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel apátság",
+            "ro": "Abația Mont-Saint-Michel",
+            "en": "Mont-Saint-Michel Abbey"
+          },
+          "coords": [
+            -1.5112,
+            48.636
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Aufstieg zur Abtei erfolgt zu Fuß über steile Treppen.",
+            "hu": "Az apátsághoz vezető út meredek lépcsőkön, gyalogosan tehető meg.",
+            "ro": "Urcarea la abație se face pe jos, pe scări abrupte.",
+            "en": "The ascent to the abbey is on foot via steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel várfalai",
+            "ro": "Meterezele din Mont-Saint-Michel",
+            "en": "Ramparts of Mont-Saint-Michel"
+          },
+          "coords": [
+            -1.5098,
+            48.6354
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie von oben auf den Fahrradweg, den Sie gekommen sind.",
+            "hu": "Nézz le fentről a kerékpárútra, amin érkeztél.",
+            "ro": "Privește de sus traseul de biciclete pe care ai venit.",
+            "en": "Look down from above at the bike path you arrived on."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Gabriel",
+            "hu": "Gabriel-torony",
+            "ro": "Turnul Gabriel",
+            "en": "Tour Gabriel"
+          },
+          "coords": [
+            -1.5126,
+            48.6357
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein toller Ort, um die Weite des Meeres zu spüren.",
+            "hu": "Nagyszerű hely, hogy átérezd a tenger tágasságát.",
+            "ro": "Un loc minunat pentru a simți vastitatea mării.",
+            "en": "A great spot to feel the vastness of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Grouin du Sud",
+            "hu": "Pointe du Grouin du Sud",
+            "ro": "Pointe du Grouin du Sud",
+            "en": "Pointe du Grouin du Sud"
+          },
+          "coords": [
+            -1.435,
+            48.652
+          ],
+          "category": "park/beach",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Bucht für eine Fernansicht des Mont.",
+            "hu": "Tekerj végig az öböl mentén a Mont távoli látványáért.",
+            "ro": "Mergi cu bicicleta de-a lungul golfului pentru o vedere de la distanță a Mont-ului.",
+            "en": "Cycle along the bay for a distant view of the Mont."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour kombiniert die Anreise per Rad über den Couesnon-Damm mit der Erkundung des Klosters. Sie lassen die Räder am Fuße des Berges und besichtigen die Grande Rue, die Abtei und die Stadtmauern zu Fuß. Zum Abschluss radeln Sie an der Küste entlang zu einem Aussichtspunkt auf dem Festland, von dem aus der Mont majestätisch in der Ferne thront.",
+        "hu": "Ez a túra ötvözi a kerékpáros megközelítést a Couesnon-gáton keresztül a kolostor felfedezésével. A bicikliket a szikla lábánál hagyva gyalogosan járjuk be a Grande Rue-t, az apátságot és a várfalakat. Végül a parton továbbtekerve egy szárazföldi kilátópontról csodálhatjuk meg a távolban trónoló hegyet.",
+        "ro": "Acest tur combină abordarea pe bicicletă prin barajul Couesnon cu explorarea mănăstirii. Lăsați bicicletele la baza stâncii și vizitați pe jos Grande Rue, abația și meterezele. În final, pedalați de-a lungul coastei către un punct de belvedere de pe continent, de unde muntele tronează maiestuos în depărtare.",
+        "en": "This tour combines a cycling approach across the Couesnon Dam with exploring the Abbey. Leave your bikes at the base of the rock and explore Grande Rue, the Abbey, and the ramparts on foot. Finally, cycle along the coast to a mainland viewpoint where the Mont sits majestically in the distance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Pré Salé",
+            "tip": "Herzhafte Galettes und lokaler Cidre zur Stärkung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Pré Salé",
+            "tip": "Kiadós galette-ek és helyi szidre a feltöltődéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Pré Salé",
+            "tip": "Galette consistente și cidru local pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Pré Salé",
+            "tip": "Hearty galettes and local cider to recharge your batteries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bords du Couesnon",
+            "tip": "Ruhige Wege entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Couesnon partja",
+            "tip": "Csendes utak a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile Couesnon",
+            "tip": "Trasee liniștite de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Couesnon",
+            "tip": "Quiet paths along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Traditionelles Gebäck aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Hagyományos sütemények a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Produse de patiserie tradiționale din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison du Biscuit",
+            "tip": "Traditional pastries from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Véloscénie' Route.",
+          "Parken Sie Ihr Rad nur auf markierten Flächen.",
+          "Auf dem Damm kann es sehr windig sein.",
+          "Bringen Sie ein Schloss mit."
+        ],
+        "hu": [
+          "Használd a 'Véloscénie' útvonalat.",
+          "Csak a kijelölt helyeken parkolj le.",
+          "A gáton nagyon erős lehet a szél.",
+          "Hozz magaddal lakatot."
+        ],
+        "ro": [
+          "Folosește traseul 'Véloscénie'.",
+          "Parchează bicicleta doar în locurile marcate.",
+          "Pe baraj poate fi foarte vânt.",
+          "Adu un lacăt."
+        ],
+        "en": [
+          "Use the 'Véloscénie' cycle route.",
+          "Park your bike only in designated areas.",
+          "It can be very windy on the dam.",
+          "Bring a sturdy bike lock."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scriptorial d'Avranches",
+            "hu": "Avranches-i Scriptorial",
+            "ro": "Scriptorial d'Avranches",
+            "en": "Avranches Scriptorial"
+          },
+          "coords": [
+            -1.362,
+            48.687
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Sehen Sie die Originalmanuskripte der Abtei in der Nachbarstadt.",
+            "hu": "Nézd meg az apátság eredeti kéziratait a szomszédos városban.",
+            "ro": "Vezi manuscrisele originale ale abației în orașul vecin.",
+            "en": "See the original manuscripts of the abbey in the neighboring town."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel apátság",
+            "ro": "Abația Mont-Saint-Michel",
+            "en": "Mont-Saint-Michel Abbey"
+          },
+          "coords": [
+            -1.5112,
+            48.636
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem offiziellen Parkplatz und nehmen Sie den Shuttle.",
+            "hu": "Parkolj a hivatalos parkolóban, és szállj fel a transzferbuszra.",
+            "ro": "Parchează în parcarea oficială și ia naveta.",
+            "en": "Park in the official lot and take the 'Passeur' shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "La Merveille",
+            "hu": "La Merveille",
+            "ro": "La Merveille",
+            "en": "La Merveille"
+          },
+          "coords": [
+            -1.5115,
+            48.6362
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die gotische Pracht ist das Herzstück des Klosters.",
+            "hu": "Ez a gótikus remekmű a kolostor szíve.",
+            "ro": "Splendoarea gotică este inima mănăstirii.",
+            "en": "The Gothic splendor is the centerpiece of the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel várfalai",
+            "ro": "Meterezele din Mont-Saint-Michel",
+            "en": "Ramparts of Mont-Saint-Michel"
+          },
+          "coords": [
+            -1.5098,
+            48.6354
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos der Bucht vor der Rückfahrt.",
+            "hu": "Tökéletes hely fotózni az öblöt a visszaindulás előtt.",
+            "ro": "Loc perfect pentru fotografii cu golful înainte de plecare.",
+            "en": "Perfect spot for photos of the bay before heading back."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Rue",
+            "hu": "Grande Rue",
+            "ro": "Grande Rue",
+            "en": "Grande Rue"
+          },
+          "coords": [
+            -1.5105,
+            48.6358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzte Souvenirs kaufen, bevor es zurück zum Auto geht.",
+            "hu": "Vásárolj utolsó suvenireket, mielőtt visszatérnél az autóhoz.",
+            "ro": "Cumpără ultimele suveniruri înainte de a te întoarce la mașină.",
+            "en": "Buy last-minute souvenirs before heading back to the car."
+          }
+        },
+        {
+          "name": {
+            "de": "Alligator Bay",
+            "hu": "Alligator Bay",
+            "ro": "Alligator Bay",
+            "en": "Alligator Bay"
+          },
+          "coords": [
+            -1.508,
+            48.611
+          ],
+          "category": "animal-habitat",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein toller Zwischenstopp für Familien auf dem Rückweg.",
+            "hu": "Nagyszerű megálló családoknak a visszaúton.",
+            "ro": "O oprire excelentă pentru familii la întoarcere.",
+            "en": "A great stop for families on the way back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour beginnt im Scriptorial von Avranches, um den historischen Kontext zu verstehen. Danach fahren Sie zum Mont-Saint-Michel, besuchen die Abtei und genießen die Aussicht von den Stadtmauern. Nach einem Bummel durch die Grande Rue bietet sich auf der Rückfahrt ein Besuch im Alligator Bay an, besonders wenn Sie mit Kindern reisen.",
+        "hu": "Ez az autós túra az Avranches-i Scriptorialban kezdődik, hogy megértsd a történelmi hátteret. Ezután Mont-Saint-Michel felé veszed az irányt, meglátogatod az apátságot és élvezed a kilátást a várfalakról. A Grande Rue felfedezése után a visszaúton az Alligator Bay kínál izgalmas programot, különösen gyerekekkel.",
+        "ro": "Acest tur cu mașina începe la Scriptorial din Avranches pentru a înțelege contextul istoric. Apoi te îndrepți spre Mont-Saint-Michel, vizitezi abația și te bucuri de priveliștea de pe metereze. După explorarea Grande Rue, la întoarcere, Alligator Bay oferă un program interesant, mai ales pentru familii.",
+        "en": "This car tour starts at the Avranches Scriptorial to set the historical stage. Then head to Mont-Saint-Michel to visit the Abbey and enjoy the views from the ramparts. After a stroll through Grande Rue, a visit to Alligator Bay on the way back is a great option, especially for families."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge Saint-Pierre",
+            "tip": "Probieren Sie das regionale Salzwiesenlamm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge Saint-Pierre",
+            "tip": "Kóstold meg a helyi sósmocsári bárányt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge Saint-Pierre",
+            "tip": "Încearcă mielul local crescut în zonele sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge Saint-Pierre",
+            "tip": "Try the local salt-marsh lamb, a regional specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes d'Avranches",
+            "tip": "Bester Fernblick auf den Mont-Saint-Michel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes d'Avranches",
+            "tip": "A legjobb távoli kilátás a Mont-Saint-Michelre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Plantes d'Avranches",
+            "tip": "Cea mai bună vedere de la distanță către Mont-Saint-Michel.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Plantes d'Avranches",
+            "tip": "Best distant view of Mont-Saint-Michel.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Village",
+            "tip": "Souvenir-Shopping in der Nähe der Parkplätze."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Village",
+            "tip": "Szuvenír vásárlás a parkolók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Village",
+            "tip": "Cumpărături de suveniruri lângă parcări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Village",
+            "tip": "Souvenir shopping near the parking areas."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Behalten Sie Ihr Parkticket gut auf.",
+          "Der Shuttle 'Passeur' ist kostenlos.",
+          "In Avranches ist das Parken einfacher.",
+          "Planen Sie Zeit für den Transfer ein."
+        ],
+        "hu": [
+          "Vigyázz a parkolójegyedre.",
+          "A 'Passeur' transzferbusz ingyenes.",
+          "Avranches-ban könnyebb parkolni.",
+          "Számolj a transzferre szánt idővel."
+        ],
+        "ro": [
+          "Ai grijă de biletul de parcare.",
+          "Naveta 'Passeur' este gratuită.",
+          "În Avranches parcarea este mai ușoară.",
+          "Planifică timp pentru transfer."
+        ],
+        "en": [
+          "Keep your parking ticket safe.",
+          "The 'Passeur' shuttle service is free.",
+          "Parking in Avranches is often easier than at the Mont.",
+          "Allow extra time for the shuttle transfer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grande Rue",
+            "hu": "Grande Rue",
+            "ro": "Grande Rue",
+            "en": "Grande Rue"
+          },
+          "coords": [
+            -1.5105,
+            48.6358
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Shuttle 'Le Passeur' von der Haltestelle am Parkplatz.",
+            "hu": "Szállj fel a 'Le Passeur' buszra a parkoló melletti megállóban.",
+            "ro": "Ia naveta 'Le Passeur' din stația de lângă parcare.",
+            "en": "Take the 'Le Passeur' shuttle from the parking lot bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel apátság",
+            "ro": "Abația Mont-Saint-Michel",
+            "en": "Mont-Saint-Michel Abbey"
+          },
+          "coords": [
+            -1.5112,
+            48.636
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Abtei ist die Endstation des Aufstiegs.",
+            "hu": "Az apátság a kaptató végállomása.",
+            "ro": "Abația este punctul final al urcușului.",
+            "en": "The Abbey is the final stop of the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "La Merveille",
+            "hu": "La Merveille",
+            "ro": "La Merveille",
+            "en": "La Merveille"
+          },
+          "coords": [
+            -1.5115,
+            48.6362
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Wunderwerk der Architektur auf drei Ebenen.",
+            "hu": "Építészeti csoda három szinten elosztva.",
+            "ro": "O minune a arhitecturii pe trei niveluri.",
+            "en": "An architectural marvel distributed across three levels."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts du Mont-Saint-Michel",
+            "hu": "Mont-Saint-Michel várfalai",
+            "ro": "Meterezele din Mont-Saint-Michel",
+            "en": "Ramparts of Mont-Saint-Michel"
+          },
+          "coords": [
+            -1.5098,
+            48.6354
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise auf den Mauern.",
+            "hu": "Élvezd a friss tengeri szellőt a falakon.",
+            "ro": "Bucură-te de briza proaspătă a mării pe ziduri.",
+            "en": "Enjoy the fresh sea breeze while walking the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.5108,
+            48.6361
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort für einen Moment der Besinnung.",
+            "hu": "Békés hely egy pillanatnyi elcsendesedéshez.",
+            "ro": "Un loc liniștit pentru un moment de reflecție.",
+            "en": "A peaceful place for a moment of quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit dem modernen Shuttle-Service zum Felsen. Sie erkunden die Grande Rue und steigen dann zur majestätischen Abtei hinauf, um die gótische Pracht der 'Merveille' zu bewundern. Am Nachmittag spazieren Sie über die Festungsmauern und besuchen die malerische Dorfkirche, bevor der Shuttle Sie zurück zum Festland bringt.",
+        "hu": "Utazásod a modern transzferbusszal indul a sziklához. Felfedezed a Grande Rue forgatagát, majd felmászol a fenséges apátságba, hogy megcsodáld a 'Merveille' gótikus szépségét. Délután a várfalakon sétálva és a hangulatos falusi templomot meglátogatva búcsúzol, mielőtt a busz visszavisz a szárazföldre.",
+        "ro": "Călătoria ta începe cu naveta modernă către stâncă. Explorezi agitația din Grande Rue, apoi urci la abația maiestuoasă pentru a admira frumusețea gotică a 'Merveille'. După-amiaza te plimbi pe metereze și vizitezi biserica pitorească a satului înainte ca naveta să te ducă înapoi pe continent.",
+        "en": "Your trip begins with a modern shuttle ride to the rock. Explore the lively Grande Rue, then ascend to the majestic Abbey to admire the Gothic beauty of 'La Merveille'. Spend the afternoon walking the ramparts and visiting the quaint village church before catching the shuttle back to the mainland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie La Cloche",
+            "tip": "Süße Crêpes mit hausgemachtem Karamell."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie La Cloche",
+            "tip": "Édes palacsinták házi karamellel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie La Cloche",
+            "tip": "Clătite dulci cu caramel de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie La Cloche",
+            "tip": "Sweet crêpes served with homemade salted caramel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kleiner Friedhof",
+            "tip": "An der Église Saint-Pierre, sehr stimmungsvoll.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis temető",
+            "tip": "A Szent Péter-templom mellett, nagyon hangulatos.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Micul cimitir",
+            "tip": "Lângă Biserica Saint-Pierre, foarte atmosferic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Cemetery",
+            "tip": "Next to Saint-Pierre Church, very atmospheric.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique de l'Abbaye",
+            "tip": "Bücher und hochwertige religiöse Artikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique de l'Abbaye",
+            "tip": "Könyvek és minőségi kegytárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique de l'Abbaye",
+            "tip": "Cărți și obiecte religioase de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Abbey Boutique",
+            "tip": "Books and high-quality religious souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Shuttle fährt alle paar Minuten.",
+          "Die Wartezeiten am Nachmittag können länger sein.",
+          "Hunde sind im Shuttle erlaubt (mit Maulkorb).",
+          "Es gibt auch eine Pferdekutsche (Maringote) als Alternative."
+        ],
+        "hu": [
+          "A transzferbusz pár percenként jár.",
+          "Délutánonként hosszabb lehet a várakozási idő.",
+          "Kutyák szállíthatók a buszon (szájkosárral).",
+          "Lovaskocsi (Maringote) is választható alternatívaként."
+        ],
+        "ro": [
+          "Naveta circulă la fiecare câteva minute.",
+          "Timpii de așteptare pot fi mai lungi după-amiaza.",
+          "Câinii sunt permiși în navetă (cu botniță).",
+          "Există și o trăsură trasă de cai (Maringote) ca alternativă."
+        ],
+        "en": [
+          "The shuttle runs every few minutes.",
+          "Wait times can be longer in the late afternoon.",
+          "Dogs are allowed on the shuttle with a muzzle.",
+          "Horse-drawn carriages (Maringotes) are available as an alternative."
+        ]
+      }
+    }
+  }
+}

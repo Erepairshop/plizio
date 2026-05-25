@@ -1,0 +1,1082 @@
+{
+  "city_id": "la-rochelle",
+  "anchor": {
+    "name": "La Rochelle Vieux Port",
+    "coords": [
+      -1.1517,
+      46.1591
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Les Halles de La Rochelle",
+          "coords": [
+            -1.1512,
+            46.1615
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Frischer Pineau des Charentes direkt vom Erzeuger probieren.",
+            "hu": "Kóstolja meg a helyi Pineau des Charentes-t közvetlenül a termelőtől.",
+            "ro": "Gustați Pineau des Charentes local direct de la producător.",
+            "en": "Try fresh Pineau des Charentes directly from the local producers."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Louis",
+          "coords": [
+            -1.1528,
+            46.1605
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Glasmalereien im Inneren.",
+            "hu": "Csodálja meg a belső tér pompás üvegablakait.",
+            "ro": "Admirați vitraliile magnifice din interior.",
+            "en": "Admire the magnificent stained glass windows inside."
+          }
+        },
+        {
+          "name": "Tour de la Lanterne",
+          "coords": [
+            -1.1578,
+            46.1565
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Alte Graffiti von gefangenen Piraten an den Wänden suchen.",
+            "hu": "Keressen régi kalóz-graffitiket a börtönfalakon.",
+            "ro": "Căutați graffiti vechi lăsate de pirați pe pereții închisorii.",
+            "en": "Look for old graffiti made by pirate prisoners on the walls."
+          }
+        },
+        {
+          "name": "Vieux Port - Quai Duperré",
+          "coords": [
+            -1.1532,
+            46.1585
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frische Austern mit Blick auf die Türme genießen.",
+            "hu": "Friss osztriga a kikötői tornyokra nyíló kilátással.",
+            "ro": "Savurați stridii proaspete cu vedere la turnurile portului.",
+            "en": "Enjoy fresh oysters with a view of the harbor towers."
+          }
+        },
+        {
+          "name": "Aquarium La Rochelle",
+          "coords": [
+            -1.1535,
+            46.1528
+          ],
+          "category": "museum",
+          "arrive_at": "14:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nicht den Unterwasser-Tunnel der Haie verpassen.",
+            "hu": "Ne hagyja ki a cápák alatti üvegalagutat.",
+            "ro": "Nu ratați tunelul subacvatic cu rechini.",
+            "en": "Don't miss the underwater shark tunnel."
+          }
+        },
+        {
+          "name": "Parc Charruyer",
+          "coords": [
+            -1.1585,
+            46.1595
+          ],
+          "category": "park",
+          "arrive_at": "16:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Spaziergang entlang des kleinen Baches.",
+            "hu": "Csendes séta a kis patak mentén.",
+            "ro": "O plimbare liniștită de-a lungul micului pârâu.",
+            "en": "A quiet stroll along the small stream through the park."
+          }
+        },
+        {
+          "name": "Tour Saint-Nicolas Sunset",
+          "coords": [
+            -1.1525,
+            46.1558
+          ],
+          "category": "sunset",
+          "arrive_at": "19:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der beste Ort für Fotos vom goldenen Hafenbecken.",
+            "hu": "A legjobb hely fotózni az aranyló kikötői medencét.",
+            "ro": "Cel mai bun loc pentru fotografii cu bazinul portuar auriu.",
+            "en": "The best spot for photos of the golden harbor basin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der lebhaften Markthalle Les Halles, wo die Düfte des Ozeans auf lokale Spezialitäten treffen. Spazieren Sie durch die mittelalterlichen Gassen zur Kathedrale und weiter zur beeindruckenden Tour de la Lanterne am Rande des Meeres.\n\nMittags genießen Sie die maritime Atmosphäre am Quai Duperré mit frischen Meeresfrüchten, während Sie die ikonischen Türme des Vieux Port bewundern. Dies ist das Herz von La Rochelle, wo Geschichte und Moderne verschmelzen.\n\nDer Nachmittag gehört der Unterwasserwelt im berühmten Aquarium, gefolgt von einer entspannenden Pause im weitläufigen Parc Charruyer, der die Stadt wie ein grüner Gürtel umschließt.\n\nZum Abschluss lassen Sie den Tag am Hafen ausklingen, wenn die untergehende Sonne die Kalksteinfassaden und die alten Schiffe in ein warmes, magisches Licht taucht.",
+        "hu": "Kezdje a napot a pezsgő Les Halles piacon, ahol az óceán illata helyi finomságokkal keveredik. Sétáljon végig a középkori utcákon a katedrálishoz, majd az impozáns Tour de la Lanterne-hez a tengerpart szélén.\n\nEbédidőben élvezze a tengerparti hangulatot a Quai Duperré-n friss tenger gyümölcseivel, miközben a Vieux Port ikonikus tornyait csodálja. Ez La Rochelle szíve, ahol a történelem és a modern élet találkozik.\n\nA délután a híres Akvárium víz alatti világáé, majd egy pihentető szünet következik a tágas Parc Charruyer-ben, amely zöld övként öleli körbe a várost.\n\nBefejezésül élvezze a naplementét a kikötőben, amikor a lenyugvó nap meleg, varázslatos fénybe vonja a mészkő homlokzatokat és a régi hajókat.",
+        "ro": "Începeți ziua în piața vibrantă Les Halles, unde aromele oceanului se întâlnesc cu specialitățile locale. Plimbați-vă pe străzile medievale către catedrală și apoi către impresionantul Tour de la Lanterne de la marginea mării.\n\nLa prânz, bucurați-vă de atmosfera maritimă pe Quai Duperré cu fructe de mare proaspete, admirând turnurile emblematice din Vieux Port. Acesta este inima orașului La Rochelle, unde istoria se împletește cu modernitatea.\n\nDupă-amiaza este dedicată lumii subacvatice la celebrul Acvariu, urmată de o pauză relaxantă în vastul Parc Charruyer, care înconjoară orașul ca o centură verde.\n\nLa final, încheiați ziua în port, când soarele la apus scaldă fațadele de calcar și navele vechi într-o lumină caldă și magică.",
+        "en": "Start your day at the vibrant Les Halles market, where ocean scents meet local delicacies. Walk through medieval streets to the cathedral and then to the impressive Lantern Tower at the sea's edge.\n\nAt midday, enjoy the maritime atmosphere at Quai Duperré with fresh seafood while admiring the iconic towers of the Old Port. This is the heart of La Rochelle, where history and modern life merge.\n\nThe afternoon is dedicated to the underwater world at the famous Aquarium, followed by a relaxing break in the extensive Parc Charruyer, which encircles the city like a green belt.\n\nTo wrap up, end the day at the harbor as the setting sun bathes the limestone facades and old ships in a warm, magical light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "André",
+            "tip": "Legendäres Fischrestaurant am Hafen."
+          },
+          {
+            "name": "Moules de Bouchot",
+            "tip": "Auf Seilen gezüchtete Miesmuscheln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "André",
+            "tip": "Legendás halétterem a kikötőnél."
+          },
+          {
+            "name": "Moules de Bouchot",
+            "tip": "Kötélen tenyésztett fekete kagyló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "André",
+            "tip": "Restaurant legendar de pește în port."
+          },
+          {
+            "name": "Moules de Bouchot",
+            "tip": "Midii cultivate pe frânghii."
+          }
+        ],
+        "en": [
+          {
+            "name": "André",
+            "tip": "Legendary seafood restaurant by the harbor."
+          },
+          {
+            "name": "Moules de Bouchot",
+            "tip": "Mussels grown on wooden poles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Charruyer",
+            "tip": "Grüne Oase im Stadtzentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tour de la Lanterne",
+            "tip": "Panoramablick über das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Charruyer",
+            "tip": "Zöld oázis a városközpontban.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tour de la Lanterne",
+            "tip": "Panorámás kilátás a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Charruyer",
+            "tip": "Oază verde în centrul orașului.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tour de la Lanterne",
+            "tip": "Vedere panoramică peste mare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Charruyer",
+            "tip": "Green oasis in the city center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Tour de la Lanterne",
+            "tip": "Panoramic view over the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Historischer Markt für Feinschmecker."
+          },
+          {
+            "name": "Rue du Palais",
+            "tip": "Elegante Arkaden mit Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "Történelmi piac ínyenceknek."
+          },
+          {
+            "name": "Rue du Palais",
+            "tip": "Elegáns árkádok butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Piață istorică pentru gurmanzi."
+          },
+          {
+            "name": "Rue du Palais",
+            "tip": "Arcade elegante cu buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Historic market for gourmets."
+          },
+          {
+            "name": "Rue du Palais",
+            "tip": "Elegant arcades with boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "La Rochelle ist perfekt zu Fuß erkundbar.",
+          "Die Türme am Hafen sind über ein gemeinsames Ticket zugänglich.",
+          "Vermeiden Sie die Mittagszeit für das Aquarium am Wochenende.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster."
+        ],
+        "hu": [
+          "La Rochelle tökéletesen felfedezhető gyalog.",
+          "A kikötői tornyok közös jeggyel látogathatók.",
+          "Hétvégén kerülje az akváriumot délidőben.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz."
+        ],
+        "ro": [
+          "La Rochelle este perfect de explorat la pas.",
+          "Turnurile din port pot fi vizitate cu un bilet comun.",
+          "Evitați orele prânzului pentru acvariu în weekend.",
+          "Purtați încălțăminte comodă pentru străzile pietruite."
+        ],
+        "en": [
+          "La Rochelle is perfectly explorable on foot.",
+          "The harbor towers can be visited with a combined ticket.",
+          "Avoid midday for the aquarium on weekends.",
+          "Wear comfortable shoes for the cobblestone streets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Vieux Port - Start",
+          "coords": [
+            -1.1517,
+            46.1591
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Yélo-Leihräder sind überall verfügbar.",
+            "hu": "Yélo bérbiciklik mindenhol elérhetőek.",
+            "ro": "Bicicletele Yélo sunt disponibile peste tot.",
+            "en": "Yélo rental bikes are available everywhere."
+          }
+        },
+        {
+          "name": "Aquarium La Rochelle",
+          "coords": [
+            -1.1535,
+            46.1528
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Sichere Fahrradparkplätze direkt davor.",
+            "hu": "Biztonságos bicikliparkoló közvetlenül előtte.",
+            "ro": "Parcare sigură pentru biciclete chiar în față.",
+            "en": "Secure bike parking directly in front."
+          }
+        },
+        {
+          "name": "Port des Minimes",
+          "coords": [
+            -1.1645,
+            46.1415
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Einer der größten Yachthäfen des Atlantiks.",
+            "hu": "Az Atlanti-óceán egyik legnagyobb jachtkikötője.",
+            "ro": "Unul dintre cele mai mari porturi de iahturi de la Atlantic.",
+            "en": "One of the largest marinas on the Atlantic coast."
+          }
+        },
+        {
+          "name": "Plage des Minimes",
+          "coords": [
+            -1.1715,
+            46.1385
+          ],
+          "category": "beach",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause im Sand.",
+            "hu": "Tökéletes hely egy pihenőre a homokban.",
+            "ro": "Perfect pentru o pauză pe nisip.",
+            "en": "Perfect for a break on the sand."
+          }
+        },
+        {
+          "name": "Phare du Bout du Monde",
+          "coords": [
+            -1.1785,
+            46.1365
+          ],
+          "category": "historical",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein hölzerner Leuchtturm mitten im Wasser.",
+            "hu": "Egy fa világítótorony a víz közepén.",
+            "ro": "Un far din lemn în mijlocul apei.",
+            "en": "A wooden lighthouse sitting in the water."
+          }
+        },
+        {
+          "name": "Parc Charruyer",
+          "coords": [
+            -1.1585,
+            46.1595
+          ],
+          "category": "park",
+          "arrive_at": "18:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Radfahren auf den Alleen im Grünen.",
+            "hu": "Biciklizés a zöldellő fasorokon.",
+            "ro": "Mersul pe bicicletă pe aleile înverzite.",
+            "en": "Cycling through the lush green alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie La Rochelle auf zwei Rädern, beginnend am ikonischen Vieux Port. Die Stadt ist flach und fahrradfreundlich, was die Fahrt zum berühmten Aquarium entlang der Kaianlagen zu einem Vergnügen macht.\n\nRadeln Sie weiter südlich zum Port des Minimes, wo Tausende von Masten im Wind klirren. Hier spüren Sie die wahre maritime Weite der Stadt, fernab der engen Gassen des Zentrums.\n\nNachmittags erwartet Sie der Strand von Minimes für ein Sonnenbad oder eine Erfrischung im Atlantik, gefolgt von einem Besuch beim fotogenen Phare du Bout du Monde, einem Leuchtturm, der wie aus einer anderen Zeit wirkt.\n\nDen Rückweg treten Sie durch den Parc Charruyer an, dessen breite Wege ideal für Radfahrer sind, bevor Sie Ihr Fahrrad wieder im Zentrum abstellen.",
+        "hu": "Fedezze fel La Rochelle-t két keréken, az ikonikus Vieux Port-tól indulva. A város sík és kerékpárosbarát, így a rakpartok mentén tett út a híres akváriumhoz igazi élvezet.\n\nTekerjen tovább délre a Port des Minimes felé, ahol árbocok ezrei zúgnak a szélben. Itt érezheti át a város igazi tengeri kiterjedését, távol a központ szűk utcáitól.\n\nDélután a Minimes strand várja egy kis napozásra vagy frissítőre az Atlanti-óceánban, majd látogasson el a fotogén Phare du Bout du Monde-hoz, amely egy másik korból származó világítótoronynak tűnik.\n\nA visszaút a Parc Charruyer-en keresztül vezet, melynek széles útjai ideálisak a kerékpárosoknak, mielőtt visszaadná a biciklit a központban.",
+        "ro": "Descoperiți La Rochelle pe două roți, începând din iconicul Vieux Port. Orașul este plat și prietenos cu bicicliștii, ceea ce face ca drumul de-a lungul cheiurilor către celebrul acvariu să fie o plăcere.\n\nPedalați mai departe spre sud către Port des Minimes, unde mii de catarge zornăie în vânt. Aici veți simți adevărata amploare maritimă a orașului, departe de străzile înguste ale centrului.\n\nDupă-amiaza, plaja Minimes vă așteaptă pentru plajă sau o răcorire în Atlantic, urmată de o vizită la fotogenicul Phare du Bout du Monde, un far care pare desprins dintr-o altă epocă.\n\nÎntoarcerea se face prin Parc Charruyer, ale cărui poteci late sunt ideale pentru bicicliști, înainte de a lăsa bicicleta înapoi în centru.",
+        "en": "Discover La Rochelle on two wheels, starting from the iconic Old Port. The city is flat and bike-friendly, making the ride along the quays to the famous aquarium a true pleasure.\n\nPedal further south to Port des Minimes, where thousands of masts clatter in the wind. Here you can feel the city's true maritime scale, away from the narrow streets of the center.\n\nIn the afternoon, the Minimes beach awaits for sunbathing or a refreshing dip in the Atlantic, followed by a visit to the photogenic Phare du Bout du Monde, a lighthouse that looks like it's from another era.\n\nMake your way back through Parc Charruyer, whose wide paths are ideal for cyclists, before dropping off your bike back in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Cargo",
+            "tip": "Lässiges Bistro am Yachthafen."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Regionaler Likörwein als Aperitif."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Cargo",
+            "tip": "Laza bisztró a jachtkikötőnél."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Regionális likőrbor aperitfként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Cargo",
+            "tip": "Bistrou relaxat în portul de iahturi."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Vin licoros regional ca aperitiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Cargo",
+            "tip": "Casual bistro at the marina."
+          },
+          {
+            "name": "Pineau des Charentes",
+            "tip": "Regional fortified wine as an aperitif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phare du Bout du Monde",
+            "tip": "Ruhe am Ende der Welt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pointe des Minimes",
+            "tip": "Blick auf die Île de Ré.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Phare du Bout du Monde",
+            "tip": "Csend a világ végén.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pointe des Minimes",
+            "tip": "Kilátás az Île de Ré-re.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Phare du Bout du Monde",
+            "tip": "Liniște la capătul lumii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pointe des Minimes",
+            "tip": "Vedere către Île de Ré.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Phare du Bout du Monde",
+            "tip": "Quiet at the end of the world.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pointe des Minimes",
+            "tip": "View of the Île de Ré.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quai des Artisans",
+            "tip": "Lokales Kunsthandwerk am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai des Artisans",
+            "tip": "Helyi kézműves termékek a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quai des Artisans",
+            "tip": "Artizanat local în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quai des Artisans",
+            "tip": "Local crafts at the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang der Küste.",
+          "Sperren Sie Ihr Fahrrad immer gut ab.",
+          "Die Fahrradfähre 'Bus-de-Mer' nimmt Räder mit.",
+          "Achten Sie auf die Gezeiten am Strand."
+        ],
+        "hu": [
+          "Használja a tengerparti kerékpárutakat.",
+          "Mindig zárja le jól a biciklit.",
+          "A 'Bus-de-Mer' hajóbusz szállít kerékpárt.",
+          "Figyeljen az apály-dagályra a strandon."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul coastei.",
+          "Asigurați-vă întotdeauna bicicleta cu un lacăt.",
+          "Feribotul 'Bus-de-Mer' acceptă biciclete.",
+          "Fiți atenți la maree pe plajă."
+        ],
+        "en": [
+          "Use the dedicated cycle paths along the coast.",
+          "Always lock your bike securely.",
+          "The 'Bus-de-Mer' water bus takes bicycles.",
+          "Pay attention to the tides at the beach."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 45.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Les Halles Market",
+          "coords": [
+            -1.1512,
+            46.1615
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkhaus 'Vieux Port Ouest' nutzen.",
+            "hu": "Használja a 'Vieux Port Ouest' parkolóházat.",
+            "ro": "Folosiți parcarea 'Vieux Port Ouest'.",
+            "en": "Use the 'Vieux Port Ouest' parking garage."
+          }
+        },
+        {
+          "name": "Towers of La Rochelle",
+          "coords": [
+            -1.1532,
+            46.1555
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Blick von oben ist unbezahlbar.",
+            "hu": "A kilátás fentről megfizethetetlen.",
+            "ro": "Vederea de sus este de neprețuit.",
+            "en": "The view from the top is priceless."
+          }
+        },
+        {
+          "name": "Pont de l'Île de Ré",
+          "coords": [
+            -1.2255,
+            46.1725
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Mautpflichtige Brücke, tolle Architektur.",
+            "hu": "Fizetős híd, nagyszerű építészet.",
+            "ro": "Pod cu taxă, arhitectură deosebită.",
+            "en": "Toll bridge with great architectural design."
+          }
+        },
+        {
+          "name": "Saint-Martin-de-Ré",
+          "coords": [
+            -1.3685,
+            46.2025
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe Zitadelle.",
+            "hu": "UNESCO Világörökség része, a citadella.",
+            "ro": "Citadela inclusă în patrimoniul UNESCO.",
+            "en": "UNESCO World Heritage citadel."
+          }
+        },
+        {
+          "name": "Phare des Baleines",
+          "coords": [
+            -1.5625,
+            46.2445
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "257 Stufen für ein 360-Grad-Panorama.",
+            "hu": "257 lépcső a 360 fokos panorámáért.",
+            "ro": "257 de trepte pentru o panoramă de 360 de grade.",
+            "en": "257 steps for a 360-degree panorama."
+          }
+        },
+        {
+          "name": "Port des Minimes",
+          "coords": [
+            -1.1645,
+            46.1415
+          ],
+          "category": "gastro",
+          "arrive_at": "18:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Abendessen mit Blick auf die Segelschiffe.",
+            "hu": "Vacsora kilátással a vitorlásokra.",
+            "ro": "Cină cu vedere la ambarcațiunile cu pânze.",
+            "en": "Dinner with a view of the sailing boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, sowohl das Stadtzentrum von La Rochelle als auch die nahegelegene Île de Ré zu erkunden. Beginnen Sie morgens am Markt und besuchen Sie die historischen Türme, bevor Sie die spektakuläre Brücke zur Insel überqueren.\n\nMittags schlendern Sie durch den charmanten Hafen von Saint-Martin-de-Ré, dem Herz der Insel, bekannt für seine Festungsanlagen und gemütlichen Cafés. Die Inselatmosphäre ist entspannt und chic zugleich.\n\nAm Nachmittag fahren Sie bis zur westlichsten Spitze der Insel zum Phare des Baleines. Der Aufstieg wird mit einem atemberaubenden Blick über den Atlantik und die weiten Sandstrände belohnt.\n\nKehren Sie am Abend nach La Rochelle zurück und genießen Sie ein letztes Abendessen im modernen Viertel Les Minimes, wo Sie bequem parken und den Tag Revue passieren lassen können.",
+        "hu": "Autóval szabadon felfedezheti La Rochelle belvárosát és a közeli Île de Ré szigetét is. Kezdje a reggelt a piacon, nézze meg a történelmi tornyokat, majd keljen át a látványos hídon a szigetre.\n\nEbédidőben sétáljon Saint-Martin-de-Ré bájos kikötőjében, a sziget szívében, amely erődítményeiről és hangulatos kávézóiról ismert. A sziget hangulata egyszerre pihentető és elegáns.\n\nDélután autózzon el a sziget legnyugatibb csücskébe a Phare des Baleines világítótoronyhoz. A megmászása jutalmaként lélegzetelállító kilátás nyílik az Atlanti-óceánra és a végtelen homokos strandokra.\n\nEste térjen vissza La Rochelle-be, és élvezze az utolsó vacsorát a modern Les Minimes negyedben, ahol kényelmesen parkolhat, és felidézheti a nap eseményeit.",
+        "ro": "Cu mașina, aveți libertatea de a explora atât centrul orașului La Rochelle, cât și insula învecinată Île de Ré. Începeți dimineața la piață și vizitați turnurile istorice înainte de a traversa podul spectaculos către insulă.\n\nLa prânz, plimbați-vă prin portul fermecător din Saint-Martin-de-Ré, inima insulei, cunoscut pentru fortificațiile sale și cafenelele primitoare. Atmosfera de pe insulă este relaxată și elegantă în același timp.\n\nDupă-amiaza, conduceți până în cel mai vestict punct al insulei, la Phare des Baleines. Urcarea este răsplătită cu o vedere uluitoare peste Atlantic și plajele vaste de nisip.\n\nSeara, reveniți în La Rochelle și bucurați-vă de o ultimă cină în cartierul modern Les Minimes, unde puteți parca ușor și puteți trece în revistă evenimentele zilei.",
+        "en": "By car, you have the freedom to explore both La Rochelle's city center and the nearby Île de Ré. Start your morning at the market and visit the historic towers before crossing the spectacular bridge to the island.\n\nAt midday, stroll through the charming harbor of Saint-Martin-de-Ré, the heart of the island, known for its fortifications and cozy cafes. The island atmosphere is relaxed and chic at the same time.\n\nIn the afternoon, drive to the westernmost tip of the island to the Phare des Baleines. Climbing it rewards you with a breathtaking view over the Atlantic and vast sandy beaches.\n\nReturn to La Rochelle in the evening and enjoy a final dinner in the modern Les Minimes district, where parking is easy and you can reflect on the day's highlights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Baleine Bleue",
+            "tip": "Gehobene Küche in Saint-Martin."
+          },
+          {
+            "name": "Huîtres de l'Île de Ré",
+            "tip": "Insel-Austern direkt von der Hütte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Baleine Bleue",
+            "tip": "Színvonalas konyha Saint-Martinben."
+          },
+          {
+            "name": "Huîtres de l'Île de Ré",
+            "tip": "Szigeti osztriga közvetlenül a bódékból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Baleine Bleue",
+            "tip": "Bucătărie rafinată în Saint-Martin."
+          },
+          {
+            "name": "Huîtres de l'Île de Ré",
+            "tip": "Stridii de pe insulă direct de la crescătorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Baleine Bleue",
+            "tip": "Upscale dining in Saint-Martin."
+          },
+          {
+            "name": "Huîtres de l'Île de Ré",
+            "tip": "Island oysters straight from the oyster shacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phare des Baleines",
+            "tip": "Ozean-Panorama pur.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bois-Plage",
+            "tip": "Weite Dünenlandschaften.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Phare des Baleines",
+            "tip": "Tiszta óceáni panoráma.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bois-Plage",
+            "tip": "Hatalmas dűnék.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Phare des Baleines",
+            "tip": "Panoramă pură a oceanului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bois-Plage",
+            "tip": "Peisaje vaste de dune.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Phare des Baleines",
+            "tip": "Pure ocean panorama.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Bois-Plage",
+            "tip": "Vast dune landscapes.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Saint-Martin Boutiquen",
+            "tip": "Schicke Insel-Mode und Deko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Martin butikok",
+            "tip": "Elegáns szigeti divat és dekoráció."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saint-Martin buticuri",
+            "tip": "Modă și decorațiuni chic de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Martin Boutiques",
+            "tip": "Chic island fashion and decor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Brücke zur Île de Ré ist mautpflichtig.",
+          "Parken in Saint-Martin kann im Sommer schwierig sein.",
+          "Buchen Sie Restaurants auf der Insel vorab.",
+          "Achten Sie auf Tempolimits auf der Insel."
+        ],
+        "hu": [
+          "Az Île de Ré hídja díjköteles.",
+          "Saint-Martinben a parkolás nehéz lehet nyáron.",
+          "Foglaljon előre asztalt a szigeti éttermekben.",
+          "Figyeljen a sebességkorlátozásokra a szigeten."
+        ],
+        "ro": [
+          "Podul către Île de Ré este cu taxă.",
+          "Parcarea în Saint-Martin poate fi dificilă vara.",
+          "Rezervați din timp la restaurantele de pe insulă.",
+          "Atenție la limitele de viteză pe insulă."
+        ],
+        "en": [
+          "The bridge to Île de Ré has a toll fee.",
+          "Parking in Saint-Martin can be difficult in summer.",
+          "Book island restaurants in advance.",
+          "Watch out for speed limits on the island."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Les Halles",
+          "coords": [
+            -1.1512,
+            46.1615
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buslinie ILLICO 1 hält in der Nähe.",
+            "hu": "Az ILLICO 1 buszjárat a közelben áll meg.",
+            "ro": "Linia de autobuz ILLICO 1 oprește în apropiere.",
+            "en": "Bus line ILLICO 1 stops nearby."
+          }
+        },
+        {
+          "name": "Vieux Port",
+          "coords": [
+            -1.1532,
+            46.1585
+          ],
+          "category": "square",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt für viele Linien.",
+            "hu": "Sok járat központi átszállópontja.",
+            "ro": "Punct central de transfer pentru multe linii.",
+            "en": "Central transfer point for many lines."
+          }
+        },
+        {
+          "name": "Tour de la Chaîne",
+          "coords": [
+            -1.1545,
+            46.1555
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Kai aus direkt erreichbar.",
+            "hu": "Közvetlenül elérhető a rakpartról.",
+            "ro": "Accesibil direct de pe chei.",
+            "en": "Directly accessible from the quay."
+          }
+        },
+        {
+          "name": "Bus-de-Mer (Water Bus)",
+          "coords": [
+            -1.1535,
+            46.1575
+          ],
+          "category": "transit",
+          "arrive_at": "12:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Elektroboot-Fähre nach Les Minimes.",
+            "hu": "Elektromos hajójárat Les Minimes-be.",
+            "ro": "Feribot electric către Les Minimes.",
+            "en": "Electric water bus to Les Minimes."
+          }
+        },
+        {
+          "name": "Plage des Minimes",
+          "coords": [
+            -1.1715,
+            46.1385
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Plage' direkt am Strand.",
+            "hu": "'Plage' buszmegálló közvetlenül a strandon.",
+            "ro": "Stația de autobuz 'Plage' chiar lângă plajă.",
+            "en": "Bus stop 'Plage' is right by the beach."
+          }
+        },
+        {
+          "name": "Aquarium La Rochelle",
+          "coords": [
+            -1.1535,
+            46.1528
+          ],
+          "category": "museum",
+          "arrive_at": "17:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Aquarium' wird oft bedient.",
+            "hu": "Az 'Aquarium' megálló sűrűn kiszolgált.",
+            "ro": "Stația 'Aquarium' este deservită frecvent.",
+            "en": "The 'Aquarium' stop is served frequently."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Yélo-Netzwerk, um La Rochelle stressfrei zu erkunden. Beginnen Sie im Zentrum am Markt und schlendern Sie zum Vieux Port, von wo aus Sie den Bus-de-Mer, eine einzigartige Elektroboot-Fähre, nehmen.\n\nMittags bietet die Überfahrt mit dem Boot einen herrlichen Blick auf die Skyline von La Rochelle und die Türme, bevor Sie im modernen Viertel Les Minimes anlegen. Es ist die entspannteste Art, die Distanz zum Yachthafen zu überbrücken.\n\nDer Nachmittag steht im Zeichen von Sonne und Meer am Strand von Minimes, der bequem per Bus oder Boot erreichbar ist. Genießen Sie das maritime Flair, ohne sich um Parkplätze sorgen zu müssen.\n\nZum Abschluss bringt Sie der Bus direkt zum Aquarium, einem der Highlights der Stadt. Von dort sind es nur wenige Schritte zurück ins historische Zentrum, wo Sie den Abend bei einem Getränk ausklingen lassen können.",
+        "hu": "Használja a kiváló Yélo hálózatot La Rochelle stresszmentes felfedezéséhez. Kezdje a központban, a piacon, majd sétáljon el a Vieux Port-hoz, ahonnan felszállhat a Bus-de-Mer-re, az egyedülálló elektromos hajójáratra.\n\nEbédidőben a hajós átkelés pompás kilátást nyújt La Rochelle látképére és a tornyokra, mielőtt kikötne a modern Les Minimes negyedben. Ez a legpihentetőbb módja a jachtkikötőhöz való eljutásnak.\n\nA délután a napfényé és a tengeré a Minimes strandon, amely busszal vagy hajóval is kényelmesen elérhető. Élvezze a tengerparti hangulatot parkolási gondok nélkül.\n\nBefejezésül a busz közvetlenül az Akváriumhoz viszi, amely a város egyik fénypontja. Onnan már csak néhány lépés a történelmi központ, ahol egy ital mellett zárhatja az estét.",
+        "ro": "Utilizați excelenta rețea Yélo pentru a explora La Rochelle fără stres. Începeți în centru, la piață, și plimbați-vă până în Vieux Port, de unde puteți lua Bus-de-Mer, un feribot electric unic.\n\nLa prânz, traversarea cu barca oferă o vedere superbă asupra liniei orizontului din La Rochelle și asupra turnurilor, înainte de a ancora în cartierul modern Les Minimes. Este cel mai relaxant mod de a parcurge distanța până la portul de iahturi.\n\nDupă-amiaza este dedicată soarelui și mării pe plaja Minimes, accesibilă ușor cu autobuzul sau barca. Bucurați-vă de atmosfera maritimă fără grija parcării.\n\nLa final, autobuzul vă duce direct la Acvariu, unul dintre punctele forte ale orașului. De acolo, sunteți la doar câțiva pași de centrul istoric, unde puteți încheia seara cu o băutură.",
+        "en": "Use the excellent Yélo network to explore La Rochelle stress-free. Start in the center at the market and stroll to the Old Port, where you can board the Bus-de-Mer, a unique electric water bus.\n\nAt midday, the boat crossing offers a splendid view of the La Rochelle skyline and its towers before docking in the modern Les Minimes district. It's the most relaxing way to bridge the distance to the marina.\n\nIn the afternoon, enjoy the sun and sea at Minimes beach, easily reachable by bus or boat. Soak up the maritime flair without worrying about parking.\n\nTo wrap up, the bus takes you directly to the Aquarium, one of the city's highlights. From there, it's just a short walk back to the historic center, where you can end the evening with a drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistrot de l'Aquarium",
+            "tip": "Moderne Küche direkt am Museum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistrot de l'Aquarium",
+            "tip": "Modern konyha közvetlenül a múzeumnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistrot de l'Aquarium",
+            "tip": "Bucătărie modernă chiar lângă muzeu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistrot de l'Aquarium",
+            "tip": "Modern cuisine right at the museum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bus-de-Mer Fahrt",
+            "tip": "Sanftes Gleiten über das Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bus-de-Mer utazás",
+            "tip": "Lágy siklás a vízen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătoria cu Bus-de-Mer",
+            "tip": "Alunecare lină pe apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus-de-Mer Ride",
+            "tip": "Gentle gliding over the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grosse Horloge",
+            "tip": "Boutiquen rund um das Stadttor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grosse Horloge",
+            "tip": "Butikok a városkapu körül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grosse Horloge",
+            "tip": "Buticuri în jurul porții orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grosse Horloge",
+            "tip": "Boutiques around the city gate."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Yélo-Netz.",
+          "Der Bus-de-Mer ist im Ticket enthalten (oder kleiner Aufpreis).",
+          "Laden Sie die Yélo-App für Echtzeit-Infos.",
+          "Busse fahren im Zentrum sehr häufig."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Yélo hálózatra.",
+          "A Bus-de-Mer benne van a jegyben (vagy kis felár).",
+          "Töltse le a Yélo appot a valós idejű infókért.",
+          "A buszok nagyon sűrűn járnak a központban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua Yélo.",
+          "Bus-de-Mer este inclus în bilet (sau mic supliment).",
+          "Descărcați aplicația Yélo pentru info în timp real.",
+          "Autobuzele circulă foarte frecvent în centru."
+        ],
+        "en": [
+          "Buy a day pass for the Yélo network.",
+          "The water bus is included in the pass (or a small surcharge).",
+          "Download the Yélo app for real-time info.",
+          "Buses run very frequently in the center."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,996 @@
+{
+  "city_id": "fontaine-de-vaucluse",
+  "anchor": {
+    "name": "Fontaine-de-Vaucluse",
+    "coords": [
+      5.1278,
+      43.9192
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Église Saint-Véran",
+          "coords": [
+            5.1275,
+            43.919
+          ],
+          "category": "churches",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Skulpturen und das Grab des Heiligen.",
+            "hu": "Csodálja meg a román stílusú szobrokat és a szent sírját.",
+            "ro": "Admirați sculpturile romanice și mormântul sfântului.",
+            "en": "Admire the Romanesque sculptures and the saint's tomb."
+          }
+        },
+        {
+          "name": "Colonne de Pétrarque",
+          "coords": [
+            5.1285,
+            43.9195
+          ],
+          "category": "monuments",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Denkmal erinnert an den berühmten Dichter Francesco Petrarca.",
+            "hu": "Az emlékmű a híres költő, Francesco Petrarca előtt tiszteleg.",
+            "ro": "Monumentul îl onorează pe celebrul poet Francesco Petrarca.",
+            "en": "The monument honors the famous poet Francesco Petrarca."
+          }
+        },
+        {
+          "name": "Moulin à Papier Vallis Clausa",
+          "coords": [
+            5.1292,
+            43.9202
+          ],
+          "category": "industrial",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie zu, wie Papier nach mittelalterlicher Methode hergestellt wird.",
+            "hu": "Nézze meg, hogyan készül a papír középkori módszerekkel.",
+            "ro": "Vedeți cum se fabrică hârtia prin metode medievale.",
+            "en": "Watch how paper is made using medieval methods."
+          }
+        },
+        {
+          "name": "Gouffre de Fontaine-de-Vaucluse",
+          "coords": [
+            5.1325,
+            43.9215
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Quelle im Frühjahr für die höchste Wasserkraft.",
+            "hu": "Látogasson el tavasszal a forráshoz a legnagyobb vízhozamért.",
+            "ro": "Vizitați izvorul primăvara pentru cel mai mare debit.",
+            "en": "Visit the spring in spring for the highest water flow."
+          }
+        },
+        {
+          "name": "Musée d'Histoire Jean Garcin",
+          "coords": [
+            5.128,
+            43.9205
+          ],
+          "category": "museums",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den Widerstand in der Region während des Krieges.",
+            "hu": "Ismerje meg a régió ellenállási mozgalmát a háború alatt.",
+            "ro": "Aflați despre rezistența din regiune în timpul războiului.",
+            "en": "Learn about the region's resistance during the war."
+          }
+        },
+        {
+          "name": "Château de l'Évêque de Cavaillon",
+          "coords": [
+            5.127,
+            43.922
+          ],
+          "category": "castles",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Aufstieg bietet einen fantastischen Blick über das Dorf.",
+            "hu": "A feljutás után fantasztikus kilátás nyílik a falura.",
+            "ro": "Urcarea oferă o vedere fantastică asupra satului.",
+            "en": "The climb offers a fantastic view over the village."
+          }
+        },
+        {
+          "name": "Musée du Monde Souterrain",
+          "coords": [
+            5.1288,
+            43.9198
+          ],
+          "category": "museums",
+          "arrive_at": "17:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse der Höhlenforschung.",
+            "hu": "Fedezze fel a barlangkutatás titkait.",
+            "ro": "Descoperiți secretele speologiei.",
+            "en": "Discover the secrets of speleology."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der romanischen Kirche, bevor Sie am Petrarca-Denkmal vorbeischlendern. Der Weg führt Sie zur historischen Papiermühle, wo die Zeit stehen geblieben scheint. Mittags erreichen Sie die beeindruckende Quelle der Sorgue, das smaragdgrüne Herz des Dorfes. Der Nachmittag ist der Geschichte und der geheimnisvollen Unterwelt gewidmet, abgerundet durch den Aufstieg zur Burgruine bei mildem Licht.",
+        "hu": "Kezdje a napot a román stílusú templomnál, majd sétáljon el a Petrarca-emlékmű mellett. Az út a történelmi papírmalomhoz vezet, ahol megállt az idő. Délben éri el a Sorgue lenyűgöző forrását, a falu smaragdzöld szívét. A délután a történelemé és a titokzatos földalatti világé, a napot pedig a várromhoz való felkapaszkodás zárja a lágy fényekben.",
+        "ro": "Începeți ziua la biserica romanică, apoi treceți pe lângă monumentul lui Petrarca. Drumul vă duce la moara de hârtie istorică, unde timpul pare să stea în loc. La prânz veți ajunge la impresionantul izvor al râului Sorgue, inima de smarald a satului. După-amiaza este dedicată istoriei și lumii subterane misterioase, încheind cu urcarea la ruinele castelului în lumina blândă.",
+        "en": "Start your day at the Romanesque church, then stroll past the Petrarch monument. The path leads to the historical paper mill, where time seems to stand still. At midday, reach the impressive spring of the Sorgue, the emerald heart of the village. The afternoon is dedicated to history and the mysterious underground world, concluding with a climb to the castle ruins in the soft light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Philip",
+            "tip": "Frische Forelle aus der Sorgue direkt am Wasser genießen."
+          },
+          {
+            "name": "Truffade Provencale",
+            "tip": "Probieren Sie Gerichte mit lokalen Trüffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Philip",
+            "tip": "Élvezze a Sorgue friss pisztrángját közvetlenül a vízparton."
+          },
+          {
+            "name": "Provence-i szarvasgomba",
+            "tip": "Kóstolja meg a helyi szarvasgombával készült ételeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Philip",
+            "tip": "Savurați păstrăv proaspăt din Sorgue direct pe malul apei."
+          },
+          {
+            "name": "Truffade Provencale",
+            "tip": "Încercați preparate cu trufe locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Philip",
+            "tip": "Enjoy fresh trout from the Sorgue right by the water."
+          },
+          {
+            "name": "Provencal Truffles",
+            "tip": "Try dishes prepared with local truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sorgue-Ufer",
+            "tip": "Ruhiger Platz unter Platanen am Fluss.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gouffre-Weg",
+            "tip": "Frühmorgens vor den Touristenströmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sorgue partja",
+            "tip": "Csendes hely a platánfák alatt a folyó mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gouffre ösvény",
+            "tip": "Kora reggel, a turisták áradata előtt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Sorgue",
+            "tip": "Loc liniștit sub platani lângă râu.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea spre Gouffre",
+            "tip": "Dimineața devreme, înainte de fluxul de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sorgue Riverbank",
+            "tip": "Quiet spot under plane trees by the river.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Gouffre Path",
+            "tip": "Early morning before the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vallis Clausa Boutique",
+            "tip": "Handgeschöpftes Papier und Briefsets."
+          },
+          {
+            "name": "Lavendel-Laden",
+            "tip": "Echte Provence-Produkte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallis Clausa bolt",
+            "tip": "Kézzel készített papírok és írószerek."
+          },
+          {
+            "name": "Levendula bolt",
+            "tip": "Eredeti provence-i termékek a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Vallis Clausa",
+            "tip": "Hârtie manuală și seturi de scris."
+          },
+          {
+            "name": "Magazin de lavandă",
+            "tip": "Produse autentice de Provence din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallis Clausa Boutique",
+            "tip": "Handmade paper and stationery sets."
+          },
+          {
+            "name": "Lavender Shop",
+            "tip": "Authentic Provence products from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zum Gouffre.",
+          "Besuchen Sie das Dorf unter der Woche, um Menschenmassen zu vermeiden.",
+          "Das Wasser ist auch im Sommer eiskalt.",
+          "Parken ist im Dorfzentrum schwierig und teuer."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Gouffre-hoz vezető úthoz.",
+          "Hétköznap látogasson el a faluba a tömeg elkerülése érdekében.",
+          "A víz nyáron is jéghideg.",
+          "A parkolás a falu központjában nehézkes és drága."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru drumul spre Gouffre.",
+          "Vizitați satul în timpul săptămânii pentru a evita aglomerația.",
+          "Apa este înghețată chiar și vara.",
+          "Parcarea în centrul satului este dificilă și scumpă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to the Gouffre.",
+          "Visit the village during the week to avoid crowds.",
+          "The water is ice cold even in summer.",
+          "Parking in the village center is difficult and expensive."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Aqueduc de Galas",
+          "coords": [
+            5.105,
+            43.914
+          ],
+          "category": "bridges",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein schöner Stopp am Eingang des Tals.",
+            "hu": "Szép megálló a völgy bejáratánál.",
+            "ro": "O oprire frumoasă la intrarea în vale.",
+            "en": "A beautiful stop at the entrance of the valley."
+          }
+        },
+        {
+          "name": "Moulin à Papier",
+          "coords": [
+            5.1292,
+            43.9202
+          ],
+          "category": "industrial",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Fahrräder sicher vor dem Gebäude abstellen.",
+            "hu": "A kerékpárokat biztonságosan az épület előtt hagyhatja.",
+            "ro": "Lăsați bicicletele în siguranță în fața clădirii.",
+            "en": "Park bikes safely in front of the building."
+          }
+        },
+        {
+          "name": "Gouffre",
+          "coords": [
+            5.1325,
+            43.9215
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Der letzte Abschnitt zum Quelltopf muss zu Fuß gehen.",
+            "hu": "Az utolsó szakaszt a forráshoz gyalog kell megtenni.",
+            "ro": "Ultima porțiune spre izvor trebuie parcursă pe jos.",
+            "en": "The final section to the spring must be done on foot."
+          }
+        },
+        {
+          "name": "Musée Jean Garcin",
+          "coords": [
+            5.128,
+            43.9205
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Interessante Einblicke in die lokale Geschichte.",
+            "hu": "Érdekes betekintés a helyi történelembe.",
+            "ro": "Informații interesante despre istoria locală.",
+            "en": "Interesting insights into local history."
+          }
+        },
+        {
+          "name": "Église Saint-Véran",
+          "coords": [
+            5.1275,
+            43.919
+          ],
+          "category": "churches",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Kühle Erholung in der alten Kirche.",
+            "hu": "Hűvös pihenő a régi templomban.",
+            "ro": "Relaxare răcoroasă în vechea biserică.",
+            "en": "Cool respite in the old church."
+          }
+        },
+        {
+          "name": "Musée du Monde Souterrain",
+          "coords": [
+            5.1288,
+            43.9198
+          ],
+          "category": "museums",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ideal zum Abschluss der Tour.",
+            "hu": "Ideális zárása a túrának.",
+            "ro": "Ideal pentru încheierea turului.",
+            "en": "Ideal way to end the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch das malerische Tal zum imposanten Galas-Aquädukt. Danach führt der Weg sanft bergauf zum Dorf, wo Sie die Handwerkskunst der Papiermühle und die mystische Quelle entdecken. Genießen Sie die Freiheit auf zwei Rädern zwischen Geschichte und Natur.",
+        "hu": "Kerekezzen a festői völgyben az impozáns Galas-vízvezetékig. Ezután az út enyhén emelkedik a falu felé, ahol felfedezheti a papírmalom kézművességét és a titokzatos forrást. Élvezze a kétkeréken nyújtott szabadságot a történelem és a természet között.",
+        "ro": "Pedalați prin valea pitorească până la impunătorul apeduct Galas. Apoi drumul urcă ușor spre sat, unde descoperiți măiestria morii de hârtie și izvorul mistic. Bucurați-vă de libertatea pe două roți între istorie și natură.",
+        "en": "Cycle through the picturesque valley to the imposing Galas aqueduct. Then the path leads gently uphill to the village, where you discover the craftsmanship of the paper mill and the mystical spring. Enjoy the freedom on two wheels between history and nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Quiche und Fougasse für ein Picknick am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Quiche és fougasse egy folyóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Quiche și fougasse pentru un picnic pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Quiche and fougasse for a picnic by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vallis Clausa Tal",
+            "tip": "Ruhige Nebenwege abseits der Hauptstraße.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallis Clausa völgy",
+            "tip": "Csendes mellékutak a főúttól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Vallis Clausa",
+            "tip": "Drumuri secundare liniștite departe de șosea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallis Clausa Valley",
+            "tip": "Quiet side paths away from the main road.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Artisanat local",
+            "tip": "Kleine Olivenholz-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Artisanat local",
+            "tip": "Kis olajfa szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Artisanat local",
+            "tip": "Mici suveniruri din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Artisanat local",
+            "tip": "Small olive wood souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Steigungen.",
+          "Achten Sie auf Wanderer auf den schmalen Wegen.",
+          "Die Straße nach Galas ist recht schmal.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt az emelkedők miatt.",
+          "Ügyeljen a gyalogosokra a szűk ösvényeken.",
+          "A Galas felé vezető út meglehetősen szűk.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru pante.",
+          "Atenție la drumeți pe potecile înguste.",
+          "Drumul spre Galas este destul de îngust.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Rent an e-bike for the inclines.",
+          "Watch out for hikers on narrow paths.",
+          "The road to Galas is quite narrow.",
+          "Take plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Aqueduc de Galas",
+          "coords": [
+            5.105,
+            43.914
+          ],
+          "category": "bridges",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Parkplatz direkt unter dem Aquädukt.",
+            "hu": "Parkoló közvetlenül a vízvezeték alatt.",
+            "ro": "Parcare chiar sub apeduct.",
+            "en": "Parking right under the aqueduct."
+          }
+        },
+        {
+          "name": "Gouffre de Fontaine",
+          "coords": [
+            5.1325,
+            43.9215
+          ],
+          "category": "natural",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie den großen Parkplatz am Ortseingang.",
+            "hu": "Használja a falu bejáratánál lévő nagy parkolót.",
+            "ro": "Folosiți parcarea mare de la intrarea în sat.",
+            "en": "Use the large parking lot at the village entrance."
+          }
+        },
+        {
+          "name": "Moulin à Papier",
+          "coords": [
+            5.1292,
+            43.9202
+          ],
+          "category": "industrial",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Interessante Vorführungen alle 30 Minuten.",
+            "hu": "Érdekes bemutatók 30 percenként.",
+            "ro": "Demonstrații interesante la fiecare 30 de minute.",
+            "en": "Interesting demonstrations every 30 minutes."
+          }
+        },
+        {
+          "name": "Musée Jean Garcin",
+          "coords": [
+            5.128,
+            43.9205
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Klimatisiert, perfekt für die Mittagshitze.",
+            "hu": "Légkondicionált, tökéletes a déli hőségben.",
+            "ro": "Aer condiționat, perfect pentru căldura amiezii.",
+            "en": "Air-conditioned, perfect for the midday heat."
+          }
+        },
+        {
+          "name": "Église Saint-Véran",
+          "coords": [
+            5.1275,
+            43.919
+          ],
+          "category": "churches",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Das Grab des Heiligen ist in der Krypta.",
+            "hu": "A szent sírja a kriptában található.",
+            "ro": "Mormântul sfântului se află în criptă.",
+            "en": "The saint's tomb is in the crypt."
+          }
+        },
+        {
+          "name": "Château de l'Évêque",
+          "coords": [
+            5.127,
+            43.922
+          ],
+          "category": "castles",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Letzter Blick vor der Abfahrt.",
+            "hu": "Utolsó pillantás a falura indulás előtt.",
+            "ro": "Ultima vedere înainte de plecare.",
+            "en": "Final view before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die entlegeneren Sehenswürdigkeiten wie das Galas-Aquädukt. Im Dorf angekommen, lassen Sie den Wagen stehen und erkunden die smaragdgrüne Quelle und die Museen zu Fuß. Eine ideale Kombination aus Komfort und Entdeckung.",
+        "hu": "Autóval könnyedén elérheti a távolabbi látnivalókat is, mint például a Galas-vízvezetéket. A faluba érve hagyja az autót a parkolóban, és fedezze fel gyalogosan a smaragdzöld forrást és a múzeumokat. A kényelem és a felfedezés ideális kombinációja.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la obiectivele mai îndepărtate, cum ar fi apeductul Galas. Odată ajunși în sat, lăsați mașina și explorați izvorul de smarald și muzeele pe jos. O combinație ideală între confort și descoperire.",
+        "en": "By car, you can easily reach more distant sights like the Galas aqueduct. Once in the village, leave the car and explore the emerald spring and museums on foot. An ideal combination of comfort and discovery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Isle-sur-la-Sorgue",
+            "tip": "Besuchen Sie die nahegelegene Stadt für eine größere Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Isle-sur-la-Sorgue",
+            "tip": "Látogasson el a közeli városba a nagyobb választékért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Isle-sur-la-Sorgue",
+            "tip": "Vizitați orașul din apropiere pentru o selecție mai mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Isle-sur-la-Sorgue",
+            "tip": "Visit the nearby town for a larger selection."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Aussichtspunkte oberhalb des Dorfes.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Kilátópontok a falu felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podișul Vaucluse",
+            "tip": "Puncte de belvedere deasupra satului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Viewpoints above the village.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Village des Antiquaires",
+            "tip": "Im nahen L'Isle-sur-la-Sorgue."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Village des Antiquaires",
+            "tip": "A közeli L'Isle-sur-la-Sorgue-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Village des Antiquaires",
+            "tip": "În apropiere, în L'Isle-sur-la-Sorgue."
+          },
+          {
+            "name": "Magazin Lavanda",
+            "tip": "Produse locale autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village des Antiquaires",
+            "tip": "In nearby L'Isle-sur-la-Sorgue."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Parktickets im Voraus online.",
+          "Die Zufahrt zum Dorf kann am Wochenende verstopft sein.",
+          "Die Straßen sind eng.",
+          "Tanken Sie vor dem Tal."
+        ],
+        "hu": [
+          "Foglalja le a parkolójegyet előre online.",
+          "A faluba vezető út hétvégén zsúfolt lehet.",
+          "Az utak szűkek.",
+          "Tankoljon a völgy előtt."
+        ],
+        "ro": [
+          "Rezervați biletele de parcare online în avans.",
+          "Accesul în sat poate fi blocat în weekend.",
+          "Drumurile sunt înguste.",
+          "Alimentați cu combustibil înainte de vale."
+        ],
+        "en": [
+          "Book parking tickets online in advance.",
+          "Access to the village can be congested on weekends.",
+          "Roads are narrow.",
+          "Refuel before the valley."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Église Saint-Véran",
+          "coords": [
+            5.1275,
+            43.919
+          ],
+          "category": "churches",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Bushaltestelle ist nur 5 Minuten entfernt.",
+            "hu": "A buszmegálló mindössze 5 percre van.",
+            "ro": "Stația de autobuz este la doar 5 minute distanță.",
+            "en": "Bus stop is only 5 minutes away."
+          }
+        },
+        {
+          "name": "Gouffre de Fontaine",
+          "coords": [
+            5.1325,
+            43.9215
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein Muss für jeden Transit-Reisenden.",
+            "hu": "Minden tömegközlekedéssel utazónak kötelező látnivaló.",
+            "ro": "O necesitate pentru orice călător cu transportul public.",
+            "en": "A must-see for every transit traveler."
+          }
+        },
+        {
+          "name": "Moulin à Papier",
+          "coords": [
+            5.1292,
+            43.9202
+          ],
+          "category": "industrial",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Guter Ort für Souvenirs.",
+            "hu": "Jó hely szuvenírek vásárlására.",
+            "ro": "Loc bun pentru suveniruri.",
+            "en": "Good place for souvenirs."
+          }
+        },
+        {
+          "name": "Musée Jean Garcin",
+          "coords": [
+            5.128,
+            43.9205
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Interessante regionale Geschichte.",
+            "hu": "Érdekes regionális történelem.",
+            "ro": "Istorie regională interesantă.",
+            "en": "Interesting regional history."
+          }
+        },
+        {
+          "name": "Colonne de Pétrarque",
+          "coords": [
+            5.1285,
+            43.9195
+          ],
+          "category": "monuments",
+          "arrive_at": "16:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Warten Sie hier entspannt auf den Bus.",
+            "hu": "Várja itt kényelmesen a buszt.",
+            "ro": "Așteptați autobuzul relaxat aici.",
+            "en": "Wait for the bus here in a relaxed atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Busverbindung von L'Isle-sur-la-Sorgue oder Avignon. Das Dorf ist kompakt genug, um alle wichtigen Highlights zu Fuß von der Haltestelle aus zu erkunden. Ein entspannter Tag ohne Parkplatzsorgen.",
+        "hu": "Használja a buszjáratot L'Isle-sur-la-Sorgue-ból vagy Avignonból. A falu elég kicsi ahhoz, hogy a megállóból gyalogosan is felfedezhessünk minden fontos látnivalót. Csendes nap parkolási gondok nélkül.",
+        "ro": "Folosiți conexiunea de autobuz din L'Isle-sur-la-Sorgue sau Avignon. Satul este suficient de compact pentru a explora toate punctele importante pe jos de la stație. O zi relaxată fără griji de parcare.",
+        "en": "Use the bus connection from L'Isle-sur-la-Sorgue or Avignon. The village is compact enough to explore all major highlights on foot from the stop. A relaxed day without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glacier du Village",
+            "tip": "Hausgemachtes Eis für die Wartezeit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glacier du Village",
+            "tip": "Házias fagylalt a várakozási időre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glacier du Village",
+            "tip": "Înghețată de casă pentru timpul de așteptare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glacier du Village",
+            "tip": "Homemade ice cream for the wait time."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brunnen am Platz",
+            "tip": "Beobachten Sie das Dorfleben.",
+            "emoji": "⛲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szökőkút a téren",
+            "tip": "Figyelje meg a falu életét.",
+            "emoji": "⛲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fântâna din piață",
+            "tip": "Observați viața satului.",
+            "emoji": "⛲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square Fountain",
+            "tip": "Observe the village life.",
+            "emoji": "⛲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Shop",
+            "tip": "Lokale Motive."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapbolt",
+            "tip": "Helyi motívumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de cărți poștale",
+            "tip": "Motive locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard Shop",
+            "tip": "Local motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+          "Bus 921 ist die Hauptlinie.",
+          "In der Hochsaison können Busse voll sein.",
+          "Kaufen Sie Tickets beim Fahrer."
+        ],
+        "hu": [
+          "Pontosan ellenőrizze a visszautat a menetrendben.",
+          "A 921-es busz a fővonal.",
+          "Főszezonban a buszok megtelhetnek.",
+          "Vegyen jegyet a sofőrtől."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul pentru drumul de întoarcere.",
+          "Autobuzul 921 este linia principală.",
+          "În sezonul de vârf autobuzele pot fi pline.",
+          "Cumpărați bilete de la șofer."
+        ],
+        "en": [
+          "Check the return schedule carefully.",
+          "Bus 921 is the main line.",
+          "Buses can be full in high season.",
+          "Buy tickets from the driver."
+        ]
+      }
+    }
+  }
+}

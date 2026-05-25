@@ -1,0 +1,938 @@
+{
+  "city_id": "carcassonne",
+  "anchor": {
+    "name": "Carcassonne",
+    "coords": [
+      2.3491,
+      43.213
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Porte Narbonnaise",
+          "coords": [
+            2.3655,
+            43.2065
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die massiven Türme am Haupteingang.",
+            "hu": "Csodálja meg a főbejárat monumentális bástyáit.",
+            "ro": "Admirați bastioanele monumentale de la intrarea principală.",
+            "en": "Admire the massive towers at the main entrance."
+          }
+        },
+        {
+          "name": "Château Comtal",
+          "coords": [
+            2.3635,
+            43.2068
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie auf den Mauern für die beste Aussicht.",
+            "hu": "Sétáljon végig a várfalakon a legjobb kilátásért.",
+            "ro": "Mergeți pe zidurile cetății pentru cea mai bună vedere.",
+            "en": "Walk the ramparts for the best panoramic views."
+          }
+        },
+        {
+          "name": "Basilique Saint-Nazaire",
+          "coords": [
+            2.3642,
+            43.2048
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Glasmalereien gehören zu den schönsten Frankreichs.",
+            "hu": "Az üvegablakok Franciaország legszebbjei közé tartoznak.",
+            "ro": "Vitraliile sunt printre cele mai frumoase din Franța.",
+            "en": "The stained glass windows are among France's finest."
+          }
+        },
+        {
+          "name": "Lices de la Cité",
+          "coords": [
+            2.3662,
+            2.3662
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick zwischen den beiden Mauern.",
+            "hu": "Ideális egy piknikhez a két várfal között.",
+            "ro": "Ideal pentru un picnic între cele două rânduri de ziduri.",
+            "en": "Ideal for a picnic between the two rings of walls."
+          }
+        },
+        {
+          "name": "Pont Vieux",
+          "coords": [
+            2.3582,
+            43.2105
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der klassische Fotopunkt mit Blick auf die Festung.",
+            "hu": "Klasszikus fotópont kilátással az erődre.",
+            "ro": "Punctul clasic de fotografie cu vedere spre fortăreață.",
+            "en": "The classic photo spot with views of the fortress."
+          }
+        },
+        {
+          "name": "Place Carnot",
+          "coords": [
+            2.3522,
+            43.2142
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Getränk am Brunnen im Herzen der Unterstadt.",
+            "hu": "Igyon meg valamit a szökőkútnál az alsóváros szívében.",
+            "ro": "Savurați o băutură lângă fântâna din centrul orașului de jos.",
+            "en": "Enjoy a drink by the fountain in the heart of the lower town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der imposanten Porte Narbonnaise, dem Tor zur mittelalterlichen Welt. Erkunden Sie das majestätische Château Comtal und wandeln Sie auf den Festungsmauern. Mittags bewundern Sie die gotische Pracht der Basilika Saint-Nazaire. Nachmittags spazieren Sie durch die Lices, den Raum zwischen den Stadtmauern, bevor Sie über den Pont Vieux in die lebendige Bastide Saint-Louis hinabsteigen, um den Tag gemütlich ausklingen zu lassen.",
+        "hu": "Kezdje a napot az impozáns Porte Narbonnaise-nál, amely kapu a középkori világba. Fedezze fel a fenséges Château Comtal-t, és sétáljon a várfalakon. Délben csodálja meg a Saint-Nazaire bazilika gótikus pompáját. Délután sétáljon végig a Lices-en, a kettős várfal közötti területen, majd a Pont Vieux-n át ereszkedjen le a nyüzsgő Bastide Saint-Louis-ba, hogy hangulatosan zárja a napot.",
+        "ro": "Începeți ziua la impunătoarea Porte Narbonnaise, poarta către lumea medievală. Explorați maiestuosul Château Comtal și plimbați-vă pe zidurile cetății. La prânz, admirați splendoarea gotică a Bazilicii Saint-Nazaire. După-amiaza, plimbați-vă prin Lices, spațiul dintre zidurile orașului, înainte de a coborî peste Pont Vieux în vibranta Bastide Saint-Louis pentru a încheia ziua relaxat.",
+        "en": "Start your day at the imposing Porte Narbonnaise, the gateway to the medieval world. Explore the majestic Château Comtal and walk along the fortress ramparts. At midday, admire the Gothic splendor of the Saint-Nazaire Basilica. In the afternoon, stroll through the Lices, the space between the city walls, before descending across the Pont Vieux into the lively Bastide Saint-Louis for a cozy end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassoulet Carcassonnais",
+            "tip": "Probieren Sie das traditionelle Bohnengericht im Restaurant Le Chaudron."
+          },
+          {
+            "name": "Confit de Canard",
+            "tip": "Zartes Entenfleisch, eine Spezialität des Languedoc."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carcassonne-i Cassoulet",
+            "tip": "Kóstolja meg a hagyományos babos húsételt a Le Chaudron étteremben."
+          },
+          {
+            "name": "Kacsa Confit",
+            "tip": "Omlós kacsahús, a Languedoc régió specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cassoulet de Carcassonne",
+            "tip": "Gustați mâncarea tradițională cu fasole la restaurantul Le Chaudron."
+          },
+          {
+            "name": "Confit de Rață",
+            "tip": "Carne de rață fragedă, o specialitate din Languedoc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carcassonne Cassoulet",
+            "tip": "Taste the traditional bean and meat stew at Le Chaudron restaurant."
+          },
+          {
+            "name": "Duck Confit",
+            "tip": "Tender duck meat, a specialty of the Languedoc region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lices de la Cité",
+            "tip": "Ein ruhiger Spaziergang zwischen den inneren und äußeren Mauern.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Ufer der Aude",
+            "tip": "Entspannung am Fluss unterhalb der Festung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lices de la Cité",
+            "tip": "Csendes séta a belső és külső várfalak között.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Aude folyó partja",
+            "tip": "Pihenés a folyónál az erőd alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lices de la Cité",
+            "tip": "O plimbare liniștită între zidurile interioare și cele exterioare.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Malul râului Aude",
+            "tip": "Relaxare lângă râu, sub fortăreață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lices de la Cité",
+            "tip": "A quiet walk between the inner and outer fortress walls.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Banks of the Aude",
+            "tip": "Relaxation by the river below the fortress.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Palais de la Truffe",
+            "tip": "Lokale Trüffelprodukte und Spezialitäten."
+          },
+          {
+            "name": "Biscuiterie de la Cité",
+            "tip": "Traditionelles Gebäck und handwerkliche Kekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Palais de la Truffe",
+            "tip": "Helyi szarvasgomba termékek és különlegességek."
+          },
+          {
+            "name": "Biscuiterie de la Cité",
+            "tip": "Hagyományos sütemények és kézműves kekszek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Palais de la Truffe",
+            "tip": "Produse locale din trufe și specialități."
+          },
+          {
+            "name": "Biscuiterie de la Cité",
+            "tip": "Patiserie tradițională și biscuiți artizanali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Palais de la Truffe",
+            "tip": "Local truffle products and specialties."
+          },
+          {
+            "name": "Biscuiterie de la Cité",
+            "tip": "Traditional pastries and artisanal biscuits."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Besuchen Sie die Cité früh am Morgen, um den Massen zu entgehen.",
+          "Die Lichter der Festung bei Nacht sind magisch.",
+          "Kaufen Sie Tickets für das Schloss im Voraus online."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogasson el a várba kora reggel a tömeg elkerülése érdekében.",
+          "Az erőd fényei éjszaka varázslatosak.",
+          "Vásárolja meg a várbelépőt előre online."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile cu piatră cubică.",
+          "Vizitați cetatea dimineața devreme pentru a evita aglomerația.",
+          "Luminile fortăreței pe timp de noapte sunt magice.",
+          "Cumpărați biletele pentru castel în avans online."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the Cité early in the morning to avoid the crowds.",
+          "The fortress lights at night are magical.",
+          "Buy castle tickets in advance online."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Port de Carcassonne",
+          "coords": [
+            2.3515,
+            43.2175
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt am Canal du Midi.",
+            "hu": "Kiindulópont a Canal du Midi-nél.",
+            "ro": "Punctul de plecare la Canal du Midi.",
+            "en": "Starting point at the Canal du Midi."
+          }
+        },
+        {
+          "name": "Canal du Midi Towpath",
+          "coords": [
+            2.385,
+            43.2185
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Flache und schattige Wege entlang des Wassers.",
+            "hu": "Lapos és árnyas utak a víz mentén.",
+            "ro": "Trasee plate și umbrite de-a lungul apei.",
+            "en": "Flat and shaded paths along the water."
+          }
+        },
+        {
+          "name": "Lac de la Cavayère",
+          "coords": [
+            2.415,
+            43.185
+          ],
+          "category": "lake",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ideal für ein erfrischendes Bad im See.",
+            "hu": "Ideális egy frissítő fürdőzéshez a tóban.",
+            "ro": "Ideal pentru o baie răcoritoare în lac.",
+            "en": "Ideal for a refreshing dip in the lake."
+          }
+        },
+        {
+          "name": "Cité de Carcassonne",
+          "coords": [
+            2.3645,
+            43.2065
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Parken Sie die Fahrräder vor dem Eingang.",
+            "hu": "Parkolja le a bicikliket a bejáratnál.",
+            "ro": "Parcați bicicletele în fața intrării.",
+            "en": "Park the bikes outside the main entrance."
+          }
+        },
+        {
+          "name": "Bastide Saint-Louis",
+          "coords": [
+            2.3525,
+            43.2145
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Gemütlicher Abschluss in der Unterstadt.",
+            "hu": "Hangulatos befejezés az alsóvárosban.",
+            "ro": "Final relaxat în orașul de jos.",
+            "en": "Cozy finish in the lower town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Carcassonne auf zwei Rädern. Beginnen Sie am Hafen des Canal du Midi und radeln Sie entlang des UNESCO-Welterbes im Schatten alter Platanen. Ein Abstecher führt Sie zum Lac de la Cavayère, wo Sie entspannen können. Am Nachmittag erreichen Sie die majestätische Festung, bevor Sie durch die flachen Straßen der Bastide zurückkehren.",
+        "hu": "Fedezze fel Carcassonne-t két keréken. Kezdje a Canal du Midi kikötőjénél, és tekerjen az UNESCO Világörökség mentén az ősi platánok árnyékában. Egy kitérő elviszi a Lac de la Cavayère-hez, ahol megpihenhet. Délután érje el a fenséges erődöt, majd térjen vissza a Bastide sík utcáin keresztül.",
+        "ro": "Explorați Carcassonne pe două roți. Începeți la portul Canal du Midi și pedalați de-a lungul sitului UNESCO la umbra platanilor antici. O abatere vă duce la Lac de la Cavayère, unde vă puteți relaxa. După-amiaza ajungeți la fortăreața maiestuoasă, înainte de a reveni prin străzile plate ale Bastidei.",
+        "en": "Explore Carcassonne on two wheels. Start at the Canal du Midi port and cycle along the UNESCO World Heritage site under the shade of ancient plane trees. A detour takes you to Lac de la Cavayère for a break. In the afternoon, reach the majestic fortress before returning through the flat streets of the Bastide."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picnic am Canal",
+            "tip": "Kaufen Sie Käse und Brot in der Bastide für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a csatornánál",
+            "tip": "Vásároljon sajtot és kenyeret a Bastide-ban az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la canal",
+            "tip": "Cumpărați brânză și pâine în Bastide pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal Picnic",
+            "tip": "Buy cheese and bread in the Bastide for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal du Midi",
+            "tip": "Die Ruhe des Wassers genießen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal du Midi",
+            "tip": "Élvezze a víz nyugalmát.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canal du Midi",
+            "tip": "Bucurați-vă de liniștea apei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal du Midi",
+            "tip": "Enjoy the tranquility of the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles",
+            "tip": "Frische Produkte auf dem Markt der Bastide."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles",
+            "tip": "Friss termékek a Bastide piacán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Produse proaspete la piața din Bastide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles",
+            "tip": "Fresh produce at the Bastide market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Fahrräder in der Nähe des Bahnhofs.",
+          "Achten Sie auf Spaziergänger am Canal du Midi.",
+          "Die Strecke zum See ist leicht hügelig.",
+          "Vermeiden Sie es, mit dem Rad in die Cité zu fahren."
+        ],
+        "hu": [
+          "Béreljen biciklit a vasútállomás közelében.",
+          "Vigyázzon a gyalogosokra a Canal du Midi mentén.",
+          "A tóhoz vezető út enyhén dombos.",
+          "Kerülje el, hogy kerékpárral hajtson be a várba."
+        ],
+        "ro": [
+          "Închiriați biciclete lângă gară.",
+          "Atenție la pietoni pe marginea Canal du Midi.",
+          "Traseul spre lac este ușor deluros.",
+          "Evitați să intrați cu bicicleta în cetate."
+        ],
+        "en": [
+          "Rent bikes near the train station.",
+          "Watch out for pedestrians along the Canal du Midi.",
+          "The route to the lake is slightly hilly.",
+          "Avoid cycling inside the crowded fortress."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Parking Cité",
+          "coords": [
+            2.3685,
+            43.2055
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen P0-Parkplatz.",
+            "hu": "Használja a nagy P0 parkolót.",
+            "ro": "Folosiți parcarea mare P0.",
+            "en": "Use the large P0 parking lot."
+          }
+        },
+        {
+          "name": "Abbaye de Saint-Hilaire",
+          "coords": [
+            2.3085,
+            43.0935
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Geburtsort des Blanquette de Limoux.",
+            "hu": "A Blanquette de Limoux szülőhelye.",
+            "ro": "Locul de naștere al Blanquette de Limoux.",
+            "en": "Birthplace of the Blanquette de Limoux sparkling wine."
+          }
+        },
+        {
+          "name": "Limoux",
+          "coords": [
+            2.2175,
+            43.0535
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Hübsche Stadt am Fluss Aude.",
+            "hu": "Szép város az Aude folyó partján.",
+            "ro": "Oraș frumos pe malul râului Aude.",
+            "en": "Pretty town on the banks of the Aude river."
+          }
+        },
+        {
+          "name": "Domaine Viticole (Vineyard)",
+          "coords": [
+            2.325,
+            43.185
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Weinprobe in den Corbières.",
+            "hu": "Borkóstoló a Corbières borvidéken.",
+            "ro": "Degustare de vinuri în Corbières.",
+            "en": "Wine tasting in the Corbières region."
+          }
+        },
+        {
+          "name": "Panorama de Carcassonne",
+          "coords": [
+            2.375,
+            43.201
+          ],
+          "category": "sunset",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Bester Blick auf die gesamte Festung.",
+            "hu": "A legjobb kilátás az egész erődre.",
+            "ro": "Cea mai bună vedere asupra întregii fortărețe.",
+            "en": "Best view of the entire fortress from a distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie nicht nur die Cité, sondern auch das Hinterland. Nach der Erkundung der Festung fahren Sie zur Abtei Saint-Hilaire, wo der erste Schaumwein der Welt erfunden wurde. Genießen Sie ein Mittagessen in Limoux und besuchen Sie ein Weingut für eine Probe lokaler Weine. Zum Abschluss bietet ein Aussichtspunkt den perfekten Blick auf die Silhouette von Carcassonne.",
+        "hu": "Autóval nemcsak a várat, hanem a környéket is felfedezheti. A várlátogatás után hajtson el a Saint-Hilaire apátsághoz, ahol a világ első pezsgőjét feltalálták. Élvezze az ebédet Limoux-ban, és látogasson el egy borászatba helyi borkóstolóra. Zárásként egy kilátópontról csodálhatja meg Carcassonne tökéletes sziluettjét.",
+        "ro": "Cu mașina veți descoperi nu doar cetatea, ci și împrejurimile. După explorarea fortăreței, conduceți spre Abația Saint-Hilaire, unde a fost inventat primul vin spumant din lume. Savurați prânzul în Limoux și vizitați o podgorie pentru o degustare de vinuri locale. La final, un punct de belvedere oferă vederea perfectă asupra siluetei orașului Carcassonne.",
+        "en": "By car, you will discover not only the Cité but also the hinterland. After exploring the fortress, drive to Saint-Hilaire Abbey, where the world's first sparkling wine was invented. Enjoy lunch in Limoux and visit a vineyard for a local wine tasting. To finish, a panoramic viewpoint offers the perfect look at Carcassonne's silhouette."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Blanquette de Limoux",
+            "tip": "Der älteste Schaumwein der Welt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blanquette de Limoux",
+            "tip": "A világ legrégebbi pezsgője."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blanquette de Limoux",
+            "tip": "Cel mai vechi vin spumant din lume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blanquette de Limoux",
+            "tip": "The world's oldest sparkling wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saint-Hilaire Kreuzgang",
+            "tip": "Spirituelle Ruhe im Kloster.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Hilaire kerengő",
+            "tip": "Spirituális nyugalom a kolostorban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cloastrul Saint-Hilaire",
+            "tip": "Liniște spirituală în mănăstire.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Hilaire Cloister",
+            "tip": "Spiritual peace in the monastery.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vignerons de Limoux",
+            "tip": "Direktverkauf von Weinen aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vignerons de Limoux",
+            "tip": "Borok közvetlen értékesítése a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vignerons de Limoux",
+            "tip": "Vânzare directă de vinuri din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vignerons de Limoux",
+            "tip": "Direct sale of wines from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an der Cité sind teuer, kommen Sie früh.",
+          "Die Straßen im Umland sind kurvenreich.",
+          "Don't drink and drive nach der Weinprobe.",
+          "Nutzen Sie ein Navi für die kleinen Weingüter."
+        ],
+        "hu": [
+          "A várnál a parkolás drága, érkezzen korán.",
+          "A környékbeli utak kanyargósak.",
+          "Ne vezessen alkohol fogyasztása után.",
+          "Használjon navigációt a kis borászatokhoz."
+        ],
+        "ro": [
+          "Parcarea la cetate este scumpă, veniți devreme.",
+          "Drumurile din împrejurimi sunt sinuoase.",
+          "Nu conduceți după degustarea de vinuri.",
+          "Folosiți navigația pentru podgoriile mici."
+        ],
+        "en": [
+          "Parking at the Cité is expensive, arrive early.",
+          "The surrounding roads are winding.",
+          "Don't drink and drive after wine tasting.",
+          "Use GPS for the smaller vineyards."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Carcassonne",
+          "coords": [
+            2.3515,
+            43.2185
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunft am Bahnhof mit Blick auf den Canal.",
+            "hu": "Érkezés a vasútállomásra kilátással a csatornára.",
+            "ro": "Sosirea la gară cu vedere la canal.",
+            "en": "Arrival at the station with views of the canal."
+          }
+        },
+        {
+          "name": "La Navette (Shuttle)",
+          "coords": [
+            2.3535,
+            43.2145
+          ],
+          "category": "transit",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Shuttlebus verbindet Bahnhof und Cité.",
+            "hu": "Az ingajárat összeköti az állomást és a várat.",
+            "ro": "Autobuzul navetă face legătura între gară și cetate.",
+            "en": "The shuttle bus connects the station and the Cité."
+          }
+        },
+        {
+          "name": "Cité Médiévale",
+          "coords": [
+            2.3645,
+            43.2065
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt am Haupteingang.",
+            "hu": "A busz közvetlenül a főbejáratnál áll meg.",
+            "ro": "Autobuzul oprește chiar la intrarea principală.",
+            "en": "The bus stops right at the main entrance."
+          }
+        },
+        {
+          "name": "Bastide Saint-Louis",
+          "coords": [
+            2.3525,
+            43.2145
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentrum der Unterstadt, gut zu Fuß erreichbar.",
+            "hu": "Az alsóváros központja, gyalog jól bejárható.",
+            "ro": "Centrul orașului de jos, ușor de parcurs la pas.",
+            "en": "Center of the lower town, easily walkable."
+          }
+        },
+        {
+          "name": "Place Gambetta",
+          "coords": [
+            2.3545,
+            43.2125
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Musée des Beaux-Arts.",
+            "hu": "Látogassa meg a Szépművészeti Múzeumot.",
+            "ro": "Vizitați Muzeul de Arte Frumoase.",
+            "en": "Visit the Museum of Fine Arts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den praktischen Shuttlebus 'Le Petit Train' oder die Navette, um zwischen dem Bahnhof, der Bastide und der Festung zu pendeln. Beginnen Sie am Bahnhof und fahren Sie direkt zur Cité für eine ausführliche Besichtigung. Danach kehren Sie in die Bastide zurück, um die lokalen Märkte und das Kunstmuseum zu erkunden, bevor Ihr Zug wieder abfährt.",
+        "hu": "Használja a praktikus 'Le Petit Train' kisvonatot vagy a Navette buszt az állomás, a Bastide és az erőd közötti közlekedéshez. Kezdje az állomásnál, és menjen közvetlenül a várba egy alapos látogatásra. Ezután térjen vissza a Bastide-ba, fedezze fel a helyi piacokat és a Szépművészeti Múzeumot, mielőtt a vonata indulna.",
+        "ro": "Folosiți naveta practică sau 'Le Petit Train' pentru a face naveta între gară, Bastide și fortăreață. Începeți la gară și mergeți direct la cetate pentru o vizită detaliată. Ulterior, reveniți în Bastide pentru a explora piețele locale și Muzeul de Arte Frumoase înainte de plecarea trenului.",
+        "en": "Use the convenient 'Le Petit Train' or the Navette shuttle to commute between the station, the Bastide, and the fortress. Start at the station and go straight to the Cité for an extensive tour. Afterward, return to the Bastide to explore local markets and the Fine Arts Museum before your train departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie L'Art de la Panification",
+            "tip": "Beste Croissants in der Nähe der Bastide."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie L'Art de la Panification",
+            "tip": "A legjobb croissant-ok a Bastide közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie L'Art de la Panification",
+            "tip": "Cele mai bune croissant-uri lângă Bastide."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie L'Art de la Panification",
+            "tip": "Best croissants near the Bastide area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square Gambetta",
+            "tip": "Ein kleiner Park zum Verschnaufen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square Gambetta",
+            "tip": "Egy kis park egy kis pihenőhöz.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square Gambetta",
+            "tip": "Un parc mic pentru o pauză.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square Gambetta",
+            "tip": "A small park for a quick breather.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Verdun",
+            "tip": "Haupteinkaufsstraße der Unterstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Verdun",
+            "tip": "Az alsóváros fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Verdun",
+            "tip": "Principala stradă comercială din orașul de jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Verdun",
+            "tip": "Main shopping street of the lower town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus.",
+          "Die Navette fährt alle 20-30 Minuten.",
+          "Der Bahnhof hat Schließfächer für Gepäck.",
+          "Zu Fuß ist die Bastide kompakter als sie aussieht."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "A Navette 20-30 percenként közlekedik.",
+          "Az állomáson vannak csomagmegőrzők.",
+          "Gyalog a Bastide kompaktabb, mint amilyennek látszik."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Naveta circulă la fiecare 20-30 de minute.",
+          "Gara are dulapuri pentru bagaje.",
+          "La pas, Bastide este mai compactă decât pare."
+        ],
+        "en": [
+          "Buy a day ticket for the bus.",
+          "The shuttle runs every 20-30 minutes.",
+          "The train station has luggage lockers.",
+          "On foot, the Bastide is more compact than it looks."
+        ]
+      }
+    }
+  }
+}

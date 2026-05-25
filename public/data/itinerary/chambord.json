@@ -1,0 +1,1245 @@
+{
+  "city_id": "chambord",
+  "anchor": {
+    "name": "Château de Chambord",
+    "coords": [
+      47.6164,
+      1.5172
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Louis",
+            "hu": "Place Saint-Louis",
+            "ro": "Piața Saint-Louis",
+            "en": "Saint-Louis Square"
+          },
+          "coords": [
+            47.6152,
+            1.5135
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich hier Ihren ersten Kaffee mit Blick auf das Dorf.",
+            "hu": "Igyon itt egy kávét a falura néző kilátással.",
+            "ro": "Luați prima cafea aici cu vedere la sat.",
+            "en": "Grab your first coffee here with a view of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chambord - Haupthalle",
+            "hu": "Chambord-i kastély - Főcsarnok",
+            "ro": "Castelul Chambord - Holul Principal",
+            "en": "Château de Chambord - Main Hall"
+          },
+          "coords": [
+            47.6164,
+            1.5172
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Doppelwendeltreppe ist das absolute Highlight.",
+            "hu": "A kettős csigalépcső az abszolút fénypont.",
+            "ro": "Scara cu dublă elice este punctul culminant.",
+            "en": "The double helix staircase is the absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Dachterrassen",
+            "hu": "Tetőteraszok",
+            "ro": "Terasele de pe acoperiș",
+            "en": "Roof Terraces"
+          },
+          "coords": [
+            47.6165,
+            1.5173
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schornsteine aus der Nähe.",
+            "hu": "Csodálja meg közelről a kéményeket.",
+            "ro": "Admirați coșurile de fum de aproape.",
+            "en": "Admire the chimneys from up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Grand Saint-Michel (Mittagessen)",
+            "hu": "Le Grand Saint-Michel (Ebéd)",
+            "ro": "Le Grand Saint-Michel (Prânz)",
+            "en": "Le Grand Saint-Michel (Lunch)"
+          },
+          "coords": [
+            47.6155,
+            1.5145
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie regionale Spezialitäten mit Blick auf das Schloss.",
+            "hu": "Élvezze a regionális specialitásokat a kastélyra néző kilátással.",
+            "ro": "Savurați specialități regionale cu vedere la castel.",
+            "en": "Enjoy regional specialties with a view of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Französische Gärten",
+            "hu": "Francia kertek",
+            "ro": "Grădinile Franceze",
+            "en": "French Gardens"
+          },
+          "coords": [
+            47.6175,
+            1.5195
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Panoramafotos des Schlosses.",
+            "hu": "Tökéletes hely a kastély panorámafotóihoz.",
+            "ro": "Locul perfect pentru fotografii panoramice ale castelului.",
+            "en": "Perfect spot for panoramic photos of the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanalpromenade",
+            "hu": "Csatorna menti sétány",
+            "ro": "Promenada Canalului",
+            "en": "Canal Promenade"
+          },
+          "coords": [
+            47.6145,
+            1.522
+          ],
+          "category": "quiet",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Spiegelbild des Schlosses im Wasser.",
+            "hu": "Figyelje a kastély tükröződését a vízben.",
+            "ro": "Observați reflexia castelului în apă.",
+            "en": "Watch the reflection of the castle in the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Chambord beginnt am malerischen Place Saint-Louis, bevor Sie in die Pracht der Renaissance eintauchen. Das Schloss beeindruckt mit seiner Architektur und der berühmten Treppe. Nach einem regionalen Mittagessen spazieren Sie durch die geometrisch angelegten französischen Gärten und lassen den Tag entspannt am großen Kanal ausklingen, wo sich die Türme im Wasser spiegeln.",
+        "hu": "A chambord-i nap a festői Place Saint-Louis-n kezdődik, mielőtt elmerülne a reneszánsz pompájában. A kastély építészete és a híres lépcsőház lenyűgöző látványt nyújt. Egy regionális ebéd után sétáljon végig a mértani francia kerteken, majd zárja a napot a nagy csatorna partján, ahol a kastély tornyai tükröződnek a víz felszínén.",
+        "ro": "Ziua dumneavoastră la Chambord începe în pitoreasca Place Saint-Louis, înainte de a vă scufunda în splendoarea Renașterii. Castelul impresionează prin arhitectura sa și faimoasa scară. După un prânz regional, plimbați-vă prin grădinile franceze geometrice și încheiați ziua relaxat lângă marele canal, unde turnurile se oglindesc în apă.",
+        "en": "Your day in Chambord begins at the picturesque Place Saint-Louis before diving into Renaissance grandeur. The castle impresses with its architecture and the famous staircase. After a regional lunch, stroll through the geometric French gardens and end the day relaxed by the grand canal, where the towers are reflected in the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Grand Saint-Michel",
+            "tip": "Wildgerichte aus der Sologne."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Probieren Sie die Palets de Sologne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Grand Saint-Michel",
+            "tip": "Vadhúsételek a Sologne régióból."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Kóstolja meg a Palets de Sologne kekszet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Grand Saint-Michel",
+            "tip": "Mâncăruri din vânat din regiunea Sologne."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Încercați biscuiții Palets de Sologne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Grand Saint-Michel",
+            "tip": "Game dishes from the Sologne region."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Try the Palets de Sologne biscuits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal de Chambord",
+            "tip": "Ruhiger Spaziergang am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Waldrand",
+            "tip": "Beobachten Sie Hirsche in der Ferne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal de Chambord",
+            "tip": "Csendes séta a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Erdőszél",
+            "tip": "Figyelje meg a szarvasokat a távolban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canal de Chambord",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marginea pădurii",
+            "tip": "Observați cerbii în depărtare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal de Chambord",
+            "tip": "Quiet walk by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Forest edge",
+            "tip": "Watch deer in the distance.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Exklusive Souvenirs und Bücher."
+          },
+          {
+            "name": "Marché local",
+            "tip": "Regionaler Honig und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Exkluzív ajándéktárgyak és könyvek."
+          },
+          {
+            "name": "Helyi piac",
+            "tip": "Regionális méz és bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Suveniruri și cărți exclusive."
+          },
+          {
+            "name": "Piața locală",
+            "tip": "Miere și vin regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Boutique du Château",
+            "tip": "Exclusive souvenirs and books."
+          },
+          {
+            "name": "Local market",
+            "tip": "Regional honey and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+          "Tragen Sie bequeme Schuhe für die vielen Treppen.",
+          "Besuchen Sie das Schloss direkt zur Öffnung um 9 Uhr.",
+          "Der Park ist kostenlos zugänglich."
+        ],
+        "hu": [
+          "Vásároljon jegyet online a sorban állás elkerülése érdekében.",
+          "Viseljen kényelmes cipőt a sok lépcső miatt.",
+          "Látogassa meg a kastélyt közvetlenül a 9 órai nyitáskor.",
+          "A park ingyenesen látogatható."
+        ],
+        "ro": [
+          "Cumpărați bilete online pentru a evita cozile.",
+          "Purtați încălțăminte confortabilă pentru multele scări.",
+          "Vizitați castelul imediat la deschiderea de la ora 9.",
+          "Parcul este accesibil gratuit."
+        ],
+        "en": [
+          "Buy tickets online to avoid queues.",
+          "Wear comfortable shoes for the many stairs.",
+          "Visit the castle right at opening at 9 AM.",
+          "The park is accessible for free."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fahrradverleih am Kanal",
+            "hu": "Kerékpárkölcsönző a csatornánál",
+            "ro": "Închiriere biciclete la canal",
+            "en": "Bike Rental by the Canal"
+          },
+          "coords": [
+            47.615,
+            1.514
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mieten Sie ein E-Bike für die längeren Waldwege.",
+            "hu": "Béreljen elektromos kerékpárt a hosszabb erdei utakhoz.",
+            "ro": "Închiriați o bicicletă electrică pentru traseele mai lungi prin pădure.",
+            "en": "Rent an e-bike for the longer forest trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Forstweg Richtung Muides",
+            "hu": "Erdei út Muides felé",
+            "ro": "Drum forestier spre Muides",
+            "en": "Forest Path towards Muides"
+          },
+          "coords": [
+            47.642,
+            1.528
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe des größten ummauerten Parks Europas.",
+            "hu": "Élvezze Európa legnagyobb fallal körülvett parkjának nyugalmát.",
+            "ro": "Bucurați-vă de liniștea celui mai mare parc împrejmuit din Europa.",
+            "en": "Enjoy the peace of Europe's largest walled park."
+          }
+        },
+        {
+          "name": {
+            "de": "Beobachtungsturm Gabillière",
+            "hu": "Gabillière megfigyelőtorony",
+            "ro": "Turnul de observație Gabillière",
+            "en": "Gabillière Observation Tower"
+          },
+          "coords": [
+            47.625,
+            1.545
+          ],
+          "category": "quiet",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fernglas nicht vergessen – ideal zur Tierbeobachtung.",
+            "hu": "Ne felejtse el a távcsövet – ideális vadmegfigyeléshez.",
+            "ro": "Nu uitați binoclul – ideal pentru observarea animalelor.",
+            "en": "Don't forget your binoculars – ideal for wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chambord (Innenbesichtigung)",
+            "hu": "Chambord-i kastély (Belső látogatás)",
+            "ro": "Castelul Chambord (Vizită interioară)",
+            "en": "Château de Chambord (Interior Visit)"
+          },
+          "coords": [
+            47.6164,
+            1.5172
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+            "hu": "A kerékpártárolók a bejárat közelében találhatók.",
+            "ro": "Suporturile pentru biciclete sunt situate lângă intrare.",
+            "en": "Bike racks are located near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stallungen des Marschalls von Sachsen",
+            "hu": "Szász Móric lovardája",
+            "ro": "Grajdurile Mareșalului de Saxonia",
+            "en": "Stables of the Marshal of Saxony"
+          },
+          "coords": [
+            47.6155,
+            1.515
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die Reitvorführungen an.",
+            "hu": "Nézze meg a lovasbemutatókat.",
+            "ro": "Urmăriți spectacolele ecvestre.",
+            "en": "Watch the equestrian shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick am Canal",
+            "hu": "Piknik a csatornánál",
+            "ro": "Picnic la Canal",
+            "en": "Picnic by the Canal"
+          },
+          "coords": [
+            47.613,
+            1.52
+          ],
+          "category": "gastro",
+          "arrive_at": "15:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss Ihrer Radtour.",
+            "hu": "Kerékpártúrájának pihentető lezárása.",
+            "ro": "Un final relaxant al turului dumneavoastră pe bicicletă.",
+            "en": "A relaxing conclusion to your bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die riesigen Ländereien von Chambord mit dem Rad. Beginnen Sie mit einer Fahrt durch die wilden Wälder zu den Aussichtstürmen, wo Sie mit etwas Glück Hirsche oder Wildschweine sehen. Danach kehren Sie zum Schloss zurück, um die Architektur zu bewundern. Beenden Sie Ihre Tour mit einem Besuch der historischen Ställe und einem gemütlichen Picknick am Ufer des Kanals.",
+        "hu": "Fedezze fel Chambord hatalmas birtokait kerékpárral. Kezdje egy túrával a vadon élő erdőkön keresztül a kilátótornyokhoz, ahol szerencsével szarvasokat vagy vaddisznókat is láthat. Ezután térjen vissza a kastélyhoz, hogy megcsodálja annak építészetét. Zárja túráját a történelmi istállók meglátogatásával és egy kellemes piknikkel a csatorna partján.",
+        "ro": "Descoperiți domeniile vaste ale Chambord-ului cu bicicleta. Începeți cu o plimbare prin pădurile sălbatice până la turnurile de observație, unde cu puțin noroc puteți vedea cerbi sau mistreți. Apoi reveniți la castel pentru a admira arhitectura. Încheiați turul cu o vizită la grajdurile istorice și un picnic plăcut pe malul canalului.",
+        "en": "Explore the vast lands of Chambord by bike. Start with a ride through the wild forests to the observation towers, where you might spot deer or wild boar if you're lucky. Then return to the castle to admire the architecture. End your tour with a visit to the historic stables and a pleasant picnic on the banks of the canal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Mittagessen auf der Terrasse."
+          },
+          {
+            "name": "L'Epicerie du Lys",
+            "tip": "Sandwiches und lokale Produkte für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Ebéd a teraszon."
+          },
+          {
+            "name": "L'Epicerie du Lys",
+            "tip": "Szendvicsek és helyi termékek a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Prânz pe terasă."
+          },
+          {
+            "name": "L'Epicerie du Lys",
+            "tip": "Sandvișuri și produse locale pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Lunch on the terrace."
+          },
+          {
+            "name": "L'Epicerie du Lys",
+            "tip": "Sandwiches and local products for the picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Observatoire de la Gabillière",
+            "tip": "Einsamer Aussichtspunkt im Wald.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Étang des Bons Hommes",
+            "tip": "Ruhiger Teich abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Observatoire de la Gabillière",
+            "tip": "Magányos kilátóhely az erdőben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Étang des Bons Hommes",
+            "tip": "Csendes tó a tömegtől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatoire de la Gabillière",
+            "tip": "Punct de observație solitar în pădure.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Étang des Bons Hommes",
+            "tip": "Iaz liniștit departe de mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Observatoire de la Gabillière",
+            "tip": "Lonely observation point in the forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Étang des Bons Hommes",
+            "tip": "Quiet pond away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Berühmte Butterkekse."
+          },
+          {
+            "name": "Boutique des jardins",
+            "tip": "Pflanzen und Garten-Deko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Híres vajas kekszek."
+          },
+          {
+            "name": "Boutique des jardins",
+            "tip": "Növények és kerti dekoráció."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Biscuiți celebri cu unt."
+          },
+          {
+            "name": "Boutique des jardins",
+            "tip": "Plante și decorațiuni de grădină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Famous butter biscuits."
+          },
+          {
+            "name": "Boutique des jardins",
+            "tip": "Plants and garden decor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt über 30 km markierte Radwege im Park.",
+          "Die Wege sind flach und gut befahrbar.",
+          "Vermeiden Sie das Radfahren in der Mittagshitze im Sommer.",
+          "Halten Sie Abstand zum Wild."
+        ],
+        "hu": [
+          "A parkban több mint 30 km jelzett kerékpárút található.",
+          "Az utak síkak és jól járhatóak.",
+          "Nyáron kerülje a kerékpározást a déli hőségben.",
+          "Tartson távolságot a vadaktól."
+        ],
+        "ro": [
+          "Există peste 30 km de piste de biciclete marcate în parc.",
+          "Traseele sunt plate și ușor de parcurs.",
+          "Evitați mersul pe bicicletă în căldura amiezii în timpul verii.",
+          "Păstrați distanța față de animalele sălbatice."
+        ],
+        "en": [
+          "There are over 30 km of marked bike trails in the park.",
+          "The paths are flat and easy to ride.",
+          "Avoid cycling in the midday heat during summer.",
+          "Keep your distance from the wildlife."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haupteingang & Parkplatz P0",
+            "hu": "Főbejárat és P0 parkoló",
+            "ro": "Intrarea principală și parcarea P0",
+            "en": "Main Entrance & P0 Parking"
+          },
+          "coords": [
+            47.614,
+            1.512
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "P0 ist am nächsten zum Schlosseingang.",
+            "hu": "A P0 van a legközelebb a kastély bejáratához.",
+            "ro": "P0 este cea mai apropiată de intrarea în castel.",
+            "en": "P0 is the closest to the castle entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chambord - Ganztagsbesuch",
+            "hu": "Chambord-i kastély - Egész napos látogatás",
+            "ro": "Castelul Chambord - Vizită de o zi",
+            "en": "Château de Chambord - Full Visit"
+          },
+          "coords": [
+            47.6164,
+            1.5172
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie das HistoPad für eine interaktive Zeitreise.",
+            "hu": "Használja a HistoPadot egy interaktív időutazáshoz.",
+            "ro": "Folosiți HistoPad pentru o călătorie interactivă în timp.",
+            "en": "Use the HistoPad for an interactive time travel."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Dorf Chambord",
+            "hu": "Ebéd Chambord faluban",
+            "ro": "Prânz în satul Chambord",
+            "en": "Lunch in Chambord Village"
+          },
+          "coords": [
+            47.6155,
+            1.514
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den Ziegenkäse der Region.",
+            "hu": "Kóstolja meg a régió kecskesajtját.",
+            "ro": "Încercați brânza de capră din regiune.",
+            "en": "Try the goat cheese of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug nach Masures (Wildbeobachtung)",
+            "hu": "Kirándulás Masures felé (Vadmegfigyelés)",
+            "ro": "Excursie la Masures (Observarea animalelor)",
+            "en": "Trip to Masures (Wildlife Spotting)"
+          },
+          "coords": [
+            47.608,
+            1.555
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam durch den Waldabschnitt.",
+            "hu": "Vezessen lassan az erdei szakaszon.",
+            "ro": "Conduceți încet prin secțiunea de pădure.",
+            "en": "Drive slowly through the forest section."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick Point de Vue",
+            "hu": "Point de Vue panorámapont",
+            "ro": "Punct de vedere panoramic",
+            "en": "Panoramablick Point de Vue"
+          },
+          "coords": [
+            47.619,
+            1.505
+          ],
+          "category": "quiet",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der beste Blick auf das Schloss beim Verlassen des Geländes.",
+            "hu": "A legjobb kilátás a kastélyra a terület elhagyásakor.",
+            "ro": "Cea mai bună vedere a castelului la părăsirea domeniului.",
+            "en": "The best view of the castle when leaving the grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie Chambord bequem und flexibel. Nach einer ausführlichen Besichtigung des Schlosses und seiner 60 prunkvollen Räume genießen Sie ein gemütliches Mittagessen im kleinen Dorf am Schlosspark. Am Nachmittag nutzen Sie den Wagen, um tiefer in den Wald zu fahren und die abgelegeneren Beobachtungspunkte zu erreichen, bevor Sie zum Abschluss einen spektakulären Panoramablick auf die gesamte Anlage genießen.",
+        "hu": "Autóval kényelmesen és rugalmasan érheti el Chambord-t. A kastély és annak 60 pompás termének alapos megtekintése után élvezze a kellemes ebédet a kastélypark melletti kis faluban. Délután használja az autót, hogy mélyebbre hatoljon az erdőben, és elérje a távolabbi megfigyelőpontokat, mielőtt végül megcsodálná az egész épületegyüttes látványos panorámáját.",
+        "ro": "Cu mașina ajungeți la Chambord confortabil și flexibil. După o vizitare detaliată a castelului și a celor 60 de camere fastuoase ale sale, savurați un prânz plăcut în micul sat de lângă parcul castelului. După-amiaza, folosiți mașina pentru a merge mai adânc în pădure și a ajunge la punctele de observație mai îndepărtate, înainte de a vă bucura la final de o vedere panoramică spectaculoasă asupra întregului ansamblu.",
+        "en": "By car, you can reach Chambord comfortably and flexibly. After a detailed tour of the castle and its 60 magnificent rooms, enjoy a cozy lunch in the small village next to the castle park. In the afternoon, use the car to go deeper into the forest and reach the more remote observation points before finally enjoying a spectacular panoramic view of the entire complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Cave aux Rois",
+            "tip": "Weinprobe von Loire-Weinen."
+          },
+          {
+            "name": "Les Armes de France",
+            "tip": "Gehobene französische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Cave aux Rois",
+            "tip": "Loire-menti borok kóstolója."
+          },
+          {
+            "name": "Les Armes de France",
+            "tip": "Színvonalas francia konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Cave aux Rois",
+            "tip": "Degustare de vinuri de pe Valea Loarei."
+          },
+          {
+            "name": "Les Armes de France",
+            "tip": "Bucătărie franceză sofisticată."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Cave aux Rois",
+            "tip": "Wine tasting of Loire wines."
+          },
+          {
+            "name": "Les Armes de France",
+            "tip": "Upscale French cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chemin de l'Étang",
+            "tip": "Stille Waldwege.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Belvédère de la Loire",
+            "tip": "Aussichtspunkt in der Nähe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chemin de l'Étang",
+            "tip": "Csendes erdei utak.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Belvédère de la Loire",
+            "tip": "Közeli kilátópont.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chemin de l'Étang",
+            "tip": "Poteci forestiere liniștite.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Belvédère de la Loire",
+            "tip": "Punct de belvedere în apropiere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chemin de l'Étang",
+            "tip": "Silent forest paths.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Belvédère de la Loire",
+            "tip": "Nearby viewpoint.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du village",
+            "tip": "Lokales Kunsthandwerk."
+          },
+          {
+            "name": "Miel de Chambord",
+            "tip": "Honig direkt aus dem Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du village",
+            "tip": "Helyi kézműves termékek."
+          },
+          {
+            "name": "Miel de Chambord",
+            "tip": "Méz közvetlenül a parkból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du village",
+            "tip": "Artizanat local."
+          },
+          {
+            "name": "Miel de Chambord",
+            "tip": "Miere direct din parc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du village",
+            "tip": "Local handicrafts."
+          },
+          {
+            "name": "Miel de Chambord",
+            "tip": "Honey straight from the park."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkticket gilt für den ganzen Tag.",
+          "Parkplätze sind oft schon früh belegt.",
+          "Laden Sie Ihr E-Auto an den ausgewiesenen Stationen.",
+          "Achten Sie auf Wildwechsel auf den Waldstraßen."
+        ],
+        "hu": [
+          "A parkolójegy egész napra érvényes.",
+          "A parkolóhelyek gyakran már korán betelnek.",
+          "Töltse elektromos autóját a kijelölt állomásokon.",
+          "Ügyeljen a vadakra az erdei utakon."
+        ],
+        "ro": [
+          "Tichetul de parcare este valabil pentru întreaga zi.",
+          "Locurile de parcare se ocupă adesea devreme.",
+          "Încărcați mașina electrică la stațiile desemnate.",
+          "Atenție la animalele care traversează drumurile forestiere."
+        ],
+        "en": [
+          "The parking ticket is valid for the whole day.",
+          "Parking spots often fill up early.",
+          "Charge your electric car at the designated stations.",
+          "Watch out for wildlife crossing the forest roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Chambord (Navette)",
+            "hu": "Chambord buszmegálló (Navette)",
+            "ro": "Stația de autobuz Chambord (Navette)",
+            "en": "Chambord Bus Stop (Navette)"
+          },
+          "coords": [
+            47.6135,
+            1.5115
+          ],
+          "category": "port",
+          "arrive_at": "09:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan der Navette ab Blois.",
+            "hu": "Ellenőrizze a Blois-ból induló buszjárat (navette) menetrendjét.",
+            "ro": "Verificați orarul navetei din Blois.",
+            "en": "Check the schedule of the shuttle (navette) from Blois."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chambord (Audioguide-Tour)",
+            "hu": "Chambord-i kastély (Audioguide túra)",
+            "ro": "Castelul Chambord (Tur cu audioguide)",
+            "en": "Château de Chambord (Audioguide Tour)"
+          },
+          "coords": [
+            47.6164,
+            1.5172
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Audioguides sind in vielen Sprachen verfügbar.",
+            "hu": "Az audioguide-ok számos nyelven elérhetőek.",
+            "ro": "Audioguide-urile sunt disponibile în multe limbi.",
+            "en": "Audioguides are available in many languages."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause im Schlosshof",
+            "hu": "Ebédszünet a kastélyudvaron",
+            "ro": "Pauză de prânz în curtea castelului",
+            "en": "Lunch Break in the Castle Courtyard"
+          },
+          "coords": [
+            47.616,
+            1.5165
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schnelle Snacks und Getränke vor Ort.",
+            "hu": "Gyors harapnivalók és italok a helyszínen.",
+            "ro": "Gustări rapide și băuturi la fața locului.",
+            "en": "Quick snacks and drinks on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Gartenpromenade",
+            "hu": "Kerti sétány",
+            "ro": "Promenada grădinii",
+            "en": "Garden Promenade"
+          },
+          "coords": [
+            47.618,
+            1.521
+          ],
+          "category": "park",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den klassischen französischen Gartenstil.",
+            "hu": "Élvezze a klasszikus francia kertstílust.",
+            "ro": "Bucurați-vă de stilul clasic al grădinii franceze.",
+            "en": "Enjoy the classic French garden style."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsfahrt auf dem Cosson",
+            "hu": "Csónakázás a Cosson folyón",
+            "ro": "Plimbare cu barca pe râul Cosson",
+            "en": "Boat Trip on the Cosson"
+          },
+          "coords": [
+            47.6145,
+            1.5155
+          ],
+          "category": "quiet",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Ruderboot für eine andere Perspektive.",
+            "hu": "Béreljen evezős csónakot egy másfajta perspektíváért.",
+            "ro": "Închiriați o barcă cu vâsle pentru o perspectivă diferită.",
+            "en": "Rent a rowing boat for a different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Souvenir-Shopping",
+            "hu": "Ajándékvásárlás",
+            "ro": "Cumpărături de suveniruri",
+            "en": "Souvenir Shopping"
+          },
+          "coords": [
+            47.615,
+            1.513
+          ],
+          "category": "shopping",
+          "arrive_at": "15:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzte Gelegenheit für Geschenke vor der Abfahrt.",
+            "hu": "Utolsó lehetőség ajándékvásárlásra indulás előtt.",
+            "ro": "Ultima ocazie pentru cadouri înainte de plecare.",
+            "en": "Last chance for gifts before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne Auto ist Chambord dank der Shuttle-Busse ab Blois gut erreichbar. Ihr Tag konzentriert sich auf das architektonische Meisterwerk und die direkt umliegenden Gartenanlagen. Nach der Schlossbesichtigung und einer Stärkung im Innenhof unternehmen Sie eine idyllische Bootsfahrt auf dem Cosson-Kanal, bevor Sie vor Ihrer Rückfahrt gemütlich durch die Souvenirläden des kleinen Dorfes bummeln.",
+        "hu": "Autó nélkül is jól megközelíthető Chambord a Blois-ból induló ingajáratoknak köszönhetően. A nap az építészeti remekműre és a közvetlenül körülötte elterülő kertekre összpontosít. A kastélylátogatás és az udvari frissítő után tegyen egy idilli csónakázást a Cosson-csatornán, majd a visszautazás előtt sétáljon végig a kis falu ajándékboltjai között.",
+        "ro": "Chiar și fără mașină, Chambord este ușor accesibil datorită autobuzelor navetă din Blois. Ziua dumneavoastră se concentrează pe capodopera arhitecturală și pe grădinile din imediata apropiere. După vizitarea castelului și o gustare în curtea interioară, faceți o plimbare idilică cu barca pe canalul Cosson, înainte de a vă plimba prin magazinele de suveniruri din micul sat înainte de întoarcere.",
+        "en": "Even without a car, Chambord is easily accessible thanks to the shuttle buses from Blois. Your day focuses on the architectural masterpiece and the directly surrounding gardens. After the castle tour and a refreshment in the courtyard, take an idyllic boat trip on the Cosson canal before strolling through the souvenir shops of the small village before your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Autour du Four",
+            "tip": "Frische Backwaren und Pizza."
+          },
+          {
+            "name": "Le Saint-Louis",
+            "tip": "Traditionelles französisches Bistro."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Autour du Four",
+            "tip": "Friss pékáruk és pizza."
+          },
+          {
+            "name": "Le Saint-Louis",
+            "tip": "Hagyományos francia bisztró."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Autour du Four",
+            "tip": "Produse de patiserie proaspete și pizza."
+          },
+          {
+            "name": "Le Saint-Louis",
+            "tip": "Bistrou francez tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Autour du Four",
+            "tip": "Fresh pastries and pizza."
+          },
+          {
+            "name": "Le Saint-Louis",
+            "tip": "Traditional French bistro."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Barque sur le canal",
+            "tip": "Absolute Stille auf dem Wasser.",
+            "emoji": "🚣"
+          },
+          {
+            "name": "Bänke im französischen Garten",
+            "tip": "Platz zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barque sur le canal",
+            "tip": "Abszolút csend a vízen.",
+            "emoji": "🚣"
+          },
+          {
+            "name": "Padok a francia kertben",
+            "tip": "Hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barque sur le canal",
+            "tip": "Liniște absolută pe apă.",
+            "emoji": "🚣"
+          },
+          {
+            "name": "Bănci în grădina franceză",
+            "tip": "Loc pentru meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Barque sur le canal",
+            "tip": "Absolute silence on the water.",
+            "emoji": "🚣"
+          },
+          {
+            "name": "Benches in the French garden",
+            "tip": "Space for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Repliken historischer Objekte."
+          },
+          {
+            "name": "Maison des Vins",
+            "tip": "Weine aus Cheverny und Cour-Cheverny."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Történelmi tárgyak másolatai."
+          },
+          {
+            "name": "Maison des Vins",
+            "tip": "Cheverny és Cour-Cheverny borai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Replici ale obiectelor istorice."
+          },
+          {
+            "name": "Maison des Vins",
+            "tip": "Vinuri din Cheverny și Cour-Cheverny."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Replicas of historical objects."
+          },
+          {
+            "name": "Maison des Vins",
+            "tip": "Wines from Cheverny and Cour-Cheverny."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Navette verkehrt saisonal.",
+          "Ein Kombiticket mit dem Zug ab Paris ist möglich.",
+          "Die letzte Abfahrt des Busses nicht verpassen.",
+          "Vieles ist fußläufig erreichbar."
+        ],
+        "hu": [
+          "Az ingajárat (navette) szezonálisan közlekedik.",
+          "Kombinált jegy vásárolható Párizsból vonattal.",
+          "Ne késse le az utolsó buszjáratot.",
+          "Sok minden elérhető gyalogosan."
+        ],
+        "ro": [
+          "Naveta circulă sezonier.",
+          "Este posibil un bilet combinat cu trenul din Paris.",
+          "Nu ratați ultima plecare a autobuzului.",
+          "Multe atracții sunt accesibile pe jos."
+        ],
+        "en": [
+          "The shuttle (navette) operates seasonally.",
+          "A combined ticket with the train from Paris is possible.",
+          "Don't miss the last bus departure.",
+          "Most sights are within walking distance."
+        ]
+      }
+    }
+  }
+}

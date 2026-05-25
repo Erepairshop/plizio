@@ -1,0 +1,991 @@
+{
+  "city_id": "vence",
+  "anchor": {
+    "name": "Vence",
+    "coords": [
+      7.1117,
+      43.7228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Grand Jardin",
+            "hu": "Place du Grand Jardin",
+            "ro": "Piața Marelui Grădină",
+            "en": "Place du Grand Jardin"
+          },
+          "coords": [
+            7.1118,
+            43.7229
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Markttage Dienstag/Freitag.",
+            "hu": "Kedd és péntek piaci nap.",
+            "ro": "Zile de piață marți și vineri.",
+            "en": "Market days Tuesday/Friday."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte du Peyra & Brunnen",
+            "hu": "Porte du Peyra és szökőkút",
+            "ro": "Poarta Peyra și fântâna",
+            "en": "Porte du Peyra & Fountain"
+          },
+          "coords": [
+            7.1105,
+            43.7231
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinkbares Quellwasser.",
+            "hu": "Iható forrásvíz a kútból.",
+            "ro": "Apă de izvor potabilă.",
+            "en": "Drinkable spring water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Vence",
+            "hu": "Vence-i székesegyház",
+            "ro": "Catedrala din Vence",
+            "en": "Cathedral of Vence"
+          },
+          "coords": [
+            7.1102,
+            43.7233
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Chagall-Mosaik im Inneren.",
+            "hu": "Chagall-mozaik belül.",
+            "ro": "Mozaic de Chagall în interior.",
+            "en": "Chagall mosaic inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            7.1108,
+            43.7235
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Pissaladière.",
+            "hu": "Kóstolja meg a Pissaladière-t.",
+            "ro": "Încercați Pissaladière.",
+            "en": "Try the Pissaladière."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Rosaire (Matisse)",
+            "hu": "Matisse-kápolna",
+            "ro": "Capela Rozariului (Matisse)",
+            "en": "Chapelle du Rosaire (Matisse)"
+          },
+          "coords": [
+            7.1082,
+            43.7258
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Matisses Meisterwerk.",
+            "hu": "Matisse mesterműve.",
+            "ro": "Capodopera lui Matisse.",
+            "en": "Matisse's masterpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Eschenbaum (Le Frêne)",
+            "hu": "Vence-i kőris",
+            "ro": "Frasinul din Vence",
+            "en": "The Ash Tree (Le Frêne)"
+          },
+          "coords": [
+            7.1088,
+            43.7225
+          ],
+          "category": "quiet",
+          "arrive_at": "16:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gepflanzt im Jahr 1538.",
+            "hu": "1538-ban ültették.",
+            "ro": "Plantat în 1538.",
+            "en": "Planted in 1538."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vence ist ein Juwel der Provence. Beginnen Sie Ihren Morgen auf der lebhaften Place du Grand Jardin. Betreten Sie die Altstadt durch das Peyra-Tor und füllen Sie Ihre Flasche an der berühmten Fontäne. Besuchen Sie die kleinste Kathedrale Frankreichs mit ihrem berühmten Chagall-Mosaik. Nach einem authentischen provenzalischen Mittagessen spazieren Sie zur Chapelle du Rosaire, die von Henri Matisse gestaltet wurde. Beenden Sie den Tag entspannt unter dem historischen Eschenbaum.",
+        "hu": "Vence Provence egyik ékköve. Kezdje a reggelt a Place du Grand Jardin nyüzsgő terén. Lépjen be az óvárosba a Peyra-kapun át, és töltse meg kulacsát a híres szökőkútnál. Látogassa meg Franciaország legkisebb katedrálisát, ahol Chagall mozaikját is megcsodálhatja. Egy autentikus provanszi ebéd után sétáljon el a Matisse által tervezett Rózsafüzér-kápolnához. A napot pihenéssel zárja a történelmi kőrisfa alatt.",
+        "ro": "Vence este o bijuterie a Provenței. Începeți dimineața în vibranta Place du Grand Jardin. Intrați în orașul vechi prin Poarta Peyra și umpleți-vă sticla la fântâna celebră. Vizitați cea mai mică catedrală din Franța, cu celebrul său mozaic de Chagall. După un prânz provensal autentic, mergeți la Capela Rozariului, proiectată de Henri Matisse. Încheiați ziua relaxându-vă sub frasinul istoric.",
+        "en": "Vence is a jewel of Provence. Start your morning at the lively Place du Grand Jardin. Enter the old town through the Peyra Gate and fill your bottle at the famous fountain. Visit the smallest cathedral in France, featuring its famous Chagall mosaic. After an authentic Provençal lunch, walk to the Chapelle du Rosaire, designed by Henri Matisse. End the day relaxing under the historic ash tree."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pissaladière",
+            "tip": "Zwiebelkuchen mit Sardellen."
+          },
+          {
+            "name": "La Cassollette",
+            "tip": "Hausgemachte provenzalische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pissaladière",
+            "tip": "Hagymás lepény szardellával."
+          },
+          {
+            "name": "La Cassollette",
+            "tip": "Házias provanszi konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pissaladière",
+            "tip": "Tartă cu ceapă și anșoa."
+          },
+          {
+            "name": "La Cassollette",
+            "tip": "Bucătărie provensală de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pissaladière",
+            "tip": "Onion tart with anchovies."
+          },
+          {
+            "name": "La Cassollette",
+            "tip": "Homemade Provençal cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Frêne",
+            "tip": "Ein 500 Jahre alter Baum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Frêne",
+            "tip": "Egy 500 éves kőrisfa.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Frêne",
+            "tip": "Un copac de 500 de ani.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Frêne",
+            "tip": "A 500-year-old ash tree.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vence Markt",
+            "tip": "Lokaler Käse und Lavendel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vence-i piac",
+            "tip": "Helyi sajtok és levendula."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Vence",
+            "tip": "Brânzeturi locale și lavandă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vence Market",
+            "tip": "Local cheese and lavender."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für das Kopfsteinpflaster tragen.",
+          "Trinkflasche am Brunnen auffüllen.",
+          "Chapelle du Rosaire ist mittags geschlossen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskakőre.",
+          "Töltse meg kulacsát a kútnál.",
+          "A Matisse-kápolna délben zárva tart."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru piatră cubică.",
+          "Umpleți sticla la fântână.",
+          "Capela Matisse este închisă la prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes for cobblestones.",
+          "Fill your bottle at the fountain.",
+          "The Matisse chapel is closed at midday."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vence Stadtzentrum",
+            "hu": "Vence városközpont",
+            "ro": "Vence centrul orașului",
+            "en": "Vence City Center"
+          },
+          "coords": [
+            7.1117,
+            43.7228
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt.",
+            "hu": "Kiindulópont.",
+            "ro": "Punct de pornire.",
+            "en": "Starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul de Vence",
+            "hu": "St. Paul de Vence",
+            "ro": "St. Paul de Vence",
+            "en": "St. Paul de Vence"
+          },
+          "coords": [
+            7.1221,
+            43.6971
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Künstlerdorf.",
+            "hu": "Művészfalu.",
+            "ro": "Satul artiștilor.",
+            "en": "Artist village."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd St. Paulban",
+            "hu": "Ebéd St. Paulban",
+            "ro": "Prânz în St. Paul",
+            "en": "Lunch in St. Paul"
+          },
+          "coords": [
+            7.1215,
+            43.6965
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Panoramablick.",
+            "hu": "Panorámás kilátás.",
+            "ro": "Vedere panoramică.",
+            "en": "Panoramic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondation Maeght",
+            "hu": "Maeght Alapítvány",
+            "ro": "Fundația Maeght",
+            "en": "Fondation Maeght"
+          },
+          "coords": [
+            7.1147,
+            43.7011
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Moderne Kunst.",
+            "hu": "Modern művészet.",
+            "ro": "Artă modernă.",
+            "en": "Modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Vence",
+            "hu": "Visszatérés Vence-be",
+            "ro": "Întoarcere în Vence",
+            "en": "Return to Vence"
+          },
+          "coords": [
+            7.1117,
+            43.7228
+          ],
+          "category": "quiet",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bergauf zurück.",
+            "hu": "Hegymenet visszafelé.",
+            "ro": "Urcare la întoarcere.",
+            "en": "Uphill ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Kunst und Geschichte. Radeln Sie von Vence zum benachbarten Hügeldorf St. Paul de Vence. Erkunden Sie die Galerien und genießen Sie ein Mittagessen auf den Stadtmauern. Besuchen Sie auf dem Rückweg die renommierte Fondation Maeght, bevor Sie den Anstieg zurück nach Vence in Angriff nehmen.",
+        "hu": "Ez a kerékpártúra összeköti a művészetet és a történelmet. Tekerjen át Vence-ből a szomszédos St. Paul de Vence hegyi falujába. Fedezze fel a galériákat és ebédeljen a várfalon. Visszaúton látogassa meg a neves Maeght Alapítványt, mielőtt nekivágna a Vence-be vezető emelkedőnek.",
+        "ro": "Acest tur cu bicicleta îmbină arta și istoria. Mergeți cu bicicleta de la Vence la satul vecin St. Paul de Vence. Explorați galeriile și bucurați-vă de prânz pe zidurile cetății. La întoarcere, vizitați renumita Fundație Maeght înainte de a aborda urcarea înapoi spre Vence.",
+        "en": "This bike tour connects art and history. Cycle from Vence to the neighboring hilltop village of St. Paul de Vence. Explore the galleries and enjoy lunch on the ramparts. On the way back, visit the renowned Fondation Maeght before tackling the climb back to Vence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Tilleul",
+            "tip": "Provenzalisches Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Tilleul",
+            "tip": "Provanszi ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Tilleul",
+            "tip": "Prânz provensal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Tilleul",
+            "tip": "Provençal lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Miro-Labyrinth",
+            "tip": "Im Garten der Fondation Maeght.",
+            "emoji": "🎨"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Miró-labirintus",
+            "tip": "A Maeght Alapítvány kertjében.",
+            "emoji": "🎨"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Labyrinth Miro",
+            "tip": "În grădina Fundației Maeght.",
+            "emoji": "🎨"
+          }
+        ],
+        "en": [
+          {
+            "name": "Miro Labyrinth",
+            "tip": "In the Fondation Maeght garden.",
+            "emoji": "🎨"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kunstgalerien",
+            "tip": "In St. Paul de Vence."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Művészeti galériák",
+            "tip": "St. Paul de Vence-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerii de artă",
+            "tip": "În St. Paul de Vence."
+          }
+        ],
+        "en": [
+          {
+            "name": "Art Galleries",
+            "tip": "In St. Paul de Vence."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind für die Hügel empfehlenswert.",
+          "Vorsicht im Verkehr zwischen den Dörfern.",
+          "Parken Sie Fahrräder vor dem Eingang von St. Paul."
+        ],
+        "hu": [
+          "Az e-bike ajánlott a dombok miatt.",
+          "Vigyázzon a forgalomra a falvak között.",
+          "Parkolja le a biciklit St. Paul bejárata előtt."
+        ],
+        "ro": [
+          "Bicicletele electrice sunt recomandate pentru dealuri.",
+          "Atenție la trafic între sate.",
+          "Parcați bicicletele în fața intrării în St. Paul."
+        ],
+        "en": [
+          "E-bikes are recommended for the hills.",
+          "Careful with traffic between villages.",
+          "Park bikes before the entrance of St. Paul."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vence Altstadt",
+            "hu": "Vence óváros",
+            "ro": "Vence centrul vechi",
+            "en": "Vence Old Town"
+          },
+          "coords": [
+            7.1117,
+            43.7228
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Morgenspaziergang.",
+            "hu": "Reggeli séta.",
+            "ro": "Plimbare de dimineață.",
+            "en": "Morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourettes-sur-Loup",
+            "hu": "Tourettes-sur-Loup",
+            "ro": "Tourettes-sur-Loup",
+            "en": "Tourettes-sur-Loup"
+          },
+          "coords": [
+            7.0592,
+            43.7161
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Das Veilchendorf.",
+            "hu": "Az ibolyák faluja.",
+            "ro": "Satul violetelor.",
+            "en": "The violet village."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd a hegyekben",
+            "hu": "Ebéd a hegyekben",
+            "ro": "Prânz în munți",
+            "en": "Mountain Lunch"
+          },
+          "coords": [
+            7.0585,
+            43.7155
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hiesige Produkte.",
+            "hu": "Helyi termékek.",
+            "ro": "Produse locale.",
+            "en": "Local products."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorges du Loup",
+            "hu": "Farkas-szurdok",
+            "ro": "Cheile Loup",
+            "en": "Gorges du Loup"
+          },
+          "coords": [
+            6.9952,
+            43.7431
+          ],
+          "category": "nature",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Wasserfälle.",
+            "hu": "Vízesések.",
+            "ro": "Cascade.",
+            "en": "Waterfalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Saut du Loup",
+            "hu": "Saut du Loup",
+            "ro": "Saut du Loup",
+            "en": "Saut du Loup"
+          },
+          "coords": [
+            6.9935,
+            43.7445
+          ],
+          "category": "quiet",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Aussichtspunkt.",
+            "hu": "Kilátópont.",
+            "ro": "Punct panoramic.",
+            "en": "Viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das Hinterland von Nizza. Nach einem Besuch in Vence fahren Sie in das charmante mittelalterliche Dorf Tourettes-sur-Loup, das für seine Veilchen bekannt ist. Genießen Sie ein Mittagessen mit Aussicht, bevor Sie in die spektakulären Gorges du Loup eintauchen, wo Wasserfälle auf Kalksteinfelsen treffen.",
+        "hu": "Fedezze fel Nizza hátországát. Vence-i látogatása után autózzon át a bájos középkori Tourettes-sur-Loup-ba, amely ibolyáiról híres. Élvezze az ebédet pazar kilátással, majd merüljön el a látványos Farkas-szurdok (Gorges du Loup) világában, ahol vízesések törnek utat a sziklák között.",
+        "ro": "Descoperiți hinterlandul Nisei. După o vizită în Vence, conduceți spre fermecătorul sat medieval Tourettes-sur-Loup, cunoscut pentru violetele sale. Savurați un prânz cu priveliște, apoi intrați în spectaculoasele Chei ale Loup-ului (Gorges du Loup), unde cascadele întâlnesc stâncile calcaroase.",
+        "en": "Discover the hinterland of Nice. After a visit to Vence, drive to the charming medieval village of Tourettes-sur-Loup, famous for its violets. Enjoy lunch with a view before diving into the spectacular Gorges du Loup, where waterfalls meet limestone cliffs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Confiserie Florian",
+            "tip": "Kandierte Blumen und Früchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confiserie Florian",
+            "tip": "Kandírozott virágok és gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie Florian",
+            "tip": "Flori și fructe confiate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confiserie Florian",
+            "tip": "Candied flowers and fruits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saut du Loup",
+            "tip": "Panorama-Wasserfall.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saut du Loup",
+            "tip": "Panorámás vízesés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saut du Loup",
+            "tip": "Cascadă panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saut du Loup",
+            "tip": "Panoramic waterfall.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veilchenprodukte",
+            "tip": "In Tourettes-sur-Loup."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ibolyás termékek",
+            "tip": "Tourettes-sur-Loup-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu violete",
+            "tip": "În Tourettes-sur-Loup."
+          }
+        ],
+        "en": [
+          {
+            "name": "Violet products",
+            "tip": "In Tourettes-sur-Loup."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Enge Straßen in den Schluchten.",
+          "Parkplatz am Eingang von Tourettes nutzen.",
+          "Eintritt zum Saut du Loup ist kostenpflichtig."
+        ],
+        "hu": [
+          "Szűk utak a szurdokokban.",
+          "Használja a Tourettes bejáratánál lévő parkolót.",
+          "A Saut du Loup-hoz belépőjegy szükséges."
+        ],
+        "ro": [
+          "Drumuri înguste în chei.",
+          "Folosiți parcarea de la intrarea în Tourettes.",
+          "Intrarea la Saut du Loup este contra cost."
+        ],
+        "en": [
+          "Narrow roads in the gorges.",
+          "Use the parking at the entrance of Tourettes.",
+          "Entry to Saut du Loup requires a fee."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vence Haltestelle",
+            "hu": "Vence megálló",
+            "ro": "Stația Vence",
+            "en": "Vence Stop"
+          },
+          "coords": [
+            7.1117,
+            43.7228
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Busbahnhof.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stația centrală de autobuz.",
+            "en": "Central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Paul de Vence (Bus 400)",
+            "hu": "St. Paul de Vence (400-as busz)",
+            "ro": "St. Paul de Vence (Autobuz 400)",
+            "en": "St. Paul de Vence (Bus 400)"
+          },
+          "coords": [
+            7.1221,
+            43.6971
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Blick auf die Hügel.",
+            "hu": "Kilátás a dombokra.",
+            "ro": "Vedere spre dealuri.",
+            "en": "Hill views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd a faluban",
+            "hu": "Ebéd a faluban",
+            "ro": "Prânz în sat",
+            "en": "Lunch in the Village"
+          },
+          "coords": [
+            7.122,
+            43.697
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reservierung empfohlen.",
+            "hu": "Asztalfoglalás ajánlott.",
+            "ro": "Rezervarea recomandată.",
+            "en": "Reservation recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Cagnes-sur-Mer",
+            "hu": "Cagnes-sur-Mer",
+            "ro": "Cagnes-sur-Mer",
+            "en": "Cagnes-sur-Mer"
+          },
+          "coords": [
+            7.1458,
+            43.6631
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Renoir-Museum.",
+            "hu": "Renoir Múzeum.",
+            "ro": "Muzeul Renoir.",
+            "en": "Renoir Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Vence",
+            "hu": "Visszatérés Vence-be",
+            "ro": "Întoarcere în Vence",
+            "en": "Return to Vence"
+          },
+          "coords": [
+            7.1117,
+            43.7228
+          ],
+          "category": "quiet",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Letzte Busse prüfen.",
+            "hu": "Ellenőrizze az utolsó buszt.",
+            "ro": "Verificați ultimul autobuz.",
+            "en": "Check last buses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Busnetz (Linie 400), um die Region zu erkunden. Besuchen Sie morgens Vence, fahren Sie dann nach St. Paul de Vence und beenden Sie den Tag eventuell in Cagnes-sur-Mer, bevor Sie bequem mit dem Bus zurückfahren.",
+        "hu": "Használja a kiváló buszhálózatot (400-as vonal) a régió felfedezéséhez. Reggel látogassa meg Vence-t, majd utazzon át St. Paul de Vence-be, és zárja a napot Cagnes-sur-Merben, mielőtt kényelmesen visszatérne busszal.",
+        "ro": "Utilizați rețeaua excelentă de autobuze (linia 400) pentru a explora regiunea. Vizitați Vence dimineața, apoi mergeți la St. Paul de Vence și încheiați ziua în Cagnes-sur-Mer înainte de a reveni confortabil cu autobuzul.",
+        "en": "Use the excellent bus network (line 400) to explore the region. Visit Vence in the morning, then travel to St. Paul de Vence, and perhaps end the day in Cagnes-sur-Mer before returning comfortably by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Patisserie",
+            "tip": "Hiesiges Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Patisserie",
+            "tip": "Helyi sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Patisserie",
+            "tip": "Patiserie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Patisserie",
+            "tip": "Local pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kathedralenplatz",
+            "tip": "Ruhiger Platz am Nachmittag.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Székesegyház tér",
+            "tip": "Csendes tér délután.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Catedralei",
+            "tip": "Piață liniștită după-amiaza.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cathedral Square",
+            "tip": "Quiet square in the afternoon.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "Überall in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulazsákok",
+            "tip": "Mindenhol az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Peste tot în centrul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender bags",
+            "tip": "Everywhere in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buslinie 400 ist sehr zuverlässig.",
+          "Kleingeld für den Bus bereithalten.",
+          "Fahrpläne an den Haltestellen beachten."
+        ],
+        "hu": [
+          "A 400-as busz nagyon megbízható.",
+          "Legyen aprópénze a buszra.",
+          "Figyelje a menetrendet a megállókban."
+        ],
+        "ro": [
+          "Linia 400 este foarte fiabilă.",
+          "Aveți mărunțiș pentru autobuz.",
+          "Urmăriți orarul în stații."
+        ],
+        "en": [
+          "Bus line 400 is very reliable.",
+          "Have small change for the bus.",
+          "Check schedules at the stops."
+        ]
+      }
+    }
+  }
+}

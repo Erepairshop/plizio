@@ -1,0 +1,940 @@
+{
+  "city_id": "villefranche-sur-mer",
+  "anchor": {
+    "name": "Villefranche-sur-Mer",
+    "coords": [
+      7.3081,
+      43.7039
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Rue Obscure",
+          "coords": [
+            7.311,
+            43.7045
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie bis zum Ende, um die Lichteffekte zu sehen.",
+            "hu": "Sétáljon végig az alagútszerű utcán a fényhatásokért.",
+            "ro": "Mergeți până la capăt pentru a vedea jocurile de lumini.",
+            "en": "Walk to the end to see the unique light effects."
+          }
+        },
+        {
+          "name": "Église Saint-Michel",
+          "coords": [
+            7.3115,
+            43.7048
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die liegende Christusstatue.",
+            "hu": "Nézze meg a fekvő Krisztus-szobrot.",
+            "ro": "Admirați statuia lui Hristos culcat.",
+            "en": "Admire the reclining statue of Christ."
+          }
+        },
+        {
+          "name": "Citadelle Saint-Elme",
+          "coords": [
+            7.3115,
+            43.7025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Eintritt in die Museen ist kostenlos.",
+            "hu": "A citadella múzeumaiba ingyenes a belépés.",
+            "ro": "Intrarea în muzee este gratuită.",
+            "en": "Entry to the museums is free."
+          }
+        },
+        {
+          "name": "Musée Volti",
+          "coords": [
+            7.3112,
+            43.7028
+          ],
+          "category": "museums",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Bronzestatuen im Freien sind am schönsten.",
+            "hu": "A szabadtéri bronzszobrok a legszebbek.",
+            "ro": "Statuile de bronz în aer liber sunt cele mai frumoase.",
+            "en": "The outdoor bronze statues are the most beautiful."
+          }
+        },
+        {
+          "name": "Port de la Darse",
+          "coords": [
+            7.3075,
+            43.7015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Bootsreparaturen am Hafen.",
+            "hu": "Nézze meg a hajójavító műhelyeket a kikötőben.",
+            "ro": "Urmăriți reparațiile de bărci în port.",
+            "en": "Watch the boat repairs in the harbor."
+          }
+        },
+        {
+          "name": "Chapelle Saint-Pierre",
+          "coords": [
+            7.3118,
+            43.7042
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Von Jean Cocteau dekoriert, ein Muss.",
+            "hu": "Jean Cocteau díszítette, kötelező látnivaló.",
+            "ro": "Decorată de Jean Cocteau, o vizită obligatorie.",
+            "en": "Decorated by Jean Cocteau, a must-visit."
+          }
+        },
+        {
+          "name": "Plage des Marinières",
+          "coords": [
+            7.315,
+            43.706
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:00",
+          "stay_min": 140,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein Bad am späten Nachmittag.",
+            "hu": "Tökéletes hely egy késő délutáni úszáshoz.",
+            "ro": "Perfect pentru o baie târziu după-amiaza.",
+            "en": "Perfect for a late afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der geheimnisvollen Rue Obscure, bevor Sie die Barockpracht von Saint-Michel erkunden. Der Vormittag gehört der mächtigen Zitadelle und den Skulpturen von Volti. Genießen Sie ein Mittagessen am Port de la Darse. Am Nachmittag bewundern Sie Cocteaus Kunst in der Fischerkapelle und lassen den Tag entspannt am glitzernden Kiesstrand ausklingen.",
+        "hu": "Kezdje a reggelt a titokzatos Rue Obscure sikátorában, majd fedezze fel a Saint-Michel barokk pompáját. A délelőtt a hatalmas citadelláé és Volti szobraié. Ebédeljen a Port de la Darse kikötőjében. Délután csodálja meg Cocteau művészetét a halászkápolnában, majd zárja a napot pihenéssel a csillogó kavicsos strandon.",
+        "ro": "Începeți dimineața pe strada misterioasă Rue Obscure, înainte de a explora splendoarea barocă a Saint-Michel. Dimineața aparține cetății impunătoare și sculpturilor lui Volti. Savurați prânzul în Port de la Darse. După-amiaza, admirați arta lui Cocteau în capela pescarilor și încheiați ziua relaxându-vă pe plaja cu pietricele strălucitoare.",
+        "en": "Start your morning in the mysterious Rue Obscure before exploring the Baroque splendor of Saint-Michel. The morning belongs to the mighty citadel and Volti's sculptures. Enjoy lunch at Port de la Darse. In the afternoon, admire Cocteau's art in the fisherman's chapel and end the day relaxing on the shimmering pebble beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Mère Germaine",
+            "tip": "Legendäre Fischsuppe am Hafen."
+          },
+          {
+            "name": "Socca",
+            "tip": "Probieren Sie diesen Kichererbsenfladen am Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Mère Germaine",
+            "tip": "Legendás halleves a kikötőben."
+          },
+          {
+            "name": "Socca",
+            "tip": "Kóstolja meg ezt a csicseriborsó lepényt a piacon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Mère Germaine",
+            "tip": "Supă de pește legendară în port."
+          },
+          {
+            "name": "Socca",
+            "tip": "Gustați această clătită de năut la piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Mère Germaine",
+            "tip": "Legendary fish soup at the harbor."
+          },
+          {
+            "name": "Socca",
+            "tip": "Try this chickpea pancake at the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadellengarten",
+            "tip": "Ruhiger Blick über die Bucht.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Darse Kaimauer",
+            "tip": "Ideal für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella kertje",
+            "tip": "Csendes kilátás az öbölre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Darse móló",
+            "tip": "Ideális naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Cetății",
+            "tip": "Vedere liniștită asupra golfului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Digul Darse",
+            "tip": "Ideal pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Gardens",
+            "tip": "Quiet view over the bay.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Darse Sea Wall",
+            "tip": "Ideal for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Provenzalischer Markt",
+            "tip": "Frische Produkte am Sonntagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provence-i piac",
+            "tip": "Friss termékek vasárnap reggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Provensală",
+            "tip": "Produse proaspete duminică dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Provençal Market",
+            "tip": "Fresh produce on Sunday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen.",
+          "Besuchen Sie die Rue Obscure bei Hitze, es ist dort kühl.",
+          "Buchen Sie Restaurants am Wasser im Voraus.",
+          "Der Zugbahnhof ist direkt am Strand."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek utcákhoz.",
+          "Hőségben menjen a Rue Obscure-ba, ott hűvös van.",
+          "A vízparti éttermekbe foglaljon előre asztalt.",
+          "A vasútállomás közvetlenül a strand mellett található."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile abrupte.",
+          "Vizitați Rue Obscure pe caniculă, este răcoare acolo.",
+          "Rezervați din timp la restaurantele de pe malul mării.",
+          "Gara este chiar lângă plajă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep alleys.",
+          "Visit Rue Obscure during heat, it stays cool there.",
+          "Book waterfront restaurants in advance.",
+          "The train station is located right by the beach."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Citadelle Saint-Elme",
+          "coords": [
+            7.3115,
+            43.7025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrradständer am Eingang vorhanden.",
+            "hu": "Kerékpártároló a bejáratnál található.",
+            "ro": "Suporturi de biciclete disponibile la intrare.",
+            "en": "Bike racks available at the entrance."
+          }
+        },
+        {
+          "name": "Port de la Darse",
+          "coords": [
+            7.3075,
+            43.7015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ebener Weg am Wasser entlang.",
+            "hu": "Sík út a víz mentén.",
+            "ro": "Drum plat de-a lungul apei.",
+            "en": "Flat path along the water."
+          }
+        },
+        {
+          "name": "Villa Nellcôte (View)",
+          "coords": [
+            7.3245,
+            43.6935
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Blick auf das Haus der Rolling Stones.",
+            "hu": "Kilátás a Rolling Stones egykori házára.",
+            "ro": "Vedere către casa Rolling Stones.",
+            "en": "View of the Rolling Stones' former house."
+          }
+        },
+        {
+          "name": "Passable Beach (Cap Ferrat)",
+          "coords": [
+            7.3285,
+            43.6915
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schöner Stopp auf dem Weg zum Cap Ferrat.",
+            "hu": "Szép megálló a Cap Ferrat felé vezető úton.",
+            "ro": "O oprire frumoasă în drum spre Cap Ferrat.",
+            "en": "Beautiful stop on the way to Cap Ferrat."
+          }
+        },
+        {
+          "name": "Plage des Marinières",
+          "coords": [
+            7.315,
+            43.706
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf der Promenade.",
+            "hu": "Óvatosan kerekezzen a sétányon.",
+            "ro": "Mergeți cu atenție pe faleză.",
+            "en": "Ride carefully on the promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Bucht auf zwei Rädern. Von der Zitadelle radeln Sie zum historischen Darse-Hafen. Der Weg führt Sie weiter Richtung Cap Ferrat, mit einem Blick auf die berühmte Villa Nellcôte. Nach einem entspannten Mittagessen am Passable Beach geht es zurück zur Hauptbucht von Villefranche für ein erfrischendes Bad.",
+        "hu": "Fedezze fel az öblöt két keréken. A citadellától tekerjen a történelmi Darse kikötőhöz. Az út a Cap Ferrat felé folytatódik, kilátással a híres Villa Nellcôte-ra. Egy kellemes ebéd után a Passable strandon térjen vissza Villefranche fő öblébe egy frissítő csobbanásra.",
+        "ro": "Explorați golful pe două roți. De la cetate, pedalați spre portul istoric Darse. Drumul continuă spre Cap Ferrat, cu o vedere spre faimoasa Villa Nellcôte. După un prânz relaxat pe plaja Passable, reveniți în golful principal din Villefranche pentru o baie răcoritoare.",
+        "en": "Explore the bay on two wheels. From the citadel, cycle to the historic Darse harbor. The path leads you towards Cap Ferrat, with a view of the famous Villa Nellcôte. After a relaxed lunch at Passable Beach, head back to the main bay of Villefranche for a refreshing swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Grill",
+            "tip": "Leichte Salate für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Grill",
+            "tip": "Könnyű saláták kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Grill",
+            "tip": "Salate ușoare pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Grill",
+            "tip": "Light salads for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap Ferrat Pfad",
+            "tip": "Wunderschöne Meeresbrise.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Ferrat ösvény",
+            "tip": "Csodás tengeri szellő.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca Cap Ferrat",
+            "tip": "Briză marină minunată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap Ferrat Path",
+            "tip": "Beautiful sea breeze.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo Shop",
+            "tip": "Ausrüstung und Karten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo Shop",
+            "tip": "Felszerelés és régiós térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velo Shop",
+            "tip": "Echipament și hărți ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo Shop",
+            "tip": "Gear and regional maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Hauptstraße M6098; nutzen Sie Nebenwege.",
+          "Nehmen Sie viel Wasser mit, es gibt wenig Schatten.",
+          "Sichern Sie Ihr Rad immer gut ab.",
+          "Die Promenade ist in der Hochsaison belebt."
+        ],
+        "hu": [
+          "Kerülje az M6098 főutat, használja a mellékutakat.",
+          "Vigyen sok vizet, kevés az árnyék.",
+          "Mindig jól zárja le a kerékpárját.",
+          "A sétány a főszezonban nagyon zsúfolt."
+        ],
+        "ro": [
+          "Evitați drumul principal M6098; folosiți rute secundare.",
+          "Luați multă apă, este puțină umbră.",
+          "Asigurați-vă întotdeauna bine bicicleta.",
+          "Faleza este aglomerată în plin sezon."
+        ],
+        "en": [
+          "Avoid the main M6098 road; use side paths.",
+          "Carry plenty of water, there is little shade.",
+          "Always lock your bike securely.",
+          "The promenade is busy during high season."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fort du Mont Alban",
+          "coords": [
+            7.2995,
+            43.7025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf Nizza und Villefranche.",
+            "hu": "A legjobb panoráma Nizzára és Villefranche-ra.",
+            "ro": "Cea mai bună vedere panoramică spre Nisa și Villefranche.",
+            "en": "Best panoramic view of Nice and Villefranche."
+          }
+        },
+        {
+          "name": "Citadelle Saint-Elme",
+          "coords": [
+            7.3115,
+            43.7025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Eingang der Zitadelle.",
+            "hu": "Parkoló közvetlenül a citadella bejáratánál.",
+            "ro": "Parcare chiar la intrarea în cetate.",
+            "en": "Parking right at the citadel entrance."
+          }
+        },
+        {
+          "name": "Eze Village (Nearby)",
+          "coords": [
+            7.3625,
+            43.7275
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher in das Bergdorf lohnt sich.",
+            "hu": "Egy rövid kitérő a hegyi faluba megéri.",
+            "ro": "O scurtă abatere spre satul de munte merită.",
+            "en": "A short detour to the hilltop village is worth it."
+          }
+        },
+        {
+          "name": "Villa Ephrussi de Rothschild",
+          "coords": [
+            7.3325,
+            43.6945
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die thematischen Gärten.",
+            "hu": "Látogassa meg a tematikus kerteket.",
+            "ro": "Vizitați grădinile tematice.",
+            "en": "Visit the themed gardens."
+          }
+        },
+        {
+          "name": "Plage des Marinières",
+          "coords": [
+            7.315,
+            43.706
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Bahnhof.",
+            "hu": "Nagy parkoló a vasútállomásnál.",
+            "ro": "Parcare mare la gară.",
+            "en": "Large parking lot by the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die besten Aussichtspunkte. Starten Sie am Fort du Mont Alban für ein Panorama der Extraklasse. Nach der Besichtigung der Zitadelle führt die Fahrt zum nahegelegenen Eze Village. Den Nachmittag verbringen Sie in den prachtvollen Gärten der Villa Rothschild, bevor Sie zum Strand von Villefranche zurückkehren.",
+        "hu": "Autóval elérheti a legjobb kilátópontokat. Kezdjen a Fort du Mont Alban-nál a lenyűgöző panorámáért. A citadella után az út a közeli Eze faluba vezet. A délutánt a Villa Rothschild pompás kertjeiben töltse, mielőtt visszatérne Villefranche strandjára.",
+        "ro": "Cu mașina ajungeți la cele mai bune puncte de belvedere. Începeți la Fort du Mont Alban pentru o panoramă de excepție. După vizitarea cetății, drumul duce spre satul apropiat Eze. Petreceți după-amiaza în grădinile superbe ale Vilei Rothschild, înainte de a reveni la plaja din Villefranche.",
+        "en": "By car, you can reach the best viewpoints. Start at Fort du Mont Alban for a world-class panorama. After visiting the citadel, drive to the nearby Eze Village. Spend the afternoon in the magnificent gardens of Villa Rothschild before returning to the beach in Villefranche."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Nid d'Aigle (Eze)",
+            "tip": "Essen mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Nid d'Aigle (Eze)",
+            "tip": "Étkezés kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Nid d'Aigle (Eze)",
+            "tip": "Masă cu priveliște."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Nid d'Aigle (Eze)",
+            "tip": "Dining with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grande Corniche",
+            "tip": "Wilde Natur und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grande Corniche",
+            "tip": "Vadon élő természet és csend.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grande Corniche",
+            "tip": "Natură sălbatică și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grande Corniche",
+            "tip": "Wild nature and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fragonard (Eze)",
+            "tip": "Parfüm direkt ab Werk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fragonard (Eze)",
+            "tip": "Parfüm közvetlenül a gyárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fragonard (Eze)",
+            "tip": "Parfum direct de la fabrică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragonard (Eze)",
+            "tip": "Perfume direct from the factory."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Sommer schwierig und teuer.",
+          "Nutzen Sie die Park-Apps der Region.",
+          "Die Küstenstraßen sind kurvenreich aber schön.",
+          "Vermeiden Sie die Stoßzeiten Richtung Nizza."
+        ],
+        "hu": [
+          "A parkolás nyáron nehézkes és drága.",
+          "Használja a régió parkolási alkalmazásait.",
+          "A part menti utak kanyargósak, de gyönyörűek.",
+          "Kerülje a csúcsforgalmat Nizza felé."
+        ],
+        "ro": [
+          "Parcarea este dificilă și scumpă vara.",
+          "Folosiți aplicațiile de parcare ale regiunii.",
+          "Drumurile de coastă sunt virajate, dar frumoase.",
+          "Evitați orele de vârf spre Nisa."
+        ],
+        "en": [
+          "Parking is difficult and expensive in summer.",
+          "Use the regional parking apps.",
+          "Coastal roads are winding but beautiful.",
+          "Avoid rush hours towards Nice."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Gare de Villefranche",
+          "coords": [
+            7.3155,
+            43.7055
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein Tagesticket für den TER.",
+            "hu": "Vásároljon napijegyet a TER vonatokra.",
+            "ro": "Cumpărați un abonament de o zi pentru TER.",
+            "en": "Buy a day pass for the TER trains."
+          }
+        },
+        {
+          "name": "Église Saint-Michel",
+          "coords": [
+            7.3115,
+            43.7048
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Bahnhof ca. 10 Min. zu Fuß.",
+            "hu": "Az állomástól kb. 10 perc gyalog.",
+            "ro": "La aproximativ 10 minute de mers de la gară.",
+            "en": "About 10 min walk from the station."
+          }
+        },
+        {
+          "name": "Citadelle Saint-Elme",
+          "coords": [
+            7.3115,
+            43.7025
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eingang über die Steinbrücke.",
+            "hu": "Bejárat a kőhídon keresztül.",
+            "ro": "Intrarea se face pe podul de piatră.",
+            "en": "Entry via the stone bridge."
+          }
+        },
+        {
+          "name": "Port de la Darse",
+          "coords": [
+            7.3075,
+            43.7015
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Buslinie 15 hält in der Nähe.",
+            "hu": "A 15-ös busz megáll a közelben.",
+            "ro": "Linia de autobuz 15 oprește în apropiere.",
+            "en": "Bus line 15 stops nearby."
+          }
+        },
+        {
+          "name": "Plage des Marinières",
+          "coords": [
+            7.315,
+            43.706
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Direkt neben der Bahnhaltestelle.",
+            "hu": "Közvetlenül a vasúti megálló mellett.",
+            "ro": "Chiar lângă stația de tren.",
+            "en": "Right next to the train stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Zug und die Busse, um stressfrei anzukommen. Starten Sie am malerischen Bahnhof direkt am Meer. Besuchen Sie die Altstadt und die barocke Kirche Saint-Michel zu Fuß. Die Zitadelle und der Hafen Darse sind gut erreichbar. Den Rest des Tages verbringen Sie am Hauptstrand, nur wenige Schritte vom Gleis entfernt.",
+        "hu": "Használja a vonatot és a buszokat a stresszmentes közlekedéshez. Kezdjen a festői vasútállomáson közvetlenül a tengerparton. Gyalog fedezze fel az óvárost és a barokk Saint-Michel templomot. A citadella és a Darse kikötő könnyen elérhető. A nap hátralévő részét töltse a fő strandon, pár lépésre a perontól.",
+        "ro": "Folosiți trenul și autobuzele pentru a ajunge fără stres. Începeți la gara pitorească de pe malul mării. Explorați orașul vechi și biserica barocă Saint-Michel pe jos. Cetatea și portul Darse sunt ușor accesibile. Petreceți restul zilei pe plaja principală, la doar câțiva pași de peron.",
+        "en": "Use the train and buses for a stress-free arrival. Start at the picturesque train station right by the sea. Explore the old town and the Baroque Saint-Michel church on foot. The citadel and Darse harbor are easily accessible. Spend the rest of the day at the main beach, just a few steps from the platform."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Snack de la Plage",
+            "tip": "Günstig und gut am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snack de la Plage",
+            "tip": "Olcsó és jó a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snack de la Plage",
+            "tip": "Ieftin și bun pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snack de la Plage",
+            "tip": "Cheap and good at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsterrasse",
+            "tip": "Blick auf die einfahrenden Züge.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasúti terasz",
+            "tip": "Kilátás az érkező vonatokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa gării",
+            "tip": "Vedere către trenurile care sosesc.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Terrace",
+            "tip": "View of the arriving trains.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Relay",
+            "tip": "Regionale Zeitungen und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Relay",
+            "tip": "Regionális újságok és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Relay",
+            "tip": "Ziare regionale și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Relay",
+            "tip": "Regional newspapers and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der TER-Zug verbindet Nizza und Monaco alle 30 Min.",
+          "Laden Sie die 'SNCF Connect' App herunter.",
+          "Fahrkartenautomaten stehen am Bahnsteig.",
+          "Die Buslinie 100 bietet tolle Ausblicke."
+        ],
+        "hu": [
+          "A TER vonat 30 percenként jár Nizza és Monaco között.",
+          "Töltse le az 'SNCF Connect' alkalmazást.",
+          "Jegyautomaták a peronon találhatók.",
+          "A 100-as buszjáratról remek a kilátás."
+        ],
+        "ro": [
+          "Trenul TER leagă Nisa și Monaco la fiecare 30 min.",
+          "Descărcați aplicația 'SNCF Connect'.",
+          "Automatele de bilete sunt pe peron.",
+          "Linia de autobuz 100 oferă priveliști superbe."
+        ],
+        "en": [
+          "The TER train connects Nice and Monaco every 30 min.",
+          "Download the 'SNCF Connect' app.",
+          "Ticket machines are on the platform.",
+          "Bus line 100 offers great views."
+        ]
+      }
+    }
+  }
+}

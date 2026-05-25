@@ -1,0 +1,676 @@
+{
+  "city_id": "fecamp",
+  "anchor": {
+    "name": "Fécamp",
+    "coords": [
+      0.3744,
+      49.7569
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais Bénédictine",
+            "hu": "Bencés palota",
+            "ro": "Palatul Bénédictine",
+            "en": "Palais Bénédictine"
+          },
+          "coords": [
+            0.3705,
+            49.7585
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Likör.",
+            "hu": "Kóstolja meg a híres likőrt.",
+            "ro": "Gustați celebrul lichior.",
+            "en": "Taste the famous herbal liqueur."
+          }
+        },
+        {
+          "name": {
+            "de": "Abteikirche Sainte-Trinité",
+            "hu": "Szent Háromság apátsági templom",
+            "ro": "Biserica Abației Sainte-Trinité",
+            "en": "Holy Trinity Abbey Church"
+          },
+          "coords": [
+            0.378,
+            49.755
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gotische Architektur.",
+            "hu": "Csodálja meg a gótikus belsőt.",
+            "ro": "Admirați interiorul gotic.",
+            "en": "Admire the Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Pêcheries",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescuitului",
+            "en": "Musée des Pêcheries"
+          },
+          "coords": [
+            0.3725,
+            49.761
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Blick von der Dachterrasse genießen.",
+            "hu": "Élvezze a kilátást a tetőteraszról.",
+            "ro": "Bucurați-vă de panorama de pe terasă.",
+            "en": "Enjoy the view from the rooftop terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            0.366,
+            49.7625
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang auf den Kieselsteinen.",
+            "hu": "Séta a kavicsos parton.",
+            "ro": "O plimbare pe malul mării.",
+            "en": "A long walk on the pebble beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Fécamp",
+            "hu": "Fécamp kikötője",
+            "ro": "Portul Fécamp",
+            "en": "Fécamp Harbour"
+          },
+          "coords": [
+            0.371,
+            49.7595
+          ],
+          "category": "landmark",
+          "arrive_at": "16:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote.",
+            "hu": "Nézze meg a halászhajókat.",
+            "ro": "Priviți ambarcațiunile de pescuit.",
+            "en": "Watch the traditional fishing boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im majestätischen Palais Bénédictine, wo Kunst und Brennerei aufeinandertreffen. Mittags erkunden Sie die maritime Geschichte im Musée des Pêcheries und genießen den Hafenflair. Der Nachmittag gehört der Entspannung am weiten Kieselstrand. Den Abend lassen Sie bei einem Spaziergang am Yachthafen ausklingen.",
+        "hu": "Kezdje a napot a fenséges Bencés palotában, ahol a művészet és a likőrgyártás találkozik. Délben fedezze fel a tengeri múltat a Halászati Múzeumban, majd élvezze a kikötő hangulatát. A délutánt töltse a széles kavicsos strandon pihenve. Az estét zárja egy kellemes sétával a jachtkikötő mentén.",
+        "ro": "Începeți ziua la maiestuosul Palat Bénédictine, unde arta se întâlnește cu distileria. La prânz, explorați istoria maritimă la Muzeul Pescuitului și bucurați-vă de atmosfera portului. După-amiaza este dedicată relaxării pe plaja vastă cu pietriș. Încheiați seara cu o plimbare relaxantă de-a lungul portului de agrement.",
+        "en": "Start your day at the majestic Palais Bénédictine, where art meets the distillery craft. At midday, explore maritime history at the Musée des Pêcheries and soak up the harbour vibe. Spend the afternoon relaxing on the wide pebble beach. End your evening with a pleasant stroll along the marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Boucane",
+            "tip": "Frischer Fisch direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Vicomté",
+            "tip": "Hagyományos normandiai konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Nounoute",
+            "tip": "Fructe de mare proaspete și locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Le Barbacane",
+            "tip": "Excellent seafood near the palace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap Fagnet",
+            "tip": "Stille über den Klippen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keresztény kápolna",
+            "tip": "Békés hely a dombtetőn.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza înaltă",
+            "tip": "Liniște deasupra mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "North Pier",
+            "tip": "Quiet spot for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bénédictine Boutique",
+            "tip": "Likör und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi halpiac",
+            "tip": "Friss fogás reggelente."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Jacques Huet",
+            "tip": "Mici magazine artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Postcards and local books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Kieselstrand.",
+          "Der Likör ist stark, genießen Sie ihn in Maßen.",
+          "Reservieren Sie im Restaurant La Boucane vorab."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kavicsos strandhoz.",
+          "A likőr erős, óvatosan kóstolja.",
+          "Érdemes asztalt foglalni a kikötői éttermekben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru plaja cu pietriș.",
+          "Lichiorul este tare, savurați-l cu moderație.",
+          "Rezervați din timp masă la restaurantele din port."
+        ],
+        "en": [
+          "Wear comfortable shoes for the pebble beach.",
+          "The liqueur is quite strong, sip slowly.",
+          "Book your table in advance for harbour-side dining."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Fécamp",
+            "en": "Fécamp Harbour"
+          },
+          "coords": [
+            0.371,
+            49.7595
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Indulás a kerékpárúton."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Fagnet",
+            "en": "Cap Fagnet"
+          },
+          "coords": [
+            0.3705,
+            49.771
+          ],
+          "category": "panorama",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Alabasterküste."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Bénédictine",
+            "en": "Palais Bénédictine"
+          },
+          "coords": [
+            0.3705,
+            49.7585
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "ro": "O capodoperă arhitecturală."
+          }
+        },
+        {
+          "name": {
+            "de": "Senneville-sur-Fécamp",
+            "en": "Senneville"
+          },
+          "coords": [
+            0.415,
+            49.775
+          ],
+          "category": "village",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "en": "Charming village nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade",
+            "en": "Promenade"
+          },
+          "coords": [
+            0.366,
+            49.7625
+          ],
+          "category": "beach",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "hu": "Frissítő szél a parton."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie hinauf zum Cap Fagnet für eine spektakuläre Aussicht.",
+        "hu": "Tekerjen fel a Cap Fagnet-hoz a lenyűgöző panorámáért.",
+        "ro": "Pedalați până la Cap Fagnet pentru o priveliște spectaculoasă.",
+        "en": "Cycle up to Cap Fagnet for spectacular cliff views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Marine",
+            "tip": "Guter Stopp für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Creperie",
+            "tip": "Helyi palacsinta a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro du Port",
+            "tip": "Prânz rapid și bun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fisherman's Hut",
+            "tip": "Fresh snacks by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippenpfad",
+            "tip": "Ruhiger Radweg.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Regionale Produkte."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Anstieg zum Cap ist steil.",
+          "Nutzen Sie die Küstenradwege."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fécamp Stadtzentrum",
+            "en": "Fécamp Center"
+          },
+          "coords": [
+            0.3744,
+            49.7569
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "hu": "Parkoljon a kikötő közelében."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais Bénédictine",
+            "en": "Palais Bénédictine"
+          },
+          "coords": [
+            0.3705,
+            49.7585
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geführte Touren sind möglich."
+          }
+        },
+        {
+          "name": {
+            "de": "Yport",
+            "en": "Yport"
+          },
+          "coords": [
+            0.315,
+            49.738
+          ],
+          "category": "village",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "ro": "Un sat pitoresc de pescari."
+          }
+        },
+        {
+          "name": {
+            "de": "Étretat (Klippen)",
+            "en": "Étretat Cliffs"
+          },
+          "coords": [
+            0.205,
+            49.707
+          ],
+          "category": "panorama",
+          "arrive_at": "14:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "en": "The famous needle rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Fagnet",
+            "en": "Cap Fagnet"
+          },
+          "coords": [
+            0.3705,
+            49.771
+          ],
+          "category": "sunset",
+          "arrive_at": "17:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "hu": "A naplemente legjobb helye."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Fécamp und fahren Sie dann ins malerische Yport und zu den weltberühmten Klippen von Étretat.",
+        "hu": "Fedezze fel Fécampot, majd látogasson el a festői Yportba és Étretat világhírű szikláihoz.",
+        "ro": "Descoperiți Fécamp, apoi vizitați pitorescul Yport și faimoasele stânci de la Étretat.",
+        "en": "Discover Fécamp, then drive to picturesque Yport and the world-famous cliffs of Étretat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Galion",
+            "tip": "Gehobene Küche in Étretat."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sirène",
+            "tip": "Osztriga a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistretat",
+            "tip": "Specialități normande."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Phare",
+            "tip": "Seafood with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle Notre-Dame",
+            "tip": "Stille Kapelle am Cap.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cidre-Bauernhof",
+            "tip": "Kaufen Sie lokalen Apfelwein."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Étretat kann schwierig sein.",
+          "Besuchen Sie die Klippen bei Ebbe."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 6.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Fécamp",
+            "en": "Fécamp Station"
+          },
+          "coords": [
+            0.38,
+            49.756
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Központi csomópont."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Sainte-Trinité",
+            "en": "Holy Trinity Abbey"
+          },
+          "coords": [
+            0.378,
+            49.755
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt vom Bahnhof."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Pêcheries",
+            "en": "Musée des Pêcheries"
+          },
+          "coords": [
+            0.3725,
+            49.761
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "ro": "Lângă port."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino / Strand",
+            "en": "Casino / Beach"
+          },
+          "coords": [
+            0.366,
+            49.7625
+          ],
+          "category": "beach",
+          "arrive_at": "13:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Relax after the museum visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zwischen Bahnhof, Abtei und Hafenviertel zu pendeln.",
+        "hu": "Használja a helyi buszt az állomás, az apátság és a kikötő közötti utazáshoz.",
+        "ro": "Folosiți autobuzul local pentru a circula între gară, abație și zona portului.",
+        "en": "Use the local bus to travel between the station, abbey, and the harbour district."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Assiette",
+            "tip": "Gutes Preis-Leistungs-Verhältnis."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place de l'Hôtel de Ville",
+            "tip": "Ruhiger Platz.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Super U",
+            "tip": "Lokale Produkte günstig."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse fahren nicht sehr oft.",
+          "Überprüfen Sie den Fahrplan."
+        ]
+      }
+    }
+  }
+}

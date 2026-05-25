@@ -1,0 +1,978 @@
+{
+  "city_id": "saint-emilion",
+  "anchor": {
+    "name": "Saint-Émilion",
+    "coords": [
+      -0.1592,
+      44.8939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            -0.1556,
+            44.8938
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Espresso im Schatten der alten Steinmauern.",
+            "hu": "Igyon egy eszpresszót a régi kőfalak árnyékában.",
+            "ro": "Beți un espresso la umbra vechilor ziduri de piatră.",
+            "en": "Enjoy an espresso in the shade of the ancient stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Monolithische Kirche",
+            "hu": "Monolit-templom",
+            "ro": "Biserica Monolit",
+            "en": "Monolithic Church"
+          },
+          "coords": [
+            -0.1558,
+            44.8935
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Buchen Sie die Führung im Voraus, der Zugang ist begrenzt.",
+            "hu": "Foglaljon vezetést előre, a bejutás korlátozott.",
+            "ro": "Rezervați turul în avans, accesul este limitat.",
+            "en": "Book your tour in advance as access is strictly controlled."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm",
+            "hu": "Harangtorony",
+            "ro": "Turnul cu clopot",
+            "en": "Bell Tower"
+          },
+          "coords": [
+            -0.1557,
+            44.8937
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der beste Panoramablick über die Dächer der Stadt.",
+            "hu": "A legjobb panoráma a város háztetőire.",
+            "ro": "Cea mai bună panoramă asupra acoperișurilor orașului.",
+            "en": "The best panoramic view over the town's terracotta roofs."
+          }
+        },
+        {
+          "name": {
+            "de": "Cordeliers-Kreuzgang",
+            "hu": "Cordeliers kolostor",
+            "ro": "Mănăstirea Cordeliers",
+            "en": "Cordeliers Cloister"
+          },
+          "coords": [
+            -0.154,
+            44.8945
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den Sekt im historischen Garten.",
+            "hu": "Kóstolja meg a pezsgőt a történelmi kertben.",
+            "ro": "Gustați vinul spumant în grădina istorică.",
+            "en": "Try the sparkling wine (Crémant) in the historic garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Königsturm (Tour du Roy)",
+            "hu": "Király-torony",
+            "ro": "Turnul Regelui",
+            "en": "King's Keep"
+          },
+          "coords": [
+            -0.1575,
+            44.8925
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier verkündet die Jurade im September die Weinlese.",
+            "hu": "Innen hirdeti ki a Jurade szeptemberben a szüretet.",
+            "ro": "De aici, Jurade anunță recolta în septembrie.",
+            "en": "The Jurade announces the grape harvest from here in September."
+          }
+        },
+        {
+          "name": {
+            "de": "Macarons de Saint-Émilion",
+            "hu": "Saint-Émilion-i makaron",
+            "ro": "Macarons de Saint-Émilion",
+            "en": "Saint-Émilion Macarons"
+          },
+          "coords": [
+            -0.155,
+            44.8942
+          ],
+          "category": "shopping",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Originalrezept von 1620 kaufen, nicht die bunten.",
+            "hu": "Az 1620-as eredeti receptet vegye, ne a színeseket.",
+            "ro": "Cumpărați rețeta originală din 1620, nu cele colorate.",
+            "en": "Buy the original 1620 recipe, not the colorful modern ones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen des UNESCO-Weltkulturerbes. Die Monolithische Kirche, die vollständig aus einem einzigen Kalksteinblock gehauen wurde, ist ein architektonisches Wunderwerk. Mittags genießen Sie die Ruhe im gotischen Kreuzgang der Cordeliers bei einem Glas lokalen Crémant.\n\nNachmittags erkunden Sie die steilen Gassen (Tertres) und erklimmen den Königsturm für einen Blick über das Dordogne-Tal. Beenden Sie den Tag mit dem Duft von frisch gebackenen Macarons, einer lokalen Spezialität seit dem 17. Jahrhundert.",
+        "hu": "Kezdje a napot az UNESCO Világörökség szívében. A teljesen egyetlen mészkőtömbből kivájt Monolit-templom építészeti csoda. Délben élvezze a Cordeliers gótikus kolostorának nyugalmát egy pohár helyi Crémant pezsgő mellett.\n\nDélután fedezze fel a meredek sikátorokat (Tertres), és másszon fel a Király-toronyba a Dordogne-völgyre nyíló kilátásért. Zárja a napot a frissen sült makaron illatával, amely a 17. század óta helyi specialitás.",
+        "ro": "Începeți ziua în inima Patrimoniului Mondial UNESCO. Biserica Monolit, săpată în întregime într-un singur bloc de calcar, este o minune arhitecturală. La prânz, bucurați-vă de liniștea claustrului gotic Cordeliers cu un pahar de Crémant local.\n\nDupă-amiaza, explorați străduțele abrupte (Tertres) și urcați în Turnul Regelui pentru o vedere asupra văii Dordogne. Încheiați ziua cu parfumul de macarons proaspăt copți, o specialitate locală încă din secolul al XVII-lea.",
+        "en": "Start your day in the heart of this UNESCO World Heritage site. The Monolithic Church, carved entirely from a single limestone block, is an architectural marvel. At midday, enjoy the peace of the Cordeliers' Gothic cloister with a glass of local sparkling wine.\n\nIn the afternoon, explore the steep alleys known as 'tertres' and climb the King's Keep for views over the Dordogne Valley. End your day with the scent of freshly baked macarons, a local specialty since the 17th century."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Entrecôte à la Bordelaise",
+            "tip": "In Rotwein mit Schalotten zubereitet."
+          },
+          {
+            "name": "Macarons Nadia Fermigier",
+            "tip": "Das authentische Rezept der Nonnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Entrecôte à la Bordelaise",
+            "tip": "Vörösborban, mogyoróhagymával készítve."
+          },
+          {
+            "name": "Macarons Nadia Fermigier",
+            "tip": "Az apácák eredeti receptje alapján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Entrecôte à la Bordelaise",
+            "tip": "Gătit în vin roșu cu șalote."
+          },
+          {
+            "name": "Macarons Nadia Fermigier",
+            "tip": "Rețeta autentică a călugărițelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Entrecôte à la Bordelaise",
+            "tip": "Ribsteak cooked in red wine with shallots."
+          },
+          {
+            "name": "Macarons Nadia Fermigier",
+            "tip": "The authentic recipe from the local nuns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tour du Roy Gärten",
+            "tip": "Ruhiger Platz unterhalb des Turms.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Logis de la Cadène",
+            "tip": "Versteckte Ecke bei der alten Pforte.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tour du Roy kertek",
+            "tip": "Csendes hely a torony alatt.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Logis de la Cadène",
+            "tip": "Rejtett zug a régi kapunál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Tour du Roy",
+            "tip": "Loc liniștit sub turn.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Logis de la Cadène",
+            "tip": "Colț ascuns lângă poarta veche.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tour du Roy Gardens",
+            "tip": "Quiet spot below the keep.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Logis de la Cadène",
+            "tip": "Hidden corner near the old gate.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Établissements Martin",
+            "tip": "Hervorragende Weinauswahl."
+          },
+          {
+            "name": "Fabrique de Macarons",
+            "tip": "Frische Kekse zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Établissements Martin",
+            "tip": "Kiváló borválaszték."
+          },
+          {
+            "name": "Fabrique de Macarons",
+            "tip": "Friss sütemények elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Établissements Martin",
+            "tip": "Selecție excelentă de vinuri."
+          },
+          {
+            "name": "Fabrique de Macarons",
+            "tip": "Fursecuri proaspete la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Établissements Martin",
+            "tip": "Excellent local wine selection."
+          },
+          {
+            "name": "Fabrique de Macarons",
+            "tip": "Fresh cookies to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, das Kopfsteinpflaster ist sehr uneben.",
+          "Die Stadt ist an Wochenenden sehr voll, kommen Sie früh.",
+          "Parken Sie auf dem Parkplatz Espace Guadet.",
+          "Probieren Sie Wein in den Kellern der Stadt, oft kostenlos."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, a macskakő nagyon egyenetlen.",
+          "A város hétvégente zsúfolt, érkezzen korán.",
+          "Parkoljon az Espace Guadet parkolóban.",
+          "Kóstoljon bort a városi pincékben, gyakran ingyenes."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, pavajul este foarte denivelat.",
+          "Orașul este aglomerat în weekend, veniți devreme.",
+          "Parcați în parcarea Espace Guadet.",
+          "Degustați vin în cramele din oraș, adesea gratuit."
+        ],
+        "en": [
+          "Wear comfortable shoes as the cobblestones are very uneven.",
+          "The town gets crowded on weekends; try to arrive early.",
+          "Park at the Espace Guadet parking lot at the top of the town.",
+          "Wine tastings in town shops are often free or low cost."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfzentrum",
+            "hu": "Falu központja",
+            "ro": "Centrul satului",
+            "en": "Village Center"
+          },
+          "coords": [
+            -0.1556,
+            44.8938
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Place Créneau.",
+            "hu": "Kezdje a túrát a Place Créneau-nál.",
+            "ro": "Începeți turul la Place Créneau.",
+            "en": "Start your ride from Place Créneau."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Pavie Weinberge",
+            "hu": "Château Pavie szőlők",
+            "ro": "Viile Château Pavie",
+            "en": "Château Pavie Vineyards"
+          },
+          "coords": [
+            -0.151,
+            44.886
+          ],
+          "category": "agriculture",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wunderbarer Blick auf die Steilhänge.",
+            "hu": "Csodás kilátás a meredek lejtőkre.",
+            "ro": "Vedere minunată asupra versanților abrupți.",
+            "en": "Stunning views of the steep limestone slopes."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick im Weinberg",
+            "hu": "Piknik a szőlőben",
+            "ro": "Picnic în vie",
+            "en": "Vineyard Picnic"
+          },
+          "coords": [
+            -0.145,
+            44.898
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bringen Sie Käse und Baguette aus dem Dorf mit.",
+            "hu": "Hozzanak sajtot és bagettet a faluból.",
+            "ro": "Aduceți brânză și baghetă din sat.",
+            "en": "Bring local cheese and baguette from the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Château La Dominique",
+            "hu": "Château La Dominique",
+            "ro": "Château La Dominique",
+            "en": "Château La Dominique"
+          },
+          "coords": [
+            -0.182,
+            44.918
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Moderne Architektur trifft auf Weintradition.",
+            "hu": "Modern építészet találkozása a borral.",
+            "ro": "Arhitectură modernă întâlnește tradiția vinului.",
+            "en": "Modern architecture meets wine tradition."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die berühmten Weinberge von Saint-Émilion auf zwei Rädern. Radeln Sie entlang der Grand-Cru-Anwesen und genießen Sie die hügelige Landschaft.\n\nNach einem Picknick zwischen den Reben besuchen Sie moderne Weingüter wie La Dominique, bevor Sie am späten Nachmittag zurück ins mittelalterliche Dorf fahren.",
+        "hu": "Fedezze fel Saint-Émilion híres szőlőültetvényeit két keréken. Biciklizzen a Grand Cru birtokok mentén, és élvezze a dombos tájat.\n\nEgy szőlősorok közötti piknik után látogasson el modern borászatokhoz, mint a La Dominique, mielőtt késő délután visszatérne a középkori faluba.",
+        "ro": "Explorați faimoasele podgorii din Saint-Émilion pe două roți. Pedalați pe lângă domeniile Grand Cru și bucurați-vă de peisajul deluros.\n\nDupă un picnic între vii, vizitați crame moderne precum La Dominique, înainte de a vă întoarce în satul medieval târziu după-amiaza.",
+        "en": "Explore the world-famous vineyards of Saint-Émilion on two wheels. Cycle past prestigious Grand Cru estates and enjoy the rolling limestone landscape.\n\nAfter a picnic among the vines, visit contemporary wineries like La Dominique before heading back to the medieval village in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Ziegenkäse",
+            "tip": "Perfekt für das Picknick."
+          },
+          {
+            "name": "Saint-Émilion Grand Cru",
+            "tip": "Direkt ab Weingut kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kecskesajt",
+            "tip": "Tökéletes a piknikhez."
+          },
+          {
+            "name": "Saint-Émilion Grand Cru",
+            "tip": "Vásároljon közvetlenül a borászatnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de capră locală",
+            "tip": "Perfectă pentru picnic."
+          },
+          {
+            "name": "Saint-Émilion Grand Cru",
+            "tip": "Cumpărați direct de la cramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local goat cheese",
+            "tip": "Ideal for a vineyard picnic."
+          },
+          {
+            "name": "Saint-Émilion Grand Cru",
+            "tip": "Buy directly from the estate."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberg-Pfade",
+            "tip": "Abseits der Hauptstraßen radeln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőhegyi ösvények",
+            "tip": "Biciklizzen a főutaktól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările dintre vii",
+            "tip": "Pedalați departe de drumurile principale.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard paths",
+            "tip": "Cycle away from the main roads.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo Saint-Émilion",
+            "tip": "Fahrradverleih und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo Saint-Émilion",
+            "tip": "Bicikli bérlés és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velo Saint-Émilion",
+            "tip": "Închirieri biciclete și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo Saint-Émilion",
+            "tip": "Bike rentals and trail maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, die Hügel können anstrengend sein.",
+          "Achten Sie auf die Traktoren während der Erntezeit.",
+          "Einige Weingüter verlangen eine Voranmeldung für Besuche."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit, a dombok fárasztóak lehetnek.",
+          "Vigyázzon a traktorokra szüret idején.",
+          "Néhány borászat előzetes bejelentkezést igényel."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică, dealurile pot fi obositoare.",
+          "Atenție la tractoare în timpul sezonului de recoltare.",
+          "Unele crame necesită programare prealabilă."
+        ],
+        "en": [
+          "Rent an e-bike; the rolling hills can be tougher than they look.",
+          "Be mindful of farm tractors during the harvest season.",
+          "Most chateaux require booking for a proper cellar tour."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorf Saint-Émilion",
+            "hu": "Saint-Émilion falu",
+            "ro": "Satul Saint-Émilion",
+            "en": "Saint-Émilion Village"
+          },
+          "coords": [
+            -0.1556,
+            44.8938
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie früh am Vormittag.",
+            "hu": "Parkoljon le korán délelőtt.",
+            "ro": "Parcați devreme dimineața.",
+            "en": "Park early in the morning to find a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pomerol Weinregion",
+            "hu": "Pomerol borvidék",
+            "ro": "Regiunea viticolă Pomerol",
+            "en": "Pomerol Wine Region"
+          },
+          "coords": [
+            -0.201,
+            44.931
+          ],
+          "category": "agriculture",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche von Pomerol.",
+            "hu": "Látogassa meg Pomerol templomát.",
+            "ro": "Vizitați biserica din Pomerol.",
+            "en": "Visit the small church of Pomerol."
+          }
+        },
+        {
+          "name": {
+            "de": "Libourne Markt",
+            "hu": "Libourne-i piac",
+            "ro": "Piața din Libourne",
+            "en": "Libourne Market"
+          },
+          "coords": [
+            -0.244,
+            44.914
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein authentischer Markt am Zusammenfluss von Isle und Dordogne.",
+            "hu": "Autentikus piac az Isle és a Dordogne összefolyásánál.",
+            "ro": "O piață autentică la confluența râurilor Isle și Dordogne.",
+            "en": "An authentic market at the Isle and Dordogne confluence."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Figeac",
+            "hu": "Château Figeac",
+            "ro": "Château Figeac",
+            "en": "Château Figeac"
+          },
+          "coords": [
+            -0.185,
+            44.925
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Eines der elegantesten Schlösser der Region.",
+            "hu": "A régió egyik legelegánsabb kastélya.",
+            "ro": "Unul dintre cele mai elegante castele din regiune.",
+            "en": "One of the most elegant estates in the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet das Beste aus Saint-Émilion mit der benachbarten Exzellenz von Pomerol. Beginnen Sie mit einem Spaziergang im Dorf, bevor Sie nach Pomerol fahren, um die prestigeträchtigsten Weinlagen der Welt zu sehen.\n\nMittags besuchen Sie den Markt in Libourne für ein lokales Mittagessen am Fluss. Beenden Sie den Tag mit einer Panoramafahrt durch die Weinberge zurück nach Saint-Émilion.",
+        "hu": "Ez az autós túra összeköti Saint-Émilion legjavát a szomszédos Pomerol kiválóságával. Kezdje egy sétával a faluban, majd hajtson át Pomerolba, hogy lássa a világ legértékesebb szőlőit.\n\nDélben látogasson el a libourne-i piacra egy folyóparti ebédre. Zárja a napot egy panorámás autózással a szőlőskertek között vissza Saint-Émilionba.",
+        "ro": "Acest tur cu mașina îmbină tot ce e mai bun în Saint-Émilion cu excelența vecină din Pomerol. Începeți cu o plimbare în sat, apoi conduceți spre Pomerol pentru a vedea cele mai prestigioase vii din lume.\n\nLa prânz, vizitați piața din Libourne pentru un prânz local pe malul râului. Încheiați ziua cu o plimbare panoramică prin podgorii înapoi spre Saint-Émilion.",
+        "en": "This driving tour combines the best of Saint-Émilion with the neighboring excellence of Pomerol. Start with a village stroll before driving to Pomerol to see some of the world's most prestigious vineyards.\n\nAt midday, visit the market in Libourne for a local lunch by the river. End your day with a scenic drive through the vineyards back to Saint-Émilion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamproie à la Bordelaise",
+            "tip": "Neunauge in Weinsoße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lamproie à la Bordelaise",
+            "tip": "Ingola bormártásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lamproie à la Bordelaise",
+            "tip": "Chișcar în sos de vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamproie à la Bordelaise",
+            "tip": "Lamprey fish slow-cooked in red wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dordogne Ufer",
+            "tip": "Ruhiger Platz bei Libourne.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dordogne-part",
+            "tip": "Csendes hely Libourne-nál.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Dordogne",
+            "tip": "Loc liniștit lângă Libourne.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dordogne Banks",
+            "tip": "Quiet riverside spot in Libourne.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Libourne Markthalle",
+            "tip": "Frische regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Libourne vásárcsarnok",
+            "tip": "Friss regionális termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hala din Libourne",
+            "tip": "Produse regionale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Libourne Covered Market",
+            "tip": "Fresh local food and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig, die Straßen zwischen den Weinbergen sind eng.",
+          "In Saint-Émilion gibt es im Zentrum fast keine Parkplätze.",
+          "Null-Promille-Grenze beachten, wenn Sie Wein probieren."
+        ],
+        "hu": [
+          "Vezessen óvatosan, a szőlők közötti utak szűkek.",
+          "Saint-Émilion központjában szinte nincs parkoló.",
+          "Figyeljen az alkoholkorlátra borkóstoláskor."
+        ],
+        "ro": [
+          "Conduceți cu atenție, drumurile dintre vii sunt înguste.",
+          "În centrul Saint-Émilion aproape că nu există parcări.",
+          "Atenție la limita de alcool dacă degustați vin."
+        ],
+        "en": [
+          "Drive carefully as vineyard roads are narrow and used by tractors.",
+          "Central Saint-Émilion is mostly pedestrian; park on the outskirts.",
+          "Designate a driver if you plan to visit multiple chateaux."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Libourne",
+            "hu": "Libourne vasútállomás",
+            "ro": "Gara Libourne",
+            "en": "Libourne Station"
+          },
+          "coords": [
+            -0.245,
+            44.919
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Umsteigen in den Regionalzug nach Saint-Émilion.",
+            "hu": "Szálljon át a Saint-Émilion felé tartó vonatra.",
+            "ro": "Schimbați cu trenul regional spre Saint-Émilion.",
+            "en": "Transfer here for the regional train to Saint-Émilion."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Saint-Émilion",
+            "hu": "Saint-Émilion vasútállomás",
+            "ro": "Gara Saint-Émilion",
+            "en": "Saint-Émilion Station"
+          },
+          "coords": [
+            -0.151,
+            44.885
+          ],
+          "category": "port",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Der Fußweg ins Dorf dauert etwa 20 Minuten bergauf.",
+            "hu": "A gyalogút a faluba kb. 20 perc hegynek felfelé.",
+            "ro": "Drumul pe jos până în sat durează 20 de minute la deal.",
+            "en": "The walk to the village takes about 20 minutes uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberstadt (Ville Haute)",
+            "hu": "Felsőváros",
+            "ro": "Orașul de Sus",
+            "en": "Upper Town"
+          },
+          "coords": [
+            -0.155,
+            44.894
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Stiftskirche und den Kreuzgang.",
+            "hu": "Látogassa meg a társaskáptalani templomot.",
+            "ro": "Vizitați biserica colegială și claustrul.",
+            "en": "Visit the Collegiate Church and its beautiful cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum & Mittagessen",
+            "hu": "Központ és ebéd",
+            "ro": "Centru și prânz",
+            "en": "Center & Lunch"
+          },
+          "coords": [
+            -0.156,
+            44.893
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Menü in einer der Brasserien.",
+            "hu": "Élvezzen egy menüt az egyik brassériában.",
+            "ro": "Savurați un meniu la una dintre braserii.",
+            "en": "Enjoy a set lunch menu at a local brasserie."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Saint-Émilion ist von Bordeaux oder Libourne aus perfekt mit dem Zug erreichbar. Der kurze Spaziergang vom Bahnhof ins Dorf führt Sie direkt durch die ersten Weinberge.\n\nVerbringen Sie den Tag damit, die historischen Monumente zu Fuß zu erkunden. Der Zug bietet eine entspannte Rückreise, während Sie die Aussicht auf die Weinlandschaft genießen.",
+        "hu": "Saint-Émilion tökéletesen megközelíthető vonattal Bordeaux-ból vagy Libourne-ból. Az állomástól a faluba vezető rövid séta közvetlenül az első szőlőtőkék mellett visz el.\n\nTöltse a napot a történelmi műemlékek gyalogos felfedezésével. A vonat kényelmes hazautat biztosít, miközben gyönyörködhet a borvidék látványában.",
+        "ro": "Saint-Émilion este perfect accesibil cu trenul din Bordeaux sau Libourne. Scurta plimbare de la gară în sat vă poartă chiar printre primele rânduri de viță de vie.\n\nPetreceți ziua explorând monumentele istorice la pas. Trenul oferă o călătorie de întoarcere relaxantă, în timp ce admirați peisajul viticol.",
+        "en": "Saint-Émilion is easily accessible by train from Bordeaux or Libourne. The short walk from the station into the village takes you right past the first prestigious vines.\n\nSpend your day exploring the historic monuments on foot. The train offers a stress-free return journey while you enjoy the vineyard views through the window."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Clos du Roy",
+            "tip": "Gute Küche im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Clos du Roy",
+            "tip": "Kiváló konyha a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Clos du Roy",
+            "tip": "Bucătărie bună în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Clos du Roy",
+            "tip": "Quality local cuisine in the town heart."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ermitage",
+            "tip": "Die Höhle des Heiligen Émilion.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ermitage",
+            "tip": "Szent Émilion barlangja.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ermitage",
+            "tip": "Peștera Sfântului Émilion.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ermitage",
+            "tip": "The original cave of Saint Emilion.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein-Boutiquen",
+            "tip": "Versandservice nach Hause möglich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borboltok",
+            "tip": "Házhozszállítás is kérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de vinuri",
+            "tip": "Serviciu de expediere la domiciliu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Boutiques",
+            "tip": "Many shops offer international shipping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Zugzeiten, sie sind nicht sehr häufig.",
+          "Vom Bahnhof gibt es im Sommer oft einen kleinen Shuttle-Zug.",
+          "Kaufen Sie die Tickets am Automaten in Bordeaux."
+        ],
+        "hu": [
+          "Ellenőrizze a vonatidőket, nem járnak túl gyakran.",
+          "Az állomástól nyáron gyakran közlekedik kisvonat-shuttle.",
+          "Vásárolja meg a jegyeket az automatánál Bordeaux-ban."
+        ],
+        "ro": [
+          "Verificați orarul trenurilor, nu sunt foarte frecvente.",
+          "De la gară există adesea un trenuleț-shuttle în timpul verii.",
+          "Cumpărați biletele de la automat în Bordeaux."
+        ],
+        "en": [
+          "Check train schedules carefully; they are not very frequent.",
+          "In summer, a 'Petit Train' shuttle often runs from the station.",
+          "Buy your tickets in advance to avoid queues at Bordeaux station."
+        ]
+      }
+    }
+  }
+}

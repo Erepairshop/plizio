@@ -1,0 +1,886 @@
+{
+  "city_id": "verdun",
+  "anchor": {
+    "name": "Monument à la Victoire",
+    "coords": [
+      5.3819,
+      49.1604
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Monument à la Victoire",
+          "coords": [
+            5.388,
+            49.162
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die Stufen für eine gute Aussicht hinauf.",
+            "hu": "Másszon fel a lépcsőkön a jó kilátásért.",
+            "ro": "Urcați treptele pentru o priveliște bună.",
+            "en": "Climb the steps for a good view."
+          }
+        },
+        {
+          "name": "Porte Chaussée",
+          "coords": [
+            5.386,
+            49.161
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das alte Stadttor an der Meuse.",
+            "hu": "A régi városkapu a Maas-partján.",
+            "ro": "Vechea poartă a orașului pe malul râului Meuse.",
+            "en": "The old city gate on the banks of the Meuse."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            5.385,
+            49.16
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der ältesten Kathedralen Europas.",
+            "hu": "Európa egyik legrégebbi katedrálisa.",
+            "ro": "Una dintre cele mai vechi catedrale din Europa.",
+            "en": "One of the oldest cathedrals in Europe."
+          }
+        },
+        {
+          "name": "Centre Mondial de la Paix",
+          "coords": [
+            5.383,
+            49.159
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Im ehemaligen Bischofspalast untergebracht.",
+            "hu": "Az egykori püspöki palotában található.",
+            "ro": "Situat în fostul palat episcopal.",
+            "en": "Located in the former bishop's palace."
+          }
+        },
+        {
+          "name": "Quai de la République",
+          "coords": [
+            5.388,
+            49.163
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Viele Cafés am Flussufer.",
+            "hu": "Számos kávézó a folyóparton.",
+            "ro": "Multe cafenele pe malul râului.",
+            "en": "Many cafes along the riverbank."
+          }
+        },
+        {
+          "name": "Citadelle Souterraine",
+          "coords": [
+            5.375,
+            49.158
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Buchen Sie die geführte Tour im Voraus.",
+            "hu": "Foglalja le előre a földalatti túrát.",
+            "ro": "Rezervați din timp turul subteran.",
+            "en": "Book the underground tour in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Verdun zu Fuß entlang der Meuse. Vom monumentalen Siegesdenkmal geht es zur imposanten Kathedrale und zum Friedenszentrum. Der Tag endet mit einem faszinierenden Einblick in die Geschichte in der unterirdischen Zitadelle.",
+        "hu": "Fedezze fel Verdunt gyalogosan a Maas folyó mentén. A monumentális győzelmi emlékműtől az impozáns katedrálisig és a Béke Központig vezet az út. A napot a földalatti citadella lenyűgöző történelmi betekintése zárja.",
+        "ro": "Explorați Verdunul la pas pe malul râului Meuse. De la monumentul victoriei la catedrala impunătoare și Centrul Mondial al Păcii. Ziua se încheie cu o incursiune fascinantă în istoria citadelei subterane.",
+        "en": "Explore Verdun on foot along the Meuse. From the monumental victory memorial, head to the imposing cathedral and the Peace Center. The day ends with a fascinating insight into history at the underground citadel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dragées de Verdun",
+            "tip": "Die berühmten gezuckerten Mandeln bei Braquier."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verduni drazsé",
+            "tip": "A híres cukrozott mandula a Braquier-nél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drajeuri de Verdun",
+            "tip": "Celebrele migdale glazurate la Braquier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verdun Dragées",
+            "tip": "The famous sugared almonds at Braquier."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins du Mess",
+            "tip": "Ruhiger Park am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins du Mess",
+            "tip": "Csendes park a folyóparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Mess",
+            "tip": "Parc liniștit lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins du Mess",
+            "tip": "Quiet park by the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confiserie Braquier",
+            "tip": "Süßigkeiten und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Braquier édességbolt",
+            "tip": "Édességek és helyi ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie Braquier",
+            "tip": "Dulciuri și suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Braquier Confectionery",
+            "tip": "Sweets and local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Zitadelle ist kühl, nehmen Sie eine Jacke mit.",
+          "Spaziergang am Flussufer ist sehr entspannend.",
+          "Parken ist im Zentrum möglich.",
+          "Besuchen Sie das Tourismusbüro für Karten."
+        ],
+        "hu": [
+          "A Citadella hűvös, vigyen pulóvert.",
+          "A folyóparti séta nagyon pihentető.",
+          "A központban van parkolási lehetőség.",
+          "Kérjen térképet a turisztikai irodában."
+        ],
+        "ro": [
+          "Citadela este răcoroasă, luați o jachetă.",
+          "Plimbarea pe malul râului este relaxantă.",
+          "Parcarea este disponibilă în centru.",
+          "Vizitați biroul de turism pentru hărți."
+        ],
+        "en": [
+          "The Citadel is cool, bring a jacket.",
+          "The riverside walk is very relaxing.",
+          "Parking is available in the center.",
+          "Visit the tourism office for maps."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Verdun Centre",
+          "coords": [
+            5.3819,
+            49.1604
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie am Monument.",
+            "hu": "Kezdje a túrát az emlékműnél.",
+            "ro": "Începeți turul la monument.",
+            "en": "Start your tour at the monument."
+          }
+        },
+        {
+          "name": "Fleury-devant-Douaumont",
+          "coords": [
+            5.428,
+            49.198
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein zerstörtes Dorf, das nie wieder aufgebaut wurde.",
+            "hu": "Egy elpusztult falu, amit sosem építettek újjá.",
+            "ro": "Un sat distrus care nu a mai fost reconstruit.",
+            "en": "A destroyed village that was never rebuilt."
+          }
+        },
+        {
+          "name": "Ossuaire de Douaumont",
+          "coords": [
+            5.432,
+            49.207
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beeindruckende Gedenkstätte.",
+            "hu": "Lenyűgöző és megrendítő emlékhely.",
+            "ro": "Monument comemorativ impresionant.",
+            "en": "Impressive and moving memorial site."
+          }
+        },
+        {
+          "name": "Fort de Vaux",
+          "coords": [
+            5.46,
+            49.2
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Festung von innen.",
+            "hu": "Tekintse meg az erőd belsejét.",
+            "ro": "Vizitați interiorul fortului.",
+            "en": "Visit the inside of the fort."
+          }
+        },
+        {
+          "name": "Meuse-Radweg",
+          "coords": [
+            5.385,
+            49.165
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ruhige Fahrt zurück am Fluss.",
+            "hu": "Csendes visszatérés a folyó mentén.",
+            "ro": "Întoarcere liniștită pe malul râului.",
+            "en": "Quiet ride back along the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie aus der Stadt direkt zu den wichtigsten Schlachtfeldern von Verdun. Sie besuchen das Beinhaus von Douaumont und das Fort de Vaux. Der Rückweg führt entspannt entlang der Meuse zurück ins Stadtzentrum.",
+        "hu": "Ez a kerékpártúra a városból közvetlenül a verduni csataterekhez vezet. Meglátogatja a Douaumont-i osszáriumot és a Vaux-erődöt. A visszaút pihentető biciklizés a Maas folyó mentén a központba.",
+        "ro": "Acest tur cu bicicleta vă scoate din oraș direct pe câmpurile de luptă din Verdun. Veți vizita Osuarul de la Douaumont și Fortul Vaux. Întoarcerea este o plimbare relaxantă pe malul râului Meuse.",
+        "en": "This bike tour takes you out of the city directly to the key battlefields of Verdun. You will visit the Douaumont Ossuary and Fort Vaux. The return journey is a relaxing ride along the Meuse back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meuse Trout",
+            "tip": "Frischer Fisch aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maas-menti pisztráng",
+            "tip": "Friss helyi halétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv de Meuse",
+            "tip": "Pește proaspăt din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meuse Trout",
+            "tip": "Fresh local fish dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt de Verdun",
+            "tip": "Stille in den geschichtsträchtigen Wäldern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verduni erdő",
+            "tip": "Csend a történelmi erdőkben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Verdun",
+            "tip": "Liniște în pădurile pline de istorie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Verdun Forest",
+            "tip": "Silence in the history-filled forests.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Honey",
+            "tip": "Honig aus den Wäldern der Meuse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Méz a Maas menti erdőkből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere din pădurile de pe Meuse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Honey from the forests of Meuse."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Anstiege zu den Schlachtfeldern.",
+          "Tragen Sie einen Helm.",
+          "Achten Sie auf das Wetter.",
+          "Nehmen Sie Werkzeug für Pannen mit."
+        ],
+        "hu": [
+          "Néhány emelkedő várható a csataterek felé.",
+          "Viseljen bukósisakot.",
+          "Figyeljen az időjárásra.",
+          "Vigyen szerszámot defekt esetére."
+        ],
+        "ro": [
+          "Urmează câteva urcări spre câmpurile de luptă.",
+          "Purtați cască de protecție.",
+          "Atenție la starea vremii.",
+          "Luați scule pentru mici reparații."
+        ],
+        "en": [
+          "Some climbs towards the battlefields.",
+          "Wear a helmet.",
+          "Pay attention to the weather.",
+          "Take tools for flat tires."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Mémorial de Verdun",
+          "coords": [
+            5.433,
+            49.195
+          ],
+          "category": "museum",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein modernes und sehr informatives Museum.",
+            "hu": "Modern és rendkívül informatív múzeum.",
+            "ro": "Un muzeu modern și foarte informativ.",
+            "en": "A modern and very informative museum."
+          }
+        },
+        {
+          "name": "Fort de Douaumont",
+          "coords": [
+            5.438,
+            49.217
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das größte Fort im Verteidigungsgürtel.",
+            "hu": "A védelmi gyűrű legnagyobb erődje.",
+            "ro": "Cel mai mare fort din centura de apărare.",
+            "en": "The largest fort in the defense ring."
+          }
+        },
+        {
+          "name": "Tranchée des Baïonnettes",
+          "coords": [
+            5.425,
+            49.214
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein symbolträchtiger Ort des Gedenkens.",
+            "hu": "Jelképes és megrendítő emlékhely.",
+            "ro": "Un loc simbolic de comemorare.",
+            "en": "A symbolic site of remembrance."
+          }
+        },
+        {
+          "name": "Verdun Centre",
+          "coords": [
+            5.385,
+            49.162
+          ],
+          "category": "square",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Zeit für einen Kaffee am Quai.",
+            "hu": "Idő egy kávéra a rakparton.",
+            "ro": "Timp pentru o cafea pe chei.",
+            "en": "Time for a coffee on the quay."
+          }
+        },
+        {
+          "name": "Confiserie Braquier",
+          "coords": [
+            5.37,
+            49.168
+          ],
+          "category": "shopping",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Werksverkauf der berühmten Dragées.",
+            "hu": "A híres drazsék gyári boltja.",
+            "ro": "Magazinul fabricii de drajeuri celebre.",
+            "en": "Factory shop for the famous dragées."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autoroute ermöglicht es Ihnen, die weitläufigen Schlachtfelder effizient zu besuchen. Das Verdun-Mahnmal und das Fort Douaumont bieten tiefe Einblicke in die Geschichte. Zurück in der Stadt können Sie die berühmte lokale Süßigkeit Dragée entdecken.",
+        "hu": "Ez az autós útvonal lehetővé teszi a kiterjedt csataterek hatékony bejárását. A Verduni Emlékmű és a Douaumont-erőd mély történelmi betekintést nyújt. Visszatérve a városba, fedezze fel a híres helyi édességet, a drazsét.",
+        "ro": "Acest traseu auto vă permite să vizitați eficient câmpurile de luptă întinse. Memorialul Verdun și Fortul Douaumont oferă o perspectivă istorică profundă. La întoarcerea în oraș, descoperiți faimoasele drajeuri locale.",
+        "en": "This car route allows you to visit the extensive battlefields efficiently. The Verdun Memorial and Fort Douaumont offer deep historical insights. Back in the city, discover the famous local sweet, the dragée."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Probieren Sie das Original in einer lokalen Bäckerei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Kóstolja meg az eredetit egy helyi pékségben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Gustați rețeta originală la o brutărie locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Try the original in a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nécropole nationale",
+            "tip": "Stiller Ort zum Nachdenken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nemzeti sírkert",
+            "tip": "Csendes hely az emlékezésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Necropola Națională",
+            "tip": "Loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "National Necropolis",
+            "tip": "Quiet place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Madeleines de Commercy",
+            "tip": "In lokalen Läden erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Commercy-i madlen",
+            "tip": "Helyi boltokban kapható sütemény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Madeleines de Commercy",
+            "tip": "Disponibile în magazinele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Madeleines de Commercy",
+            "tip": "Available in local shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind an allen Monumenten vorhanden.",
+          "Planen Sie genug Zeit für das Memorial ein.",
+          "Straßen sind gut ausgebaut.",
+          "Folgen Sie der Beschilderung 'Champ de Bataille'."
+        ],
+        "hu": [
+          "Minden emlékműnél van parkoló.",
+          "Szánjon elég időt az Emlékműre.",
+          "Az utak jó minőségűek.",
+          "Kövesse a 'Champ de Bataille' jelzéseket."
+        ],
+        "ro": [
+          "Există parcări la toate monumentele.",
+          "Alocați suficient timp pentru Memorial.",
+          "Drumurile sunt bine întreținute.",
+          "Urmați indicatoarele 'Champ de Bataille'."
+        ],
+        "en": [
+          "Parking is available at all monuments.",
+          "Allow enough time for the Memorial.",
+          "Roads are well-maintained.",
+          "Follow the 'Champ de Bataille' signs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Verdun",
+          "coords": [
+            5.378,
+            49.165
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Bahnhof liegt am Rande des Zentrums.",
+            "hu": "Az állomás a központ szélén található.",
+            "ro": "Gara se află la marginea centrului.",
+            "en": "The station is on the edge of the center."
+          }
+        },
+        {
+          "name": "Verdun Centre",
+          "coords": [
+            5.385,
+            49.162
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Markt und Cafés besuchen.",
+            "hu": "Látogasson el a piacra és a kávézókba.",
+            "ro": "Vizitați piața și cafenelele.",
+            "en": "Visit the market and cafes."
+          }
+        },
+        {
+          "name": "Navette Champ de Bataille",
+          "coords": [
+            5.43,
+            49.2
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus zu den Schlachtfeldern.",
+            "hu": "Használja a csatamezőkhöz járó buszt.",
+            "ro": "Folosiți autobuzul către câmpurile de luptă.",
+            "en": "Use the shuttle bus to the battlefields."
+          }
+        },
+        {
+          "name": "Citadelle Souterraine",
+          "coords": [
+            5.375,
+            49.158
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Einfacher Zugang vom Zentrum aus.",
+            "hu": "Könnyen elérhető a központból.",
+            "ro": "Acces ușor din centrul orașului.",
+            "en": "Easy access from the city center."
+          }
+        },
+        {
+          "name": "Gare de Verdun",
+          "coords": [
+            5.378,
+            49.165
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Regionalzug.",
+            "hu": "Visszautazás a regionális vonattal.",
+            "ro": "Întoarcerea cu trenul regional.",
+            "en": "Return journey by regional train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Verdun ist gut mit regionalen Zügen erreichbar. Ein spezieller Shuttle-Bus bringt Sie während der Saison zu den wichtigsten historischen Stätten außerhalb der Stadt. Genießen Sie die Geschichte ohne die Notwendigkeit eines eigenen Autos.",
+        "hu": "Verdun jól megközelíthető regionális vonatokkal. Szezonban speciális buszjárat visz ki a városon kívüli fontos történelmi helyszínekre. Élvezze a történelmet saját autó nélkül is.",
+        "ro": "Verdun este accesibil cu trenuri regionale. În sezon, un autobuz special vă duce la principalele situri istorice din afara orașului. Bucurați-vă de istorie fără a avea nevoie de mașină proprie.",
+        "en": "Verdun is well accessible by regional trains. In season, a special shuttle bus takes you to the important historical sites outside the city. Enjoy history without the need for your own car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sandwiches",
+            "tip": "Für den Ausflug zum Schlachtfeld mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szendvicsek",
+            "tip": "Vigyen magával tízórait a csataterekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sandwich-uri",
+            "tip": "Luați la pachet pentru excursia la câmpurile de luptă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sandwiches",
+            "tip": "Take some sandwiches for the battlefield excursion."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Meuse Banks",
+            "tip": "Beobachten Sie die Schiffe am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maas-part",
+            "tip": "Nézze a hajókat a folyón.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Meuse",
+            "tip": "Urmăriți vapoarele pe râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meuse Banks",
+            "tip": "Watch the boats on the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Postcards",
+            "tip": "Klassische Souvenirs im Kiosk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi képeslapok",
+            "tip": "Klasszikus emléktárgyak a trafikban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi locale",
+            "tip": "Suveniruri clasice la chioșcurile din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Postcards",
+            "tip": "Classic souvenirs at local kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Shuttle-Zeiten vorab.",
+          "Der Bahnhof hat Schließfächer.",
+          "Kaufen Sie Fahrkarten am Automaten.",
+          "Das Stadtzentrum ist klein und begehbar."
+        ],
+        "hu": [
+          "Ellenőrizze előre a busz menetrendjét.",
+          "Az állomáson vannak csomagmegőrzők.",
+          "Vegye meg a jegyet az automatánál.",
+          "A városközpont kicsi és gyalogosan bejárható."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului în avans.",
+          "Gara are dulapuri pentru bagaje.",
+          "Cumpărați bilete de la automat.",
+          "Centrul orașului este mic și poate fi parcurs pe jos."
+        ],
+        "en": [
+          "Check the shuttle times in advance.",
+          "The station has luggage lockers.",
+          "Buy tickets at the machine.",
+          "The city center is small and walkable."
+        ]
+      }
+    }
+  }
+}

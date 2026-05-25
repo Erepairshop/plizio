@@ -1,0 +1,961 @@
+{
+  "city_id": "aix-en-provence",
+  "anchor": {
+    "name": "Aix-en-Provence",
+    "coords": [
+      5.4474,
+      43.5297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontaine de la Rotonde",
+            "hu": "Rotonde kút",
+            "ro": "Fântâna Rotonde",
+            "en": "Fontaine de la Rotonde"
+          },
+          "coords": [
+            5.4452,
+            43.5263
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Treffpunkt am Eingang der Altstadt.",
+            "hu": "Tökéletes találkozóhely az óváros bejáratánál.",
+            "ro": "Locul perfect de întâlnire la intrarea în orașul vechi.",
+            "en": "Perfect meeting point at the entrance to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Mirabeau",
+            "hu": "Cours Mirabeau",
+            "ro": "Cours Mirabeau",
+            "en": "Cours Mirabeau"
+          },
+          "coords": [
+            5.4478,
+            43.5269
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kaffee trinken unter den alten Platanen.",
+            "hu": "Igyon egy kávét az öreg platánfák alatt.",
+            "ro": "Savurați o cafea sub platanii bătrâni.",
+            "en": "Enjoy a coffee under the ancient plane trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Granet",
+            "hu": "Granet Múzeum",
+            "ro": "Muzeul Granet",
+            "en": "Musée Granet"
+          },
+          "coords": [
+            5.452,
+            43.5258
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Werke von Cézanne.",
+            "hu": "Csodálja meg Cézanne remekműveit.",
+            "ro": "Admirați operele lui Cézanne.",
+            "en": "Admire the masterpieces of Cézanne."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Cardeurs",
+            "hu": "Place des Cardeurs",
+            "ro": "Place des Cardeurs",
+            "en": "Place des Cardeurs"
+          },
+          "coords": [
+            5.4468,
+            43.5305
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für ein provenzalisches Mittagessen.",
+            "hu": "Ideális hely egy provence-i ebédhez.",
+            "ro": "Ideal pentru un prânz provensal.",
+            "en": "Ideal for a typical Provencal lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Sauveur",
+            "hu": "Saint-Sauveur székesegyház",
+            "ro": "Catedrala Saint-Sauveur",
+            "en": "Saint-Sauveur Cathedral"
+          },
+          "coords": [
+            5.4478,
+            43.5318
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Mischung aus Romanik, Gotik und Barock.",
+            "hu": "Román, gótikus és barokk stílusok keveréke.",
+            "ro": "Un amestec de stiluri romanic, gotic și baroc.",
+            "en": "A unique mix of Romanesque, Gothic, and Baroque styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "City Hall Square"
+          },
+          "coords": [
+            5.4478,
+            43.5301
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Blumenmarkt am Morgen.",
+            "hu": "Látogassa meg a virágpiacot délelőtt.",
+            "ro": "Vizitați piața de flori în timpul dimineții.",
+            "en": "Visit the flower market during the morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Fontaine de la Rotonde, dem majestätischen Eingang zur Stadt. Von hier aus schlendern wir über den prachtvollen Cours Mirabeau, wo das Licht durch die Platanen tanzt.\n\nMittags tauchen wir im Musée Granet in die Welt von Cézanne und der klassischen Kunst ein, bevor wir uns in die Gassen des Quartier Mazarin zurückziehen.\n\nAm Nachmittag erkunden wir die beeindruckende Cathédrale Saint-Sauveur, ein Zeugnis jahrhundertelanger Architekturgeschichte inmitten der Altstadt.\n\nDer Abend klingt auf dem Place des Cardeurs aus. Hier genießen wir die lebhafte Atmosphäre bei einem Glas Rosé und lokalen Spezialitäten unter freiem Himmel.",
+        "hu": "A reggelt a Fontaine de la Rotonde monumentális kútjánál kezdjük, amely a város kapujaként szolgál. Innen a Cours Mirabeau platánokkal szegélyezett elegáns sugárútján sétálunk tovább.\n\nDélben a Musée Granet termeiben gyönyörködünk Cézanne és más mesterek műveiben, majd felfedezzük a Quartier Mazarin csendesebb utcáit.\n\nDélután a Saint-Sauveur székesegyházhoz látogatunk, amely évszázadok építészeti emlékeit őrzi a római kortól a barokkig.\n\nAz estét a Place des Cardeurs pezsgő teraszain zárjuk. Ez a hely tökéletes egy pohár provence-i rozéhoz és a helyi gasztronómia élvezetéhez a csillagos ég alatt.",
+        "ro": "Dimineața începe la Fontaine de la Rotonde, intrarea maiestuoasă în oraș. De aici, ne plimbăm pe elegantul Cours Mirabeau, unde lumina se joacă printre frunzele platanilor.\n\nLa prânz, explorăm universul lui Cézanne la Musée Granet, admirând colecțiile de artă clasică înainte de a ne pierde pe străduțele din Quartier Mazarin.\n\nDupă-amiaza este dedicată Catedralei Saint-Sauveur, o bijuterie arhitecturală ce îmbină stiluri din epoci diferite chiar în inima centrului istoric.\n\nSeara se încheie în Place des Cardeurs. Savurăm atmosfera vibrantă cu un pahar de vin rosé și specialități locale, sub cerul liber al Provencei.",
+        "en": "The morning begins at the Fontaine de la Rotonde, the majestic gateway to the city. From here, we stroll down the magnificent Cours Mirabeau, where light dances through the plane trees.\n\nAt midday, we immerse ourselves in the world of Cézanne and classical art at the Musée Granet before retreating into the charming streets of the Quartier Mazarin.\n\nIn the afternoon, we explore the impressive Saint-Sauveur Cathedral, a testament to centuries of architectural history in the middle of the old town.\n\nThe evening winds down at Place des Cardeurs. We enjoy the lively atmosphere with a glass of Rosé and local specialties under the open sky."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Deux Garçons",
+            "tip": "Historisches Café am Cours Mirabeau."
+          },
+          {
+            "name": "Le Garde Manger",
+            "tip": "Frische provenzalische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Deux Garçons",
+            "tip": "Történelmi kávéház a Cours Mirabeau-n."
+          },
+          {
+            "name": "Le Garde Manger",
+            "tip": "Friss provence-i konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Deux Garçons",
+            "tip": "Cafenea istorică pe Cours Mirabeau."
+          },
+          {
+            "name": "Le Garde Manger",
+            "tip": "Bucătărie provensală proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Deux Garçons",
+            "tip": "Historic café on Cours Mirabeau."
+          },
+          {
+            "name": "Le Garde Manger",
+            "tip": "Fresh Provencal cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Jourdan",
+            "tip": "Ruhiger Park im Süden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Jourdan",
+            "tip": "Csendes park a déli részen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Jourdan",
+            "tip": "Parc liniștit în sud.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Jourdan",
+            "tip": "Quiet park in the south.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confiserie du Roy René",
+            "tip": "Beste Calissons der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confiserie du Roy René",
+            "tip": "A város legjobb Calisson édessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie du Roy René",
+            "tip": "Cele mai bune dulciuri Calissons."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confiserie du Roy René",
+            "tip": "Best Calissons in town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Achten Sie auf die vielen kleinen Brunnen.",
+          "Buchen Sie Museumsbesuche im Voraus.",
+          "Genießen Sie den Markt am Vormittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Figyeljen a város számos kis szökőkútjára.",
+          "Foglalja le előre a múzeumi belépőket.",
+          "Élvezze a délelőtti piaci hangulatot."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Fiți atenți la numeroasele fântâni mici.",
+          "Rezervați vizitele la muzee în avans.",
+          "Bucurați-vă de piață în timpul dimineții."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Watch out for the many small fountains.",
+          "Book museum visits in advance.",
+          "Enjoy the market atmosphere in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pavillon Vendôme",
+            "hu": "Vendôme-pavilon",
+            "ro": "Pavilionul Vendôme",
+            "en": "Pavillon Vendôme"
+          },
+          "coords": [
+            5.4428,
+            43.5315
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Barockgarten.",
+            "hu": "Gyönyörű barokk kert.",
+            "ro": "O grădină barocă superbă.",
+            "en": "Beautiful Baroque garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier de Cézanne",
+            "hu": "Cézanne műterme",
+            "ro": "Atelierul lui Cézanne",
+            "en": "Cézanne's Studio"
+          },
+          "coords": [
+            5.4462,
+            43.5383
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Ort, an dem Cézanne arbeitete.",
+            "hu": "A hely, ahol Cézanne dolgozott.",
+            "ro": "Locul unde a lucrat Cézanne.",
+            "en": "The place where Cézanne worked."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrain des Peintres",
+            "hu": "Festők dombja",
+            "ro": "Terenul Pictorilor",
+            "en": "Painters' Park"
+          },
+          "coords": [
+            5.4452,
+            43.5458
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf das Gebirge Sainte-Victoire.",
+            "hu": "Kilátás a Sainte-Victoire hegységre.",
+            "ro": "Vedere spre muntele Sainte-Victoire.",
+            "en": "View of the Sainte-Victoire mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Sauveur",
+            "hu": "Saint-Sauveur székesegyház",
+            "ro": "Catedrala Saint-Sauveur",
+            "en": "Saint-Sauveur Cathedral"
+          },
+          "coords": [
+            5.4478,
+            43.5318
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Historisches Zentrum der Stadt.",
+            "hu": "A város történelmi központja.",
+            "ro": "Centrul istoric al orașului.",
+            "en": "Historical center of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Mirabeau",
+            "hu": "Cours Mirabeau",
+            "ro": "Cours Mirabeau",
+            "en": "Cours Mirabeau"
+          },
+          "coords": [
+            5.4478,
+            43.5269
+          ],
+          "category": "square",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abschluss im Herzen der Stadt.",
+            "hu": "Zárja a napot a város szívében.",
+            "ro": "Final de zi în inima orașului.",
+            "en": "Finish the day in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir die grüne Seite von Aix. Wir starten am Pavillon Vendôme mit seinem ruhigen Barockgarten.\n\nWeiter geht es bergauf zum Atelier de Cézanne, wo die Zeit stehen geblieben scheint. Hier spürt man den Geist des Malers.\n\nMittags erreichen wir das Terrain des Peintres. Der Blick auf das Sainte-Victoire-Gebirge ist die perfekte Kulisse für ein Picknick.\n\nAm Nachmittag rollen wir zurück ins Zentrum zur Kathedrale und beenden die Tour auf dem belebten Cours Mirabeau.",
+        "hu": "Kerékpárral fedezzük fel Aix zöldebb oldalát. A Pavillon Vendôme barokk kertjében kezdünk, amely nyugalmat áraszt.\n\nInnen felfelé tekerünk Cézanne műterméhez, ahol megállt az idő. A festő szelleme ma is belengi a szobákat.\n\nDélben elérjük a Festők dombját (Terrain des Peintres). A Sainte-Victoire hegység látványa tökéletes helyszín egy piknikhez.\n\nDélután visszagurulunk a központba a katedrálishoz, majd a napot a nyüzsgő Cours Mirabeau-n zárjuk.",
+        "ro": "Explorăm partea verde a orașului Aix pe bicicletă. Începem la Pavilionul Vendôme, cu grădina sa barocă liniștită.\n\nContinuăm urcușul spre Atelierul lui Cézanne, unde timpul pare să fi stat în loc. Aici se simte spiritul pictorului.\n\nLa prânz ajungem la Terenul Pictorilor. Vederea spre muntele Sainte-Victoire este decorul perfect pentru un picnic.\n\nDupă-amiaza coborâm spre centru, vizităm catedrala și încheiem turul pe animatul Cours Mirabeau.",
+        "en": "We explore the green side of Aix by bike. We start at the Pavillon Vendôme with its quiet Baroque garden.\n\nNext, we cycle uphill to Cézanne's Studio, where time seems to have stood still. You can still feel the painter's spirit here.\n\nAt midday, we reach the Terrain des Peintres. The view of the Sainte-Victoire mountain is the perfect backdrop for a picnic.\n\nIn the afternoon, we roll back to the center to the cathedral and end the tour on the lively Cours Mirabeau."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Béchard",
+            "tip": "Traditionelle Pâtisserie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Béchard",
+            "tip": "Hagyományos cukrászda."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Béchard",
+            "tip": "Patiserie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Béchard",
+            "tip": "Traditional pastry shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Terrain des Peintres",
+            "tip": "Bester Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terrain des Peintres",
+            "tip": "A legjobb panoráma.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terrain des Peintres",
+            "tip": "Cea mai bună panoramă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Terrain des Peintres",
+            "tip": "Best panoramic view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Place Richelme",
+            "tip": "Täglicher Lebensmittelmarkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Place Richelme",
+            "tip": "Napi élelmiszerpiac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Place Richelme",
+            "tip": "Piață alimentară zilnică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Place Richelme",
+            "tip": "Daily food market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Straßen sind steil, ein E-Bike wird empfohlen.",
+          "Nutzen Sie die markierten Radwege.",
+          "Sichern Sie Ihr Fahrrad immer gut ab.",
+          "Die Hügel im Norden bieten tolle Aussichten."
+        ],
+        "hu": [
+          "Néhány utca meredek, elektromos kerékpár ajánlott.",
+          "Használja a kijelölt kerékpárutakat.",
+          "Mindig jól zárja le a kerékpárt.",
+          "Az északi dombok remek kilátást nyújtanak."
+        ],
+        "ro": [
+          "Unele străzi sunt abrupte, se recomandă o bicicletă electrică.",
+          "Folosiți pistele de biciclete marcate.",
+          "Asigurați întotdeauna bine bicicleta.",
+          "Dealurile din nord oferă vederi superbe."
+        ],
+        "en": [
+          "Some streets are steep, an e-bike is recommended.",
+          "Use the marked bike paths.",
+          "Always lock your bike securely.",
+          "The northern hills offer great views."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 22.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontaine de la Rotonde",
+            "hu": "Rotonde kút",
+            "ro": "Fântâna Rotonde",
+            "en": "Fontaine de la Rotonde"
+          },
+          "coords": [
+            5.4452,
+            43.5263
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Rotonde.",
+            "hu": "Parkoljon a Rotonde mélygarázsban.",
+            "ro": "Parcați în parcarea Rotonde.",
+            "en": "Park in the Rotonde parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Montagne Sainte-Victoire",
+            "hu": "Sainte-Victoire hegység",
+            "ro": "Muntele Sainte-Victoire",
+            "en": "Sainte-Victoire Mountain"
+          },
+          "coords": [
+            5.5122,
+            43.5218
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Wandern Sie am Fuße des Berges.",
+            "hu": "Túrázzon a hegy lábánál.",
+            "ro": "Drumeții la poalele muntelui.",
+            "en": "Hike at the foot of the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier de Cézanne",
+            "hu": "Cézanne műterme",
+            "ro": "Atelierul lui Cézanne",
+            "en": "Cézanne's Studio"
+          },
+          "coords": [
+            5.4462,
+            43.5383
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz vor Ort.",
+            "hu": "Kis parkoló a helyszínen.",
+            "ro": "Parcare mică la fața locului.",
+            "en": "Small parking lot on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Cardeurs",
+            "hu": "Place des Cardeurs",
+            "ro": "Place des Cardeurs",
+            "en": "Place des Cardeurs"
+          },
+          "coords": [
+            5.4468,
+            43.5305
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 125,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vielzahl an Restaurants für den Abend.",
+            "hu": "Számos étterem az esti órákra.",
+            "ro": "O varietate de restaurante pentru seară.",
+            "en": "A variety of restaurants for the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen wir die ikonischen Landschaften um Aix. Nach einem kurzen Stopp im Zentrum fahren wir zum Fuße des Sainte-Victoire.\n\nMittags genießen wir die Natur und die wilde Schönheit der Provence, die Cézanne so sehr liebte.\n\nAm Nachmittag besuchen wir sein Atelier am Stadtrand, bevor wir zurück ins Herz von Aix fahren.\n\nDer Tag endet entspannt bei einem Abendessen auf dem Place des Cardeurs, wo das Stadtleben pulsiert.",
+        "hu": "Autóval elérjük Aix ikonikus vidékeit. Egy rövid belvárosi megálló után a Sainte-Victoire hegység lábához hajtunk.\n\nDélben a természetet és Provence vad szépségét élvezzük, amelyet Cézanne oly nagyra tartott.\n\nDélután meglátogatjuk a festő műtermét a város szélén, majd visszatérünk Aix szívébe.\n\nA nap vacsorával zárul a Place des Cardeurs téren, ahol a városi élet lüktet.",
+        "ro": "Cu mașina ajungem la peisajele emblematice din jurul orașului Aix. După o scurtă oprire în centru, conducem spre poalele muntelui Sainte-Victoire.\n\nLa prânz ne bucurăm de natură și de frumusețea sălbatică a Provencei, pe care Cézanne a iubit-o atât de mult.\n\nDupă-amiaza vizităm atelierul său de la marginea orașului, înainte de a ne întoarce în inima orașului Aix.\n\nZiua se încheie relaxat cu o cină în Place des Cardeurs, unde viața urbană pulsează.",
+        "en": "By car, we reach the iconic landscapes surrounding Aix. After a short stop in the center, we drive to the foot of Sainte-Victoire.\n\nAt midday, we enjoy the nature and wild beauty of Provence that Cézanne loved so much.\n\nIn the afternoon, we visit his studio on the outskirts before driving back into the heart of Aix.\n\nThe day ends with a relaxed dinner at Place des Cardeurs, where city life pulses."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Table du Tholonet",
+            "tip": "Gehobene Küche nahe dem Berg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Table du Tholonet",
+            "tip": "Színvonalas konyha a hegy közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Table du Tholonet",
+            "tip": "Bucătărie rafinată lângă munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Table du Tholonet",
+            "tip": "Fine dining near the mountain."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Barrage de Bimont",
+            "tip": "Staudamm mit Wanderwegen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barrage de Bimont",
+            "tip": "Gát túraútvonalakkal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barrage de Bimont",
+            "tip": "Baraj cu trasee de drumeție.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Barrage de Bimont",
+            "tip": "Dam with hiking trails.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souleiado",
+            "tip": "Traditionelle provenzalische Stoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souleiado",
+            "tip": "Hagyományos provence-i textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souleiado",
+            "tip": "Țesături provensale tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souleiado",
+            "tip": "Traditional Provencal fabrics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Innenstadt ist teuer, nutzen Sie Park-and-Ride.",
+          "Die Straßen zum Berg sind schmal.",
+          "Vermeiden Sie die Rushhour.",
+          "Reservieren Sie das Cézanne-Atelier online."
+        ],
+        "hu": [
+          "A belvárosi parkolás drága, használja a P+R parkolókat.",
+          "A hegyhez vezető utak keskenyek.",
+          "Kerülje a csúcsforgalmat.",
+          "Foglalja le online a Cézanne-műterem látogatását."
+        ],
+        "ro": [
+          "Parcarea în centru este scumpă, folosiți Park-and-Ride.",
+          "Drumurile spre munte sunt înguste.",
+          "Evitați orele de vârf.",
+          "Rezervați online vizita la atelierul lui Cézanne."
+        ],
+        "en": [
+          "Parking in the city center is expensive, use Park-and-Ride.",
+          "The roads to the mountain are narrow.",
+          "Avoid rush hour.",
+          "Book the Cézanne Studio online."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontaine de la Rotonde",
+            "hu": "Rotonde kút",
+            "ro": "Fântâna Rotonde",
+            "en": "Fontaine de la Rotonde"
+          },
+          "coords": [
+            5.4452,
+            43.5263
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt.",
+            "hu": "Központi buszcsomópont.",
+            "ro": "Nod central de autobuze.",
+            "en": "Central bus hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Granet",
+            "hu": "Granet Múzeum",
+            "ro": "Muzeul Granet",
+            "en": "Musée Granet"
+          },
+          "coords": [
+            5.452,
+            43.5258
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erreichbar mit der Linie M3.",
+            "hu": "Az M3-as vonallal elérhető.",
+            "ro": "Accesibil cu linia M3.",
+            "en": "Accessible via line M3."
+          }
+        },
+        {
+          "name": {
+            "de": "Pavillon Vendôme",
+            "hu": "Vendôme-pavilon",
+            "ro": "Pavilionul Vendôme",
+            "en": "Pavillon Vendôme"
+          },
+          "coords": [
+            5.4428,
+            43.5315
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den City-Shuttle 'Diabline'.",
+            "hu": "Használja a 'Diabline' belvárosi járatot.",
+            "ro": "Folosiți microbuzul 'Diabline'.",
+            "en": "Use the 'Diabline' city shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Allées Provençales",
+            "hu": "Les Allées Provençales",
+            "ro": "Les Allées Provençales",
+            "en": "Les Allées Provençales"
+          },
+          "coords": [
+            5.4435,
+            43.5255
+          ],
+          "category": "shopping",
+          "arrive_at": "14:25",
+          "stay_min": 155,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Modernes Einkaufszentrum.",
+            "hu": "Modern bevásárlóközpont.",
+            "ro": "Centru comercial modern.",
+            "en": "Modern shopping center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den effizienten Stadtbussen von Aix erkunden wir die Highlights. Wir starten an der Rotonde, dem Herzstück des Nahverkehrs.\n\nMittags bringt uns der Bus zum Musée Granet, wo wir Kunst von Weltruf entdecken.\n\nAm Nachmittag fahren wir mit der 'Diabline' zum ruhigen Pavillon Vendôme, einer Oase im Stadtzentrum.\n\nDer Tag endet in den modernen Allées Provençales, wo Shopping und Cafés zum Verweilen einladen.",
+        "hu": "Aix hatékony buszhálózatával fedezzük fel a város nevezetességeit. A Rotonde-tól indulunk, amely a közlekedés szíve.\n\nDélben a busz elvisz minket a Musée Granet-be, ahol világhírű műalkotásokat láthatunk.\n\nDélután a 'Diabline' nevű kisbuszt használjuk, hogy eljussunk a csendes Pavillon Vendôme-hoz, a városi oázishoz.\n\nA nap a modern Allées Provençales negyedben zárul, ahol vásárlási lehetőségek és kávézók várnak ránk.",
+        "ro": "Explorăm punctele culminante folosind rețeaua eficientă de autobuze din Aix. Începem la Rotonde, inima transportului local.\n\nLa prânz, autobuzul ne duce la Musée Granet, unde descoperim opere de artă de renume mondial.\n\nDupă-amiaza folosim microbuzul 'Diabline' pentru a ajunge la liniștitul Pavilion Vendôme, o oază în centrul orașului.\n\nZiua se încheie în cartierul modern Allées Provençales, unde cumpărăturile și cafenelele vă invită la relaxare.",
+        "en": "We explore the highlights using the efficient bus network of Aix. We start at the Rotonde, the hub of local transport.\n\nAt midday, the bus takes us to the Musée Granet, where we discover world-class art.\n\nIn the afternoon, we ride the 'Diabline' shuttle to the quiet Pavillon Vendôme, an oasis in the city center.\n\nThe day ends in the modern Allées Provençales, where shopping and cafés invite you to linger."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maison Weibel",
+            "tip": "Feine Pâtisserie und Lunch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison Weibel",
+            "tip": "Finom sütemények és ebéd."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison Weibel",
+            "tip": "Patiserie fină și prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison Weibel",
+            "tip": "Fine pastry and lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Pavillon Vendôme",
+            "tip": "Ruhiger Barockgarten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Pavillon Vendôme",
+            "tip": "Csendes barokk kert.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Pavillon Vendôme",
+            "tip": "Grădină barocă liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Pavillon Vendôme",
+            "tip": "Quiet Baroque garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Apple Store Aix",
+            "tip": "In den Allées Provençales."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apple Store Aix",
+            "tip": "Az Allées Provençales területén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apple Store Aix",
+            "tip": "În Allées Provençales."
+          }
+        ],
+        "en": [
+          {
+            "name": "Apple Store Aix",
+            "tip": "In the Allées Provençales."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket in der 'Aix en Bus' App.",
+          "Die kleinen 'Diablines' fahren durch Fußgängerzonen.",
+          "Busse sind am Wochenende seltener.",
+          "Achten Sie auf die digitalen Anzeigen an den Haltestellen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet az 'Aix en Bus' alkalmazásban.",
+          "A kis 'Diabline' buszok a gyalogos zónákban is járnak.",
+          "A buszok hétvégén ritkábban közlekednek.",
+          "Figyelje a digitális kijelzőket a megállókban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi prin aplicația 'Aix en Bus'.",
+          "Microbuzele 'Diabline' circulă prin zonele pietonale.",
+          "Autobuzele sunt mai rare în weekend.",
+          "Urmăriți afișajele digitale din stații."
+        ],
+        "en": [
+          "Buy a day ticket in the 'Aix en Bus' app.",
+          "The small 'Diabline' shuttles run through pedestrian zones.",
+          "Buses are less frequent on weekends.",
+          "Watch the digital displays at the bus stops."
+        ]
+      }
+    }
+  }
+}

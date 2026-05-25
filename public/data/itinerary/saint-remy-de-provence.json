@@ -1,0 +1,1002 @@
+{
+  "city_id": "saint-remy-de-provence",
+  "anchor": {
+    "name": "Saint-Rémy-de-Provence Centre",
+    "coords": [
+      4.8336,
+      43.7886
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de la République",
+          "coords": [
+            4.8335,
+            43.7888
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee im Schatten der Platanen auf dem Hauptplatz.",
+            "hu": "Élvezze a kávét a hatalmas platánfák árnyékában a főtéren.",
+            "ro": "Savurați o cafea la umbra platanilor în piața centrală.",
+            "en": "Enjoy a coffee under the shade of giant plane trees in the main square."
+          }
+        },
+        {
+          "name": "Musée Estrine",
+          "coords": [
+            4.8318,
+            43.7892
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Verbindung zwischen Van Gogh und der modernen Kunst.",
+            "hu": "Fedezze fel Van Gogh és a modern művészet közötti kapcsolatot.",
+            "ro": "Descoperiți legătura dintre Van Gogh și arta modernă.",
+            "en": "Discover the link between Van Gogh and modern art in this 18th-century mansion."
+          }
+        },
+        {
+          "name": "Centre Historique (Vieille Ville)",
+          "coords": [
+            4.8325,
+            43.7885
+          ],
+          "category": "square",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie das Geburtshaus von Nostradamus in den engen Gassen.",
+            "hu": "Keresse meg Nostradamus szülőházát a szűk sikátorok között.",
+            "ro": "Căutați casa natală a lui Nostradamus printre străduțele înguste.",
+            "en": "Find the birthplace of Nostradamus among the narrow winding streets."
+          }
+        },
+        {
+          "name": "Les Antiques",
+          "coords": [
+            4.8318,
+            43.7765
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Mausoleum und den Ehrenbogen aus der Römerzeit.",
+            "hu": "Csodálja meg a római kori mauzóleumot és a diadalívet.",
+            "ro": "Admirați mausoleul și arcul de triumf din epoca romană.",
+            "en": "Admire the Roman mausoleum and triumphal arch standing since antiquity."
+          }
+        },
+        {
+          "name": "Glanum Archaeological Site",
+          "coords": [
+            4.8315,
+            43.7735
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen einer antiken Stadt am Fuße der Alpilles.",
+            "hu": "Fedezze fel az ókori város romjait az Alpilles lábánál.",
+            "ro": "Explorați ruinele unui oraș antic la poalele munților Alpilles.",
+            "en": "Explore the ruins of an ancient city at the foot of the Alpilles mountains."
+          }
+        },
+        {
+          "name": "Saint-Paul-de-Mausole",
+          "coords": [
+            4.8335,
+            43.7785
+          ],
+          "category": "religious",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Kloster, in dem Van Gogh 'Die Sternennacht' malte.",
+            "hu": "Látogassa meg a kolostort, ahol Van Gogh a Csillagos éjt festette.",
+            "ro": "Vizitați mănăstirea unde Van Gogh a pictat Noaptea înstelată.",
+            "en": "Visit the monastery and clinic where Van Gogh painted The Starry Night."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie in das lebhafte Zentrum von Saint-Rémy ein, schlendern durch die Gassen und besuchen das Musée Estrine. Mittags genießen Sie provenzalische Köstlichkeiten in der Altstadt, bevor Sie sich auf den Weg nach Süden machen. Nachmittags erwarten Sie die monumentalen Zeugen der Römerzeit: Les Antiques und die Ausgrabungsstätte Glanum. Den Tag lassen Sie im friedlichen Kreuzgang von Saint-Paul-de-Mausole ausklingen, wo Van Gogh Inspiration fand.",
+        "hu": "A délelőttöt Saint-Rémy pezsgő központjában indítjuk, felfedezve az óváros szűk utcáit és a Musée Estrine kiállításait. Délben megkóstoljuk a helyi specialitásokat egy hangulatos teraszon, majd dél felé vesszük az irányt. Délután a római múlt emlékei, Les Antiques és Glanum romvárosa repítenek vissza az időben. Az estét a Saint-Paul-de-Mausole kolostor békés kertjében zárjuk, ahol Van Gogh legszebb műveit alkotta.",
+        "ro": "Dimineața începe în centrul vibrant al orașului Saint-Rémy, explorând străduțele vechi și vizitând Muzeul Estrine. La prânz, savurați delicatese provensale în centrul istoric înainte de a porni spre sud. După-amiaza este dedicată istoriei romane, vizitând monumentele Les Antiques și situl arheologic Glanum. Încheiați ziua în liniștea mănăstirii Saint-Paul-de-Mausole, locul unde Van Gogh a găsit inspirație în timpul șederii sale.",
+        "en": "Start your morning in the vibrant heart of Saint-Rémy, wandering through historic alleys and visiting the Musée Estrine. At midday, enjoy Provencal flavors in the old town before heading south. Your afternoon is dedicated to Roman history at Les Antiques and the impressive Glanum archaeological site. Finish the day in the peaceful cloisters of Saint-Paul-de-Mausole, the sanctuary where Van Gogh created some of his most famous masterpieces."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lavendelhonig",
+            "tip": "Probieren Sie den echten provenzalischen Honig auf dem Markt."
+          },
+          {
+            "name": "Le Bistro du Paradou",
+            "tip": "Ein klassisches Erlebnis mit festem Menü in der Nähe."
+          },
+          {
+            "name": "Tapenade",
+            "tip": "Paste aus schwarzen Oliven, serviert auf frischem Baguette."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulaméz",
+            "tip": "Kóstolja meg az igazi provence-i mézet a helyi piacon."
+          },
+          {
+            "name": "Le Bistro du Paradou",
+            "tip": "Klasszikus francia élmény fix menüvel a közelben."
+          },
+          {
+            "name": "Tapenade",
+            "tip": "Fekete olívabogyókrém friss baguette-re kenve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de lavandă",
+            "tip": "Gustați mierea autentică provensală la piața locală."
+          },
+          {
+            "name": "Le Bistro du Paradou",
+            "tip": "O experiență clasică cu meniu fix în apropiere."
+          },
+          {
+            "name": "Tapenadă",
+            "tip": "Pastă de măsline negre servită pe baghetă proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Honey",
+            "tip": "Taste the authentic Provencal honey at the local market."
+          },
+          {
+            "name": "Le Bistro du Paradou",
+            "tip": "A classic French experience with a fixed menu nearby."
+          },
+          {
+            "name": "Tapenade",
+            "tip": "Black olive spread served on fresh crusty baguette."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kreuzgang von Saint-Paul",
+            "tip": "Ein Ort tiefer Stille und Meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de la Caume",
+            "tip": "Panoramablick über die Alpilles.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glanum-Quelle",
+            "tip": "Kühler, heiliger Ort im antiken Stadtgebiet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Paul kolostorkert",
+            "tip": "A csend és a meditáció tökéletes helyszíne.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de la Caume",
+            "tip": "Panorámás kilátás az Alpilles vonulataira.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glanum forrás",
+            "tip": "Hűvös, szakrális hely az ókori város területén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cloastrul Saint-Paul",
+            "tip": "Un loc de liniște profundă și meditație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de la Caume",
+            "tip": "Vedere panoramică peste munții Alpilles.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Izvorul Glanum",
+            "tip": "Un loc răcoros și sacru în situl antic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Paul Cloister",
+            "tip": "A place of deep silence and meditation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de la Caume",
+            "tip": "Panoramic views over the Alpilles range.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Glanum Spring",
+            "tip": "Cool, sacred spot within the ancient city site.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt (Mittwoch)",
+            "tip": "Der berühmteste Markt der Region für Textilien und Essen."
+          },
+          {
+            "name": "Boutique des Alpilles",
+            "tip": "Lokales Olivenöl und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szerdai piac",
+            "tip": "A régió leghíresebb piaca textilekkel és ételekkel."
+          },
+          {
+            "name": "Boutique des Alpilles",
+            "tip": "Helyi olívaolaj és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală (Miercuri)",
+            "tip": "Cea mai faimoasă piață din regiune pentru textile și mâncare."
+          },
+          {
+            "name": "Boutique des Alpilles",
+            "tip": "Ulei de măsline local și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wednesday Market",
+            "tip": "The most famous market in the region for textiles and food."
+          },
+          {
+            "name": "Boutique des Alpilles",
+            "tip": "Local olive oil and artisanal crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Schotterwege in Glanum.",
+          "Mittwochmorgens ist das Parken schwierig wegen des Marktes.",
+          "Buchen Sie das Musée Estrine im Voraus, wenn Sie wenig Zeit haben.",
+          "Nehmen Sie Wasser mit, wenn Sie nach Glanum wandern."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a glanumi murvás utakhoz.",
+          "Szerda reggel a parkolás nehézkes a piac miatt.",
+          "Foglaljon jegyet előre a Musée Estrine-be, ha kevés az ideje.",
+          "Vigyen magával vizet a Glanum felé tartó sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumurile cu pietriș din Glanum.",
+          "Miercuri dimineața parcarea este dificilă din cauza pieței.",
+          "Rezervați bilete în avans la Muzeul Estrine dacă aveți timp limitat.",
+          "Luați apă la voi pentru plimbarea spre Glanum."
+        ],
+        "en": [
+          "Wear comfortable shoes for the gravel paths in Glanum.",
+          "Wednesday mornings are busy; parking is tough due to the market.",
+          "Book Musée Estrine in advance if you are on a tight schedule.",
+          "Carry water when walking uphill towards the Glanum site."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de la République",
+          "coords": [
+            4.8336,
+            43.7886
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die Radtour durch die Alpilles.",
+            "hu": "Az Alpilles körüli bringázás kiindulópontja.",
+            "ro": "Punctul de plecare pentru turul cu bicicleta.",
+            "en": "Start point for your cycling tour around the Alpilles."
+          }
+        },
+        {
+          "name": "Les Antiques",
+          "coords": [
+            4.8318,
+            43.7765
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schneller Stopp bei den römischen Monumenten.",
+            "hu": "Gyors megálló a római műemlékeknél.",
+            "ro": "O oprire rapidă la monumentele romane.",
+            "en": "A quick stop at the Roman monuments."
+          }
+        },
+        {
+          "name": "Saint-Paul-de-Mausole",
+          "coords": [
+            4.8335,
+            43.7785
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Eingang.",
+            "hu": "Parkolja le biztonságosan a bringát a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely at the entrance."
+          }
+        },
+        {
+          "name": "Glanum",
+          "coords": [
+            4.8315,
+            43.7735
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Auffahrt zum Gelände ist leicht steil.",
+            "hu": "A telephelyhez vezető út kissé meredek.",
+            "ro": "Urcarea spre sit este ușor abruptă.",
+            "en": "The approach to the site is slightly uphill."
+          }
+        },
+        {
+          "name": "Alpilles Foothills Loop",
+          "coords": [
+            4.85,
+            43.77
+          ],
+          "category": "park",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch Olivenhainfelder.",
+            "hu": "Élvezze a tekerést az olajfaligetek között.",
+            "ro": "Bucurați-vă de plimbarea printre livezile de măslini.",
+            "en": "Enjoy the ride through the olive groves."
+          }
+        },
+        {
+          "name": "Old Town Centre",
+          "coords": [
+            4.8325,
+            43.7885
+          ],
+          "category": "square",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Eis in der Altstadt.",
+            "hu": "Jutalmazza meg magát egy fagyival az óvárosban.",
+            "ro": "Răsplătiți-vă cu o înghețată în centrul vechi.",
+            "en": "Reward yourself with an ice cream in the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie nicht nur die Stadt, sondern auch die umliegenden Olivenhaine. Nach dem Start im Zentrum besuchen Sie die römischen Monumente und das Van-Gogh-Kloster. Eine kleine Schleife durch die Ausläufer der Alpilles bietet herrliche Ausblicke und frische Luft, bevor Sie zur Entspannung ins historische Viertel zurückkehren.",
+        "hu": "Kerékpárral nemcsak a várost, hanem a környező olajfaligeteket is felfedezheti. A központból indulva érintjük a római emlékeket és a Van Gogh kolostort. Egy kis hurok az Alpilles lábánál csodás kilátást és friss levegőt kínál, mielőtt visszatérnénk pihenni a történelmi negyedbe.",
+        "ro": "Cu bicicleta veți explora nu doar orașul, ci și livezile de măslini din jur. După plecarea din centru, vizitați monumentele romane și mănăstirea Van Gogh. O mică buclă prin poalele Alpilles oferă vederi superbe și aer curat înainte de a reveni în centrul istoric.",
+        "en": "On a bike, you can explore not just the town but the surrounding olive groves as well. Starting from the center, head to the Roman monuments and the Van Gogh monastery. A short loop through the Alpilles foothills offers stunning views and fresh air before returning to the old town for relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Verkostung",
+            "tip": "Besuchen Sie eine Mühle am Stadtrand."
+          },
+          {
+            "name": "Pain au Chocolat",
+            "tip": "Perfekter Snack für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj kóstoló",
+            "tip": "Látogasson el egy malomba a város szélén."
+          },
+          {
+            "name": "Pain au Chocolat",
+            "tip": "Tökéletes falat útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Degustare de ulei de măsline",
+            "tip": "Vizitați o moară la marginea orașului."
+          },
+          {
+            "name": "Pain au Chocolat",
+            "tip": "Gustarea perfectă pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Tasting",
+            "tip": "Visit a mill on the outskirts of town."
+          },
+          {
+            "name": "Pain au Chocolat",
+            "tip": "The perfect snack for your ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landstraßen",
+            "tip": "Ruhige Wege abseits der Hauptstraßen.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mellékutak",
+            "tip": "Csendes utak a főúttól távol.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri secundare",
+            "tip": "Trasee liniștite departe de drumul principal.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Backroads",
+            "tip": "Quiet paths away from the main traffic.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Boutique du Moulin",
+            "tip": "Hauseigenes Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boutique du Moulin",
+            "tip": "Helyi termelésű olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Boutique du Moulin",
+            "tip": "Ulei de măsline de producție proprie."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Boutique du Moulin",
+            "tip": "Locally produced olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Hügelstrecken.",
+          "Achten Sie auf den Mistral-Wind."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a dombos szakaszokhoz.",
+          "Vigyázzon a misztrál széllel."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru dealuri.",
+          "Atenție la vântul Mistral."
+        ],
+        "en": [
+          "Rent an e-bike for the hilly sections.",
+          "Watch out for the Mistral wind."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 28.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de la République",
+          "coords": [
+            4.8336,
+            43.7886
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Parkplatz de la Libération.",
+            "hu": "Parkoljon a de la Libération parkolóban.",
+            "ro": "Parcați în parcarea de la Libération.",
+            "en": "Park at the Libération parking lot."
+          }
+        },
+        {
+          "name": "Glanum & Les Antiques",
+          "coords": [
+            4.8315,
+            43.7735
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt gegenüber den Monumenten.",
+            "hu": "Nagy parkoló közvetlenül a műemlékekkel szemben.",
+            "ro": "Parcare mare direct vis-a-vis de monumente.",
+            "en": "Large parking lot directly opposite the monuments."
+          }
+        },
+        {
+          "name": "Saint-Paul-de-Mausole",
+          "coords": [
+            4.8335,
+            43.7785
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurze Fahrt von Glanum.",
+            "hu": "Rövid autóút Glanumtól.",
+            "ro": "Drum scurt cu mașina de la Glanum.",
+            "en": "Short drive from Glanum."
+          }
+        },
+        {
+          "name": "Carrières des Lumières",
+          "coords": [
+            4.821,
+            43.747
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Lichtshow in einem Steinbruch (nahe Les Baux).",
+            "hu": "Látványos fényshow egy kőbányában (Les Baux mellett).",
+            "ro": "Spectacol de lumini spectaculos într-o carieră (lângă Les Baux).",
+            "en": "Spectacular light show in a limestone quarry (near Les Baux)."
+          }
+        },
+        {
+          "name": "Les Baux-de-Provence",
+          "coords": [
+            4.795,
+            43.744
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs auf einem Felsen.",
+            "hu": "Franciaország egyik legszebb faluja egy sziklán.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța pe o stâncă.",
+            "en": "One of the most beautiful villages in France perched on a rock."
+          }
+        },
+        {
+          "name": "Return to Saint-Rémy",
+          "coords": [
+            4.8336,
+            43.7886
+          ],
+          "category": "gastro",
+          "arrive_at": "17:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Abendessen im Zentrum.",
+            "hu": "Vacsora a központban.",
+            "ro": "Cina în centru.",
+            "en": "Dinner in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie die Highlights von Saint-Rémy mit dem spektakulären Dorf Les Baux-de-Provence. Vormittags besuchen Sie Glanum und das Van-Gogh-Heim. Nach einer kurzen Panoramafahrt durch die Alpilles erleben Sie die digitale Kunst in den Carrières des Lumières und erkunden die mittelalterliche Festung von Les Baux, bevor Sie nach Saint-Rémy zurückkehren.",
+        "hu": "Autóval Saint-Rémy legfontosabb látnivalóit kombináljuk a látványos Les Baux-de-Provence faluval. Délelőtt Glanumot és a Van Gogh otthont keressük fel. Rövid panorámaút után az Alpilles-ben, digitális művészeti élményben lesz részünk a Carrières des Lumières-ben, majd felfedezzük Les Baux középkori várát, mielőtt visszatérnénk vacsorázni.",
+        "ro": "Cu mașina combinați atracțiile din Saint-Rémy cu satul spectaculos Les Baux-de-Provence. Dimineața vizitați Glanum și azilul lui Van Gogh. După o scurtă călătorie panoramică prin Alpilles, experimentați arta digitală la Carrières des Lumières și explorați fortăreața medievală din Les Baux înainte de a reveni în Saint-Rémy.",
+        "en": "By car, you can combine Saint-Rémy's highlights with the spectacular village of Les Baux-de-Provence. Spend the morning at Glanum and the Van Gogh asylum. After a short scenic drive through the Alpilles, experience digital art at Carrières des Lumières and explore the medieval fortress of Les Baux before heading back for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm aus den Alpilles",
+            "tip": "Eine lokale Fleischspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpilles-i bárány",
+            "tip": "Helyi hús-specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel din Alpilles",
+            "tip": "O specialitate locală de carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpilles Lamb",
+            "tip": "A prime local meat specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Val d'Enfer",
+            "tip": "Bizarre Felsformationen bei Les Baux.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Val d'Enfer",
+            "tip": "Bizarr sziklaalakzatok Les Baux mellett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Val d'Enfer",
+            "tip": "Formațiuni stâncoase bizare lângă Les Baux.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Val d'Enfer",
+            "tip": "Bizarre rock formations near Les Baux.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Provenzalische Stoffe",
+            "tip": "Typische Muster und Farben."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provence-i szövetek",
+            "tip": "Tipikus minták és színek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țesături provensale",
+            "tip": "Modele și culori tipice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Provencal Fabrics",
+            "tip": "Typical patterns and colors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Les Baux ist teuer und im Sommer begrenzt.",
+          "Kaufen Sie Kombitickets für Glanum und Les Baux."
+        ],
+        "hu": [
+          "A parkolás Les Baux-ban drága és nyáron korlátozott.",
+          "Vásároljon kombinált jegyet Glanumhoz és Les Baux-hoz."
+        ],
+        "ro": [
+          "Parcarea în Les Baux este scumpă și limitată vara.",
+          "Cumpărați bilete combinate pentru Glanum și Les Baux."
+        ],
+        "en": [
+          "Parking in Les Baux is expensive and limited in summer.",
+          "Buy combination tickets for Glanum and Les Baux."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare Routière (Bus Station)",
+          "coords": [
+            4.8336,
+            43.7886
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Knotenpunkt für Regionalbusse.",
+            "hu": "Regionális buszok csomópontja.",
+            "ro": "Nod central pentru autobuzele regionale.",
+            "en": "Central hub for regional buses."
+          }
+        },
+        {
+          "name": "Musée Estrine",
+          "coords": [
+            4.8318,
+            43.7892
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Busbahnhof erreichbar.",
+            "hu": "Könnyen elérhető gyalog a buszállomástól.",
+            "ro": "Ușor accesibil pe jos de la autogară.",
+            "en": "Easy walk from the bus station."
+          }
+        },
+        {
+          "name": "Historic Centre",
+          "coords": [
+            4.8325,
+            43.7885
+          ],
+          "category": "square",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentraler Bereich für Mittagessen.",
+            "hu": "Központi terület ebédeléshez.",
+            "ro": "Zonă centrală pentru prânz.",
+            "en": "Central area for lunch."
+          }
+        },
+        {
+          "name": "Glanum / Les Antiques",
+          "coords": [
+            4.8315,
+            43.7735
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Shuttle (Navette) in der Saison.",
+            "hu": "Használja a helyi buszt (Navette) szezonban.",
+            "ro": "Folosiți naveta locală în timpul sezonului.",
+            "en": "Use the local shuttle (Navette) during the season."
+          }
+        },
+        {
+          "name": "Saint-Paul-de-Mausole",
+          "coords": [
+            4.8335,
+            43.7785
+          ],
+          "category": "religious",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestelle Les Antiques.",
+            "hu": "Les Antiques megálló közelében.",
+            "ro": "Aproape de stația Les Antiques.",
+            "en": "Near the Les Antiques stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Nahverkehr und dem saisonalen Shuttle lässt sich Saint-Rémy gut erkunden. Vormittags konzentrieren Sie sich auf die Museen und das historische Zentrum. Nachmittags bringt Sie der Bus oder Shuttle zu den römischen Ausgrabungen und dem Van-Gogh-Heim, bevor Sie bequem zum Ausgangspunkt zurückkehren.",
+        "hu": "Tömegközlekedéssel és a szezonális busszal Saint-Rémy jól bejárható. Délelőtt a múzeumokra és a történelmi központra koncentrálunk. Délután a busz elvisz a római ásatásokhoz és a Van Gogh otthonhoz, majd kényelmesen visszatérünk a kiindulópontra.",
+        "ro": "Cu transportul public și naveta sezonieră, Saint-Rémy poate fi explorat ușor. Dimineața vă concentrați pe muzee și centrul istoric. După-amiaza, autobuzul sau naveta vă duce la situl roman și la azilul lui Van Gogh, înainte de a reveni la punctul de plecare.",
+        "en": "Using public transport and the seasonal shuttle, Saint-Rémy is easily navigable. Spend your morning focusing on the museums and the historical center. In the afternoon, take the bus or shuttle to the Roman ruins and the Van Gogh asylum before returning conveniently to the main station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Provenzalische Kräuter",
+            "tip": "Kaufen Sie kleine Säckchen als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provence-i fűszerek",
+            "tip": "Vásároljon kis tasakos fűszerkeveréket szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi de Provence",
+            "tip": "Cumpărați săculeți cu ierburi ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbes de Provence",
+            "tip": "Buy small sachets of dried herbs as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Saint-Martin",
+            "tip": "Kühle Stille im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Martin templom",
+            "tip": "Hűvös csend a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Saint-Martin",
+            "tip": "Liniște răcoroasă în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Martin Church",
+            "tip": "Cool silence in the town center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Örtliche Bäckereien",
+            "tip": "Für frisches Baguette und Quiche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékségek",
+            "tip": "Friss baguette és quiche válogatás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării locale",
+            "tip": "Pentru baghete proaspete și quiche."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakeries",
+            "tip": "For fresh baguettes and quiche."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie die Busfahrzeiten (Linie 707) vorab.",
+          "Die Navette fährt nur in den Sommermonaten."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet (707-es vonal) előre.",
+          "A Navette csak a nyári hónapokban közlekedik."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (linia 707) în avans.",
+          "Naveta circulă doar în lunile de vară."
+        ],
+        "en": [
+          "Check bus schedules (Line 707) in advance.",
+          "The Navette shuttle only runs during summer months."
+        ]
+      }
+    }
+  }
+}

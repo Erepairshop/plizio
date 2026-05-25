@@ -1,0 +1,904 @@
+{
+  "city_id": "cauterets",
+  "anchor": {
+    "name": "Cauterets Centre",
+    "coords": [
+      42.8881,
+      -0.1133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Gare de Cauterets",
+          "coords": [
+            42.8915,
+            -0.1128
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das hölzerne Bahnhofsgebäude im Chalet-Stil.",
+            "hu": "Csodálja meg a faház stílusú vasútállomás épületét.",
+            "ro": "Admirați clădirea gării din lemn în stil cabană.",
+            "en": "Admire the wooden chalet-style railway station building."
+          }
+        },
+        {
+          "name": "Esplanade des Œufs",
+          "coords": [
+            42.8892,
+            -0.1142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die traditionellen Berlingot-Läden.",
+            "hu": "Látogasson el a hagyományos Berlingot édességboltokba.",
+            "ro": "Vizitați magazinele tradiționale de bomboane Berlingot.",
+            "en": "Visit the traditional Berlingot candy shops."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            42.8885,
+            -0.1135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Klassische Architektur im Herzen des Pyrenäen-Dorfes.",
+            "hu": "Klasszikus építészet a pireneusi falu szívében.",
+            "ro": "Arhitectură clasică în inima satului pirinean.",
+            "en": "Classic architecture in the heart of the Pyrenean village."
+          }
+        },
+        {
+          "name": "Musée 1900 / Pavillon des Abeilles",
+          "coords": [
+            42.8872,
+            -0.1155
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Goldene Zeitalter der Thermalkur.",
+            "hu": "Merüljön el a gyógyfürdőzés aranykorában.",
+            "ro": "Pătrundeți în epoca de aur a tratamentelor termale.",
+            "en": "Dive into the golden age of thermal spa treatments."
+          }
+        },
+        {
+          "name": "Thermes de Cauterets (Les Thermes César)",
+          "coords": [
+            42.8868,
+            -0.1125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Prachtvolle Fassade aus dem 19. Jahrhundert.",
+            "hu": "Pompás 19. századi homlokzat.",
+            "ro": "Fațadă splendidă din secolul al XIX-lea.",
+            "en": "Splendid 19th-century facade."
+          }
+        },
+        {
+          "name": "Parc National des Pyrénées (Entrance Area)",
+          "coords": [
+            42.8845,
+            -0.1145
+          ],
+          "category": "natural features",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang am Ufer des Gave de Cauterets.",
+            "hu": "Rövid séta a Gave de Cauterets folyó partján.",
+            "ro": "Scurtă plimbare pe malul râului Gave de Cauterets.",
+            "en": "Short walk along the banks of the Gave de Cauterets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am malerischen Holzbahnhof, einem Zeugnis der glanzvollen Reisevergangenheit. Die Architektur erinnert an alpine Chalets.\n\nMittags spazieren Sie über die Esplanade des Œufs und probieren die berühmten Berlingots, bunte Zuckerbonbons, die ursprünglich den Geschmack des Thermalwassers mildern sollten.\n\nDer Nachmittag ist der 'Belle Époque' gewidmet. Das Musée 1900 zeigt elegante Kleider und Plakate, während die Thermes César die römische Badetradition fortführen.\n\nZum Ausklang genießen Sie die frische Bergluft am Rand des Nationalparks, wo das Rauschen des Flusses Gave de Cauterets die Kulisse bildet.",
+        "hu": "A nap a festői fapályaudvaron kezdődik, amely a dicsőséges utazási múlt tanúja. Építészete az alpesi faházakra emlékeztet.\n\nDélben az Esplanade des Œufs sétányon korzózunk, és megkóstoljuk a híres Berlingot cukorkákat, amelyeket eredetileg a gyógyvíz ízének enyhítésére készítettek.\n\nA délután a 'Belle Époque' jegyében telik. Az 1900-as Múzeum elegáns ruhákat és plakátokat mutat be, míg a César-fürdő a római fürdőhagyományt őrzi.\n\nBefejezésül élvezze a friss hegyi levegőt a Nemzeti Park szélén, ahol a Gave de Cauterets folyó zúgása szolgáltatja a hátteret.",
+        "ro": "Ziua începe la gara pitorească de lemn, mărturie a trecutului glorios al călătoriilor. Arhitectura amintește de cabanele alpine.\n\nLa prânz vă plimbați pe Esplanade des Œufs și gustați celebrele bomboane Berlingot, create inițial pentru a atenua gustul apei termale.\n\nDupă-amiaza este dedicată epocii 'Belle Époque'. Muzeul 1900 expune rochii și afișe elegante, în timp ce Termele César continuă tradiția romană a băilor.\n\nLa final, bucurați-vă de aerul proaspăt de munte la marginea Parcului Național, unde susurul râului Gave de Cauterets creează decorul perfect.",
+        "en": "Your day starts at the picturesque wooden station, a testament to the glamorous travel past. The architecture is reminiscent of Alpine chalets.\n\nAt midday, stroll across the Esplanade des Œufs and taste the famous Berlingots, colorful sugar candies originally made to soften the taste of thermal water.\n\nAfternoon is dedicated to the 'Belle Époque'. Musée 1900 displays elegant dresses and posters, while Thermes César continues the Roman bathing tradition.\n\nTo finish, enjoy the fresh mountain air at the edge of the National Park, where the sound of the Gave de Cauterets river provides the backdrop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Berlingots de Cauterets",
+            "tip": "Traditionelle handgemachte Zuckerbonbons."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Berlingots de Cauterets",
+            "tip": "Hagyományos, kézzel készült cukorkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berlingots de Cauterets",
+            "tip": "Bomboane de zahăr tradiționale lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Berlingots de Cauterets",
+            "tip": "Traditional handmade sugar candies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de la Victoire",
+            "tip": "Kleiner Park im Zentrum für eine ruhige Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de la Victoire",
+            "tip": "Kis park a központban egy csendes pihenőre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de la Victoire",
+            "tip": "Un mic parc în centru pentru o pauză liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de la Victoire",
+            "tip": "Small park in the center for a quiet break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confiserie à l'ancienne",
+            "tip": "Laden Sie Ihre Vorräte an Berlingots und Honig auf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régimódi édességbolt",
+            "tip": "Töltse fel készleteit Berlingot cukorkából és mézből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie tradițională",
+            "tip": "Faceți-vă provizii de bomboane Berlingot și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old-style confectionery",
+            "tip": "Stock up on Berlingots and mountain honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cauterets ist ein kompaktes Dorf, alles ist gut zu Fuß erreichbar.",
+          "Probieren Sie das Thermalwasser (Achtung: Schwefelgeschmack!).",
+          "Abends kann es in den Bergen schnell kühl werden.",
+          "Die Berlingot-Herstellung kann oft in den Läden beobachtet werden."
+        ],
+        "hu": [
+          "Cauterets kompakt falu, minden jól elérhető gyalog.",
+          "Kóstolja meg a gyógyvizet (vigyázat: kénes íz!).",
+          "Este a hegyekben gyorsan lehűlhet a levegő.",
+          "A Berlingot-készítést gyakran meg lehet nézni a boltokban."
+        ],
+        "ro": [
+          "Cauterets este un sat compact, totul este ușor accesibil pe jos.",
+          "Gustați apa termală (atenție: gust de sulf!).",
+          "Seara se poate răci rapid la munte.",
+          "Fabricarea bomboanelor Berlingot poate fi adesea observată în magazine."
+        ],
+        "en": [
+          "Cauterets is a compact village, everything is easily walkable.",
+          "Try the thermal water (warning: sulfur taste!).",
+          "Evenings can get cool quickly in the mountains.",
+          "Berlingot making can often be watched in the shops."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Cauterets",
+          "coords": [
+            42.8915,
+            -0.1128
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt für den Radweg 'Voie Verte des Gaves'.",
+            "hu": "A 'Voie Verte des Gaves' kerékpárút kiindulópontja.",
+            "ro": "Punct de plecare pentru pista de biciclete 'Voie Verte des Gaves'.",
+            "en": "Starting point for the 'Voie Verte des Gaves' bike path."
+          }
+        },
+        {
+          "name": "Esplanade des Œufs",
+          "coords": [
+            42.8892,
+            -0.1142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig durch die Fußgängerzonen.",
+            "hu": "Hajtson óvatosan a sétálóövezetben.",
+            "ro": "Conduceți cu atenție prin zonele pietonale.",
+            "en": "Ride carefully through the pedestrian areas."
+          }
+        },
+        {
+          "name": "Thermes de Cauterets",
+          "coords": [
+            42.8868,
+            -0.1125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad vor dem Thermalbad.",
+            "hu": "Parkolja le a biciklit a fürdő előtt.",
+            "ro": "Parcați bicicleta în fața băilor termale.",
+            "en": "Park your bike in front of the thermal baths."
+          }
+        },
+        {
+          "name": "La Raillère (Nearby Hill)",
+          "coords": [
+            42.8715,
+            -0.1152
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber tolle Aussicht auf den Wasserfall Lutour.",
+            "hu": "Meredek emelkedő, de remek kilátás a Lutour-vízesésre.",
+            "ro": "Urcare abruptă, dar vedere excelentă spre cascada Lutour.",
+            "en": "Steep climb, but great view of the Lutour waterfall."
+          }
+        },
+        {
+          "name": "Cascade de Lutour",
+          "coords": [
+            42.8685,
+            -0.1148
+          ],
+          "category": "natural features",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Belohnung für den Anstieg mit frischer Gischt.",
+            "hu": "Jutalom az emelkedőért a friss vízpermet.",
+            "ro": "Recompensa pentru urcare: vaporii proaspeți de apă.",
+            "en": "Reward for the climb with fresh water spray."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie das Tal von Cauterets sportlich. Starten Sie entspannt am alten Bahnhof.\n\nNach einer Runde durch das Dorfzentrum führt der Weg bergauf in Richtung La Raillère. Dieser Abschnitt erfordert Kondition oder ein E-Bike.\n\nDie Belohnung ist die Cascade de Lutour, einer der schönsten Wasserfälle der Region, der direkt am Weg liegt.\n\nDer Rückweg bergab ins Dorf ist purer Genuss bei herrlicher Bergsicht.",
+        "hu": "Kerékpárral sportosan fedezheti fel Cauterets völgyét. Kezdjen pihentetően a régi vasútállomásnál.\n\nA faluközpontban tett kör után az út felfelé vezet La Raillère irányába. Ez a szakasz edzettséget vagy elektromos kerékpárt igényel.\n\nA jutalom a Lutour-vízesés, a régió egyik legszebb vízesése, amely közvetlenül az út mellett található.\n\nA visszaút lefelé a faluba tiszta élvezet a csodálatos hegyi kilátással.",
+        "ro": "Cu bicicleta explorați valea Cauterets într-un mod sportiv. Începeți relaxat la vechea gară.\n\nDupă o tură prin centrul satului, drumul urcă spre La Raillère. Această secțiune necesită condiție fizică sau o bicicletă electrică.\n\nRecompensa este Cascada de Lutour, una dintre cele mai frumoase cascade din regiune, situată chiar lângă drum.\n\nDrumul de întoarcere la vale spre sat este o plăcere pură, cu vederi montane superbe.",
+        "en": "By bike, you can explore the Cauterets valley in a sporty way. Start relaxed at the old station.\n\nAfter a loop through the village center, the path leads uphill towards La Raillère. This section requires fitness or an e-bike.\n\nThe reward is the Cascade de Lutour, one of the region's most beautiful waterfalls, located right by the path.\n\nThe ride back down to the village is pure joy with magnificent mountain views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gâteau à la broche",
+            "tip": "Am Spieß gebackener Baumkuchen, eine Pyrenäen-Spezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gâteau à la broche",
+            "tip": "Nyárson sült kürtőskalács-szerű sütemény, pireneusi specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâteau à la broche",
+            "tip": "Prăjitură coaptă la proțap, o specialitate din Pirinei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gâteau à la broche",
+            "tip": "Spit-roasted cake, a Pyrenean specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sentier des cascades",
+            "tip": "Ruhige Stellen am Bachlauf.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízesések ösvénye",
+            "tip": "Csendes helyek a patak mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sentier des cascades",
+            "tip": "Locuri liniștite pe malul pârâului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfalls trail",
+            "tip": "Quiet spots along the stream.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Location VTT",
+            "tip": "Mieten Sie ein hochwertiges Mountainbike im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi kerékpár kölcsönző",
+            "tip": "Béreljen kiváló minőségű hegyi kerékpárt a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri VTT",
+            "tip": "Închiriați o bicicletă de munte de calitate în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "MTB rental",
+            "tip": "Rent a high-quality mountain bike in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für die Steigungen sehr zu empfehlen.",
+          "Prüfen Sie vor der Abfahrt Ihre Bremsen.",
+          "Tragen Sie immer einen Helm, besonders bergab.",
+          "Die Voie Verte ins Tal ist flacher und einfacher."
+        ],
+        "hu": [
+          "Az emelkedőkhöz kifejezetten ajánlott az elektromos kerékpár.",
+          "Indulás előtt ellenőrizze a fékeket.",
+          "Mindig viseljen bukósisakot, különösen lejtmenetben.",
+          "A völgybe vezető Voie Verte laposabb és könnyebb."
+        ],
+        "ro": [
+          "O bicicletă electrică este foarte recomandată pentru urcușuri.",
+          "Verificați frânele înainte de plecare.",
+          "Purtați întotdeauna cască, mai ales la coborâre.",
+          "Voie Verte spre vale este mai plată și mai ușoară."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the climbs.",
+          "Check your brakes before starting the descent.",
+          "Always wear a helmet, especially going downhill.",
+          "The Voie Verte into the valley is flatter and easier."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Pont d'Espagne",
+          "coords": [
+            42.8525,
+            -0.1385
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz Puntas.",
+            "hu": "Parkoljon a nagy Puntas parkolóban.",
+            "ro": "Parcați în marea parcare Puntas.",
+            "en": "Park in the large Puntas parking lot."
+          }
+        },
+        {
+          "name": "Lac de Gaube",
+          "coords": [
+            42.8345,
+            -0.1382
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Sessellift Gaube für einen schnellen Aufstieg.",
+            "hu": "Használja a Gaube libegőt a gyors feljutáshoz.",
+            "ro": "Folosiți telescaunul Gaube pentru o urcare rapidă.",
+            "en": "Use the Gaube chairlift for a quick ascent."
+          }
+        },
+        {
+          "name": "Gare de Cauterets",
+          "coords": [
+            42.8915,
+            -0.1128
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Parkplätze direkt am Bahnhof verfügbar.",
+            "hu": "Parkolóhelyek közvetlenül az állomásnál.",
+            "ro": "Locuri de parcare disponibile direct la gară.",
+            "en": "Parking spaces available directly at the station."
+          }
+        },
+        {
+          "name": "Esplanade des Œufs",
+          "coords": [
+            42.8892,
+            -0.1142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt mit vielen Cafés.",
+            "hu": "Központi találkozóhely sok kávézóval.",
+            "ro": "Punct de întâlnire central cu multe cafenele.",
+            "en": "Central meeting point with many cafes."
+          }
+        },
+        {
+          "name": "Musée 1900",
+          "coords": [
+            42.8872,
+            -0.1155
+          ],
+          "category": "museums",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des Alpinismus.",
+            "hu": "Fedezze fel az alpinizmus történelmét.",
+            "ro": "Descoperiți istoria alpinismului.",
+            "en": "Discover the history of alpinism."
+          }
+        },
+        {
+          "name": "Thermes de Cauterets",
+          "coords": [
+            42.8868,
+            -0.1125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein Foto der Belle-Époque-Architektur.",
+            "hu": "Tökéletes fotóhelyszín a Belle Époque építészethez.",
+            "ro": "Perfect pentru o fotografie a arhitecturii Belle Époque.",
+            "en": "Perfect for a photo of the Belle Époque architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Orte im Hochgebirge. Starten Sie früh am Pont d'Espagne, dem Tor zum Nationalpark.\n\nVon dort führt der Weg (zu Fuß oder per Lift) zum Lac de Gaube, einem smaragdgrünen See unter dem majestätischen Vignemale-Gipfel.\n\nAm Nachmittag kehren Sie ins Dorf zurück, um die historische Architektur und die Museen zu erkunden, die von der goldenen Zeit der Kurgäste erzählen.\n\nEin Tag voller Kontraste zwischen wilder Natur und eleganter Architektur.",
+        "hu": "Autóval elérheti a leglátványosabb magashegyi helyeket. Kezdjen korán a Pont d'Espagne-nál, amely a Nemzeti Park kapuja.\n\nOnnan az út (gyalog vagy lifttel) a Gaube-tóhoz vezet, amely egy smaragdzöld tó a fenséges Vignemale-csúcs alatt.\n\nDélután térjen vissza a faluba, hogy felfedezze a történelmi építészetet és a múzeumokat, amelyek a fürdővendégek aranykoráról mesélnek.\n\nEgy nap, amely tele van kontrasztokkal a vad természet és az elegáns építészet között.",
+        "ro": "Cu mașina ajungeți în cele mai spectaculoase locuri din munte. Începeți devreme la Pont d'Espagne, poarta de intrare în Parcul Național.\n\nDe acolo, drumul duce (pe jos sau cu liftul) la Lac de Gaube, un lac de smarald sub vârful maiestuos Vignemale.\n\nDupă-amiaza reveniți în sat pentru a explora arhitectura istorică și muzeele care povestesc despre epoca de aur a vizitatorilor termali.\n\nO zi plină de contraste între natura sălbatică și arhitectura elegantă.",
+        "en": "By car, you can reach the most spectacular high mountain spots. Start early at Pont d'Espagne, the gateway to the National Park.\n\nFrom there, the path leads (on foot or by lift) to Lac de Gaube, an emerald-green lake under the majestic Vignemale peak.\n\nIn the afternoon, return to the village to explore the historic architecture and museums that tell of the golden age of spa guests.\n\nA day full of contrasts between wild nature and elegant architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garbure",
+            "tip": "Deftiger Eintopf mit Kohl, Gemüse und Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garbure",
+            "tip": "Kiadós egytálétel káposztával, zöldségekkel és hússal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Garbure",
+            "tip": "Tocăniță consistentă cu varză, legume și carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garbure",
+            "tip": "Hearty stew with cabbage, vegetables, and meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de Gaube Ufer",
+            "tip": "Suchen Sie sich einen Stein am Seeufer für die Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gaube-tó partja",
+            "tip": "Keressen egy követ a tóparton a csendhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Lacului de Gaube",
+            "tip": "Găsiți o piatră pe malul lacului pentru liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Gaube shore",
+            "tip": "Find a rock on the lakeshore for silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fromage des Pyrénées",
+            "tip": "Kaufen Sie Bergkäse direkt bei den Erzeugern im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pireneusi sajt",
+            "tip": "Vásároljon hegyi sajtot közvetlenül a termelőktől a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză din Pirinei",
+            "tip": "Cumpărați brânză de munte direct de la producători în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pyrenean cheese",
+            "tip": "Buy mountain cheese directly from producers in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Parkplatz am Pont d'Espagne ist im Sommer schnell voll.",
+          "Nehmen Sie warme Kleidung für den Lac de Gaube mit.",
+          "Die Straße zum Pont d'Espagne ist kurvig, fahren Sie vorsichtig.",
+          "Ein Kombiticket für Parkplatz und Sessellift lohnt sich."
+        ],
+        "hu": [
+          "A Pont d'Espagne parkolója nyáron gyorsan megtelik.",
+          "Vigyen meleg ruhát a Gaube-tóhoz.",
+          "Az út Pont d'Espagne-ba kanyargós, vezessen óvatosan.",
+          "Érdemes kombinált jegyet venni a parkolóra és a libegőre."
+        ],
+        "ro": [
+          "Parcarea de la Pont d'Espagne se umple rapid vara.",
+          "Luați haine groase pentru Lac de Gaube.",
+          "Drumul spre Pont d'Espagne este sinuos, conduceți cu atenție.",
+          "Merită să luați un bilet combinat pentru parcare și telescaun."
+        ],
+        "en": [
+          "The parking lot at Pont d'Espagne fills up quickly in summer.",
+          "Take warm clothing for Lac de Gaube.",
+          "The road to Pont d'Espagne is winding, drive carefully.",
+          "A combined ticket for parking and chairlift is worth it."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Cauterets",
+          "coords": [
+            42.8915,
+            -0.1128
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt für Busse aus Lourdes.",
+            "hu": "Érkezési pont a Lourdes felől érkező buszoknak.",
+            "ro": "Punct de sosire pentru autobuzele din Lourdes.",
+            "en": "Arrival point for buses from Lourdes."
+          }
+        },
+        {
+          "name": "Esplanade des Œufs",
+          "coords": [
+            42.8892,
+            -0.1142
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Halt für den Ortsbus.",
+            "hu": "A helyi busz központi megállója.",
+            "ro": "Stație centrală pentru autobuzul local.",
+            "en": "Central stop for the local bus."
+          }
+        },
+        {
+          "name": "Pont d'Espagne (Shuttle)",
+          "coords": [
+            42.8525,
+            -0.1385
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Pendelbus (Navette) vom Dorfzentrum.",
+            "hu": "Használja a faluközpontból induló ingajáratot (Navette).",
+            "ro": "Folosiți autobuzul navetă (Navette) din centrul satului.",
+            "en": "Use the shuttle bus (Navette) from the village center."
+          }
+        },
+        {
+          "name": "Musée 1900",
+          "coords": [
+            42.8872,
+            -0.1155
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Thermes de Cauterets",
+          "coords": [
+            42.8868,
+            -0.1125
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannung vor der Rückfahrt.",
+            "hu": "Lazítás a visszautazás előtt.",
+            "ro": "Relaxare înainte de drumul de întoarcere.",
+            "en": "Relaxation before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der saisonalen Shuttles ist Cauterets auch ohne Auto bestens erlebbar. Starten Sie am historischen Bahnhof.\n\nDer Pendelbus bringt Sie bequem zum Pont d'Espagne, ohne dass Sie sich um Parkplätze sorgen müssen. Dort genießen Sie die Bergwelt.\n\nZurück im Dorf widmen Sie den Nachmittag der Kultur im Musée 1900 und entspannen anschließend in den Thermen César.\n\nEin nachhaltiger Weg, die Pyrenäen in vollen Zügen zu genießen.",
+        "hu": "A szezonális ingajáratoknak köszönhetően Cauterets autó nélkül is remekül felfedezhető. Kezdjen a történelmi vasútállomásnál.\n\nAz ingabusz kényelmesen elviszi a Pont d'Espagne-hoz, így nem kell aggódnia a parkolás miatt. Ott élvezze a hegyi világot.\n\nVisszatérve a faluba, a délutánt szentelje a kultúrának az 1900-as Múzeumban, majd lazítson a César-fürdőben.\n\nFenntartható módja annak, hogy teljes mértékben kiélvezze a Pireneusokat.",
+        "ro": "Datorită navetelor sezoniere, Cauterets poate fi experimentat perfect și fără mașină. Începeți la gara istorică.\n\nAutobuzul navetă vă duce confortabil la Pont d'Espagne, fără să vă faceți griji pentru parcare. Acolo vă bucurați de lumea montană.\n\nReveniți în sat și dedicați după-amiaza culturii la Muzeul 1900, apoi relaxați-vă la Termele César.\n\nO modalitate durabilă de a vă bucura din plin de Pirinei.",
+        "en": "Thanks to seasonal shuttles, Cauterets is easily experienced without a car. Start at the historic station.\n\nThe shuttle bus takes you comfortably to Pont d'Espagne without worrying about parking. Enjoy the mountain world there.\n\nBack in the village, spend the afternoon on culture at Musée 1900 and then relax at Thermes César.\n\nA sustainable way to fully enjoy the Pyrenees."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Miel de Montagne",
+            "tip": "Echter Berghonig, direkt in den kleinen Läden kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi méz",
+            "tip": "Valódi hegyi méz, vásárolja meg közvetlenül a kis boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de munte",
+            "tip": "Miere de munte veritabilă, cumpărată direct din micile magazine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain honey",
+            "tip": "Genuine mountain honey, buy it directly in the small shops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont de Cauterets",
+            "tip": "Beobachten Sie das fließende Wasser des Gave.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cauterets-híd",
+            "tip": "Figyelje a Gave folyó rohanó vizét.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul din Cauterets",
+            "tip": "Observați apa curgătoare a râului Gave.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cauterets Bridge",
+            "tip": "Watch the flowing water of the Gave river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Produits du terroir",
+            "tip": "Regionale Spezialitäten in der Markthalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Regionális specialitások a vásárcsarnokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Specialități regionale în hală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products",
+            "tip": "Regional specialties in the market hall."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Navette-Fahrplan zum Pont d'Espagne (Saisonabhängig).",
+          "Die Busse nach Lourdes fahren regelmäßig ab dem Bahnhof.",
+          "Kaufen Sie Tickets nach Möglichkeit im Voraus.",
+          "Im Sommer gibt es oft spezielle Wanderbusse."
+        ],
+        "hu": [
+          "Ellenőrizze az ingajárat menetrendjét a Pont d'Espagne-hoz (szezonfüggő).",
+          "A Lourdes felé tartó buszok rendszeresen indulnak az állomástól.",
+          "Lehetőség szerint vegye meg előre a jegyeket.",
+          "Nyáron gyakran közlekednek speciális túrabuszok."
+        ],
+        "ro": [
+          "Verificați orarul navetei către Pont d'Espagne (în funcție de sezon).",
+          "Autobuzele spre Lourdes pleacă regulat de la gară.",
+          "Cumpărați biletele în avans dacă este posibil.",
+          "Vara există adesea autobuze speciale pentru drumeții."
+        ],
+        "en": [
+          "Check the shuttle schedule to Pont d'Espagne (seasonal).",
+          "Buses to Lourdes run regularly from the station.",
+          "Buy tickets in advance if possible.",
+          "Special hiker buses often run in summer."
+        ]
+      }
+    }
+  }
+}

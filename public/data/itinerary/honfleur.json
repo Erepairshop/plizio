@@ -1,0 +1,998 @@
+{
+  "city_id": "honfleur",
+  "anchor": {
+    "name": "Vieux Bassin",
+    "coords": [
+      0.2325,
+      49.42
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Vieux Bassin",
+          "coords": [
+            0.2327,
+            49.4202
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Früh morgens ist das Licht für Fotos am Hafen am besten.",
+            "hu": "Kora reggel a legszebbek a fények a kikötői fotókhoz.",
+            "ro": "Dimineața devreme lumina este cea mai bună pentru fotografii în port.",
+            "en": "Early morning light is best for harbor photography."
+          }
+        },
+        {
+          "name": "Église Sainte-Catherine",
+          "coords": [
+            0.2321,
+            49.4214
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Decke, die wie ein umgedrehter Schiffsrumpf aussieht.",
+            "hu": "Csodálja meg a mennyezetet, amely úgy néz ki, mint egy felfordított hajótest.",
+            "ro": "Admirați tavanul care arată ca o cocă de navă inversată.",
+            "en": "Admire the ceiling which looks like an upturned ship hull."
+          }
+        },
+        {
+          "name": "Musée Eugène Boudin",
+          "coords": [
+            0.2307,
+            49.4211
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke des Lehrers von Claude Monet.",
+            "hu": "Fedezze fel Claude Monet tanárának alkotásait.",
+            "ro": "Descoperiți lucrările profesorului lui Claude Monet.",
+            "en": "Discover the works of Claude Monet's teacher."
+          }
+        },
+        {
+          "name": "Quai Sainte-Catherine",
+          "coords": [
+            0.233,
+            49.4205
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Miesmuscheln mit Blick auf den Hafen.",
+            "hu": "Kóstolja meg a friss kagylót a kikötőre néző teraszon.",
+            "ro": "Gustați scoici proaspete cu vedere la port.",
+            "en": "Try fresh mussels with a view of the harbor."
+          }
+        },
+        {
+          "name": "Jardin des Personnalités",
+          "coords": [
+            0.2355,
+            49.4252
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Suchen Sie die Büsten berühmter Bewohner wie Erik Satie.",
+            "hu": "Keresse meg a híres lakók, például Erik Satie mellszobrait.",
+            "ro": "Căutați busturile locuitorilor celebri precum Erik Satie.",
+            "en": "Look for the busts of famous residents like Erik Satie."
+          }
+        },
+        {
+          "name": "Chapelle Notre-Dame de Grâce",
+          "coords": [
+            0.2195,
+            49.4228
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Seine-Mündung.",
+            "hu": "Élvezze a panorámás kilátást a Szajna torkolatára.",
+            "ro": "Bucurați-vă de vederea panoramică asupra estuarului Senei.",
+            "en": "Enjoy the panoramic view of the Seine estuary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am ikonischen Vieux Bassin, dem Herzen von Honfleur. Bewundern Sie die hölzerne Architektur der Sainte-Catherine Kirche und tauchen Sie im Boudin-Museum in die Kunst ein. Nach einem Mittagessen am Kai spazieren Sie durch den Garten der Persönlichkeiten. Beenden Sie die Tour mit einem Aufstieg zur Kapelle Notre-Dame de Grâce für eine spektakuläre Aussicht auf die Normandie-Brücke.",
+        "hu": "Kezdje a napot az ikonikus Vieux Bassin kikötőnél, Honfleur szívében. Csodálja meg a Sainte-Catherine templom különleges faépítészetét, majd merüljön el a művészetben a Boudin Múzeumban. A kikötőparti ebéd után sétáljon végig a Hírességek Kertjén. A túrát a Notre-Dame de Grâce kápolnához való felkapaszkodással zárja, ahonnan pazar kilátás nyílik a Normandia-hídra.",
+        "ro": "Începeți ziua la emblematicul Vieux Bassin, inima orașului Honfleur. Admirați arhitectura din lemn a bisericii Sainte-Catherine și explorați arta la Muzeul Boudin. După un prânz pe chei, plimbați-vă prin Grădina Personalităților. Încheiați turul cu o urcare la capela Notre-Dame de Grâce pentru o vedere spectaculoasă asupra podului Normandia.",
+        "en": "Start your day at the iconic Vieux Bassin, the heart of Honfleur. Admire the unique wooden architecture of Sainte-Catherine Church and dive into art at the Boudin Museum. After a harbor-side lunch, stroll through the Garden of Personalities. End the tour by climbing up to the Notre-Dame de Grâce chapel for a spectacular view of the Normandy Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Frische Miesmuscheln in Weißweinsauce am Hafen."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Erfrischender lokaler Apfelwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Friss feketekagyló fehérboros mártásban a kikötőben."
+          },
+          {
+            "name": "Normandiai szider",
+            "tip": "Frissítő helyi almabor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Scoici proaspete în sos de vin alb în port."
+          },
+          {
+            "name": "Cidru de Normandia",
+            "tip": "Cidru local de mere răcoritor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Fresh mussels in white wine sauce by the harbor."
+          },
+          {
+            "name": "Normandy Cider",
+            "tip": "Refreshing local apple cider."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle Notre-Dame de Grâce",
+            "tip": "Ein ruhiger Ort mit Blick auf das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Personnalités",
+            "tip": "Ein friedlicher Park abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chapelle Notre-Dame de Grâce",
+            "tip": "Csendes hely kilátással a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hírességek Kertje",
+            "tip": "Békés park távol a tömegtől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chapelle Notre-Dame de Grâce",
+            "tip": "Un loc liniștit cu vedere la mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Personalităților",
+            "tip": "Un parc liniștit departe de mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapelle Notre-Dame de Grâce",
+            "tip": "A quiet spot with a sea view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Garden of Personalities",
+            "tip": "A peaceful park away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Compagnie des Terroirs",
+            "tip": "Lokale Produkte wie Calvados und Karamell."
+          },
+          {
+            "name": "Antiquitätenläden",
+            "tip": "In den Gassen hinter dem Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Compagnie des Terroirs",
+            "tip": "Helyi termékek, mint a Calvados és a karamell."
+          },
+          {
+            "name": "Antikváriumok",
+            "tip": "A kikötő mögötti sikátorokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Compagnie des Terroirs",
+            "tip": "Produse locale precum Calvados și caramel."
+          },
+          {
+            "name": "Antichități",
+            "tip": "În străduțele din spatele portului."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Compagnie des Terroirs",
+            "tip": "Local products like Calvados and caramel."
+          },
+          {
+            "name": "Antique shops",
+            "tip": "In the alleys behind the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Honfleur ist sehr kopfsteingepflastert, tragen Sie bequeme Schuhe.",
+          "Die Parkplätze im Zentrum sind schnell voll, nutzen Sie die Randparkplätze.",
+          "Probieren Sie unbedingt die Galettes in den kleinen Crêperien.",
+          "Besuchen Sie die Stadt unter der Woche, um den Wochenendandrang zu vermeiden."
+        ],
+        "hu": [
+          "Honfleur macskaköves, viseljen kényelmes cipőt.",
+          "A központi parkolók gyorsan megtelnek, használja a szélső parkolókat.",
+          "Mindenképpen kóstolja meg a galette-et a kis palacsintázókban.",
+          "Látogasson el hétköznap, hogy elkerülje a hétvégi tömeget."
+        ],
+        "ro": [
+          "Honfleur are multe străzi pietruite, purtați pantofi confortabili.",
+          "Parcările centrale se umplu rapid, folosiți parcările de la periferie.",
+          "Încercați galetele în micile clătătării.",
+          "Vizitați orașul în timpul săptămânii pentru a evita aglomerația de weekend."
+        ],
+        "en": [
+          "Honfleur is very cobbled, wear comfortable shoes.",
+          "Central parking fills up quickly, use the peripheral lots.",
+          "Be sure to try the galettes in the small creperies.",
+          "Visit during the week to avoid the weekend crowds."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Vieux Bassin",
+          "coords": [
+            0.2325,
+            49.42
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad am Hafenbecken.",
+            "hu": "Tolja a biciklit a kikötő medencéje mellett.",
+            "ro": "Împingeți bicicleta pe lângă bazinul portului.",
+            "en": "Push your bike along the harbor basin."
+          }
+        },
+        {
+          "name": "Jardin des Personnalités",
+          "coords": [
+            0.2355,
+            49.4252
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöne Radwege führen hier am Wasser entlang.",
+            "hu": "Szép kerékpárutak vezetnek itt a víz mentén.",
+            "ro": "Piste frumoase de biciclete duc pe lângă apă.",
+            "en": "Beautiful bike paths lead here along the water."
+          }
+        },
+        {
+          "name": "Plage de Honfleur",
+          "coords": [
+            0.246,
+            49.4285
+          ],
+          "category": "beach",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause mit Blick auf das Meer.",
+            "hu": "Ideális egy szünetre a tengerre néző kilátással.",
+            "ro": "Ideal pentru o pauză cu vedere la mare.",
+            "en": "Ideal for a break with a sea view."
+          }
+        },
+        {
+          "name": "Le Phare de Honfleur",
+          "coords": [
+            0.238,
+            49.423
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Fotostopp am Leuchtturm.",
+            "hu": "Szép fotómegálló a világítótoronynál.",
+            "ro": "O oprire frumoasă pentru fotografii la far.",
+            "en": "A nice photo stop at the lighthouse."
+          }
+        },
+        {
+          "name": "Côte de Grâce",
+          "coords": [
+            0.219,
+            49.423
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Achtung, steiler Anstieg zur Kapelle!",
+            "hu": "Vigyázat, meredek emelkedő a kápolnáig!",
+            "ro": "Atenție, urcare abruptă spre capelă!",
+            "en": "Watch out, steep climb to the chapel!"
+          }
+        },
+        {
+          "name": "Place Sainte-Catherine",
+          "coords": [
+            0.232,
+            49.4215
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem Eis.",
+            "hu": "Jutalmazza meg magát egy fagyival.",
+            "ro": "Răsplătiți-vă cu o înghețată.",
+            "en": "Reward yourself with an ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Honfleur und seine Umgebung mit dem Fahrrad. Radeln Sie vom Hafen zum Strand und weiter zum Leuchtturm. Der anspruchsvollste Teil ist der Anstieg zur Côte de Grâce, aber der Ausblick belohnt jede Mühe. Die Route führt Sie durch Parks und entlang der Küste, weit weg vom Trubel der Innenstadt.",
+        "hu": "Fedezze fel Honfleurt és környékét kerékpárral. Tekerjen a kikötőtől a strandig, majd tovább a világítótoronyhoz. A legnehezebb rész a Côte de Grâce emelkedője, de a kilátás kárpótol minden fáradtságért. Az útvonal parkokon és a part mentén vezet, távol a belváros zsúfoltságától.",
+        "ro": "Explorați Honfleur și împrejurimile sale cu bicicleta. Pedalați de la port la plajă și apoi la far. Cea mai dificilă parte este urcarea spre Côte de Grâce, dar priveliștea merită efortul. Traseul vă poartă prin parcuri și de-a lungul coastei, departe de agitația centrului.",
+        "en": "Explore Honfleur and its surroundings by bike. Cycle from the harbor to the beach and on to the lighthouse. The most challenging part is the climb to Côte de Grâce, but the view rewards every effort. The route takes you through parks and along the coast, away from the hustle and bustle of the town center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glaces de la Ferme",
+            "tip": "Hausgemachtes Eis aus lokaler Milch."
+          },
+          {
+            "name": "Cidre Artisanal",
+            "tip": "Direkt vom Erzeuger kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glaces de la Ferme",
+            "tip": "Házi fagylalt helyi tejből."
+          },
+          {
+            "name": "Cidre Artisanal",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glaces de la Ferme",
+            "tip": "Înghețată de casă din lapte local."
+          },
+          {
+            "name": "Cidru Artizanal",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glaces de la Ferme",
+            "tip": "Homemade ice cream from local milk."
+          },
+          {
+            "name": "Artisanal Cider",
+            "tip": "Buy directly from the producer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage du Butin",
+            "tip": "Ruhiger Strandabschnitt am Stadtrand.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Bois de la Côte",
+            "tip": "Waldwege oberhalb der Stadt.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage du Butin",
+            "tip": "Csendes strandrész a város szélén.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Bois de la Côte",
+            "tip": "Erdei utak a város felett.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage du Butin",
+            "tip": "Secțiune de plajă liniștită la marginea orașului.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Bois de la Côte",
+            "tip": "Poteci forestiere deasupra orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage du Butin",
+            "tip": "Quiet beach section on the edge of town.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Bois de la Côte",
+            "tip": "Forest paths above the town.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Bio",
+            "tip": "Biomarkt am Samstagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Bio",
+            "tip": "Biopiac szombat reggelente."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Bio",
+            "tip": "Piață bio în sâmbăta dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Bio",
+            "tip": "Organic market on Saturday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes für den Aufstieg zur Kapelle.",
+          "Die Küstenstraße kann windig sein.",
+          "Parken Sie Ihr Rad sicher am Hafen."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a kápolnához való feljutáshoz.",
+          "A parti út szeles lehet.",
+          "Zárja le biztonságosan a biciklijét a kikötőben."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice pentru urcarea la capelă.",
+          "Drumul de coastă poate fi vântos.",
+          "Parcați bicicleta în siguranță în port."
+        ],
+        "en": [
+          "Rent e-bikes for the climb to the chapel.",
+          "The coastal road can be windy.",
+          "Park your bike securely at the harbor."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 28.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Vieux Bassin",
+          "coords": [
+            0.2325,
+            49.42
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus am Hafen.",
+            "hu": "Használja a kikötői parkolóházat.",
+            "ro": "Folosiți parcarea de lângă port.",
+            "en": "Use the parking garage by the harbor."
+          }
+        },
+        {
+          "name": "Pont de Normandie",
+          "coords": [
+            0.27,
+            49.435
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Halten Sie am Aussichtspunkt vor der Mautstelle.",
+            "hu": "Álljon meg a kilátópontnál a fizetőkapu előtt.",
+            "ro": "Opriți-vă la punctul de belvedere înainte de stația de taxare.",
+            "en": "Stop at the viewpoint before the toll plaza."
+          }
+        },
+        {
+          "name": "Naturospace",
+          "coords": [
+            0.236,
+            49.426
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Ein riesiges Tropenhaus mit Schmetterlingen.",
+            "hu": "Hatalmas trópusi ház pillangókkal.",
+            "ro": "O casă tropicală uriașă cu fluturi.",
+            "en": "A huge tropical house with butterflies."
+          }
+        },
+        {
+          "name": "Place Hamelin",
+          "coords": [
+            0.233,
+            49.421
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gutes Viertel für traditionelle Küche.",
+            "hu": "Jó negyed a hagyományos konyhához.",
+            "ro": "Cartier bun pentru bucătăria tradițională.",
+            "en": "Good district for traditional cuisine."
+          }
+        },
+        {
+          "name": "Côte de Grâce",
+          "coords": [
+            0.219,
+            49.423
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz direkt an der Kapelle.",
+            "hu": "Ingyenes parkoló közvetlenül a kápolnánál.",
+            "ro": "Parcare gratuită chiar lângă capelă.",
+            "en": "Free parking right by the chapel."
+          }
+        },
+        {
+          "name": "Manoir d'Apreval",
+          "coords": [
+            0.185,
+            49.41
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Cider-Verkostung in einem echten Herrenhaus.",
+            "hu": "Szider kóstolás egy igazi udvarházban.",
+            "ro": "Degustare de cidru într-un conac adevărat.",
+            "en": "Cider tasting in a real manor house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die Highlights außerhalb des Zentrums. Überqueren Sie die beeindruckende Normandie-Brücke und besuchen Sie das Schmetterlingshaus Naturospace. Nach dem Mittagessen fahren Sie zur Côte de Grâce und beenden den Tag bei einer Cider-Verkostung in einem nahegelegenen Apfelhain.",
+        "hu": "Autóval a központon kívüli látnivalókat is elérheti. Keljen át a lenyűgöző Normandia-hídon, és látogassa meg a Naturospace pillangóházat. Ebéd után hajtson fel a Côte de Grâce-hoz, majd zárja a napot egy szider kóstolóval egy közeli almáskertben.",
+        "ro": "Cu mașina puteți ajunge și la atracțiile din afara centrului. Treceți peste impresionantul pod Normandia și vizitați casa fluturilor Naturospace. După prânz, conduceți spre Côte de Grâce și încheiați ziua cu o degustare de cidru într-o livadă de meri din apropiere.",
+        "en": "By car, you can also reach the highlights outside the center. Cross the impressive Normandy Bridge and visit the Naturospace butterfly house. After lunch, drive up to Côte de Grâce and end the day with a cider tasting at a nearby apple orchard."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Gehobene Küche mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Színvonalas konyha regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Bucătărie rafinată cu produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Fine dining with regional products."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Estuaire de la Seine",
+            "tip": "Beobachten Sie Vögel im Naturschutzgebiet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szajna-torkolat",
+            "tip": "Figyelje meg a madarakat a természetvédelmi területen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Estuarul Senei",
+            "tip": "Observați păsările în rezervația naturală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seine Estuary",
+            "tip": "Watch birds in the nature reserve.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Village des Marques",
+            "tip": "Outlet-Center in der Nähe der Brücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Village des Marques",
+            "tip": "Outlet központ a híd közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Village des Marques",
+            "tip": "Centru outlet lângă pod."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village des Marques",
+            "tip": "Outlet center near the bridge."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Normandie-Brücke ist mautpflichtig.",
+          "Parken im Zentrum ist teuer, nutzen Sie die P+R Parkplätze.",
+          "Achten Sie auf die engen Einbahnstraßen in der Altstadt."
+        ],
+        "hu": [
+          "A Normandia-híd útdíjköteles.",
+          "A belvárosi parkolás drága, használja a P+R parkolókat.",
+          "Ügyeljen a szűk egyirányú utcákra az óvárosban."
+        ],
+        "ro": [
+          "Podul Normandia este cu taxă.",
+          "Parcarea în centru este scumpă, folosiți parcările P+R.",
+          "Atenție la străzile înguste cu sens unic din orașul vechi."
+        ],
+        "en": [
+          "The Normandy Bridge is a toll bridge.",
+          "Parking in the center is expensive, use P+R lots.",
+          "Watch out for narrow one-way streets in the old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare Routière",
+          "coords": [
+            0.237,
+            49.4205
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist der zentrale Knotenpunkt.",
+            "hu": "A buszpályaudvar a központi csomópont.",
+            "ro": "Autogara este nodul central.",
+            "en": "The bus station is the central hub."
+          }
+        },
+        {
+          "name": "Vieux Bassin",
+          "coords": [
+            0.2325,
+            49.42
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof sind es nur 5 Minuten zu Fuß.",
+            "hu": "A buszpályaudvartól mindössze 5 perc séta.",
+            "ro": "De la autogară sunt doar 5 minute de mers pe jos.",
+            "en": "It's only a 5-minute walk from the bus station."
+          }
+        },
+        {
+          "name": "Église Sainte-Catherine",
+          "coords": [
+            0.232,
+            49.4215
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mitten im belebten Zentrum gelegen.",
+            "hu": "A nyüzsgő központ közepén található.",
+            "ro": "Situat în mijlocul centrului animat.",
+            "en": "Located in the middle of the busy center."
+          }
+        },
+        {
+          "name": "Quai des Passagers",
+          "coords": [
+            0.234,
+            49.422
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants in der Nähe der Haltestellen.",
+            "hu": "Sok étterem a megállók közelében.",
+            "ro": "Multe restaurante în apropierea stațiilor.",
+            "en": "Many restaurants near the stops."
+          }
+        },
+        {
+          "name": "Naturospace (Navette)",
+          "coords": [
+            0.236,
+            49.426
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus 'Ho'Bus'.",
+            "hu": "Használja a 'Ho'Bus' ingajáratot.",
+            "ro": "Folosiți autobuzul navetă 'Ho'Bus'.",
+            "en": "Use the 'Ho'Bus' shuttle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Honfleur ist gut mit regionalen Bussen (Nomad) erreichbar. Vom Busbahnhof aus erreichen Sie das Hafenbecken in wenigen Minuten. Nutzen Sie den städtischen Shuttle Ho'Bus, um zum Schmetterlingshaus oder zum Strand zu gelangen. Die Stadt ist kompakt, so dass Sie die meisten Wege zwischen den Haltestellen bequem zu Fuß zurücklegen können.",
+        "hu": "Honfleur jól megközelíthető regionális buszokkal (Nomad). A buszpályaudvartól pár perc alatt elérhető a kikötő. Használja a helyi Ho'Bus járatot, hogy eljusson a pillangóházhoz vagy a strandra. A város kompakt, így a megállók közötti legtöbb út kényelmesen megtehető gyalog is.",
+        "ro": "Honfleur este bine deservit de autobuzele regionale (Nomad). De la autogară puteți ajunge la bazinul portului în câteva minute. Folosiți naveta locală Ho'Bus pentru a ajunge la casa fluturilor sau la plajă. Orașul este compact, astfel încât majoritatea distanțelor dintre stații pot fi parcurse ușor pe jos.",
+        "en": "Honfleur is well-served by regional buses (Nomad). From the bus station, you can reach the harbor basin in a few minutes. Use the local Ho'Bus shuttle to get to the butterfly house or the beach. The town is compact, so most distances between stops can easily be covered on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Schnelle und leckere Galettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Gyors és finom galette-ek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Galete rapide și gustoase."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Quick and tasty galettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Kleine Grünanlage im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városháza parkja",
+            "tip": "Kis zöld terület a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Primăriei",
+            "tip": "Mic spațiu verde în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Hall Park",
+            "tip": "Small green area in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Ateliers d'Artistes",
+            "tip": "Kaufen Sie Kunst direkt beim Maler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Művészeti műhelyek",
+            "tip": "Vásároljon művészeti alkotásokat közvetlenül a festőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierele artiștilor",
+            "tip": "Cumpărați artă direct de la pictor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artist Workshops",
+            "tip": "Buy art directly from the painter."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan für die Busse nach Le Havre oder Caen.",
+          "Tickets können beim Fahrer oder per App gekauft werden.",
+          "Am Sonntag fahren weniger Busse."
+        ],
+        "hu": [
+          "Ellenőrizze a Le Havre-ba vagy Caen-ba tartó buszok menetrendjét.",
+          "Jegyek a sofőrnél vagy applikációban vásárolhatók.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor către Le Havre sau Caen.",
+          "Biletele pot fi cumpărate de la șofer sau prin aplicație.",
+          "Duminica circulă mai puține autobuze."
+        ],
+        "en": [
+          "Check the schedule for buses to Le Havre or Caen.",
+          "Tickets can be bought from the driver or via app.",
+          "Fewer buses run on Sundays."
+        ]
+      }
+    }
+  }
+}

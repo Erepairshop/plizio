@@ -1,0 +1,1002 @@
+{
+  "city_id": "le-havre",
+  "anchor": {
+    "name": "Le Havre",
+    "coords": [
+      0.1079,
+      49.4944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathausplatz",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            0.1085,
+            49.4935
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blick auf den Perret-Turm.",
+            "hu": "Nézze meg a Perret-tornyot.",
+            "ro": "Vedeți turnul Perret.",
+            "en": "Look at the Perret tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Joseph",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "St. Joseph's Church"
+          },
+          "coords": [
+            0.1012,
+            49.4912
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Lichtspiel im Inneren ist magisch.",
+            "hu": "A belső fényjáték lenyűgöző.",
+            "ro": "Jocul de lumini din interior este magic.",
+            "en": "The light play inside is magical."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Volcan (Niemeyer)",
+            "hu": "A Vulkán",
+            "ro": "Vulcanul",
+            "en": "The Volcano"
+          },
+          "coords": [
+            0.1075,
+            49.4905
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein futuristisches Kulturzentrum.",
+            "hu": "Futurisztikus kulturális központ.",
+            "ro": "Un centru cultural futurist.",
+            "en": "A futuristic cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "MuMa Kunstmuseum",
+            "hu": "MuMa Művészeti Múzeum",
+            "ro": "Muzeul MuMa",
+            "en": "MuMa Art Museum"
+          },
+          "coords": [
+            0.1022,
+            49.4848
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Berühmt für Impressionismus.",
+            "hu": "Impresszionista gyűjteménye híres.",
+            "ro": "Celebru pentru impresionism.",
+            "en": "Famous for Impressionism."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartier Saint-François",
+            "hu": "Szent Ferenc negyed",
+            "ro": "Cartierul Saint-François",
+            "en": "Saint-François Quarter"
+          },
+          "coords": [
+            0.1152,
+            49.4875
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für frischen Fisch.",
+            "hu": "Tökéletes friss tengeri halhoz.",
+            "ro": "Perfect pentru pește proaspăt.",
+            "en": "Perfect for fresh fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Le Havre",
+            "hu": "Le Havre-i strand",
+            "ro": "Plaja Le Havre",
+            "en": "Le Havre Beach"
+          },
+          "coords": [
+            0.0945,
+            49.4955
+          ],
+          "category": "beach",
+          "arrive_at": "15:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ein langer Kieselstrand.",
+            "hu": "Hosszú kavicsos tengerpart.",
+            "ro": "O plajă lungă cu pietriș.",
+            "en": "A long pebble beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die moderne Architektur des UNESCO-Welterbes, beginnend am Rathausplatz und der beeindruckenden Kirche Saint-Joseph. Mittags bewundern Sie das futuristische 'Volcan' von Oscar Niemeyer und spazieren zum MuMa am Hafeneingang. Nachmittags genießen Sie Meeresfrüchte im Fischerviertel Saint-François, bevor Sie den Tag am weitläufigen Strand ausklingen lassen.",
+        "hu": "Reggel az UNESCO világörökség modern építészetével ismerkedünk a Városháza téren és a monumentális Szent József-templomban. Délben megcsodáljuk Oscar Niemeyer futurisztikus 'Vulkánját', majd a tengerparti MuMa múzeum felé vesszük az irányt. Délután friss tengeri ételeket kóstolunk a halásznegyedben, végül a hosszú kavicsos strandon pihenünk.",
+        "ro": "Dimineața explorați arhitectura modernă din patrimoniul UNESCO, începând cu Piața Primăriei și impresionanta biserică Saint-Joseph. La prânz admirați 'Vulcanul' futurist al lui Oscar Niemeyer și vă plimbați spre muzeul MuMa. După-amiaza savurați fructe de mare în cartierul pescăresc Saint-François, înainte de a încheia ziua pe plaja vastă.",
+        "en": "In the morning, explore the modern architecture of the UNESCO World Heritage site, starting at the Town Hall Square and the impressive St. Joseph's Church. At midday, admire Oscar Niemeyer's futuristic 'Volcano' and walk to the MuMa museum by the harbor. In the afternoon, enjoy seafood in the Saint-François fishing quarter before ending the day at the expansive beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Marmite Dieppoise",
+            "tip": "Fischtopf in Sahnesauce."
+          },
+          {
+            "name": "Taureau",
+            "tip": "Bistro mit Meeresfrüchten am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marmite Dieppoise",
+            "tip": "Halragu tejszínes szószban."
+          },
+          {
+            "name": "Taureau",
+            "tip": "Tengeri herkentyűs bisztró a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marmite Dieppoise",
+            "tip": "Tocană de pește cu smântână."
+          },
+          {
+            "name": "Taureau",
+            "tip": "Bistrou cu fructe de mare la port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marmite Dieppoise",
+            "tip": "Fish stew in cream sauce."
+          },
+          {
+            "name": "Taureau",
+            "tip": "Seafood bistro at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ende der Kaimauer",
+            "tip": "Beobachten Sie die einlaufenden Schiffe.",
+            "emoji": "🚢"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A gát vége",
+            "tip": "Nézze a hatalmas érkező hajókat.",
+            "emoji": "🚢"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capătul digului",
+            "tip": "Urmăriți navele mari care intră.",
+            "emoji": "🚢"
+          }
+        ],
+        "en": [
+          {
+            "name": "End of the jetty",
+            "tip": "Watch the huge incoming ships.",
+            "emoji": "🚢"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles Centrales",
+            "tip": "Markthalle mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles Centrales",
+            "tip": "Vásárcsarnok helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles Centrales",
+            "tip": "Piață centrală cu produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Centrales",
+            "tip": "Market hall with regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für Betonwege.",
+          "Besuchen Sie die Kirche Saint-Joseph nur tagsüber."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a betonjárdákhoz.",
+          "Napközben látogassa meg a Szent József-templomot."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru trotuarele de beton.",
+          "Vizitați biserica Saint-Joseph în timpul zilei."
+        ],
+        "en": [
+          "Wear comfortable shoes for concrete paths.",
+          "Visit St. Joseph's Church during daylight."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenviertel",
+            "hu": "Kikötői negyed",
+            "ro": "Zona portului",
+            "en": "Harbor Area"
+          },
+          "coords": [
+            0.1182,
+            49.4882
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Moderne Terminals.",
+            "hu": "Modern terminálok látványa.",
+            "ro": "Terminale moderne.",
+            "en": "Modern terminals."
+          }
+        },
+        {
+          "name": {
+            "de": "MuMa",
+            "hu": "MuMa",
+            "ro": "MuMa",
+            "en": "MuMa"
+          },
+          "coords": [
+            0.1022,
+            49.4848
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lichtdurchflutetes Museum.",
+            "hu": "Fényárban úszó múzeum.",
+            "ro": "Muzeu plin de lumină.",
+            "en": "Light-filled museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Hängende Gärten",
+            "hu": "Függőkertek",
+            "ro": "Grădinile Suspendate",
+            "en": "Hanging Gardens"
+          },
+          "coords": [
+            0.0985,
+            49.5052
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ehemalige Festung mit Aussicht.",
+            "hu": "Egykori erőd kilátással.",
+            "ro": "Fostă fortăreață cu panoramă.",
+            "en": "Former fortress with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Adresse",
+            "hu": "Sainte-Adresse",
+            "ro": "Sainte-Adresse",
+            "en": "Sainte-Adresse"
+          },
+          "coords": [
+            0.0825,
+            49.5085
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der 'Nizza' des Nordens.",
+            "hu": "Észak Nizzája.",
+            "ro": "Nisa Nordului.",
+            "en": "The Nice of the North."
+          }
+        },
+        {
+          "name": {
+            "de": "Pain de Sucre",
+            "hu": "Cukorsüveg-emlékmű",
+            "ro": "Pain de Sucre",
+            "en": "Pain de Sucre"
+          },
+          "coords": [
+            0.0755,
+            49.5055
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Denkmal für Seeleute.",
+            "hu": "Tengerészek emlékműve.",
+            "ro": "Monumentul marinarilor.",
+            "en": "Monument to sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            0.0915,
+            49.4975
+          ],
+          "category": "beach",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekt ausgebaute Radwege.",
+            "hu": "Remek kerékpárutak.",
+            "ro": "Piste excelente pentru biciclete.",
+            "en": "Excellent bike paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Küste von den modernen Hafenanlagen bis zu den malerischen Klippen von Sainte-Adresse. Sie besuchen das MuMa-Museum und erklimmen die Hängenden Gärten in einer alten Festung. Der Rückweg führt über die breite Strandpromenade zurück ins Stadtzentrum.",
+        "hu": "Ez a kerékpártúra a part mentén vezet a modern kikötőtől Sainte-Adresse festői szikláiig. Útközben meglátogatjuk a MuMa múzeumot és feltekerünk a Függőkertekhez az egykori erődbe. A visszaút a széles tengerparti sétányon keresztül vezet a városközpontba.",
+        "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei, de la portul modern până la stâncile pitorești din Sainte-Adresse. Vizitați muzeul MuMa și urcați la Grădinile Suspendate într-o veche fortăreață. Întoarcerea se face pe promenada largă a plajei spre centrul orașului.",
+        "en": "This bike tour takes you along the coast from the modern harbor facilities to the picturesque cliffs of Sainte-Adresse. You will visit the MuMa museum and climb up to the Hanging Gardens in an old fortress. The return path leads through the wide beach promenade back to the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie am Strand",
+            "tip": "Süße oder herzhafte Galettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie a parton",
+            "tip": "Édes vagy sós palacsinták."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie pe plajă",
+            "tip": "Clătite dulci sau sărate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Crêperie",
+            "tip": "Sweet or savory galettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kap von Sainte-Adresse",
+            "tip": "Panoramablick auf die Seine-Mündung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sainte-Adresse fok",
+            "tip": "Panoráma a Szajna torkolatára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Sainte-Adresse",
+            "tip": "Vedere panoramică spre gura Senei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape of Sainte-Adresse",
+            "tip": "Panoramic view of the Seine estuary.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Docks Vauban",
+            "tip": "Einkaufszentrum im alten Lagerhaus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Docks Vauban",
+            "tip": "Bevásárlóközpont egy régi raktárban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Docks Vauban",
+            "tip": "Centru comercial în depozit vechi."
+          },
+          {
+            "id": "test",
+            "name": "test"
+          }
+        ],
+        "en": [
+          {
+            "name": "Docks Vauban",
+            "tip": "Shopping mall in an old warehouse."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'LiA Vélos' Mietstationen.",
+          "Achten Sie auf starken Wind am Meer."
+        ],
+        "hu": [
+          "Használja a 'LiA Vélos' bérbringákat.",
+          "Figyeljen az erős tengeri szélre."
+        ],
+        "ro": [
+          "Utilizați stațiile de închiriat 'LiA Vélos'.",
+          "Atenție la vântul puternic de la mare."
+        ],
+        "en": [
+          "Use the 'LiA Vélos' rental stations.",
+          "Watch out for strong sea winds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum (UNESCO)",
+            "hu": "UNESCO Központ",
+            "ro": "Centrul UNESCO",
+            "en": "UNESCO Center"
+          },
+          "coords": [
+            0.1079,
+            49.4944
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Auguste Perrets Betonkunst.",
+            "hu": "Auguste Perret betonművészete.",
+            "ro": "Arta betonului a lui Auguste Perret.",
+            "en": "Auguste Perret's concrete art."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Hève",
+            "hu": "La Hève világítótorony",
+            "ro": "Farul de la Hève",
+            "en": "La Hève Lighthouse"
+          },
+          "coords": [
+            0.0685,
+            49.5115
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Blick auf den Ärmelkanal.",
+            "hu": "Kilátás a Csatornára.",
+            "ro": "Vedere spre Canalul Mânecii.",
+            "en": "View over the Channel."
+          }
+        },
+        {
+          "name": {
+            "de": "Étretat (Klippen)",
+            "hu": "Étretat (sziklák)",
+            "ro": "Étretat (stânci)",
+            "en": "Étretat (Cliffs)"
+          },
+          "coords": [
+            0.2052,
+            49.7075
+          ],
+          "category": "park",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Die berühmten Kreidefelsen.",
+            "hu": "A híres krétafalak.",
+            "ro": "Celebrele stânci de cretă.",
+            "en": "The famous chalk cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Honfleur (Altes Becken)",
+            "hu": "Honfleur (öreg kikötő)",
+            "ro": "Honfleur (portul vechi)",
+            "en": "Honfleur (Old Basin)"
+          },
+          "coords": [
+            0.2335,
+            49.4195
+          ],
+          "category": "gastro",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 30.0,
+          "tip_5lang": {
+            "de": "Malerische Hafenstadt.",
+            "hu": "Festői kikötőváros.",
+            "ro": "Oraș portuar pitoresc.",
+            "en": "Picturesque port town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das UNESCO-Zentrum von Le Havre mit den spektakulären Klippen der Normandie. Nach einer Stadtbesichtigung fahren Sie nach Étretat, um die ikonischen Felsentore zu sehen. Zum Abschluss überqueren Sie die beeindruckende Pont de Normandie für einen Besuch im charmanten Honfleur.",
+        "hu": "Autóval összekötjük Le Havre UNESCO belvárosát Normandia látványos szikláival. A városnézés után Étretat felé vesszük az irányt, hogy megnézzük az ikonikus sziklakapukat. Végezetül átkelünk a monumentális Normandia-hídon a bájos Honfleur városába.",
+        "ro": "Cu mașina conectați centrul UNESCO din Le Havre cu stâncile spectaculoase ale Normandiei. După turul orașului, mergeți spre Étretat pentru a vedea porțile de stâncă emblematice. La final, traversați impresionantul Pont de Normandie pentru o vizită în fermecătorul Honfleur.",
+        "en": "By car, you connect the UNESCO center of Le Havre with the spectacular cliffs of Normandy. After a city tour, drive to Étretat to see the iconic rock arches. Finally, cross the impressive Pont de Normandie for a visit to the charming town of Honfleur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cidre & Camembert",
+            "tip": "Normannische Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cidre & Camembert",
+            "tip": "Normandiai klasszikusok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidre & Camembert",
+            "tip": "Clasice normande."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cidre & Camembert",
+            "tip": "Normandy classics."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Ruhiger Blick auf die Nadel von Étretat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Nyugodt kilátás az Étretat tűsziklára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Vedere liniștită spre Acul din Étretat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Quiet view of the Étretat needle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honfleur Delikatessen",
+            "tip": "Kaufen Sie Calvados direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Honfleur finomságok",
+            "tip": "Vegyen Calvadost közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Honfleur Delicatese",
+            "tip": "Cumpărați Calvados direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honfleur Delicacies",
+            "tip": "Buy Calvados directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Maut für die Pont de Normandie beträgt ca. 5-6 €.",
+          "Parken in Étretat ist im Sommer schwierig."
+        ],
+        "hu": [
+          "A Normandia-híd útdíja kb. 5-6 €.",
+          "Étretatban nyáron nehéz parkolni."
+        ],
+        "ro": [
+          "Taxa pentru Pont de Normandie este de aprox. 5-6 €.",
+          "Parcarea în Étretat este dificilă vara."
+        ],
+        "en": [
+          "The toll for Pont de Normandie is approx. 5-6 €.",
+          "Parking in Étretat is difficult in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Le Havre",
+            "hu": "Le Havre pályaudvar",
+            "ro": "Gara Le Havre",
+            "en": "Le Havre Station"
+          },
+          "coords": [
+            0.1245,
+            49.4925
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt.",
+            "hu": "Központi közlekedési csomópont.",
+            "ro": "Nod central de transport.",
+            "en": "Central transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville (Tram)",
+            "hu": "Városháza (villamos)",
+            "ro": "Primăria (tramvai)",
+            "en": "Town Hall (Tram)"
+          },
+          "coords": [
+            0.1085,
+            49.4935
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Moderne Straßenbahnlinie.",
+            "hu": "Modern villamosvonal.",
+            "ro": "Linie de tramvai modernă.",
+            "en": "Modern tram line."
+          }
+        },
+        {
+          "name": {
+            "de": "Funiculaire (Seilbahn)",
+            "hu": "Funiculaire (sikló)",
+            "ro": "Funicular",
+            "en": "Funicular"
+          },
+          "coords": [
+            0.1095,
+            49.4975
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbindet Unter- und Oberstadt.",
+            "hu": "Összeköti az alsó és felső várost.",
+            "ro": "Conectează orașul de jos cu cel de sus.",
+            "en": "Connects lower and upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Jardins Suspendus",
+            "hu": "Függőkertek",
+            "ro": "Grădinile Suspendate",
+            "en": "Hanging Gardens"
+          },
+          "coords": [
+            0.0985,
+            49.5052
+          ],
+          "category": "park",
+          "arrive_at": "11:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Buslinie 5 oder 6.",
+            "hu": "5-ös vagy 6-os busz.",
+            "ro": "Linia de autobuz 5 sau 6.",
+            "en": "Bus line 5 or 6."
+          }
+        },
+        {
+          "name": {
+            "de": "Bains des Docks",
+            "hu": "Bains des Docks",
+            "ro": "Bains des Docks",
+            "en": "Bains des Docks"
+          },
+          "coords": [
+            0.1235,
+            49.4825
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Design-Schwimmbad von Jean Nouvel.",
+            "hu": "Jean Nouvel által tervezett fürdő.",
+            "ro": "Piscină de design de Jean Nouvel.",
+            "en": "Design pool by Jean Nouvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Oscar Niemeyer",
+            "hu": "Oscar Niemeyer tér",
+            "ro": "Spațiul Oscar Niemeyer",
+            "en": "Oscar Niemeyer Space"
+          },
+          "coords": [
+            0.1075,
+            49.4905
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus leicht zu erreichen.",
+            "hu": "A központból könnyen elérhető.",
+            "ro": "Ușor de accesat din centru.",
+            "en": "Easy to reach from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete ÖPNV-Netz mit Straßenbahn und der historischen Seilbahn. Sie besuchen die wichtigsten UNESCO-Stätten im Zentrum, fahren hinauf zu den Hängenden Gärten für einen weiten Blick und entspannen in den modernen Bains des Docks im Hafengebiet.",
+        "hu": "Használja a kiváló tömegközlekedési hálózatot villamossal és a történelmi siklóval. Meglátogatjuk a központ legfontosabb UNESCO helyszíneit, felutazunk a Függőkertekhez a panorámáért, majd lazítunk a kikötői negyed modern Bains des Docks fürdőjében.",
+        "ro": "Utilizați rețeaua excelentă de transport public cu tramvaiul și funicularul istoric. Vizitați principalele situri UNESCO din centru, urcați la Grădinile Suspendate pentru panoramă și relaxați-vă în modernul Bains des Docks din zona portului.",
+        "en": "Use the excellent public transport network with the tram and the historical funicular. You will visit the key UNESCO sites in the center, ride up to the Hanging Gardens for a wide view, and relax in the modern Bains des Docks in the harbor area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie-Cafés im Zentrum",
+            "tip": "Frische Eclairs und Baguettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékségek a központban",
+            "tip": "Friss eclairek és baguette-ek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutării în centru",
+            "tip": "Eclere și baghete proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakeries in the center",
+            "tip": "Fresh eclairs and baguettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothèque Oscar Niemeyer",
+            "tip": "Stille und Architektur pur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oscar Niemeyer Könyvtár",
+            "tip": "Csend és tiszta építészet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biblioteca Oscar Niemeyer",
+            "tip": "Liniște și arhitectură pură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oscar Niemeyer Library",
+            "tip": "Pure quiet and architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quartier Coty",
+            "tip": "Haupteinkaufsstraße der Oberstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quartier Coty",
+            "tip": "A felsőváros fő bevásárlónegyede."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quartier Coty",
+            "tip": "Principala zonă comercială din orașul de sus."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quartier Coty",
+            "tip": "Main shopping district of the upper town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Bus und Bahn.",
+          "Die Seilbahn ist im normalen Ticket enthalten."
+        ],
+        "hu": [
+          "Vegyen napijegyet a buszokra és villamosokra.",
+          "A sikló használata benne van a normál jegyben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz și tramvai.",
+          "Funicularul este inclus în biletul normal."
+        ],
+        "en": [
+          "Buy a day pass for bus and tram.",
+          "The funicular is included in the regular ticket."
+        ]
+      }
+    }
+  }
+}

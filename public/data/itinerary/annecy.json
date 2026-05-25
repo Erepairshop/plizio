@@ -1,0 +1,1203 @@
+{
+  "city_id": "annecy",
+  "anchor": {
+    "name": "Palais de l'Île",
+    "coords": [
+      6.1294,
+      45.8992
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais de l'Île",
+            "hu": "Palais de l'Île",
+            "ro": "Palais de l'Île",
+            "en": "Palais de l'Île"
+          },
+          "coords": [
+            6.1264,
+            45.8988
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie das Gebäude von der Brücke aus für die beste Perspektive.",
+            "hu": "Fotózza az épületet a hídról a legjobb perspektíva érdekében.",
+            "ro": "Fotografiați clădirea de pe pod pentru cea mai bună perspectivă.",
+            "en": "Photograph the building from the bridge for the best perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Annecy",
+            "hu": "Annecy óvárosa",
+            "ro": "Orașul Vechi Annecy",
+            "en": "Annecy Old Town"
+          },
+          "coords": [
+            6.1255,
+            45.899
+          ],
+          "category": "square",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Arkaden und genießen Sie den Blumenschmuck.",
+            "hu": "Sétáljon az árkádok alatt és csodálja meg a virágdíszeket.",
+            "ro": "Plimbați-vă pe sub arcade și admirați decorațiunile florale.",
+            "en": "Stroll under the arcades and enjoy the floral decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            6.1245,
+            45.9001
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Kunstwerke im Inneren der Kathedrale.",
+            "hu": "Figyelje meg a katedrális belsejében található barokk műalkotásokat.",
+            "ro": "Observați operele de artă barocă din interiorul catedralei.",
+            "en": "Observe the Baroque artworks inside the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Annecy",
+            "hu": "Annecy vára",
+            "ro": "Castelul Annecy",
+            "en": "Annecy Castle"
+          },
+          "coords": [
+            6.126,
+            45.8975
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Museum für alpine Volkskunst im Schloss.",
+            "hu": "Látogasson el a várban található alpesi népművészeti múzeumba.",
+            "ro": "Vizitați muzeul de artă populară alpină din castel.",
+            "en": "Visit the museum of Alpine folk art inside the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de l'Europe",
+            "hu": "Európa-kertek",
+            "ro": "Grădinile Europei",
+            "en": "Gardens of Europe"
+          },
+          "coords": [
+            6.1305,
+            45.8985
+          ],
+          "category": "park",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für ein Picknick mit Blick auf den See.",
+            "hu": "Tökéletes hely egy piknikhez, kilátással a tóra.",
+            "ro": "Un loc perfect pentru un picnic cu vedere la lac.",
+            "en": "A perfect spot for a picnic with a view of the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont des Amours",
+            "hu": "Szerelmesek hídja",
+            "ro": "Podul Iubirii",
+            "en": "Lovers Bridge"
+          },
+          "coords": [
+            6.1315,
+            45.9
+          ],
+          "category": "sunset",
+          "arrive_at": "16:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der romantischste Ort der Stadt für den Abschluss des Tages.",
+            "hu": "A város legromantikusabb helye a nap lezárásához.",
+            "ro": "Cel mai romantic loc din oraș pentru încheierea zilei.",
+            "en": "The most romantic spot in town to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Palais de l'Île, dem Wahrzeichen von Annecy, das majestätisch im Thiou-Kanal thront. Schlendern Sie danach durch die farbenfrohen Gassen der Altstadt und besuchen Sie die Kathedrale Saint-Pierre.\n\nZum Mittagessen bieten die lokalen Bistros in der Nähe des Thiou köstliche Savoyer Spezialitäten. Der anschließende Aufstieg zum Schloss wird mit einer historischen Zeitreise und einem ersten Panoramablick über die Dächer belohnt.\n\nAm Nachmittag entspannen Sie in den weitläufigen Jardins de l'Europe, wo hundertjährige Bäume Schatten spenden und der Blick über das kristallklare Wasser des Sees schweift.\n\nBeenden Sie Ihren Tag an der Pont des Amours, während die Sonne hinter den Bergen versinkt und die Brücke in ein magisches Licht taucht – ein unvergesslicher Moment der Ruhe.",
+        "hu": "Kezdje a reggelt a Palais de l'Île-nél, Annecy jelképénél, amely fenségesen trónol a Thiou-csatorna közepén. Ezután sétáljon végig az óváros színes utcáin, és látogassa meg a Szent Péter-székesegyházat.\n\nEbédidőben a Thiou partján található bisztrók ínycsiklandó savoyai különlegességeket kínálnak. A várba vezető séta történelmi időutazással és a háztetők feletti panorámás kilátással ajándékozza meg.\n\nDélután pihenjen meg a tágas Európa-kertekben, ahol százéves fák adnak árnyékot, és a kilátás a tó kristálytiszta vizére nyílik.\n\nZárja a napot a Szerelmesek hídjánál, ahogy a nap lebukik a hegyek mögött, és a híd mágikus fénybe öltözik – ez a nyugalom felejthetetlen pillanata.",
+        "ro": "Începeți dimineața la Palais de l'Île, simbolul orașului Annecy, care stă maiestuos în mijlocul canalului Thiou. Apoi, plimbați-vă pe străzile colorate ale orașului vechi și vizitați Catedrala Saint-Pierre.\n\nLa prânz, bistrourile locale de pe malul râului Thiou oferă specialități savoyarde delicioase. Urcarea la castel este răsplătită cu o călătorie istorică în timp și o vedere panoramică peste acoperișuri.\n\nDupă-amiaza, relaxați-vă în vastele Grădini ale Europei, unde copaci seculari oferă umbră, iar privirea plutește peste apele de cristal ale lacului.\n\nÎncheiați ziua la Podul Iubirii, în timp ce soarele apune după munți, scăldând podul într-o lumină magică – un moment de liniște de neuitat.",
+        "en": "Start your morning at the Palais de l'Île, the symbol of Annecy, sitting majestically in the middle of the Thiou canal. Then, stroll through the colorful streets of the Old Town and visit Saint-Pierre Cathedral.\n\nAt lunchtime, local bistros near the Thiou offer delicious Savoyard specialties. The walk up to the castle is rewarded with a historical journey back in time and a panoramic view over the rooftops.\n\nIn the afternoon, relax in the spacious Gardens of Europe, where century-old trees provide shade and the view stretches over the crystal-clear water of the lake.\n\nEnd your day at the Lovers' Bridge as the sun sets behind the mountains, bathing the bridge in a magical light – an unforgettable moment of tranquility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tartiflette",
+            "tip": "Probieren Sie dieses klassische Kartoffelgericht im L'Étage."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Ein Muss in der Auberge de Savoie am Ufer des Thiou."
+          },
+          {
+            "name": "Le Glacier des Alpes",
+            "tip": "Das beste handwerkliche Eis der Stadt in der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tartiflette",
+            "tip": "Kóstolja meg ezt a klasszikus burgonyás ételt a L'Étage étteremben."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Kihagyhatatlan az Auberge de Savoie-ban, a Thiou partján."
+          },
+          {
+            "name": "Le Glacier des Alpes",
+            "tip": "A város legjobb kézműves fagyija az óvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tartiflette",
+            "tip": "Încercați acest preparat clasic cu cartofi la L'Étage."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Un must la Auberge de Savoie, pe malul râului Thiou."
+          },
+          {
+            "name": "Le Glacier des Alpes",
+            "tip": "Cea mai bună înghețată artizanală din oraș în orașul vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tartiflette",
+            "tip": "Try this classic potato dish at L'Étage restaurant."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "A must-try at Auberge de Savoie on the banks of the Thiou."
+          },
+          {
+            "name": "Le Glacier des Alpes",
+            "tip": "The best artisanal ice cream in town in the Old Town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Pâquier",
+            "tip": "Große Wiese am See ideal zum Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Insel im Thiou",
+            "tip": "Ein ruhiger Moment am plätschernden Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. François de Sales",
+            "tip": "Stille und Einkehr in der alten Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Pâquier",
+            "tip": "Hatalmas rét a tóparton, ideális naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sziget a Thiou folyón",
+            "tip": "Csendes pillanat a csobogó víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Ferenc-templom",
+            "tip": "Csend és elmélyülés a régi templomban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Pâquier",
+            "tip": "Pajiște mare pe malul lacului, ideală pentru apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Insula de pe Thiou",
+            "tip": "Un moment liniștit lângă apa susurândă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica St. François",
+            "tip": "Liniște și reculegere în vechea biserică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Pâquier",
+            "tip": "Large meadow by the lake, ideal for sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Island in the Thiou",
+            "tip": "A quiet moment by the rippling water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. François de Sales",
+            "tip": "Silence and reflection in the old church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt",
+            "tip": "Dienstags und freitags in der Altstadt für Käse und Wurst."
+          },
+          {
+            "name": "Au Fidèle Berger",
+            "tip": "Exquisite Schokolade und traditionelle Konditorei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Heti piac",
+            "tip": "Kedden és pénteken az óvárosban sajtért és felvágottakért."
+          },
+          {
+            "name": "Au Fidèle Berger",
+            "tip": "Kiváló csokoládé és hagyományos cukrászda."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală",
+            "tip": "Marțea și vinerea în orașul vechi pentru brânzeturi."
+          },
+          {
+            "name": "Au Fidèle Berger",
+            "tip": "Ciocolată rafinată și cofetărie tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market",
+            "tip": "Tuesdays and Fridays in the Old Town for cheese and meats."
+          },
+          {
+            "name": "Au Fidèle Berger",
+            "tip": "Exquisite chocolate and traditional pastry shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Besuchen Sie den Markt am frühen Morgen, um den Massen zu entgehen.",
+          "Die Parkplätze in der Innenstadt sind begrenzt, nutzen Sie Park-and-Ride.",
+          "Buchen Sie Restaurants in der Hochsaison unbedingt im Voraus.",
+          "Vergessen Sie Ihre Kamera nicht, Annecy ist extrem fotogen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "Látogassa meg a piacot kora reggel, hogy elkerülje a tömeget.",
+          "A belvárosi parkolóhelyek korlátozottak, használja a P+R-t.",
+          "Főszezonban feltétlenül foglaljon asztalt az éttermekbe.",
+          "Ne felejtse el a fényképezőgépét, Annecy rendkívül fotogén."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite din centrul vechi.",
+          "Vizitați piața dimineața devreme pentru a evita aglomerația.",
+          "Locurile de parcare din centru sunt limitate, folosiți P+R.",
+          "Rezervați mese la restaurante din timp în timpul sezonului de vârf.",
+          "Nu vă uitați camera foto, Annecy este extrem de fotogenic."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the Old Town.",
+          "Visit the market early in the morning to avoid the crowds.",
+          "Downtown parking is limited; use park-and-ride facilities.",
+          "Be sure to book restaurants in advance during peak season.",
+          "Don't forget your camera; Annecy is extremely photogenic."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pont des Amours",
+            "hu": "Szerelmesek hídja",
+            "ro": "Podul Iubirii",
+            "en": "Lovers Bridge"
+          },
+          "coords": [
+            6.1315,
+            45.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Startpunkt für die Radtour entlang des Sees.",
+            "hu": "Legjobb kiindulópont a tó körüli biciklitúrához.",
+            "ro": "Cel mai bun punct de plecare pentru turul cu bicicleta pe malul lacului.",
+            "en": "Best starting point for the bike tour along the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten des Impérial Palace",
+            "hu": "Az Impérial Palace kertjei",
+            "ro": "Grădinile Palatului Impérial",
+            "en": "Imperial Palace Gardens"
+          },
+          "coords": [
+            6.143,
+            45.903
+          ],
+          "category": "park",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Hotels und die gepflegten Gärten.",
+            "hu": "Csodálja meg a hotel építészetét és a gondozott kerteket.",
+            "ro": "Admirați arhitectura hotelului și grădinile bine întreținute.",
+            "en": "Admire the hotel's architecture and the manicured gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Albigny",
+            "hu": "Albigny strand",
+            "ro": "Plaja Albigny",
+            "en": "Albigny Beach"
+          },
+          "coords": [
+            6.15,
+            45.908
+          ],
+          "category": "beach",
+          "arrive_at": "11:02",
+          "stay_min": 180,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad im saubersten See Europas.",
+            "hu": "Frissítő mártózás Európa legtisztább tavában.",
+            "ro": "O baie răcoritoare în cel mai curat lac din Europa.",
+            "en": "A refreshing dip in the cleanest lake in Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Veyrier-du-Lac Promenade",
+            "hu": "Veyrier-du-Lac sétány",
+            "ro": "Promenada Veyrier-du-Lac",
+            "en": "Veyrier-du-Lac Promenade"
+          },
+          "coords": [
+            6.175,
+            45.885
+          ],
+          "category": "park",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das gegenüberliegende Ufer.",
+            "hu": "Élvezze a szemközti partra nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea spre malul opus.",
+            "en": "Enjoy the view of the opposite shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Sevrier Seeufer",
+            "hu": "Sevrier tópart",
+            "ro": "Țărmul Sevrier",
+            "en": "Sevrier Lakeshore"
+          },
+          "coords": [
+            6.14,
+            45.86
+          ],
+          "category": "gastro",
+          "arrive_at": "15:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in einem Bistro direkt am Wasser.",
+            "hu": "Zárja a napot egy közvetlenül a vízparton lévő bisztróban.",
+            "ro": "Încheiați ziua într-un bistrou chiar pe malul apei.",
+            "en": "End the day at a bistro right on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schalten Sie einen Gang höher und erkunden Sie den See von Annecy auf zwei Rädern. Ihr Abenteuer beginnt an der Pont des Amours, dem Tor zu den Uferwegen.\n\nRadeln Sie vorbei am prächtigen Impérial Palace und genießen Sie die kühle Brise. Zur Mittagszeit lädt der Strand von Albigny zu einer langen Pause und einem Picknick im Gras ein.\n\nAm Nachmittag führt Sie der Weg weiter nach Veyrier-du-Lac, wo Sie die Ruhe abseits der Stadtmassen finden und den Panoramablick auf die Savoyer Alpen genießen können.\n\nDer Rückweg über Sevrier bietet fantastische Ausblicke auf den Sonnenuntergang über dem See, bevor Sie entspannt Ihren Tag ausklingen lassen.",
+        "hu": "Váltson sebességet és fedezze fel az Annecy-tavat két keréken. A kaland a Szerelmesek hídjánál kezdődik, amely a tóparti utak kapuja.\n\nBiciklizzen el a pompás Impérial Palace mellett, élvezve a hűvös szellőt. Ebédidőben az Albigny strand hívogat egy hosszú pihenőre és egy füvön elfogyasztott piknikre.\n\nDélután az út Veyrier-du-Lac felé vezet, ahol a városi tömegtől távol találhat nyugalmat és élvezheti a Savoyai-Alpok panorámáját.\n\nA Sevrier felé vezető visszavezető út fantasztikus kilátást nyújt a tó feletti naplementére, mielőtt nyugodtan befejezné a napot.",
+        "ro": "Schimbați viteza și explorați Lacul Annecy pe două roți. Aventura începe la Podul Iubirii, poarta către potecile de pe malul lacului.\n\nPedalați pe lângă magnificul Palat Impérial și bucurați-vă de briza răcoroasă. La prânz, plaja Albigny vă invită la o pauză lungă și un picnic pe iarbă.\n\nDupă-amiaza, drumul vă duce spre Veyrier-du-Lac, unde veți găsi liniște departe de aglomerația orașului și veți admira panorama Alpilor Savoiei.\n\nDrumul de întoarcere prin Sevrier oferă vederi fantastice asupra apusului peste lac, înainte de a încheia ziua relaxat.",
+        "en": "Gear up and explore Lake Annecy on two wheels. Your adventure begins at the Lovers' Bridge, the gateway to the lakeside paths.\n\nCycle past the magnificent Imperial Palace and enjoy the cool breeze. At lunchtime, Albigny beach invites you for a long break and a picnic on the grass.\n\nIn the afternoon, the path leads you to Veyrier-du-Lac, where you can find peace away from the city crowds and enjoy the panoramic view of the Savoy Alps.\n\nThe return route via Sevrier offers fantastic views of the sunset over the lake before you end your day relaxed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Féra aus dem See",
+            "tip": "Probieren Sie den fangfrischen Fisch im L'Oasis."
+          },
+          {
+            "name": "Reblochon",
+            "tip": "Kaufen Sie diesen typischen Käse für ein Picknick am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tavi maréna",
+            "tip": "Kóstolja meg a frissen fogott halat a L'Oasis étteremben."
+          },
+          {
+            "name": "Reblochon",
+            "tip": "Vásároljon ebből a tipikus sajtból a strandoláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Féra de lac",
+            "tip": "Încercați peștele proaspăt prins la L'Oasis."
+          },
+          {
+            "name": "Reblochon",
+            "tip": "Cumpărați această brânză tipică pentru un picnic la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Féra",
+            "tip": "Try the freshly caught fish at L'Oasis restaurant."
+          },
+          {
+            "name": "Reblochon",
+            "tip": "Buy this typical cheese for a picnic by the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Veyrier Ufer",
+            "tip": "Ruhiger Platz fernab der Touristenströme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sevrier-Sumpf",
+            "tip": "Naturbeobachtungen in der Stille.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veyrier part",
+            "tip": "Csendes hely távol a turistaáradattól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sevrier-mocsár",
+            "tip": "Természetmegfigyelés a csendben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țărmul Veyrier",
+            "tip": "Loc liniștit departe de fluxurile de turiști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mlaștina Sevrier",
+            "tip": "Observarea naturii în liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Veyrier Shore",
+            "tip": "Quiet spot far from the tourist crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sevrier Marsh",
+            "tip": "Nature watching in silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélostation",
+            "tip": "Radzubehör und lokale Karten für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélostation",
+            "tip": "Biciklis kiegészítők és helyi térképek bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélostation",
+            "tip": "Accesorii pentru biciclete și hărți locale pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélostation",
+            "tip": "Bike accessories and local maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie Ihr Fahrrad frühzeitig bei Vélonecy am Bahnhof.",
+          "Nutzen Sie die Voie Verte, den Radweg auf der Westseite des Sees.",
+          "Achten Sie auf Fußgänger in den gemischten Zonen.",
+          "Nehmen Sie ausreichend Wasser und Sonnenschutz mit.",
+          "Ein Elektrofahrrad ist ideal, wenn Sie die umliegenden Hügel erklimmen wollen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt időben a Vélonecy-nél az állomáson.",
+          "Használja a Voie Verte-et, a tó nyugati oldalán futó kerékpárutat.",
+          "Ügyeljen a gyalogosokra a vegyes zónákban.",
+          "Vigyen magával elegendő vizet és naptejet.",
+          "Az elektromos kerékpár ideális, ha a környező dombokat is megmászná."
+        ],
+        "ro": [
+          "Închiriați bicicleta din timp de la Vélonecy de lângă gară.",
+          "Folosiți Voie Verte, pista de biciclete de pe partea de vest a lacului.",
+          "Fiți atenți la pietoni în zonele mixte.",
+          "Luați cu voi suficientă apă și protecție solară.",
+          "O bicicletă electrică este ideală dacă doriți să urcați dealurile din jur."
+        ],
+        "en": [
+          "Rent your bike early from Vélonecy near the station.",
+          "Use the Voie Verte, the bike path on the west side of the lake.",
+          "Watch out for pedestrians in mixed zones.",
+          "Take plenty of water and sunscreen with you.",
+          "An e-bike is ideal if you want to climb the surrounding hills."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Annecy",
+            "hu": "Annecy óvárosa",
+            "ro": "Orașul Vechi Annecy",
+            "en": "Annecy Old Town"
+          },
+          "coords": [
+            6.126,
+            45.899
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Hôtel de Ville für direkten Zugang.",
+            "hu": "Parkoljon a Városháza melletti parkolóházban a közvetlen bejutáshoz.",
+            "ro": "Parcați în parcarea supraetajată Hôtel de Ville pentru acces direct.",
+            "en": "Park in the Hôtel de Ville parking garage for direct access."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika de la Visitation",
+            "hu": "Visitation-bazilika",
+            "ro": "Bazilica de la Visitation",
+            "en": "Basilica of the Visitation"
+          },
+          "coords": [
+            6.125,
+            45.892
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über die Stadt vom Vorplatz aus.",
+            "hu": "Élvezze a városra nyíló széles kilátást a templom előtti térről.",
+            "ro": "Bucurați-vă de vederea largă asupra orașului de pe esplanadă.",
+            "en": "Enjoy the wide view over the city from the forecourt."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorges du Fier",
+            "hu": "Fier-szurdok",
+            "ro": "Cheile Fierului",
+            "en": "Gorges du Fier"
+          },
+          "coords": [
+            6.043,
+            45.916
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Steg über einen tiefen Canyon.",
+            "hu": "Látványos függőfolyosó egy mély kanyon felett.",
+            "ro": "O pasarelă spectaculoasă peste un canion adânc.",
+            "en": "A spectacular footbridge over a deep canyon."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Menthon-Saint-Bernard",
+            "hu": "Menthon-Saint-Bernard vára",
+            "ro": "Castelul Menthon-Saint-Bernard",
+            "en": "Menthon-Saint-Bernard Castle"
+          },
+          "coords": [
+            6.195,
+            45.865
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Dieses Märchenschloss soll Disney inspiriert haben.",
+            "hu": "Úgy tartják, ez a mesebeli vár ihlette Disney-t.",
+            "ro": "Se spune că acest castel de basm l-a inspirat pe Disney.",
+            "en": "This fairy-tale castle is said to have inspired Disney."
+          }
+        },
+        {
+          "name": {
+            "de": "Col de la Forclaz",
+            "hu": "Col de la Forclaz hágó",
+            "ro": "Pasul Forclaz",
+            "en": "Col de la Forclaz"
+          },
+          "coords": [
+            6.245,
+            45.81
+          ],
+          "category": "sunset",
+          "arrive_at": "17:17",
+          "stay_min": 90,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Der spektakulärste Aussichtspunkt auf den gesamten See.",
+            "hu": "A leglátványosabb kilátópont az egész tóra.",
+            "ro": "Cel mai spectaculos punct de belvedere asupra întregului lac.",
+            "en": "The most spectacular viewpoint overlooking the entire lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto haben Sie die Freiheit, die verborgenen Schätze rund um Annecy zu entdecken. Starten Sie mit einem ausgiebigen Rundgang durch die Altstadt, bevor Sie zur hochgelegenen Basilika de la Visitation fahren.\n\nDas Mittagessen führt Sie aus der Stadt hinaus zu den beeindruckenden Gorges du Fier, einem Naturwunder, wo Sie auf Stegen über reißendem Wasser wandeln. Danach geht es zum Ostufer des Sees.\n\nDas Schloss Menthon-Saint-Bernard thront wie aus einem Märchen über dem Wasser. Eine Führung durch die prunkvollen Räume ist ein absolutes Highlight Ihres Nachmittags.\n\nZum krönenden Abschluss fahren Sie hinauf zum Col de la Forclaz. Beobachten Sie die Gleitschirmflieger und genießen Sie den atemberaubenden Sonnenuntergang über dem schimmernden See.",
+        "hu": "Autóval szabadon fedezheti fel az Annecy környéki rejtett kincseket. Kezdje egy kiadós óvárosi sétával, mielőtt felautózna a magasan fekvő Visitation-bazilikához.\n\nAz ebédidő már a városon kívül éri, a lenyűgöző Fier-szurdoknál, ahol függőfolyosókon sétálhat a rohanó víz felett. Ezután a tó keleti partja felé vegye az irányt.\n\nMenthon-Saint-Bernard vára mesebeli palotaként trónol a víz felett. A pazar termekben tett vezetés a délután igazi fénypontja lesz.\n\nA nap koronájaként autózzon fel a Col de la Forclaz hágóra. Figyelje a siklóernyősöket és élvezze a lélegzetelállító naplementét a csillogó tó felett.",
+        "ro": "Cu mașina aveți libertatea de a descoperi comorile ascunse din jurul Annecy. Începeți cu o plimbare lungă prin orașul vechi, înainte de a urca cu mașina la Bazilica de la Visitation, situată la înălțime.\n\nPrânzul vă poartă în afara orașului către impresionantele Chei ale Fierului, o minune a naturii unde vă plimbați pe pasarele deasupra apei învolburate. Apoi, îndreptați-vă spre malul estic al lacului.\n\nCastelul Menthon-Saint-Bernard domină apele ca într-un basm. Un tur prin sălile somptuoase este punctul culminant al după-amiezii. \n\nPentru finalul perfect, urcați la Pasul Forclaz. Observați parapantiștii și bucurați-vă de apusul uluitor peste lacul scânteietor.",
+        "en": "By car, you have the freedom to discover the hidden treasures around Annecy. Start with a leisurely stroll through the Old Town before driving up to the high-perched Basilica of the Visitation.\n\nLunchtime takes you out of town to the impressive Gorges du Fier, a natural wonder where you walk on footbridges over rushing water. Afterwards, head to the eastern shore of the lake.\n\nMenthon-Saint-Bernard Castle sits like a fairy-tale palace above the water. A tour through the magnificent rooms is a true highlight of your afternoon.\n\nFor the grand finale, drive up to Col de la Forclaz. Watch the paragliders and enjoy the breathtaking sunset over the shimmering lake."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Ferme de la Forclaz",
+            "tip": "Traditionelle Gerichte mit bester Aussicht."
+          },
+          {
+            "name": "Savoyer Käseplatte",
+            "tip": "Kaufen Sie Käse direkt beim Produzenten auf dem Land."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Ferme de la Forclaz",
+            "tip": "Hagyományos ételek a legjobb kilátással."
+          },
+          {
+            "name": "Savoyai sajttál",
+            "tip": "Vásároljon sajtot közvetlenül a termelőtől vidéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Ferme de la Forclaz",
+            "tip": "Mâncăruri tradiționale cu cea mai bună vedere."
+          },
+          {
+            "name": "Platou cu brânzeturi savoyarde",
+            "tip": "Cumpărați brânză direct de la producător de la țară."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Ferme de la Forclaz",
+            "tip": "Traditional dishes with the best view."
+          },
+          {
+            "name": "Savoyard Cheese Platter",
+            "tip": "Buy cheese directly from the producer in the countryside."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Col de la Forclaz",
+            "tip": "Panoramablick der Extraklasse.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Waldwege bei der Basilika",
+            "tip": "Ruhige Waldspaziergänge über der Stadt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Col de la Forclaz",
+            "tip": "Extraklasszis panoráma kilátás.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Erdei utak a bazilikánál",
+            "tip": "Csendes erdei séták a város felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasul Forclaz",
+            "tip": "Vedere panoramică de excepție.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteci în pădure lângă bazilică",
+            "tip": "Plimbări liniștite în pădure deasupra orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Col de la Forclaz",
+            "tip": "Top-class panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Forest paths near the Basilica",
+            "tip": "Quiet forest walks above the city.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Käsereien",
+            "tip": "Besuchen Sie Hofläden rund um den See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajtüzemek",
+            "tip": "Látogasson el a tó körüli tanyasi boltokba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lăptării locale",
+            "tip": "Vizitați magazinele fermelor din jurul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Creameries",
+            "tip": "Visit farm shops around the lake."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen am Seeufer können am Wochenende sehr staureich sein.",
+          "Achten Sie auf die engen Kurven bei der Auffahrt zum Col de la Forclaz.",
+          "Kostenlose Parkplätze sind am Gorges du Fier vorhanden.",
+          "Tanken Sie in den Supermärkten am Stadtrand für günstigere Preise.",
+          "Haben Sie immer etwas Kleingeld für Parkautomaten dabei."
+        ],
+        "hu": [
+          "A tóparti utak hétvégente nagyon zsúfoltak lehetnek.",
+          "Ügyeljen a szűk kanyarokra a Col de la Forclaz-ra vezető úton.",
+          "A Fier-szurdoknál ingyenes parkolás biztosított.",
+          "Tankoljon a város szélén lévő szupermarketeknél az olcsóbb árakért.",
+          "Mindig legyen Önné aprópénz a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Drumurile de pe malul lacului pot fi foarte aglomerate în weekend.",
+          "Fiți atenți la curbele strânse la urcarea spre Pasul Forclaz.",
+          "Parcarea gratuită este disponibilă la Cheile Fierului.",
+          "Alimentați la supermarketurile de la marginea orașului pentru prețuri mai bune.",
+          "Aveți întotdeauna mărunțiș la voi pentru automatele de parcare."
+        ],
+        "en": [
+          "Lakeside roads can be very congested on weekends.",
+          "Watch out for tight bends on the drive up to Col de la Forclaz.",
+          "Free parking is available at Gorges du Fier.",
+          "Refuel at supermarkets on the outskirts for better prices.",
+          "Always have some spare change for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais de l'Île",
+            "hu": "Palais de l'Île",
+            "ro": "Palais de l'Île",
+            "en": "Palais de l'Île"
+          },
+          "coords": [
+            6.1264,
+            45.8988
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus in 10 Minuten zu Fuß oder mit dem Bus 1 erreichbar.",
+            "hu": "A vasútállomástól 10 perc gyalog vagy az 1-es busszal.",
+            "ro": "Accesibil în 10 minute pe jos de la gară sau cu autobuzul 1.",
+            "en": "Accessible in 10 minutes on foot from the station or via bus 1."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlossmuseum",
+            "hu": "Vármúzeum",
+            "ro": "Muzeul Castelului",
+            "en": "Castle Museum"
+          },
+          "coords": [
+            6.126,
+            45.8975
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Geschichte und Kunst in den alten Mauern.",
+            "hu": "Ötvözze a történelmet és a művészetet a régi falak között.",
+            "ro": "Combinați istoria și arta între zidurile vechi.",
+            "en": "Combine history and art within the old walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika de la Visitation",
+            "hu": "Visitation-bazilika",
+            "ro": "Bazilica de la Visitation",
+            "en": "Basilica of the Visitation"
+          },
+          "coords": [
+            6.125,
+            45.892
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus, um den steilen Aufstieg zu vermeiden.",
+            "hu": "Használja a helyi buszt, hogy elkerülje a meredek kapaszkodót.",
+            "ro": "Folosiți autobuzul local pentru a evita urcarea abruptă.",
+            "en": "Use the local bus to avoid the steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pâquier Park",
+            "hu": "Le Pâquier park",
+            "ro": "Parcul Le Pâquier",
+            "en": "Le Paquier Park"
+          },
+          "coords": [
+            6.133,
+            45.901
+          ],
+          "category": "park",
+          "arrive_at": "13:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der zentrale Treffpunkt der Stadt direkt am Seeufer.",
+            "hu": "A város központi találkozóhelye közvetlenül a tóparton.",
+            "ro": "Locul central de întâlnire al orașului chiar pe malul lacului.",
+            "en": "The city's central meeting point right on the lakeshore."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Marquisats",
+            "hu": "Marquisats strand",
+            "ro": "Plaja Marquisats",
+            "en": "Marquisats Beach"
+          },
+          "coords": [
+            6.135,
+            45.89
+          ],
+          "category": "beach",
+          "arrive_at": "15:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kostenloser Strand, der leicht mit dem Bus erreichbar ist.",
+            "hu": "Ingyenes strand, amely busszal könnyen megközelíthető.",
+            "ro": "O plajă gratuită, ușor accesibilă cu autobuzul.",
+            "en": "A free beach that is easily accessible by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Annecy, um die Stadt stressfrei zu erkunden. Beginnen Sie Ihren Tag im historischen Zentrum am Palais de l'Île und tauchen Sie ein in die Geschichte der Savoyer Alpen.\n\nEin kurzer Spaziergang oder eine Busfahrt bringt Sie zum Schlossmuseum, wo Sie alpine Kunst bewundern können. Mittags bringt Sie der Bus hinauf zur Basilika de la Visitation, von wo aus Sie den besten Überblick über die Stadt haben.\n\nDen Nachmittag verbringen Sie wie die Einheimischen auf der großen Wiese von Le Pâquier, einem idealen Ort für Entspannung und Beobachtung des regen Treibens auf dem See.\n\nBeenden Sie Ihren Tag am Strand der Marquisats, wo Sie den Tag im Wasser oder bei einem kühlen Getränk ausklingen lassen können, bevor Sie bequem mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Használja Annecy hatékony buszhálózatát a város stresszmentes felfedezéséhez. Kezdje a napot a történelmi központban, a Palais de l'Île-nél, és merüljön el a Savoyai-Alpok történelmében.\n\nEgy rövid séta vagy buszozás a Vármúzeumhoz vezet, ahol alpesi művészetet csodálhat meg. Ebédidőben a busz felviszi a Visitation-bazilikához, ahonnan a legjobb rálátás nyílik a városra.\n\nA délutánt töltse úgy, mint a helyiek: a Le Pâquier hatalmas rétjén, amely ideális hely a pihenésre és a tavi élet megfigyelésére.\n\nZárja a napot a Marquisats strandon, ahol megmártózhat a vízben vagy elfogyaszthat egy hűsítő italt, mielőtt kényelmesen visszabuszozna a pályaudvarra.",
+        "ro": "Folosiți sistemul eficient de autobuze din Annecy pentru a explora orașul fără stres. Începeți ziua în centrul istoric la Palais de l'Île și cufundați-vă în istoria Alpilor Savoiei.\n\nO scurtă plimbare sau o cursă cu autobuzul vă duce la Muzeul Castelului, unde puteți admira arta alpină. La prânz, autobuzul vă urcă la Bazilica de la Visitation, de unde aveți cea mai bună panoramă asupra orașului.\n\nPetreceți după-amiaza ca localnicii pe pajiștea mare Le Pâquier, un loc ideal pentru relaxare și observarea agitației de pe lac.\n\nÎncheiați ziua la plaja Marquisats, unde puteți termina ziua în apă sau cu o băutură rece, înainte de a reveni confortabil cu autobuzul la gară.",
+        "en": "Use Annecy's efficient bus system to explore the city stress-free. Start your day in the historic center at Palais de l'Île and immerse yourself in the history of the Savoy Alps.\n\nA short walk or bus ride takes you to the Castle Museum, where you can admire Alpine art. At lunchtime, the bus takes you up to the Basilica of the Visitation, from where you have the best view over the city.\n\nSpend the afternoon like the locals on the large meadow of Le Pâquier, an ideal spot for relaxation and watching the activity on the lake.\n\nEnd your day at Marquisats beach, where you can finish the day in the water or with a cool drink before conveniently taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Rouge",
+            "tip": "Holen Sie sich frisches Gebäck für unterwegs."
+          },
+          {
+            "name": "Le Bilboquet",
+            "tip": "Gemütliches Bistro in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Rouge",
+            "tip": "Vegyen friss péksüteményt az útra."
+          },
+          {
+            "name": "Le Bilboquet",
+            "tip": "Hangulatos bisztró az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Rouge",
+            "tip": "Luați produse de patiserie proaspete pentru drum."
+          },
+          {
+            "name": "Le Bilboquet",
+            "tip": "Bistrou primitor lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Rouge",
+            "tip": "Pick up fresh pastries for the journey."
+          },
+          {
+            "name": "Le Bilboquet",
+            "tip": "Cozy bistro near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Basilika-Garten",
+            "tip": "Spiritueller Ort mit Stille.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Uferweg Marquisats",
+            "tip": "Ruhiger Spaziergang am südlichen Seeende.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bazilika kertje",
+            "tip": "Spirituális hely csenddel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Marquisats tóparti út",
+            "tip": "Csendes séta a tó déli végénél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bazilicii",
+            "tip": "Loc spiritual cu liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Poteca de pe mal Marquisats",
+            "tip": "Plimbare liniștită la capătul sudic al lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Basilica Garden",
+            "tip": "Spiritual place with silence.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Marquisats Lakeside Path",
+            "tip": "Quiet walk at the southern end of the lake.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Großes Kaufhaus für Mode und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Nagy áruház divatcikkekkel és helyi különlegességekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Magazin mare pentru modă și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Large department store for fashion and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die SIBRA-App für Echtzeit-Fahrpläne herunter.",
+          "Ein Tagesticket ist günstiger als Einzelfahrten.",
+          "Im Sommer gibt es kostenlose Shuttlebusse zum See.",
+          "Die Busse fahren pünktlich, seien Sie rechtzeitig an der Haltestelle.",
+          "Der Hauptknotenpunkt für alle Linien ist der Bahnhof 'Gare d'Annecy'."
+        ],
+        "hu": [
+          "Töltse le a SIBRA alkalmazást a valós idejű menetrendekhez.",
+          "A napijegy olcsóbb, mint az egy útra szóló jegyek.",
+          "Nyáron ingyenes transzferbuszok járnak a tóhoz.",
+          "A buszok pontosak, érkezzen időben a megállóba.",
+          "Minden vonal fő csomópontja a 'Gare d'Annecy' állomás."
+        ],
+        "ro": [
+          "Descărcați aplicația SIBRA pentru orare în timp real.",
+          "Un bilet de o zi este mai ieftin decât călătoriile individuale.",
+          "Vara există autobuze navetă gratuite către lac.",
+          "Autobuzele circulă punctual, fiți la timp în stație.",
+          "Nodul principal pentru toate liniile este gara 'Gare d'Annecy'."
+        ],
+        "en": [
+          "Download the SIBRA app for real-time schedules.",
+          "A day ticket is cheaper than individual fares.",
+          "Free shuttle buses to the lake are available in summer.",
+          "Buses run on time; be at the stop early.",
+          "The main hub for all lines is the 'Gare d'Annecy' station."
+        ]
+      }
+    }
+  }
+}

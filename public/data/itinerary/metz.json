@@ -1,0 +1,1210 @@
+{
+  "city_id": "metz",
+  "anchor": {
+    "name": "Cathédrale Saint-Étienne",
+    "coords": [
+      6.1757,
+      49.1193
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            6.1751,
+            49.1202
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Suchen Sie das Fenster von Marc Chagall im Nordschiff.",
+            "hu": "Keresse meg Marc Chagall üvegablakát az északi hajóban.",
+            "ro": "Căutați vitraliul lui Marc Chagall în nava de nord.",
+            "en": "Look for the Marc Chagall window in the north aisle."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle",
+            "hu": "Fedett Piac",
+            "ro": "Piața Acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            6.1745,
+            49.1205
+          ],
+          "category": "gastro",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Pâté Lorrain oder lokalen Ziegenkäse.",
+            "hu": "Kóstolja meg a Pâté Lorrain-t vagy a helyi kecskesajtot.",
+            "ro": "Încercați Pâté Lorrain sau brânza locală de capră.",
+            "en": "Try some Pâté Lorrain or local goat cheese."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Comédie / Temple Neuf",
+            "hu": "Place de la Comédie / Temple Neuf",
+            "ro": "Piața Comédie / Temple Neuf",
+            "en": "Place de la Comédie / Temple Neuf"
+          },
+          "coords": [
+            6.1729,
+            49.1215
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die beste Aussicht auf den Temple Neuf hat man vom Moyen Pont.",
+            "hu": "A legjobb kilátás a Temple Neufre a Moyen Pont hídról nyílik.",
+            "ro": "Cea mai bună vedere spre Temple Neuf este de pe Moyen Pont.",
+            "en": "The best view of Temple Neuf is from the Moyen Pont."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Cour d'Or",
+            "hu": "Cour d'Or Múzeum",
+            "ro": "Muzeul Cour d'Or",
+            "en": "Cour d'Or Museum"
+          },
+          "coords": [
+            6.1775,
+            49.1212
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die antiken römischen Thermen im Keller.",
+            "hu": "Ne hagyja ki az alagsorban található ókori római fürdőket.",
+            "ro": "Nu ratați băile romane antice din subteran.",
+            "en": "Don't miss the ancient Roman baths in the basement."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Armes (Mittagessen)",
+            "hu": "Place d'Armes (Ebéd)",
+            "ro": "Piața Armes (Prânz)",
+            "en": "Place d'Armes (Lunch)"
+          },
+          "coords": [
+            6.1758,
+            49.1198
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine klassische Quiche Lorraine auf der Terrasse.",
+            "hu": "Élvezzen egy klasszikus Quiche Lorraine-t a teraszon.",
+            "ro": "Savurați un Quiche Lorraine clasic pe terasă.",
+            "en": "Enjoy a classic Quiche Lorraine on the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Tor",
+            "hu": "Német-kapu",
+            "ro": "Poarta Germanilor",
+            "en": "Porte des Allemands"
+          },
+          "coords": [
+            6.1848,
+            49.1191
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die befestigte Brücke des Stadttors.",
+            "hu": "Sétáljon át a városkapu erődített hídján.",
+            "ro": "Plimbați-vă pe podul fortificat al porții orașului.",
+            "en": "Walk across the fortified bridge of the city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade / Arsenal",
+            "hu": "Esplanade / Arsenal",
+            "ro": "Esplanada / Arsenal",
+            "en": "Esplanade / Arsenal"
+          },
+          "coords": [
+            6.1715,
+            49.1158
+          ],
+          "category": "park",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Abendspaziergang mit Parkblick.",
+            "hu": "Tökéletes egy pihentető esti sétához a parkban.",
+            "ro": "Perfect pentru o plimbare relaxantă de seară cu vedere la parc.",
+            "en": "Perfect for a relaxing evening stroll with park views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Metz an der prächtigen Kathedrale, gefolgt von einem Besuch der lebhaften Markthalle für lokale Delikatessen. Mittags tauchen Sie in die reiche gallo-römische Geschichte im Cour d'Or Museum ein. Am Nachmittag schlendern Sie durch die mittelalterlichen Gassen zum imposanten Deutschen Tor. Den Abend lassen Sie entspannt auf der Esplanade ausklingen, während die Sonne hinter den historischen Mauern versinkt.",
+        "hu": "Kezdje a napot Metz történelmi szívében, a pompás katedrálisnál, majd látogasson el a nyüzsgő fedett piacra helyi finomságokért. Délben merüljön el a gazdag gall-római történelemben a Cour d'Or múzeumban. Délután sétáljon végig a középkori utcákon az impozáns Német-kapuig. Az estét töltse pihenéssel az Esplanade parkban, miközben a nap lassan eltűnik a történelmi falak mögött.",
+        "ro": "Începeți ziua în inima istorică a orașului Metz, la catedrala magnifică, urmată de o vizită în piața acoperită plină de viață pentru delicii locale. La prânz, scufundați-vă în bogata istorie galo-romană la Muzeul Cour d'Or. După-amiaza, plimbați-vă pe străzile medievale până la impunătoarea Poartă a Germanilor. Încheiați seara relaxându-vă pe Esplanadă, în timp ce soarele apune peste zidurile istorice.",
+        "en": "Start your day in the historic heart of Metz at the magnificent cathedral, followed by a visit to the lively covered market for local delicacies. At midday, dive into the rich Gallo-Roman history at the Cour d'Or Museum. In the afternoon, stroll through the medieval streets to the imposing Germans' Gate. Finish the evening relaxing on the Esplanade as the sun sets behind the historic walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Marché Couvert",
+            "tip": "Halle mit lokalen Produkten und Imbissständen."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Probieren Sie das Original in der Boulangerie Maurice."
+          },
+          {
+            "name": "Mirabellen-Spezialitäten",
+            "tip": "Liköre und Kuchen aus der berühmten Lothringer Pflaume."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Marché Couvert",
+            "tip": "Vásárcsarnok helyi termékekkel és ételstandokkal."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Kóstolja meg az eredetit a Boulangerie Maurice-ban."
+          },
+          {
+            "name": "Mirabella szilva",
+            "tip": "Likőrök és sütemények a híres lotharingiai gyümölcsből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Marché Couvert",
+            "tip": "Hală cu produse locale și standuri cu mâncare."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Încercați originalul la Boulangerie Maurice."
+          },
+          {
+            "name": "Specialități cu prune Mirabelle",
+            "tip": "Lichioruri și prăjituri din faimoasele prune de Lorena."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Marché Couvert",
+            "tip": "Market hall with local products and food stalls."
+          },
+          {
+            "name": "Quiche Lorraine",
+            "tip": "Try the original at Boulangerie Maurice."
+          },
+          {
+            "name": "Mirabelle Plum Specialties",
+            "tip": "Liqueurs and tarts made from the famous Lorraine fruit."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cloître des Récollets",
+            "tip": "Ein versteckter, ruhiger Kreuzgang.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plan d'Eau",
+            "tip": "Entspannung am Wasser mit Blick auf die Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cloître des Récollets",
+            "tip": "Egy rejtett, csendes kolostorudvar.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plan d'Eau",
+            "tip": "Pihenés a vízparton, kilátással a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cloître des Récollets",
+            "tip": "O mănăstire ascunsă și liniștită.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plan d'Eau",
+            "tip": "Relaxare pe malul apei cu vedere la oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloître des Récollets",
+            "tip": "A hidden, peaceful cloister garden.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plan d'Eau",
+            "tip": "Relaxation by the water with city views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Serpenoise",
+            "tip": "Die Haupteinkaufsstraße von Metz."
+          },
+          {
+            "name": "Boutique de l'Office de Tourisme",
+            "tip": "Souvenirs und Mirabellen-Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Serpenoise",
+            "tip": "Metz fő bevásárlóutcája."
+          },
+          {
+            "name": "Boutique de l'Office de Tourisme",
+            "tip": "Ajándéktárgyak és mirabella termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Serpenoise",
+            "tip": "Principala stradă comercială din Metz."
+          },
+          {
+            "name": "Boutique de l'Office de Tourisme",
+            "tip": "Suveniruri și produse din prune mirabelle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Serpenoise",
+            "tip": "The main shopping street of Metz."
+          },
+          {
+            "name": "Boutique de l'Office de Tourisme",
+            "tip": "Souvenirs and mirabelle products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Stadtzentrum ist kompakt und ideal zu Fuß zu erkunden.",
+          "Die Kathedrale leuchtet abends wunderschön in Gelbgold.",
+          "Viele Museen sind montags oder dienstags geschlossen, prüfen Sie die Zeiten.",
+          "Metz wird wegen des Steins 'Jaumont' die goldene Stadt genannt."
+        ],
+        "hu": [
+          "A városközpont kompakt, gyalogosan tökéletesen bejárható.",
+          "A katedrális este gyönyörű aranysárga fényben úszik.",
+          "Sok múzeum hétfőn vagy kedden zárva tart, ellenőrizze a nyitvatartást.",
+          "Metzet az építéséhez használt Jaumont kő miatt 'arany városnak' hívják."
+        ],
+        "ro": [
+          "Centrul orașului este compact și ideal pentru explorat pe jos.",
+          "Catedrala este iluminată superb în galben-auriu seara.",
+          "Multe muzee sunt închise lunea sau marțea, verificați programul.",
+          "Metz este numit 'orașul de aur' datorită pietrei Jaumont folosite la construcții."
+        ],
+        "en": [
+          "The city center is compact and perfect for exploring on foot.",
+          "The cathedral is beautifully lit in golden yellow in the evening.",
+          "Many museums are closed on Mondays or Tuesdays, check opening hours.",
+          "Metz is called the 'golden city' due to the Jaumont stone used in its buildings."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Metz",
+            "hu": "Metz vasútállomás",
+            "ro": "Gara Metz",
+            "en": "Metz Railway Station"
+          },
+          "coords": [
+            6.1772,
+            49.1095
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kaiserliche Architektur der deutschen Besatzungszeit.",
+            "hu": "Csodálja meg a német megszállás idejéből származó császári építészetet.",
+            "ro": "Admirați arhitectura imperială din perioada ocupației germane.",
+            "en": "Admire the imperial architecture from the German occupation period."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Pompidou-Metz",
+            "hu": "Centre Pompidou-Metz",
+            "ro": "Centre Pompidou-Metz",
+            "en": "Centre Pompidou-Metz"
+          },
+          "coords": [
+            6.1815,
+            49.1082
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Dachdesign ist von einem chinesischen Hut inspiriert.",
+            "hu": "A tető kialakítását egy kínai kalap ihlette.",
+            "ro": "Designul acoperișului este inspirat de o pălărie chinezească.",
+            "en": "The roof design is inspired by a Chinese hat."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiserviertel",
+            "hu": "Császári negyed",
+            "ro": "Cartierul Imperial",
+            "en": "Imperial Quarter"
+          },
+          "coords": [
+            6.1755,
+            49.1105
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie durch die Alleen mit prachtvollen Villen.",
+            "hu": "Tekerjen végig a pompás villákkal szegélyezett sugárutakon.",
+            "ro": "Pedalați pe bulevardele mărginite de vile somptuoase.",
+            "en": "Cycle through the avenues lined with magnificent villas."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'Eau / Moselufer",
+            "hu": "Plan d'Eau / Moselle-part",
+            "ro": "Plan d'Eau / Malul Moselei",
+            "en": "Plan d'Eau / Moselle Riverside"
+          },
+          "coords": [
+            6.1685,
+            49.1165
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den flachen Radweg entlang des Wassers.",
+            "hu": "Élvezze a sík kerékpárutat a víz mentén.",
+            "ro": "Bucurați-vă de pista de biciclete plată de-a lungul apei.",
+            "en": "Enjoy the flat bike path along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Saint-Louis (Mittagessen)",
+            "hu": "Place Saint-Louis (Ebéd)",
+            "ro": "Piața Saint-Louis (Prânz)",
+            "en": "Place Saint-Louis (Lunch)"
+          },
+          "coords": [
+            6.1785,
+            49.1162
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Dieser mittelalterliche Platz bietet tolle Cafés unter Arkaden.",
+            "hu": "Ez a középkori tér remek kávézókat kínál az árkádok alatt.",
+            "ro": "Această piață medievală oferă cafenele grozave sub arcade.",
+            "en": "This medieval square offers great cafes under the arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            6.1625,
+            49.1025
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein schöner Umweg für Pflanzenliebhaber.",
+            "hu": "Szép kitérő a növénybarátoknak.",
+            "ro": "O abatere frumoasă pentru iubitorii de plante.",
+            "en": "A beautiful detour for plant lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale",
+            "hu": "Székesegyház",
+            "ro": "Catedrală",
+            "en": "Cathedral"
+          },
+          "coords": [
+            6.1751,
+            49.1202
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am höchsten Punkt des Hügels.",
+            "hu": "Zárja a túrát a domb legmagasabb pontján.",
+            "ro": "Încheiați turul în cel mai înalt punct al dealului.",
+            "en": "End your tour at the highest point of the hill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Metz auf zwei Rädern, beginnend am beeindruckenden Bahnhof und dem futuristischen Centre Pompidou. Radeln Sie durch das prachtvolle Kaiserviertel und genießen Sie die grünen Wege entlang der Mosel am Plan d'Eau. Nach einem entspannten Mittagessen auf dem mittelalterlichen Place Saint-Louis führt Sie die Route zum wunderschönen Botanischen Garten, bevor Sie die Tour an der majestätischen Kathedrale im Herzen der Stadt abschließen.",
+        "hu": "Fedezze fel Metzet két keréken, kezdve az impozáns vasútállomással és a futurisztikus Centre Pompidou-val. Tekerjen át a pompás Császári negyeden, és élvezze a Moselle menti zöld utakat a Plan d'Eau-nál. Egy pihentető ebéd után a középkori Place Saint-Louis-n, az út a gyönyörű Botanikus kertbe vezet, majd a túrát a város szívében található fenséges katedrálisnál zárja.",
+        "ro": "Descoperiți Metz pe două roți, începând cu gara impresionantă și centrul futurist Pompidou. Pedalați prin cartierul imperial somptuos și bucurați-vă de potecile verzi de-a lungul Moselei la Plan d'Eau. După un prânz relaxant în Piața Saint-Louis, traseul vă duce la frumoasa Grădină Botanică, înainte de a încheia turul la catedrala maiestuoasă din inima orașului.",
+        "en": "Explore Metz on two wheels, starting with the impressive railway station and the futuristic Centre Pompidou. Cycle through the grand Imperial Quarter and enjoy the green paths along the Moselle at Plan d'Eau. After a relaxed lunch at the medieval Place Saint-Louis, the route takes you to the beautiful Botanical Garden, finishing the tour at the majestic cathedral in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Place Saint-Louis",
+            "tip": "Viele Restaurants mit Terrassen in historischem Ambiente."
+          },
+          {
+            "name": "Le Fox",
+            "tip": "Beliebtes Bistro für ein schnelles, regionales Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place Saint-Louis",
+            "tip": "Sok étterem terasszal történelmi környezetben."
+          },
+          {
+            "name": "Le Fox",
+            "tip": "Népszerű bisztró egy gyors, helyi ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Saint-Louis",
+            "tip": "Multe restaurante cu terase în ambianță istorică."
+          },
+          {
+            "name": "Le Fox",
+            "tip": "Bistro popular pentru un prânz regional rapid."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Saint-Louis",
+            "tip": "Many restaurants with terraces in a historical setting."
+          },
+          {
+            "name": "Le Fox",
+            "tip": "Popular bistro for a quick, regional lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanischer Garten",
+            "tip": "Ruhige Oase am Stadtrand.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Moseluferwege",
+            "tip": "Entspanntes Radeln fernab vom Verkehr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus kert",
+            "tip": "Csendes oázis a város szélén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Moselle-parti utak",
+            "tip": "Pihentető tekerés a forgalomtól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Oază de liniște la marginea orașului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malurile Moselei",
+            "tip": "Pedalat relaxat departe de trafic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Quiet oasis on the edge of the city.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Moselle Riverside Paths",
+            "tip": "Relaxed cycling away from traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Metz Vélo",
+            "tip": "Fahrradverleih und Zubehör am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Metz Vélo",
+            "tip": "Kerékpárkölcsönző és kiegészítők az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Metz Vélo",
+            "tip": "Închiriere biciclete și accesorii la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Metz Vélo",
+            "tip": "Bike rental and accessories at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Fahrradverleih 'Metz Vélo' direkt am Bahnhof.",
+          "Die Wege entlang der Mosel sind flach und sehr gut ausgebaut.",
+          "Im Stadtzentrum ist Kopfsteinpflaster häufig, fahren Sie vorsichtig.",
+          "Metz bietet viele kostenlose Fahrradabstellplätze."
+        ],
+        "hu": [
+          "Használja a 'Metz Vélo' kölcsönzőt közvetlenül az állomásnál.",
+          "A Moselle menti utak síkak és nagyon jól kiépítettek.",
+          "A városközpontban gyakori a macskakő, tekerjen óvatosan.",
+          "Metz számos ingyenes kerékpárparkolót kínál."
+        ],
+        "ro": [
+          "Folosiți centrul de închirieri 'Metz Vélo' direct la gară.",
+          "Căile de-a lungul Moselei sunt plate și foarte bine amenajate.",
+          "În centrul orașului pavajul este frecvent, pedalați cu atenție.",
+          "Metz oferă multe locuri de parcare gratuite pentru biciclete."
+        ],
+        "en": [
+          "Use the 'Metz Vélo' rental service right at the station.",
+          "The paths along the Moselle are flat and very well maintained.",
+          "Cobblestones are common in the city center, cycle carefully.",
+          "Metz offers many free bicycle parking spots."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre Pompidou-Metz",
+            "hu": "Centre Pompidou-Metz",
+            "ro": "Centre Pompidou-Metz",
+            "en": "Centre Pompidou-Metz"
+          },
+          "coords": [
+            6.1815,
+            49.1082
+          ],
+          "category": "museum",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Museum vorhanden.",
+            "hu": "Nagy parkoló közvetlenül a múzeumnál.",
+            "ro": "Parcare mare disponibilă chiar la muzeu.",
+            "en": "Large parking lot available right at the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Szent István-székesegyház",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            6.1751,
+            49.1202
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Cathédrale' unter dem Platz.",
+            "hu": "Használja a 'Cathédrale' mélygarázst a tér alatt.",
+            "ro": "Folosiți parcarea subterană 'Cathédrale' de sub piață.",
+            "en": "Use the 'Cathédrale' underground parking under the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Armes (Mittagessen)",
+            "hu": "Place d'Armes (Ebéd)",
+            "ro": "Piața Armes (Prânz)",
+            "en": "Place d'Armes (Lunch)"
+          },
+          "coords": [
+            6.1758,
+            49.1198
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentraler geht es nicht für ein lothringisches Mittagessen.",
+            "hu": "Ennél központibb helyet nem talál egy lotharingiai ebédhez.",
+            "ro": "Nu se poate mai central pentru un prânz din Lorena.",
+            "en": "You can't get more central for a Lorraine lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Robert Schuman (Scy-Chazelles)",
+            "hu": "Robert Schuman háza (Scy-Chazelles)",
+            "ro": "Casa lui Robert Schuman (Scy-Chazelles)",
+            "en": "Robert Schuman's House (Scy-Chazelles)"
+          },
+          "coords": [
+            6.1125,
+            49.1135
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab des Gründervaters von Europa.",
+            "hu": "Látogassa meg Európa egyik alapító atyjának sírját.",
+            "ro": "Vizitați mormântul unuia dintre părinții fondatori ai Europei.",
+            "en": "Visit the tomb of one of the founding fathers of Europe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Saint-Quentin (Aussichtspunkt)",
+            "hu": "Mont Saint-Quentin (Kilátó)",
+            "ro": "Mont Saint-Quentin (Punct de belvedere)",
+            "en": "Mont Saint-Quentin (Viewpoint)"
+          },
+          "coords": [
+            6.1255,
+            49.1225
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bester Panoramablick über Metz und das Moseltal.",
+            "hu": "A legjobb panoráma Metzre és a Moselle-völgyre.",
+            "ro": "Cea mai bună panoramă asupra orașului Metz și văii Moselei.",
+            "en": "Best panoramic view over Metz and the Moselle valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade",
+            "hu": "Esplanade",
+            "ro": "Esplanada",
+            "en": "Esplanade"
+          },
+          "coords": [
+            6.1715,
+            49.1158
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Parken Sie im 'Arsenal'-Parkhaus für den perfekten Abschluss.",
+            "hu": "Parkoljon az 'Arsenal' parkolóházban a tökéletes záráshoz.",
+            "ro": "Parcați în parcarea 'Arsenal' pentru încheierea perfectă.",
+            "en": "Park in the 'Arsenal' garage for the perfect finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie sowohl die Highlights im Zentrum als auch die geschichtsträchtige Umgebung von Metz. Nach dem Centre Pompidou und der Kathedrale fahren Sie ins nahegelegene Scy-Chazelles zum Haus von Robert Schuman. Ein Stopp auf dem Mont Saint-Quentin bietet Ihnen einen unvergesslichen Panoramablick über das Moseltal, bevor Sie den Tag in den Gärten der Esplanade in der Innenstadt ausklingen lassen.",
+        "hu": "Autóval mind a központi látnivalókat, mind Metz történelmi környezetét felfedezheti. A Centre Pompidou és a székesegyház után utazzon a közeli Scy-Chazelles-be, Robert Schuman házához. Egy megálló a Mont Saint-Quentin-en felejthetetlen panorámát nyújt a Moselle-völgyre, mielőtt a napot a belvárosi Esplanade kertjeiben zárná.",
+        "ro": "Cu mașina descoperiți atât punctele de atracție din centru, cât și împrejurimile pline de istorie ale orașului Metz. După Centre Pompidou și catedrală, conduceți până în Scy-Chazelles la casa lui Robert Schuman. O oprire pe Mont Saint-Quentin vă oferă o panoramă de neuitat asupra văii Moselei, înainte de a încheia ziua în grădinile Esplanadei din centrul orașului.",
+        "en": "By car, you can discover both the city center highlights and the historic surroundings of Metz. After the Centre Pompidou and the cathedral, drive to nearby Scy-Chazelles to visit Robert Schuman's house. A stop at Mont Saint-Quentin offers an unforgettable panoramic view of the Moselle valley, before ending your day in the Esplanade gardens back in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Mauricette",
+            "tip": "Traditionelle lothringische Gerichte in der Markthalle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Mauricette",
+            "tip": "Hagyományos lotharingiai ételek a vásárcsarnokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Mauricette",
+            "tip": "Mâncăruri tradiționale din Lorena în piața acoperită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Mauricette",
+            "tip": "Traditional Lorraine dishes in the covered market hall."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mont Saint-Quentin",
+            "tip": "Ruhe und Weitsicht über das Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mont Saint-Quentin",
+            "tip": "Csend és távlati kilátás a völgyre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mont Saint-Quentin",
+            "tip": "Liniște și perspectivă asupra văii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mont Saint-Quentin",
+            "tip": "Peace and broad views over the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Muse",
+            "tip": "Modernes Einkaufszentrum direkt beim Pompidou."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial Muse",
+            "tip": "Modern bevásárlóközpont közvetlenül a Pompidou mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial Muse",
+            "tip": "Centru comercial modern chiar lângă Pompidou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Commercial Muse",
+            "tip": "Modern shopping mall right next to the Pompidou."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkleitsystem in Metz ist sehr effizient.",
+          "Nutzen Sie P+R Parkplätze am Stadtrand für stressfreien Zugang.",
+          "Die Innenstadt ist teilweise Fußgängerzone, parken Sie in den Randgaragen.",
+          "Achten Sie auf die Umweltzone; eine Crit'Air Vignette ist oft nötig."
+        ],
+        "hu": [
+          "A parkolási irányító rendszer Metzben nagyon hatékony.",
+          "Használja a P+R parkolókat a város szélén a stresszmentes bejutáshoz.",
+          "A belváros részben sétálóövezet, parkoljon a peremkerületi garázsokban.",
+          "Ügyeljen a környezetvédelmi zónára; gyakran szükség van Crit'Air matricára."
+        ],
+        "ro": [
+          "Sistemul de ghidare pentru parcare din Metz este foarte eficient.",
+          "Folosiți parcările P+R de la marginea orașului pentru acces fără stres.",
+          "Centrul orașului este parțial zonă pietonală, parcați în garajele de la margine.",
+          "Atenție la zona de emisii reduse; adesea este necesară vinieta Crit'Air."
+        ],
+        "en": [
+          "The parking guidance system in Metz is very efficient.",
+          "Use P+R parking lots on the city outskirts for stress-free access.",
+          "The city center is partially pedestrianized, park in the peripheral garages.",
+          "Be aware of the low-emission zone; a Crit'Air vignette is often required."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre Pompidou-Metz",
+            "hu": "Centre Pompidou-Metz",
+            "ro": "Centre Pompidou-Metz",
+            "en": "Centre Pompidou-Metz"
+          },
+          "coords": [
+            6.1815,
+            49.1082
+          ],
+          "category": "museum",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Direkt neben dem Hauptbahnhof gelegen.",
+            "hu": "Közvetlenül a főpályaudvar mellett található.",
+            "ro": "Situat chiar lângă gara principală.",
+            "en": "Located right next to the main railway station."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Metz",
+            "hu": "Metz vasútállomás",
+            "ro": "Gara Metz",
+            "en": "Metz Railway Station"
+          },
+          "coords": [
+            6.1772,
+            49.1095
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Mettis-Linien (A und B).",
+            "hu": "Központi csomópont minden Mettis vonalhoz (A és B).",
+            "ro": "Nod central pentru toate liniile Mettis (A și B).",
+            "en": "Central hub for all Mettis lines (A and B)."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Armes / Kathedrale",
+            "hu": "Place d'Armes / Katedrális",
+            "ro": "Piața Armes / Catedrală",
+            "en": "Place d'Armes / Cathedral"
+          },
+          "coords": [
+            6.1751,
+            49.1202
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Mettis Haltestelle 'République' oder 'Hôtel de Ville'.",
+            "hu": "Mettis megálló: 'République' vagy 'Hôtel de Ville'.",
+            "ro": "Stația Mettis 'République' sau 'Hôtel de Ville'.",
+            "en": "Mettis stop 'République' or 'Hôtel de Ville'."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Comédie",
+            "hu": "Place de la Comédie",
+            "ro": "Piața Comédie",
+            "en": "Place de la Comédie"
+          },
+          "coords": [
+            6.1729,
+            49.1215
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle République über die Brücke.",
+            "hu": "Rövid séta a République megállótól a hídon át.",
+            "ro": "Scurtă plimbare de la stația République peste pod.",
+            "en": "Short walk from the République stop across the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsches Tor",
+            "hu": "Német-kapu",
+            "ro": "Poarta Germanilor",
+            "en": "Porte des Allemands"
+          },
+          "coords": [
+            6.1848,
+            49.1191
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie B bis zur Haltestelle 'Porte des Allemands'.",
+            "hu": "Szálljon a B vonalra a 'Porte des Allemands' megállóig.",
+            "ro": "Luați linia B până la stația 'Porte des Allemands'.",
+            "en": "Take line B to the 'Porte des Allemands' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Saint-Louis",
+            "hu": "Place Saint-Louis",
+            "ro": "Piața Saint-Louis",
+            "en": "Place Saint-Louis"
+          },
+          "coords": [
+            6.1785,
+            49.1162
+          ],
+          "category": "gastro",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für einen Kaffee vor der Rückreise zum Bahnhof.",
+            "hu": "Ideális egy kávéra az állomásra való visszatérés előtt.",
+            "ro": "Ideal pentru o cafea înainte de întoarcerea la gară.",
+            "en": "Ideal for a coffee before heading back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das moderne Mettis-Bussystem, um Metz bequem zu erkunden. Beginnen Sie beim Centre Pompidou und dem architektonisch einzigartigen Bahnhof. Die Mettis-Linien bringen Sie schnell zur Kathedrale und zur Place de la Comédie. Ein kleiner Transfer führt Sie zum historischen Deutschen Tor und zurück zum gemütlichen Place Saint-Louis, wo Sie die Atmosphäre der Stadt bei einem Drink genießen können, bevor es zurück zum Bahnhof geht.",
+        "hu": "Használja a modern Mettis buszrendszert Metz kényelmes felfedezéséhez. Kezdjen a Centre Pompidou-nál és az építészetileg egyedülálló vasútállomásnál. A Mettis vonalak gyorsan eljuttatják a katedrálishoz és a Place de la Comédie-hez. Egy rövid utazás után eljuthat a történelmi Német-kapuhoz, majd vissza a hangulatos Place Saint-Louis-ra, ahol élvezheti a város légkörét egy ital mellett az állomásra való visszatérés előtt.",
+        "ro": "Folosiți sistemul modern de autobuze Mettis pentru a explora Metz confortabil. Începeți la Centre Pompidou și la gara unică din punct de vedere arhitectural. Liniile Mettis vă duc rapid la catedrală și în Piața Comédie. Un scurt transfer vă duce la istorica Poartă a Germanilor și înapoi în primitoarea Piață Saint-Louis, unde puteți savura atmosfera orașului cu o băutură înainte de a reveni la gară.",
+        "en": "Use the modern Mettis bus system to explore Metz comfortably. Start at the Centre Pompidou and the architecturally unique railway station. The Mettis lines take you quickly to the cathedral and Place de la Comédie. A short transfer leads you to the historic Germans' Gate and back to the cozy Place Saint-Louis, where you can enjoy the city atmosphere with a drink before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Epicerie",
+            "tip": "Gemütliche Teestube mit hausgemachten Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Epicerie",
+            "tip": "Hangulatos teázó házi készítésű süteményekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Epicerie",
+            "tip": "Ceainărie primitoare cu prăjituri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Epicerie",
+            "tip": "Cozy tea room with homemade cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eglise Saint-Pierre-aux-Nonnains",
+            "tip": "Eine der ältesten Kirchen Frankreichs.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Eglise Saint-Pierre-aux-Nonnains",
+            "tip": "Franciaország egyik legrégebbi temploma.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Eglise Saint-Pierre-aux-Nonnains",
+            "tip": "Una dintre cele mai vechi biserici din Franța.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Eglise Saint-Pierre-aux-Nonnains",
+            "tip": "One of the oldest churches in France.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Klassisches Kaufhaus in der Nähe der Haltestelle République."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Klasszikus áruház a République megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Magazin universal clasic lângă stația République."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galeries Lafayette",
+            "tip": "Classic department store near the République stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Mettis-Busse (Linie A und B) fahren alle 10 Minuten.",
+          "Kaufen Sie ein Tagesticket direkt am Automaten der Haltestelle.",
+          "Die Busse sind barrierefrei und sehr komfortabel.",
+          "Die Haltestelle 'République' ist der zentrale Umsteigepunkt."
+        ],
+        "hu": [
+          "A Mettis buszok (A és B vonal) 10 percenként járnak.",
+          "Vásároljon napijegyet közvetlenül a megállóban lévő automatánál.",
+          "A buszok akadálymentesítettek és nagyon kényelmesek.",
+          "A 'République' megálló a központi átszállási pont."
+        ],
+        "ro": [
+          "Autobuzele Mettis (liniile A și B) circulă la fiecare 10 minute.",
+          "Cumpărați un bilet de o zi direct de la automatul din stație.",
+          "Autobuzele sunt accesibile și foarte confortabile.",
+          "Stația 'République' este punctul central de transfer."
+        ],
+        "en": [
+          "Mettis buses (Line A and B) run every 10 minutes.",
+          "Buy a day ticket directly at the ticket machine at the stop.",
+          "The buses are accessible and very comfortable.",
+          "The 'République' stop is the central transfer point."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "city_id": "nice",
+  "anchor": {
+    "name": "Nice",
+    "coords": [
+      43.7102,
+      7.262
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Masséna",
+            "hu": "Place Masséna",
+            "ro": "Piața Masséna",
+            "en": "Place Masséna"
+          },
+          "coords": [
+            7.2698,
+            43.6995
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Schachbrettfliesen und die modernen Skulpturen.",
+            "hu": "Csodálja meg a jellegzetes sakktábla-mintás burkolatot és a modern szobrokat.",
+            "ro": "Admirați pavajul distinctiv în carouri și sculpturile moderne.",
+            "en": "Admire the distinctive checkerboard pavement and modern sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Nice (Altstadt)",
+            "hu": "Vieux Nice (Óváros)",
+            "ro": "Centrul Vechi",
+            "en": "Old Town (Vieux Nice)"
+          },
+          "coords": [
+            7.2755,
+            43.6972
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den engen Gassen und probieren Sie Socca.",
+            "hu": "Vesszen el a szűk utcákban, és kóstolja meg a helyi socca lepényt.",
+            "ro": "Pierdeți-vă pe străduțele înguste și gustați faimoasa socca.",
+            "en": "Get lost in the narrow streets and try some authentic Socca."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Saleya Markt",
+            "hu": "Cours Saleya piac",
+            "ro": "Piața Cours Saleya",
+            "en": "Cours Saleya Market"
+          },
+          "coords": [
+            7.2762,
+            43.6951
+          ],
+          "category": "shopping",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der Blumenmarkt ist morgens am schönsten; kaufen Sie Lavendelseife.",
+            "hu": "A virágpiac délelőtt a legszebb; vegyen kézműves levendulaszappant.",
+            "ro": "Piața de flori este cea mai frumoasă dimineața; cumpărați săpun cu lavandă.",
+            "en": "The flower market is best in the morning; buy some local lavender soap."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Sainte-Réparate",
+            "hu": "Sainte-Réparate-székesegyház",
+            "ro": "Catedrala Sainte-Réparate",
+            "en": "Sainte-Réparate Cathedral"
+          },
+          "coords": [
+            7.2764,
+            43.6974
+          ],
+          "category": "cathedral",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die barocke Pracht im Herzen der Altstadt.",
+            "hu": "Látogasson el a barokk pompájú templomba az óváros szívében.",
+            "ro": "Vizitați splendoarea barocă din inima centrului vechi.",
+            "en": "Visit the Baroque splendor in the heart of the Old Town."
+          }
+        },
+        {
+          "name": {
+            "de": "Colline du Château (Schlossberg)",
+            "hu": "Várhegy (Colline du Château)",
+            "ro": "Dealul Castelului",
+            "en": "Castle Hill (Colline du Château)"
+          },
+          "coords": [
+            7.2795,
+            43.6948
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie den kostenlosen Aufzug für den besten Blick auf die Stadt.",
+            "hu": "Használja az ingyenes liftet a legjobb városi panorámáért.",
+            "ro": "Folosiți liftul gratuit pentru cea mai bună panoramă asupra orașului.",
+            "en": "Take the free elevator for the best panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Anglais",
+            "hu": "Promenade des Anglais",
+            "ro": "Promenade des Anglais",
+            "en": "Promenade des Anglais"
+          },
+          "coords": [
+            7.2655,
+            43.6945
+          ],
+          "category": "beach",
+          "arrive_at": "15:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den blauen Stühlen und beobachten Sie das Meer.",
+            "hu": "Pihenjen meg a híres kék székeken, és nézze a tenger hullámait.",
+            "ro": "Relaxați-vă pe faimoasele scaune albastre și priviți marea.",
+            "en": "Relax on the famous blue chairs and watch the azure sea waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der prächtigen Place Masséna, bevor Sie in das Labyrinth der Altstadt eintauchen. Am späten Vormittag lockt der Duft von frischen Blumen und provenzalischen Kräutern auf dem Cours Saleya Markt.\n\nMittags genießen Sie die Ruhe in der barocken Kathedrale Sainte-Réparate und stärken sich mit einer Niçoise-Spezialität in einer der kleinen Gassen.\n\nDer Nachmittag gehört dem Schlossberg. Von oben überblicken Sie die gesamte Engelsbucht und können den künstlichen Wasserfall bewundern, bevor Sie gemütlich wieder absteigen.\n\nLassen Sie den Tag an der Promenade des Anglais ausklingen. Ein langer Spaziergang entlang des azurblauen Wassers bei Sonnenuntergang ist der perfekte Abschluss für diesen Stadttrip.",
+        "hu": "Kezdje a napot a pompás Place Masséna téren, mielőtt elmerülne az óváros labirintusában. Késő délelőtt a Cours Saleya piac friss virágainak és provence-i fűszereinek illata csalogatja majd.\n\nDélben élvezze a Sainte-Réparate-székesegyház barokk nyugalmát, majd kóstoljon meg egy helyi specialitást a szűk utcácskák egyikében.\n\nA délután a Várhegyé. Fentről beláthatja az egész Angyal-öblöt, és megcsodálhatja a mesterséges vízesést, mielőtt kényelmesen visszasétálna a tengerpartra.\n\nZárja a napot a Promenade des Anglais sétányon. Egy hosszú séta az azúrkék víz mentén a naplementében tökéletes befejezése ennek a városi kalandnak.",
+        "ro": "Începeți ziua în grandioasa Piață Masséna înainte de a vă aventura în labirintul centrului vechi. Spre sfârșitul dimineții, aromele florilor proaspete și ale ierburilor provensale vă vor atrage spre piața Cours Saleya.\n\nLa prânz, bucurați-vă de liniștea barocă a Catedralei Sainte-Réparate și savurați o specialitate niçoise într-una dintre tavernele locale.\n\nDupă-amiaza este rezervată Dealului Castelului. De sus, puteți admira întregul Golf al Îngerilor și cascada artificială, înainte de a coborî agale spre mare.\n\nÎncheiați ziua pe Promenade des Anglais. O plimbare lungă de-a lungul apei azurii la apus este finalul perfect pentru această incursiune urbană.",
+        "en": "Start your day at the magnificent Place Masséna before diving into the labyrinth of the Old Town. By late morning, the scent of fresh flowers and Provencal herbs will lure you to the Cours Saleya market.\n\nAt midday, enjoy the Baroque serenity of Sainte-Réparate Cathedral and recharge with a Niçoise specialty in one of the narrow alleys.\n\nThe afternoon belongs to Castle Hill. From the top, you can overlook the entire Bay of Angels and admire the artificial waterfall before a leisurely descent.\n\nFinish your day on the Promenade des Anglais. A long walk along the azure water at sunset is the perfect conclusion to this city trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Socca bei Chez Pipo",
+            "tip": "Kichererbsenfladen, ein Muss in Nizza."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "Der Klassiker mit frischem Thunfisch und Oliven."
+          },
+          {
+            "name": "Fenocchio Glacier",
+            "tip": "Eisdiele mit über 90 Sorten, probieren Sie Lavendel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Socca a Chez Pipo-nál",
+            "tip": "Csicseriborsó lepény, Nizza kötelező étele."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "A klasszikus saláta friss tonhallal és bogyókkal."
+          },
+          {
+            "name": "Fenocchio fagylaltozó",
+            "tip": "Több mint 90 íz, próbálja ki a levendulát vagy kakukkfüvet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Socca la Chez Pipo",
+            "tip": "Clătită din năut, o specialitate obligatorie în Nisa."
+          },
+          {
+            "name": "Salată Niçoise",
+            "tip": "Clasicul local cu ton proaspăt și măsline."
+          },
+          {
+            "name": "Fenocchio Glacier",
+            "tip": "Înghețată cu peste 90 de arome, încercați levănțica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Socca at Chez Pipo",
+            "tip": "Chickpea pancake, a must-try local staple."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "The original salad with fresh tuna and olives."
+          },
+          {
+            "name": "Fenocchio Ice Cream",
+            "tip": "Over 90 flavors; try lavender or thyme for a twist."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossberg-Garten",
+            "tip": "Ruhige Ecken im Schatten der Pinien.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rauba Capeu",
+            "tip": "Meeresbrise und Blick auf den Hafen.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Klostergarten Cimiez",
+            "tip": "Historischer Rosengarten weit weg vom Trubel.",
+            "emoji": "🌹"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várhegy kertjei",
+            "tip": "Csendes zugok a fenyők árnyékában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rauba Capeu fok",
+            "tip": "Tengeri szellő és kilátás a kikötőre.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cimiez kolostorkert",
+            "tip": "Történelmi rózsakert távol a tömegtől.",
+            "emoji": "🌹"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile de pe Dealul Castelului",
+            "tip": "Colțuri liniștite la umbra pinilor.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rauba Capeu",
+            "tip": "Briză marină și vedere spre port.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Grădina Mănăstirii Cimiez",
+            "tip": "Rozarium istoric departe de agitație.",
+            "emoji": "🌹"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Hill Gardens",
+            "tip": "Quiet spots under the shade of pine trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Rauba Capeu Point",
+            "tip": "Sea breeze and great views of the port.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cimiez Monastery Garden",
+            "tip": "Historical rose garden far from the crowds.",
+            "emoji": "🌹"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cours Saleya",
+            "tip": "Lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Avenue Jean Médecin",
+            "tip": "Große Modeketten und Kaufhäuser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cours Saleya",
+            "tip": "Helyi termékek és kézműves tárgyak."
+          },
+          {
+            "name": "Avenue Jean Médecin",
+            "tip": "Nagy divatláncok és áruházak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cours Saleya",
+            "tip": "Produse locale și artizanat.",
+            "emoji": "🛍️"
+          },
+          {
+            "name": "Avenue Jean Médecin",
+            "tip": "Marile lanțuri de modă și magazine.",
+            "emoji": "👗"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cours Saleya",
+            "tip": "Local produce and artisanal crafts."
+          },
+          {
+            "name": "Avenue Jean Médecin",
+            "tip": "Major fashion chains and department stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Die Toiletten am Schlossberg sind kostenpflichtig, halten Sie Kleingeld bereit.",
+          "Passen Sie an der Promenade auf Taschendiebe auf.",
+          "Buchen Sie Restaurants in der Altstadt für das Abendessen vorab."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A Várhegyen található mosdók fizetősek, legyen önnél aprópénz.",
+          "A tengerparti sétányon ügyeljen az értékeire.",
+          "Az óvárosi éttermekbe érdemes előre asztalt foglalni vacsorára."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din centrul vechi.",
+          "Toaletele de pe Dealul Castelului sunt cu plată, pregătiți mărunțiș.",
+          "Fiți atenți la buzunare pe faimoasa faleză.",
+          "Rezervați din timp masa pentru cină în zona veche a orașului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets of the Old Town.",
+          "Public restrooms on Castle Hill require small change.",
+          "Keep an eye on your belongings while walking the Promenade.",
+          "Book dinner tables in advance for popular Old Town spots."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Promenade des Anglais",
+            "hu": "Promenade des Anglais",
+            "ro": "Promenade des Anglais",
+            "en": "Promenade des Anglais"
+          },
+          "coords": [
+            7.258,
+            43.693
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt ausgebaute Radwege entlang der gesamten Küste.",
+            "hu": "Tökéletesen kiépített kerékpárút a teljes part mentén.",
+            "ro": "Piste de biciclete excelente de-a lungul întregului țărm.",
+            "en": "Excellent bike lanes run along the entire coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Lympia (Hafen)",
+            "hu": "Port Lympia (Kikötő)",
+            "ro": "Port Lympia",
+            "en": "Port Lympia (Harbor)"
+          },
+          "coords": [
+            7.285,
+            43.695
+          ],
+          "category": "port",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die bunten Fischerboote (Pointus) und Yachten.",
+            "hu": "Csodálja meg a színes halászhajókat (Pointus) és a luxusjachtokat.",
+            "ro": "Admirați bărcile colorate de pescari (Pointus) și iahturile.",
+            "en": "Admire the colorful traditional fishing boats (Pointus) and yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Boron Park",
+            "hu": "Mont Boron park",
+            "ro": "Parcul Mont Boron",
+            "en": "Mont Boron Park"
+          },
+          "coords": [
+            7.301,
+            43.691
+          ],
+          "category": "mountain",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, der mit Panoramablick belohnt wird.",
+            "hu": "Meredek emelkedő, amelyet pazar panoráma jutalmaz.",
+            "ro": "O urcare abruptă răsplătită cu o panoramă superbă.",
+            "en": "A steep climb rewarded with breathtaking panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Villefranche-sur-Mer",
+            "hu": "Villefranche-sur-Mer",
+            "ro": "Villefranche-sur-Mer",
+            "en": "Villefranche-sur-Mer"
+          },
+          "coords": [
+            7.311,
+            43.704
+          ],
+          "category": "city",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Zitadelle und den malerischen Hafen.",
+            "hu": "Látogassa meg a citadellát és a festői kikötőt.",
+            "ro": "Vizitați citadela și portul pitoresc.",
+            "en": "Visit the 16th-century citadel and the picturesque harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Garibaldi",
+            "hu": "Place Garibaldi",
+            "ro": "Piața Garibaldi",
+            "en": "Place Garibaldi"
+          },
+          "coords": [
+            7.28,
+            43.701
+          ],
+          "category": "square",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein lebendiger Platz, ideal für einen Drink nach der Tour.",
+            "hu": "Élettel teli tér, ideális egy italra a túra végén.",
+            "ro": "O piață plină de viață, ideală pentru o băutură după tur.",
+            "en": "A vibrant square, perfect for a drink after your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie Nizza auf zwei Rädern! Starten Sie auf der Promenade des Anglais und genießen Sie die Meeresbrise. Weiter geht es zum historischen Hafen Lympia.\n\nDer sportliche Teil führt Sie hinauf zum Mont Boron, von wo aus Sie Nizza und die Bucht von Villefranche gleichzeitig sehen können.\n\nNach einer rasanten Abfahrt erreichen Sie das charmante Villefranche-sur-Mer für eine wohlverdiente Mittagspause am Wasser.\n\nZurück in Nizza endet die Tour auf der prächtigen Place Garibaldi, wo Sie das lokale Flair inmitten gelber Fassaden genießen.",
+        "hu": "Fedezze fel Nizzát két keréken! Kezdjen a Promenade des Anglais-n, élvezve a tengeri szellőt, majd tekerjen tovább a történelmi Lympia kikötőhöz.\n\nA sportosabb rész a Mont Boronra vezet, ahonnan egyszerre láthatja Nizzát és a Villefranche-öblöt.\n\nEgy tempós lejtmenet után elérheti a bájos Villefranche-sur-Mer-t egy megérdemelt ebédszünetre a vízparton.\n\nVisszatérve Nizzába, a túra a pompás Place Garibaldi téren ér véget, ahol sárga homlokzatok között élvezheti a helyi hangulatot.",
+        "ro": "Descoperiți Nisa pe două roți! Începeți pe Promenade des Anglais și bucurați-vă de briza mării. Continuați spre portul istoric Lympia.\n\nPartea sportivă vă poartă spre Mont Boron, de unde puteți vedea Nisa și golful Villefranche în același timp.\n\nDupă o coborâre rapidă, ajungeți în fermecătorul Villefranche-sur-Mer pentru o pauză de prânz binemeritată la malul apei.\n\nÎnapoi în Nisa, turul se încheie în grandioasa Piață Garibaldi, unde vă puteți bucura de atmosfera locală printre fațade galbene.",
+        "en": "Discover Nice on two wheels! Start on the Promenade des Anglais, enjoying the sea breeze, then ride over to the historic Port Lympia.\n\nThe sporty part takes you up to Mont Boron, where you can see Nice and the Bay of Villefranche simultaneously.\n\nAfter a fast descent, reach charming Villefranche-sur-Mer for a well-deserved lunch break by the water.\n\nBack in Nice, the tour ends at the magnificent Place Garibaldi, where you can soak up the local vibe amidst yellow facades."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Plongeoir",
+            "tip": "Einzigartiges Restaurant auf einem Felsen im Meer."
+          },
+          {
+            "name": "Pan Bagnat",
+            "tip": "Das typische Sandwich aus Nizza, perfekt zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Plongeoir",
+            "tip": "Egyedülálló étterem egy tengeri sziklán."
+          },
+          {
+            "name": "Pan Bagnat",
+            "tip": "Nizzai szendvics, tökéletes útközbeni étkezéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Plongeoir",
+            "tip": "Restaurant unic situat pe o stâncă în mare."
+          },
+          {
+            "name": "Pan Bagnat",
+            "tip": "Sandvișul tipic din Nisa, perfect pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Plongeoir",
+            "tip": "Unique restaurant perched on a rock in the sea."
+          },
+          {
+            "name": "Pan Bagnat",
+            "tip": "The signature Niçoise sandwich, perfect for a picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Küstenpfad mit versteckten Badestellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Part menti ösvény rejtett fürdőhelyekkel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Potecă de coastă cu locuri ascunse de scăldat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Coastal path with hidden swimming spots.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Brocante du Lundi",
+            "tip": "Antiquitätenmarkt am Hafen (montags)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brocante du Lundi",
+            "tip": "Régiségpiac a kikötőnél (hétfőnként)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brocante du Lundi",
+            "tip": "Piață de antichități în port (lunea)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brocante du Lundi",
+            "tip": "Antiques market at the port (Mondays)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Tour zum Mont Boron.",
+          "Nutzen Sie das städtische Leihradsystem 'Vélob'blue'.",
+          "Tragen Sie einen Helm, der Verkehr in Nizza kann hektisch sein.",
+          "Nehmen Sie ausreichend Wasser mit für den Anstieg."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást a Mont Boron emelkedő előtt.",
+          "Használja a 'Vélob'blue' városi bérbicikli-rendszert.",
+          "Viseljen sisakot, a nizzai forgalom helyenként sűrű lehet.",
+          "Vigyen magával elég vizet a kaptatóhoz."
+        ],
+        "ro": [
+          "Verificați presiunea roților înainte de urcarea pe Mont Boron.",
+          "Folosiți sistemul public de închiriat biciclete 'Vélob'blue'.",
+          "Purtați cască, traficul în Nisa poate fi intens.",
+          "Luați suficientă apă pentru porțiunile de urcare."
+        ],
+        "en": [
+          "Check your tire pressure before heading up Mont Boron.",
+          "Use the 'Vélob'blue' city bike rental system.",
+          "Wear a helmet as city traffic can be hectic.",
+          "Carry plenty of water for the uphill sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aussichtspunkt Grande Corniche",
+            "hu": "Grande Corniche kilátópont",
+            "ro": "Belvederea Grande Corniche",
+            "en": "Grande Corniche Viewpoint"
+          },
+          "coords": [
+            7.355,
+            43.731
+          ],
+          "category": "mountain",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Straße aus dem Film 'Über den Dächern von Nizza'.",
+            "hu": "Látványos út a 'Fogjunk tolvajt' című filmből.",
+            "ro": "Șosea spectaculoasă cunoscută din filmele clasice.",
+            "en": "Spectacular road featured in Hitchcock's 'To Catch a Thief'."
+          }
+        },
+        {
+          "name": {
+            "de": "Èze Village",
+            "hu": "Èze falu",
+            "ro": "Satul Èze",
+            "en": "Èze Village"
+          },
+          "coords": [
+            7.362,
+            43.727
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Jardin Exotique ganz oben im Dorf.",
+            "hu": "Látogassa meg az egzotikus kertet a falu tetején.",
+            "ro": "Vizitați Grădina Exotică din vârful satului.",
+            "en": "Visit the Exotic Garden at the very top of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean-Cap-Ferrat",
+            "hu": "Saint-Jean-Cap-Ferrat",
+            "ro": "Saint-Jean-Cap-Ferrat",
+            "en": "Saint-Jean-Cap-Ferrat"
+          },
+          "coords": [
+            7.332,
+            43.688
+          ],
+          "category": "island",
+          "arrive_at": "12:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Die Villa Ephrussi de Rothschild ist ein architektonisches Juwel.",
+            "hu": "A Villa Ephrussi de Rothschild egy építészeti ékszerdoboz.",
+            "ro": "Vila Ephrussi de Rothschild este o bijuterie arhitecturală.",
+            "en": "Villa Ephrussi de Rothschild is an architectural jewel."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Anglais (West)",
+            "hu": "Promenade des Anglais (nyugat)",
+            "ro": "Promenade des Anglais (vest)",
+            "en": "Promenade des Anglais (West)"
+          },
+          "coords": [
+            7.245,
+            43.689
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Bequemes Parken in der Nähe des Flughafens für Strandspaziergänge.",
+            "hu": "Kényelmes parkolás a repülőtér közelében a tengerparti sétához.",
+            "ro": "Parcare comodă aproape de aeroport pentru plimbări pe plajă.",
+            "en": "Convenient parking near the airport for beach walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Masséna",
+            "hu": "Place Masséna",
+            "ro": "Piața Masséna",
+            "en": "Place Masséna"
+          },
+          "coords": [
+            7.269,
+            43.699
+          ],
+          "category": "square",
+          "arrive_at": "17:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Tiefgaragen direkt unter dem Platz.",
+            "hu": "Használja a tér alatti mélygarázsokat.",
+            "ro": "Folosiți parcările subterane direct sub piață.",
+            "en": "Use the underground parking garages directly below the square."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie die Côte d'Azur in ihrer ganzen Pracht mit dem Auto. Die Fahrt über die Grande Corniche bietet atemberaubende Ausblicke auf Monaco und das Mittelmeer.\n\nBesuchen Sie das mittelalterliche Bergdorf Èze, bevor Sie zur Halbinsel Saint-Jean-Cap-Ferrat hinunterfahren, wo Prachtvillen und botanische Gärten warten.\n\nMittags können Sie in einem der exklusiven Strandclubs einkehren oder die Gärten der Villa Ephrussi bewundern.\n\nAm späten Nachmittag kehren Sie nach Nizza zurück und genießen die entspannte Fahrt entlang der gesamten Promenade des Anglais bis zum Zentrum.",
+        "hu": "Élje át a Côte d'Azur pompáját autóval! A Grande Corniche panorámaútja lélegzetelállító kilátást nyújt Monacóra és a Földközi-tengerre.\n\nLátogasson el Èze középkori sziklafalujába, majd ereszkedjen le a Saint-Jean-Cap-Ferrat félszigetre, ahol luxusvillák és botanikus kertek várják.\n\nDélben betérhet egy exkluzív strandklubba, vagy megcsodálhatja a Villa Ephrussi kertjeit.\n\nKéső délután térjen vissza Nizzába, és élvezze a pihentető autózást a Promenade des Anglais teljes hosszában egészen a központig.",
+        "ro": "Experimentați splendoarea Coastei de Azur cu mașina. Drumul pe Grande Corniche oferă vederi uluitoare asupra Monacoului și a Mediteranei.\n\nVizitați satul medieval Èze înainte de a coborî spre peninsula Saint-Jean-Cap-Ferrat, unde vă așteaptă vile somptuoase și grădini botanice.\n\nLa prânz puteți opri la un club de plajă exclusivist sau puteți admira grădinile Vilei Ephrussi.\n\nSpre seară, reveniți în Nisa și bucurați-vă de drumul relaxant de-a lungul întregii Promenade des Anglais până în centru.",
+        "en": "Experience the glamour of the Côte d'Azur by car. Driving along the Grande Corniche offers breathtaking views of Monaco and the Mediterranean Sea.\n\nVisit the medieval hilltop village of Èze before heading down to the Saint-Jean-Cap-Ferrat peninsula, home to opulent villas and lush gardens.\n\nAt midday, stop at an exclusive beach club or admire the gardens of Villa Ephrussi.\n\nIn the late afternoon, return to Nice and enjoy a relaxing drive along the entire length of the Promenade des Anglais back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Château Eza",
+            "tip": "Fine Dining mit dem besten Blick der Riviera."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Château Eza",
+            "tip": "Gasztronómiai élmény a Riviéra legjobb kilátásával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Château Eza",
+            "tip": "Culinărie fină cu cea mai bună priveliște de pe Rivieră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Château Eza",
+            "tip": "Fine dining with arguably the best view on the Riviera."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paloma Beach",
+            "tip": "Versteckte Bucht in Cap Ferrat.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paloma Beach",
+            "tip": "Rejtett öböl a Cap Ferrat félszigeten.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Paloma",
+            "tip": "Golf ascuns în Cap Ferrat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paloma Beach",
+            "tip": "A hidden gem cove in Cap Ferrat.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parfümerie Fragonard (Èze)",
+            "tip": "Fabrikverkauf lokaler Düfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fragonard parfüméria (Èze)",
+            "tip": "Helyi illatok gyári áron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parfumeria Fragonard (Èze)",
+            "tip": "Vânzare directă de parfumuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragonard Perfumery (Èze)",
+            "tip": "Factory outlet for local scents and soaps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Èze ist schwierig, kommen Sie vor 10 Uhr morgens an.",
+          "Vermeiden Sie die Rushhour (8-9 und 17-18 Uhr) im Zentrum.",
+          "Die Corniche-Straßen sind eng, fahren Sie vorsichtig.",
+          "Nutzen Sie die Park-and-Ride-Plätze (Parcazur) am Stadtrand."
+        ],
+        "hu": [
+          "Èze-ben nehéz parkolni, érkezzen délelőtt 10 óra előtt.",
+          "Kerülje a csúcsforgalmat (8-9 és 17-18 óra) a belvárosban.",
+          "A Corniche utak szűkek, vezessen óvatosan.",
+          "Használja a város szélén található 'Parcazur' P+R parkolókat."
+        ],
+        "ro": [
+          "Parcarea în Èze este dificilă, sosiți înainte de ora 10 dimineața.",
+          "Evitați orele de vârf în centrul orașului.",
+          "Drumurile de tip Corniche sunt înguste, conduceți prudent.",
+          "Folosiți parcările de tip P+R (Parcazur) de la marginea orașului."
+        ],
+        "en": [
+          "Parking in Èze is limited; arrive before 10 AM.",
+          "Avoid rush hour traffic in the city center.",
+          "The Corniche roads are narrow and winding; drive carefully.",
+          "Utilize the 'Parcazur' park-and-ride lots on the outskirts."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Marc Chagall",
+            "hu": "Marc Chagall Múzeum",
+            "ro": "Muzeul Marc Chagall",
+            "en": "Marc Chagall National Museum"
+          },
+          "coords": [
+            7.27,
+            43.709
+          ],
+          "category": "museum",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die farbenprächtigen biblischen Botschaften (Bus Linie 5).",
+            "hu": "Csodálja meg a színes bibliai üzeneteket (5-ös busz).",
+            "ro": "Admirați mesajele biblice pline de culoare (Bus linia 5).",
+            "en": "Admire the colorful Biblical Message works (Bus Line 5)."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Matisse (Cimiez)",
+            "hu": "Matisse Múzeum (Cimiez)",
+            "ro": "Muzeul Matisse",
+            "en": "Matisse Museum (Cimiez)"
+          },
+          "coords": [
+            7.276,
+            43.719
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "In einer wunderschönen genuesischen Villa aus dem 17. Jhdt.",
+            "hu": "Egy gyönyörű, 17. századi genovai villában található.",
+            "ro": "Situat într-o vilă genoveză superbă din secolul XVII.",
+            "en": "Located in a stunning 17th-century Genoese villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes de Cimiez",
+            "hu": "Cimiez-i aréna (Római romok)",
+            "ro": "Arenele din Cimiez",
+            "en": "Cimiez Arenas (Roman Ruins)"
+          },
+          "coords": [
+            7.275,
+            43.719
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Antikes römisches Amphitheater inmitten eines Olivenhains.",
+            "hu": "Ókori római amfiteátrum egy olajfaliget közepén.",
+            "ro": "Amfiteatru roman antic în mijlocul unei livezi de măslini.",
+            "en": "Ancient Roman amphitheater set in an olive grove."
+          }
+        },
+        {
+          "name": {
+            "de": "Russisch-Orthodoxe Kathedrale",
+            "hu": "Szent Miklós orosz ortodox székesegyház",
+            "ro": "Catedrala Ortodoxă Rusă",
+            "en": "Russian Orthodox Cathedral"
+          },
+          "coords": [
+            7.253,
+            43.703
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die größte russisch-orthodoxe Kathedrale außerhalb Russlands.",
+            "hu": "A legnagyobb orosz ortodox templom Oroszországon kívül.",
+            "ro": "Cea mai mare catedrală ortodoxă rusă din afara Rusiei.",
+            "en": "The largest Russian Orthodox cathedral outside of Russia."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Masséna (Zentrum)",
+            "hu": "Place Masséna (Központ)",
+            "ro": "Piața Masséna",
+            "en": "Place Masséna (Center)"
+          },
+          "coords": [
+            7.269,
+            43.699
+          ],
+          "category": "square",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Direkt erreichbar mit der Straßenbahnlinie 1.",
+            "hu": "Közvetlenül elérhető az 1-es villamosvonallal.",
+            "ro": "Accesibil direct cu linia 1 de tramvai.",
+            "en": "Directly accessible via Tram Line 1."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Tram- und Bussystem Nizzas für eine kulturelle Tour. Beginnen Sie mit den leuchtenden Werken von Chagall im Viertel Cimiez.\n\nEin kurzer Spaziergang führt Sie zum Matisse Museum und den römischen Ruinen, wo Sie unter alten Olivenbäumen die Geschichte der Stadt spüren.\n\nMittags bringt Sie der Bus zurück Richtung Zentrum zur beeindruckenden russisch-orthodoxen Kathedrale mit ihren markanten Zwiebeltürmen.\n\nBeenden Sie Ihre Tour auf der Place Masséna. Von hier aus haben Sie perfekte Anbindung an alle Linien und können bequem zum Hotel oder zum Abendessen fahren.",
+        "hu": "Használja Nizza kiváló villamos- és buszhálózatát egy kulturális túrához! Kezdjen Chagall ragyogó műveivel a Cimiez negyedben.\n\nEgy rövid séta a Matisse Múzeumhoz és a római romokhoz vezet, ahol öreg olajfák alatt érezheti a város történelmét.\n\nDélben a busz visszaviszi a központ felé a lenyűgöző orosz ortodox székesegyházhoz, amely jellegzetes hagymakupoláival tűnik ki.\n\nZárja a túrát a Place Masséna téren. Innen minden irányba tökéletes a közlekedés, így könnyen elérheti szállását vagy egy vacsorahelyszínt.",
+        "ro": "Folosiți rețeaua excelentă de tramvaie și autobuze din Nisa pentru un tur cultural. Începeți cu operele vibrante ale lui Chagall în cartierul Cimiez.\n\nO scurtă plimbare vă duce la Muzeul Matisse și la ruinele romane, unde puteți simți istoria orașului sub măslini străvechi.\n\nLa prânz, autobuzul vă aduce înapoi spre centru la impresionanta Catedrală Ortodoxă Rusă, cu turlele sale caracteristice.\n\nÎncheiați turul în Piața Masséna. De aici aveți conexiuni perfecte cu toate liniile pentru a ajunge confortabil la hotel sau la cină.",
+        "en": "Make use of Nice's excellent tram and bus network for a cultural tour. Start with the luminous works of Chagall in the Cimiez district.\n\nA short walk takes you to the Matisse Museum and the Roman ruins, where you can feel the city's history under ancient olive trees.\n\nAt midday, the bus takes you back towards the center to the stunning Russian Orthodox Cathedral with its iconic onion domes.\n\nFinish your tour at Place Masséna. From here, you have perfect connections to all lines to comfortably head back to your hotel or out for dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Voyageur Nissart",
+            "tip": "Authentische lokale Küche in der Nähe des Bahnhofs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Voyageur Nissart",
+            "tip": "Autentikus helyi konyha a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Voyageur Nissart",
+            "tip": "Bucătărie locală autentică lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Voyageur Nissart",
+            "tip": "Authentic local Niçoise cuisine near the train station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhain von Cimiez",
+            "tip": "Ruhiger Park bei den römischen Ruinen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cimiez-i olajfaliget",
+            "tip": "Nyugodt park a római romok mellett.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livada de măslini Cimiez",
+            "tip": "Parc liniștit lângă ruinele romane.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cimiez Olive Grove",
+            "tip": "Quiet park right next to the Roman ruins.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nice Étoile",
+            "tip": "Modernes Einkaufszentrum an der Straßenbahnlinie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nice Étoile",
+            "tip": "Modern bevásárlóközpont a villamosvonal mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Nice Étoile",
+            "tip": "Centru comercial modern situat pe linia de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Nice Étoile",
+            "tip": "Modern shopping mall located right on the tram line."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte ('Lignes d'Azur') für 5-7 Euro.",
+          "Entwerten Sie Ihr Ticket bei jedem Einstieg.",
+          "Die Straßenbahnlinie 2 verbindet den Flughafen direkt mit dem Zentrum.",
+          "Nutzen Sie die App 'Lignes d'Azur' für Echtzeit-Abfahrten."
+        ],
+        "hu": [
+          "Vegyen napijegyet ('Lignes d'Azur') kb. 5-7 euróért.",
+          "Minden felszálláskor érvényesítse a jegyét.",
+          "A 2-es villamos közvetlenül összeköti a repülőteret a központtal.",
+          "Használja a 'Lignes d'Azur' appot a valós idejű menetrendhez."
+        ],
+        "ro": [
+          "Cumpărați un permis de o zi ('Lignes d'Azur') pentru 5-7 euro.",
+          "Validați biletul la fiecare urcare în vehicul.",
+          "Linia 2 de tramvai leagă direct aeroportul de centrul orașului.",
+          "Folosiți aplicația 'Lignes d'Azur' pentru orele de sosire în timp real."
+        ],
+        "en": [
+          "Buy a 24-hour pass ('Lignes d'Azur') for around 5-7 euros.",
+          "Remember to validate your ticket every time you board.",
+          "Tram Line 2 connects the airport directly to the city center.",
+          "Use the 'Lignes d'Azur' app for real-time transit info."
+        ]
+      }
+    }
+  }
+}

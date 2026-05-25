@@ -1,0 +1,1044 @@
+{
+  "city_id": "blois",
+  "anchor": {
+    "name": "Château Royal de Blois",
+    "coords": [
+      1.3358,
+      47.5861
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Escalier Denis-Papin",
+          "coords": [
+            1.334,
+            47.5865
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Stadt von der Treppe.",
+            "hu": "A legszebb kilátás a városra a lépcső tetejéről.",
+            "ro": "Cea mai bună vedere asupra orașului de pe scări.",
+            "en": "Best view of the city from the top of the stairs."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Louis",
+          "coords": [
+            1.3365,
+            47.586
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta aus dem 10. Jahrhundert.",
+            "hu": "Látogassa meg a 10. századi kriptát.",
+            "ro": "Vizitați cripta din secolul al X-lea.",
+            "en": "Visit the 10th-century crypt."
+          }
+        },
+        {
+          "name": "Maison de la Magie Robert-Houdin",
+          "coords": [
+            1.332,
+            47.5865
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Drachen, die aus den Fenstern kommen.",
+            "hu": "Figyelje a sárkányokat, amik kijönnek az ablakokon.",
+            "ro": "Atenție la dragonii care ies pe ferestre.",
+            "en": "Watch out for the dragons coming out of the windows."
+          }
+        },
+        {
+          "name": "Château Royal de Blois",
+          "coords": [
+            1.3308,
+            47.586
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vier verschiedenen Baustile.",
+            "hu": "Csodálja meg a négy különböző építészeti stílust.",
+            "ro": "Admirați cele patru stiluri arhitecturale diferite.",
+            "en": "Admire the four different architectural styles."
+          }
+        },
+        {
+          "name": "Église Saint-Nicolas",
+          "coords": [
+            1.328,
+            47.5845
+          ],
+          "category": "religious",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ehemalige Abteikirche mit schöner Architektur.",
+            "hu": "Egykori apátsági templom gyönyörű építészettel.",
+            "ro": "Fostă biserică abațială cu o arhitectură frumoasă.",
+            "en": "Former abbey church with beautiful architecture."
+          }
+        },
+        {
+          "name": "Pont Jacques-Gabriel & Loire Banks",
+          "coords": [
+            1.336,
+            47.584
+          ],
+          "category": "park",
+          "arrive_at": "16:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang bei Sonnenuntergang.",
+            "hu": "Tökéletes hely egy naplementés sétához.",
+            "ro": "Perfect pentru o plimbare la apus.",
+            "en": "Perfect for a sunset stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der berühmten Denis-Papin-Treppe, die oft künstlerisch gestaltet ist. Danach erkunden Sie die prächtige Kathedrale Saint-Louis. Mittags tauchen Sie in die Welt der Illusionen im Haus der Magie ein, direkt gegenüber dem Schloss. Nachmittags besichtigen Sie das Königsschloss von Blois, ein Juwel der Loire-Architektur. Den Tag lassen Sie entspannt an den Ufern der Loire ausklingen, mit Blick auf die historische Brücke Jacques-Gabriel.",
+        "hu": "Kezdje a napot a híres Denis-Papin lépcsőnél, amelyet gyakran művészeti alkotások díszítenek. Ezután fedezze fel a fenséges Szent Lajos-székesegyházat. Délben merüljön el az illúziók világában a Bűvészet Házában, közvetlenül a kastéllyal szemben. Délután látogassa meg a Blois-i királyi kastélyt, a Loire-menti építészet ékkövét. A napot pihentető sétával zárja a Loire partján, élvezve a Jacques-Gabriel híd látványát.",
+        "ro": "Începeți ziua la celebra scară Denis-Papin, adesea decorată artistic. Apoi, explorați maiestuoasa Catedrală Saint-Louis. La prânz, scufundați-vă în lumea iluziilor la Casa Magiei, situată chiar vizavi de castel. După-amiaza, vizitați Castelul Regal din Blois, o bijuterie a arhitecturii de pe Valea Loarei. Încheiați ziua cu o plimbare relaxantă pe malul Loarei, admirând podul istoric Jacques-Gabriel.",
+        "en": "Start your day at the famous Denis-Papin stairs, often decorated with art. Next, explore the majestic Saint-Louis Cathedral. At midday, dive into the world of illusions at the House of Magic, located right across from the castle. In the afternoon, visit the Royal Château of Blois, a jewel of Loire architecture. End the day with a relaxing stroll along the banks of the Loire, enjoying the view of the Jacques-Gabriel bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Poulain Schokolade",
+            "tip": "Blois ist die Heimat dieser berühmten Schokolade."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Lokaler Ziegenkäse aus der Region."
+          },
+          {
+            "name": "Vins de Loire",
+            "tip": "Probieren Sie einen kühlen Cheverny Weißwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poulain csokoládé",
+            "tip": "Blois a hazája ennek a híres francia csokinak."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Helyi kecskesajt a régióból."
+          },
+          {
+            "name": "Vins de Loire",
+            "tip": "Kóstoljon meg egy hűvös Cheverny fehérbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciocolată Poulain",
+            "tip": "Blois este casa acestei faimoase ciocolate franceze."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Brânză de capră locală din regiune."
+          },
+          {
+            "name": "Vins de Loire",
+            "tip": "Gustați un vin alb rece de Cheverny."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poulain Chocolate",
+            "tip": "Blois is the home of this famous French chocolate."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Local goat cheese from the region."
+          },
+          {
+            "name": "Vins de Loire",
+            "tip": "Try a chilled Cheverny white wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de l'Ancien Évêché",
+            "tip": "Ruhiger Rosengarten mit Loire-Blick.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Square Victor-Hugo",
+            "tip": "Kleiner Park im Schatten des Schlosses.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Loire-Ufer",
+            "tip": "Einsame Bänke flussabwärts.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins de l'Ancien Évêché",
+            "tip": "Csendes rózsakert kilátással a Loire-ra.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Square Victor-Hugo",
+            "tip": "Kis park a kastély árnyékában.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Loire-part",
+            "tip": "Magányos padok a folyó mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins de l'Ancien Évêché",
+            "tip": "Grădină de trandafiri liniștită cu vedere la Loara.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Square Victor-Hugo",
+            "tip": "Parc mic la umbra castelului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Loarei",
+            "tip": "Bănci retrase în aval.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins de l'Ancien Évêché",
+            "tip": "Quiet rose garden with Loire views.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Square Victor-Hugo",
+            "tip": "Small park in the shadow of the castle.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Loire Banks",
+            "tip": "Lonely benches downstream.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Blois",
+            "tip": "Samstagmorgen am Place Louis XII."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Lokale Kekse und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché de Blois",
+            "tip": "Szombat reggel a Place Louis XII téren."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Helyi kekszek és finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché de Blois",
+            "tip": "Sâmbătă dimineața în Place Louis XII."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Biscuți locali și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché de Blois",
+            "tip": "Saturday morning at Place Louis XII."
+          },
+          {
+            "name": "Biscuiterie de Chambord",
+            "tip": "Local biscuits and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Blois ist sehr hügelig, tragen Sie bequeme Schuhe.",
+          "Das Schloss bietet abends oft Lichtshows (Son-et-Lumière).",
+          "Kaufen Sie ein Kombiticket für Schloss und Haus der Magie.",
+          "Die Altstadt hat viele steile Gassen (traboules).",
+          "Trinken Sie Leitungswasser, es ist sicher und gut."
+        ],
+        "hu": [
+          "Blois nagyon dombos, viseljen kényelmes cipőt.",
+          "A kastélyban este gyakran van fényfestés (Son-et-Lumière).",
+          "Vásároljon kombinált jegyet a kastélyba és a Bűvészet Házába.",
+          "Az óvárosban sok meredek sikátor található.",
+          "A csapvíz biztonságos és finom."
+        ],
+        "ro": [
+          "Blois este foarte deluros, purtați pantofi confortabili.",
+          "Castelul oferă adesea spectacole de lumină seara (Son-et-Lumière).",
+          "Cumpărați un bilet combinat pentru castel și Casa Magiei.",
+          "Orașul vechi are multe străduțe abrupte.",
+          "Apa de la robinet este sigură și bună."
+        ],
+        "en": [
+          "Blois is very hilly, wear comfortable walking shoes.",
+          "The castle often hosts light shows in the evening (Son-et-Lumière).",
+          "Buy a combined ticket for the castle and the House of Magic.",
+          "The old town has many steep alleys and hidden passages.",
+          "Tap water is safe and high quality here."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Château Royal de Blois",
+          "coords": [
+            1.3308,
+            47.586
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradparkplatz am Eingang.",
+            "hu": "Biztonságos kerékpárparkoló a bejáratnál.",
+            "ro": "Parcare securizată pentru biciclete la intrare.",
+            "en": "Secure bike parking at the entrance."
+          }
+        },
+        {
+          "name": "Pont Jacques-Gabriel",
+          "coords": [
+            1.336,
+            47.584
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Loire für das klassische Panorama.",
+            "hu": "Kerekezzen át a Loire-on a klasszikus panorámáért.",
+            "ro": "Traversați Loara pentru panorama clasică.",
+            "en": "Cross the Loire for the classic panorama."
+          }
+        },
+        {
+          "name": "Loire à Vélo Route (South Bank)",
+          "coords": [
+            1.35,
+            47.58
+          ],
+          "category": "park",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Flache und gut ausgeschilderte Wege am Fluss.",
+            "hu": "Lapos és jól kitáblázott utak a folyó mentén.",
+            "ro": "Trasee plate și bine semnalizate pe malul râului.",
+            "en": "Flat and well-signed paths along the river."
+          }
+        },
+        {
+          "name": "Saint-Dyé-sur-Loire",
+          "coords": [
+            1.488,
+            47.665
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den alten Hafen von Chambord.",
+            "hu": "Látogassa meg Chambord egykori kikötőjét.",
+            "ro": "Vizitați vechiul port al castelului Chambord.",
+            "en": "Visit the old port of Chambord."
+          }
+        },
+        {
+          "name": "Vieux Blois",
+          "coords": [
+            1.333,
+            47.5855
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die Fußgängerzonen.",
+            "hu": "Tolja a biciklit a sétálóutcákban.",
+            "ro": "Împingeți bicicleta prin zonele pietonale.",
+            "en": "Push your bike through the pedestrian zones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Blois und seine Umgebung auf zwei Rädern. Nach dem Schlossbesuch überqueren Sie die Loire und folgen der berühmten 'Loire à Vélo' Route flussabwärts. Radeln Sie bis zum malerischen Dorf Saint-Dyé-sur-Loire, dem historischen Hafen für die Baustelle von Chambord. Genießen Sie die unberührte Natur des Flussufers, bevor Sie für einen Kaffee in die Altstadt von Blois zurückkehren.",
+        "hu": "Fedezze fel Blois-t és környékét két keréken. A kastélylátogatás után keljen át a Loire-on, és kövesse a híres 'Loire à Vélo' útvonalat. Kerekezzen el a festői Saint-Dyé-sur-Loire faluba, amely egykor a chambord-i építkezés kikötője volt. Élvezze a folyópart érintetlen természetét, mielőtt visszatérne Blois óvárosába egy kávéra.",
+        "ro": "Explorați Blois și împrejurimile sale pe două roți. După vizitarea castelului, traversați Loara și urmați celebrul traseu 'Loire à Vélo'. Pedalati până în satul pitoresc Saint-Dyé-sur-Loire, portul istoric pentru șantierul de la Chambord. Bucurați-vă de natura virgină a malului râului înainte de a vă întoarce în centrul vechi din Blois pentru o cafea.",
+        "en": "Explore Blois and its surroundings on two wheels. After visiting the castle, cross the Loire and follow the famous 'Loire à Vélo' route downstream. Cycle to the picturesque village of Saint-Dyé-sur-Loire, the historic port for the Chambord construction site. Enjoy the untouched nature of the riverbank before returning to Blois old town for a coffee."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Orangerie du Château",
+            "tip": "Gehobene Küche direkt am Schloss."
+          },
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Holen Sie sich ein Picknick für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Orangerie du Château",
+            "tip": "Elegáns étterem közvetlenül a kastély mellett."
+          },
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Vigyen magával pikniket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Orangerie du Château",
+            "tip": "Bucătărie rafinată chiar lângă castel."
+          },
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Luați un pachet pentru picnic pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Orangerie du Château",
+            "tip": "Fine dining right next to the castle."
+          },
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Grab a picnic for your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Île de la Loire",
+            "tip": "Ruhige Inselabschnitte zum Rasten.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Flussufer bei Saint-Dyé",
+            "tip": "Natur pur und Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Île de la Loire",
+            "tip": "Csendes szigeti szakaszok pihenéshez.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Folyópart Saint-Dyé-nél",
+            "tip": "Tiszta természet és nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Île de la Loire",
+            "tip": "Zone liniștite pe insulă pentru odihnă.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Malul râului la Saint-Dyé",
+            "tip": "Natură pură și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Île de la Loire",
+            "tip": "Quiet sections of the island for resting.",
+            "emoji": "🏝️"
+          },
+          {
+            "name": "Riverbank at Saint-Dyé",
+            "tip": "Pure nature and silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Blois",
+            "tip": "Mieten Sie E-Bikes für mehr Komfort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blois kerékpárkölcsönző",
+            "tip": "Béreljen elektromos biciklit a kényelemért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete Blois",
+            "tip": "Închiriați biciclete electrice pentru confort."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental Blois",
+            "tip": "Rent e-bikes for more comfort."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Folgen Sie den grünen Schildern der Loire à Vélo.",
+          "In Blois gibt es viele Einbahnstraßen, achten Sie auf Schilder.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Die Brücke hat einen separaten Radweg.",
+          "Helme sind für Kinder unter 12 Jahren Pflicht."
+        ],
+        "hu": [
+          "Kövesse a Loire à Vélo zöld tábláit.",
+          "Blois-ban sok az egyirányú utca, figyeljen a táblákra.",
+          "Vigyen magával elég vizet, főleg nyáron.",
+          "A hídon külön kerékpársáv van.",
+          "A sisak 12 év alatti gyermekeknek kötelező."
+        ],
+        "ro": [
+          "Urmați indicatoarele verzi ale traseului Loire à Vélo.",
+          "În Blois sunt multe străzi cu sens unic, atenție la semne.",
+          "Luați suficientă apă, mai ales vara.",
+          "Podul are o pistă separată pentru biciclete.",
+          "Căștile sunt obligatorii pentru copiii sub 12 ani."
+        ],
+        "en": [
+          "Follow the green signs of the Loire à Vélo route.",
+          "Blois has many one-way streets, watch the signs carefully.",
+          "Take enough water with you, especially in summer.",
+          "The bridge has a dedicated bike lane.",
+          "Helmets are mandatory for children under 12."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Château Royal de Blois",
+          "coords": [
+            1.3308,
+            47.586
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus 'Château' ist direkt daneben.",
+            "hu": "A 'Château' parkolóház közvetlenül mellette van.",
+            "ro": "Parcarea supraetajată 'Château' este chiar lângă.",
+            "en": "The 'Château' parking garage is right next door."
+          }
+        },
+        {
+          "name": "Château de Chambord",
+          "coords": [
+            1.5172,
+            47.6161
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.5,
+          "tip_5lang": {
+            "de": "Das größte Schloss der Loire. Unbedingt die Treppe sehen.",
+            "hu": "A Loire legnagyobb kastélya. A kettős lépcsőt látni kell.",
+            "ro": "Cel mai mare castel de pe Loara. Scara dublă este un 'must'.",
+            "en": "The largest Loire castle. The double helix staircase is a must-see."
+          }
+        },
+        {
+          "name": "Château de Cheverny",
+          "coords": [
+            1.458,
+            47.5
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Inspiration für 'Tim und Struppi'. Tolle Inneneinrichtung.",
+            "hu": "Tintin kastélyának ihletője. Pazar belső tér.",
+            "ro": "Inspirația pentru castelul lui Tintin. Interior superb.",
+            "en": "Inspiration for Tintin's Marlinspike Hall. Great interior."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame de la Trinité",
+          "coords": [
+            1.348,
+            47.595
+          ],
+          "category": "religious",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 14.5,
+          "tip_5lang": {
+            "de": "Moderne Basilika mit beeindruckendem Glockenturm.",
+            "hu": "Modern bazilika lenyűgöző harangtoronnyal.",
+            "ro": "Bazilică modernă cu un turn clopotniță impresionant.",
+            "en": "Modern basilica with an impressive bell tower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Schlösser der Region. Nach dem Start in Blois fahren Sie zum monumentalen Chambord, einem Meisterwerk der Renaissance. Danach geht es weiter nach Cheverny, bekannt für seine perfekt erhaltene Einrichtung und die Hundemeute. Zum Abschluss besuchen Sie die moderne Basilika von Blois, bevor Sie den Abend im Stadtzentrum genießen.",
+        "hu": "Autóval elérheti a régió leglátványosabb kastélyait. A blois-i kezdés után hajtson a monumentális Chambord-hoz, a reneszánsz remekműhöz. Ezután folytassa útját Cheverny-be, amely tökéletesen megőrzött berendezéséről és kutyáiról híres. Végezetül látogassa meg Blois modern bazilikáját, mielőtt a városközpontban vacsorázna.",
+        "ro": "Cu mașina puteți ajunge la cele mai spectaculoase castele din regiune. După plecarea din Blois, conduceți spre monumentalul Chambord, o capodoperă a Renașterii. Apoi continuați spre Cheverny, renumit pentru interiorul său perfect conservat și haita de câini. La final, vizitați bazilica modernă din Blois înainte de a vă bucura de seară în centrul orașului.",
+        "en": "By car, you can reach the most spectacular castles in the region. After starting in Blois, drive to the monumental Chambord, a Renaissance masterpiece. Then continue to Cheverny, famous for its perfectly preserved interior and its hunting dogs. Finally, visit the modern basilica of Blois before enjoying the evening in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Essen mit Blick auf das Schloss."
+          },
+          {
+            "name": "L'Agriculture",
+            "tip": "Traditionelle Küche in Cheverny."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Ebéd kilátással a kastélyra."
+          },
+          {
+            "name": "L'Agriculture",
+            "tip": "Hagyományos konyha Cheverny-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Masă cu vedere la castel."
+          },
+          {
+            "name": "L'Agriculture",
+            "tip": "Bucătărie tradițională în Cheverny."
+          }
+        ],
+        "en": [
+          {
+            "name": "Relais de Chambord",
+            "tip": "Dining with a view of the castle."
+          },
+          {
+            "name": "L'Agriculture",
+            "tip": "Traditional cuisine in Cheverny."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Chambord",
+            "tip": "Riesiger Waldpark zum Durchatmen.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gärten von Cheverny",
+            "tip": "Gepflegte Parkanlagen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Chambord",
+            "tip": "Hatalmas erdei park a kikapcsolódáshoz.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Cheverny kertjei",
+            "tip": "Gondozott parkrendszer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Chambord",
+            "tip": "Parc forestier imens pentru relaxare.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Grădinile Cheverny",
+            "tip": "Amenajări peisagistice îngrijite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Chambord",
+            "tip": "Huge forest park for a breather.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Gardens of Cheverny",
+            "tip": "Well-maintained parklands.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Chambord Shop",
+            "tip": "Exklusive Souvenirs und regionale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chambord Shop",
+            "tip": "Exkluzív ajándéktárgyak és helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Chambord",
+            "tip": "Suveniruri exclusive și vinuri regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chambord Shop",
+            "tip": "Exclusive souvenirs and regional wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an den Schlössern sind oft kostenpflichtig.",
+          "Buchen Sie Tickets für Chambord vorab online.",
+          "Die Straßen zwischen den Schlössern sind landschaftlich reizvoll.",
+          "Achten Sie auf Wildwechsel in den Waldgebieten.",
+          "In Blois ist das Parkhaus am Schloss die beste Wahl."
+        ],
+        "hu": [
+          "A kastélyoknál a parkolás gyakran fizetős.",
+          "Foglalja le online a jegyét Chambord-ba.",
+          "A kastélyok közötti utak nagyon látványosak.",
+          "Figyeljen a vadakra az erdei szakaszokon.",
+          "Blois-ban a kastély melletti parkolóház a legjobb választás."
+        ],
+        "ro": [
+          "Parcările la castele sunt adesea contra cost.",
+          "Rezervați biletele pentru Chambord online în avans.",
+          "Drumurile dintre castele sunt foarte pitorești.",
+          "Atenție la animalele sălbatice în zonele împădurite.",
+          "În Blois, parcarea de lângă castel este cea mai bună opțiune."
+        ],
+        "en": [
+          "Parking at the châteaux is often not free.",
+          "Book your Chambord tickets online in advance.",
+          "The roads between the castles are very scenic.",
+          "Watch out for wildlife in the forested areas.",
+          "In Blois, the underground car park next to the castle is best."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Blois-Chambord",
+          "coords": [
+            1.325,
+            47.588
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Hauptknotenpunkt für alle Buslinien.",
+            "hu": "A fő csomópont minden buszjárat számára.",
+            "ro": "Nodul principal pentru toate liniile de autobuz.",
+            "en": "The main hub for all bus lines."
+          }
+        },
+        {
+          "name": "Château Royal de Blois",
+          "coords": [
+            1.3308,
+            47.586
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder 10 Min. Fußweg vom Bahnhof.",
+            "hu": "Rövid buszút vagy 10 perc séta az állomástól.",
+            "ro": "Călătorie scurtă cu autobuzul sau 10 minute de mers pe jos.",
+            "en": "Short bus ride or 10 min walk from the station."
+          }
+        },
+        {
+          "name": "Hôtel de Ville / Cathédrale",
+          "coords": [
+            1.336,
+            47.587
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentraler Halt für die Oberstadt.",
+            "hu": "Központi megálló a felsővároshoz.",
+            "ro": "Stație centrală pentru orașul de sus.",
+            "en": "Central stop for the upper town."
+          }
+        },
+        {
+          "name": "Fondation du Doute",
+          "coords": [
+            1.335,
+            47.5885
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Museum für zeitgenössische Kunst (Fluxus).",
+            "hu": "Kortárs művészeti múzeum (Fluxus).",
+            "ro": "Muzeu de artă contemporană (Fluxus).",
+            "en": "Contemporary art museum (Fluxus)."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame de la Trinité",
+          "coords": [
+            1.348,
+            47.595
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie A vom Zentrum.",
+            "hu": "Vegyék az A jelzésű buszt a központból.",
+            "ro": "Luați linia A din centru.",
+            "en": "Take line A from the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das 'Azalys' Busnetz von Blois. Starten Sie am Bahnhof und fahren Sie zum Schloss. Nach der Besichtigung bringt Sie der Bus zur Kathedrale und zur Fondation du Doute, einem spannenden Museum für moderne Kunst. Den Nachmittag verbringen Sie bei der beeindruckenden Basilika Notre-Dame de la Trinité, die etwas außerhalb im Norden liegt, aber gut angebunden ist.",
+        "hu": "Használja Blois 'Azalys' buszhálózatát. Kezdjen az állomáson, majd buszozzon a kastélyhoz. A látogatás után a busz elviszi a székesegyházhoz és a Fondation du Doute-hoz, amely egy izgalmas modern művészeti múzeum. A délutánt a lenyűgöző Szentháromság-bazilikánál töltse, amely északabbra fekszik, de jól megközelíthető.",
+        "ro": "Utilizați rețeaua de autobuze 'Azalys' din Blois. Începeți la gară și mergeți la castel. După vizită, autobuzul vă va duce la catedrală și la Fondation du Doute, un muzeu interesant de artă modernă. Petreceți după-amiaza la impresionanta Bazilică Notre-Dame de la Trinité, situată în nord, dar bine conectată.",
+        "en": "Use the 'Azalys' bus network in Blois. Start at the station and ride to the castle. After your visit, the bus takes you to the cathedral and the Fondation du Doute, an exciting modern art museum. Spend the afternoon at the impressive Basilica of Notre-Dame de la Trinité, which is located a bit further north but well connected."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistro du Cuisinier",
+            "tip": "Hervorragende Küche nahe dem Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistro du Cuisinier",
+            "tip": "Kiváló konyha a folyó közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistro du Cuisinier",
+            "tip": "Bucătărie excelentă lângă râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistro du Cuisinier",
+            "tip": "Excellent cuisine near the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cloître Saint-Saturnin",
+            "tip": "Stiller Kreuzgang auf der anderen Loireseite.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cloître Saint-Saturnin",
+            "tip": "Csendes kolostorkert a Loire túlsó partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cloître Saint-Saturnin",
+            "tip": "Culoar liniștit pe cealaltă parte a Loarei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloître Saint-Saturnin",
+            "tip": "Quiet cloister on the other side of the Loire.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Denis Papin",
+            "tip": "Haupteinkaufsstraße mit vielen Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Denis Papin",
+            "tip": "Fő bevásárlóutca sok üzlettel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Denis Papin",
+            "tip": "Strada principală de cumpărături."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Denis Papin",
+            "tip": "Main shopping street with many stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Azalys-App für Echtzeit-Infos herunter.",
+          "Ein Tagesticket lohnt sich ab drei Fahrten.",
+          "Busse verkehren sonntags seltener.",
+          "Es gibt ein spezielles Schloss-Shuttle (Navette Châteaux).",
+          "Fahrkarten können beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "Töltse le az Azalys alkalmazást a valós idejű infókért.",
+          "A napijegy három utazástól már megéri.",
+          "A buszok vasárnap ritkábban járnak.",
+          "Létezik egy speciális kastély-járat (Navette Châteaux).",
+          "Jegyet a sofőrnél is lehet venni."
+        ],
+        "ro": [
+          "Descărcați aplicația Azalys pentru info în timp real.",
+          "Un bilet de o zi merită de la trei călătorii în sus.",
+          "Autobuzele circulă mai rar duminica.",
+          "Există un shuttle special pentru castele (Navette Châteaux).",
+          "Biletele pot fi cumpărate de la șofer."
+        ],
+        "en": [
+          "Download the Azalys app for real-time info.",
+          "A day ticket is worth it if you take three or more rides.",
+          "Buses run less frequently on Sundays.",
+          "There is a special Castle Shuttle (Navette Châteaux).",
+          "Tickets can be purchased directly from the driver."
+        ]
+      }
+    }
+  }
+}

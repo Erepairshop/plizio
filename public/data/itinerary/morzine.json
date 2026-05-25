@@ -1,0 +1,1032 @@
+{
+  "city_id": "morzine",
+  "anchor": {
+    "name": "Morzine",
+    "coords": [
+      6.7106,
+      46.1808
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-Madeleine",
+            "hu": "Szent Mária Magdolna-templom",
+            "ro": "Biserica Sainte-Marie-Madeleine",
+            "en": "Sainte-Marie-Madeleine Church"
+          },
+          "coords": [
+            6.7095,
+            46.1795
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die Glasmalereien.",
+            "hu": "Csodálja meg a modern építészetet és az üvegablakokat.",
+            "ro": "Admirați arhitectura modernă și vitraliile.",
+            "en": "Admire the modern architecture and stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Mairie",
+            "hu": "Városháza tér",
+            "ro": "Piața Primăriei",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.7088,
+            46.1802
+          ],
+          "category": "square",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der zentrale Treffpunkt mit Brunnen und lokalem Flair.",
+            "hu": "Központi találkozóhely szökőkúttal és helyi hangulattal.",
+            "ro": "Punctul central de întâlnire, cu fântână și atmosferă locală.",
+            "en": "The central meeting point with a fountain and local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Dérêches",
+            "hu": "Dérêches park",
+            "ro": "Parcul Dérêches",
+            "en": "Parc des Dérêches"
+          },
+          "coords": [
+            6.705,
+            46.183
+          ],
+          "category": "park",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang am Fluss Dranse im kühlen Schatten der Bäume.",
+            "hu": "Séta a Dranse-folyó partján, a fák hűvös árnyékában.",
+            "ro": "Plimbare pe malul râului Dranse, la umbra răcoroasă a copacilor.",
+            "en": "Walk along the Dranse river in the cool shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Bourg",
+            "hu": "Rue du Bourg",
+            "ro": "Rue du Bourg",
+            "en": "Rue du Bourg"
+          },
+          "coords": [
+            6.709,
+            46.179
+          ],
+          "category": "shopping",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Haupteinkaufsstraße mit Cafés und Sportgeschäften.",
+            "hu": "Fő bevásárlóutca kávézókkal és sportboltokkal.",
+            "ro": "Strada comercială principală, cu cafenele și magazine de sport.",
+            "en": "Main shopping street with cafes and sports shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Pléney Seilbahn Talstation",
+            "hu": "Pléney felvonó alsó állomás",
+            "ro": "Stația de bază a telecabinei Pléney",
+            "en": "Pléney Cable Car Base"
+          },
+          "coords": [
+            6.707,
+            46.1785
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Idealer Ausgangspunkt für Wanderungen mit Panoramablick.",
+            "hu": "Ideális kiindulópont panorámás túrákhoz.",
+            "ro": "Punct de plecare ideal pentru drumeții cu vedere panoramică.",
+            "en": "Ideal starting point for hikes with panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Morzine mit einem Besuch der zentralen Kirche und des Marktplatzes. Am Vormittag bietet der Parc des Dérêches eine natürliche Erholung am Flussufer. Mittags erkunden Sie die kulinarischen Köstlichkeiten in der Rue du Bourg. Den Nachmittag verbringen Sie entspannt an der Pléney-Talstation, wo Sie die majestätische Bergkulisse der Savoyer Alpen genießen können, bevor der Tag in einer gemütlichen Bar ausklingt.",
+        "hu": "Kezdje a napot Morzine szívében a központi templom és a városháza tér felfedezésével. Délelőtt a Parc des Dérêches kínál természetközeli kikapcsolódást a folyóparton. Ebédidőben kóstolja meg a helyi specialitásokat a Rue du Bourg hangulatos éttermeiben. A délutánt töltse a Pléney felvonó környékén, élvezve a Savoyai-Alpok fenséges látványát, mielőtt egy helyi bárban zárná a napot.",
+        "ro": "Începeți ziua în inima localității Morzine, explorând biserica centrală și piața primăriei. Dimineața, Parcul Dérêches oferă o relaxare în natură pe malul râului. La prânz, gustați specialitățile locale în restaurantele primitoare de pe Rue du Bourg. Petreceți după-amiaza în zona telecabinei Pléney, admirând peisajul maiestuos al Alpilor Savoiarzi, înainte de a încheia ziua într-un bar local.",
+        "en": "Start your day in the heart of Morzine by exploring the central church and the town hall square. In the morning, Parc des Dérêches offers a natural retreat by the riverbank. At lunchtime, taste local specialties in the cozy restaurants of Rue du Bourg. Spend the afternoon around the Pléney cable car base, enjoying the majestic views of the Savoy Alps before ending the day in a local bar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tartiflette",
+            "tip": "Reblochon-Käse, Kartoffeln und Speck – ein Muss in den Alpen."
+          },
+          {
+            "name": "La Rotonde",
+            "tip": "Traditionelle savoyische Küche im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tartiflette",
+            "tip": "Reblochon sajt, burgonya és szalonna – kötelező fogás az Alpokban."
+          },
+          {
+            "name": "La Rotonde",
+            "tip": "Hagyományos savoyai konyha a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tartiflette",
+            "tip": "Brânză Reblochon, cartofi și costiță – un preparat obligatoriu în Alpi."
+          },
+          {
+            "name": "La Rotonde",
+            "tip": "Bucătărie tradițională savoiardă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tartiflette",
+            "tip": "Reblochon cheese, potatoes, and bacon – a must-try in the Alps."
+          },
+          {
+            "name": "La Rotonde",
+            "tip": "Traditional Savoyard cuisine in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dranse Ufer",
+            "tip": "Ruhiger Platz zum Entspannen am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dranse-part",
+            "tip": "Csendes hely a vízparti pihenéshez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Dranse",
+            "tip": "Loc liniștit pentru relaxare lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dranse Riverbank",
+            "tip": "Quiet spot for relaxation by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Morzine",
+            "tip": "Lokale Produkte am Mittwochvormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morzine piac",
+            "tip": "Helyi termékek szerda délelőttönként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Morzine",
+            "tip": "Produse locale în diminețile de miercuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morzine Market",
+            "tip": "Local products on Wednesday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Der kostenlose Shuttlebus ist ideal für längere Strecken.",
+          "Probieren Sie den lokalen Käse direkt beim Erzeuger.",
+          "In der Hochsaison ist eine Reservierung für das Mittagessen ratsam."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Az ingyenes buszjárat ideális a hosszabb szakaszokhoz.",
+          "Kóstolja meg a helyi sajtokat közvetlenül a termelőktől.",
+          "Főszezonban érdemes asztalt foglalni az ebédhez."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Autobuzul gratuit este ideal pentru distanțe mai mari.",
+          "Gustați brânzeturile locale direct de la producători.",
+          "În plin sezon, se recomandă rezervarea unei mese pentru prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The free shuttle bus is ideal for longer stretches.",
+          "Taste local cheeses directly from the producers.",
+          "In high season, it's advisable to book a table for lunch."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dranse-Radweg",
+            "hu": "Dranse kerékpárút",
+            "ro": "Pista de biciclete Dranse",
+            "en": "Dranse Bike Path"
+          },
+          "coords": [
+            6.706,
+            46.182
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Flache Strecke entlang des Flusses, ideal zum Aufwärmen.",
+            "hu": "Lapos szakasz a folyó mentén, ideális bemelegítéshez.",
+            "ro": "Traseu plat de-a lungul râului, ideal pentru încălzire.",
+            "en": "Flat stretch along the river, ideal for warming up."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Montriond",
+            "hu": "Montriond-tó",
+            "ro": "Lacul Montriond",
+            "en": "Lac de Montriond"
+          },
+          "coords": [
+            6.723,
+            46.202
+          ],
+          "category": "lake",
+          "arrive_at": "10:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Alpensee mit Bademöglichkeit im Sommer.",
+            "hu": "Gyönyörű alpesi tó úszási lehetőséggel nyáron.",
+            "ro": "Lac alpin superb cu posibilitate de înot vara.",
+            "en": "Beautiful Alpine lake with swimming opportunities in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Super Morzine",
+            "hu": "Super Morzine bázis",
+            "ro": "Baza Super Morzine",
+            "en": "Super Morzine Base"
+          },
+          "coords": [
+            6.7085,
+            46.181
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Treffpunkt für Mountainbiker mit Blick auf das Resort.",
+            "hu": "Hegyi kerékpárosok találkozóhelye kilátással az üdülőhelyre.",
+            "ro": "Punct de întâlnire pentru bicicliști cu vedere spre stațiune.",
+            "en": "Meeting point for mountain bikers with resort views."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Dérêches",
+            "hu": "Dérêches park",
+            "ro": "Parcul Dérêches",
+            "en": "Parc des Dérêches"
+          },
+          "coords": [
+            6.705,
+            46.183
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss durch den grünen Park.",
+            "hu": "Pihentető befejezés a zöld parkon keresztül.",
+            "ro": "Final relaxant prin parcul verde.",
+            "en": "Relaxing finish through the green park."
+          }
+        },
+        {
+          "name": {
+            "de": "Morzine Zentrum",
+            "hu": "Morzine központ",
+            "ro": "Centrul Morzine",
+            "en": "Morzine Center"
+          },
+          "coords": [
+            6.709,
+            46.1795
+          ],
+          "category": "square",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geben Sie die Fahrräder ab und genießen Sie ein Getränk.",
+            "hu": "Adja le a kerékpárokat és igyon egy frissítőt.",
+            "ro": "Predați bicicletele și bucurați-vă de o băutură.",
+            "en": "Return the bikes and enjoy a refreshing drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Morzine auf zwei Rädern, beginnend mit dem entspannten Radweg am Fluss Dranse. Das Highlight ist die Fahrt zum Lac de Montriond, einem türkisfarbenen See, der von steilen Felswänden umgeben ist. Nach einem Mittagessen am Seeufer führt die Route zurück ins Zentrum, vorbei an der Super-Morzine-Station. Beenden Sie Ihre Tour mit einer sanften Fahrt durch den Parc des Dérêches, bevor Sie die Räder im Herzen des Dorfes zurückgeben.",
+        "hu": "Fedezze fel Morzine környékét két keréken, kezdve a Dranse-folyó menti pihentető kerékpárúttal. A túra csúcspontja a Montriond-tó, egy meredek sziklafalakkal körülvett türkizkék tó. A tóparti ebéd után az útvonal visszavezet a központba, érintve a Super Morzine állomást. Zárja a napot egy kellemes tekeréssel a Parc des Dérêches-en keresztül, mielőtt visszaadná a kerékpárokat a falu szívében.",
+        "ro": "Explorați împrejurimile localității Morzine pe două roți, începând cu pista relaxantă de pe malul râului Dranse. Punctul culminant este drumul către Lacul Montriond, un lac turcoaz înconjurat de pereți stâncoși abrupți. După un prânz pe malul lacului, traseul revine spre centru, trecând pe lângă stația Super Morzine. Încheiați turul cu o plimbare ușoară prin Parcul Dérêches, înainte de a returna bicicletele în inima satului.",
+        "en": "Explore the surroundings of Morzine on two wheels, starting with the relaxing bike path along the Dranse River. The highlight is the ride to Lac de Montriond, a turquoise lake surrounded by steep rock faces. After a lakeside lunch, the route leads back to the center, passing by the Super Morzine station. End your tour with a gentle ride through Parc des Dérêches before returning the bikes in the heart of the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Essen mit direktem Blick auf den Lac de Montriond."
+          },
+          {
+            "name": "Myrtillen-Tarte",
+            "tip": "Süße Spezialität aus regionalen Waldfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Étkezés közvetlen kilátással a Montriond-tóra."
+          },
+          {
+            "name": "Áfonyás pite",
+            "tip": "Édes különlegesség helyi erdei gyümölcsökből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Masă cu vedere directă spre Lacul Montriond."
+          },
+          {
+            "name": "Tartă cu afine",
+            "tip": "Specialitate dulce din fructe de pădure locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge du Lac",
+            "tip": "Dining with a direct view of Lac de Montriond."
+          },
+          {
+            "name": "Blueberry Tart",
+            "tip": "Sweet specialty made from local forest fruits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Westufer Lac de Montriond",
+            "tip": "Besonders ruhiger Bereich für ein Picknick.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montriond-tó nyugati partja",
+            "tip": "Különösen csendes rész egy piknikhez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul vestic al Lacului Montriond",
+            "tip": "Zonă deosebit de liniștită pentru un picnic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac de Montriond West Bank",
+            "tip": "Particularly quiet area for a picnic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Alpes Attitude",
+            "tip": "Fahrradverleih und hochwertige Sportbekleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpes Attitude",
+            "tip": "Kerékpárkölcsönző és minőségi sportruházat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alpes Attitude",
+            "tip": "Închiriere de biciclete și îmbrăcăminte sport de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpes Attitude",
+            "tip": "Bike rental and high-quality sportswear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie vorab den Luftdruck Ihrer Reifen.",
+          "In den Bergen kann das Wetter schnell umschlagen.",
+          "Nutzen Sie die markierten Wege im Parc des Dérêches.",
+          "Ein Helm ist auf den Waldwegen dringend empfohlen."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a gumiabroncsok nyomását.",
+          "A hegyekben az időjárás gyorsan megváltozhat.",
+          "Használja a kijelölt utakat a Parc des Dérêches területén.",
+          "Az erdei utakon erősen ajánlott a sisak használata."
+        ],
+        "ro": [
+          "Verificați presiunea din pneuri înainte de plecare.",
+          "În munți, vremea se poate schimba rapid.",
+          "Utilizați potecile marcate din Parcul Dérêches.",
+          "Casca este recomandată cu tărie pe drumurile forestiere."
+        ],
+        "en": [
+          "Check your tire pressure before heading out.",
+          "Weather can change quickly in the mountains.",
+          "Use the marked paths in Parc des Dérêches.",
+          "A helmet is highly recommended on forest trails."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 38.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lac de Montriond",
+            "hu": "Montriond-tó",
+            "ro": "Lacul Montriond",
+            "en": "Lac de Montriond"
+          },
+          "coords": [
+            6.723,
+            46.202
+          ],
+          "category": "lake",
+          "arrive_at": "09:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parkplätze sind am Nordufer vorhanden; ideal für einen Spaziergang.",
+            "hu": "Parkoló az északi parton érhető el; ideális egy sétához.",
+            "ro": "Parcare disponibilă pe malul nordic; ideal pentru o plimbare.",
+            "en": "Parking available on the north shore; ideal for a walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascades d'Ardent",
+            "hu": "Ardent vízesés",
+            "ro": "Cascada Ardent",
+            "en": "Ardent Waterfall"
+          },
+          "coords": [
+            6.735,
+            46.205
+          ],
+          "category": "nature",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Wasserfall am Ende des Tals.",
+            "hu": "Látványos vízesés a völgy végében.",
+            "ro": "O cascadă spectaculoasă la capătul văii.",
+            "en": "A spectacular waterfall at the end of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Mines d'Or",
+            "hu": "Mines d'Or-tó",
+            "ro": "Lacul Mines d'Or",
+            "en": "Lac des Mines d'Or"
+          },
+          "coords": [
+            6.745,
+            46.135
+          ],
+          "category": "nature",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Abgeschiedener Bergsee, berühmt für seine Ruhe.",
+            "hu": "Elszigetelt hegyi tó, híres a nyugalmáról.",
+            "ro": "Lac montan izolat, renumit pentru liniștea sa.",
+            "en": "Secluded mountain lake, famous for its tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Prodains Seilbahn",
+            "hu": "Prodains felvonó",
+            "ro": "Telecabina Prodains",
+            "en": "Prodains Cable Car"
+          },
+          "coords": [
+            6.748,
+            46.185
+          ],
+          "category": "landmark",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Schnellster Weg nach Avoriaz für eine tolle Aussicht.",
+            "hu": "A leggyorsabb út Avoriazba a nagyszerű kilátásért.",
+            "ro": "Cea mai rapidă cale spre Avoriaz pentru o vedere panoramică.",
+            "en": "Fastest way to Avoriaz for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateau de Nyon Panorama",
+            "hu": "Plateau de Nyon panoráma",
+            "ro": "Panorama Plateau de Nyon",
+            "en": "Plateau de Nyon Panorama"
+          },
+          "coords": [
+            6.702,
+            46.145
+          ],
+          "category": "nature",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für den Sonnenuntergang über dem Tal.",
+            "hu": "Tökéletes hely a völgy feletti naplementéhez.",
+            "ro": "Locul perfect pentru apusul de soare peste vale.",
+            "en": "Perfect spot for sunset over the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour führt Sie zu den verborgenen Schätzen rund um Morzine. Beginnen Sie am Lac de Montriond für einen entspannten Vormittag am Wasser. Besuchen Sie anschließend den beeindruckenden Ardent-Wasserfall, bevor Sie zum abgeschiedenen Lac des Mines d'Or fahren, einem Paradies für Naturliebhaber. Am Nachmittag bietet die Fahrt zur Prodains-Station einen Blick auf das futuristische Avoriaz. Den Abschluss bildet das Plateau de Nyon mit einem unvergesslichen Panorama über die Hochsavoyer Alpen.",
+        "hu": "Ez az autós túra Morzine környékének rejtett kincseihez vezeti el Önt. Kezdje a Montriond-tónál egy pihentető délelőttel a vízparton. Ezután látogassa meg a lenyűgöző Ardent-vízesést, mielőtt elindulna az elszigetelt Mines d'Or-tóhoz, amely a természetbarátok paradicsoma. Délután a Prodains állomáshoz vezető út rálátást nyújt a futurista Avoriazra. A napot a Plateau de Nyon zárja felejthetetlen panorámával a Savoyai-Alpokra.",
+        "ro": "Acest tur cu mașina vă conduce către comorile ascunse din jurul localității Morzine. Începeți la Lacul Montriond pentru o dimineață relaxantă lângă apă. Vizitați apoi impresionanta cascadă Ardent înainte de a merge spre lacul izolat Mines d'Or, un paradis pentru iubitorii de natură. După-amiaza, drumul spre stația Prodains oferă o privire spre futurista stațiune Avoriaz. Încheierea aparține Plateau de Nyon, cu o panoramă de neuitat asupra Alpilor Savoiarzi.",
+        "en": "This car tour takes you to the hidden gems around Morzine. Start at Lac de Montriond for a relaxed morning by the water. Then visit the impressive Ardent waterfall before heading to the secluded Lac des Mines d'Or, a paradise for nature lovers. In the afternoon, the drive to the Prodains station offers a glimpse of the futuristic Avoriaz. The finale is the Plateau de Nyon with an unforgettable panorama over the Savoy Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Chalet de la Mine d'Or",
+            "tip": "Rustikale Berghütte mit lokalen Käsegerichten."
+          },
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Geschmolzener Käse mit Brot – ein Alpen-Klassiker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Chalet de la Mine d'Or",
+            "tip": "Rusztikus hegyi hütte helyi sajtos ételekkel."
+          },
+          {
+            "name": "Sajtfondü",
+            "tip": "Olvasztott sajt kenyérrel – alpesi klasszikus."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Chalet de la Mine d'Or",
+            "tip": "Cabană montană rustică cu preparate locale din brânză."
+          },
+          {
+            "name": "Fondue Savoyard",
+            "tip": "Brânză topită cu pâine – un clasic al Alpilor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Chalet de la Mine d'Or",
+            "tip": "Rustic mountain hut with local cheese dishes."
+          },
+          {
+            "name": "Cheese Fondue",
+            "tip": "Melted cheese with bread – an Alpine classic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac des Mines d'Or",
+            "tip": "Ruhiger Ort fernab der touristischen Massen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mines d'Or-tó",
+            "tip": "Csendes hely távol a turistaáradattól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Mines d'Or",
+            "tip": "Loc liniștit departe de aglomerația turistică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac des Mines d'Or",
+            "tip": "Quiet spot far from the tourist crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fruitière de Morzine",
+            "tip": "Direktverkauf von regionalem Käse und Butter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fruitière de Morzine",
+            "tip": "Regionális sajtok és vaj közvetlen értékesítése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fruitière de Morzine",
+            "tip": "Vânzare directă de brânză și unt regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fruitière de Morzine",
+            "tip": "Direct sale of regional cheese and butter."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen sind kurvenreich, fahren Sie vorsichtig.",
+          "Parken Sie nur auf den offiziell ausgewiesenen Flächen.",
+          "Achten Sie auf Wanderer und Radfahrer am Straßenrand.",
+          "Nehmen Sie eine Jacke mit, es ist in der Höhe kühler."
+        ],
+        "hu": [
+          "A hegyi utak kanyargósak, vezessen óvatosan.",
+          "Csak a hivatalosan kijelölt helyeken parkoljon.",
+          "Ügyeljen a túrázókra és kerékpárosokra az út szélén.",
+          "Vigyen magával kabátot, a magasban hűvösebb van."
+        ],
+        "ro": [
+          "Drumurile montane sunt sinuoase, conduceți cu atenție.",
+          "Parcați doar în locurile oficial amenajate.",
+          "Fiți atenți la drumeți și bicicliști pe marginea drumului.",
+          "Luați o jachetă, la altitudine este mai răcoare."
+        ],
+        "en": [
+          "Mountain roads are winding, drive carefully.",
+          "Park only in officially designated areas.",
+          "Watch out for hikers and cyclists on the roadside.",
+          "Take a jacket, it's cooler at high altitudes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Mairie Stop",
+            "hu": "Városháza megálló",
+            "ro": "Stația Piața Primăriei",
+            "en": "Town Hall Stop"
+          },
+          "coords": [
+            6.7088,
+            46.1802
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle kostenlosen Buslinien.",
+            "hu": "Központi csomópont az összes ingyenes buszjárat számára.",
+            "ro": "Nod central pentru toate liniile de autobuz gratuite.",
+            "en": "Central hub for all free bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Montriond (Bus L)",
+            "hu": "Montriond-tó (L busz)",
+            "ro": "Lacul Montriond (Autobuz L)",
+            "en": "Lac de Montriond (Bus L)"
+          },
+          "coords": [
+            6.723,
+            46.202
+          ],
+          "category": "lake",
+          "arrive_at": "10:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Linie L für eine einfache Fahrt zum See.",
+            "hu": "Használja az L jelzésű buszt a tóhoz való könnyű kijutáshoz.",
+            "ro": "Utilizați linia L pentru un drum ușor către lac.",
+            "en": "Use line L for an easy ride to the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascades d'Ardent",
+            "hu": "Ardent vízesés",
+            "ro": "Cascada Ardent",
+            "en": "Ardent Waterfall"
+          },
+          "coords": [
+            6.735,
+            46.205
+          ],
+          "category": "nature",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak egy rövid séta a buszmegállótól.",
+            "ro": "La doar o scurtă plimbare de stația de autobuz.",
+            "en": "Just a short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Morzine Rue du Bourg",
+            "hu": "Morzine Rue du Bourg",
+            "ro": "Morzine Rue du Bourg",
+            "en": "Morzine Rue du Bourg"
+          },
+          "coords": [
+            6.709,
+            46.179
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Dorfzentrum zum Shoppen und Essen.",
+            "hu": "Visszatérés a falu központjába vásárláshoz és étkezéshez.",
+            "ro": "Revenire în centrul satului pentru cumpărături și masă.",
+            "en": "Return to the village center for shopping and dining."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Dérêches",
+            "hu": "Dérêches park",
+            "ro": "Parcul Dérêches",
+            "en": "Parc des Dérêches"
+          },
+          "coords": [
+            6.705,
+            46.183
+          ],
+          "category": "park",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Park vor der letzten Busfahrt.",
+            "hu": "Pihenjen a parkban az utolsó buszút előtt.",
+            "ro": "Relaxați-vă în parc înainte de ultima călătorie cu autobuzul.",
+            "en": "Relax in the park before the last bus ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morzine lässt sich hervorragend mit dem dichten Netz an kostenlosen Pendelbussen (Navettes) erkunden. Starten Sie am Rathausplatz und nehmen Sie den Bus zum malerischen Lac de Montriond. Genießen Sie dort den Vormittag und wandern Sie zum Ardent-Wasserfall. Nach der Rückkehr mit dem Bus ins Zentrum können Sie gemütlich durch die historische Rue du Bourg schlendern. Der Tag endet entspannt im Parc des Dérêches, der leicht mit dem 'Petit Train' erreichbar ist.",
+        "hu": "Morzine kiválóan felfedezhető az ingyenes buszhálózat (Navettes) segítségével. Kezdjen a városháza téren, és induljon busszal a festői Montriond-tóhoz. Töltse ott a délelőttöt, majd sétáljon el az Ardent-vízeséshez. Miután visszatért busszal a központba, tegyen egy kellemes sétát a történelmi Rue du Bourg utcán. A nap a Parc des Dérêches parkban zárul, amely könnyen elérhető a kisvonattal (Petit Train).",
+        "ro": "Morzine poate fi explorat excelent cu ajutorul rețelei dense de autobuze gratuite (Navettes). Începeți în piața primăriei și luați autobuzul către pitorescul Lac Montriond. Bucurați-vă de dimineață acolo și mergeți până la cascada Ardent. După revenirea cu autobuzul în centru, puteți să vă plimbați agale pe strada istorică Rue du Bourg. Ziua se încheie relaxat în Parcul Dérêches, ușor accesibil cu 'Micul Tren'.",
+        "en": "Morzine can be perfectly explored using the dense network of free shuttle buses (Navettes). Start at the town hall square and take the bus to the picturesque Lac de Montriond. Enjoy the morning there and hike to the Ardent waterfall. After returning to the center by bus, take a leisurely stroll through the historic Rue du Bourg. The day ends relaxed in Parc des Dérêches, which is easily accessible by the 'Petit Train'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Coup de Coeur",
+            "tip": "Weinbar und Brasserie mit toller Terrasse."
+          },
+          {
+            "name": "Farçon",
+            "tip": "Traditioneller savoyischer Kartoffelkuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Coup de Coeur",
+            "tip": "Borozó és bisztró nagyszerű terasszal."
+          },
+          {
+            "name": "Farçon",
+            "tip": "Hagyományos savoyai burgonyatorta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Coup de Coeur",
+            "tip": "Bar de vinuri și braserie cu o terasă superbă."
+          },
+          {
+            "name": "Farçon",
+            "tip": "Prăjitură tradițională savoiardă din cartofi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Coup de Coeur",
+            "tip": "Wine bar and brasserie with a great terrace."
+          },
+          {
+            "name": "Farçon",
+            "tip": "Traditional Savoyard potato cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Sportzentrum",
+            "tip": "Ruhige Grünflächen am Flussufer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportközpont parkja",
+            "tip": "Csendes zöldfelületek a folyóparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă centrul sportiv",
+            "tip": "Spații verzi liniștite pe malul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Center Park",
+            "tip": "Quiet green spaces by the riverbank.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs Morzinois",
+            "tip": "Handgefertigte Holzartikel und lokale Andenken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenirs Morzinois",
+            "tip": "Kézzel készített fatárgyak és helyi emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenirs Morzinois",
+            "tip": "Articole din lemn lucrate manual și amintiri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs Morzinois",
+            "tip": "Handmade wooden items and local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Fahrplan der Navettes auf Ihr Handy.",
+          "Der 'Petit Train' verbindet die beiden Hauptseilbahnen.",
+          "Busse verkehren in der Hochsaison alle 15-20 Minuten.",
+          "Die Mitnahme von Fahrrädern ist in einigen Bussen erlaubt."
+        ],
+        "hu": [
+          "Töltse le a Navettes menetrendjét a telefonjára.",
+          "A kisvonat összeköti a két fő felvonót.",
+          "A buszok főszezonban 15-20 percenként közlekednek.",
+          "Néhány buszjáraton megengedett a kerékpár szállítása."
+        ],
+        "ro": [
+          "Descărcați orarul Navettes pe telefon.",
+          "Micul tren face legătura între cele două telecabine principale.",
+          "Autobuzele circulă la fiecare 15-20 de minute în plin sezon.",
+          "Transportul bicicletelor este permis în unele autobuze."
+        ],
+        "en": [
+          "Download the Navettes timetable to your phone.",
+          "The 'Petit Train' connects the two main cable cars.",
+          "Buses run every 15-20 minutes in high season.",
+          "Carrying bicycles is permitted on some buses."
+        ]
+      }
+    }
+  }
+}

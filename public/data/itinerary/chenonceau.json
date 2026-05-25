@@ -1,0 +1,1101 @@
+{
+  "city_id": "chenonceau",
+  "anchor": {
+    "name": "Chenonceaux",
+    "coords": [
+      1.0703,
+      47.3322
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Church of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            1.0673,
+            47.3329
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Glasmalereien aus dem 16. Jahrhundert.",
+            "hu": "Csodálja meg a 16. századi üvegablakokat.",
+            "ro": "Admirați vitraliile din secolul al XVI-lea.",
+            "en": "Admire the 16th-century stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm der Marques",
+            "hu": "Marques-torony",
+            "ro": "Turnul Marques",
+            "en": "Marques Tower"
+          },
+          "coords": [
+            1.0701,
+            47.3252
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der älteste Teil der Anlage, ein Überrest der alten Burg.",
+            "hu": "Az erődítmény legősibb része, az egykori vár maradványa.",
+            "ro": "Cea mai veche parte a complexului, o relicvă a vechiului castel.",
+            "en": "The oldest part of the complex, a remnant of the former castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chenonceau",
+            "hu": "Chenonceau-i kastély",
+            "ro": "Castelul Chenonceau",
+            "en": "Château de Chenonceau"
+          },
+          "coords": [
+            1.0703,
+            47.3248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Galerie über dem Fluss Cher.",
+            "hu": "Sétáljon végig a folyó felett átívelő galérián.",
+            "ro": "Vizitați galeria de peste râul Cher.",
+            "en": "Visit the gallery spanning the river Cher."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten von Diane de Poitiers",
+            "hu": "Diane de Poitiers kertje",
+            "ro": "Grădina Dianei de Poitiers",
+            "en": "Garden of Diane de Poitiers"
+          },
+          "coords": [
+            1.0712,
+            47.3255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Nordfassade des Schlosses.",
+            "hu": "Élvezze a kilátást a kastély északi homlokzatára.",
+            "ro": "Bucurați-vă de vederea spre fațada nordică a castelului.",
+            "en": "Enjoy the view of the castle's northern facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Labyrinth",
+            "hu": "A Labirintus",
+            "ro": "Labirintul",
+            "en": "The Labyrinth"
+          },
+          "coords": [
+            1.0685,
+            47.3275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Suchen Sie den kleinen Pavillon im Zentrum.",
+            "hu": "Keresse meg a központi kis pavilont.",
+            "ro": "Căutați micul pavilion din centru.",
+            "en": "Find the small pavilion at the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bauernhof aus dem 16. Jahrhundert",
+            "hu": "16. századi majorság",
+            "ro": "Ferma din secolul al XVI-lea",
+            "en": "16th-century Farm"
+          },
+          "coords": [
+            1.0678,
+            47.327
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein authentischer Einblick in das ländliche Leben der Renaissance.",
+            "hu": "Hiteles betekintés a reneszánsz kori vidéki életbe.",
+            "ro": "O privire autentică în viața rurală din perioada Renașterii.",
+            "en": "An authentic glimpse into Renaissance rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten von Catherine de Médicis",
+            "hu": "Catherine de Médicis kertje",
+            "ro": "Grădina Catherinei de Médicis",
+            "en": "Garden of Catherine de Médicis"
+          },
+          "coords": [
+            1.0695,
+            47.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekt für Fotos vom Schloss im späten Nachmittagslicht.",
+            "hu": "Tökéletes hely fotózáshoz a délutáni fényekben.",
+            "ro": "Perfect pentru fotografii cu castelul în lumina după-amiezii.",
+            "en": "Perfect for photos of the castle in late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Dorf Chenonceaux mit einem Besuch der historischen Kirche. Nach einem kurzen Spaziergang erreichen Sie die majestätische Schlossanlage. Der Vormittag gehört dem Marques-Turm und dem prachtvollen Schloss selbst, das elegant über den Cher ragt.\n\nMittags erkunden Sie die prächtigen Gärten von Diane de Poitiers, wo Geometrie und Blumenpracht aufeinandertreffen. Ein idealer Zeitpunkt für eine kleine Pause im Schatten der alten Bäume.\n\nDer Nachmittag wird spielerisch im Labyrinth und lehrreich auf dem historischen Bauernhof aus dem 16. Jahrhundert. Hier erleben Sie den Charme vergangener Zeiten hautnah.\n\nZum Abschluss schlendern Sie durch den Garten von Catherine de Médicis. Wenn die Sonne tiefer sinkt, erstrahlt das Wasserschloss in einem ganz besonderen Licht, bevor Sie Ihren Rundgang beenden.",
+        "hu": "Kezdje a napot Chenonceaux festői falujában a történelmi templom megtekintésével. Rövid séta után érkezik meg a kastélybirtokra. A délelőtt a Marques-toronyé és magáé a fenséges kastélyé, amely elegánsan ível át a Cher folyó felett.\n\nDélben fedezze fel Diane de Poitiers pompás kertjeit, ahol a geometria és a virágok találkoznak. Ideális időpont egy rövid pihenőre az öreg fák árnyékában.\n\nA délután játékosan telik a labirintusban, majd a 16. századi majorságban folytatódik, ahol megelevenedik a reneszánsz vidéki élet hangulata.\n\nA napot Catherine de Médicis kertjében zárja. Ahogy a nap alacsonyabban jár, a vízi kastély különleges fényben tündököl, tökéletes befejezést nyújtva a látogatásnak.",
+        "ro": "Începeți ziua în satul pitoresc Chenonceaux cu o vizită la biserica istorică. După o scurtă plimbare, veți ajunge la domeniul castelului. Dimineața este dedicată Turnului Marques și maiestuosului castel în sine, care se întinde elegant peste râul Cher.\n\nLa prânz, explorați grădinile splendide ale Dianei de Poitiers, unde geometria se întâlnește cu explozia de flori. Este momentul ideal pentru o scurtă pauză la umbra copacilor bătrâni.\n\nDupă-amiaza devine ludică în labirint și educativă la ferma istorică din secolul al XVI-lea, unde puteți experimenta farmecul vremurilor trecute.\n\nÎn încheiere, plimbați-vă prin grădina Catherinei de Médicis. Pe măsură ce soarele coboară, castelul de pe apă strălucește într-o lumină specială, înainte de a vă termina turul.",
+        "en": "Start your day in the picturesque village of Chenonceaux with a visit to the historic church. After a short walk, you enter the castle estate. The morning is dedicated to the Marques Tower and the majestic castle itself, elegantly spanning the Cher river.\n\nAt midday, explore the splendid gardens of Diane de Poitiers, where geometry and floral beauty meet. It is an ideal time for a short break in the shade of ancient trees.\n\nIn the afternoon, enjoy a playful moment in the labyrinth followed by a visit to the 16th-century farm, where the charm of past eras comes to life.\n\nFinally, stroll through Catherine de Medici's garden. As the sun gets lower, the water castle glows in a special light, providing a perfect end to your visit."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Elegantes Restaurant direkt im Schlosspark."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Berühmter lokaler Ziegenkäse mit Ascherinde."
+          },
+          {
+            "name": "Touraine Sauvignon",
+            "tip": "Frischer Weißwein aus der direkten Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Elegáns étterem közvetlenül a kastélyparkban."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Híres helyi kecskesajt hamus kéregben."
+          },
+          {
+            "name": "Touraine Sauvignon",
+            "tip": "Friss fehérbor a közvetlen környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Restaurant elegant situat direct în parcul castelului."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Celebra brânză de capră locală cu crustă de cenușă."
+          },
+          {
+            "name": "Touraine Sauvignon",
+            "tip": "Vin alb proaspăt din împrejurimile imediate."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Elegant restaurant located directly in the castle park."
+          },
+          {
+            "name": "Selles-sur-Cher",
+            "tip": "Famous local goat cheese with an ash rind."
+          },
+          {
+            "name": "Touraine Sauvignon",
+            "tip": "Fresh white wine from the immediate surroundings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Cher",
+            "tip": "Ruhiger Blick auf die Brückenbögen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Labyrinth",
+            "tip": "Abseits der Hauptwege für stille Momente.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Schlosspark",
+            "tip": "Weitläufige Alleen unter hundertjährigen Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cher folyó partja",
+            "tip": "Csendes kilátás a kastély hídjaira.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Labirintus",
+            "tip": "Távol a főutaktól, ideális egy kis nyugalomhoz.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kastélypark",
+            "tip": "Tágas sétányok százéves fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Cher",
+            "tip": "Vedere liniștită spre arcadele castelului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Labirintul",
+            "tip": "Departe de potecile principale pentru momente de liniște.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Parcul Castelului",
+            "tip": "Alei largi sub copaci centenari.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Cher",
+            "tip": "Quiet view of the castle's arches.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "The Labyrinth",
+            "tip": "Away from the main paths for quiet moments.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Castle Park",
+            "tip": "Spacious alleys under century-old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Exklusive Geschenke und Bücher über die Geschichte des Loire-Tals."
+          },
+          {
+            "name": "Cave du Père Auguste",
+            "tip": "Lokale Weine direkt vom Winzer in Chenonceaux."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Exkluzív ajándékok és könyvek a Loire-völgy történelméről."
+          },
+          {
+            "name": "Cave du Père Auguste",
+            "tip": "Helyi borok közvetlenül a chenonceaux-i termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Cadouri exclusive și cărți despre istoria Văii Loarei."
+          },
+          {
+            "name": "Cave du Père Auguste",
+            "tip": "Vinuri locale direct de la producătorul din Chenonceaux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boutique du Château",
+            "tip": "Exclusive gifts and books about the history of the Loire Valley."
+          },
+          {
+            "name": "Cave du Père Auguste",
+            "tip": "Local wines directly from the producer in Chenonceaux."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Ihre Eintrittskarten vorab online, um Wartezeiten am Tor zu vermeiden.",
+          "Kommen Sie direkt zur Öffnung, um das Schloss in Ruhe zu fotografieren.",
+          "Ein Picknick am Flussufer bietet einen traumhaften Blick auf das Wasserschloss.",
+          "Die Audio-Guides bieten spannende Details über die 'Damen von Chenonceau'."
+        ],
+        "hu": [
+          "Foglalja le jegyét előre online, hogy elkerülje a sorban állást a kapunál.",
+          "Érkezzen közvetlenül nyitásra, ha nyugodtan szeretne fotózni.",
+          "Egy piknik a folyóparton csodálatos kilátást nyújt a vízi kastélyra.",
+          "Az audio-guide izgalmas részleteket árul el a 'Chenonceau-i hölgyekről'."
+        ],
+        "ro": [
+          "Rezervați-vă biletele online în avans pentru a evita cozile la poartă.",
+          "Veniți direct la deschidere pentru a fotografia castelul în liniște.",
+          "Un picnic pe malul râului oferă o vedere de vis asupra castelului.",
+          "Ghidurile audio oferă detalii fascinante despre 'Doamnele de la Chenonceau'."
+        ],
+        "en": [
+          "Book your tickets online in advance to avoid queues at the gate.",
+          "Arrive right at opening time to photograph the castle in peace.",
+          "A picnic by the riverbank offers a dreamlike view of the water castle.",
+          "The audio guides provide exciting details about the 'Ladies of Chenonceau'."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Chenonceau",
+            "hu": "Chenonceau-i kastély",
+            "ro": "Castelul Chenonceau",
+            "en": "Château de Chenonceau"
+          },
+          "coords": [
+            1.0703,
+            47.3248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrräder müssen am Eingang geparkt werden.",
+            "hu": "A kerékpárokat a bejáratnál kell hagyni.",
+            "ro": "Bicicletele trebuie lăsate la intrare.",
+            "en": "Bicycles must be parked at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie der Wagen",
+            "hu": "Fogatok galériája",
+            "ro": "Galeria Atelajelor",
+            "en": "Galerie des Attelages"
+          },
+          "coords": [
+            1.0678,
+            47.327
+          ],
+          "category": "museums",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sammlung historischer Kutschen.",
+            "hu": "Történelmi hintók gyűjteménye.",
+            "ro": "Colecție de trăsuri istorice.",
+            "en": "Collection of historical carriages."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Amboise (Radweg)",
+            "hu": "Amboise-i erdő (kerékpárút)",
+            "ro": "Pădurea Amboise (pistă de biciclete)",
+            "en": "Amboise Forest (Bike path)"
+          },
+          "coords": [
+            1.045,
+            47.35
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ruhiger Weg durch den königlichen Forst.",
+            "hu": "Csendes út a királyi erdőn keresztül.",
+            "ro": "Traseu liniștit prin pădurea regală.",
+            "en": "Quiet path through the royal forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer des Cher (Civray)",
+            "hu": "Cher-part (Civray)",
+            "ro": "Malul râului Cher (Civray)",
+            "en": "Cher Riverbank (Civray)"
+          },
+          "coords": [
+            1.015,
+            47.332
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Blick auf das ferne Chenonceau.",
+            "hu": "Kilátás a távoli Chenonceau-ra.",
+            "ro": "Vedere spre Chenonceau din depărtare.",
+            "en": "View of Chenonceau from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Apothicairerie",
+            "hu": "Patikamúzeum",
+            "ro": "Spițeria",
+            "en": "L'Apothicairerie"
+          },
+          "coords": [
+            1.068,
+            47.3265
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine der seltenen Schlossapotheken.",
+            "hu": "Az egyik ritka kastélypatika.",
+            "ro": "Una dintre rarele farmacii de castel.",
+            "en": "One of the rare castle pharmacies."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Château",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Parc du Château"
+          },
+          "coords": [
+            1.072,
+            47.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzte Runde vor der Rückgabe der Räder.",
+            "hu": "Utolsó kör a biciklik leadása előtt.",
+            "ro": "Ultima tură înainte de a returna bicicletele.",
+            "en": "Last loop before returning the bikes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Chenonceau und seine Umgebung auf zwei Rädern. Nach der Schlossbesichtigung führt Sie der Weg durch den kühlen Wald von Amboise und am glitzernden Cher entlang. Genießen Sie die Freiheit, auch die weniger besuchten Ecken der Region zu entdecken.",
+        "hu": "Fedezze fel Chenonceau-t és környékét két keréken. A kastélylátogatás után az út az Amboise-i erdő hűs fái közé és a csillogó Cher folyó partjára vezet. Élvezze a szabadságot, és fedezze fel a régió kevésbé látogatott szegleteit is.",
+        "ro": "Explorați Chenonceau și împrejurimile sale pe două roți. După vizitarea castelului, drumul vă poartă prin pădurea răcoroasă Amboise și de-a lungul râului Cher. Bucurați-vă de libertatea de a descoperi și colțurile mai puțin vizitate ale regiunii.",
+        "en": "Explore Chenonceau and its surroundings on two wheels. After visiting the castle, the path leads through the cool Amboise forest and along the sparkling Cher river. Enjoy the freedom to discover the less-visited corners of the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Schnelle Stärkung für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Gyors feltöltődés bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Gustare rapidă pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Quick fuel for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cher-Ufer Civray",
+            "tip": "Stille am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cher-part, Civray",
+            "tip": "Csend a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Cher, Civray",
+            "tip": "Liniște lângă apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cher Bank Civray",
+            "tip": "Quiet by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché local",
+            "tip": "Hiesiges Obst für den Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe locale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Local fruit for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den Weg 'La Loire à Vélo'.",
+          "Die Wege im Park sind größtenteils flach."
+        ],
+        "hu": [
+          "Használja a 'La Loire à Vélo' útvonalat.",
+          "A park útjai többnyire síkak."
+        ],
+        "ro": [
+          "Folosiți traseul 'La Loire à Vélo'.",
+          "Potecile din parc sunt în mare parte plate."
+        ],
+        "en": [
+          "Use the 'La Loire à Vélo' route.",
+          "The paths in the park are mostly flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Chenonceau",
+            "hu": "Chenonceau-i kastély",
+            "ro": "Castelul Chenonceau",
+            "en": "Château de Chenonceau"
+          },
+          "coords": [
+            1.0703,
+            47.3248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor dem Eingang.",
+            "hu": "Tágas parkoló a bejárat előtt.",
+            "ro": "Parcare mare în fața intrării.",
+            "en": "Large parking lot in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Amboise - Clos Lucé",
+            "hu": "Amboise - Clos Lucé",
+            "ro": "Amboise - Clos Lucé",
+            "en": "Amboise - Clos Lucé"
+          },
+          "coords": [
+            0.9915,
+            47.4105
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Leonardo da Vincis letzte Residenz.",
+            "hu": "Leonardo da Vinci utolsó lakhelye.",
+            "ro": "Ultima reședință a lui Leonardo da Vinci.",
+            "en": "Leonardo da Vinci's last residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Pagode von Chanteloup",
+            "hu": "Chanteloup-pagoda",
+            "ro": "Pagoda Chanteloup",
+            "en": "Pagoda of Chanteloup"
+          },
+          "coords": [
+            0.97,
+            47.395
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Einzigartige Pagode im Wald.",
+            "hu": "Egyedülálló pagoda az erdőben.",
+            "ro": "O pagodă unică în pădure.",
+            "en": "Unique pagoda in the forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinberge von Touraine",
+            "hu": "Touraine-i szőlőültetvények",
+            "ro": "Podgoriile din Touraine",
+            "en": "Touraine Vineyards"
+          },
+          "coords": [
+            1.12,
+            47.34
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Besuch eines lokalen Weinguts.",
+            "hu": "Látogatás egy helyi borászatnál.",
+            "ro": "Vizită la o cramă locală.",
+            "en": "Visit to a local winery."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Labyrinthe",
+            "hu": "A Labirintus",
+            "ro": "Labirintul",
+            "en": "The Labyrinth"
+          },
+          "coords": [
+            1.0685,
+            47.3275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang im Grünen.",
+            "hu": "Pihentető lezárás a zöldben.",
+            "ro": "Final relaxant în natură.",
+            "en": "Relaxing end in the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das prachtvolle Chenonceau mit dem Erbe Leonardo da Vincis in Amboise. Ein Abstecher zur Pagode von Chanteloup und eine Weinverkostung runden das Erlebnis im Herzen Frankreichs ab.",
+        "hu": "Autóval összekötheti a pompás Chenonceau-t Leonardo da Vinci örökségével Amboise-ban. Egy kitérő a Chanteloup-pagodához és egy borkóstoló teszi teljessé az élményt Franciaország szívében.",
+        "ro": "Cu mașina, puteți combina splendoarea de la Chenonceau cu moștenirea lui Leonardo da Vinci din Amboise. O vizită la Pagoda Chanteloup și o degustare de vinuri completează experiența în inima Franței.",
+        "en": "By car, you can combine the magnificent Chenonceau with Leonardo da Vinci's heritage in Amboise. A detour to the Chanteloup Pagoda and a wine tasting round off the experience in the heart of France."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de la Treille",
+            "tip": "Traditionelle Küche der Touraine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de la Treille",
+            "tip": "Hagyományos touraine-i konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de la Treille",
+            "tip": "Bucătărie tradițională din Touraine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de la Treille",
+            "tip": "Traditional Touraine cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pagodengarten",
+            "tip": "Stille unter alten Bäumen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pagoda kertje",
+            "tip": "Csend az öreg fák alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Pagodei",
+            "tip": "Liniște sub copaci centenari.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pagoda Garden",
+            "tip": "Quiet under old trees.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vins de Loire",
+            "tip": "Weinkeller in Amboise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loire-i borok",
+            "tip": "Borospincék Amboise-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vins de Loire",
+            "tip": "Crame în Amboise."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vins de Loire",
+            "tip": "Wine cellars in Amboise."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Chenonceaux ist meist kostenfrei.",
+          "Planen Sie Zeit für die Landstraßen ein."
+        ],
+        "hu": [
+          "Chenonceaux-ban a parkolás többnyire ingyenes.",
+          "Szánjon időt az alsóbbrendű utakra."
+        ],
+        "ro": [
+          "Parcarea în Chenonceaux este de obicei gratuită.",
+          "Alocați timp pentru drumurile secundare."
+        ],
+        "en": [
+          "Parking in Chenonceaux is mostly free.",
+          "Allow time for the secondary roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Chenonceaux",
+            "hu": "Chenonceaux vasútállomás",
+            "ro": "Gara Chenonceaux",
+            "en": "Chenonceaux Station"
+          },
+          "coords": [
+            1.0685,
+            47.3335
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur 400 Meter bis zum Schlosseingang.",
+            "hu": "Csak 400 méter a kastély bejárata.",
+            "ro": "Doar 400 de metri până la intrarea în castel.",
+            "en": "Only 400 meters to the castle entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chenonceau",
+            "hu": "Chenonceau-i kastély",
+            "ro": "Castelul Chenonceau",
+            "en": "Château de Chenonceau"
+          },
+          "coords": [
+            1.0703,
+            47.3248
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideale Anreise mit dem TER von Tours.",
+            "hu": "Ideális megközelítés a Tours-ból induló TER vonattal.",
+            "ro": "Acces ideal cu trenul TER din Tours.",
+            "en": "Ideal access with the TER train from Tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten von Catherine de Médicis",
+            "hu": "Catherine de Médicis kertje",
+            "ro": "Grădina Catherinei de Médicis",
+            "en": "Garden of Catherine de Médicis"
+          },
+          "coords": [
+            1.0695,
+            47.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wunderschöner Blick auf den Cher.",
+            "hu": "Gyönyörű kilátás a Cher folyóra.",
+            "ro": "Vedere superbă spre râul Cher.",
+            "en": "Beautiful view of the river Cher."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme du XVIe siècle",
+            "hu": "16. századi majorság",
+            "ro": "Ferma din secolul al XVI-lea",
+            "en": "16th-century Farm"
+          },
+          "coords": [
+            1.0678,
+            47.327
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie auch das Kutschenmuseum.",
+            "hu": "Látogassa meg a hintómúzeumot is.",
+            "ro": "Vizitați și muzeul trăsurilor.",
+            "en": "Visit the carriage museum too."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Château",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Parc du Château"
+          },
+          "coords": [
+            1.072,
+            47.328
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille vor der Rückfahrt.",
+            "hu": "Élvezze a csendet a visszaindulás előtt.",
+            "ro": "Bucurați-vă de liniște înainte de plecare.",
+            "en": "Enjoy the quiet before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie bequem mit dem Zug direkt vor die Tore von Chenonceau. Vom Bahnhof ist es nur ein kurzer Spaziergang zum 'Schloss der Damen'. Verbringen Sie den Tag in den Gärten und auf dem historischen Bauernhof, bevor Sie entspannt wieder die Heimreise antreten.",
+        "hu": "Utazzon kényelmesen vonattal közvetlenül Chenonceau kapujáig. Az állomástól rövid séta vezet a 'Hölgyek kastélyához'. Töltse a napot a kertekben és a történelmi majorságban, majd utazzon haza pihentetően.",
+        "ro": "Călătoriți confortabil cu trenul direct la porțile castelului Chenonceau. De la gară este doar o scurtă plimbare până la 'Castelul Doamnelor'. Petreceți ziua în grădini și la ferma istorică înainte de a pleca relaxat spre casă.",
+        "en": "Travel comfortably by train right to the gates of Chenonceau. From the station, it is just a short walk to the 'Ladies' Castle'. Spend the day in the gardens and at the historic farm before a relaxing journey home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hostellerie de la Renaissance",
+            "tip": "Nahe dem Bahnhof für ein Mittagessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hostellerie de la Renaissance",
+            "tip": "Az állomás közelében, ebédhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hostellerie de la Renaissance",
+            "tip": "Aproape de gară pentru prânz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hostellerie de la Renaissance",
+            "tip": "Near the station for lunch."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterer Schlosspark",
+            "tip": "Abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátsó kastélypark",
+            "tip": "Távol a tömegtől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Spatele parcului",
+            "tip": "Departe de mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Back of the park",
+            "tip": "Away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Relais de Chenonceaux",
+            "tip": "Lokale Delikatessen im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Relais de Chenonceaux",
+            "tip": "Helyi finomságok a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Relais de Chenonceaux",
+            "tip": "Delicii locale în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Relais de Chenonceaux",
+            "tip": "Local delicacies in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Zugabfahrten nach Tours oder Bourges.",
+          "Die Wege sind barrierefrei."
+        ],
+        "hu": [
+          "Ellenőrizze a vonatokat Tours vagy Bourges felé.",
+          "Az útvonal akadálymentesített."
+        ],
+        "ro": [
+          "Verificați orarul trenurilor spre Tours sau Bourges.",
+          "Traseele sunt accesibile."
+        ],
+        "en": [
+          "Check train departures to Tours or Bourges.",
+          "The paths are accessible."
+        ]
+      }
+    }
+  }
+}

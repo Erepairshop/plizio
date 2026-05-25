@@ -1,0 +1,904 @@
+{
+  "city_id": "hossegor",
+  "anchor": {
+    "name": "Hossegor",
+    "coords": [
+      -1.4308,
+      43.6647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Les Halles d'Hossegor",
+          "coords": [
+            -1.432,
+            43.6635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frisches Frühstück mit Austern direkt vom Markt.",
+            "hu": "Friss reggeli osztrigával közvetlenül a piacról.",
+            "ro": "Micul dejun proaspăt cu stridii direct din piață.",
+            "en": "Fresh breakfast with oysters directly from the market."
+          }
+        },
+        {
+          "name": "Sporting Casino",
+          "coords": [
+            -1.43,
+            43.6655
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wunderschöne baskisch-landesische Architektur.",
+            "hu": "Gyönyörű baszk-landesi építészet.",
+            "ro": "Frumoasă arhitectură basco-landeză.",
+            "en": "Beautiful Basque-Landes architecture."
+          }
+        },
+        {
+          "name": "Lac d'Hossegor",
+          "coords": [
+            -1.435,
+            43.672
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gezeitenabhängiger See, ideal zum Schwimmen ohne Wellen.",
+            "hu": "Árapályfüggő tó, ideális úszáshoz hullámok nélkül.",
+            "ro": "Lac dependent de maree, ideal pentru înot fără valuri.",
+            "en": "Tidal lake, ideal for swimming without waves."
+          }
+        },
+        {
+          "name": "Place des Landais",
+          "coords": [
+            -1.442,
+            43.665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das pulsierende Herz am Ozeanufer.",
+            "hu": "A lüktető szív az óceánparton.",
+            "ro": "Inima vibrantă de pe malul oceanului.",
+            "en": "The pulsing heart on the oceanfront."
+          }
+        },
+        {
+          "name": "Plage Centrale",
+          "coords": [
+            -1.443,
+            43.664
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Surfer bei der Arbeit.",
+            "hu": "Figyelje a szörfösöket munka közben.",
+            "ro": "Urmăriți surferii la treabă.",
+            "en": "Watch the surfers at work."
+          }
+        },
+        {
+          "name": "Promenade du Canal",
+          "coords": [
+            -1.435,
+            43.662
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blick auf den Verbindungskanal zum Hafen.",
+            "hu": "Kilátás a kikötőbe vezető csatornára.",
+            "ro": "Vedere asupra canalului de legătură cu portul.",
+            "en": "View of the connecting canal to the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag in den Markthallen, um lokale Delikatessen zu probieren. Danach bewundern Sie das Sporting Casino, ein architektonisches Juwel im regionalen Stil.\n\nMittags ist der perfekte Zeitpunkt für eine Umrundung des Sees von Hossegor, wo Pinienwälder auf das Wasser treffen.\n\nAm Nachmittag zieht es Sie an den Ozean zur Place des Landais, wo Sie das bunte Treiben und die beeindruckenden Wellen genießen können.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang entlang des Kanals, während die Sonne langsam hinter den Dünen verschwindet.",
+        "hu": "Kezdje a napot a piaccsarnokban, hogy megkóstolja a helyi finomságokat. Ezután csodálja meg a Sporting Casinót, amely a regionális stílus építészeti ékköve.\n\nDélben tökéletes az idő a hossegori tó körüli sétához, ahol a fenyőerdők találkoznak a vízzel.\n\nDélután az óceán felé veszi az irányt a Place des Landais-ra, ahol élvezheti a színes forgatagot és a lenyűgöző hullámokat.\n\nZárja a napot egy pihentető sétával a csatorna mentén, miközben a nap lassan eltűnik a dűnék mögött.",
+        "ro": "Începeți ziua la halele pieței pentru a gusta delicatese locale. Apoi admirați Sporting Casino, o bijuterie arhitecturală în stil regional.\n\nLa prânz este momentul perfect pentru o plimbare în jurul lacului Hossegor, unde pădurile de pini întâlnesc apa.\n\nDupă-amiaza vă îndreptați spre ocean la Place des Landais, unde vă puteți bucura de agitația colorată și de valurile impresionante.\n\nÎncheiați ziua cu o plimbare relaxantă de-a lungul canalului, în timp ce soarele dispare încet în spatele dunelor.",
+        "en": "Start your day in the market halls to taste local delicacies. Then admire the Sporting Casino, an architectural gem in regional style.\n\nAt noon, it's the perfect time for a walk around the Hossegor lake, where pine forests meet the water.\n\nIn the afternoon, head towards the ocean to Place des Landais, where you can enjoy the colorful bustle and impressive waves.\n\nEnd the day with a relaxed stroll along the canal as the sun slowly disappears behind the dunes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Jérôme",
+            "tip": "Beste Austern direkt am Seeufer."
+          },
+          {
+            "name": "Tante Jeanne",
+            "tip": "Berühmtes Eis und hausgemachte Gebäckstücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Jérôme",
+            "tip": "A legjobb osztriga közvetlenül a tóparton."
+          },
+          {
+            "name": "Tante Jeanne",
+            "tip": "Híres fagylalt és házi sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Jérôme",
+            "tip": "Cele mai bune stridii chiar pe malul lacului."
+          },
+          {
+            "name": "Tante Jeanne",
+            "tip": "Înghețată celebră și produse de patiserie de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Jérôme",
+            "tip": "Best oysters directly on the lakeshore."
+          },
+          {
+            "name": "Tante Jeanne",
+            "tip": "Famous ice cream and homemade pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage Blanche",
+            "tip": "Eine ruhige Bucht am See für Entspannung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forêt d'Hossegor",
+            "tip": "Tiefe Pinienwälder mit Vogelgezwitscher.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage Blanche",
+            "tip": "Egy csendes öböl a tónál a pihenéshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forêt d'Hossegor",
+            "tip": "Mély fenyőerdők madárcsicsergéssel.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage Blanche",
+            "tip": "Un golf liniștit pe lac pentru relaxare.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forêt d'Hossegor",
+            "tip": "Păduri adânci de pini cu cântec de păsări.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage Blanche",
+            "tip": "A quiet cove on the lake for relaxation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Forêt d'Hossegor",
+            "tip": "Deep pine forests with birdsong.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Billabong & Quiksilver Outlets",
+            "tip": "Surfermode zu reduzierten Preisen im Industriegebiet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Billabong & Quiksilver Outlets",
+            "tip": "Szörfös divat kedvezményes áron az ipari negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Billabong & Quiksilver Outlets",
+            "tip": "Modă de surferi la prețuri reduse în zona industrială."
+          }
+        ],
+        "en": [
+          {
+            "name": "Billabong & Quiksilver Outlets",
+            "tip": "Surfer fashion at discounted prices in the industrial area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hossegor ist im Sommer sehr belebt, kommen Sie früh zum Markt.",
+          "Die Strömungen am Ozean können sehr stark sein, nur in bewachten Zonen baden.",
+          "Mieten Sie ein Stand-Up-Paddle auf dem See.",
+          "Parken ist im Zentrum oft kostenpflichtig."
+        ],
+        "hu": [
+          "Hossegor nyáron nagyon zsúfolt, érkezzen korán a piacra.",
+          "Az óceáni áramlatok nagyon erősek lehetnek, csak őrzött helyen fürödjön.",
+          "Béreljen Stand-Up-Paddle-t a tavon.",
+          "A központban a parkolás gyakran fizetős."
+        ],
+        "ro": [
+          "Hossegor este foarte aglomerat vara, veniți devreme la piață.",
+          "Curenții oceanici pot fi foarte puternici, scăldați-vă doar în zonele supravegheate.",
+          "Închiriați un Stand-Up-Paddle pe lac.",
+          "Parcarea în centru este adesea cu plată."
+        ],
+        "en": [
+          "Hossegor is very busy in summer, arrive early at the market.",
+          "Ocean currents can be very strong, swim only in guarded zones.",
+          "Rent a Stand-Up-Paddle on the lake.",
+          "Parking in the center is often paid."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Lake Circuit",
+          "coords": [
+            -1.435,
+            43.672
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "7 km flache Strecke rund um den See.",
+            "hu": "7 km sík szakasz a tó körül.",
+            "ro": "7 km de traseu plat în jurul lacului.",
+            "en": "7 km of flat track around the lake."
+          }
+        },
+        {
+          "name": "Plage de la Gravière",
+          "coords": [
+            -1.444,
+            43.668
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Berühmt für Weltklasse-Surfen.",
+            "hu": "Világszínvonalú szörfözéséről híres.",
+            "ro": "Faimoasă pentru surfing de talie mondială.",
+            "en": "Famous for world-class surfing."
+          }
+        },
+        {
+          "name": "Capbreton Harbour",
+          "coords": [
+            -1.442,
+            43.655
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Brücke in die Nachbarstadt.",
+            "hu": "Menjen át a hídon a szomszédos városba.",
+            "ro": "Traversați podul către orașul vecin.",
+            "en": "Cross the bridge into the neighboring town."
+          }
+        },
+        {
+          "name": "Estacade de Capbreton",
+          "coords": [
+            -1.45,
+            43.654
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die hölzerne Seebrücke von Napoleon III.",
+            "hu": "III. Napóleon fa tengeri mólója.",
+            "ro": "Mollul de lemn construit de Napoleon al III-lea.",
+            "en": "The wooden pier built by Napoleon III."
+          }
+        },
+        {
+          "name": "Promenade du Canal",
+          "coords": [
+            -1.435,
+            43.662
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Entspannter Rückweg nach Hossegor.",
+            "hu": "Pihentető visszaút Hossegorba.",
+            "ro": "Drum de întoarcere relaxat spre Hossegor.",
+            "en": "Relaxed way back to Hossegor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Radtour rund um den See, um die frische Morgenluft unter den Pinien zu genießen. Danach geht es zum Strand von Gravière, wo die Profi-Surfer trainieren.\n\nMittags radeln Sie über den Kanal nach Capbreton, die einzige Hafenstadt in den Landes.\n\nNachmittags besichtigen Sie die Estacade, die ikonische Holzbrücke, die den Hafen schützt, und genießen den Blick auf den offenen Ozean.\n\nDer Rückweg führt Sie am Kanal entlang, wo Sie die einfahrenden Fischerboote beobachten können.",
+        "hu": "Kezdje a napot egy kerékpártúrával a tó körül, élvezve a friss reggeli levegőt a fenyők alatt. Ezután irány a Gravière strand, ahol a profi szörfösök edzenek.\n\nDélben biciklizzen át a csatornán Capbretonba, Landes egyetlen kikötővárosába.\n\nDélután látogassa meg az Estacade-ot, az ikonikus fahidat, amely a kikötőt védi, és élvezze a kilátást a nyílt óceánra.\n\nA visszaút a csatorna mentén vezet, ahol megfigyelheti a befutó halászhajókat.",
+        "ro": "Începeți cu o plimbare cu bicicleta în jurul lacului pentru a vă bucura de aerul proaspăt de dimineață sub pini. Apoi mergeți spre plaja Gravière, unde se antrenează surferii profesioniști.\n\nLa prânz, pedalați peste canal spre Capbreton, singurul oraș-port din Landes.\n\nDupă-amiaza, vizitați Estacade, podul de lemn iconic care protejează portul, și bucurați-vă de vederea spre oceanul deschis.\n\nDrumul de întoarcere vă duce de-a lungul canalului, unde puteți observa bărcile de pescuit care intră în port.",
+        "en": "Start with a bike ride around the lake to enjoy the fresh morning air under the pines. Then head to Gravière beach, where pro surfers train.\n\nAt noon, cycle across the canal to Capbreton, the only port city in the Landes.\n\nIn the afternoon, visit the Estacade, the iconic wooden pier protecting the harbor, and enjoy the view of the open ocean.\n\nThe ride back takes you along the canal, where you can watch the returning fishing boats."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Poisson à Voile",
+            "tip": "Fangfrischer Fisch direkt im Hafen von Capbreton."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Poisson à Voile",
+            "tip": "Frissen fogott hal közvetlenül a capbretoni kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Poisson à Voile",
+            "tip": "Pește proaspăt pescuit chiar în portul Capbreton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Poisson à Voile",
+            "tip": "Freshly caught fish right in the Capbreton harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage des Océanides",
+            "tip": "Wilder und ruhiger als die zentralen Strände.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage des Océanides",
+            "tip": "Vadabb és csendesebb, mint a központi strandok.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage des Océanides",
+            "tip": "Mai sălbatică și liniștită decât plajele centrale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage des Océanides",
+            "tip": "Wilder and quieter than the central beaches.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Poissonnerie Municipale",
+            "tip": "Direktverkauf der Fischer im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poissonnerie Municipale",
+            "tip": "A halászok közvetlen értékesítése a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poissonnerie Municipale",
+            "tip": "Vânzare directă a pescarilor în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Poissonnerie Municipale",
+            "tip": "Direct sales by fishermen in the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele sichere Radwege (Vélodyssée).",
+          "Ein Fahrradschloss ist in der Hochsaison unverzichtbar.",
+          "Der Weg um den See ist am Wochenende sehr voll mit Fußgängern.",
+          "Fahren Sie bei Sonnenuntergang zum Hafen."
+        ],
+        "hu": [
+          "Sok biztonságos kerékpárút van (Vélodyssée).",
+          "A kerékpárzár elengedhetetlen a főszezonban.",
+          "A tó körüli út hétvégén nagyon tele van gyalogosokkal.",
+          "Tekerjen ki a kikötőbe naplementekor."
+        ],
+        "ro": [
+          "Există multe piste de biciclete sigure (Vélodyssée).",
+          "Un lacăt pentru bicicletă este indispensabil în plin sezon.",
+          "Traseul din jurul lacului este foarte aglomerat de pietoni în weekend.",
+          "Mergeți spre port la apus."
+        ],
+        "en": [
+          "There are many safe bike paths (Vélodyssée).",
+          "A bike lock is essential in high season.",
+          "The lake path is very crowded with pedestrians on weekends.",
+          "Cycle to the harbor at sunset."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hossegor Center",
+          "coords": [
+            -1.4308,
+            43.6647
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie beim Casino für den Start.",
+            "hu": "Parkoljon a kaszinónál a kezdéshez.",
+            "ro": "Parcați la cazino pentru start.",
+            "en": "Park at the casino to start."
+          }
+        },
+        {
+          "name": "Étang Noir (Seignosse)",
+          "coords": [
+            -1.37,
+            43.69
+          ],
+          "category": "natural features",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein geschütztes Sumpfgebiet mit Holzstegen.",
+            "hu": "Védett mocsárvidék fapallós ösvényekkel.",
+            "ro": "O zonă mlăștinoasă protejată cu pontoane de lemn.",
+            "en": "A protected marshland with wooden walkways."
+          }
+        },
+        {
+          "name": "Plage des Casernes",
+          "coords": [
+            -1.42,
+            43.71
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Einer der natürlichsten Strände der Region.",
+            "hu": "A régió egyik legtermészetesebb strandja.",
+            "ro": "Una dintre cele mai naturale plaje din regiune.",
+            "en": "One of the most natural beaches in the region."
+          }
+        },
+        {
+          "name": "Seignosse Le Penon",
+          "coords": [
+            -1.435,
+            43.695
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Großer Wasserpark und Shopping-Möglichkeiten.",
+            "hu": "Nagy vízipark és vásárlási lehetőségek.",
+            "ro": "Parc acvatic mare și posibilități de cumpărături.",
+            "en": "Large water park and shopping opportunities."
+          }
+        },
+        {
+          "name": "Lac d'Hossegor",
+          "coords": [
+            -1.435,
+            43.672
+          ],
+          "category": "natural features",
+          "arrive_at": "17:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Letzter Blick auf den See im Abendlicht.",
+            "hu": "Utolsó pillantás a tóra az esti fényben.",
+            "ro": "Ultima vedere a lacului în lumina serii.",
+            "en": "Last look at the lake in the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Zentrum von Hossegor und fahren Sie dann nach Norden zum Étang Noir in Seignosse, einem mystischen Naturschutzgebiet.\n\nMittags entspannen Sie am wilden Strand von Casernes, weit weg von den belebten Stadtstränden.\n\nAm Nachmittag besuchen Sie den Badeort Le Penon für ein kühles Getränk oder einen kurzen Einkaufsbummel.\n\nKehren Sie pünktlich zum Sonnenuntergang zum See von Hossegor zurück, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdje Hossegor központjában, majd autózzon északra a seignosse-i Étang Noir-hoz, amely egy misztikus természetvédelmi terület.\n\nDélben pihenjen a Casernes vadregényes strandján, távol a zsúfolt városi strandoktól.\n\nDélután látogassa meg Le Penon üdülőhelyet egy hűsítő italra vagy egy rövid vásárlásra.\n\nTérjen vissza a hossegori tóhoz pont naplementére, hogy a napot békésen zárja.",
+        "ro": "Începeți în centrul orașului Hossegor și apoi conduceți spre nord către Étang Noir în Seignosse, o rezervație naturală mistică.\n\nLa prânz, relaxați-vă pe plaja sălbatică Casernes, departe de plajele aglomerate ale orașului.\n\nDupă-amiaza vizitați stațiunea Le Penon pentru o băutură răcoritoare sau o scurtă sesiune de cumpărături.\n\nÎntoarceți-vă la lacul Hossegor exact la apus pentru a încheia ziua relaxat.",
+        "en": "Start in the center of Hossegor and then drive north to Étang Noir in Seignosse, a mystical nature reserve.\n\nAt noon, relax on the wild Casernes beach, far from the busy city beaches.\n\nIn the afternoon, visit the seaside resort of Le Penon for a cool drink or a quick shopping trip.\n\nReturn to the Hossegor lake just in time for sunset to end the day peacefully."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Acaï Station",
+            "tip": "Gesunde Bowls perfekt für den Strandtag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Acaï Station",
+            "tip": "Egészséges tálak tökéletesek a strandnaphoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Acaï Station",
+            "tip": "Boluri sănătoase perfecte pentru o zi la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Acaï Station",
+            "tip": "Healthy bowls perfect for the beach day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Étang Noir Boardwalk",
+            "tip": "Völlige Stille inmitten der Natur.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étang Noir pallóút",
+            "tip": "Teljes csend a természet lágy ölén.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puntea Étang Noir",
+            "tip": "Liniște deplină în mijlocul naturii.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Étang Noir Boardwalk",
+            "tip": "Complete silence in the heart of nature.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Soorts-Hossegor Zone",
+            "tip": "Riesige Auswahl an Outlet-Stores."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soorts-Hossegor zóna",
+            "tip": "Hatalmas választék az outlet üzletekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona Soorts-Hossegor",
+            "tip": "O selecție uriașă de magazine outlet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soorts-Hossegor Zone",
+            "tip": "Huge selection of outlet stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Auto ist ideal, um die unberührten Strände im Norden zu erreichen.",
+          "Die Parkgebühren am Strand können hoch sein.",
+          "Achten Sie auf Wildtiere beim Étang Noir.",
+          "Vermeiden Sie die Hauptverkehrsstraßen am späten Samstagnachmittag."
+        ],
+        "hu": [
+          "Az autó ideális az északi, érintetlen strandok eléréséhez.",
+          "A strandoknál a parkolási díjak magasak lehetnek.",
+          "Figyeljen a vadon élő állatokra az Étang Noir-nál.",
+          "Kerülje a főutakat szombat késő délután."
+        ],
+        "ro": [
+          "O mașină este ideală pentru a ajunge la plajele virgine din nord.",
+          "Taxele de parcare la plajă pot fi mari.",
+          "Fiți atenți la animalele sălbatice la Étang Noir.",
+          "Evitați drumurile principale sâmbătă târziu după-amiaza."
+        ],
+        "en": [
+          "A car is ideal for reaching the untouched beaches in the north.",
+          "Parking fees at the beach can be high.",
+          "Watch out for wildlife at Étang Noir.",
+          "Avoid main roads on late Saturday afternoons."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Office de Tourisme",
+          "coords": [
+            -1.43,
+            43.665
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich den Fahrplan der Yego-Shuttles.",
+            "hu": "Kérje el a Yego ingajáratok menetrendjét.",
+            "ro": "Luați mersul autobuzelor Yego.",
+            "en": "Get the Yego shuttle timetable."
+          }
+        },
+        {
+          "name": "Port de Capbreton",
+          "coords": [
+            -1.44,
+            43.658
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt zum lebhaften Hafen.",
+            "hu": "Rövid buszút a nyüzsgő kikötőbe.",
+            "ro": "Călătorie scurtă cu autobuzul până la portul plin de viață.",
+            "en": "Short bus ride to the lively harbor."
+          }
+        },
+        {
+          "name": "Plage de la Savane",
+          "coords": [
+            -1.438,
+            43.678
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Bequem erreichbar mit der Sommerlinie.",
+            "hu": "Kényelmesen elérhető a nyári járattal.",
+            "ro": "Accesibil convenabil cu linia de vară.",
+            "en": "Conveniently accessible with the summer line."
+          }
+        },
+        {
+          "name": "Hossegor Mairie",
+          "coords": [
+            -1.4308,
+            43.6647
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle für alle Richtungen.",
+            "hu": "Központi megálló minden irányba.",
+            "ro": "Stație centrală pentru toate direcțiile.",
+            "en": "Central stop for all directions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Yego-Bus, um bequem zwischen Hossegor und Capbreton zu pendeln. Beginnen Sie im Zentrum mit einem Frühstück in der Nähe der Touristeninformation.\n\nMittags erkunden Sie den Hafen von Capbreton, den Fischmarkt und die Uferpromenaden, ohne sich um Parkplätze sorgen zu müssen.\n\nAm Nachmittag bringt Sie der Bus zu den nördlichen Stränden von Hossegor, wo Sie den Ozean in seiner ganzen Pracht genießen können.\n\nDer Tag endet wieder im Zentrum von Hossegor, wo Sie noch Zeit für einen Bummel durch die Boutiquen haben.",
+        "hu": "Használja a Yego buszt a Hossegor és Capbreton közötti kényelmes utazáshoz. Kezdje a központban egy reggelivel a turisztikai iroda közelében.\n\nDélben fedezze fel a capbretoni kikötőt, a halpiacot és a parti sétányokat, anélkül, hogy a parkolás miatt aggódna.\n\nDélután a busz Hossegor északi strandjaira viszi, ahol teljes pompájában élvezheti az óceánt.\n\nA nap ismét Hossegor központjában ér véget, ahol marad idő a butikok közötti barangolásra.",
+        "ro": "Folosiți autobuzul Yego pentru a face naveta confortabil între Hossegor și Capbreton. Începeți în centru cu un mic dejun lângă biroul de turism.\n\nLa prânz, explorați portul Capbreton, piața de pește și faleza, fără să vă faceți griji pentru parcare.\n\nDupă-amiaza, autobuzul vă duce la plajele de nord din Hossegor, unde vă puteți bucura de ocean în toată splendoarea sa.\n\nZiua se termină din nou în centrul orașului Hossegor, unde mai aveți timp pentru o plimbare prin buticuri.",
+        "en": "Use the Yego bus to commute comfortably between Hossegor and Capbreton. Start in the center with breakfast near the tourist office.\n\nAt noon, explore the Capbreton harbor, the fish market, and the waterfront promenades without worrying about parking.\n\nIn the afternoon, the bus takes you to the northern beaches of Hossegor, where you can enjoy the ocean in all its glory.\n\nThe day ends back in the center of Hossegor, where there's still time for a stroll through the boutiques."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Napoli",
+            "tip": "Gute Pizzen direkt an der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Napoli",
+            "tip": "Jó pizzák közvetlenül a buszmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Napoli",
+            "tip": "Pizza bună chiar lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Napoli",
+            "tip": "Good pizzas right at the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "Ein kleiner Park mitten im Zentrum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "Egy kis park a központ közepén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "Un mic parc chiar în mijlocul centrului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de la Mairie",
+            "tip": "A small park right in the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Concept Stores Hossegor",
+            "tip": "Trendige lokale Marken im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Concept Stores Hossegor",
+            "tip": "Trendi helyi márkák a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Concept Stores Hossegor",
+            "tip": "Branduri locale la modă în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Concept Stores Hossegor",
+            "tip": "Trendy local brands in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Yego-Busse sind im Sommer oft kostenlos (Shuttles).",
+          "Laden Sie die App für Echtzeit-Infos herunter.",
+          "Die Busse können bei starkem Verkehr Verspätung haben.",
+          "Die Haltestellen sind gut markiert."
+        ],
+        "hu": [
+          "A Yego buszok nyáron gyakran ingyenesek (ingajáratok).",
+          "Töltse le az alkalmazást a valós idejű infókért.",
+          "A buszok erős forgalom esetén késhetnek.",
+          "A megállók jól láthatóan jelzettek."
+        ],
+        "ro": [
+          "Autobuzele Yego sunt adesea gratuite vara (shuttle).",
+          "Descărcați aplicația pentru informații în timp real.",
+          "Autobuzele pot avea întârzieri în caz de trafic intens.",
+          "Stațiile sunt bine marcate."
+        ],
+        "en": [
+          "Yego buses are often free in summer (shuttles).",
+          "Download the app for real-time info.",
+          "Buses can be delayed in heavy traffic.",
+          "The stops are well marked."
+        ]
+      }
+    }
+  }
+}

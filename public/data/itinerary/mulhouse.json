@@ -1,0 +1,990 @@
+{
+  "city_id": "mulhouse",
+  "anchor": {
+    "name": "Place de la Réunion",
+    "coords": [
+      7.3386,
+      47.7494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de la Réunion",
+          "coords": [
+            7.3386,
+            47.7494
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Rathaus im Renaissancestil.",
+            "hu": "Csodáld meg a reneszánsz stílusú városházát.",
+            "ro": "Admirați primăria în stil renascentist.",
+            "en": "Admire the Renaissance-style Town Hall."
+          }
+        },
+        {
+          "name": "Temple Saint-Étienne",
+          "coords": [
+            7.3389,
+            47.7497
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Glasfenster aus dem 14. Jahrhundert sind spektakulär.",
+            "hu": "A 14. századi üvegablakok látványosak.",
+            "ro": "Vitraliile din secolul al XIV-lea sunt spectaculoase.",
+            "en": "The 14th-century stained glass windows are spectacular."
+          }
+        },
+        {
+          "name": "Musée de l'Impression sur Étoffes",
+          "coords": [
+            7.3415,
+            47.7455
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Textilgeschichte der Stadt.",
+            "hu": "Fedezd fel a város gazdag textilipari múltját.",
+            "ro": "Descoperiți istoria textilă bogată a orașului.",
+            "en": "Discover the city's rich textile history."
+          }
+        },
+        {
+          "name": "Le 17 - Gastro Stop",
+          "coords": [
+            7.3375,
+            7.341
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie die Fleischschnacka, eine lokale Spezialität.",
+            "hu": "Kóstold meg a Fleischschnackát, a helyi specialitást.",
+            "ro": "Gustați Fleischschnacka, o specialitate locală.",
+            "en": "Try the Fleischschnacka, a local specialty."
+          }
+        },
+        {
+          "name": "Parc Salvator",
+          "coords": [
+            7.3425,
+            47.749
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein englischer Garten ideal für eine Pause.",
+            "hu": "Angolkert, amely ideális egy rövid pihenőre.",
+            "ro": "O grădină englezească ideală pentru o pauză.",
+            "en": "An English-style garden ideal for a break."
+          }
+        },
+        {
+          "name": "Tour de l'Europe",
+          "coords": [
+            7.341,
+            47.7505
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick vom Restaurant aus.",
+            "hu": "Élvezd a panorámát az étteremből.",
+            "ro": "Bucurați-vă de panorama de la restaurant.",
+            "en": "Enjoy the panoramic view from the restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Mulhouse auf der Place de la Réunion, umgeben von farbenfrohen Fassaden. Besuchen Sie den beeindruckenden Temple Saint-Étienne, bevor Sie in die Welt der Textilien eintauchen. Nach einem typisch elsässischen Mittagessen entspannen Sie im Parc Salvator. Beenden Sie den Tag mit einem weiten Blick über die Stadt von der markanten Tour de l'Europe.",
+        "hu": "Kezdje a napot Mulhouse szívében, a Place de la Réunion téren, színes homlokzatok között. Látogasson el a lenyűgöző Szent István-templomba, majd merüljön el a textilipar világában a múzeumban. Egy tipikus elzászi ebéd után lazítson a Salvator parkban. A napot a városra nyíló széles kilátással zárja a jellegzetes Európa-toronyból.",
+        "ro": "Începeți ziua în inima orașului Mulhouse, în Place de la Réunion, înconjurați de fațade colorate. Vizitați impresionantul Templu Saint-Étienne înainte de a pătrunde în lumea textilelor la muzeu. După un prânz tipic alsacian, relaxați-vă în Parcul Salvator. Încheiați ziua cu o vedere panoramică asupra orașului de la turnul Tour de l'Europe.",
+        "en": "Start your day in the heart of Mulhouse at Place de la Réunion, surrounded by colorful facades. Visit the impressive Saint-Étienne Temple before diving into the world of textiles at the museum. After a typical Alsatian lunch, relax in Parc Salvator. End the day with a wide view over the city from the distinctive Tour de l'Europe."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 17",
+            "tip": "Moderne elsässische Küche im Zentrum."
+          },
+          {
+            "name": "Auberge des Franciscains",
+            "tip": "Traditionelle Sauerkrautgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 17",
+            "tip": "Modern elzászi konyha a központban."
+          },
+          {
+            "name": "Auberge des Franciscains",
+            "tip": "Hagyományos savanyú káposztás ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 17",
+            "tip": "Bucătărie alsaciană modernă în centru."
+          },
+          {
+            "name": "Auberge des Franciscains",
+            "tip": "Preparate tradiționale cu varză călită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 17",
+            "tip": "Modern Alsatian cuisine in the center."
+          },
+          {
+            "name": "Auberge des Franciscains",
+            "tip": "Traditional sauerkraut dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Salvator",
+            "tip": "Ruhiger Park mit seltenen Bäumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Bourse",
+            "tip": "Ein friedlicher Platz im Stadtzentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Salvator",
+            "tip": "Csendes park ritka fákkal.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Bourse",
+            "tip": "Békés tér a városközpontban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Salvator",
+            "tip": "Parc liniștit cu arbori rari.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Bourse",
+            "tip": "O piață liniștită în centrul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Salvator",
+            "tip": "Quiet park with rare trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Bourse",
+            "tip": "A peaceful square in the city center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché du Canal Couvert",
+            "tip": "Einer der größten Märkte im Osten Frankreichs."
+          },
+          {
+            "name": "Boutique du Musée de l'Impression",
+            "tip": "Hochwertige Stoffe und Tücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché du Canal Couvert",
+            "tip": "Kelet-Franciaország egyik legnagyobb piaca."
+          },
+          {
+            "name": "Boutique du Musée de l'Impression",
+            "tip": "Kiváló minőségű szövetek és kendők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché du Canal Couvert",
+            "tip": "Una dintre cele mai mari piețe din estul Franței."
+          },
+          {
+            "name": "Boutique du Musée de l'Impression",
+            "tip": "Țesături și eșarfe de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché du Canal Couvert",
+            "tip": "One of the largest markets in eastern France."
+          },
+          {
+            "name": "Boutique du Musée de l'Impression",
+            "tip": "High-quality fabrics and scarves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Innenstadt ist kompakt und gut zu Fuß erkundbar.",
+          "Achten Sie auf die bemalten Fassaden ('Trompe-l'œil') in der Altstadt.",
+          "Die meisten Museen schließen montags.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster rund um das Rathaus."
+        ],
+        "hu": [
+          "A belváros kompakt és gyalogosan is könnyen bejárható.",
+          "Figyelje meg az óváros festett homlokzatait (trompe-l'œil).",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Viseljen kényelmes cipőt a városháza körüli macskaköves utcákhoz."
+        ],
+        "ro": [
+          "Centrul orașului este compact și ușor de explorat pe jos.",
+          "Observați fațadele pictate (trompe-l'œil) din orașul vechi.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Purtați încălțăminte comodă pentru străzile pietruite din jurul primăriei."
+        ],
+        "en": [
+          "The city center is compact and easy to explore on foot.",
+          "Look out for the painted facades (trompe-l'œil) in the old town.",
+          "Most museums are closed on Mondays.",
+          "Wear comfortable shoes for the cobblestone streets around the town hall."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cité de l'Automobile",
+          "coords": [
+            7.3298,
+            47.7615
+          ],
+          "category": "museum",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die größte Automobilsammlung der Welt.",
+            "hu": "A világ legnagyobb autógyűjteménye.",
+            "ro": "Cea mai mare colecție de automobile din lume.",
+            "en": "The largest automobile collection in the world."
+          }
+        },
+        {
+          "name": "Canal du Rhône au Rhin",
+          "coords": [
+            7.335,
+            47.755
+          ],
+          "category": "park",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des ruhigen Kanalufers.",
+            "hu": "Tekeregj végig a csendes csatornaparton.",
+            "ro": "Mergeți cu bicicleta de-a lungul canalului liniștit.",
+            "en": "Cycle along the quiet canal bank."
+          }
+        },
+        {
+          "name": "Le Belvédère - Picnic Spot",
+          "coords": [
+            7.345,
+            47.735
+          ],
+          "category": "sunset",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Pause mit Aussicht.",
+            "hu": "Tökéletes hely egy kilátással egybekötött pihenőre.",
+            "ro": "Loc perfect pentru o pauză cu vedere.",
+            "en": "Perfect spot for a break with a view."
+          }
+        },
+        {
+          "name": "Parc Zoologique et Botanique",
+          "coords": [
+            7.3485,
+            47.7335
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein 25 Hektar großer Park mit seltenen Tierarten.",
+            "hu": "25 hektáros park ritka állatfajokkal.",
+            "ro": "Un parc de 25 de hectare cu specii rare de animale.",
+            "en": "A 25-hectare park with rare animal species."
+          }
+        },
+        {
+          "name": "Tour du Belvédère",
+          "coords": [
+            7.3505,
+            47.7325
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick bis zum Schwarzwald und den Alpen.",
+            "hu": "Kilátás a Fekete-erdőig és az Alpokig.",
+            "ro": "Vedere până la Pădurea Neagră și Alpi.",
+            "en": "View as far as the Black Forest and the Alps."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Mulhouse auf zwei Rädern! Starten Sie mit der weltberühmten Schlumpf-Sammlung in der Cité de l'Automobile. Radeln Sie entspannt am Kanal entlang in den Süden der Stadt zum Rebberg-Viertel. Genießen Sie ein Picknick am Belvédère, bevor Sie den prächtigen Zoo und Botanischen Garten besuchen. Der Blick vom Belvédère-Turm ist der krönende Abschluss.",
+        "hu": "Fedezze fel Mulhouse-t két keréken! Kezdje a világhírű Schlumpf-gyűjteménnyel az Autómúzeumban. Tekerjen kényelmesen a csatorna mentén a város déli részébe, a Rebberg negyedbe. Élvezze a pikniket a Belvédère-nél, mielőtt meglátogatná a pompás Állat- és Botanikus Kertet. A Belvédère-toronyból nyíló kilátás a tökéletes befejezés.",
+        "ro": "Explorați Mulhouse pe două roți! Începeți cu faimoasa colecție Schlumpf de la Orașul Automobilului. Mergeți cu bicicleta de-a lungul canalului spre sudul orașului, în cartierul Rebberg. Bucurați-vă de un picnic la Belvédère înainte de a vizita splendida Grădină Zoologică și Botanică. Vederea de la turnul Belvédère este finalul perfect.",
+        "en": "Explore Mulhouse on two wheels! Start with the world-famous Schlumpf collection at the Cité de l'Automobile. Cycle leisurely along the canal to the south of the city into the Rebberg district. Enjoy a picnic at Belvédère before visiting the magnificent Zoological and Botanical Garden. The view from the Belvédère tower is the perfect conclusion."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge du Zoo",
+            "tip": "Gute Küche in historischem Rahmen."
+          },
+          {
+            "name": "Le Pantographe",
+            "tip": "Trendiges Bistro in industriellem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge du Zoo",
+            "tip": "Jó konyha történelmi környezetben."
+          },
+          {
+            "name": "Le Pantographe",
+            "tip": "Trendi bisztró ipari környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge du Zoo",
+            "tip": "Bucătărie bună într-un cadru istoric."
+          },
+          {
+            "name": "Le Pantographe",
+            "tip": "Bistro modern într-un ambient industrial."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge du Zoo",
+            "tip": "Good cuisine in a historical setting."
+          },
+          {
+            "name": "Le Pantographe",
+            "tip": "Trendy bistro in an industrial atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal du Rhône au Rhin",
+            "tip": "Grüner Radweg am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rebberg Viertel",
+            "tip": "Ruhiges Villenviertel mit viel Grün.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal du Rhône au Rhin",
+            "tip": "Zöld kerékpárút a víz mellett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rebberg negyed",
+            "tip": "Csendes villanegyed sok zölddel.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canal du Rhône au Rhin",
+            "tip": "Pistă de biciclete verde pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cartierul Rebberg",
+            "tip": "Cartier liniștit de vile cu multă verdeață.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal du Rhône au Rhin",
+            "tip": "Green cycle path by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rebberg district",
+            "tip": "Quiet villa district with lots of greenery.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélostation",
+            "tip": "Fahrradverleih und Zubehör direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélostation",
+            "tip": "Kerékpárkölcsönzés és kiegészítők a vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélostation",
+            "tip": "Închirieri biciclete și accesorii chiar la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélostation",
+            "tip": "Bike rental and accessories right at the station."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mulhouse bietet viele markierte Radwege.",
+          "Nutzen Sie das Verleihsystem 'VéloCité'.",
+          "Der Anstieg zum Rebberg ist etwas steiler, aber lohnenswert.",
+          "Schließen Sie Ihr Rad in der Nähe der Museen immer gut ab."
+        ],
+        "hu": [
+          "Mulhouse számos kijelölt kerékpárúttal rendelkezik.",
+          "Használja a 'VéloCité' közösségi kerékpárrendszert.",
+          "A Rebberg-dombra vezető emelkedő meredekebb, de megéri.",
+          "Mindig jól zárja le a kerékpárját a múzeumok közelében."
+        ],
+        "ro": [
+          "Mulhouse oferă multe piste de biciclete marcate.",
+          "Utilizați sistemul de închiriere 'VéloCité'.",
+          "Urcarea spre Rebberg este ceva mai abruptă, dar merită.",
+          "Încuiați-vă întotdeauna bine bicicleta în apropierea muzeelor."
+        ],
+        "en": [
+          "Mulhouse offers many marked cycle paths.",
+          "Use the 'VéloCité' bike-sharing system.",
+          "The climb to Rebberg is a bit steeper but worth it.",
+          "Always lock your bike securely near museums."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cité du Train",
+          "coords": [
+            7.2885,
+            47.7485
+          ],
+          "category": "museum",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Das größte Eisenbahnmuseum Europas.",
+            "hu": "Európa legnagyobb vasúti múzeuma.",
+            "ro": "Cel mai mare muzeu feroviar din Europa.",
+            "en": "The largest railway museum in Europe."
+          }
+        },
+        {
+          "name": "Musée Electropolis",
+          "coords": [
+            7.2875,
+            47.7495
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spannende Reise durch die Geschichte der Elektrizität.",
+            "hu": "Izgalmas utazás az elektromosság történetében.",
+            "ro": "O călătorie captivantă prin istoria electricității.",
+            "en": "Exciting journey through the history of electricity."
+          }
+        },
+        {
+          "name": "Écomusée d'Alsace",
+          "coords": [
+            7.285,
+            47.853
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Ein lebendiges Freilichtmuseum mit elsässischen Traditionen.",
+            "hu": "Élő szabadtéri múzeum elzászi hagyományokkal.",
+            "ro": "Un muzeu în aer liber viu cu tradiții alsaciene.",
+            "en": "A living open-air museum with Alsatian traditions."
+          }
+        },
+        {
+          "name": "Ottmarsheim Abteikirche",
+          "coords": [
+            7.508,
+            47.7875
+          ],
+          "category": "religious",
+          "arrive_at": "16:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Einzigartige romanische Kirche mit oktogonalem Grundriss.",
+            "hu": "Egyedülálló román stílusú templom oktogonális alaprajzzal.",
+            "ro": "Biserică romanică unică cu plan octogonal.",
+            "en": "Unique Romanesque church with an octagonal floor plan."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die großen Museen am Stadtrand mühelos. Beginnen Sie in der Cité du Train und im Electropolis. Am Nachmittag fahren Sie zum Écomusée d'Alsace in Ungersheim, einem Dorf aus historischen Fachwerkhäusern. Den Abschluss bildet die außergewöhnliche Abteikirche in Ottmarsheim, ein Meisterwerk der Romanik nahe der deutschen Grenze.",
+        "hu": "Autóval könnyedén elérheti a város szélén található nagy múzeumokat. Kezdjen a Cité du Train vasúti múzeumban és az Electropolisban. Délután utazzon az Ungersheimben található Écomusée d'Alsace-ba, amely történelmi favázas házakból álló falu. A napot az ottmarsheimi apátsági templom zárja, amely a román stílus remekműve a német határ közelében.",
+        "ro": "Cu mașina puteți ajunge fără efort la marile muzee de la marginea orașului. Începeți la Cité du Train și Electropolis. După-amiază, mergeți la Écomusée d'Alsace din Ungersheim, un sat format din case istorice cu bârne de lemn. Finalul aparține bisericii abațiale din Ottmarsheim, o capodoperă a stilului romanic aproape de granița cu Germania.",
+        "en": "By car, you can effortlessly reach the large museums on the outskirts. Start at the Cité du Train and Electropolis. In the afternoon, drive to the Écomusée d'Alsace in Ungersheim, a village made of historical half-timbered houses. The day concludes with the extraordinary abbey church in Ottmarsheim, a Romanesque masterpiece near the German border."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Taverne",
+            "tip": "Rustikales Restaurant im Écomusée."
+          },
+          {
+            "name": "Restaurant du Musée",
+            "tip": "Ideal für ein Mittagessen zwischen den Technik-Museen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Taverne",
+            "tip": "Rusztikus étterem az Écomusée területén."
+          },
+          {
+            "name": "Restaurant du Musée",
+            "tip": "Ideális ebédhelyszín a technikai múzeumok között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Taverne",
+            "tip": "Restaurant rustic în cadrul Écomusée."
+          },
+          {
+            "name": "Restaurant du Musée",
+            "tip": "Ideal pentru prânz între muzeele tehnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Taverne",
+            "tip": "Rustic restaurant in the Écomusée."
+          },
+          {
+            "name": "Restaurant du Musée",
+            "tip": "Ideal for lunch between the technical museums."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ottmarsheim am Rhein",
+            "tip": "Spaziergang am Rheinufer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garten des Electropolis",
+            "tip": "Überraschend ruhige Anlage.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ottmarsheim a Rajnánál",
+            "tip": "Séta a Rajna-parton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Electropolis kertje",
+            "tip": "Meglepően csendes terület.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ottmarsheim pe Rin",
+            "tip": "Plimbare pe malul Rinului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Electropolis",
+            "tip": "O zonă surprinzător de liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ottmarsheim on the Rhine",
+            "tip": "Walk along the Rhine bank.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Garden of Electropolis",
+            "tip": "Surprisingly quiet grounds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop Écomusée",
+            "tip": "Lokales Handwerk und regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Écomusée múzeumi bolt",
+            "tip": "Helyi kézműves termékek és regionális áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Écomusée",
+            "tip": "Artizanat local și produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Écomusée Museum Shop",
+            "tip": "Local crafts and regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ausreichend Parkplätze bei allen großen Museen.",
+          "Die A35 verbindet die Ziele schnell.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen in den Dörfern.",
+          "Kombinieren Sie den Besuch von Cité du Train und Electropolis (Kombi-Ticket)."
+        ],
+        "hu": [
+          "Minden nagy múzeumnál bőséges parkolóhely áll rendelkezésre.",
+          "Az A35-ös út gyorsan összeköti a célpontokat.",
+          "Ügyeljen a sebességkorlátozásokra a falvakban.",
+          "Érdemes kombinálni a vasúti múzeum és az Electropolis látogatását."
+        ],
+        "ro": [
+          "Există locuri de parcare suficiente la toate muzeele mari.",
+          "Autostrada A35 conectează rapid destinațiile.",
+          "Atenție la limitele de viteză din sate.",
+          "Combinați vizitarea Cité du Train și Electropolis (bilet combinat)."
+        ],
+        "en": [
+          "There are plenty of parking spaces at all major museums.",
+          "The A35 connects the destinations quickly.",
+          "Watch out for speed limits in the villages.",
+          "Combine the visit to Cité du Train and Electropolis (combined ticket)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place de la Réunion",
+          "coords": [
+            7.3386,
+            47.7494
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der Stadt.",
+            "hu": "A város központi csomópontja.",
+            "ro": "Punctul central al orașului.",
+            "en": "Central hub of the city."
+          }
+        },
+        {
+          "name": "Cité de l'Automobile (Tram 1)",
+          "coords": [
+            7.3298,
+            47.7615
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Haltestelle 'Musée de l'Auto'.",
+            "hu": "Szállj le a 'Musée de l'Auto' megállónál.",
+            "ro": "Stația 'Musée de l'Auto'.",
+            "en": "Stop at 'Musée de l'Auto'."
+          }
+        },
+        {
+          "name": "Gare Centrale - Mulhouse",
+          "coords": [
+            7.342,
+            47.7425
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Tor zum Elsass, beeindruckende Bahnhofshalle.",
+            "hu": "Elzász kapuja, lenyűgöző állomáscsarnok.",
+            "ro": "Poarta către Alsacia, o hală impresionantă.",
+            "en": "The gateway to Alsace, impressive station hall."
+          }
+        },
+        {
+          "name": "Cité du Train (Tram 3)",
+          "coords": [
+            7.2885,
+            47.7485
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Tram-Train Linie.",
+            "hu": "Használd a Tram-Train vonalat.",
+            "ro": "Utilizați linia Tram-Train.",
+            "en": "Use the Tram-Train line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mulhouse hat ein ausgezeichnetes Tram-Netz. Starten Sie im Zentrum und nehmen Sie die Tram 1 direkt zur Cité de l'Automobile. Nach der Besichtigung kehren Sie zum Hauptbahnhof zurück, einem historischen Verkehrsknotenpunkt. Von dort bringt Sie die Tram 3 oder der Tram-Train bequem zur Cité du Train. Ein effizienter Tag ganz ohne Parkplatzsorgen.",
+        "hu": "Mulhouse kiváló villamoshálózattal rendelkezik. Kezdjen a központban, és szálljon fel az 1-es villamosra, amely egyenesen az Autómúzeumhoz viszi. A látogatás után térjen vissza a központi pályaudvarra, amely történelmi közlekedési csomópont. Innen a 3-as villamos vagy a Tram-Train kényelmesen elviszi a vasúti múzeumba. Hatékony nap parkolási gondok nélkül.",
+        "ro": "Mulhouse are o rețea de tramvai excelentă. Începeți în centru și luați tramvaiul 1 direct către Orașul Automobilului. După vizită, reveniți la gara centrală, un nod istoric de transport. De acolo, tramvaiul 3 sau Tram-Train vă duce confortabil la Orașul Trenului. O zi eficientă fără grija parcării.",
+        "en": "Mulhouse has an excellent tram network. Start in the center and take Tram 1 directly to the Cité de l'Automobile. After the visit, return to the main station, a historical transport hub. From there, Tram 3 or the Tram-Train will take you comfortably to the Cité du Train. An efficient day without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cafétéria du Musée",
+            "tip": "Schneller Imbiss zwischen den Autos."
+          },
+          {
+            "name": "Le Grand Zinc",
+            "tip": "Klassische Brasserie in Bahnhofsnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cafétéria du Musée",
+            "tip": "Gyors harapnivaló az autók között."
+          },
+          {
+            "name": "Le Grand Zinc",
+            "tip": "Klasszikus söröző a pályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafétéria du Musée",
+            "tip": "Gustare rapidă printre mașini."
+          },
+          {
+            "name": "Le Grand Zinc",
+            "tip": "Braserie clasică lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cafétéria du Musée",
+            "tip": "Quick snack among the cars."
+          },
+          {
+            "name": "Le Grand Zinc",
+            "tip": "Classic brasserie near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de l'Ancien Palais",
+            "tip": "Ruhiger Platz zum Warten auf die Tram.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square de l'Ancien Palais",
+            "tip": "Csendes tér a villamosra való várakozáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square de l'Ancien Palais",
+            "tip": "Piață liniștită pentru a aștepta tramvaiul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square de l'Ancien Palais",
+            "tip": "Quiet square to wait for the tram.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Porte Jeune Mall",
+            "tip": "Einkaufszentrum am zentralen Umsteigepunkt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Porte Jeune Mall",
+            "tip": "Bevásárlóközpont a központi átszállóhelyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Porte Jeune Mall",
+            "tip": "Centru comercial la punctul central de transfer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Porte Jeune Mall",
+            "tip": "Shopping mall at the central transfer point."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte ('Ticket 24h') für unbegrenzte Fahrten.",
+          "Die Straßenbahnen verkehren in kurzen Abständen.",
+          "Entwerten Sie Ihr Ticket vor dem Einsteigen an den Automaten am Bahnsteig.",
+          "Die Ansagen in der Tram sind auch visuell auf Bildschirmen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Ticket 24h) a korlátlan utazáshoz.",
+          "A villamosok gyakran közlekednek.",
+          "A jegyet a peronon található automatáknál kell érvényesíteni beszállás előtt.",
+          "A villamoson a bemondások vizuálisan is láthatók a kijelzőkön."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi (Ticket 24h) pentru călătorii nelimitate.",
+          "Tramvaiele circulă la intervale scurte.",
+          "Validați biletul la aparatele de pe peron înainte de îmbarcare.",
+          "Anunțurile din tramvai sunt disponibile și vizual pe ecrane."
+        ],
+        "en": [
+          "Buy a day ticket ('Ticket 24h') for unlimited travel.",
+          "Trams run at frequent intervals.",
+          "Validate your ticket at the machines on the platform before boarding.",
+          "The announcements in the tram are also shown visually on screens."
+        ]
+      }
+    }
+  }
+}

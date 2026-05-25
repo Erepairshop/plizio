@@ -1,0 +1,1019 @@
+{
+  "city_id": "nimes",
+  "anchor": {
+    "name": "Nîmes Centre",
+    "coords": [
+      4.3601,
+      43.8367
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater von Nîmes",
+            "hu": "Nîmes-i Aréna",
+            "ro": "Arena din Nîmes",
+            "en": "Arenas of Nîmes"
+          },
+          "coords": [
+            4.3598,
+            43.8349
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mieten Sie einen Audioguide, um die römische Ingenieurskunst zu verstehen.",
+            "hu": "Bérelj audioguide-ot a római mérnöki bravúrok megértéséhez.",
+            "ro": "Închiriați un ghid audio pentru a înțelege ingineria romană.",
+            "en": "Rent an audio guide to understand the Roman engineering feats."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Romanität",
+            "hu": "Római Kor Múzeuma",
+            "ro": "Muzeul Romanității",
+            "en": "Museum of Romanity"
+          },
+          "coords": [
+            4.3605,
+            43.8345
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gehen Sie auf die Dachterrasse für einen 360-Grad-Blick auf die Stadt.",
+            "hu": "Menj fel a tetőteraszra a város 360 fokos panorámájáért.",
+            "ro": "Mergeți pe terasa de pe acoperiș pentru o vedere de 360 de grade.",
+            "en": "Go to the roof terrace for a 360-degree view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Marché",
+            "hu": "Piactér",
+            "ro": "Piața Pieței",
+            "en": "Market Square"
+          },
+          "coords": [
+            4.3595,
+            43.8365
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Brandade de Nîmes an einem der schattigen Tische.",
+            "hu": "Kóstold meg a helyi brandade-ot az egyik árnyékos asztalnál.",
+            "ro": "Gustați brandade de Nîmes la una dintre mesele umbrite.",
+            "en": "Try some brandade de Nîmes at one of the shaded tables."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Carrée",
+            "hu": "Maison Carrée",
+            "ro": "Maison Carrée",
+            "en": "Maison Carrée"
+          },
+          "coords": [
+            4.3565,
+            43.8383
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die am besten erhaltene römische Tempelfassade der Welt.",
+            "hu": "Csodáld meg a világ legjobb állapotban maradt római templomhomlokzatát.",
+            "ro": "Admirați cea mai bine conservată fațadă de templu roman din lume.",
+            "en": "Admire the world's best-preserved Roman temple facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine",
+            "hu": "Szökőkút-kertek",
+            "ro": "Grădinile de la Fontaine",
+            "en": "Jardins de la Fontaine"
+          },
+          "coords": [
+            4.35,
+            43.8395
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Suchen Sie den Diana-Tempel in der unteren Sektion des Gartens.",
+            "hu": "Keresd meg a Diana-templomot a kert alsó részén.",
+            "ro": "Căutați Templul Dianei în secțiunea inferioară a grădinii.",
+            "en": "Look for the Temple of Diana in the lower section of the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Magne",
+            "hu": "Tour Magne",
+            "ro": "Tour Magne",
+            "en": "Tour Magne"
+          },
+          "coords": [
+            4.3485,
+            43.843
+          ],
+          "category": "historical",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für den Sonnenuntergang über dem Gardon-Tal.",
+            "hu": "Tökéletes helyszín a naplementéhez a Gardon-völgy felett.",
+            "ro": "Locul perfect pentru apusul de soare peste valea Gardon.",
+            "en": "The perfect spot for sunset over the Gardon valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der imposanten Arena, dem Herzstück des römischen Nîmes. Danach führt Sie der Weg in das moderne Museum der Romanität, das einen faszinierenden Kontrast zur antiken Architektur bietet.\n\nZum Mittagessen genießen Sie die lebhafte Atmosphäre auf dem Place du Marché, wo regionale Spezialitäten wie Brandade serviert werden. Ein kurzer Spaziergang bringt Sie zur Maison Carrée, einem architektonischen Juwel.\n\nDer Nachmittag gehört den Jardins de la Fontaine, einem der ersten öffentlichen Gärten Europas, der mit römischen Ruinen und barocken Kanälen verzaubert. Ein ruhiger Ort zum Durchatmen.\n\nZum Abschluss erklimmen Sie den Tour Magne. Der Aufstieg wird mit einem weiten Blick belohnt, während die Sonne die Dächer der Stadt in goldenes Licht taucht.",
+        "hu": "Kezdje a reggelt az impozáns Arénában, a római kori Nîmes szívében. Ezután az út a modern Musée de la Romanité-ba vezet, amely lenyűgöző kontrasztot kínál az ókori építészettel.\n\nEbédre élvezze a Place du Marché nyüzsgő hangulatát, ahol olyan helyi specialitásokat kóstolhat, mint a brandade. Egy rövid séta után eljut a Maison Carrée-hoz, amely egy igazi építészeti ékszerdoboz.\n\nDélután a Jardins de la Fontaine várja, Európa egyik első nyilvános kertje, amely római romokkal és barokk csatornákkal bűvöl el. Tökéletes hely a pihenésre.\n\nBefejezésül másszon fel a Tour Magne toronyba. A kaptató jutalma a város háztetőire nyíló pazar kilátás, ahogy a lemenő nap aranyba vonja az épületeket.",
+        "ro": "Începeți dimineața la arena impunătoare, inima orașului Nîmes roman. Apoi, drumul vă duce la modernul Muzeu al Romanității, care oferă un contrast fascinant cu arhitectura antică.\n\nLa prânz, bucurați-vă de atmosfera plină de viață din Place du Marché, unde se servesc specialități locale precum brandade. O scurtă plimbare vă duce la Maison Carrée, o bijuterie arhitecturală.\n\nDupă-amiaza aparține Grădinilor de la Fontaine, una dintre primele grădini publice din Europa, care încântă cu ruine romane și canale baroce. Un loc liniștit pentru relaxare.\n\nÎn încheiere, urcați pe Tour Magne. Urcarea este răsplătită cu o vedere panoramică asupra acoperișurilor orașului, în timp ce soarele îmbracă clădirile în lumină aurie.",
+        "en": "Start your morning at the imposing Arena, the heart of Roman Nîmes. Then, the path leads to the modern Museum of Romanity, which offers a fascinating contrast to the ancient architecture.\n\nFor lunch, enjoy the lively atmosphere at Place du Marché, where regional specialties like brandade are served. A short walk takes you to the Maison Carrée, an architectural jewel.\n\nThe afternoon belongs to the Jardins de la Fontaine, one of Europe's first public gardens, enchanting with Roman ruins and Baroque canals. A quiet place to breathe.\n\nTo finish, climb the Tour Magne. The climb is rewarded with a vast view over the city's rooftops as the sun bathes the buildings in golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Cremiges Püree aus Stockfisch und Olivenöl."
+          },
+          {
+            "name": "Le Déclic",
+            "tip": "Moderne französische Küche in der Nähe der Arena."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Krémes tőkehalpüré olívaolajjal készítve."
+          },
+          {
+            "name": "Le Déclic",
+            "tip": "Modern francia konyha az Aréna közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Piure cremos de cod cu ulei de măsline."
+          },
+          {
+            "name": "Le Déclic",
+            "tip": "Bucătărie franceză modernă lângă Arenă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brandade de Nîmes",
+            "tip": "Creamy puree of salt cod and olive oil."
+          },
+          {
+            "name": "Le Déclic",
+            "tip": "Modern French cuisine near the Arena."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Temple de Diane",
+            "tip": "Mystische Ruine in den Gärten.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tour Magne",
+            "tip": "Blick über die Dächer bei Dämmerung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Diana-templom",
+            "tip": "Misztikus rom a kertek mélyén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tour Magne",
+            "tip": "Kilátás a háztetőkre szürkületkor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Templul Dianei",
+            "tip": "Ruine mistice în adâncul grădinilor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tour Magne",
+            "tip": "Vedere peste acoperișuri la amurg.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Temple of Diana",
+            "tip": "Mystical ruins deep in the gardens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Tour Magne",
+            "tip": "View over the rooftops at dusk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Überdachter Markt für Oliven und Käse."
+          },
+          {
+            "name": "L'Habit en Denim",
+            "tip": "Authentischer Nîmes-Stoff (Denim)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Fedett piac olívabogyókkal és sajtokkal."
+          },
+          {
+            "name": "L'Habit en Denim",
+            "tip": "Eredeti nîmes-i anyagból (Denim) készült ruhák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Piață acoperită pentru măsline și brânzeturi."
+          },
+          {
+            "name": "L'Habit en Denim",
+            "tip": "Haine din denim autentic de Nîmes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Covered market for olives and cheeses."
+          },
+          {
+            "name": "L'Habit en Denim",
+            "tip": "Authentic Nîmes fabric (Denim) clothing."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den Pass Nîmes für kombinierten Eintritt zu allen Monumenten.",
+          "Die Altstadt ist fast vollständig Fußgängerzone.",
+          "Achten Sie auf das Krokodil-Symbol auf den Straßenpflastern.",
+          "Tragen Sie bequeme Schuhe für den Aufstieg zum Tour Magne."
+        ],
+        "hu": [
+          "Vegyél Nîmes Pass-t a kombinált belépőkhöz az összes műemlékbe.",
+          "Az óváros szinte teljesen gyalogosövezet.",
+          "Figyeld a krokodil szimbólumot az utcaköveken.",
+          "Viselj kényelmes cipőt a Tour Magne-hoz vezető emelkedőhöz."
+        ],
+        "ro": [
+          "Cumpărați Pass Nîmes pentru intrare combinată la toate monumentele.",
+          "Orașul vechi este aproape în întregime zonă pietonală.",
+          "Fiți atenți la simbolul crocodilului pe pavajul străzilor.",
+          "Purtați pantofi confortabili pentru urcarea la Tour Magne."
+        ],
+        "en": [
+          "Buy the Nîmes Pass for combined entry to all monuments.",
+          "The old town is almost entirely pedestrianized.",
+          "Look out for the crocodile symbol on the street pavers.",
+          "Wear comfortable shoes for the climb to Tour Magne."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Esplanade Charles-de-Gaulle",
+            "hu": "Charles-de-Gaulle sétány",
+            "ro": "Esplanada Charles-de-Gaulle",
+            "en": "Esplanade Charles-de-Gaulle"
+          },
+          "coords": [
+            4.363,
+            43.835
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Großer Platz ideal zum Starten der Tour.",
+            "hu": "Tágas tér, ideális a túra indításához.",
+            "ro": "Piață mare ideală pentru începerea turului.",
+            "en": "Large square ideal for starting the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Castellum Aquae",
+            "hu": "Castellum Aquae",
+            "ro": "Castellum Aquae",
+            "en": "Castellum Aquae"
+          },
+          "coords": [
+            4.3545,
+            43.8425
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Ende des Aquädukts vom Pont du Gard.",
+            "hu": "A Pont du Gard vízvezetékének végpontja.",
+            "ro": "Punctul final al apeductului de la Pont du Gard.",
+            "en": "The end point of the aqueduct from Pont du Gard."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine",
+            "hu": "Szökőkút-kertek",
+            "ro": "Grădinile de la Fontaine",
+            "en": "Jardins de la Fontaine"
+          },
+          "coords": [
+            4.35,
+            43.8395
+          ],
+          "category": "park",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Kanäle im Schatten.",
+            "hu": "Biciklizz az árnyékos csatornák mentén.",
+            "ro": "Pedalați de-a lungul canalelor la umbră.",
+            "en": "Bike along the shaded canals."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Carrée Area",
+            "hu": "Maison Carrée környéke",
+            "ro": "Zona Maison Carrée",
+            "en": "Maison Carrée Area"
+          },
+          "coords": [
+            4.3565,
+            43.8383
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Viele Cafés mit Fahrradstellplätzen.",
+            "hu": "Sok kávézó biciklitárolóval.",
+            "ro": "Multe cafenele cu locuri de parcare pentru biciclete.",
+            "en": "Many cafes with bike parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Green Way (Bois des Espeisses)",
+            "hu": "Zöld út (Bois des Espeisses)",
+            "ro": "Calea Verde (Bois des Espeisses)",
+            "en": "Green Way (Bois des Espeisses)"
+          },
+          "coords": [
+            4.335,
+            43.865
+          ],
+          "category": "forest",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Natürlicher Waldweg nördlich der Stadt.",
+            "hu": "Természetes erdei út a várostól északra.",
+            "ro": "Traseu forestier natural la nord de oraș.",
+            "en": "Natural forest path north of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Nîmes auf zwei Rädern, beginnend an der Esplanade. Radeln Sie zum Castellum Aquae, um die Ingenieurskunst der Wasserversorgung zu sehen.\n\nNach einer Mittagspause in der Nähe der Maison Carrée führt die Tour durch die schattigen Alleen der Jardins de la Fontaine.\n\nDer Nachmittag bietet eine längere Fahrt zum Bois des Espeisses, wo Sie die mediterrane Garrigue-Landschaft genießen können.\n\nDie Rückfahrt ins Zentrum führt durch ruhige Nebenstraßen, ideal um die Atmosphäre der Provence aufzusaugen.",
+        "hu": "Fedezze fel Nîmes-t két keréken, az Esplanade-tól indulva. Tekerjen el a Castellum Aquae-hoz, hogy lássa a vízellátás mérnöki csodáját.\n\nEgy Maison Carrée közeli ebédszünet után a túra a Jardins de la Fontaine árnyas sugárútjain folytatódik.\n\nA délután egy hosszabb utat kínál a Bois des Espeisses-hez, ahol élvezheti a mediterrán garrigue tájat.\n\nA központba való visszatérés csendes mellékutcákon keresztül vezet, ideális a provence-i hangulat beszívásához.",
+        "ro": "Explorați Nîmes pe două roți, pornind de la Esplanadă. Pedalați până la Castellum Aquae pentru a vedea miracolul ingineresc al alimentării cu apă.\n\nDupă o pauză de prânz lângă Maison Carrée, turul continuă prin aleile umbrite ale Grădinilor de la Fontaine.\n\nDupă-amiaza oferă o călătorie mai lungă spre Bois des Espeisses, unde vă puteți bucura de peisajul mediteranean garrigue.\n\nÎntoarcerea în centru se face prin străzi secundare liniștite, ideale pentru a absorbi atmosfera provensală.",
+        "en": "Explore Nîmes on two wheels, starting from the Esplanade. Cycle to the Castellum Aquae to see the engineering wonder of the water supply.\n\nAfter a lunch break near the Maison Carrée, the tour continues through the shaded avenues of the Jardins de la Fontaine.\n\nThe afternoon offers a longer ride to the Bois des Espeisses, where you can enjoy the Mediterranean garrigue landscape.\n\nThe return to the center leads through quiet backstreets, ideal for soaking up the Provençal atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pâtisserie Courtois",
+            "tip": "Holen Sie sich Croquants de Nîmes für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pâtisserie Courtois",
+            "tip": "Vegyél nîmes-i ropogóst az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pâtisserie Courtois",
+            "tip": "Luați croquants de Nîmes pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pâtisserie Courtois",
+            "tip": "Get some Nîmes croquants for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bois des Espeisses",
+            "tip": "Völlige Ruhe im Pinienwald.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bois des Espeisses",
+            "tip": "Teljes nyugalom a fenyőerdőben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bois des Espeisses",
+            "tip": "Liniște deplină în pădurea de pini.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bois des Espeisses",
+            "tip": "Complete peace in the pine forest.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velocité Nîmes",
+            "tip": "Fahrradverleih mit gutem Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velocité Nîmes",
+            "tip": "Kerékpárkölcsönző jó szervizzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velocité Nîmes",
+            "tip": "Închirieri biciclete cu servicii bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velocité Nîmes",
+            "tip": "Bike rental with good service."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Radwege entlang des Vistre-Kanals.",
+          "Achten Sie auf Einbahnstraßen im historischen Zentrum."
+        ],
+        "hu": [
+          "Használd a Vistre-csatorna menti kerékpárutakat.",
+          "Figyelj az egyirányú utcákra a történelmi központban."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete de-a lungul canalului Vistre.",
+          "Fiți atenți la străzile cu sens unic din centrul istoric."
+        ],
+        "en": [
+          "Use the bike paths along the Vistre canal.",
+          "Watch out for one-way streets in the historical center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 48.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater von Nîmes",
+            "hu": "Nîmes-i Aréna",
+            "ro": "Arena din Nîmes",
+            "en": "Arenas of Nîmes"
+          },
+          "coords": [
+            4.3598,
+            43.8349
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkhaus Arènes ist direkt darunter.",
+            "hu": "Az Arènes parkolóház közvetlenül alatta van.",
+            "ro": "Parcarea Arènes este chiar dedesubt.",
+            "en": "Arènes parking garage is directly underneath."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont du Gard",
+            "hu": "Pont du Gard",
+            "ro": "Pont du Gard",
+            "en": "Pont du Gard"
+          },
+          "coords": [
+            4.535,
+            43.9475
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 23.0,
+          "tip_5lang": {
+            "de": "Monumentales Aquädukt, UNESCO-Welterbe.",
+            "hu": "Monumentális vízvezeték, UNESCO világörökség.",
+            "ro": "Apeduct monumental, patrimoniu UNESCO.",
+            "en": "Monumental aqueduct, UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": {
+            "de": "Remoulins (Gastro)",
+            "hu": "Remoulins (Gasztro)",
+            "ro": "Remoulins (Gastro)",
+            "en": "Remoulins (Gastro)"
+          },
+          "coords": [
+            4.56,
+            43.93
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Authentische provenzalische Küche am Fluss.",
+            "hu": "Eredeti provence-i konyha a folyóparton.",
+            "ro": "Bucătărie provensală autentică lângă râu.",
+            "en": "Authentic Provençal cuisine by the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Uzès Marktplatz",
+            "hu": "Uzès főtere",
+            "ro": "Piața din Uzès",
+            "en": "Uzès Market Square"
+          },
+          "coords": [
+            4.42,
+            44.0125
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Eine der schönsten mittelalterlichen Städte.",
+            "hu": "Az egyik legszebb középkori város.",
+            "ro": "Unul dintre cele mai frumoase orașe medievale.",
+            "en": "One of the most beautiful medieval towns."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins de la Fontaine",
+            "hu": "Szökőkút-kertek",
+            "ro": "Grădinile de la Fontaine",
+            "en": "Jardins de la Fontaine"
+          },
+          "coords": [
+            4.35,
+            43.8395
+          ],
+          "category": "park",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückgabe des Wagens.",
+            "hu": "Utolsó megálló az autó leadása előtt.",
+            "ro": "Ultima oprire înainte de returnarea mașinii.",
+            "en": "Final stop before returning the car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag verbindet das römische Nîmes mit dem weltberühmten Pont du Gard. Starten Sie früh an der Arena, bevor Sie die Stadt verlassen.\n\nDie Fahrt zum Pont du Gard ist kurz und führt durch Weinberge. Verbringen Sie den Mittag an diesem architektonischen Wunderwerk.\n\nNach einem Mittagessen in Remoulins besuchen Sie Uzès, eine charmante mittelalterliche Stadt mit dem Herzogspalast.\n\nAm Abend kehren Sie nach Nîmes zurück und lassen den Tag entspannt in den Gärten der Fontaine ausklingen.",
+        "hu": "Ez a nap ötvözi a római Nîmes-t a világhírű Pont du Gard-ral. Kezdjen korán az Arénánál, mielőtt elhagyná a várost.\n\nAz út a Pont du Gard-hoz rövid, szőlőültetvényeken keresztül vezet. Töltse a délidőt ennél az építészeti csodánál.\n\nEgy remoulins-i ebéd után látogasson el Uzès-be, egy bájos középkori városba a hercegi palotával.\n\nEste térjen vissza Nîmes-be, és zárja a napot egy pihentető sétával a Fontaine kertjeiben.",
+        "ro": "Această zi combină Nîmes-ul roman cu faimosul Pont du Gard. Începeți devreme la Arenă înainte de a părăsi orașul.\n\nDrumul către Pont du Gard este scurt, trecând prin podgorii. Petreceți amiaza la această minune arhitecturală.\n\nDupă un prânz în Remoulins, vizitați Uzès, un oraș medieval fermecător cu palatul ducal.\n\nSeara reveniți în Nîmes și încheiați ziua cu o plimbare relaxantă în grădinile Fontaine.",
+        "en": "This day combines Roman Nîmes with the world-famous Pont du Gard. Start early at the Arena before leaving the city.\n\nThe drive to Pont du Gard is short, passing through vineyards. Spend the midday at this architectural marvel.\n\nAfter a lunch in Remoulins, visit Uzès, a charming medieval town with the ducal palace.\n\nIn the evening, return to Nîmes and end the day with a relaxing stroll in the Fontaine gardens."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Traditioneller Stier-Eintopf aus der Camargue."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Hagyományos bikapörkölt Camargue vidékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Tocăniță tradițională de taur din Camargue."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Traditional bull stew from the Camargue."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer des Gardon",
+            "tip": "Perfekt für ein Picknick am Pont du Gard.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardon folyópart",
+            "tip": "Tökéletes piknik helyszín a Pont du Gard-nál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gardon",
+            "tip": "Perfect pentru un picnic la Pont du Gard.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardon Riverbank",
+            "tip": "Perfect for a picnic at Pont du Gard.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Haribo Museum",
+            "tip": "In der Nähe von Uzès (für Kinder)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Haribo Múzeum",
+            "tip": "Uzès közelében (gyerekekkel kötelező)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muzeul Haribo",
+            "tip": "Lângă Uzès (pentru copii)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Haribo Museum",
+            "tip": "Near Uzès (great for kids)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Pont du Gard ist im Eintrittspreis enthalten.",
+          "Uzès hat samstags einen berühmten Markt."
+        ],
+        "hu": [
+          "A parkolás a Pont du Gard-nál benne van a belépő árában.",
+          "Uzès-ben szombatonként híres piac van."
+        ],
+        "ro": [
+          "Parcarea la Pont du Gard este inclusă în prețul biletului.",
+          "Uzès are o piață celebră sâmbăta."
+        ],
+        "en": [
+          "Parking at Pont du Gard is included in the ticket price.",
+          "Uzès has a famous market on Saturdays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Nîmes (Centre)",
+            "hu": "Nîmes Vasútállomás",
+            "ro": "Gara Nîmes Centre",
+            "en": "Nîmes Station (Centre)"
+          },
+          "coords": [
+            4.365,
+            43.8325
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die Tram-Bus Linien T1/T2.",
+            "hu": "A T1/T2 Tram-busz vonalak indulópontja.",
+            "ro": "Punct de plecare pentru liniile Tram-bus T1/T2.",
+            "en": "Starting point for Tram-bus lines T1/T2."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes (Bus T1)",
+            "hu": "Aréna (T1 busz)",
+            "ro": "Arenă (Autobuz T1)",
+            "en": "Arenas (Bus T1)"
+          },
+          "coords": [
+            4.3598,
+            43.8349
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Halt direkt am Amphitheater.",
+            "hu": "Központi megálló közvetlenül az Arénánál.",
+            "ro": "Stație centrală chiar lângă amfiteatru.",
+            "en": "Central stop right by the amphitheater."
+          }
+        },
+        {
+          "name": {
+            "de": "Carré d'Art",
+            "hu": "Carré d'Art",
+            "ro": "Carré d'Art",
+            "en": "Carré d'Art"
+          },
+          "coords": [
+            4.3555,
+            43.8385
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Moderne Kunst gegenüber der Maison Carrée.",
+            "hu": "Modern művészet a Maison Carrée-val szemben.",
+            "ro": "Artă modernă vizavi de Maison Carrée.",
+            "en": "Modern art opposite the Maison Carrée."
+          }
+        },
+        {
+          "name": {
+            "de": "Place aux Herbes (Gastro)",
+            "hu": "Place aux Herbes (Gasztro)",
+            "ro": "Place aux Herbes (Gastro)",
+            "en": "Place aux Herbes (Gastro)"
+          },
+          "coords": [
+            4.36,
+            43.8375
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Viele Restaurants hinter der Kathedrale.",
+            "hu": "Számos étterem a katedrális mögött.",
+            "ro": "Multe restaurante în spatele catedralei.",
+            "en": "Many restaurants behind the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade des Costières Area",
+            "hu": "Stade des Costières környéke",
+            "ro": "Zona Stade des Costières",
+            "en": "Stade des Costières Area"
+          },
+          "coords": [
+            4.36,
+            43.805
+          ],
+          "category": "shopping",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großes Einkaufszentrum im Süden der Stadt.",
+            "hu": "Nagy bevásárlóközpont a város déli részén.",
+            "ro": "Centru comercial mare în sudul orașului.",
+            "en": "Large shopping center in the south of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Tram-Bus-System von Nîmes, um die Stadt bequem zu erkunden. Starten Sie am Bahnhof und fahren Sie direkt ins antike Zentrum.\n\nNach dem Besuch der Arena und des Carré d'Art finden Sie in der Altstadt zahlreiche Möglichkeiten für ein gemütliches Mittagessen.\n\nDer Nachmittag führt Sie mit dem T1-Bus in den modernen Süden der Stadt zum Einkaufen oder für einen Kaffee im Costières-Viertel.\n\nDie Rückfahrt zum Zentrum bietet noch einmal Ausblicke auf die Alleen, während Sie bequem den Tag Revue passieren lassen.",
+        "hu": "Használja Nîmes hatékony Tram-busz rendszerét a város kényelmes felfedezéséhez. Kezdjen a vasútállomáson, és utazzon közvetlenül az ókori központba.\n\nAz Aréna és a Carré d'Art meglátogatása után az óvárosban számos lehetőség nyílik egy kellemes ebédre.\n\nA délután a T1-es busszal a város modern déli részére repíti, ahol vásárolhat vagy kávézhat a Costières negyedben.\n\nA központba való visszautazás során még egyszer megcsodálhatja a sugárutakat, miközben kényelmesen felidézi a nap eseményeit.",
+        "ro": "Folosiți sistemul eficient de Tram-bus din Nîmes pentru a explora orașul confortabil. Începeți de la gară și călătoriți direct spre centrul antic.\n\nDupă vizitarea Arenei și a Carré d'Art, veți găsi în orașul vechi numeroase opțiuni pentru un prânz plăcut.\n\nDupă-amiaza vă duce cu autobuzul T1 în sudul modern al orașului pentru cumpărături sau o cafea în cartierul Costières.\n\nÎntoarcerea spre centru oferă din nou vederi asupra bulevardelor, în timp ce treceți în revistă evenimentele zilei în confort.",
+        "en": "Use Nîmes' efficient Tram-bus system to explore the city comfortably. Start at the railway station and travel directly to the ancient center.\n\nAfter visiting the Arena and Carré d'Art, the old town offers numerous options for a pleasant lunch.\n\nThe afternoon takes you with the T1 bus to the modern south of the city for shopping or a coffee in the Costières district.\n\nThe journey back to the center offers more views of the avenues while you comfortably recall the day's events."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Gourmet-Stopp im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Gasztronómiai megálló a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Popas gastronomic în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Nîmes",
+            "tip": "Gourmet stop in the heart of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Place de l'Horloge",
+            "tip": "Ein ruhigerer Platz im Zentrum.",
+            "emoji": "🏙️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place de l'Horloge",
+            "tip": "Egy csendesebb tér a központban.",
+            "emoji": "🏙️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place de l'Horloge",
+            "tip": "O piață mai liniștită în centru.",
+            "emoji": "🏙️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Place de l'Horloge",
+            "tip": "A quieter square in the center.",
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Cap Costières",
+            "tip": "Über 80 Geschäfte mit T1 erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap Costières bevásárlóközpont",
+            "tip": "Több mint 80 üzlet a T1 busszal elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Cap Costières",
+            "tip": "Peste 80 de magazine accesibile cu T1."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap Costières Shopping Center",
+            "tip": "Over 80 shops accessible via T1."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets beim Fahrer oder am Automaten.",
+          "Die T1 fährt alle 10 Minuten."
+        ],
+        "hu": [
+          "Vegyél jegyet a sofőrnél vagy az automatákból.",
+          "A T1 busz 10 percenként jár."
+        ],
+        "ro": [
+          "Cumpărați bilete de la șofer sau de la automate.",
+          "T1 circulă la fiecare 10 minute."
+        ],
+        "en": [
+          "Buy tickets from the driver or at the machines.",
+          "The T1 runs every 10 minutes."
+        ]
+      }
+    }
+  }
+}

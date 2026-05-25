@@ -1,0 +1,886 @@
+{
+  "city_id": "amboise",
+  "anchor": {
+    "name": "Château d'Amboise",
+    "coords": [
+      0.9856,
+      47.4135
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place Michel Debré",
+          "coords": [
+            0.9845,
+            47.4132
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühstücken Sie hier mit Blick auf die Schlossmauern.",
+            "hu": "Reggelizzen itt közvetlenül a várfalak tövében.",
+            "ro": "Luați micul dejun aici, chiar sub zidurile castelului.",
+            "en": "Have breakfast here right under the castle walls."
+          }
+        },
+        {
+          "name": "Château d'Amboise",
+          "coords": [
+            0.9856,
+            47.4135
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Grabstätte von Leonardo da Vinci in der Kapelle.",
+            "hu": "Látogassa meg Leonardo da Vinci sírját a kápolnában.",
+            "ro": "Vizitați mormântul lui Leonardo da Vinci în capelă.",
+            "en": "Visit the tomb of Leonardo da Vinci in the chapel."
+          }
+        },
+        {
+          "name": "Église Saint-Denis",
+          "coords": [
+            0.9835,
+            47.411
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Kapitelle in dieser historischen Kirche.",
+            "hu": "Csodálja meg a román stílusú oszlopfőket a templomban.",
+            "ro": "Admirați capitelurile romanice în această biserică istorică.",
+            "en": "Admire the Romanesque capitals in this historic church."
+          }
+        },
+        {
+          "name": "Le Clos Lucé",
+          "coords": [
+            0.9925,
+            47.4105
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Testen Sie Leonardos Erfindungen im weitläufigen Park.",
+            "hu": "Próbálja ki Leonardo találmányait a tágas parkban.",
+            "ro": "Testați invențiile lui Leonardo în parcul generos.",
+            "en": "Test Leonardo's inventions in the spacious park."
+          }
+        },
+        {
+          "name": "Château Gaillard",
+          "coords": [
+            0.9935,
+            47.4085
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ersten Renaissance-Gärten Frankreichs.",
+            "hu": "Fedezze fel Franciaország első reneszánsz kertjeit.",
+            "ro": "Descoperiți primele grădini renascentiste din Franța.",
+            "en": "Discover the first Renaissance gardens of France."
+          }
+        },
+        {
+          "name": "Quai Charles de Gaulle",
+          "coords": [
+            0.983,
+            47.415
+          ],
+          "category": "park",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang an den Ufern der Loire.",
+            "hu": "Élvezze a naplementét a Loire folyó partján.",
+            "ro": "Bucurați-vă de apusul de soare pe malul Loarei.",
+            "en": "Enjoy the sunset on the banks of the Loire river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Amboise auf der Place Michel Debré, bevor Sie das majestätische Königsschloss erkunden. Am Vormittag spazieren Sie zur Kirche Saint-Denis und tauchen in die mittelalterliche Atmosphäre ein. Der Nachmittag steht ganz im Zeichen Leonardos im Clos Lucé und den prächtigen Gärten des Château Gaillard. Zum Abschluss bietet ein Spaziergang am Loire-Ufer den perfekten Ausklang eines kulturellen Tages.",
+        "hu": "Kezdje a napot Amboise szívében a Place Michel Debré téren, majd fedezze fel a fenséges királyi várkastélyt. Délelőtt sétáljon el a Saint-Denis templomhoz, élvezve a középkori hangulatot. A délutánt szentelje Leonardo örökségének a Clos Lucé-ban és a Château Gaillard pompás kertjeiben. Végezetül a Loire-parti séta nyújt tökéletes lezárást ennek a kulturális napnak.",
+        "ro": "Începeți ziua în inima orașului Amboise în Piața Michel Debré, înainte de a explora maiestuosul castel regal. Dimineața, plimbați-vă până la biserica Saint-Denis, cufundându-vă în atmosfera medievală. După-amiaza este dedicată moștenirii lui Leonardo la Clos Lucé și grădinilor superbe de la Château Gaillard. La final, o plimbare pe malul Loarei oferă încheierea perfectă a unei zile culturale.",
+        "en": "Start your day in the heart of Amboise at Place Michel Debré before exploring the majestic Royal Castle. In the morning, stroll to Saint-Denis church, soaking in the medieval atmosphere. Spend the afternoon dedicated to Leonardo's legacy at Clos Lucé and the magnificent gardens of Château Gaillard. Finally, a walk along the Loire banks offers the perfect conclusion to a cultural day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Lion d'Or",
+            "tip": "Traditionelle Loire-Küche direkt am Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Lion d'Or",
+            "tip": "Hagyományos Loire-menti konyha közvetlenül a várnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Lion d'Or",
+            "tip": "Bucătărie tradițională de pe Valea Loarei lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Lion d'Or",
+            "tip": "Traditional Loire cuisine right by the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loire-Ufer",
+            "tip": "Ruhiger Platz zum Beobachten der Vögel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loire-part",
+            "tip": "Csendes hely a madarak megfigyelésére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Loarei",
+            "tip": "Loc liniștit pentru observarea păsărilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loire Banks",
+            "tip": "Quiet spot for birdwatching.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Bigot",
+            "tip": "Berühmte Macarons und Gebäck seit 1913."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Bigot",
+            "tip": "Híres macaronok és sütemények 1913 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Bigot",
+            "tip": "Macarons și produse de patiserie celebre din 1913."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Bigot",
+            "tip": "Famous macarons and pastries since 1913."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Buchen Sie Schlosstickets online, um Warteschlangen zu vermeiden.",
+          "Der Wochenmarkt am Sonntag ist ein Muss für Feinschmecker.",
+          "Amboise ist sehr kompakt und lässt sich ideal zu Fuß erkunden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Foglaljon jegyet online a várba a sorban állás elkerülése végett.",
+          "A vasárnapi piac kötelező program az ínyenceknek.",
+          "Amboise nagyon kompakt, gyalogosan is könnyen bejárható."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Rezervați bilete online la castel pentru a evita cozile.",
+          "Piața de duminică este obligatorie pentru gurmanzi.",
+          "Amboise este foarte compact și poate fi explorat ideal la pas."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Book castle tickets online to avoid long queues.",
+          "The Sunday market is a must for food lovers.",
+          "Amboise is very compact and ideal to explore on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Quai du Mail",
+          "coords": [
+            0.981,
+            47.416
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für den Radweg 'Loire à Vélo'.",
+            "hu": "A 'Loire à Vélo' kerékpárút kiindulópontja.",
+            "ro": "Punct de plecare pentru traseul ciclist 'Loire à Vélo'.",
+            "en": "Starting point for the 'Loire à Vélo' bike path."
+          }
+        },
+        {
+          "name": "Pagode de Chanteloup",
+          "coords": [
+            0.9815,
+            47.3915
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick vom Gipfel der Pagode.",
+            "hu": "Élvezze a panorámát a pagoda tetejéről.",
+            "ro": "Bucurați-vă de panorama din vârful pagodei.",
+            "en": "Enjoy the panoramic view from the top of the pagoda."
+          }
+        },
+        {
+          "name": "Clos Lucé",
+          "coords": [
+            0.9925,
+            47.4105
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Es gibt sichere Fahrradparkplätze am Eingang.",
+            "hu": "Biztonságos kerékpártárolók vannak a bejáratnál.",
+            "ro": "Există parcări sigure pentru biciclete la intrare.",
+            "en": "There are secure bike racks at the entrance."
+          }
+        },
+        {
+          "name": "Île d'Or",
+          "coords": [
+            0.985,
+            47.418
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick mit Blick auf das Schloss.",
+            "hu": "Tökéletes hely egy piknikhez, kilátással a várra.",
+            "ro": "Loc perfect pentru un picnic cu vedere la castel.",
+            "en": "Perfect spot for a picnic with a view of the castle."
+          }
+        },
+        {
+          "name": "Chai de la Maison",
+          "coords": [
+            0.9905,
+            47.413
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verkosten Sie lokale Weine aus der Touraine.",
+            "hu": "Kóstoljon helyi Touraine-i borokat.",
+            "ro": "Degustați vinuri locale din regiunea Touraine.",
+            "en": "Taste local Touraine wines here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Amboise auf zwei Rädern entlang der Loire. Radeln Sie zur Pagode de Chanteloup für eine tolle Aussicht und besuchen Sie dann Leonardos Residenz. Den Nachmittag verbringen Sie entspannt auf der Île d'Or, bevor Sie den Tag mit einer Weinverkostung abschließen.",
+        "hu": "Fedezze fel Amboise-t két keréken a Loire mentén. Tekerjen el a Chanteloup pagodához a kilátásért, majd látogassa meg Leonardo rezidenciáját. A délutánt töltse pihenéssel az Île d'Or szigeten, mielőtt borkóstolóval zárná a napot.",
+        "ro": "Explorați Amboise pe două roți de-a lungul Loarei. Pedalați până la Pagoda Chanteloup pentru priveliște, apoi vizitați reședința lui Leonardo. După-amiaza relaxați-vă pe insula Île d'Or, înainte de a încheia ziua cu o degustare de vinuri.",
+        "en": "Explore Amboise on two wheels along the Loire. Cycle to the Chanteloup Pagoda for views, then visit Leonardo's residence. Spend the afternoon relaxing on Île d'Or before ending the day with a wine tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caveau de la Maison",
+            "tip": "Regionale Weine und Käseplatten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caveau de la Maison",
+            "tip": "Regionális borok és sajttálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caveau de la Maison",
+            "tip": "Vinuri regionale și platouri cu brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caveau de la Maison",
+            "tip": "Regional wines and cheese platters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chanteloup Park",
+            "tip": "Weitläufiges Gelände zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chanteloup Park",
+            "tip": "Tágas terület a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Chanteloup",
+            "tip": "Zonă vastă pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chanteloup Park",
+            "tip": "Vast grounds for relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velo Val de Loire",
+            "tip": "Verleih und Zubehör für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velo Val de Loire",
+            "tip": "Kerékpárkölcsönző és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Velo Val de Loire",
+            "tip": "Închirieri și accesorii pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velo Val de Loire",
+            "tip": "Bike rental and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den flachen 'Loire à Vélo' Weg.",
+          "Achten Sie auf die Einbahnstraßen in der Altstadt.",
+          "Ein Fahrradschloss ist bei den Sehenswürdigkeiten unerlässlich.",
+          "Die Pagode liegt etwas außerhalb, planen Sie Zeit für die Fahrt ein."
+        ],
+        "hu": [
+          "Használja a sík 'Loire à Vélo' kerékpárutat.",
+          "Figyeljen az egyirányú utcákra az óvárosban.",
+          "A kerékpárzár elengedhetetlen a látnivalóknál.",
+          "A pagoda kicsit kint van, számoljon az útidővel."
+        ],
+        "ro": [
+          "Folosiți traseul plat 'Loire à Vélo'.",
+          "Atenție la străzile cu sens unic din centrul vechi.",
+          "Antifurtul este esențial la obiectivele turistice.",
+          "Pagoda este puțin în exterior, planificați timp pentru drum."
+        ],
+        "en": [
+          "Use the flat 'Loire à Vélo' path.",
+          "Watch out for one-way streets in the old town.",
+          "A bike lock is essential at tourist sites.",
+          "The pagoda is a bit outside, allow time for the ride."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Parking du Château",
+          "coords": [
+            0.987,
+            47.414
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz, ideal für den Schlosspark.",
+            "hu": "Központi parkoló, ideális a vár meglátogatásához.",
+            "ro": "Parcare centrală, ideală pentru vizitarea castelului.",
+            "en": "Central parking, ideal for visiting the castle."
+          }
+        },
+        {
+          "name": "Château d'Amboise",
+          "coords": [
+            0.9856,
+            47.4135
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Loire von den Terrassen.",
+            "hu": "Élvezze a kilátást a Loire-ra a teraszokról.",
+            "ro": "Bucurați-vă de vederea spre Loara de pe terase.",
+            "en": "Enjoy the view of the Loire from the terraces."
+          }
+        },
+        {
+          "name": "Château de Chenonceau",
+          "coords": [
+            1.07,
+            47.325
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Das Schloss über dem Fluss Cher ist nur 20 Min. entfernt.",
+            "hu": "A Cher folyó feletti kastély csak 20 percre van.",
+            "ro": "Castelul de peste râul Cher este la doar 20 de minute.",
+            "en": "The castle over the Cher river is only 20 mins away."
+          }
+        },
+        {
+          "name": "Mini-Châteaux Parc",
+          "coords": [
+            0.955,
+            47.398
+          ],
+          "category": "museum",
+          "arrive_at": "14:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Alle Loire-Schlösser in Miniaturform an einem Ort.",
+            "hu": "Az összes Loire-menti kastély miniatűrben egy helyen.",
+            "ro": "Toate castelele de pe Loara în miniatură într-un singur loc.",
+            "en": "All Loire castles in miniature form in one place."
+          }
+        },
+        {
+          "name": "Caves Ambacia",
+          "coords": [
+            0.998,
+            47.4145
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die in den Fels gehauenen Weinkeller.",
+            "hu": "Látogassa meg a sziklába vájt borospincéket.",
+            "ro": "Vizitați cramele săpate în stâncă.",
+            "en": "Visit the wine cellars carved into the rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie Amboise mit dem berühmten Chenonceau. Beginnen Sie in Amboise, fahren Sie dann zum prächtigen Wasserschloss Chenonceau. Am Nachmittag erleben Sie das Tal im Miniaturpark und beenden die Tour mit einer Kellerbesichtigung bei Ambacia.",
+        "hu": "Autóval Amboise-t a híres Chenonceau-val is összekötheti. Kezdjen Amboise-ban, majd hajtson át a pompás vízi kastélyhoz, Chenonceau-hoz. Délután nézze meg a völgyet a miniatűr parkban, majd zárja a túrát az Ambacia pincerendszerében.",
+        "ro": "Cu mașina puteți combina Amboise cu celebrul Chenonceau. Începeți în Amboise, apoi conduceți până la splendidul castel pe apă Chenonceau. După-amiaza vedeți valea în parcul miniaturilor și încheiați turul cu o vizită la cramele Ambacia.",
+        "en": "By car, combine Amboise with the famous Chenonceau. Start in Amboise, then drive to the magnificent water castle Chenonceau. In the afternoon, see the valley in the miniature park and end the tour with a cellar visit at Ambacia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Gehobene Küche im Schlosspark von Chenonceau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Elegáns konyha a chenonceau-i kastélyparkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Bucătărie rafinată în parcul castelului Chenonceau."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Orangerie",
+            "tip": "Fine dining in the Chenonceau castle park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Königliche Gärten",
+            "tip": "Ruhige Spazierwege abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Királyi kertek",
+            "tip": "Csendes sétautak a tömegtől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile regale",
+            "tip": "Alei liniștite departe de mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Royal Gardens",
+            "tip": "Quiet walking paths away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Lokale Reiseführer und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Helyi útikalauzok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Ghiduri locale și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison de la Presse",
+            "tip": "Local guidebooks and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Amboise am Quai, dort ist es oft gratis.",
+          "Die Straße nach Chenonceau ist sehr malerisch.",
+          "Vermeiden Sie die Stoßzeiten in den Schlössern.",
+          "In den Höhlenkellern (Troglo) ist es immer kühl, Jacke mitnehmen."
+        ],
+        "hu": [
+          "Amboise-ban a parton (Quai) gyakran ingyenes a parkolás.",
+          "A Chenonceau felé vezető út nagyon látványos.",
+          "Kerülje a csúcsidőszakot a kastélyokban.",
+          "A sziklapincékben (troglo) mindig hűvös van, vigyen kabátot."
+        ],
+        "ro": [
+          "Parcați pe mal (Quai) în Amboise, deseori e gratuit.",
+          "Drumul spre Chenonceau este foarte pitoresc.",
+          "Evitați orele de vârf la castele.",
+          "În cramele rupestre (troglo) e mereu răcoare, luați o jachetă."
+        ],
+        "en": [
+          "Park at the Quai in Amboise, it is often free.",
+          "The road to Chenonceau is very scenic.",
+          "Avoid peak hours at the castles.",
+          "It is always cool in the cave cellars (troglo), bring a jacket."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare d'Amboise",
+          "coords": [
+            0.981,
+            47.4215
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Zug aus Tours oder Paris.",
+            "hu": "Érkezés vonattal Tours vagy Párizs felől.",
+            "ro": "Sosirea cu trenul dinspre Tours sau Paris.",
+            "en": "Arrival by train from Tours or Paris."
+          }
+        },
+        {
+          "name": "Pont Maréchal Leclerc",
+          "coords": [
+            0.9835,
+            47.4165
+          ],
+          "category": "park",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Fotospot für die Stadtsilhouette.",
+            "hu": "A legjobb fotópont a város sziluettjéhez.",
+            "ro": "Cel mai bun loc pentru poze cu silueta orașului.",
+            "en": "Best photo spot for the city skyline."
+          }
+        },
+        {
+          "name": "Château d'Amboise",
+          "coords": [
+            0.9856,
+            47.4135
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Schlossberg haben Sie alles im Blick.",
+            "hu": "A várhegyről mindent belátni.",
+            "ro": "De pe dealul castelului aveți o vedere de ansamblu.",
+            "en": "You have a great view from the castle hill."
+          }
+        },
+        {
+          "name": "Clos Lucé",
+          "coords": [
+            0.9925,
+            47.4105
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nur 15 Min. Fußweg vom Schloss entfernt.",
+            "hu": "Csak 15 perc séta a vártól.",
+            "ro": "La doar 15 minute de mers pe jos de castel.",
+            "en": "Only a 15 min walk from the castle."
+          }
+        },
+        {
+          "name": "Centre Ville",
+          "coords": [
+            0.984,
+            47.4125
+          ],
+          "category": "gastro",
+          "arrive_at": "15:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Busse halten direkt im Zentrum.",
+            "hu": "A buszok közvetlenül a központban állnak meg.",
+            "ro": "Autobuzele opresc chiar în centru.",
+            "en": "Buses stop right in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Zug und lokale Busse für einen stressfreien Tag. Starten Sie am Bahnhof und überqueren Sie die Brücke für das beste Foto. Besuchen Sie das Schloss und das Clos Lucé bequem zu Fuß. Beenden Sie den Tag im Stadtzentrum, bevor Sie zurück zum Bahnhof fahren.",
+        "hu": "Használja a vonatot és a helyi buszokat a stresszmentes naphoz. Kezdjen az állomáson, majd menjen át a hídon a legjobb fotóért. Látogassa meg a várat és a Clos Lucé-t kényelmesen gyalog. Zárja a napot a belvárosban, mielőtt visszatérne az állomásra.",
+        "ro": "Folosiți trenul și autobuzele locale pentru o zi fără stres. Începeți la gară și traversați podul pentru cea mai bună poză. Vizitați castelul și Clos Lucé confortabil pe jos. Încheiați ziua în centrul orașului înainte de a vă întoarce la gară.",
+        "en": "Use the train and local buses for a stress-free day. Start at the station and cross the bridge for the best photo. Visit the castle and Clos Lucé comfortably on foot. End the day in the city center before returning to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie Anne de Bretagne",
+            "tip": "Günstige und leckere Crêpes im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie Anne de Bretagne",
+            "tip": "Olcsó és finom palacsinták a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie Anne de Bretagne",
+            "tip": "Clătite ieftine și gustoase în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie Anne de Bretagne",
+            "tip": "Cheap and delicious crepes in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sankt-Hubertus-Kapelle",
+            "tip": "Stiller Ort der Besinnung.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Hubertus-kápolna",
+            "tip": "Csendes hely az elmélyüléshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfântul Hubert",
+            "tip": "Loc liniștit de meditație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint Hubert Chapel",
+            "tip": "Quiet place for reflection.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Caveau des Producteurs",
+            "tip": "Direktverkauf von Weinen der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caveau des Producteurs",
+            "tip": "Helyi borok közvetlen értékesítése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caveau des Producteurs",
+            "tip": "Vânzare directă de vinuri din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caveau des Producteurs",
+            "tip": "Direct sale of regional wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bahnhof liegt auf der anderen Seite der Loire.",
+          "Prüfen Sie die Fahrpläne der 'Remi' Busse.",
+          "Die meisten Wege in Amboise sind zu Fuß kürzer als mit dem Bus.",
+          "Kaufen Sie Ihr Ticket im Zug oder am Automaten am Bahnhof."
+        ],
+        "hu": [
+          "Az állomás a Loire túloldalán található.",
+          "Ellenőrizze a 'Remi' buszok menetrendjét.",
+          "Amboise-ban a legtöbb út gyalog rövidebb, mint busszal.",
+          "Vegye meg a jegyet a vonaton vagy az állomáson."
+        ],
+        "ro": [
+          "Gara se află pe cealaltă parte a Loarei.",
+          "Verificați mersul autobuzelor 'Remi'.",
+          "Cele mai multe trasee în Amboise sunt mai scurte pe jos decât cu autobuzul.",
+          "Cumpărați biletul din tren sau de la automatele din gară."
+        ],
+        "en": [
+          "The station is on the other side of the Loire.",
+          "Check the schedules for 'Remi' buses.",
+          "Most routes in Amboise are shorter on foot than by bus.",
+          "Buy your ticket on the train or at station machines."
+        ]
+      }
+    }
+  }
+}

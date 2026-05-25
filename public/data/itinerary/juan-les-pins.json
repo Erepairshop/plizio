@@ -1,0 +1,959 @@
+{
+  "city_id": "juan-les-pins",
+  "anchor": {
+    "name": "Juan-les-Pins",
+    "coords": [
+      7.1056,
+      43.5667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de la Pinède",
+            "hu": "Parc de la Pinède",
+            "ro": "Parc de la Pinède",
+            "en": "Parc de la Pinède"
+          },
+          "coords": [
+            7.1082,
+            43.5675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schatten unter Pinien genießen.",
+            "hu": "Élvezze az árnyékot a píneák alatt.",
+            "ro": "Bucurați-vă de umbră sub pini.",
+            "en": "Enjoy the shade under the pines."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Jeanne d'Arc",
+            "hu": "Szent Johanna templom",
+            "ro": "Biserica Sfânta Ioana d'Arc",
+            "en": "Jeanne d'Arc Church"
+          },
+          "coords": [
+            7.1075,
+            43.5685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur.",
+            "hu": "Csodálja meg a modern építészetet.",
+            "ro": "Admirați arhitectura modernă.",
+            "en": "Admire the modern architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinède Gould",
+            "hu": "Pinède Gould",
+            "ro": "Pinède Gould",
+            "en": "Pinède Gould"
+          },
+          "coords": [
+            7.112,
+            43.5665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ort des Jazz à Juan Festivals.",
+            "hu": "A Jazz à Juan fesztivál helyszíne.",
+            "ro": "Locul festivalului Jazz à Juan.",
+            "en": "Home of the Jazz à Juan festival."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Soleil",
+            "hu": "Promenade du Soleil",
+            "ro": "Promenade du Soleil",
+            "en": "Promenade du Soleil"
+          },
+          "coords": [
+            7.109,
+            43.5655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Blick auf das Meer.",
+            "hu": "A legjobb kilátás a tengerre.",
+            "ro": "Cea mai bună vedere la mare.",
+            "en": "Best view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Juan-les-Pins",
+            "hu": "Juan-les-Pins strand",
+            "ro": "Plaja Juan-les-Pins",
+            "en": "Juan-les-Pins Beach"
+          },
+          "coords": [
+            7.105,
+            43.566
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Feiner Sand und klares Wasser.",
+            "hu": "Finom homok és tiszta víz.",
+            "ro": "Nisip fin și apă limpede.",
+            "en": "Fine sand and clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Juan-les-Pins",
+            "hu": "Juan-les-Pins Kaszinó",
+            "ro": "Cazinoul Juan-les-Pins",
+            "en": "Casino de Juan-les-Pins"
+          },
+          "coords": [
+            7.1065,
+            43.567
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Versuchen Sie Ihr Glück am Abend.",
+            "hu": "Próbáljon szerencsét este.",
+            "ro": "Încercați-vă norocul seara.",
+            "en": "Try your luck in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Parc de la Pinède, bevor Sie die markante moderne Architektur der Église Jeanne d'Arc besuchen. Mittags schlendern Sie durch die Pinède Gould, den legendären Schauplatz des Jazz-Festivals. Der Nachmittag gehört der Promenade du Soleil und dem entspannten Strandleben im feinen Sand. Den Tag lassen Sie glanzvoll im Casino oder bei einem Cocktail mit Blick auf das Mittelmeer ausklingen.",
+        "hu": "Kezdje a napot az árnyas Parc de la Pinède-ben, majd látogasson el a Szent Johanna templom modern épületéhez. Délben sétáljon végig a Pinède Gould területén, amely a híres jazzfesztivál otthona. A délutánt töltse a Promenade du Soleil sétányon és a város finomhomokos strandján pihenve. A napot stílusosan a kaszinóban vagy egy tengerparti koktél mellett zárhatja.",
+        "ro": "Începeți ziua în umbrosul Parc de la Pinède, înainte de a vizita arhitectura modernă a Bisericii Sfânta Ioana d'Arc. La prânz, plimbați-vă prin Pinède Gould, locul legendar al festivalului de jazz. După-amiaza este dedicată Promenadei du Soleil și relaxării pe plaja cu nisip fin. Încheiați ziua cu stil la cazinou sau cu un cocktail în fața mării, admirând apusul.",
+        "en": "Start your day in the shady Parc de la Pinède before visiting the striking modern architecture of the Jeanne d'Arc Church. At midday, stroll through Pinède Gould, the legendary venue for the jazz festival. The afternoon is dedicated to the Promenade du Soleil and relaxing on the fine sandy beach. End your day with a touch of glamour at the casino or with a cocktail overlooking the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Passagère",
+            "tip": "Exquisite Meeresfrüchte mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Passagère",
+            "tip": "Exkluzív tengeri ételek tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Passagère",
+            "tip": "Fructe de mare exchizite cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Passagère",
+            "tip": "Exquisite seafood with sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Port Gallice",
+            "tip": "Ein ruhiger Hafen zum Entspannen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port Gallice",
+            "tip": "Csendes kikötő a pihenéshez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port Gallice",
+            "tip": "Un port liniștit pentru relaxare.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Gallice",
+            "tip": "A quiet harbor for relaxation.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue Guy de Maupassant",
+            "tip": "Exklusive Boutiquen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue Guy de Maupassant",
+            "tip": "Exkluzív butikok és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue Guy de Maupassant",
+            "tip": "Buticuri exclusive și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue Guy de Maupassant",
+            "tip": "Exclusive boutiques and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe.",
+          "Sonnenschutz ist unerlässlich."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt.",
+          "A fényvédő használata elengedhetetlen."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă.",
+          "Protecția solară este esențială."
+        ],
+        "en": [
+          "Wear comfortable shoes.",
+          "Sunscreen is essential."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Promenade du Soleil",
+            "hu": "Promenade du Soleil",
+            "ro": "Promenade du Soleil",
+            "en": "Promenade du Soleil"
+          },
+          "coords": [
+            7.109,
+            43.5655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt entlang der Küste.",
+            "hu": "Kerékpározás a part mentén.",
+            "ro": "Plimbare cu bicicleta pe faleză.",
+            "en": "Cycling along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Gallice",
+            "hu": "Port Gallice",
+            "ro": "Port Gallice",
+            "en": "Port Gallice"
+          },
+          "coords": [
+            7.115,
+            43.56
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein versteckter Hafen.",
+            "hu": "Egy rejtett kikötő.",
+            "ro": "Un port ascuns.",
+            "en": "A hidden harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel Belles Rives",
+            "hu": "Hôtel Belles Rives",
+            "ro": "Hôtel Belles Rives",
+            "en": "Hôtel Belles Rives"
+          },
+          "coords": [
+            7.118,
+            43.561
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Legendäres Art-Déco-Hotel.",
+            "hu": "Legendás Art Déco szálloda.",
+            "ro": "Hotel Art Déco legendar.",
+            "en": "Legendary Art Deco hotel."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinède Gould",
+            "hu": "Pinède Gould",
+            "ro": "Pinède Gould",
+            "en": "Pinède Gould"
+          },
+          "coords": [
+            7.112,
+            43.5665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause.",
+            "hu": "Ideális egy pihenőhöz.",
+            "ro": "Ideal pentru o pauză.",
+            "en": "Ideal for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pinède",
+            "hu": "Parc de la Pinède",
+            "ro": "Parc de la Pinède",
+            "en": "Parc de la Pinède"
+          },
+          "coords": [
+            7.1082,
+            43.5675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannung im Schatten.",
+            "hu": "Pihenés az árnyékban.",
+            "ro": "Relaxare la umbră.",
+            "en": "Relaxation in the shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Juan-les-Pins mit dem Rad. Starten Sie auf der Promenade du Soleil und fahren Sie zum eleganten Port Gallice. Bewundern Sie das historische Hôtel Belles Rives, bevor Sie durch die Pinède Gould radeln. Den Nachmittag verbringen Sie entspannt im Parc de la Pinède, wo Sie die Atmosphäre unter den Bäumen genießen können.",
+        "hu": "Fedezze fel Juan-les-Pins-t kerékpárral. Kezdje a Promenade du Soleil sétányon, majd tekerjen el az elegáns Port Gallice kikötőbe. Csodálja meg a történelmi Hôtel Belles Rives épületét, mielőtt átkerekezne a Pinède Gould parkon. A délutánt töltse pihenéssel a Parc de la Pinède fái alatt.",
+        "ro": "Explorați Juan-les-Pins cu bicicleta. Începeți pe Promenade du Soleil și pedalați până la elegantul Port Gallice. Admirați istoricul Hotel Belles Rives înainte de a trece prin Pinède Gould. Petreceți după-amiaza relaxându-vă în Parc de la Pinède, bucurându-vă de atmosferă.",
+        "en": "Explore Juan-les-Pins by bike. Start on the Promenade du Soleil and cycle to the elegant Port Gallice. Admire the historic Hôtel Belles Rives before riding through Pinède Gould. Spend the afternoon relaxing in the Parc de la Pinède, enjoying the atmosphere under the trees."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie de la Pinède",
+            "tip": "Frische Baguettes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie de la Pinède",
+            "tip": "Friss bagett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie de la Pinède",
+            "tip": "Baghete proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie de la Pinède",
+            "tip": "Fresh baguettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Port Gallice",
+            "tip": "Ruhiger Blick auf Yachten.",
+            "emoji": "🛥️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port Gallice",
+            "tip": "Csendes kilátás a jachtokra.",
+            "emoji": "🛥️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port Gallice",
+            "tip": "Vedere liniștită spre iahturi.",
+            "emoji": "🛥️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port Gallice",
+            "tip": "Quiet view of the yachts.",
+            "emoji": "🛥️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum-Märkte",
+            "tip": "Lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi piacok",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețele centrale",
+            "tip": "Produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Markets",
+            "tip": "Local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie Radwege.",
+          "Fahrrad gut abschließen."
+        ],
+        "hu": [
+          "Használja a kerékpárutakat.",
+          "Zárja le jól a biciklit."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete.",
+          "Asigurați bine bicicleta."
+        ],
+        "en": [
+          "Use bike paths.",
+          "Lock your bike securely."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Juan-les-Pins Zentrum",
+            "hu": "Juan-les-Pins központ",
+            "ro": "Centrul Juan-les-Pins",
+            "en": "Juan-les-Pins Center"
+          },
+          "coords": [
+            7.106,
+            43.567
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einfacher Startpunkt.",
+            "hu": "Egyszerű indulási pont.",
+            "ro": "Punct de plecare ușor.",
+            "en": "Easy starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Gallice",
+            "hu": "Port Gallice",
+            "ro": "Port Gallice",
+            "en": "Port Gallice"
+          },
+          "coords": [
+            7.115,
+            43.56
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplätze vorhanden.",
+            "hu": "Parkolóhelyek elérhetőek.",
+            "ro": "Locuri de parcare disponibile.",
+            "en": "Parking spaces available."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap d'Antibes",
+            "hu": "Cap d'Antibes",
+            "ro": "Cap d'Antibes",
+            "en": "Cap d'Antibes"
+          },
+          "coords": [
+            7.13,
+            43.55
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schöne Küstenstraße.",
+            "hu": "Szép part menti út.",
+            "ro": "Șosea de coastă frumoasă.",
+            "en": "Beautiful coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel Belles Rives",
+            "hu": "Hôtel Belles Rives",
+            "ro": "Hôtel Belles Rives",
+            "en": "Hôtel Belles Rives"
+          },
+          "coords": [
+            7.118,
+            43.561
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Mittagessen mit Stil.",
+            "hu": "Ebéd stílusosan.",
+            "ro": "Prânz cu stil.",
+            "en": "Lunch with style."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Juan-les-Pins",
+            "hu": "Juan-les-Pins strand",
+            "ro": "Plaja Juan-les-Pins",
+            "en": "Juan-les-Pins Beach"
+          },
+          "coords": [
+            7.105,
+            43.566
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 135,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen am Strand.",
+            "hu": "Pihenés a strandon.",
+            "ro": "Relaxare pe plajă.",
+            "en": "Relax on the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Juan-les-Pins und das Cap d'Antibes mit dem Auto. Besuchen Sie den Port Gallice und genießen Sie die Panoramafahrt um das Kap. Ein Mittagshalt beim Hôtel Belles Rives bietet Glamour. Den Nachmittag verbringen Sie entspannt am Hauptstrand, bevor Sie den Tag in der Stadt ausklingen lassen.",
+        "hu": "Fedezze fel Juan-les-Pins-t és a Cap d'Antibes-t autóval. Látogasson el a Port Gallice-hoz, és élvezze a panorámás utat a fok körül. Egy ebédszünet a Hôtel Belles Rives-nél igazi csillogást kínál. A délutánt töltse pihenéssel a főstrandon.",
+        "ro": "Descoperiți Juan-les-Pins și Cap d'Antibes cu mașina. Vizitați Port Gallice și bucurați-vă de drumul panoramic în jurul capului. O oprire pentru prânz la Hotel Belles Rives oferă strălucire. Petreceți după-amiaza relaxându-vă pe plaja principală.",
+        "en": "Discover Juan-les-Pins and Cap d'Antibes by car. Visit Port Gallice and enjoy the scenic drive around the cape. A lunch stop at Hôtel Belles Rives offers glamour. Spend the afternoon relaxing on the main beach before concluding your day in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Belles Rives Beach",
+            "tip": "Meeresfrüchte am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belles Rives Beach",
+            "tip": "Tengeri ételek a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belles Rives Beach",
+            "tip": "Fructe de mare pe apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Belles Rives Beach",
+            "tip": "Seafood by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cap d'Antibes Pfad",
+            "tip": "Ruhige Spaziergänge.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cap d'Antibes ösvény",
+            "tip": "Csendes séták.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărarea Cap d'Antibes",
+            "tip": "Plimbări liniștite.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cap d'Antibes Path",
+            "tip": "Quiet walks.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Antibes Markt",
+            "tip": "Regionale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antibes-i piac",
+            "tip": "Helyi különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Antibes",
+            "tip": "Specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Antibes Market",
+            "tip": "Regional specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken kann schwierig sein.",
+          "Parkhäuser nutzen."
+        ],
+        "hu": [
+          "A parkolás nehéz lehet.",
+          "Használjon parkolóházakat."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă.",
+          "Utilizați parcările."
+        ],
+        "en": [
+          "Parking can be difficult.",
+          "Use parking garages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casino de Juan-les-Pins",
+            "hu": "Juan-les-Pins Kaszinó",
+            "ro": "Cazinoul Juan-les-Pins",
+            "en": "Casino de Juan-les-Pins"
+          },
+          "coords": [
+            7.1065,
+            43.567
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt.",
+            "hu": "Központi csomópont.",
+            "ro": "Nod central.",
+            "en": "Central hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinède Gould",
+            "hu": "Pinède Gould",
+            "ro": "Pinède Gould",
+            "en": "Pinède Gould"
+          },
+          "coords": [
+            7.112,
+            43.5665
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halt direkt am Park.",
+            "hu": "Megálló a parknál.",
+            "ro": "Oprire lângă parc.",
+            "en": "Stop by the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Gallice",
+            "hu": "Port Gallice",
+            "ro": "Port Gallice",
+            "en": "Port Gallice"
+          },
+          "coords": [
+            7.115,
+            43.56
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Linie 2 nutzen.",
+            "hu": "Használja a 2-es vonalat.",
+            "ro": "Utilizați linia 2.",
+            "en": "Use line 2."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Pinède",
+            "hu": "Parc de la Pinède",
+            "ro": "Parc de la Pinède",
+            "en": "Parc de la Pinède"
+          },
+          "coords": [
+            7.1082,
+            43.5675
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Pause im Schatten.",
+            "hu": "Pihenő az árnyékban.",
+            "ro": "Pauză la umbră.",
+            "en": "Break in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Soleil",
+            "hu": "Promenade du Soleil",
+            "ro": "Promenade du Soleil",
+            "en": "Promenade du Soleil"
+          },
+          "coords": [
+            7.109,
+            43.5655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sonniger Abschluss.",
+            "hu": "Napsütéses zárás.",
+            "ro": "Final însorit.",
+            "en": "Sunny conclusion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie Busse, um Juan-les-Pins stressfrei zu erkunden. Beginnen Sie am Casino und fahren Sie zur Pinède Gould. Der Bus bringt Sie zum Port Gallice, einem perfekten Ort für eine Pause am Meer. Mittags entspannen Sie im schattigen Parc de la Pinède, bevor Sie den Tag auf der Promenade du Soleil abschließen.",
+        "hu": "Használja a buszokat a város stresszmentes felfedezéséhez. Induljon a kaszinótól a Pinède Gould-hoz. A busz elviszi a Port Gallice kikötőbe, majd hűsöljön a Parc de la Pinède árnyas fái alatt, és zárja a napot a Promenade du Soleil sétányon.",
+        "ro": "Utilizați autobuzele pentru a explora orașul fără stres. Începeți la cazinou spre Pinède Gould. Autobuzul vă duce la Port Gallice, apoi relaxați-vă în umbrosul Parc de la Pinède și încheiați ziua pe Promenade du Soleil.",
+        "en": "Use buses to explore the city stress-free. Start at the casino and head to Pinède Gould. The bus takes you to Port Gallice, then relax in the shady Parc de la Pinède and end your day on the Promenade du Soleil."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Estivale",
+            "tip": "Provenzalische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Estivale",
+            "tip": "Provence-i konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Estivale",
+            "tip": "Bucătărie provensală."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Estivale",
+            "tip": "Provençal cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Jeanne d'Arc",
+            "tip": "Ort der Ruhe.",
+            "emoji": "🙏"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Johanna templom",
+            "tip": "A nyugalom helye.",
+            "emoji": "🙏"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sfânta Ioana d'Arc",
+            "tip": "Loc de liniște.",
+            "emoji": "🙏"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jeanne d'Arc Church",
+            "tip": "Place of peace.",
+            "emoji": "🙏"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir-Shops",
+            "tip": "Lokales Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékboltok",
+            "tip": "Helyi kézművesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine suveniruri",
+            "tip": "Artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shops",
+            "tip": "Local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tagesticket kaufen.",
+          "Fahrplan prüfen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet.",
+          "Ellenőrizze a menetrendet."
+        ],
+        "ro": [
+          "Cumpărați bilet de o zi.",
+          "Verificați orarul."
+        ],
+        "en": [
+          "Buy a day ticket.",
+          "Check the schedule."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1154 @@
+{
+  "city_id": "caen",
+  "anchor": {
+    "name": "Caen City Center",
+    "coords": [
+      -0.3707,
+      49.1829
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Männerabtei (Abbaye aux Hommes)",
+            "hu": "Férfi-apátság (Abbaye aux Hommes)",
+            "ro": "Abația Bărbaților (Abbaye aux Hommes)",
+            "en": "Men's Abbey (Abbaye aux Hommes)"
+          },
+          "coords": [
+            -0.3732,
+            49.1812
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Grab von Wilhelm dem Eroberer in der Kirche.",
+            "hu": "Tekintse meg Hódító Vilmos sírját a templomban.",
+            "ro": "Vizitați mormântul lui Wilhelm Cuceritorul în interiorul bisericii.",
+            "en": "Visit the tomb of William the Conqueror inside the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.3615,
+            49.1835
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Renaissance-Chorkapelle.",
+            "hu": "Csodálja meg a gyönyörű reneszánsz szentélykápolnát.",
+            "ro": "Admirați capela corului în stil renascentist superb.",
+            "en": "Admire the magnificent Renaissance choir chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Caen",
+            "hu": "Caeni vár",
+            "ro": "Castelul din Caen",
+            "en": "Caen Castle"
+          },
+          "coords": [
+            -0.3621,
+            49.1865
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Festungsmauern für einen Panoramablick.",
+            "hu": "Sétáljon végig a várfalakon a panorámás kilátásért.",
+            "ro": "Plimbați-vă pe zidurile cetății pentru o vedere panoramică.",
+            "en": "Walk along the ramparts for a panoramic view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Vaugueux",
+            "hu": "Vaugueux negyed",
+            "ro": "Cartierul Vaugueux",
+            "en": "Vaugueux District"
+          },
+          "coords": [
+            -0.3582,
+            49.1852
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um normannische Spezialitäten zu probieren.",
+            "hu": "Tökéletes hely a normandiai specialitások megkóstolásához.",
+            "ro": "Locul perfect pentru a gusta specialități normande.",
+            "en": "The perfect spot to taste Norman specialties in a medieval setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Frauenabtei (Abbaye aux Dames)",
+            "hu": "Női-apátság (Abbaye aux Dames)",
+            "ro": "Abația Femeilor (Abbaye aux Dames)",
+            "en": "Women's Abbey (Abbaye aux Dames)"
+          },
+          "coords": [
+            -0.3535,
+            49.1872
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta aus dem 11. Jahrhundert unter dem Chor.",
+            "hu": "Látogasson el a kórus alatti 11. századi kriptába.",
+            "ro": "Vizitați cripta din secolul al XI-lea de sub cor.",
+            "en": "Visit the 11th-century crypt located under the choir."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Füvészkert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -0.3715,
+            49.1895
+          ],
+          "category": "park",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie bei den exotischen Pflanzen in den Gewächshäusern.",
+            "hu": "Pihenjen az üvegházak egzotikus növényei között.",
+            "ro": "Relaxați-vă printre plantele exotice din sere.",
+            "en": "Relax among the exotic plants in the greenhouses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der imposanten Abbaye aux Hommes, einem Meisterwerk normannischer Romanik, in dem Wilhelm der Eroberer begraben liegt. Ein kurzer Spaziergang führt Sie zur prächtigen Kirche Saint-Pierre direkt im Zentrum.\n\nMittags erkunden Sie die riesige Burgfestung von Caen, bevor Sie in die malerischen Gassen des Vaugueux-Viertels eintauchen. Hier genießen Sie ein traditionelles normannisches Mittagessen in einem der vielen historischen Fachwerkhäuser.\n\nAm Nachmittag pilgern Sie zur Abbaye aux Dames, der Ruhestätte von Königin Mathilde. Die ruhige Atmosphäre dieser romanischen Kirche bietet einen schönen Kontrast zum lebhaften Stadtzentrum und lädt zur Reflexion ein.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang durch den Jardin des Plantes. Die Vielfalt der Flora und die gepflegten Alleen bieten den perfekten Abschluss für Ihre Stadterkundung zu Fuß, bevor Sie den Abend gemütlich ausklingen lassen.",
+        "hu": "Kezdje a reggelt a lenyűgöző Férfi-apátságban, a normann román stílus remekművében, ahol Hódító Vilmos nyugszik. Egy rövid séta után elérheti a Szent Péter-templomot, amely közvetlenül a város szívében áll.\n\nDélben fedezze fel Caen hatalmas várát, majd merüljön el a Vaugueux negyed festői utcáiban. Itt hagyományos normandiai ebédet fogyaszthat el a számos történelmi favázas ház egyikében, élvezve a középkori hangulatot.\n\nDélután látogasson el a Női-apátságba, amely Mathilde királyné nyughelye. A román stílusú templom csendes légköre kellemes kontrasztot alkot a nyüzsgő városközponttal, és kiválóan alkalmas az elmélyülésre.\n\nA napot zárja egy pihentető sétával a Füvészkertben. A változatos növényvilág és a gondozott sétányok tökéletes befejezést nyújtanak a gyalogos városnézéshez, mielőtt egy hangulatos vacsorával búcsúzna a várostól.",
+        "ro": "Începeți dimineața la impunătoarea Abație a Bărbaților, o capodoperă a stilului romanic normand, unde este înmormântat Wilhelm Cuceritorul. O scurtă plimbare vă duce la superba biserică Saint-Pierre, chiar în centrul orașului.\n\nLa prânz, explorați uriașa fortăreață a castelului din Caen înainte de a pătrunde pe străduțele pitorești ale cartierului Vaugueux. Aici puteți savura un prânz tradițional normand într-una dintre numeroasele case istorice cu bârne de lemn.\n\nDupă-amiaza, vizitați Abația Femeilor, locul de odihnă al reginei Matilda. Atmosfera liniștită a acestei biserici romanice oferă un contrast plăcut cu centrul animat al orașului și este ideală pentru reflecție.\n\nÎncheiați ziua cu o plimbare relaxantă prin Grădina Botanică. Diversitatea florei și aleile bine întreținute oferă finalul perfect pentru explorarea orașului pe jos, înainte de a vă bucura de o seară liniștită.",
+        "en": "Start your morning at the imposing Men's Abbey, a masterpiece of Norman Romanesque architecture where William the Conqueror is buried. A short walk takes you to the magnificent Saint-Pierre Church right in the city center.\n\nAt midday, explore the massive fortress of Caen Castle before diving into the picturesque alleys of the Vaugueux district. Here, enjoy a traditional Norman lunch in one of the many historic half-timbered houses.\n\nIn the afternoon, head to the Women's Abbey, the resting place of Queen Matilda. The quiet atmosphere of this Romanesque church provides a lovely contrast to the busy city center and invites reflection.\n\nEnd the day with a relaxing stroll through the Jardin des Plantes. The variety of flora and the well-kept paths offer the perfect conclusion to your walking tour of the city before a cozy evening wrap-up."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tripes à la mode de Caen",
+            "tip": "Ein klassischer Eintopf aus Kutteln und Gemüse."
+          },
+          {
+            "name": "Le P'tit B",
+            "tip": "Hervorragende moderne normannische Küche im Vaugueux."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tripes à la mode de Caen",
+            "tip": "Klasszikus pacalpörkölt zöldségekkel és almaborral."
+          },
+          {
+            "name": "Le P'tit B",
+            "tip": "Kiváló modern normandiai konyha a Vaugueux negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tripes à la mode de Caen",
+            "tip": "O tocană clasică de burtă cu legume și cidru."
+          },
+          {
+            "name": "Le P'tit B",
+            "tip": "Bucătărie normandă modernă excelentă în Vaugueux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tripes à la mode de Caen",
+            "tip": "A classic tripe stew with vegetables and cider."
+          },
+          {
+            "name": "Le P'tit B",
+            "tip": "Excellent modern Norman cuisine in the Vaugueux area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ruhige Bänke zwischen Heilkräutern.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Abteikirche",
+            "tip": "Stille Kontemplation in der romanischen Architektur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Füvészkert",
+            "tip": "Csendes padok a gyógynövények között.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Apátsági templom",
+            "tip": "Csendes elmélyülés a román kori falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Bănci liniștite printre plante medicinale.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Biserica abației",
+            "tip": "Contemplare silențioasă în arhitectura romanică.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Quiet benches among medicinal herbs.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Abbey Church",
+            "tip": "Silent contemplation within Romanesque architecture.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Saint-Pierre",
+            "tip": "Hautpshoppingsstraße mit lokalen Boutiquen."
+          },
+          {
+            "name": "Marché Saint-Sauveur",
+            "tip": "Freitagsmarkt für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Saint-Pierre",
+            "tip": "Fő bevásárlóutca helyi butikokkal."
+          },
+          {
+            "name": "Marché Saint-Sauveur",
+            "tip": "Pénteki piac regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Saint-Pierre",
+            "tip": "Strada principală de cumpărături cu buticuri locale."
+          },
+          {
+            "name": "Marché Saint-Sauveur",
+            "tip": "Piața de vineri pentru produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Saint-Pierre",
+            "tip": "Main shopping street with local boutiques."
+          },
+          {
+            "name": "Marché Saint-Sauveur",
+            "tip": "Friday market for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Caen ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe.",
+          "Die meisten Sehenswürdigkeiten liegen in einer Achse.",
+          "Ein Regenschirm ist in der Normandie immer ratsam.",
+          "Reservieren Sie für das Mittagessen im Vaugueux-Viertel im Voraus."
+        ],
+        "hu": [
+          "Caen nagyon gyalogosbarát, viseljen kényelmes cipőt.",
+          "A legtöbb látnivaló egy tengely mentén helyezkedik el.",
+          "Normandiában mindig tanácsos egy esernyőt magánál tartani.",
+          "Érdemes előre asztalt foglalni a Vaugueux negyed éttermeibe."
+        ],
+        "ro": [
+          "Caen este foarte prietenos cu pietonii, purtați încălțăminte comodă.",
+          "Majoritatea obiectivelor turistice sunt situate pe o singură axă.",
+          "O umbrelă este întotdeauna recomandată în Normandia.",
+          "Rezervați din timp pentru prânz în cartierul Vaugueux."
+        ],
+        "en": [
+          "Caen is very pedestrian-friendly, so wear comfortable shoes.",
+          "Most sights are located along a single central axis.",
+          "An umbrella is always advisable when visiting Normandy.",
+          "Book your lunch table in the Vaugueux district in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Yachthafen",
+            "hu": "Yachthajókikötő",
+            "ro": "Portul de agrement",
+            "en": "Marina (Port de Plaisance)"
+          },
+          "coords": [
+            -0.3552,
+            49.1815
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Kanals für eine frische Brise.",
+            "hu": "Kerekezzen a csatorna mentén a friss szellőért.",
+            "ro": "Mergeți cu bicicleta de-a lungul canalului pentru o briză proaspătă.",
+            "en": "Cycle along the canal for a fresh breeze and great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Frauenabtei",
+            "hu": "Női-apátság",
+            "ro": "Abația Femeilor",
+            "en": "Women's Abbey"
+          },
+          "coords": [
+            -0.3535,
+            49.1872
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gute Fahrradabstellplätze vor dem Eingang.",
+            "hu": "Jó kerékpárparkolók a bejárat előtt.",
+            "ro": "Parcare bună pentru biciclete în fața intrării.",
+            "en": "Good bicycle parking spots available in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Caen",
+            "hu": "Caeni vár",
+            "ro": "Castelul din Caen",
+            "en": "Caen Castle"
+          },
+          "coords": [
+            -0.3621,
+            49.1865
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrräder müssen innerhalb der Burgmauern geschoben werden.",
+            "hu": "A váron belül a kerékpárokat tolni kell.",
+            "ro": "Bicicletele trebuie împinse în interiorul zidurilor castelului.",
+            "en": "Bicycles must be pushed by hand inside the castle walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Füvészkert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -0.3715,
+            49.1895
+          ],
+          "category": "park",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schattiger Ort für eine Pause.",
+            "hu": "Árnyékos hely egy rövid pihenőhöz.",
+            "ro": "Un loc umbros pentru o scurtă pauză.",
+            "en": "A shaded spot for a short break during your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelhügel (Colline aux Oiseaux)",
+            "hu": "Madarak dombja (Colline aux Oiseaux)",
+            "ro": "Colina Păsărilor (Colline aux Oiseaux)",
+            "en": "Bird Hill Park (Colline aux Oiseaux)"
+          },
+          "coords": [
+            -0.3855,
+            49.1995
+          ],
+          "category": "park",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das riesige Labyrinth und den Rosengarten.",
+            "hu": "Látogassa meg az óriási labirintust és a rózsakertet.",
+            "ro": "Vizitați labirintul uriaș și grădina de trandafiri.",
+            "en": "Visit the giant labyrinth and the beautiful rose garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Mémorial de Caen",
+            "hu": "Caeni Emlékmű",
+            "ro": "Memorialul din Caen",
+            "en": "Caen Memorial Museum"
+          },
+          "coords": [
+            -0.3842,
+            49.1978
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das wichtigste Museum zum Zweiten Weltkrieg in der Region.",
+            "hu": "A régió legfontosabb II. világháborús múzeuma.",
+            "ro": "Cel mai important muzeu al celui de-al Doilea Război Mondial din regiune.",
+            "en": "The most important WWII museum in the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Caen auf zwei Rädern, beginnend am lebhaften Yachthafen. Radeln Sie entlang der Wasserwege zur Abbaye aux Dames, bevor Sie das historische Herz der Stadt erreichen.\n\nMittags erklimmen Sie mit dem Rad die Anhöhe zur Burg von Caen. Nach einer kulturellen Pause fahren Sie weiter zum Jardin des Plantes, um die grüne Lunge der Stadt zu genießen.\n\nDer Nachmittag führt Sie zum weitläufigen Park Colline aux Oiseaux, der ideal für Radfahrer ist. Das Gelände bietet weite Wege und wunderschöne Themengärten.\n\nZum Abschluss besuchen Sie das Mémorial de Caen. Die moderne Anlage ist gut mit Radwegen erschlossen und bietet einen tiefen Einblick in die Geschichte des 20. Jahrhunderts.",
+        "hu": "Fedezze fel Caent két keréken, a nyüzsgő jachtkikötőtől indulva. Kerekezzen a vízpart mentén a Női-apátságig, mielőtt elérné a város történelmi szívét.\n\nDélben tekerjen fel a Caeni vár dombjára. Egy kulturális pihenő után folytassa útját a Füvészkert felé, hogy élvezze a város zöld tüdejét.\n\nA délután a tágas Colline aux Oiseaux parkba vezet, amely ideális a kerékpárosok számára. A terület széles utakat és gyönyörű tematikus kerteket kínál.\n\nBefejezésül látogasson el a Caeni Emlékműhöz. A modern komplexum jól megközelíthető kerékpárúton, és mély betekintést nyújt a 20. század történelmébe.",
+        "ro": "Explorați Caen pe două roți, începând de la portul de agrement plin de viață. Mergeți cu bicicleta de-a lungul apei până la Abația Femeilor, înainte de a ajunge în inima istorică a orașului.\n\nLa prânz, urcați cu bicicleta până la castelul din Caen. După o pauză culturală, continuați spre Grădina Botanică pentru a vă bucura de plămânul verde al orașului.\n\nDupă-amiaza vă conduce către parcul spațios Colline aux Oiseaux, ideal pentru bicicliști. Terenul oferă alei largi și grădini tematice superbe.\n\nLa final, vizitați Memorialul din Caen. Complexul modern este bine deservit de piste de biciclete și oferă o incursiune profundă în istoria secolului XX.",
+        "en": "Explore Caen on two wheels, starting from the lively marina. Cycle along the waterways to the Women's Abbey before reaching the historic heart of the city.\n\nAt midday, pedal up to Caen Castle. After a cultural break, continue towards the Botanical Garden to enjoy the city's green lung.\n\nIn the afternoon, head to the expansive Colline aux Oiseaux park, which is ideal for cyclists. The grounds offer wide paths and beautiful themed gardens.\n\nTo finish, visit the Caen Memorial Museum. The modern complex is easily accessible by bike paths and offers deep insights into 20th-century history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Erfrischender Apfelwein, perfekt nach dem Radeln."
+          },
+          {
+            "name": "Keys & Co",
+            "tip": "Hippes Café in der Nähe des Hafens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Frissítő almabor, tökéletes tekerés után."
+          },
+          {
+            "name": "Keys & Co",
+            "tip": "Trendi kávézó a kikötő közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cidru de Normandia",
+            "tip": "Cidru răcoritor, perfect după o tură cu bicicleta."
+          },
+          {
+            "name": "Keys & Co",
+            "tip": "Cafenea modernă lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norman Cider",
+            "tip": "Refreshing apple cider, perfect after a bike ride."
+          },
+          {
+            "name": "Keys & Co",
+            "tip": "Trendy cafe near the marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Colline aux Oiseaux",
+            "tip": "Abgelegene Ecken im Rosengarten.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Canal de Caen",
+            "tip": "Ruhiges Radeln am Wasser.",
+            "emoji": "🛶"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Colline aux Oiseaux",
+            "tip": "Elszigetelt sarkok a rózsakertben.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Canal de Caen",
+            "tip": "Csendes kerekezés a víz mentén.",
+            "emoji": "🛶"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colline aux Oiseaux",
+            "tip": "Colțuri retrase în grădina de trandafiri.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Canalul Caen",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "🛶"
+          }
+        ],
+        "en": [
+          {
+            "name": "Colline aux Oiseaux",
+            "tip": "Secluded spots in the rose garden.",
+            "emoji": "🌹"
+          },
+          {
+            "name": "Caen Canal",
+            "tip": "Quiet cycling along the water.",
+            "emoji": "🛶"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélisol",
+            "tip": "Lokaler Fahrradladen für Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélisol",
+            "tip": "Helyi kerékpárbolt kiegészítőkkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélisol",
+            "tip": "Magazin local de biciclete pentru accesorii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélisol",
+            "tip": "Local bike shop for accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das 'V'élolib' Leihsystem der Stadt.",
+          "Die Strecke zum Meer (Ouistreham) ist flach und sehr beliebt.",
+          "Vermeiden Sie das Radfahren in den engen Gassen des Vaugueux-Viertels.",
+          "Achten Sie auf die Einbahnstraßen im Stadtzentrum."
+        ],
+        "hu": [
+          "Használja a város 'Vélolib' bérbringa-rendszerét.",
+          "A tengerhez (Ouistreham) vezető út lapos és nagyon népszerű.",
+          "Kerülje a kerékpározást a Vaugueux negyed szűk utcáin.",
+          "Ügyeljen az egyirányú utcákra a belvárosban."
+        ],
+        "ro": [
+          "Utilizați sistemul de închiriere 'Vélolib' al orașului.",
+          "Traseul către mare (Ouistreham) este plat și foarte popular.",
+          "Evitați mersul pe bicicletă pe străzile înguste din Vaugueux.",
+          "Atenție la străzile cu sens unic din centrul orașului."
+        ],
+        "en": [
+          "Use the city's 'Vélolib' bike-sharing system.",
+          "The path to the sea (Ouistreham) is flat and very popular.",
+          "Avoid cycling in the narrow alleys of the Vaugueux district.",
+          "Watch out for one-way streets in the city center."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mémorial de Caen",
+            "hu": "Caeni Emlékmű",
+            "ro": "Memorialul din Caen",
+            "en": "Caen Memorial Museum"
+          },
+          "coords": [
+            -0.3842,
+            49.1978
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz direkt am Museum.",
+            "hu": "Hatalmas ingyenes parkoló közvetlenül a múzeumnál.",
+            "ro": "Parcare gratuită mare chiar lângă muzeu.",
+            "en": "Large free parking lot right next to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Pegasus-Brücke",
+            "hu": "Pegasus-híd",
+            "ro": "Podul Pegasus",
+            "en": "Pegasus Bridge"
+          },
+          "coords": [
+            -0.2755,
+            49.2425
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Berühmte Brücke der Landung in der Normandie.",
+            "hu": "A normandiai partraszállás híres hídja.",
+            "ro": "Podul celebru al debarcării din Normandia.",
+            "en": "Famous bridge from the D-Day landings in Normandy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ouistreham (Sword Beach)",
+            "hu": "Ouistreham (Sword Beach)",
+            "ro": "Ouistreham (Sword Beach)",
+            "en": "Ouistreham (Sword Beach)"
+          },
+          "coords": [
+            -0.2555,
+            49.2885
+          ],
+          "category": "beach",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie Meeresfrüchte an der Promenade.",
+            "hu": "Élvezze a tenger gyümölcseit a sétányon.",
+            "ro": "Savurați fructe de mare pe faleză.",
+            "en": "Enjoy fresh seafood on the promenade by the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Caen",
+            "hu": "Caeni vár",
+            "ro": "Castelul din Caen",
+            "en": "Caen Castle"
+          },
+          "coords": [
+            -0.3621,
+            49.1865
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Parkhaus unter der Burg nutzen.",
+            "hu": "Használja a vár alatti mélygarázst.",
+            "ro": "Utilizați parcarea subterană de sub castel.",
+            "en": "Use the underground parking garage located under the castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Männerabtei",
+            "hu": "Férfi-apátság",
+            "ro": "Abația Bărbaților",
+            "en": "Men's Abbey"
+          },
+          "coords": [
+            -0.3732,
+            49.1812
+          ],
+          "category": "religious",
+          "arrive_at": "18:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abends wunderschön beleuchtet.",
+            "hu": "Este gyönyörűen ki van világítva.",
+            "ro": "Iluminat superb seara.",
+            "en": "The abbey is beautifully illuminated in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem das Mémorial de Caen am Stadtrand, um den Vormittag der Geschichte zu widmen. Danach fahren Sie hinaus zur Pegasus-Brücke, einem Schlüsselort der Befreiung.\n\nMittags führt Sie die Fahrt an die Küste nach Ouistreham. Hier können Sie am Sword Beach spazieren gehen und in einem der Restaurants an der Promenade fangfrischen Fisch genießen.\n\nAm Nachmittag kehren Sie ins Stadtzentrum von Caen zurück, um die mächtige Burg zu besichtigen. Die Flexibilität des Autos erlaubt es Ihnen, den Tag effizient zwischen Stadt und Küste aufzuteilen.\n\nBeenden Sie Ihre Tour an der Abbaye aux Hommes. Die Fahrt durch die Stadt bietet Ihnen zum Abschluss einen schönen Überblick über die Architektur von Caen, bevor Sie den Abend im Zentrum verbringen.",
+        "hu": "Autóval kényelmesen elérheti a város szélén található Caeni Emlékművet, hogy a délelőttöt a történelemnek szentelje. Ezután hajtson ki a Pegasus-hídhoz, a felszabadítás kulcsfontosságú helyszínéhez.\n\nDélben az út a tengerparthoz, Ouistrehamba vezet. Itt sétálhat a Sword Beachen, és a sétány egyik éttermében frissen fogott halat kóstolhat.\n\nDélután térjen vissza Caen belvárosába, hogy megtekintse a hatalmas várat. Az autó rugalmassága lehetővé teszi, hogy hatékonyan ossza meg a napot a város és a tengerpart között.\n\nZárja túráját a Férfi-apátságnál. A városon keresztüli autózás szép áttekintést nyújt Caen építészetéről, mielőtt az estét a központban töltené.",
+        "ro": "Cu mașina puteți ajunge ușor la Memorialul din Caen, situat la marginea orașului, pentru a dedica dimineața istoriei. Apoi conduceți până la Podul Pegasus, un loc cheie al eliberării.\n\nLa prânz, drumul vă duce la coastă, în Ouistreham. Aici vă puteți plimba pe Sword Beach și puteți savura pește proaspăt într-unul dintre restaurantele de pe faleză.\n\nDupă-amiaza reveniți în centrul orașului Caen pentru a vizita castelul impunător. Flexibilitatea mașinii vă permite să împărțiți eficient ziua între oraș și coastă.\n\nÎncheiați turul la Abația Bărbaților. Drumul prin oraș vă oferă o privire de ansamblu frumoasă asupra arhitecturii din Caen înainte de a petrece seara în centru.",
+        "en": "By car, you can easily reach the Caen Memorial on the outskirts to spend the morning exploring history. Then, drive out to Pegasus Bridge, a key site of the Allied liberation.\n\nAt midday, your journey takes you to the coast at Ouistreham. Here, you can walk on Sword Beach and enjoy freshly caught fish in one of the restaurants on the promenade.\n\nIn the afternoon, return to Caen city center to visit the mighty castle. The flexibility of the car allows you to efficiently divide your day between the city and the coast.\n\nEnd your tour at the Men's Abbey. Driving through the city provides a nice overview of Caen's architecture before spending the evening in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sole normande",
+            "tip": "In Butter gebratene Seezunge, eine Küstenspezialität."
+          },
+          {
+            "name": "Moules-Frites",
+            "tip": "Frische Miesmuscheln in Ouistreham."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sole normande",
+            "tip": "Vajban sült nyelvhal, tengerparti különlegesség."
+          },
+          {
+            "name": "Moules-Frites",
+            "tip": "Friss feketekagyló sült krumplival Ouistrehamban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sole normande",
+            "tip": "Limbă de mare prăjită în unt, o specialitate de coastă."
+          },
+          {
+            "name": "Moules-Frites",
+            "tip": "Midii proaspete cu cartofi prăjiți în Ouistreham."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norman Sole",
+            "tip": "Sole fish fried in butter, a coastal specialty."
+          },
+          {
+            "name": "Moules-Frites",
+            "tip": "Fresh mussels with fries in Ouistreham."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sword Beach",
+            "tip": "Ein langer Spaziergang am Meer.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ranville Cemetery",
+            "tip": "Ein Ort der Stille und des Gedenkens.",
+            "emoji": "🕊️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sword Beach",
+            "tip": "Hosszú séta a tengerparton.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ranville-i temető",
+            "tip": "A csend és az emlékezés helye.",
+            "emoji": "🕊️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sword Beach",
+            "tip": "O plimbare lungă pe malul mării.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Cimitirul Ranville",
+            "tip": "Un loc de liniște și memorie.",
+            "emoji": "🕊️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sword Beach",
+            "tip": "A long walk along the sea.",
+            "emoji": "🌊"
+          },
+          {
+            "name": "Ranville Cemetery",
+            "tip": "A place of silence and remembrance.",
+            "emoji": "🕊️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie Jeannette",
+            "tip": "Berühmte Madeleines direkt aus der Fabrik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie Jeannette",
+            "tip": "Híres madeleine sütemények közvetlenül a gyárból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie Jeannette",
+            "tip": "Celebrele madeleines direct de la fabrică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Biscuiterie Jeannette",
+            "tip": "Famous madeleine cakes direct from the factory."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie im Stadtzentrum bevorzugt in Parkhäusern.",
+          "Die Straße von Caen nach Ouistreham ist oft stark befahren.",
+          "Achten Sie auf die Gezeiten, wenn Sie am Strand spazieren gehen.",
+          "Navigationssysteme sind in der Altstadt von Caen sehr hilfreich."
+        ],
+        "hu": [
+          "A belvárosban lehetőleg parkolóházakban parkoljon.",
+          "A Caen és Ouistreham közötti út gyakran forgalmas.",
+          "Ügyeljen az árapályra, amikor a tengerparton sétál.",
+          "A navigációs rendszerek nagyon hasznosak Caen óvárosában."
+        ],
+        "ro": [
+          "Parcați în centrul orașului de preferință în parcări etajate.",
+          "Drumul de la Caen la Ouistreham este adesea aglomerat.",
+          "Fiți atenți la flux și reflux când vă plimbați pe plajă.",
+          "Sistemele de navigație sunt foarte utile în orașul vechi din Caen."
+        ],
+        "en": [
+          "Prefer multi-story car parks in the city center.",
+          "The road from Caen to Ouistreham is often busy.",
+          "Check the tide times before walking on the beach.",
+          "Navigation systems are very helpful in Caen's old town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mémorial de Caen",
+            "hu": "Caeni Emlékmű",
+            "ro": "Memorialul din Caen",
+            "en": "Caen Memorial Museum"
+          },
+          "coords": [
+            -0.3842,
+            49.1978
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 2 verbindet das Zentrum direkt mit dem Mémorial.",
+            "hu": "A 2-es buszjárat közvetlenül összeköti a központot az Emlékművel.",
+            "ro": "Linia de autobuz 2 face legătura directă între centru și Memorial.",
+            "en": "Bus line 2 connects the city center directly to the Memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten",
+            "hu": "Füvészkert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            -0.3715,
+            49.1895
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Jardin des Plantes' direkt am Eingang.",
+            "hu": "'Jardin des Plantes' megálló közvetlenül a bejáratnál.",
+            "ro": "Stația 'Jardin des Plantes' chiar la intrare.",
+            "en": "The 'Jardin des Plantes' stop is right at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Männerabtei",
+            "hu": "Férfi-apátság",
+            "ro": "Abația Bărbaților",
+            "en": "Men's Abbey"
+          },
+          "coords": [
+            -0.3732,
+            49.1812
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Knotenpunkt vieler Buslinien beim Rathaus.",
+            "hu": "Számos buszjárat csomópontja a városházánál.",
+            "ro": "Nod important pentru multe linii de autobuz lângă primărie.",
+            "en": "A major hub for many bus lines near the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Vaugueux",
+            "hu": "Vaugueux negyed",
+            "ro": "Cartierul Vaugueux",
+            "en": "Vaugueux District"
+          },
+          "coords": [
+            -0.3582,
+            49.1852
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Straßenbahnlinie T1 bis 'Résistance'.",
+            "hu": "Használja a T1-es villamost a 'Résistance' megállóig.",
+            "ro": "Utilizați linia de tramvai T1 până la 'Résistance'.",
+            "en": "Take tram line T1 to the 'Résistance' stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Caen",
+            "hu": "Caeni vár",
+            "ro": "Castelul din Caen",
+            "en": "Caen Castle"
+          },
+          "coords": [
+            -0.3621,
+            49.1865
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Burg ist von fast allen Linien im Zentrum erreichbar.",
+            "hu": "A vár szinte az összes központi járattal elérhető.",
+            "ro": "Castelul este accesibil cu aproape toate liniile din centru.",
+            "en": "The castle is accessible via almost all central transit lines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Twisto-Netzwerk von Caen, um den Tag am Mémorial zu beginnen. Die Busse bringen Sie schnell vom Zentrum zu diesem geschichtsträchtigen Ort am Stadtrand.\n\nMittags fahren Sie mit dem Bus zurück in Richtung Zentrum und steigen am Jardin des Plantes aus. Von dort ist es nur eine kurze Fahrt zur beeindruckenden Abbaye aux Hommes beim Rathaus.\n\nAm Nachmittag bringt Sie die moderne Straßenbahn in die Nähe des Schlosses und des Vaugueux-Viertels. Die Tram bietet eine bequeme Möglichkeit, die Stadt ohne langes Laufen zu durchqueren.\n\nBeenden Sie Ihre Tour in der Burg von Caen. Von der zentralen Haltestelle 'Bernières' oder 'Résistance' haben Sie exzellente Anschlüsse in alle Richtungen der Stadt.",
+        "hu": "Használja Caen hatékony Twisto hálózatát a nap kezdéséhez az Emlékműnél. A buszok gyorsan kiviszik a központból erre a történelemben gazdag, külvárosi helyszínre.\n\nDélben buszozzon vissza a központ felé, és szálljon le a Füvészkertnél. Onnan csak egy rövid út a lenyűgöző Férfi-apátság a városháza mellett.\n\nDélután a modern villamos elviszi a vár és a Vaugueux negyed közelébe. A villamos kényelmes módja a város átszelésének hosszú gyaloglás nélkül.\n\nZárja a túrát a Caeni várban. A központi 'Bernières' vagy 'Résistance' megállóktól kiváló csatlakozások állnak rendelkezésre a város minden irányába.",
+        "ro": "Utilizați rețeaua eficientă Twisto din Caen pentru a începe ziua la Memorial. Autobuzele vă duc rapid din centru la acest loc plin de istorie de la marginea orașului.\n\nLa prânz, luați autobuzul înapoi spre centru și coborâți la Grădina Botanică. De acolo este doar o scurtă călătorie până la impresionanta Abație a Bărbaților de lângă primărie.\n\nDupă-amiaza, tramvaiul modern vă va duce aproape de castel și de cartierul Vaugueux. Tramvaiul oferă o modalitate confortabilă de a traversa orașul fără a merge mult pe jos.\n\nÎncheiați turul la castelul din Caen. De la stațiile centrale 'Bernières' sau 'Résistance' aveți conexiuni excelente către toate direcțiile orașului.",
+        "en": "Utilize Caen's efficient Twisto transit network to start your day at the Memorial Museum. Buses will quickly take you from the center to this history-rich site on the outskirts.\n\nAt midday, take the bus back towards the center and hop off at the Botanical Garden. From there, it's just a short ride to the impressive Men's Abbey next to the city hall.\n\nIn the afternoon, the modern tram will take you near the castle and the Vaugueux district. The tram offers a comfortable way to cross the city without long walks.\n\nEnd your tour at Caen Castle. From the central 'Bernières' or 'Résistance' stops, you have excellent connections to all parts of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Camembert de Normandie",
+            "tip": "Probieren Sie den berühmten Käse in einer lokalen Fromagerie."
+          },
+          {
+            "name": "Le Carlotta",
+            "tip": "Beliebtes Restaurant am Quai, gut mit der Tram erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Camembert de Normandie",
+            "tip": "Kóstolja meg a híres sajtot egy helyi sajtboltban."
+          },
+          {
+            "name": "Le Carlotta",
+            "tip": "Népszerű étterem a rakparton, villamossal könnyen elérhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Camembert de Normandie",
+            "tip": "Gustați brânza celebră într-o fromagerie locală."
+          },
+          {
+            "name": "Le Carlotta",
+            "tip": "Restaurant popular pe chei, ușor accesibil cu tramvaiul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Norman Camembert",
+            "tip": "Taste the famous cheese in a local cheese shop."
+          },
+          {
+            "name": "Le Carlotta",
+            "tip": "Popular restaurant on the quay, easily accessible by tram."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Eglise Saint-Etienne",
+            "tip": "Ruhe in der monumentalen Abteikirche.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent István-templom",
+            "tip": "Csend a monumentális apátsági templomban.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Saint-Etienne",
+            "tip": "Liniște în biserica monumentală a abației.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Etienne Church",
+            "tip": "Peace and quiet in the monumental abbey church.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre commercial Les Rives de l'Orne",
+            "tip": "Modernes Einkaufszentrum direkt an der Tramlinie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Rives de l'Orne bevásárlóközpont",
+            "tip": "Modern bevásárlóközpont közvetlenül a villamosvonalon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Les Rives de l'Orne",
+            "tip": "Centru comercial modern chiar pe linia de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Rives de l'Orne Shopping Center",
+            "tip": "Modern shopping mall right on the tram line."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Ticket 24h) für unbegrenzte Fahrten.",
+          "Die Twisto-App bietet Echtzeit-Fahrpläne.",
+          "Die Straßenbahnen in Caen fahren auf Reifen, nicht auf Schienen.",
+          "An Sonntagen fahren die Busse seltener."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Ticket 24h) a korlátlan utazáshoz.",
+          "A Twisto alkalmazás valós idejű menetrendet kínál.",
+          "A caeni villamosok gumikerekeken közlekednek, nem síneken.",
+          "Vasárnaponként a buszok ritkábban járnak."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Ticket 24h) pentru călătorii nelimitate.",
+          "Aplicația Twisto oferă orare în timp real.",
+          "Tramvaiele din Caen circulă pe pneuri, nu pe șine.",
+          "Duminica autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Buy a 24-hour ticket for unlimited travel.",
+          "The Twisto app provides real-time schedules.",
+          "Caen's trams run on rubber tires rather than traditional tracks.",
+          "Buses run less frequently on Sundays."
+        ]
+      }
+    }
+  }
+}

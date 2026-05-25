@@ -1,0 +1,1094 @@
+{
+  "city_id": "besancon",
+  "anchor": {
+    "name": "Besançon Centre",
+    "coords": [
+      6.0241,
+      47.2378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de la Révolution",
+          "coords": [
+            6.0223,
+            47.2404
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Morgen für lokale Atmosphäre.",
+            "hu": "Reggel látogassa meg a piacot a helyi hangulatért.",
+            "ro": "Vizitați piața dimineața pentru o atmosferă locală.",
+            "en": "Visit the market in the morning for local atmosphere."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            6.0235,
+            47.2402
+          ],
+          "category": "museum",
+          "arrive_at": "09:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Eines der ältesten öffentlichen Museen Frankreichs.",
+            "hu": "Franciaország egyik legrégebbi nyilvános múzeuma.",
+            "ro": "Unul dintre cele mai vechi muzee publice din Franța.",
+            "en": "One of France's oldest public museums."
+          }
+        },
+        {
+          "name": "Maison Victor Hugo",
+          "coords": [
+            6.0278,
+            47.2351
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Geburtshaus des berühmten Schriftstellers.",
+            "hu": "A híres író szülőháza, interaktív kiállítással.",
+            "ro": "Casa natală a celebrului scriitor.",
+            "en": "The birthplace of the famous writer."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Jean",
+          "coords": [
+            6.0305,
+            47.2341
+          ],
+          "category": "cathedral",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende astronomische Uhr.",
+            "hu": "Csodálja meg a lenyűgöző csillagászati órát.",
+            "ro": "Admirați ceasul astronomic impresionant.",
+            "en": "Admire the impressive astronomical clock."
+          }
+        },
+        {
+          "name": "Citadelle de Besançon",
+          "coords": [
+            6.0322,
+            47.2315
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit fantastischer Aussicht.",
+            "hu": "UNESCO világörökség fantasztikus kilátással.",
+            "ro": "Patrimoniu UNESCO cu o vedere fantastică.",
+            "en": "UNESCO World Heritage site with fantastic views."
+          }
+        },
+        {
+          "name": "Parc de la Gare-d'Eau",
+          "coords": [
+            6.0215,
+            47.2338
+          ],
+          "category": "park",
+          "arrive_at": "18:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort am Ufer des Doubs.",
+            "hu": "Békés hely a Doubs folyó partján.",
+            "ro": "Un loc liniștit pe malul râului Doubs.",
+            "en": "A peaceful spot by the Doubs river banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der lebhaften Place de la Révolution, bevor Sie das reiche Kunstmuseum erkunden. Spazieren Sie durch das historische Zentrum zum Geburtshaus von Victor Hugo. Nach einem lokalen Mittagessen besuchen Sie die Kathedrale Saint-Jean mit ihrer astronomischen Uhr. Verbringen Sie den Nachmittag in der mächtigen Zitadelle von Vauban. Beenden Sie den Tag friedlich am Flussufer im Gare d'Eau Park.",
+        "hu": "Kezdje a napot a nyüzsgő Place de la Révolution téren, majd fedezze fel a Szépművészeti Múzeum kincseit. Sétáljon Victor Hugo szülőházához az óvároson át. Egy finom, helyi ebéd után látogassa meg a Szent János-székesegyházat és annak különleges óráját. Délután hódítsa meg a Vauban-citadellát a lenyűgöző panorámáért, végül lazítson a Doubs folyó partján, a Gare d'Eau parkban.",
+        "ro": "Începeți ziua în vibranta Place de la Révolution înainte de a explora bogatul Muzeu de Arte Frumoase. Plimbați-vă prin centrul istoric până la casa natală a lui Victor Hugo. După un prânz local, vizitați Catedrala Saint-Jean și ceasul său astronomic. Petreceți după-amiaza la impunătoarea Citadelă Vauban pentru vederi panoramice. Încheiați ziua liniștit pe malul râului Doubs, în parcul Gare d'Eau.",
+        "en": "Start your day at the lively Place de la Révolution before exploring the rich Fine Arts Museum. Walk through the historic center to Victor Hugo's birthplace. After a local lunch, visit the Saint-Jean Cathedral and its unique astronomical clock. Spend the afternoon at the mighty Vauban Citadel for panoramic views. End your day peacefully by the Doubs river at the Gare d'Eau park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Comté Käse",
+            "tip": "Probieren Sie den gereiften Käse in einer lokalen Fromagerie."
+          },
+          {
+            "name": "Le Poker d'As",
+            "tip": "Traditionelle Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Comté sajt",
+            "tip": "Kóstolja meg az érlelt sajtot egy helyi szaküzletben."
+          },
+          {
+            "name": "Le Poker d'As",
+            "tip": "Hagyományos konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Comté",
+            "tip": "Gustați brânza maturată într-o fromagerie locală."
+          },
+          {
+            "name": "Le Poker d'As",
+            "tip": "Bucătărie tradițională într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Comté Cheese",
+            "tip": "Taste the aged cheese in a local fromagerie."
+          },
+          {
+            "name": "Le Poker d'As",
+            "tip": "Traditional cuisine in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Ruhiger Park am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zitadellenmauern",
+            "tip": "Blick auf den Doubs-Bogen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Csendes park a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citadella falai",
+            "tip": "Kilátás a Doubs-kanyarra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Parc liniștit pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zidurile Cetății",
+            "tip": "Vedere asupra curbei Doubs.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gare d'Eau",
+            "tip": "Quiet park by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citadel Walls",
+            "tip": "View over the Doubs loop.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand-Rue",
+            "tip": "Haupteinkaufsstraße mit Boutiquen."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Überdachter Markt für Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand-Rue",
+            "tip": "Fő bevásárlóutca butikokkal."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Fedett piac helyi specialitásokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand-Rue",
+            "tip": "Strada principală cu buticuri."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Piață acoperită pentru specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand-Rue",
+            "tip": "Main shopping street with boutiques."
+          },
+          {
+            "name": "Marché Beaux-Arts",
+            "tip": "Covered market for local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist sehr kompakt und gut zu Fuß erreichbar.",
+          "Der Aufstieg zur Zitadelle ist steil, tragen Sie bequeme Schuhe.",
+          "Achten Sie auf die astronomische Uhr in der Kathedrale.",
+          "Der Doubs-Bogen bietet wunderschöne Fotomotive."
+        ],
+        "hu": [
+          "Az óváros kompakt és kiválóan bejárható gyalog.",
+          "A Citadellához vezető út meredek, kényelmes cipő ajánlott.",
+          "Figyelje a csillagászati óra bemutatójának időpontjait.",
+          "A Doubs-kanyar mentén csodás fotókat készíthet."
+        ],
+        "ro": [
+          "Centrul vechi este compact și ușor de parcurs pe jos.",
+          "Urcarea la Citadelă este abruptă, purtați pantofi comozi.",
+          "Verificați orele pentru demonstrația ceasului astronomic.",
+          "Bucla râului Doubs oferă oportunități foto superbe."
+        ],
+        "en": [
+          "The old town is compact and very walkable.",
+          "The climb to the Citadel is steep, wear comfortable shoes.",
+          "Check the timings for the astronomical clock demonstration.",
+          "The Doubs river loop offers wonderful photo spots."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Promenade Micaud",
+          "coords": [
+            6.0305,
+            47.2425
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Startpunkt am Fluss.",
+            "hu": "Szép indulópont a folyó mentén.",
+            "ro": "Punct de pornire frumos de-a lungul râului.",
+            "en": "Beautiful starting point along the river."
+          }
+        },
+        {
+          "name": "Musée du Temps",
+          "coords": [
+            6.0275,
+            47.2365
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Uhrmacherkunst.",
+            "hu": "Ismerje meg az órakészítés művészetét.",
+            "ro": "Aflați despre arta ceasornicăriei.",
+            "en": "Learn about the art of watchmaking."
+          }
+        },
+        {
+          "name": "Citadelle (Veloroute)",
+          "coords": [
+            6.0322,
+            47.2315
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Herausfordernder Anstieg, aber lohnenswert.",
+            "hu": "Kihívást jelentő emelkedő, de megéri.",
+            "ro": "Urcare provocatoare, dar merită.",
+            "en": "Challenging climb, but worth it."
+          }
+        },
+        {
+          "name": "Fort de Chaudanne",
+          "coords": [
+            6.0155,
+            47.2315
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Stadt.",
+            "hu": "A legjobb panoráma a városra.",
+            "ro": "Cea mai bună vedere panoramică asupra orașului.",
+            "en": "Best panoramic view of the city."
+          }
+        },
+        {
+          "name": "Doubs River Loop Path",
+          "coords": [
+            6.0215,
+            47.2338
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannte Fahrt entlang des Wassers.",
+            "hu": "Pihentető tekerés a víz mentén.",
+            "ro": "Plimbare relaxantă de-a lungul apei.",
+            "en": "Relaxing ride along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die hervorragenden Radwege von Besançon. Starten Sie an der Promenade Micaud und radeln Sie zum Museum der Zeit im Palais Granvelle. Wagen Sie den Anstieg zur Zitadelle für einen unvergleichlichen Ausblick. Nach dem Mittagessen radeln Sie zum Fort de Chaudanne auf der gegenüberliegenden Seite der Schlinge. Beenden Sie den Tag mit einer entspannten Runde auf der EuroVelo 6 entlang des Doubs.",
+        "hu": "Használja ki Besançon kiváló kerékpárútjait. Kezdjen a Promenade Micaud parkban, majd tekerjen az Idő Múzeumához a Palais Granvelle-be. Vállalja be a meredek utat a Citadellához a kilátásért. Ebéd után irány a Chaudanne-erőd a folyókanyar túlsó oldalán. A napot egy pihentető tekeréssel zárja az EuroVelo 6 útvonalon a Doubs folyó partján.",
+        "ro": "Profită de pistele de biciclete excelente din Besançon. Începe la Promenade Micaud și pedalează până la Muzeul Timpului din Palais Granvelle. Îndrăznește urcarea la Citadelă pentru o vedere inegalabilă. După prânz, mergi la Fort de Chaudanne de pe partea opusă a buclei. Încheie ziua cu o tură relaxantă pe EuroVelo 6 de-a lungul râului Doubs.",
+        "en": "Take advantage of Besançon's excellent cycling paths. Start at Promenade Micaud and cycle to the Museum of Time in Palais Granvelle. Brave the climb to the Citadel for an unparalleled view. After lunch, cycle to Fort de Chaudanne on the opposite side of the loop. End your day with a relaxing ride on the EuroVelo 6 path along the Doubs river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morteau Wurst",
+            "tip": "Eine lokale Spezialität, oft mit Linsen serviert."
+          },
+          {
+            "name": "Le Vin de Paille",
+            "tip": "Ein süßer Dessertwein aus dem Jura."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morteau kolbász",
+            "tip": "Helyi specialitás, gyakran lencsével tálalva."
+          },
+          {
+            "name": "Le Vin de Paille",
+            "tip": "Édes desszertbor a Jura vidékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cârnați Morteau",
+            "tip": "O specialitate locală, adesea servită cu linte."
+          },
+          {
+            "name": "Le Vin de Paille",
+            "tip": "Un vin de desert dulce din Jura."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morteau Sausage",
+            "tip": "A local specialty, often served with lentils."
+          },
+          {
+            "name": "Le Vin de Paille",
+            "tip": "A sweet dessert wine from the Jura region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Ruhiger Aussichtspunkt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "EuroVelo 6 Ufer",
+            "tip": "Stille am Fluss.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chaudanne-erőd",
+            "tip": "Csendes kilátópont.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "EuroVelo 6 part",
+            "tip": "Csend a folyónál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Punct de belvedere liniștit.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul EuroVelo 6",
+            "tip": "Liniște pe râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort de Chaudanne",
+            "tip": "Quiet viewpoint.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "EuroVelo 6 Banks",
+            "tip": "Quiet by the river.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Echoppe",
+            "tip": "Lokale Handwerksprodukte."
+          },
+          {
+            "name": "Marché couvert",
+            "tip": "Regionale Köstlichkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Echoppe",
+            "tip": "Helyi kézműves termékek."
+          },
+          {
+            "name": "Marché couvert",
+            "tip": "Regionális finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Echoppe",
+            "tip": "Produse artizanale locale."
+          },
+          {
+            "name": "Marché couvert",
+            "tip": "Delicii regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Echoppe",
+            "tip": "Local craft products."
+          },
+          {
+            "name": "Marché couvert",
+            "tip": "Regional delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad über das Ginko Vélo System.",
+          "Der Tunnel unter der Zitadelle ist für Radfahrer ein Erlebnis.",
+          "Nehmen Sie ausreichend Wasser für den Aufstieg zum Fort Chaudanne mit.",
+          "Die Uferwege sind flach und sehr angenehm zu befahren."
+        ],
+        "hu": [
+          "Béreljen biciklit a Ginko Vélo rendszerén keresztül.",
+          "A Citadella alatti alagút érdekes élmény biciklivel.",
+          "Vigyen elég vizet a Chaudanne-erőd megmászásához.",
+          "A folyóparti utak síkak és nagyon kellemesek."
+        ],
+        "ro": [
+          "Închiriați o bicicletă prin sistemul Ginko Vélo.",
+          "Tunelul de sub Citadelă este o experiență pentru bicicliști.",
+          "Luați suficientă apă pentru urcarea la Fort Chaudanne.",
+          "Traseele de pe malul râului sunt plate și foarte plăcute."
+        ],
+        "en": [
+          "Rent a bike via the Ginko Vélo system.",
+          "The tunnel under the Citadel is a cool experience for cyclists.",
+          "Bring enough water for the climb to Fort Chaudanne.",
+          "The riverside paths are flat and very pleasant."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 55.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fort Griffon",
+          "coords": [
+            6.0182,
+            47.2435
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zweite Festungsanlage von Vauban in der Stadt.",
+            "hu": "Vauban másik erődítménye a városban.",
+            "ro": "A doua fortificație Vauban din oraș.",
+            "en": "Second Vauban fortification in the city."
+          }
+        },
+        {
+          "name": "Citadelle de Besançon",
+          "coords": [
+            6.0322,
+            47.2315
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe vorhanden.",
+            "hu": "Nagy parkoló található a közelben.",
+            "ro": "Parcare mare disponibilă în apropiere.",
+            "en": "Large parking available nearby."
+          }
+        },
+        {
+          "name": "Ornans (Place Courbet)",
+          "coords": [
+            6.1475,
+            47.1065
+          ],
+          "category": "city",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Malerisches Dorf, das 'Venedig der Franche-Comté'.",
+            "hu": "Festői falu, a 'Franche-Comté Velencéje'.",
+            "ro": "Sat pitoresc, 'Veneția din Franche-Comté'.",
+            "en": "Picturesque village, the 'Venice of Franche-Comté'."
+          }
+        },
+        {
+          "name": "Belvédère de la Chapelle des Buis",
+          "coords": [
+            6.0455,
+            47.2185
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Stadt und die Alpen.",
+            "hu": "Panoráma a városra és az Alpokra.",
+            "ro": "Vedere panoramică asupra orașului și Alpilor.",
+            "en": "Panoramic view of the city and the Alps."
+          }
+        },
+        {
+          "name": "Gare d'Eau Park",
+          "coords": [
+            6.0215,
+            47.2338
+          ],
+          "category": "park",
+          "arrive_at": "17:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss zum Entspannen.",
+            "hu": "Tökéletes befejezés a lazításhoz.",
+            "ro": "Final perfect pentru relaxare.",
+            "en": "Perfect ending for relaxing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie Besançon und seine Umgebung erkunden. Starten Sie beim Fort Griffon und besuchen Sie dann die majestätische Zitadelle. Machen Sie einen Ausflug in das malerische Ornans, dem Geburtsort des Malers Courbet, für ein Mittagessen am Fluss. Kehren Sie zurück über den Aussichtspunkt Chapelle des Buis für einen weiten Blick über die Region. Beenden Sie den Tag entspannt am Gare d'Eau in Besançon.",
+        "hu": "Autóval Besançon és környéke is könnyen felfedezhető. Kezdjen a Fort Griffon erődnél, majd irány a méltóságteljes Citadella. Tegyen egy kirándulást a festői Ornans-ba, Courbet festő szülőhelyére, és ebédeljen a folyóparton. Visszafelé álljon meg a Chapelle des Buis kilátópontnál a vidékre nyíló panorámáért. A napot zárja egy kellemes pihenéssel a besançoni Gare d'Eau parkban.",
+        "ro": "Cu mașina puteți explora Besançon și împrejurimile sale. Începeți la Fort Griffon, apoi vizitați maiestuoasa Citadelă. Faceți o excursie în pitorescul Ornans, locul de naștere al pictorului Courbet, pentru un prânz pe malul râului. Reveniți prin punctul de belvedere Chapelle des Buis pentru o vedere largă asupra regiunii. Încheiați ziua relaxat la Gare d'Eau în Besançon.",
+        "en": "By car, you can explore Besançon and its surroundings. Start at Fort Griffon, then visit the majestic Citadel. Take a trip to picturesque Ornans, birthplace of the painter Courbet, for a lunch by the river. Return via the Chapelle des Buis viewpoint for a wide view over the region. End your day relaxing at the Gare d'Eau in Besançon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vin Jaune du Jura",
+            "tip": "Ein einzigartiger oxidativer Wein."
+          },
+          {
+            "name": "Croûte aux Morilles",
+            "tip": "Morcheln auf geröstetem Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vin Jaune du Jura",
+            "tip": "Egyedülálló oxidatív bor."
+          },
+          {
+            "name": "Croûte aux Morilles",
+            "tip": "Kucsmagomba pirított kenyéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Jaune du Jura",
+            "tip": "Un vin oxidativ unic."
+          },
+          {
+            "name": "Croûte aux Morilles",
+            "tip": "Zbarciogi pe pâine prăjită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vin Jaune du Jura",
+            "tip": "A unique oxidative wine."
+          },
+          {
+            "name": "Croûte aux Morilles",
+            "tip": "Morels on toasted bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle des Buis",
+            "tip": "Weite Aussicht, Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ornans Ufer",
+            "tip": "Flussrauschen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chapelle des Buis",
+            "tip": "Tágas kilátás, csend.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ornans partja",
+            "tip": "Folyózúgás.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chapelle des Buis",
+            "tip": "Vedere largă, liniște.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul din Ornans",
+            "tip": "Sunetul râului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapelle des Buis",
+            "tip": "Wide views, silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ornans Banks",
+            "tip": "River sounds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bisontin Geschenke",
+            "tip": "Lokale Souvenirs."
+          },
+          {
+            "name": "La Boutique du Comté",
+            "tip": "Spezialitätenladen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bisontin ajándékok",
+            "tip": "Helyi szuvenírek."
+          },
+          {
+            "name": "La Boutique du Comté",
+            "tip": "Szaküzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cadouri Bisontin",
+            "tip": "Suveniruri locale."
+          },
+          {
+            "name": "La Boutique du Comté",
+            "tip": "Magazin de specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bisontin Gifts",
+            "tip": "Local souvenirs."
+          },
+          {
+            "name": "La Boutique du Comté",
+            "tip": "Specialty shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-and-Ride-Plätze (P+R) am Stadtrand.",
+          "Die Straßen in der Altstadt sind teilweise sehr eng.",
+          "Parken an der Zitadelle ist während der Ferienzeit begrenzt.",
+          "Die Fahrt nach Ornans ist landschaftlich sehr reizvoll."
+        ],
+        "hu": [
+          "Használja a P+R parkolókat a város szélén.",
+          "Az óvárosi utcák néhol nagyon szűkek.",
+          "A Citadellánál a parkolás korlátozott főszezonban.",
+          "Az Ornans-ba vezető út tájképileg lenyűgöző."
+        ],
+        "ro": [
+          "Utilizați parcările P+R de la marginea orașului.",
+          "Străzile din centrul vechi sunt uneori foarte înguste.",
+          "Parcarea la Citadelă este limitată în sezonul de vârf.",
+          "Drumul spre Ornans este foarte pitoresc."
+        ],
+        "en": [
+          "Use the P+R parking lots on the outskirts of the city.",
+          "Old town streets are sometimes very narrow.",
+          "Parking at the Citadel is limited during peak season.",
+          "The drive to Ornans is scenically very rewarding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place de la Révolution (Tram)",
+          "coords": [
+            6.0223,
+            47.2404
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt des Ginko-Netzes.",
+            "hu": "A Ginko hálózat központi csomópontja.",
+            "ro": "Nod central al rețelei Ginko.",
+            "en": "Central hub of the Ginko network."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            6.0235,
+            47.2402
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Tramhaltestelle entfernt.",
+            "hu": "Pár lépésre a villamosmegállótól.",
+            "ro": "La doar câțiva pași de stația de tramvai.",
+            "en": "Just a few steps from the tram stop."
+          }
+        },
+        {
+          "name": "Maison Victor Hugo",
+          "coords": [
+            6.0278,
+            47.2351
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gut mit dem Bus erreichbar.",
+            "hu": "Busszal jól megközelíthető.",
+            "ro": "Ușor de ajuns cu autobuzul.",
+            "en": "Easily reachable by bus."
+          }
+        },
+        {
+          "name": "Citadelle (Bus Ginko 27)",
+          "coords": [
+            6.0322,
+            47.2315
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Direkter Shuttle zur Festung.",
+            "hu": "Közvetlen járat az erődhöz.",
+            "ro": "Navetă directă către cetate.",
+            "en": "Direct shuttle to the fortress."
+          }
+        },
+        {
+          "name": "Parc Micaud (Tram)",
+          "coords": [
+            6.0305,
+            47.2425
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 135,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Perfekt für ein Picknick am Abend.",
+            "hu": "Tökéletes esti piknikhez.",
+            "ro": "Perfect pentru un picnic de seară.",
+            "en": "Perfect for an evening picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Ginko-Tram- und Busnetz für Ihren Besuch. Starten Sie an der Place de la Révolution und besuchen Sie das Kunstmuseum. Fahren Sie mit dem Bus zur Maison Victor Hugo und weiter mit dem Shuttle 27 direkt zur Zitadelle. Genießen Sie den Nachmittag in der Festung und fahren Sie dann mit der Tram zum Parc Micaud, um den Tag am Flussufer ausklingen zu lassen.",
+        "hu": "Használja a Ginko villamos- és buszhálózatát a látogatáshoz. Kezdjen a Place de la Révolution téren, és nézze meg a Szépművészeti Múzeumot. Menjen busszal Victor Hugo szülőházához, majd a 27-es járattal közvetlenül a Citadellához. Töltse a délutánt az erődben, végül utazzon villamossal a Parc Micaud-hoz, hogy a folyóparton fejezze be a napot.",
+        "ro": "Utilizați rețeaua de tramvaie și autobuze Ginko pentru vizita dvs. Începeți la Place de la Révolution și vizitați Muzeul de Arte Frumoase. Mergeți cu autobuzul la Casa Victor Hugo și apoi cu naveta 27 direct la Citadelă. Bucurați-vă de după-amiază în cetate, apoi luați tramvaiul spre Parc Micaud pentru a încheia ziua pe malul râului.",
+        "en": "Use the Ginko tram and bus network for your visit. Start at Place de la Révolution and visit the Fine Arts Museum. Take a bus to Victor Hugo's house and then shuttle 27 directly to the Citadel. Enjoy the afternoon at the fortress, then take the tram to Parc Micaud to finish your day by the riverbanks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Morbier Käse",
+            "tip": "Käse mit der charakteristischen Ascheschicht."
+          },
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Hervorragendes Käsefondue."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Morbier sajt",
+            "tip": "Sajt jellegzetes hamuréteggel."
+          },
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Kiváló sajtfondü."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Morbier",
+            "tip": "Brânză cu strat caracteristic de cenușă."
+          },
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Fondue de brânză excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morbier Cheese",
+            "tip": "Cheese with the characteristic ash layer."
+          },
+          {
+            "name": "L'Affineur Comtois",
+            "tip": "Excellent cheese fondue."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Micaud",
+            "tip": "Gärten am Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citadelle Zoo",
+            "tip": "Ruhige Ecken im Zoo.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Micaud",
+            "tip": "Kertek a vízparton.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citadella Állatkert",
+            "tip": "Csendes sarkok.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Micaud",
+            "tip": "Grădini pe malul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Zoo Citadelă",
+            "tip": "Colțuri liniștite.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Micaud",
+            "tip": "Gardens by the water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Citadel Zoo",
+            "tip": "Quiet corners in the zoo.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Châteaufarine",
+            "tip": "Großes Einkaufszentrum (mit Tram erreichbar)."
+          },
+          {
+            "name": "Boulangerie Patisserie",
+            "tip": "Frisches Baguette."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Châteaufarine",
+            "tip": "Nagy bevásárlóközpont (villamossal elérhető)."
+          },
+          {
+            "name": "Pékségek",
+            "tip": "Friss bagett és sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Châteaufarine",
+            "tip": "Centru comercial mare (accesibil cu tramvaiul)."
+          },
+          {
+            "name": "Boulangerie",
+            "tip": "Baghetă proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Châteaufarine",
+            "tip": "Large shopping center (reachable by tram)."
+          },
+          {
+            "name": "Boulangerie",
+            "tip": "Fresh baguette and pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für das Ginko-Netz.",
+          "Der Shuttle 27 fährt saisonal zur Zitadelle.",
+          "Die Tramlinien T1 und T2 bedienen das Zentrum im Minutentakt.",
+          "Nutzen Sie die App 'Ginko Mobilités' für Echtzeitdaten."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Ginko hálózatra.",
+          "A 27-es busz szezonálisan jár a Citadellához.",
+          "A T1 és T2 villamos percenként jár a belvárosban.",
+          "Használja a 'Ginko Mobilités' appot a valós idejű adatokhoz."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua Ginko.",
+          "Naveta 27 circulă sezonier către Citadelă.",
+          "Liniile de tramvai T1 și T2 deservesc centrul foarte des.",
+          "Utilizați aplicația 'Ginko Mobilités' pentru date în timp real."
+        ],
+        "en": [
+          "Buy a day pass for the Ginko network.",
+          "Shuttle 27 runs seasonally to the Citadel.",
+          "Tram lines T1 and T2 serve the center very frequently.",
+          "Use the 'Ginko Mobilités' app for real-time information."
+        ]
+      }
+    }
+  }
+}

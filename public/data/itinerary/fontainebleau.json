@@ -1,0 +1,1269 @@
+{
+  "city_id": "fontainebleau",
+  "anchor": {
+    "name": "Château de Fontainebleau",
+    "coords": [
+      2.7012,
+      48.4039
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Republic Square"
+          },
+          "coords": [
+            2.7011,
+            48.4045
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Dienstagmorgen.",
+            "hu": "Kedd reggelenként hangulatos piac van itt.",
+            "ro": "Vizitați piața în diminețile de marți.",
+            "en": "Visit the market on Tuesday mornings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Louis",
+            "hu": "Szent Lajos-templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Saint-Louis Church"
+          },
+          "coords": [
+            2.7005,
+            48.4052
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Orgel aus dem 19. Jahrhundert.",
+            "hu": "Csodálja meg a 19. századi orgonát.",
+            "ro": "Admirați orga din secolul al XIX-lea.",
+            "en": "Admire the 19th-century organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fontainebleau",
+            "hu": "Fontainebleau-i kastély",
+            "ro": "Castelul Fontainebleau",
+            "en": "Palace of Fontainebleau"
+          },
+          "coords": [
+            2.6995,
+            48.4022
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets vorab, um Warteschlangen zu vermeiden.",
+            "hu": "Foglaljon jegyet előre a sorban állás elkerülésére.",
+            "ro": "Rezervați bilete în avans pentru a evita cozile.",
+            "en": "Book tickets in advance to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Diana",
+            "hu": "Diána-kert",
+            "ro": "Grădina Dianei",
+            "en": "Diana's Garden"
+          },
+          "coords": [
+            2.6975,
+            48.4025
+          ],
+          "category": "park",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine kurze Pause.",
+            "hu": "Csendes hely egy rövid pihenőhöz.",
+            "ro": "Un loc liniștit pentru o scurtă pauză.",
+            "en": "A quiet spot for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Karpfenteich",
+            "hu": "Pontyos-tó",
+            "ro": "Lacul cu Crapi",
+            "en": "Carp Pond"
+          },
+          "coords": [
+            2.7015,
+            48.4015
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Füttern Sie die riesigen Karpfen vom Pavillon aus.",
+            "hu": "Etessük meg az óriási pontyokat a pavilon mellől.",
+            "ro": "Hrăniți crapii uriași de lângă pavilion.",
+            "en": "Feed the giant carp from near the pavilion."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Große Parterre",
+            "hu": "Nagy Parterre",
+            "ro": "Marele Parter",
+            "en": "The Grand Parterre"
+          },
+          "coords": [
+            2.7065,
+            48.4005
+          ],
+          "category": "park",
+          "arrive_at": "15:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Größtes formales Gartenbeet Europas.",
+            "hu": "Európa legnagyobb szabályos kertje.",
+            "ro": "Cea mai mare grădină formală din Europa.",
+            "en": "Europe's largest formal garden bed."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue de la Paroisse",
+            "hu": "Rue de la Paroisse",
+            "ro": "Strada Paroisse",
+            "en": "Rue de la Paroisse"
+          },
+          "coords": [
+            2.7015,
+            48.4055
+          ],
+          "category": "gastro",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Fontainebleau-Käse.",
+            "hu": "Kóstolja meg a helyi Fontainebleau sajtot.",
+            "ro": "Gustați brânza locală Fontainebleau.",
+            "en": "Try the local Fontainebleau cheese."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im lebhaften Stadtzentrum auf der Place de la République. Nach einem kurzen Besuch der Kirche Saint-Louis widmen Sie den Vormittag dem prachtvollen Schloss Fontainebleau, der Residenz vieler französischer Monarchen. Der Nachmittag gehört den weitläufigen Gärten: vom intimen Garten der Diana bis zum monumentalen Großen Parterre. Beenden Sie den Tag mit kulinarischen Entdeckungen in der Rue de la Paroisse.",
+        "hu": "Kezdje a napot a város pezsgő központjában, a Köztársaság téren. A Szent Lajos-templom megtekintése után a délelőttöt a francia uralkodók kedvenc rezidenciájának, a Fontainebleau-i kastélynak szenteljük. Délután a királyi kerteké a főszerep: a meghitt Diána-kerttől a monumentális Nagy Parterre-ig. A napot a Rue de la Paroisse gasztronómiai kínálatával zárjuk, ahol megkóstolhatjuk a helyi különlegességeket.",
+        "ro": "Începeți ziua în centrul vibrant al orașului, în Piața Republicii. După o scurtă vizită la biserica Saint-Louis, dedicați dimineața magnificului Castel Fontainebleau, reședința multor monarhi francezi. După-amiaza aparține grădinilor vaste: de la Grădina Dianei, mai intimă, până la monumentalul Mare Parter. Încheiați ziua cu descoperiri culinare pe strada Paroisse.",
+        "en": "Start your day in the lively city center at Place de la République. After a brief visit to Saint-Louis Church, devote your morning to the magnificent Palace of Fontainebleau, the residence of many French monarchs. The afternoon is dedicated to the vast gardens, from the intimate Diana's Garden to the monumental Grand Parterre. Finish your day with culinary delights on Rue de la Paroisse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Délice Impérial",
+            "tip": "Traditionelle Pâtisserie am Schlosseingang."
+          },
+          {
+            "name": "Le Petit Palais",
+            "tip": "Klassische französische Bistro-Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Délice Impérial",
+            "tip": "Hagyományos cukrászda a kastély bejáratánál."
+          },
+          {
+            "name": "Le Petit Palais",
+            "tip": "Klasszikus francia bisztró konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Délice Impérial",
+            "tip": "Patiserie tradițională la intrarea în castel."
+          },
+          {
+            "name": "Le Petit Palais",
+            "tip": "Bucătărie clasică de bistro francez."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Délice Impérial",
+            "tip": "Traditional pastry shop by the palace entrance."
+          },
+          {
+            "name": "Le Petit Palais",
+            "tip": "Classic French bistro cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Étang des Carpes Pavillon",
+            "tip": "Ein friedlicher Blick auf das Wasser.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin Anglais",
+            "tip": "Ein verwinkelter, ruhiger Parkbereich.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pontyos-tó pavilon",
+            "tip": "Békés kilátás a vízre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Angolkert",
+            "tip": "Kanyargós, csendes parkrész.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pavilionul de pe Lacul cu Crapi",
+            "tip": "O vedere liniștită asupra apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Engleză",
+            "tip": "O zonă de parc sinuoasă și liniștită.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Carp Pond Pavilion",
+            "tip": "A peaceful view over the water.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "English Garden",
+            "tip": "A winding, quiet park section.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fromagerie Barthélémy",
+            "tip": "Exzellente Auswahl an lokalen Käsesorten."
+          },
+          {
+            "name": "Marché de Fontainebleau",
+            "tip": "Frische regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fromagerie Barthélémy",
+            "tip": "Kiváló helyi sajtválaszték."
+          },
+          {
+            "name": "Fontainebleau-i piac",
+            "tip": "Friss regionális termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fromagerie Barthélémy",
+            "tip": "Selecție excelentă de brânzeturi locale."
+          },
+          {
+            "name": "Piața din Fontainebleau",
+            "tip": "Produse regionale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fromagerie Barthélémy",
+            "tip": "Excellent selection of local cheeses."
+          },
+          {
+            "name": "Fontainebleau Market",
+            "tip": "Fresh regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe sind für das Kopfsteinpflaster und die weiten Parkwege ein Muss.",
+          "Kaufen Sie Ihr Picknick auf dem Markt, bevor Sie in den Schlossgarten gehen.",
+          "Das Schloss ist dienstags geschlossen.",
+          "Die Gärten sind kostenlos zugänglich."
+        ],
+        "hu": [
+          "A macskaköves utcák és a hatalmas park miatt kényelmes cipő kötelező.",
+          "Vásároljon be a piacon egy piknikhez a kastélykert előtt.",
+          "A kastély keddenként zárva tart.",
+          "A kertek ingyenesen látogathatók."
+        ],
+        "ro": [
+          "Pantofii confortabili sunt obligatorii pentru străzile pavate și aleile lungi din parc.",
+          "Cumpărați produse de la piață pentru un picnic înainte de a merge în grădina castelului.",
+          "Castelul este închis marțea.",
+          "Grădinile sunt accesibile gratuit."
+        ],
+        "en": [
+          "Comfortable shoes are a must for the cobblestone streets and long park paths.",
+          "Buy your picnic supplies at the market before heading to the palace gardens.",
+          "The palace is closed on Tuesdays.",
+          "The gardens are free to enter."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Fontainebleau",
+            "hu": "Fontainebleau-i kastély",
+            "ro": "Castelul Fontainebleau",
+            "en": "Palace of Fontainebleau"
+          },
+          "coords": [
+            2.6995,
+            48.4022
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer am Haupteingang.",
+            "hu": "Használja a kerékpártárolókat a főbejáratnál.",
+            "ro": "Folosiți rastelele de biciclete de la intrarea principală.",
+            "en": "Use the bike racks at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Parterre",
+            "hu": "Nagy Parterre",
+            "ro": "Marele Parter",
+            "en": "Grand Parterre"
+          },
+          "coords": [
+            2.7065,
+            48.4005
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den breiten Wegen.",
+            "hu": "Óvatosan kerekezzen a széles utakon.",
+            "ro": "Mergeți cu atenție pe aleile largi.",
+            "en": "Ride carefully on the wide paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Fontainebleau",
+            "hu": "Fontainebleau-i erdő",
+            "ro": "Pădurea Fontainebleau",
+            "en": "Fontainebleau Forest"
+          },
+          "coords": [
+            2.6655,
+            48.4215
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Folgen Sie den markierten Radwegen.",
+            "hu": "Kövessék a kijelölt kerékpárutakat.",
+            "ro": "Urmați pistele de biciclete marcate.",
+            "en": "Follow the marked cycle paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Denecourt-Turm",
+            "hu": "Denecourt-torony",
+            "ro": "Turnul Denecourt",
+            "en": "Denecourt Tower"
+          },
+          "coords": [
+            2.7255,
+            48.4235
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Panoramablick über den gesamten Wald.",
+            "hu": "Panorámás kilátás az egész erdőre.",
+            "ro": "Vedere panoramică asupra întregii păduri.",
+            "en": "Panoramic view over the entire forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbizon",
+            "hu": "Barbizon",
+            "ro": "Barbizon",
+            "en": "Barbizon"
+          },
+          "coords": [
+            2.6055,
+            48.4445
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Das Dorf der berühmten Landschaftsmaler.",
+            "hu": "A híres tájképfestők faluja.",
+            "ro": "Satul faimoșilor pictori peisagiști.",
+            "en": "The village of famous landscape painters."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtzentrum",
+            "hu": "Városközpont",
+            "ro": "Centrul orașului",
+            "en": "City Center"
+          },
+          "coords": [
+            2.7011,
+            48.4045
+          ],
+          "category": "square",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Geben Sie die Mieträder im Zentrum zurück.",
+            "hu": "Adja le a bérelt kerékpárokat a központban.",
+            "ro": "Returnați bicicletele închiriate în centru.",
+            "en": "Return rental bikes in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Fontainebleau und seine Umgebung sportlich mit dem Rad. Nach einer Besichtigung des Schlosses und seiner Gärten radeln Sie tief in den berühmten Wald hinein. Der Denecourt-Turm bietet Ihnen eine spektakuläre Aussicht, bevor es weiter in das charmante Künstlerdorf Barbizon geht. Die Rückfahrt führt Sie durch schattige Waldwege zurück ins belebte Stadtzentrum.",
+        "hu": "Fedezze fel Fontainebleau-t és környékét sportosan, kerékpárral. A kastély és a kertek megtekintése után tekerjen be a híres erdő mélyére. A Denecourt-torony látványos kilátást kínál, mielőtt továbbindulna a bájos művészfaluba, Barbizonba. A visszaút árnyas erdei utakon keresztül vezet a nyüzsgő városközpontba.",
+        "ro": "Explorați Fontainebleau și împrejurimile sale într-un mod sportiv, cu bicicleta. După vizitarea castelului și a grădinilor, pedalați adânc în faimoasa pădure. Turnul Denecourt vă oferă o vedere spectaculoasă înainte de a continua spre fermecătorul sat de artiști Barbizon. Drumul de întoarcere vă poartă prin poteci umbrite de pădure înapoi în centrul animat al orașului.",
+        "en": "Explore Fontainebleau and its surroundings actively by bike. After touring the palace and its gardens, cycle deep into the famous forest. Denecourt Tower offers spectacular views before you continue to the charming artists' village of Barbizon. The return trip takes you through shaded forest paths back to the bustling city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Relais de Barbizon",
+            "tip": "Herzhafte Küche für hungrige Radler."
+          },
+          {
+            "name": "L'Ermitage",
+            "tip": "Essen mitten in der Waldnatur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Relais de Barbizon",
+            "tip": "Kiadós ételek éhes bicikliseknek."
+          },
+          {
+            "name": "L'Ermitage",
+            "tip": "Étkezés az erdő szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Relais de Barbizon",
+            "tip": "Mâncare consistentă pentru bicicliști flămânzi."
+          },
+          {
+            "name": "L'Ermitage",
+            "tip": "Masă în mijlocul naturii pădurii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Relais de Barbizon",
+            "tip": "Hearty cuisine for hungry cyclists."
+          },
+          {
+            "name": "L'Ermitage",
+            "tip": "Dining in the heart of the forest nature."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gorges d'Apremont",
+            "tip": "Faszinierende Felsformationen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rocher de Bouligny",
+            "tip": "Einsamer Aussichtspunkt im Wald.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Apremont-szurdok",
+            "tip": "Lenyűgöző sziklaformációk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rocher de Bouligny",
+            "tip": "Magányos kilátópont az erdőben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gorges d'Apremont",
+            "tip": "Formațiuni stâncoase fascinante.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rocher de Bouligny",
+            "tip": "Punct de belvedere solitar în pădure.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gorges d'Apremont",
+            "tip": "Fascinating rock formations.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Rocher de Bouligny",
+            "tip": "Solitary viewpoint in the forest.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Barbizon Galerien",
+            "tip": "Originelle Kunstwerke lokaler Maler."
+          },
+          {
+            "name": "A l'Alpe",
+            "tip": "Outdoor-Ausrüstung für Kletterer und Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barbizon galériák",
+            "tip": "Helyi festők eredeti alkotásai."
+          },
+          {
+            "name": "A l'Alpe",
+            "tip": "Kültéri felszerelés sziklamászóknak és kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeriile din Barbizon",
+            "tip": "Opere de artă originale ale pictorilor locali."
+          },
+          {
+            "name": "A l'Alpe",
+            "tip": "Echipament outdoor pentru alpiniști și bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barbizon Galleries",
+            "tip": "Original artworks by local painters."
+          },
+          {
+            "name": "A l'Alpe",
+            "tip": "Outdoor gear for climbers and cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Mountainbike für die Waldwege.",
+          "Nehmen Sie ausreichend Wasser und eine Karte mit.",
+          "Achten Sie auf Wanderer auf den gemeinsamen Wegen.",
+          "Die Wege sind meist gut markiert, aber flach."
+        ],
+        "hu": [
+          "Béreljen hegyi kerékpárt az erdei utakhoz.",
+          "Vigyen magával elegendő vizet és egy térképet.",
+          "Figyeljen a gyalogosokra a közös ösvényeken.",
+          "Az utak általában jól jelzettek és lankásak."
+        ],
+        "ro": [
+          "Închiriați o bicicletă de munte pentru potecile din pădure.",
+          "Luați suficientă apă și o hartă cu voi.",
+          "Atenție la drumeți pe potecile comune.",
+          "Traseele sunt în mare parte bine marcate, dar plate."
+        ],
+        "en": [
+          "Rent a mountain bike for the forest trails.",
+          "Take plenty of water and a map with you.",
+          "Watch out for hikers on shared paths.",
+          "Paths are mostly well-marked but flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Fontainebleau",
+            "hu": "Fontainebleau-i kastély",
+            "ro": "Castelul Fontainebleau",
+            "en": "Palace of Fontainebleau"
+          },
+          "coords": [
+            2.6995,
+            48.4022
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkplatz 'Place d'Armes' ist am nächsten.",
+            "hu": "A 'Place d'Armes' parkoló van a legközelebb.",
+            "ro": "Parcarea 'Place d'Armes' este cea mai apropiată.",
+            "en": "Parking 'Place d'Armes' is the closest."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorges de Franchard",
+            "hu": "Franchard-szurdok",
+            "ro": "Gorges de Franchard",
+            "en": "Gorges de Franchard"
+          },
+          "coords": [
+            2.6285,
+            48.4085
+          ],
+          "category": "park",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Einzigartige Sandsteinformationen zum Klettern.",
+            "hu": "Egyedülálló homokkő-alakzatok mászáshoz.",
+            "ro": "Formațiuni unice de gresie pentru cățărat.",
+            "en": "Unique sandstone formations for climbing."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbizon Dorf",
+            "hu": "Barbizon falu",
+            "ro": "Satul Barbizon",
+            "en": "Barbizon Village"
+          },
+          "coords": [
+            2.6055,
+            48.4445
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Musée des Peintres de Barbizon.",
+            "hu": "Látogassa meg a Barbizoni Festők Múzeumát.",
+            "ro": "Vizitați Muzeul Pictorilor din Barbizon.",
+            "en": "Visit the Barbizon Painters Museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vaux-le-Vicomte",
+            "hu": "Vaux-le-Vicomte kastély",
+            "ro": "Castelul Vaux-le-Vicomte",
+            "en": "Vaux-le-Vicomte Palace"
+          },
+          "coords": [
+            2.7145,
+            48.5655
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Die Inspiration für Versailles.",
+            "hu": "Versailles ihletője.",
+            "ro": "Inspirația pentru Versailles.",
+            "en": "The inspiration for Versailles."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontainebleau Zentrum",
+            "hu": "Fontainebleau központ",
+            "ro": "Centrul Fontainebleau",
+            "en": "Fontainebleau Center"
+          },
+          "coords": [
+            2.7011,
+            48.4045
+          ],
+          "category": "square",
+          "arrive_at": "17:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 19.0,
+          "tip_5lang": {
+            "de": "Abendessen in der Rue Grande.",
+            "hu": "Vacsora a Rue Grande-on.",
+            "ro": "Cină pe Rue Grande.",
+            "en": "Dinner on Rue Grande."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das prachtvolle Schloss Fontainebleau mit den Highlights der Region. Nach der Palastbesichtigung erkunden Sie die Gorges de Franchard im Wald. Ein Stopp im malerischen Barbizon lässt Sie in die Welt der Maler eintauchen, bevor Sie das atemberaubende Schloss Vaux-le-Vicomte besuchen. Der Tag endet entspannt bei einem Abendessen im Stadtzentrum von Fontainebleau.",
+        "hu": "Autóval könnyen összekötheti a fontainebleau-i kastélyt a régió többi látnivalójával. A palota után fedezze fel az erdei Franchard-szurdokot. Egy megálló a festői Barbizonban elrepíti a művészek világába, mielőtt meglátogatná a lenyűgöző Vaux-le-Vicomte kastélyt. A nap végén vacsorázzon kényelmesen Fontainebleau belvárosában.",
+        "ro": "Cu mașina, puteți combina magnificul Castel Fontainebleau cu punctele de atracție din regiune. După vizitarea palatului, explorați Gorges de Franchard în pădure. O oprire în pitorescul Barbizon vă introduce în lumea pictorilor, înainte de a vizita uimitorul castel Vaux-le-Vicomte. Ziua se încheie relaxat cu o cină în centrul orașului Fontainebleau.",
+        "en": "By car, you can combine the grand Palace of Fontainebleau with the region's highlights. After the palace tour, explore the Gorges de Franchard in the forest. A stop in picturesque Barbizon immerses you in the world of painters before visiting the breathtaking Vaux-le-Vicomte Palace. The day ends with a relaxed dinner in Fontainebleau city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge de la Table du Roy",
+            "tip": "Exzellentes Restaurant in Barbizon."
+          },
+          {
+            "name": "La Libellule",
+            "tip": "Gemütliches Café mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge de la Table du Roy",
+            "tip": "Kiváló étterem Barbizonban."
+          },
+          {
+            "name": "La Libellule",
+            "tip": "Hangulatos kávézó helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge de la Table du Roy",
+            "tip": "Restaurant excelent în Barbizon."
+          },
+          {
+            "name": "La Libellule",
+            "tip": "Cafenea primitoare cu produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge de la Table du Roy",
+            "tip": "Excellent restaurant in Barbizon."
+          },
+          {
+            "name": "La Libellule",
+            "tip": "Cozy cafe with regional products."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldparkplatz Franchard",
+            "tip": "Startpunkt für ruhige Waldspaziergänge.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Schlosspark Vaux-le-Vicomte",
+            "tip": "Prachtvolle Symmetrie und Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Franchard erdei parkoló",
+            "tip": "Kiindulópont csendes erdei sétákhoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vaux-le-Vicomte kastélypark",
+            "tip": "Pompás szimmetria és nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare pădure Franchard",
+            "tip": "Punct de plecare pentru plimbări liniștite prin pădure.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Castelului Vaux-le-Vicomte",
+            "tip": "Simetrie magnifică și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Franchard Forest Parking",
+            "tip": "Starting point for quiet forest walks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vaux-le-Vicomte Palace Park",
+            "tip": "Magnificent symmetry and peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs Vaux-le-Vicomte",
+            "tip": "Hochwertige Geschenkartikel."
+          },
+          {
+            "name": "Boutique du Château",
+            "tip": "Bücher und Replikate königlicher Objekte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vaux-le-Vicomte ajándékbolt",
+            "tip": "Minőségi ajándéktárgyak."
+          },
+          {
+            "name": "Boutique du Château",
+            "tip": "Könyvek és királyi tárgyak másolatai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Vaux-le-Vicomte",
+            "tip": "Articole de cadou de înaltă calitate."
+          },
+          {
+            "name": "Boutique du Château",
+            "tip": "Cărți și replici ale obiectelor regale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vaux-le-Vicomte Souvenirs",
+            "tip": "High-quality gift items."
+          },
+          {
+            "name": "Boutique du Château",
+            "tip": "Books and replicas of royal objects."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Pendlerzeiten Richtung Paris.",
+          "Nutzen Sie die Parkhäuser im Stadtzentrum.",
+          "Kaufen Sie ein Kombiticket für Vaux-le-Vicomte.",
+          "Die Straßen im Wald sind schmal und kurvig."
+        ],
+        "hu": [
+          "Kerülje a Párizs felé tartó ingázó forgalmat.",
+          "Használja a belvárosi parkolóházakat.",
+          "Vásároljon kombinált jegyet Vaux-le-Vicomte-ba.",
+          "Az erdei utak keskenyek és kanyargósak."
+        ],
+        "ro": [
+          "Evitați orele de vârf spre Paris.",
+          "Folosiți parcările etajate din centrul orașului.",
+          "Cumpărați un bilet combinat pentru Vaux-le-Vicomte.",
+          "Drumurile din pădure sunt înguste și sinuoase."
+        ],
+        "en": [
+          "Avoid commuter rush hours towards Paris.",
+          "Use the parking garages in the city center.",
+          "Buy a combined ticket for Vaux-le-Vicomte.",
+          "Forest roads are narrow and winding."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Fontainebleau-Avon",
+            "hu": "Fontainebleau-Avon vasútállomás",
+            "ro": "Gara Fontainebleau-Avon",
+            "en": "Fontainebleau-Avon Station"
+          },
+          "coords": [
+            2.7235,
+            48.4135
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus Linie 1 zum Schloss.",
+            "hu": "Szálljon fel az 1-es buszra a kastély felé.",
+            "ro": "Luați autobuzul linia 1 către castel.",
+            "en": "Take bus line 1 to the palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fontainebleau",
+            "hu": "Fontainebleau-i kastély",
+            "ro": "Castelul Fontainebleau",
+            "en": "Palace of Fontainebleau"
+          },
+          "coords": [
+            2.6995,
+            48.4022
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Château' ist direkt davor.",
+            "hu": "A 'Château' megálló közvetlenül a kastély előtt van.",
+            "ro": "Stația 'Château' este chiar în față.",
+            "en": "The 'Château' stop is right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            2.6991,
+            48.4035
+          ],
+          "category": "square",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historischer Platz am Schlosseingang.",
+            "hu": "Történelmi tér a kastély bejáratánál.",
+            "ro": "Piață istorică la intrarea în castel.",
+            "en": "Historic square at the palace entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de Diane",
+            "hu": "Diána-kert",
+            "ro": "Grădina Dianei",
+            "en": "Diana's Garden"
+          },
+          "coords": [
+            2.6975,
+            48.4025
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Ort für Fotos.",
+            "hu": "Gyönyörű hely fotózáshoz.",
+            "ro": "Un loc frumos pentru fotografii.",
+            "en": "A beautiful spot for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Palace Park"
+          },
+          "coords": [
+            2.7065,
+            48.4005
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang am Kanal.",
+            "hu": "Tegyen egy hosszú sétát a csatorna mentén.",
+            "ro": "Faceți o plimbare lungă pe malul canalului.",
+            "en": "Take a long walk along the canal."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Grande",
+            "hu": "Rue Grande",
+            "ro": "Strada Grande",
+            "en": "Rue Grande"
+          },
+          "coords": [
+            2.7015,
+            48.4055
+          ],
+          "category": "shopping",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Hauptgeschäftsstraße von Fontainebleau.",
+            "hu": "Fontainebleau fő bevásárlóutcája.",
+            "ro": "Principala stradă comercială din Fontainebleau.",
+            "en": "Fontainebleau's main shopping street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof Fontainebleau-Avon aus gelangen Sie bequem mit dem Bus direkt zum Schloss. Entdecken Sie die prunkvollen Säle und die weitläufigen Parkanlagen. Nach einem erholsamen Spaziergang im Schlosspark bietet das Stadtzentrum mit der Rue Grande ideale Möglichkeiten zum Bummeln und Shoppen, bevor Sie der Bus wieder zurück zum Bahnhof bringt.",
+        "hu": "A Fontainebleau-Avon vasútállomástól busszal kényelmesen eljuthat közvetlenül a kastélyhoz. Fedezze fel a pompás termeket és a hatalmas parkokat. A kastélyparkban tett pihentető séta után a városközpont és a Rue Grande ideális lehetőséget kínál a sétára és vásárlásra, mielőtt a busz visszaviszi az állomásra.",
+        "ro": "De la gara Fontainebleau-Avon, puteți ajunge convenabil cu autobuzul direct la castel. Descoperiți sălile somptuoase și parcurile vaste. După o plimbare relaxantă în parcul castelului, centrul orașului cu Rue Grande oferă oportunități ideale pentru plimbare și cumpărături, înainte ca autobuzul să vă ducă înapoi la gară.",
+        "en": "From Fontainebleau-Avon station, you can conveniently take the bus directly to the palace. Discover the grand halls and extensive parks. After a relaxing stroll in the palace park, the city center and Rue Grande offer ideal opportunities for strolling and shopping before the bus takes you back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Axotol",
+            "tip": "Gute mexikanische Küche im Zentrum."
+          },
+          {
+            "name": "Patisserie Cassel",
+            "tip": "Preisgekrönte Desserts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Axotol",
+            "tip": "Jó mexikói konyha a központban."
+          },
+          {
+            "name": "Patisserie Cassel",
+            "tip": "Díjnyertes desszertek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Axotol",
+            "tip": "Bucătărie mexicană bună în centru."
+          },
+          {
+            "name": "Patisserie Cassel",
+            "tip": "Deserturi premiate."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Axotol",
+            "tip": "Good Mexican cuisine in the center."
+          },
+          {
+            "name": "Patisserie Cassel",
+            "tip": "Award-winning desserts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kanal von Fontainebleau",
+            "tip": "Ruhiger Spazierweg fernab der Massen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Jardin de l'Orangerie",
+            "tip": "Kleiner, versteckter Garten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontainebleau-i csatorna",
+            "tip": "Csendes sétány távol a tömegtől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orangerie-kert",
+            "tip": "Kicsi, elrejtett kert.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul din Fontainebleau",
+            "tip": "Alee liniștită departe de mulțime.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grădina Orangerie",
+            "tip": "Grădină mică, ascunsă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fontainebleau Canal",
+            "tip": "Quiet walkway away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Orangerie Garden",
+            "tip": "Small, hidden garden.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Monoprix Fontainebleau",
+            "tip": "Alles für den täglichen Bedarf."
+          },
+          {
+            "name": "Cadr'Art",
+            "tip": "Schöne Kunstdrucke und Rahmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monoprix Fontainebleau",
+            "tip": "Minden a napi szükségletekhez."
+          },
+          {
+            "name": "Cadr'Art",
+            "tip": "Szép művészeti nyomatok és keretek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monoprix Fontainebleau",
+            "tip": "Totul pentru nevoile zilnice.",
+            "en": "Everything for daily needs."
+          },
+          {
+            "name": "Cadr'Art",
+            "tip": "Imprimeuri artistice frumoase și rame."
+          }
+        ],
+        "en": [
+          {
+            "name": "Monoprix Fontainebleau",
+            "tip": "Everything for daily needs."
+          },
+          {
+            "name": "Cadr'Art",
+            "tip": "Beautiful art prints and frames."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Verwenden Sie den 'Navigo' Pass für den Bus.",
+          "Die Buslinie 1 verkehrt alle 15 Minuten.",
+          "Vom Bahnhof Avon zum Schloss sind es ca. 30 Min. zu Fuß.",
+          "An Feiertagen ist der Busverkehr eingeschränkt."
+        ],
+        "hu": [
+          "Használja a 'Navigo' bérletet a buszon.",
+          "Az 1-es busz 15 percenként jár.",
+          "Az Avon állomástól a kastély kb. 30 perc gyalog.",
+          "Ünnepnapokon a buszközlekedés korlátozott."
+        ],
+        "ro": [
+          "Folosiți cardul 'Navigo' pentru autobuz.",
+          "Linia de autobuz 1 circulă la fiecare 15 minute.",
+          "De la gara Avon până la castel sunt aproximativ 30 de minute de mers pe jos.",
+          "În zilele de sărbătoare, transportul cu autobuzul este limitat."
+        ],
+        "en": [
+          "Use the 'Navigo' pass for the bus.",
+          "Bus line 1 runs every 15 minutes.",
+          "It is about a 30-min walk from Avon station to the palace.",
+          "On public holidays, bus service is limited."
+        ]
+      }
+    }
+  }
+}

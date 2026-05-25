@@ -1,0 +1,1245 @@
+{
+  "city_id": "saint-malo",
+  "anchor": {
+    "name": "Porte Saint-Vincent",
+    "coords": [
+      -2.0257,
+      48.6493
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haupteingang Porte Saint-Vincent",
+            "hu": "Szent Vince-kapu főbejárat",
+            "ro": "Poarta Saint-Vincent",
+            "en": "Porte Saint-Vincent Main Gate"
+          },
+          "coords": [
+            -2.0257,
+            48.6493
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Holen Sie sich einen Stadtplan im Tourismusbüro direkt am Eingang.",
+            "hu": "Kérjen várostérképet a bejárat melletti turisztikai irodában.",
+            "ro": "Luați o hartă a orașului de la biroul de turism chiar de la intrare.",
+            "en": "Grab a city map at the tourism office right by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Stadtmauern (Les Remparts)",
+            "hu": "Városfalak (Les Remparts)",
+            "ro": "Zidurile Cetății (Les Remparts)",
+            "en": "The Walls (Les Remparts)"
+          },
+          "coords": [
+            -2.027,
+            48.6505
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie die gesamte Runde für einen 360-Grad-Blick auf das Meer.",
+            "hu": "Sétáljon körbe a falakon a teljes 360 fokos tengeri panorámáért.",
+            "ro": "Parcurgeți întregul circuit pentru o vedere de 360 de grade asupra mării.",
+            "en": "Walk the entire loop for a full 360-degree view of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Vincent",
+            "hu": "Szent Vince-székesegyház",
+            "ro": "Catedrala Saint-Vincent",
+            "en": "Saint-Vincent Cathedral"
+          },
+          "coords": [
+            -2.0262,
+            48.6512
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Glasmalereien im Inneren.",
+            "hu": "Csodálja meg a templom modern, színes üvegablakait.",
+            "ro": "Admirați vitraliile moderne din interior.",
+            "en": "Admire the modern stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Intra-Muros",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în Intra-Muros",
+            "en": "Lunch in Intra-Muros"
+          },
+          "coords": [
+            -2.0255,
+            48.6515
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Galette Saucisse in den Seitenstraßen.",
+            "hu": "Kóstoljon meg egy kolbászos galette-et a mellékutcákban.",
+            "ro": "Încercați o galette saucisse pe străzile lăturalnice.",
+            "en": "Try a galette saucisse in the side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bon-Secours",
+            "hu": "Bon-Secours strand",
+            "ro": "Plaja Bon-Secours",
+            "en": "Bon-Secours Beach"
+          },
+          "coords": [
+            -2.031,
+            48.653
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das natürliche Meeresschwimmbecken ist auch bei Ebbe gefüllt.",
+            "hu": "A természetes tengervizes medence apálykor is vízzel teli marad.",
+            "ro": "Piscina naturală cu apă de mare rămâne plină chiar și la reflux.",
+            "en": "The natural sea water pool stays filled even at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Grand Bé",
+            "hu": "Grand Bé sziget",
+            "ro": "Insula Grand Bé",
+            "en": "Grand Bé Island"
+          },
+          "coords": [
+            -2.0335,
+            48.6535
+          ],
+          "category": "landmark",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überprüfen Sie die Gezeiten, bevor Sie den Damm überqueren.",
+            "hu": "Ellenőrizze az árapályt, mielőtt elindulna a gáton.",
+            "ro": "Verificați fluxul și refluxul înainte de a traversa digul.",
+            "en": "Check the tide times before crossing the causeway."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion de la Hollande",
+            "hu": "Holland-bástya",
+            "ro": "Bastionul Olandei",
+            "en": "Bastion de la Hollande"
+          },
+          "coords": [
+            -2.0285,
+            48.6495
+          ],
+          "category": "sunset",
+          "arrive_at": "18:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Sonnenuntergang über den Inseln zu sehen.",
+            "hu": "Tökéletes hely a naplemente megtekintéséhez a szigetek felett.",
+            "ro": "Locul perfect pentru a vedea apusul peste insule.",
+            "en": "The perfect spot to watch the sunset over the islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am majestätischen Porte Saint-Vincent, dem Tor zur befestigten Stadt. Ein Spaziergang auf den Remparts bietet Ihnen spektakuläre Ausblicke auf das Smaragdmeer und die Granitfassaden von Intra-Muros. Mittags tauchen Sie in die engen Gassen ein, um die lokale Gastronomie zu genießen.\n\nNachmittags entspannen Sie am Strand von Bon-Secours oder wagen den Sprung ins Meeresschwimmbecken. Wenn die Ebbe es zulässt, wandern Sie zur Insel Grand Bé, um das Grab des Schriftstellers Chateaubriand zu besuchen. Beenden Sie den Tag auf der Bastion de la Hollande, während die Sonne langsam im Meer versinkt und die Segelboote am Horizont beleuchtet.",
+        "hu": "Kezdje a napot a fenséges Szent Vince-kapunál, amely az erődváros bejárata. A városfalakon tett séta látványos kilátást nyújt a Smaragd-partra és az óváros gránit homlokzataira. Délben merüljön el a szűk utcák forgatagában, és kóstolja meg a helyi gasztronómia remekeit.\n\nDélután pihenjen a Bon-Secours strandon, vagy ugorjon egyet a tengervizes medencébe. Ha az apály lehetővé teszi, sétáljon át a Grand Bé szigetre, Chateaubriand sírjához. A napot a Holland-bástyán fejezze be, nézve, ahogy a nap lassan a tengerbe süllyed, megvilágítva a távoli vitorlásokat.",
+        "ro": "Începeți ziua la maiestuoasa Poartă Saint-Vincent, intrarea în orașul fortificat. O plimbare pe ziduri vă oferă vederi spectaculoase asupra coastei de smarald și a fațadelor de granit. La prânz, explorați străzile înguste pentru a savura gastronomia locală.\n\nDupă-amiaza, relaxați-vă pe plaja Bon-Secours sau faceți o baie în piscina cu apă de mare. Dacă refluxul permite, mergeți pe jos până la insula Grand Bé pentru a vizita mormântul lui Chateaubriand. Încheiați ziua pe Bastionul Olandei, în timp ce soarele apune în mare, luminând pânzele bărcilor la orizont.",
+        "en": "Start your day at the majestic Porte Saint-Vincent, the gateway to the walled city. A walk along the Remparts offers spectacular views of the Emerald Coast and the granite facades of Intra-Muros. At noon, dive into the narrow streets to enjoy local gastronomy.\n\nIn the afternoon, relax on Bon-Secours beach or take a dip in the sea water pool. If the tide allows, walk over to Grand Bé island to visit the tomb of Chateaubriand. End the day at the Bastion de la Hollande as the sun slowly sinks into the sea, illuminating the sailboats on the horizon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie Le Corps de Garde",
+            "tip": "Probieren Sie herzhafte Buchweizen-Galettes direkt auf der Stadtmauer."
+          },
+          {
+            "name": "Kouign-Amann",
+            "tip": "Ein buttriger, karamellisierter bretonischer Kuchen, am besten warm genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie Le Corps de Garde",
+            "tip": "Kóstolja meg a hajdina galette-et közvetlenül a városfalon."
+          },
+          {
+            "name": "Kouign-Amann",
+            "tip": "Vajas, karamellizált breton sütemény, a legjobb melegen fogyasztva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie Le Corps de Garde",
+            "tip": "Încercați galettes de hrișcă chiar pe zidurile cetății."
+          },
+          {
+            "name": "Kouign-Amann",
+            "tip": "O prăjitură bretonă cu unt și caramel, savurată cel mai bine caldă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie Le Corps de Garde",
+            "tip": "Try savory buckwheat galettes directly on the city walls."
+          },
+          {
+            "name": "Kouign-Amann",
+            "tip": "A buttery, caramelized Breton cake, best enjoyed warm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Petit Bé",
+            "tip": "Ein einsames Fort, das nur bei Ebbe erreichbar ist.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grand Bé Sonnenuntergang",
+            "tip": "Ruhe finden am Ende der Welt bei Ebbe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petit Bé",
+            "tip": "Magányos erőd, amely csak apálykor közelíthető meg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grand Bé naplemente",
+            "tip": "Találjon nyugalmat a világ végén, apály idején.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petit Bé",
+            "tip": "Un fort solitar accesibil doar la reflux.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Apus pe Grand Bé",
+            "tip": "Găsiți liniștea la capătul lumii în timpul refluxului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Petit Bé",
+            "tip": "A solitary fort accessible only at low tide.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grand Bé Sunset",
+            "tip": "Find peace at the edge of the world during low tide.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bordier Butter",
+            "tip": "Die berühmteste handwerkliche Butter Frankreichs in Intra-Muros kaufen."
+          },
+          {
+            "name": "Marinière",
+            "tip": "Das klassische gestreifte bretonische Hemd als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bordier vaj",
+            "tip": "Vásárolja meg Franciaország leghíresebb kézműves vaját az óvárosban."
+          },
+          {
+            "name": "Marinière",
+            "tip": "A klasszikus csíkos breton ing mint emléktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Unt Bordier",
+            "tip": "Cumpărați cel mai faimos unt artizanal din Franța în Intra-Muros."
+          },
+          {
+            "name": "Marinière",
+            "tip": "Clasicul tricou breton în dungi ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bordier Butter",
+            "tip": "Buy France's most famous artisanal butter in Intra-Muros."
+          },
+          {
+            "name": "Marinière",
+            "tip": "The classic striped Breton shirt as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie immer die Gezeitentabelle, bevor Sie zu den Inseln aufbrechen.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Die Winde auf den Stadtmauern können auch im Sommer kühl sein.",
+          "Reservieren Sie Restaurants im Voraus, besonders am Wochenende."
+        ],
+        "hu": [
+          "Mindig ellenőrizze az árapály-táblázatot, mielőtt a szigetekre indulna.",
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A városfalakon a szél még nyáron is hűvös lehet.",
+          "Foglaljon asztalt előre az éttermekben, különösen hétvégén."
+        ],
+        "ro": [
+          "Verificați întotdeauna tabelul mareelor înainte de a pleca spre insule.",
+          "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+          "Vântul pe ziduri poate fi răcoros chiar și în timpul verii.",
+          "Rezervați mesele la restaurant în avans, mai ales în weekend."
+        ],
+        "en": [
+          "Always check the tide timetable before heading out to the islands.",
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "Winds on the city walls can be chilly even in summer.",
+          "Book restaurants in advance, especially during weekends."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage du Sillon",
+            "hu": "Sillon strand",
+            "ro": "Plaja Sillon",
+            "en": "Sillon Beach"
+          },
+          "coords": [
+            -2.015,
+            48.655
+          ],
+          "category": "beach",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Strandpromenade mit Blick auf die Wellenbrecher.",
+            "hu": "Kerekezzen a tengerparti sétányon a hullámtörő cölöpök mentén.",
+            "ro": "Pedalați de-a lungul promenadei cu vedere la stâlpii sparge-val.",
+            "en": "Cycle along the beachfront promenade with views of the breakwater logs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Varde",
+            "hu": "Pointe de la Varde szikla",
+            "ro": "Pointe de la Varde",
+            "en": "Pointe de la Varde"
+          },
+          "coords": [
+            -1.985,
+            48.678
+          ],
+          "category": "park",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wilde Klippenlandschaft mit alten Bunkeranlagen aus dem Zweiten Weltkrieg.",
+            "hu": "Vad sziklás táj második világháborús bunkerrendszerekkel.",
+            "ro": "Peisaj stâncos sălbatic cu buncăre din al Doilea Război Mondial.",
+            "en": "Wild cliff landscape with WWII bunker remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothéneuf - Felsenskulpturen",
+            "hu": "Rothéneuf sziklaszobrok",
+            "ro": "Sculpturile în stâncă Rothéneuf",
+            "en": "Rothéneuf Rock Carvings"
+          },
+          "coords": [
+            -1.9675,
+            48.682
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Über 300 in den Granit gehauene Figuren eines Eremiten.",
+            "hu": "Több mint 300, gránitba vájt figura egy remete munkája nyomán.",
+            "ro": "Peste 300 de figuri sculptate în granit de către un pustnic.",
+            "en": "Over 300 figures carved into granite by a hermit priest."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick am Havre de Rothéneuf",
+            "hu": "Piknik a Rothéneuf-öbölben",
+            "ro": "Picnic la Havre de Rothéneuf",
+            "en": "Picnic at Havre de Rothéneuf"
+          },
+          "coords": [
+            -1.96,
+            48.685
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort, ideal für eine Pause fernab der Massen.",
+            "hu": "Csendes hely, ideális pihenőhöz a tömegtől távol.",
+            "ro": "Un loc liniștit, ideal pentru o pauză departe de mulțime.",
+            "en": "A quiet spot, ideal for a break away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Solidor - Saint-Servan",
+            "hu": "Solidor-torony - Saint-Servan",
+            "ro": "Turnul Solidor - Saint-Servan",
+            "en": "Tour Solidor - Saint-Servan"
+          },
+          "coords": [
+            -2.025,
+            48.6338
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen dreifachen Turm aus dem 14. Jahrhundert.",
+            "hu": "Csodálja meg ezt a 14. századi, hármas toronyrendszert.",
+            "ro": "Admirați acest turn triplu din secolul al XIV-lea.",
+            "en": "Admire this triple tower dating from the 14th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité d'Aleth",
+            "hu": "Cité d'Aleth félsziget",
+            "ro": "Cité d'Aleth",
+            "en": "Cité d'Aleth"
+          },
+          "coords": [
+            -2.028,
+            48.636
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf Saint-Malo Intra-Muros von der Ferne.",
+            "hu": "Élvezze a kilátást Saint-Malo óvárosára a távolból.",
+            "ro": "Bucurați-vă de vederea asupra Saint-Malo Intra-Muros de la distanță.",
+            "en": "Enjoy the view of Saint-Malo Intra-Muros from across the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Küste von Saint-Malo jenseits der Mauern mit dem Fahrrad. Die Route führt Sie entlang des Sillon-Strandes zu den wilden Klippen der Pointe de la Varde. Ein Highlight sind die faszinierenden Felsenskulpturen von Rothéneuf, die direkt in den Küstengranit gehauen wurden.\n\nNach einem ruhigen Picknick in der Bucht kehren Sie in Richtung Süden zurück zum charmanten Viertel Saint-Servan. Hier dominiert der Tour Solidor die Mündung der Rance. Die Tour endet auf der Cité d'Aleth, dem historischen Geburtsort der Stadt, mit einem unvergleichlichen Panorama auf die befestigte Stadt und das offene Meer.",
+        "hu": "Fedezze fel Saint-Malo partvidékét kerékpárral a falakon túl. Az útvonal a Sillon strand mentén vezet a Pointe de la Varde vad szikláihoz. A túra csúcspontja Rothéneuf lenyűgöző sziklaszobrai, amelyeket közvetlenül a parti gránitba véstek.\n\nEgy csendes öbölbeli piknik után térjen vissza délre, Saint-Servan bájos negyedébe. Itt a Solidor-torony uralja a Rance folyó torkolatát. A túra a Cité d'Aleth félszigeten ér véget, amely a város történelmi bölcsője, és páratlan panorámát nyújt az erődített városra és a nyílt tengerre.",
+        "ro": "Descoperiți coasta Saint-Malo dincolo de ziduri cu bicicleta. Traseul vă poartă de-a lungul plajei Sillon către stâncile sălbatice de la Pointe de la Varde. Un punct culminant sunt fascinantele sculpturi în stâncă de la Rothéneuf, dăltuite direct în granitul de pe malul mării.\n\nDupă un picnic liniștit în golf, întoarceți-vă spre sud către cartierul fermecător Saint-Servan. Aici, Turnul Solidor domină estuarul Rance. Turul se încheie la Cité d'Aleth, locul istoric de naștere al orașului, cu o panoramă de neegalat asupra cetății și a mării deschise.",
+        "en": "Discover the Saint-Malo coast beyond the walls by bike. The route takes you along Sillon beach to the wild cliffs of Pointe de la Varde. A highlight is the fascinating Rothéneuf rock carvings, hewn directly into the coastal granite.\n\nAfter a quiet picnic in the bay, head back south towards the charming Saint-Servan district. Here, the Tour Solidor dominates the Rance estuary. The tour ends at Cité d'Aleth, the historical birthplace of the city, with an unparalleled panorama of the walled city and the open sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Benetin",
+            "tip": "Gehobene Küche mit Blick auf die Felsenskulpturen von Rothéneuf."
+          },
+          {
+            "name": "Far Breton",
+            "tip": "Ein traditioneller Eierkuchen mit Pflaumen, ideal für die Energiezufuhr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Benetin",
+            "tip": "Színvonalas konyha kilátással a rothéneuf-i sziklaszobrokra."
+          },
+          {
+            "name": "Far Breton",
+            "tip": "Hagyományos aszalt szilvás puding sütemény, ideális energiapótlás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Benetin",
+            "tip": "Bucătărie rafinată cu vedere la sculpturile în stâncă Rothéneuf."
+          },
+          {
+            "name": "Far Breton",
+            "tip": "O budincă tradițională cu prune, ideală pentru energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Benetin",
+            "tip": "Upscale dining with a view of the Rothéneuf rock carvings."
+          },
+          {
+            "name": "Far Breton",
+            "tip": "A traditional prune custard cake, ideal for energy boost."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anse de Rothéneuf",
+            "tip": "Eine geschützte Bucht mit kristallklarem Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park der Cité d'Aleth",
+            "tip": "Schattige Wege unter Pinien mit Meerblick.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anse de Rothéneuf",
+            "tip": "Védett öböl kristálytiszta vízzel.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cité d'Aleth parkja",
+            "tip": "Árnyas utak fenyőfák alatt, tengeri kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anse de Rothéneuf",
+            "tip": "Un golf protejat cu apă de cristal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Cité d'Aleth",
+            "tip": "Poteci umbrite sub pini cu vedere la mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anse de Rothéneuf",
+            "tip": "A sheltered cove with crystal clear water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cité d'Aleth Park",
+            "tip": "Shaded paths under pine trees with sea views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte in Saint-Servan",
+            "tip": "Frische Produkte und weniger touristisch als die Altstadt."
+          },
+          {
+            "name": "Cidre aus der Region",
+            "tip": "Kaufen Sie eine Flasche handwerklichen Cidre direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Servan helyi piacai",
+            "tip": "Friss termékek, kevésbé turisztikai, mint az óváros."
+          },
+          {
+            "name": "Helyi Cidre",
+            "tip": "Vásároljon egy üveg kézműves almabort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețele locale din Saint-Servan",
+            "tip": "Produse proaspete și mai puțin turistic decât centrul vechi."
+          },
+          {
+            "name": "Cidru regional",
+            "tip": "Cumpărați o sticlă de cidru artizanal direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Servan Local Markets",
+            "tip": "Fresh produce and less touristy than the old town."
+          },
+          {
+            "name": "Local Cidre",
+            "tip": "Buy a bottle of artisanal cider directly from a producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes, da die Küste einige Steigungen aufweist.",
+          "Achten Sie auf Fußgänger auf der Sillon-Promenade.",
+          "Die Strecke nach Rothéneuf ist gut ausgeschildert.",
+          "Nehmen Sie ausreichend Wasser und Sonnencreme mit."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt, mert a partvidéken vannak emelkedők.",
+          "Figyeljen a gyalogosokra a Sillon sétányon.",
+          "A Rothéneuf felé vezető út jól ki van táblázva.",
+          "Vigyen magával elegendő vizet és naptejet."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice, deoarece coasta are unele pante.",
+          "Atenție la pietoni pe promenada Sillon.",
+          "Traseul către Rothéneuf este bine semnalizat.",
+          "Luați suficientă apă și cremă de protecție solară."
+        ],
+        "en": [
+          "Rent e-bikes as the coastline has some inclines.",
+          "Watch out for pedestrians on the Sillon promenade.",
+          "The route to Rothéneuf is well signposted.",
+          "Take enough water and sunscreen with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand Aquarium Saint-Malo",
+            "hu": "Saint-Malo Nagy Akvárium",
+            "ro": "Marele Acvariu Saint-Malo",
+            "en": "Grand Aquarium Saint-Malo"
+          },
+          "coords": [
+            -1.995,
+            48.6145
+          ],
+          "category": "museum",
+          "arrive_at": "09:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die U-Boot-Attraktion 'Nautibus'.",
+            "hu": "Ne hagyja ki a 'Nautibus' tengeralattjáró-élményt.",
+            "ro": "Nu ratați atracția submarină 'Nautibus'.",
+            "en": "Don't miss the 'Nautibus' submarine attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Cancale - Austernmarkt",
+            "hu": "Cancale - osztrigapiac",
+            "ro": "Cancale - piața de stridii",
+            "en": "Cancale - Oyster Market"
+          },
+          "coords": [
+            -1.852,
+            48.67
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Essen Sie frische Austern direkt am Hafen am Wasser.",
+            "hu": "Egyen friss osztrigát közvetlenül a kikötőben, a vízparton.",
+            "ro": "Mâncați stridii proaspete chiar în port, pe malul apei.",
+            "en": "Eat fresh oysters right at the harbor by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Grouin",
+            "hu": "Pointe du Grouin kilátó",
+            "ro": "Pointe du Grouin",
+            "en": "Pointe du Grouin"
+          },
+          "coords": [
+            -1.843,
+            48.712
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf die Bucht von Mont-Saint-Michel.",
+            "hu": "Látványos kilátás a Mont-Saint-Michel öbölre.",
+            "ro": "Vedere spectaculoasă asupra golfului Mont-Saint-Michel.",
+            "en": "Spectacular view of the Mont-Saint-Michel bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinard - Promenade du Clair de Lune",
+            "hu": "Dinard - Holdfény-sétány",
+            "ro": "Dinard - Promenada Clair de Lune",
+            "en": "Dinard - Clair de Lune Promenade"
+          },
+          "coords": [
+            -2.058,
+            48.632
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 22.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Villen der Belle Époque aus dem 19. Jahrhundert.",
+            "hu": "Csodálja meg a 19. századi Belle Époque villákat.",
+            "ro": "Admirați vilele Belle Époque din secolul al XIX-lea.",
+            "en": "Admire the 19th-century Belle Époque villas."
+          }
+        },
+        {
+          "name": {
+            "de": "Rance-Gezeitenkraftwerk",
+            "hu": "Rance árapály-erőmű",
+            "ro": "Centrala mareomotrice Rance",
+            "en": "Rance Tidal Power Station"
+          },
+          "coords": [
+            -2.022,
+            48.62
+          ],
+          "category": "landmark",
+          "arrive_at": "17:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das weltweit erste kommerzielle Gezeitenkraftwerk.",
+            "hu": "Látogassa meg a világ első kereskedelmi árapály-erőművét.",
+            "ro": "Vizitați prima centrală mareomotrice comercială din lume.",
+            "en": "Visit the world's first commercial tidal power station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Umgebung von Saint-Malo in vollen Zügen. Beginnen Sie den Morgen im beeindruckenden Grand Aquarium, bevor Sie in das malerische Fischerdorf Cancale fahren, das für seine Austern weltberühmt ist. Genießen Sie die frische Meeresbrise direkt am Hafenbecken.\n\nAm Nachmittag führt Sie die Fahrt zur Pointe du Grouin, wo Sie ein atemberaubendes Panorama über den Ozean erwartet. Ein kurzer Abstecher über den Rance-Damm bringt Sie nach Dinard, dem eleganten Badeort mit britischem Flair. Auf dem Rückweg halten Sie am Gezeitenkraftwerk, einem technischen Wunderwerk, das die Kraft des Mondes nutzt.",
+        "hu": "Autóval Saint-Malo környékét teljes egészében felfedezheti. Kezdje a reggelt a lenyűgöző Nagy Akváriumban, majd hajtson el Cancale festői halászfalujába, amely világhírű az osztrigájáról. Élvezze a friss tengeri szellőt közvetlenül a kikötőben.\n\nDélután az út a Pointe du Grouin-hoz vezet, ahol lélegzetelállító panoráma várja az óceán felett. Egy rövid kitérő a Rance-gáton keresztül Dinard-ba visz, az elegáns, brit hangulatú üdülőhelyre. Visszafelé álljon meg az árapály-erőműnél, amely egy technikai csoda, és a Hold erejét hasznosítja.",
+        "ro": "Cu mașina, explorați din plin împrejurimile Saint-Malo. Începeți dimineața la impresionantul Mare Acvariu, înainte de a conduce către satul pitoresc de pescari Cancale, faimos în lume pentru stridiile sale. Bucurați-vă de briza mării direct în port.\n\nDupă-amiaza, drumul vă duce la Pointe du Grouin, unde vă așteaptă o panoramă uluitoare peste ocean. O scurtă abatere peste digul Rance vă aduce la Dinard, stațiunea elegantă cu aer britanic. La întoarcere, opriți-vă la centrala mareomotrice, o minune tehnică ce folosește forța lunii.",
+        "en": "By car, you can explore the surroundings of Saint-Malo to the fullest. Start the morning at the impressive Grand Aquarium before driving to the picturesque fishing village of Cancale, world-famous for its oysters. Enjoy the fresh sea breeze right at the harbor.\n\nIn the afternoon, the journey leads to Pointe du Grouin, where a breathtaking panorama over the ocean awaits. A short detour across the Rance dam takes you to Dinard, the elegant seaside resort with British flair. On the way back, stop at the tidal power station, a technical marvel that harnesses the power of the moon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Austern von Cancale",
+            "tip": "Direkt am Austernmarkt kaufen und die Schalen ins Meer werfen."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Miesmuscheln mit Pommes, ein Klassiker an der Küste."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cancale-i osztriga",
+            "tip": "Vásárolja meg közvetlenül a piacon, és a héjat dobja a tengerbe."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Feketekagyló sült krumplival, klasszikus parti fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stridii de Cancale",
+            "tip": "Cumpărați direct de la piață și aruncați cochiliile în mare."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Midiile cu cartofi prăjiți, un clasic la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cancale Oysters",
+            "tip": "Buy directly at the market and throw the shells back into the sea."
+          },
+          {
+            "name": "Moules-frites",
+            "tip": "Mussels with fries, a classic on the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe du Grouin Küstenpfad",
+            "tip": "Wandern Sie ein Stück weg vom Parkplatz für wahre Stille.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Prieuré (Dinard)",
+            "tip": "Ein ruhiger Blick auf Saint-Malo über das Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe du Grouin parti ösvény",
+            "tip": "Sétáljon kicsit távolabb a parkolótól az igazi csendért.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Prieuré (Dinard)",
+            "tip": "Nyugodt kilátás Saint-Malo-ra a víz túloldaláról.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de coastă Pointe du Grouin",
+            "tip": "Mergeți puțin mai departe de parcare pentru liniște deplină.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Prieuré (Dinard)",
+            "tip": "O vedere liniștită spre Saint-Malo peste apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe du Grouin Coastal Path",
+            "tip": "Walk a bit away from the parking for true silence.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage du Prieuré (Dinard)",
+            "tip": "A quiet view of Saint-Malo across the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sel de Guérande",
+            "tip": "Das berühmte Meersalz der Region in lokalen Feinkostläden."
+          },
+          {
+            "name": "Bretagne-Kekse (Palets)",
+            "tip": "In Blechdosen verpackte Butterkekse als haltbares Geschenk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guérande só",
+            "tip": "A régió híres tengeri sója a helyi csemegeüzletekben."
+          },
+          {
+            "name": "Breton keksz (Palets)",
+            "tip": "Fémdobozos vajas kekszek, tartós ajándékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sare de Guérande",
+            "tip": "Faimoasa sare de mare a regiunii în magazinele de delicatese."
+          },
+          {
+            "name": "Biscuiți bretoni (Palets)",
+            "tip": "Biscuiți cu unt ambalați în cutii de tablă ca cadou durabil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guérande Salt",
+            "tip": "The region's famous sea salt in local delicatessens."
+          },
+          {
+            "name": "Breton Biscuits (Palets)",
+            "tip": "Buttery biscuits in tin cans as a durable gift."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Intra-Muros ist schwierig; nutzen Sie Park-and-Ride-Plätze.",
+          "Die Straße entlang der Küste nach Cancale ist landschaftlich reizvoll.",
+          "Achten Sie auf die Brückenöffnungszeiten am Rance-Kraftwerk.",
+          "In Cancale gibt es viele kostenlose Parkplätze oberhalb der Klippen."
+        ],
+        "hu": [
+          "Az óvárosban nehéz parkolni; használja a P+R parkolókat.",
+          "A Cancale felé vezető parti út rendkívül látványos.",
+          "Figyeljen a hídnyitási időkre a Rance-erőműnél.",
+          "Cancale-ban sok ingyenes parkoló található a sziklák felett."
+        ],
+        "ro": [
+          "Parcarea în Intra-Muros este dificilă; folosiți parcările Park-and-Ride.",
+          "Drumul de coastă spre Cancale este extrem de pitoresc.",
+          "Atenție la orele de deschidere a podului la centrala Rance.",
+          "În Cancale există multe parcări gratuite deasupra stâncilor."
+        ],
+        "en": [
+          "Parking in Intra-Muros is difficult; use Park-and-Ride lots.",
+          "The coastal road to Cancale is very scenic.",
+          "Watch out for the bridge opening times at the Rance station.",
+          "In Cancale, there are many free parking spaces above the cliffs."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Intra-Muros (Altstadt)",
+            "hu": "Óváros (Intra-Muros)",
+            "ro": "Orașul vechi (Intra-Muros)",
+            "en": "Old Town (Intra-Muros)"
+          },
+          "coords": [
+            -2.025,
+            48.651
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof nehmen Sie die Linie 1 oder 2 bis zum Hafen.",
+            "hu": "A vasútállomástól az 1-es vagy 2-es busszal menjen a kikötőig.",
+            "ro": "De la gară, luați linia 1 sau 2 până la port.",
+            "en": "From the station, take line 1 or 2 to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Servan - Place de la Victoire",
+            "hu": "Saint-Servan - Győzelem tér",
+            "ro": "Saint-Servan - Piața Victoriei",
+            "en": "Saint-Servan - Place de la Victoire"
+          },
+          "coords": [
+            -2.015,
+            48.638
+          ],
+          "category": "square",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein lebendiges Viertel mit vielen lokalen Geschäften.",
+            "hu": "Élettel teli negyed sok helyi üzlettel.",
+            "ro": "Un cartier plin de viață cu multe magazine locale.",
+            "en": "A lively district with many local shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Aquarium (Buslinie 1)",
+            "hu": "Nagy Akvárium (1-es busz)",
+            "ro": "Marele Acvariu (Linia 1)",
+            "en": "Grand Aquarium (Bus Line 1)"
+          },
+          "coords": [
+            -1.996,
+            48.6155
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Haltestelle 'Aquarium' befindet sich direkt vor dem Eingang.",
+            "hu": "Az 'Aquarium' megálló közvetlenül a bejárat előtt van.",
+            "ro": "Stația 'Aquarium' se află chiar în fața intrării.",
+            "en": "The 'Aquarium' stop is right in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rothéneuf Zentrum (Buslinie 4)",
+            "hu": "Rothéneuf központ (4-es busz)",
+            "ro": "Centrul Rothéneuf (Linia 4)",
+            "en": "Rothéneuf Center (Bus Line 4)"
+          },
+          "coords": [
+            -1.97,
+            48.68
+          ],
+          "category": "landmark",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Von hier sind es 10 Minuten Fußweg zu den Skulpturen.",
+            "hu": "Innen 10 perc séta a sziklaszobrokig.",
+            "ro": "De aici sunt 10 minute de mers pe jos până la sculpturi.",
+            "en": "From here it is a 10-minute walk to the sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Sillon - Rückfahrt",
+            "hu": "Sillon - visszaút",
+            "ro": "Sillon - întoarcere",
+            "en": "Sillon - Return"
+          },
+          "coords": [
+            -2.01,
+            48.657
+          ],
+          "category": "sunset",
+          "arrive_at": "17:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Steigen Sie am Casino aus für einen Abendspaziergang.",
+            "hu": "Szálljon le a Kaszinónál egy esti sétához.",
+            "ro": "Coborâți la Casinou pentru o plimbare de seară.",
+            "en": "Get off at the Casino for an evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das hervorragende Busnetz von Saint-Malo, um die verschiedenen Stadtteile mühelos zu verbinden. Beginnen Sie im historischen Herz Intra-Muros, bevor Sie mit dem Bus nach Saint-Servan fahren, um das authentische Alltagsleben zu schnuppern. Das Grand Aquarium ist bequem mit der Linie 1 erreichbar.\n\nAm Nachmittag bringt Sie die Linie 4 in das charmante Dorf Rothéneuf, wo Sie die Küste und die Kunstwerke eines Einsiedlers erkunden können. Zum Abschluss des Tages kehren Sie zum Sillon-Strand zurück, um die belebte Promenade und das Casino zu genießen, bevor Sie den Bus zurück zum Bahnhof oder zu Ihrer Unterkunft nehmen.",
+        "hu": "Használja Saint-Malo kiváló buszhálózatát a különböző városrészek könnyű eléréséhez. Kezdjen a történelmi óvárosban, majd busszal menjen át Saint-Servanba, hogy megismerje a helyiek mindennapjait. A Nagy Akvárium kényelmesen elérhető az 1-es vonallal.\n\nDélután a 4-es járat elviszi Önt Rothéneuf bájos falujába, ahol felfedezheti a partvidéket és egy remete műalkotásait. A nap végén térjen vissza a Sillon strandhoz, élvezze a nyüzsgő sétányt és a Kaszinót, mielőtt visszaszállna a buszra a pályaudvar vagy a szállása felé.",
+        "ro": "Folosiți rețeaua excelentă de autobuze din Saint-Malo pentru a conecta fără efort diferitele cartiere. Începeți în inima istorică Intra-Muros, înainte de a lua autobuzul spre Saint-Servan pentru a simți viața locală autentică. Marele Acvariu este ușor accesibil cu linia 1.\n\nDupă-amiaza, linia 4 vă duce în satul fermecător Rothéneuf, unde puteți explora coasta și operele de artă ale unui pustnic. La finalul zilei, întoarceți-vă la plaja Sillon pentru a vă bucura de promenada animată și de cazino, înainte de a lua autobuzul înapoi spre gară sau cazare.",
+        "en": "Use Saint-Malo's excellent bus network to effortlessly connect the different districts. Start in the historical heart of Intra-Muros before taking a bus to Saint-Servan to get a taste of authentic local life. The Grand Aquarium is easily accessible via line 1.\n\nIn the afternoon, line 4 takes you to the charming village of Rothéneuf, where you can explore the coastline and the artworks of a hermit. To end the day, return to Sillon beach to enjoy the busy promenade and the casino before taking the bus back to the station or your accommodation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Étrave",
+            "tip": "Bekannt für frische Meeresfrüchte in der Nähe des Hafens."
+          },
+          {
+            "name": "Crêperie du Port",
+            "tip": "Günstige und leckere Crêpes in Saint-Servan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Étrave",
+            "tip": "Friss tengeri gyümölcseiről ismert étterem a kikötő közelében."
+          },
+          {
+            "name": "Crêperie du Port",
+            "tip": "Olcsó és finom palacsinták Saint-Servanban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Étrave",
+            "tip": "Cunoscut pentru fructe de mare proaspete lângă port."
+          },
+          {
+            "name": "Crêperie du Port",
+            "tip": "Clătite ieftine și delicioase în Saint-Servan."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Étrave",
+            "tip": "Known for fresh seafood near the harbor."
+          },
+          {
+            "name": "Crêperie du Port",
+            "tip": "Cheap and tasty crêpes in Saint-Servan."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de la Briantais",
+            "tip": "Ein weitläufiger Park mit Blick auf das Rance-Ästuar.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Strand von Minihic",
+            "tip": "Ein verstecktes Juwel in der Nähe von Rothéneuf.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de la Briantais",
+            "tip": "Hatalmas park kilátással a Rance torkolatára.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Minihic strand",
+            "tip": "Rejtett gyöngyszem Rothéneuf közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Briantais",
+            "tip": "Un parc vast cu vedere la estuarul Rance.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Minihic",
+            "tip": "O bijuterie ascunsă lângă Rothéneuf.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de la Briantais",
+            "tip": "A vast park overlooking the Rance estuary.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Minihic Beach",
+            "tip": "A hidden gem near Rothéneuf.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrefour Saint-Malo",
+            "tip": "Große Auswahl an bretonischen Produkten für den Heimweg."
+          },
+          {
+            "name": "L'Atelier de l'Ours",
+            "tip": "Kunsthandwerk und Souvenirs in Saint-Servan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Carrefour Saint-Malo",
+            "tip": "Breton termékek széles választéka hazaútra."
+          },
+          {
+            "name": "L'Atelier de l'Ours",
+            "tip": "Kézműves termékek és ajándékok Saint-Servanban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carrefour Saint-Malo",
+            "tip": "O gamă largă de produse bretone pentru acasă."
+          },
+          {
+            "name": "L'Atelier de l'Ours",
+            "tip": "Artizanat și suveniruri în Saint-Servan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Carrefour Saint-Malo",
+            "tip": "Large selection of Breton products for the journey home."
+          },
+          {
+            "name": "L'Atelier de l'Ours",
+            "tip": "Artisanal crafts and souvenirs in Saint-Servan."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus (Pass Journée).",
+          "Die MAT-App zeigt Abfahrtszeiten in Echtzeit an.",
+          "Busse fahren im Sommer häufiger als im Winter.",
+          "Die Linie 1 verbindet den Bahnhof direkt mit der Altstadt."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszokra (Pass Journée).",
+          "A MAT alkalmazás valós időben mutatja az indulási időket.",
+          "A buszok nyáron gyakrabban járnak, mint télen.",
+          "Az 1-es járat közvetlenül összeköti a pályaudvart az óvárossal."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz (Pass Journée).",
+          "Aplicația MAT arată orele de plecare în timp real.",
+          "Autobuzele circulă mai des vara decât iarna.",
+          "Linia 1 conectează gara direct cu centrul vechi."
+        ],
+        "en": [
+          "Buy a day ticket for the bus (Pass Journée).",
+          "The MAT app shows departure times in real-time.",
+          "Buses run more frequently in summer than in winter.",
+          "Line 1 connects the station directly to the old town."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1116 @@
+{
+  "city_id": "nantes",
+  "anchor": {
+    "name": "Nantes Centre",
+    "coords": [
+      -1.5536,
+      47.2184
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Botanischer Garten (Jardin des Plantes)",
+            "hu": "Fűvészkert (Jardin des Plantes)",
+            "ro": "Grădina Plantelor",
+            "en": "Botanical Garden (Jardin des Plantes)"
+          },
+          "coords": [
+            -1.5428,
+            47.2195
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie die lustigen Pflanzenskulpturen von Claude Ponti.",
+            "hu": "Keresd meg Claude Ponti vicces növényszobrait.",
+            "ro": "Căutați sculpturile vegetale amuzante ale lui Claude Ponti.",
+            "en": "Look for the funny plant sculptures by Claude Ponti."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre-et-Saint-Paul",
+            "hu": "Szent Péter és Szent Pál katedrális",
+            "ro": "Catedrala Sfântul Petru și Sfântul Paul",
+            "en": "St. Peter and St. Paul Cathedral"
+          },
+          "coords": [
+            -1.5508,
+            47.2181
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie das prächtige Grabmal von Franz II. im Inneren.",
+            "hu": "Csodáld meg II. Ferenc herceg pompás síremlékét bent.",
+            "ro": "Admirați mormântul magnific al lui Francisc al II-lea în interior.",
+            "en": "Admire the magnificent tomb of Francis II inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge der Bretagne",
+            "hu": "Bretagne hercegeinek kastélya",
+            "ro": "Castelul Ducilor de Bretania",
+            "en": "Castle of the Dukes of Brittany"
+          },
+          "coords": [
+            -1.5492,
+            47.2161
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Man kann kostenlos auf den Festungsmauern spazieren gehen.",
+            "hu": "A várfalakon ingyenesen lehet körbesétálni.",
+            "ro": "Vă puteți plimba gratuit pe zidurile cetății.",
+            "en": "You can walk on the fortress walls for free."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Bouffay (Mittagessen)",
+            "hu": "Bouffay negyed (Ebéd)",
+            "ro": "Cartierul Bouffay (Prânz)",
+            "en": "Bouffay District (Lunch)"
+          },
+          "coords": [
+            -1.5535,
+            47.2155
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie eine Galette in einer der vielen Crêperien.",
+            "hu": "Kóstolj meg egy sós galette-et a számos palacsintázó egyikében.",
+            "ro": "Încercați o galetă la una dintre numeroasele clătătării.",
+            "en": "Try a galette in one of the many creperies."
+          }
+        },
+        {
+          "name": {
+            "de": "Passage Pommeraye",
+            "hu": "Passage Pommeraye",
+            "ro": "Pasajul Pommeraye",
+            "en": "Passage Pommeraye"
+          },
+          "coords": [
+            -1.5588,
+            47.2128
+          ],
+          "category": "shopping",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine der schönsten Einkaufspassagen Europas aus dem 19. Jhd.",
+            "hu": "Európa egyik legszebb 19. századi bevásárlópasszázsa.",
+            "ro": "Una dintre cele mai frumoase pasaje comerciale din sec. XIX din Europa.",
+            "en": "One of Europe's most beautiful 19th-century shopping arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Maschinen der Insel (Les Machines de l'île)",
+            "hu": "A sziget gépei (Les Machines de l'île)",
+            "ro": "Mașinile Insulei",
+            "en": "The Machines of the Isle"
+          },
+          "coords": [
+            -1.5644,
+            47.2061
+          ],
+          "category": "museum",
+          "arrive_at": "17:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den riesigen mechanischen Elefanten.",
+            "hu": "Ne hagyd ki a hatalmas mechanikus elefántot.",
+            "ro": "Nu ratați uriașul elefant mecanic.",
+            "en": "Don't miss the giant mechanical elephant."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai des Antilles",
+            "hu": "Quai des Antilles",
+            "ro": "Quai des Antilles",
+            "en": "Quai des Antilles"
+          },
+          "coords": [
+            -1.5715,
+            47.2018
+          ],
+          "category": "sunset",
+          "arrive_at": "19:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Perfekt für einen Drink mit Blick auf die beleuchteten Ringe.",
+            "hu": "Tökéletes egy italra a kivilágított gyűrűk (Buren) látványával.",
+            "ro": "Perfect pentru o băutură cu vedere la inelele iluminate.",
+            "en": "Perfect for a drink with a view of the illuminated rings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im üppigen Botanischen Garten, bevor Sie die gotische Kathedrale bewundern. Am späten Vormittag erkunden Sie das historische Schloss der Bretagne.\n\nMittags tauchen Sie in die mittelalterlichen Gassen von Bouffay ein, um lokale Spezialitäten zu genießen. Danach spazieren Sie durch die prächtige Passage Pommeraye.\n\nDer Nachmittag gehört der Fantasiewelt von Jules Verne bei den Machines de l'île. Staunen Sie über den mechanischen Elefanten und das Karussell der Meereswelten.\n\nZum Abschluss schlendern Sie entlang der Loire zum Quai des Antilles, wo die Buren-Ringe im Sonnenuntergang leuchten und moderne Kunst auf Hafenatmosphäre trifft.",
+        "hu": "A napot a buja Fűvészkertben indítjuk, majd megcsodáljuk a gótikus katedrálist. Késő délelőtt a Bretagne hercegeinek kastélyát fedezzük fel.\n\nEbédidőben a Bouffay negyed középkori utcáin kóstolunk bele a helyi ízekbe, majd a pazar Passage Pommeraye folyosóin sétálunk tovább.\n\nDélután a sziget gépei várnak: Jules Verne világa elevenedik meg a hatalmas elefánttal és a tengeri körhintával.\n\nEste a Loire-parton sétálunk a Quai des Antilles-ig, ahol a kivilágított Buren-gyűrűk mellett élvezhetjük a kikötői hangulatot és a naplementét.",
+        "ro": "Ziua începe în luxurianta Grădină a Plantelor, înainte de a admira catedrala gotică. Spre sfârșitul dimineții, explorați castelul istoric al Bretaniei.\n\nLa prânz, pătrundeți în străzile medievale din Bouffay pentru a savura specialități locale. Apoi, plimbați-vă prin spectaculosul Pasaj Pommeraye.\n\nDupă-amiaza aparține lumii fantastice a lui Jules Verne la Machines de l'île. Rămâneți uimiți de elefantul mecanic și caruselul lumilor marine.\n\nÎn încheiere, plimbați-vă de-a lungul Loarei până la Quai des Antilles, unde inelele lui Buren strălucesc la apus, îmbinând arta modernă cu atmosfera portuară.",
+        "en": "Your day starts in the lush Botanical Garden before admiring the Gothic cathedral. In the late morning, explore the historic Castle of Brittany.\n\nAt lunchtime, dive into the medieval streets of Bouffay to enjoy local specialties, then stroll through the magnificent Passage Pommeraye.\n\nThe afternoon belongs to the fantasy world of Jules Verne at the Machines de l'île. Marvel at the mechanical elephant and the marine worlds carousel.\n\nTo finish, walk along the Loire to Quai des Antilles, where Buren's rings glow at sunset, blending modern art with a harbor atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gâteau Nantais",
+            "tip": "Ein saftiger Kuchen mit Mandeln und Rum, probieren Sie ihn bei La Cigale."
+          },
+          {
+            "name": "Galette Bretonne",
+            "tip": "Süß oder herzhaft in einer Crêperie im Bouffay-Viertel genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gâteau Nantais",
+            "tip": "Mandulás-rumos sütemény, a La Cigale kávéházban a legjobb."
+          },
+          {
+            "name": "Galette Bretonne",
+            "tip": "Hajdinás sós palacsinta, a Bouffay negyed bármelyik creperie-jében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâteau Nantais",
+            "tip": "O prăjitură însiropată cu migdale și rom, încercați-o la La Cigale."
+          },
+          {
+            "name": "Galette Bretonne",
+            "tip": "Clătite sărate de hrișcă în cartierul Bouffay."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gâteau Nantais",
+            "tip": "A moist almond and rum cake, try it at the historic La Cigale."
+          },
+          {
+            "name": "Galette Bretonne",
+            "tip": "Buckwheat crepes, savory or sweet, in the Bouffay district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ruhige Bänke zwischen exotischen Pflanzen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Île de Versailles",
+            "tip": "Japanischer Garten auf einer Flussinsel.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Csendes padok egzotikus növények között.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Île de Versailles",
+            "tip": "Japánkert egy folyami szigeten.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Plantelor",
+            "tip": "Bănci liniștite printre plante exotice.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Insula Versailles",
+            "tip": "Grădină japoneză pe o insulă pe râu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Quiet benches among exotic plants.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Versailles Island",
+            "tip": "Japanese garden on a river island.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Passage Pommeraye",
+            "tip": "Luxuriöse Boutiquen in historischem Ambiente."
+          },
+          {
+            "name": "Marché de Talensac",
+            "tip": "Der wichtigste Lebensmittelmarkt für regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Passage Pommeraye",
+            "tip": "Luxus üzletek történelmi környezetben."
+          },
+          {
+            "name": "Marché de Talensac",
+            "tip": "A legfontosabb élelmiszerpiac helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasajul Pommeraye",
+            "tip": "Boutique-uri de lux într-un cadru istoric."
+          },
+          {
+            "name": "Piața Talensac",
+            "tip": "Cea mai importantă piață pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Passage Pommeraye",
+            "tip": "Luxury boutiques in a historic setting."
+          },
+          {
+            "name": "Talensac Market",
+            "tip": "The main food market for regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Folgen Sie der grünen Linie auf dem Boden, sie führt zu allen wichtigen Sehenswürdigkeiten.",
+          "Nantes ist sehr flach und perfekt zum Zu-Fuß-Gehen geeignet.",
+          "Die Kathedrale kann wegen Restaurierung teilweise geschlossen sein.",
+          "Buchen Sie Tickets für den Elefanten im Voraus online.",
+          "Nutzen Sie die 'Navibus'-Fähren für eine kurze Flussfahrt."
+        ],
+        "hu": [
+          "Kövesd a földre festett zöld vonalat, ez minden fontos látnivalóhoz elvezet.",
+          "Nantes sík város, gyalogosan is kényelmesen bejárható.",
+          "A katedrális a felújítási munkák miatt részben zárva tarthat.",
+          "Az elefántra szóló jegyeket érdemes előre, online lefoglalni.",
+          "Használd a 'Navibus' kompokat egy rövid folyami utazáshoz."
+        ],
+        "ro": [
+          "Urmați linia verde trasată pe sol, aceasta vă duce la toate punctele cheie.",
+          "Nantes este un oraș plat, ideal pentru a fi explorat pe jos.",
+          "Catedrala poate fi parțial închisă pentru restaurare.",
+          "Rezervați biletele pentru Elefant online, în avans.",
+          "Folosiți feriboturile 'Navibus' pentru o scurtă plimbare pe râu."
+        ],
+        "en": [
+          "Follow the green line painted on the ground, it leads to all key sights.",
+          "Nantes is very flat and perfect for exploring on foot.",
+          "The cathedral may be partially closed due to restoration work.",
+          "Book elephant ride tickets in advance online.",
+          "Use the 'Navibus' water buses for a quick river trip."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Île de Versailles",
+            "hu": "Versailles-sziget",
+            "ro": "Insula Versailles",
+            "en": "Versailles Island"
+          },
+          "coords": [
+            -1.5542,
+            47.2225
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöner japanischer Garten.",
+            "hu": "Gyönyörű japánkert.",
+            "ro": "Grădină japoneză superbă.",
+            "en": "Beautiful Japanese garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Arts de Nantes",
+            "hu": "Nantes-i Művészeti Múzeum",
+            "ro": "Muzeul de Artă din Nantes",
+            "en": "Nantes Art Museum"
+          },
+          "coords": [
+            -1.5471,
+            47.2192
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Großartige Sammlung von Klassik bis Moderne.",
+            "hu": "Nagyszerű gyűjtemény a klasszikustól a modernig.",
+            "ro": "Colecție impresionantă de la clasic la modern.",
+            "en": "Great collection from classic to modern art."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Herzöge",
+            "hu": "Hercegi kastély",
+            "ro": "Castelul Ducilor",
+            "en": "Castle of the Dukes"
+          },
+          "coords": [
+            -1.5492,
+            47.2161
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder am Eingang ab.",
+            "hu": "A bringákat a bejáratnál tedd le.",
+            "ro": "Lăsați bicicletele la intrare.",
+            "en": "Park your bikes at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentemoult (Dorf)",
+            "hu": "Trentemoult (falu)",
+            "ro": "Trentemoult (sat)",
+            "en": "Trentemoult (village)"
+          },
+          "coords": [
+            -1.5833,
+            47.1944
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Bunte Fischerhäuser und Uferrestaurants.",
+            "hu": "Színes halászházak és parti éttermek.",
+            "ro": "Case de pescari colorate și restaurante pe mal.",
+            "en": "Colorful fishermen's houses and riverside restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Hangar à Bananes",
+            "hu": "Hangar à Bananes",
+            "ro": "Hangar à Bananes",
+            "en": "Hangar à Bananes"
+          },
+          "coords": [
+            -1.5744,
+            47.2005
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Alte Lagerhallen, jetzt Bars und Galerien.",
+            "hu": "Régi raktárak, ma bárok és galériák.",
+            "ro": "Vechile depozite, acum baruri și galerii.",
+            "en": "Old warehouses, now bars and galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Machines de l'île",
+            "hu": "A sziget gépei",
+            "ro": "Mașinile Insulei",
+            "en": "Machines of the Isle"
+          },
+          "coords": [
+            -1.5644,
+            47.2061
+          ],
+          "category": "museum",
+          "arrive_at": "17:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der krönende Abschluss der Tour.",
+            "hu": "A túra méltó lezárása.",
+            "ro": "Finalul perfect al turului.",
+            "en": "The perfect end to the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie entspannt auf der Île de Versailles und radeln Sie dann zum Kunstmuseum. Mittags geht es über die Brücken in das charmante, bunte Fischerdorf Trentemoult.\n\nNach dem Mittagessen am Flussufer erkunden Sie die modernen Kunstinstallationen am Hangar à Bananes und beenden den Tag bei den spektakulären Machines de l'île.",
+        "hu": "Indíts lazán a Versailles-szigeten, majd tekerj a Művészeti Múzeumhoz. Ebédre a hidakon át a bájos, színes Trentemoult halászfaluba látogatunk.\n\nA folyóparti ebéd után fedezd fel a Hangar à Bananes modern galériáit, a napot pedig a lenyűgöző Sziget Gépeinél zárd.",
+        "ro": "Începeți relaxat pe Insula Versailles, apoi pedalați spre Muzeul de Artă. La prânz, traversați podurile spre fermecătorul sat de pescari Trentemoult.\n\nDupă prânzul pe malul râului, explorați instalațiile de artă modernă de la Hangar à Bananes și încheiați ziua la spectaculoasele Machines de l'île.",
+        "en": "Start relaxed on Versailles Island and then cycle to the Art Museum. At lunchtime, head across the bridges to the charming, colorful fishing village of Trentemoult.\n\nAfter lunch by the river, explore the modern art installations at Hangar à Bananes and end the day at the spectacular Machines de l'île."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie à Trentemoult",
+            "tip": "Genießen Sie Galettes mit Blick auf die Loire."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie Trentemoult-ban",
+            "tip": "Sós palacsinták Loire-parti kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie în Trentemoult",
+            "tip": "Savurați galete cu vedere la Loara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Creperie in Trentemoult",
+            "tip": "Enjoy galettes with a view of the Loire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Erdre-Ufer",
+            "tip": "Ruhiger Radweg entlang des Flusses.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdre-part",
+            "tip": "Csendes kerékpárút a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Erdre",
+            "tip": "Pistă de biciclete liniștită de-a lungul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Erdre banks",
+            "tip": "Quiet bike path along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bicloo-Stationen",
+            "tip": "Nantes hat ein tolles Leihrad-System."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bicloo állomások",
+            "tip": "Nantes remek közösségi bringarendszerrel rendelkezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații Bicloo",
+            "tip": "Nantes are un sistem excelent de închiriere biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bicloo stations",
+            "tip": "Nantes has a great bike-sharing system."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die vielen markierten Radwege in der Stadt.",
+          "Überqueren Sie die Loire über die Brücke 'Pont Haudaudine'.",
+          "Passen Sie auf die Straßenbahnschienen auf!",
+          "In Trentemoult können Sie das Rad schieben, um die Gassen zu genießen."
+        ],
+        "hu": [
+          "Használd a város számos kijelölt kerékpárútját.",
+          "A Loire-on a 'Pont Haudaudine' hídon kelj át.",
+          "Vigyázz a villamossínekre!",
+          "Trentemoult-ban érdemes tolni a bringát a szűk utcák miatt."
+        ],
+        "ro": [
+          "Folosiți numeroasele piste de biciclete marcate din oraș.",
+          "Traversați Loara pe podul 'Pont Haudaudine'.",
+          "Atenție la șinele de tramvai!",
+          "În Trentemoult, mergeți pe lângă bicicletă pentru a savura străduțele."
+        ],
+        "en": [
+          "Use the many marked bike paths in the city.",
+          "Cross the Loire via the 'Pont Haudaudine' bridge.",
+          "Watch out for the tram tracks!",
+          "In Trentemoult, walk your bike to enjoy the narrow alleys."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 55.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Machines de l'île",
+            "hu": "A sziget gépei",
+            "ro": "Mașinile Insulei",
+            "en": "Machines of the Isle"
+          },
+          "coords": [
+            -1.5644,
+            47.2061
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkhaus 'Les Machines' direkt daneben.",
+            "hu": "Parkolóház közvetlenül mellette.",
+            "ro": "Parcare 'Les Machines' chiar alături.",
+            "en": "Parking garage 'Les Machines' right next to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Trentemoult (Mittagessen)",
+            "hu": "Trentemoult (Ebéd)",
+            "ro": "Trentemoult (Prânz)",
+            "en": "Trentemoult (Lunch)"
+          },
+          "coords": [
+            -1.5833,
+            47.1944
+          ],
+          "category": "gastro",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang.",
+            "hu": "A falu szélén parkolj.",
+            "ro": "Parcați la intrarea în sat.",
+            "en": "Park at the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Clisson (Mittelalterstadt)",
+            "hu": "Clisson (középkori város)",
+            "ro": "Clisson (oraș medieval)",
+            "en": "Clisson (medieval town)"
+          },
+          "coords": [
+            -1.2831,
+            47.0864
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 30.0,
+          "tip_5lang": {
+            "de": "Eine Stadt mit italienischem Flair in Frankreich.",
+            "hu": "Olaszos hangulatú város Franciaországban.",
+            "ro": "Un oraș cu aer italian în Franța.",
+            "en": "A town with an Italian flair in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Muscadet Weinberge",
+            "hu": "Muscadet szőlőültetvények",
+            "ro": "Podgoriile Muscadet",
+            "en": "Muscadet Vineyards"
+          },
+          "coords": [
+            -1.35,
+            47.15
+          ],
+          "category": "agriculture",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie ein Weingut für eine Verkostung.",
+            "hu": "Látogass meg egy borászatot kóstolóra.",
+            "ro": "Vizitați o cramă pentru o degustare.",
+            "en": "Visit a winery for a tasting session."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Nantes",
+            "hu": "Visszatérés Nantes-ba",
+            "ro": "Întoarcerea în Nantes",
+            "en": "Return to Nantes"
+          },
+          "coords": [
+            -1.5536,
+            47.2184
+          ],
+          "category": "sunset",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Abendessen im Stadtzentrum.",
+            "hu": "Vacsora a városközpontban.",
+            "ro": "Cină în centrul orașului.",
+            "en": "Dinner in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden Sie die technischen Wunder von Nantes, gefolgt von einem Mittagessen im malerischen Trentemoult. Am Nachmittag führt Sie die Fahrt ins Umland in das faszinierende Clisson.\n\nClisson überrascht mit seiner toskanischen Architektur. Auf dem Rückweg halten Sie in den berühmten Muscadet-Weinbergen, bevor Sie den Tag entspannt in Nantes ausklingen lassen.",
+        "hu": "Délelőtt Nantes technikai csodáit fedezzük fel, amit ebéd követ a festői Trentemoult-ban. Délután az út a környékbeli, lenyűgöző Clissonba vezet.\n\nClisson toszkán építészetével lep meg. Visszaúton megállunk a híres Muscadet szőlőültetvényeknél, mielőtt a napot Nantes-ban zárnánk.",
+        "ro": "Dimineața explorați minunile tehnice din Nantes, urmate de un prânz în pitorescul Trentemoult. După-amiaza, drumul vă duce în împrejurimi, în fascinantul Clisson.\n\nClisson surprinde prin arhitectura sa toscană. La întoarcere, opriți-vă în faimoasele podgorii Muscadet înainte de a încheia ziua relaxat în Nantes.",
+        "en": "In the morning, explore the technical wonders of Nantes, followed by lunch in picturesque Trentemoult. In the afternoon, the drive takes you to the fascinating Clisson.\n\nClisson surprises with its Tuscan-style architecture. On the way back, stop at the famous Muscadet vineyards before finishing the day back in Nantes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Muscadet Wein",
+            "tip": "Der lokale Weißwein, perfekt zu Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Muscadet bor",
+            "tip": "Helyi fehérbor, tenger gyümölcseihez kiváló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Muscadet",
+            "tip": "Vinul alb local, perfect cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Muscadet Wine",
+            "tip": "The local white wine, perfect with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sèvre Nantaise Ufer",
+            "tip": "Ruhiger Spaziergang in Clisson.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sèvre Nantaise partja",
+            "tip": "Csendes séta Clissonban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Sèvre Nantaise",
+            "tip": "Plimbare liniștită în Clisson.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sèvre Nantaise banks",
+            "tip": "Quiet walk in Clisson.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weingüter",
+            "tip": "Kaufen Sie Muscadet direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászatok",
+            "tip": "Vegyél bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame locale",
+            "tip": "Cumpărați vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wineries",
+            "tip": "Buy wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Stoßzeiten im Stadtzentrum.",
+          "Parkhäuser sind in Nantes besser als Parkplätze am Straßenrand.",
+          "Die Fahrt nach Clisson dauert etwa 40 Minuten.",
+          "Trinken Sie Muscadet nur, wenn Sie nicht selbst fahren!"
+        ],
+        "hu": [
+          "Kerüld a csúcsforgalmat a belvárosban.",
+          "Nantes-ban a parkolóházak jobbak, mint az utcai parkolás.",
+          "Clisson kb. 40 perc autóval.",
+          "Muscadet-t csak akkor kóstolj, ha nem te vezetsz!"
+        ],
+        "ro": [
+          "Evitați orele de vârf în centrul orașului.",
+          "Parcările etajate sunt mai sigure în Nantes decât cele stradale.",
+          "Drumul spre Clisson durează aproximativ 40 de minute.",
+          "Degustați Muscadet doar dacă nu sunteți la volan!"
+        ],
+        "en": [
+          "Avoid rush hour in the city center.",
+          "Parking garages are better than street parking in Nantes.",
+          "The drive to Clisson takes about 40 minutes.",
+          "Only taste Muscadet if you are not driving!"
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Nantes / Jardin des Plantes",
+            "hu": "Nantes vasútállomás / Fűvészkert",
+            "ro": "Gara Nantes / Grădina Plantelor",
+            "en": "Nantes Station / Botanical Garden"
+          },
+          "coords": [
+            -1.5428,
+            47.2195
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt gegenüber dem Nordausgang des Bahnhofs.",
+            "hu": "Közvetlenül az állomás északi kijáratával szemben.",
+            "ro": "Direct vizavi de ieșirea de nord a gării.",
+            "en": "Directly opposite the north exit of the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Lieu Unique (LU-Turm)",
+            "hu": "Lieu Unique (LU torony)",
+            "ro": "Lieu Unique (Turnul LU)",
+            "en": "Lieu Unique (LU Tower)"
+          },
+          "coords": [
+            -1.5461,
+            47.2152
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die alte Keksfabrik ist jetzt ein Kulturzentrum.",
+            "hu": "A régi kekszgyár ma kulturális központ.",
+            "ro": "Vechea fabrică de biscuiți este acum centru cultural.",
+            "en": "The old biscuit factory is now a cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouffay (Mittagessen)",
+            "hu": "Bouffay (Ebéd)",
+            "ro": "Bouffay (Prânz)",
+            "en": "Bouffay (Lunch)"
+          },
+          "coords": [
+            -1.5535,
+            47.2155
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Straßenbahnlinie 1, Haltestelle 'Bouffay'.",
+            "hu": "1-es villamos, 'Bouffay' megálló.",
+            "ro": "Tramvaiul linia 1, stația 'Bouffay'.",
+            "en": "Tram line 1, stop 'Bouffay'."
+          }
+        },
+        {
+          "name": {
+            "de": "Chantiers Navals / Machines de l'île",
+            "hu": "Hajógyár / A sziget gépei",
+            "ro": "Șantierele Navale / Mașinile Insulei",
+            "en": "Shipyards / Machines of the Isle"
+          },
+          "coords": [
+            -1.5644,
+            47.2061
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Straßenbahnlinie 1 bis 'Chantiers Navals'.",
+            "hu": "1-es villamos 'Chantiers Navals' megállóig.",
+            "ro": "Tramvaiul linia 1 până la 'Chantiers Navale'.",
+            "en": "Tram line 1 to 'Chantiers Navals'."
+          }
+        },
+        {
+          "name": {
+            "de": "Navibus nach Trentemoult",
+            "hu": "Navibus Trentemoult-ba",
+            "ro": "Navibus spre Trentemoult",
+            "en": "Navibus to Trentemoult"
+          },
+          "coords": [
+            -1.5833,
+            47.1944
+          ],
+          "category": "sunset",
+          "arrive_at": "16:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Fähre ist im Nahverkehrsticket enthalten.",
+            "hu": "A komp része a tömegközlekedési bérletnek.",
+            "ro": "Feribotul este inclus în biletul de transport public.",
+            "en": "The ferry is included in the transit ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ins Zentrum",
+            "hu": "Visszautazás a központba",
+            "ro": "Întoarcerea în centru",
+            "en": "Return to center"
+          },
+          "coords": [
+            -1.5536,
+            47.2184
+          ],
+          "category": "shopping",
+          "arrive_at": "18:20",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Navibus und Tram nutzen.",
+            "hu": "Navibus és villamos használata.",
+            "ro": "Folosiți Navibus și tramvaiul.",
+            "en": "Use Navibus and tram."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Straßenbahnnetzes und der Navibus-Fähren lässt sich Nantes perfekt ohne Auto erkunden. Starten Sie am Bahnhof und besuchen Sie die berühmte LU-Fabrik.\n\nNach dem Mittagessen in der Altstadt bringt Sie die Bahn direkt zu den mechanischen Wundern. Der Höhepunkt ist die Überfahrt mit dem Schiff in das Fischerdorf Trentemoult.",
+        "hu": "Nantes kiváló villamoshálózata és a Navibus kompok révén autó nélkül is tökéletes. Kezdj az állomásnál, nézd meg a híres LU gyárat.\n\nAz óvárosi ebéd után a villamos egyenesen a mechanikus csodákhoz repít. A csúcspont a hajós átkelés Trentemoult halászfalujába.",
+        "ro": "Datorită rețelei excelente de tramvaie și a feriboturilor Navibus, Nantes se vizitează perfect fără mașină. Începeți la gară și vizitați faimoasa fabrică LU.\n\nDupă prânzul în orașul vechi, tramvaiul vă duce direct la minunile mecanice. Momentul culminant este traversarea cu barca spre satul de pescari Trentemoult.",
+        "en": "Thanks to Nantes' excellent tram network and Navibus ferries, it's perfect to explore without a car. Start at the station and visit the famous LU factory.\n\nAfter lunch in the old town, the tram takes you straight to the mechanical wonders. The highlight is the boat crossing to the fishing village of Trentemoult."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Lieu Unique Bar",
+            "tip": "Entspannte Atmosphäre am Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Lieu Unique Bar",
+            "tip": "Kellemes hangulat a csatorna partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barul Le Lieu Unique",
+            "tip": "Atmosferă relaxată pe malul canalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Lieu Unique Bar",
+            "tip": "Relaxed atmosphere by the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussfahrt mit der Fähre",
+            "tip": "Blick auf die Stadt vom Wasser aus.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kompázás a folyón",
+            "tip": "Városnézés a vízről.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare cu feribotul",
+            "tip": "Vedere asupra orașului de pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ferry river trip",
+            "tip": "City views from the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "TAN Shop",
+            "tip": "Kaufen Sie hier Ihren Tagespass (Pass Nantes)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "TAN Shop",
+            "tip": "Vedd meg itt a napijegyed (Pass Nantes)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul TAN",
+            "tip": "Cumpărați de aici permisul de o zi (Pass Nantes)."
+          }
+        ],
+        "en": [
+          {
+            "name": "TAN Shop",
+            "tip": "Buy your day pass (Pass Nantes) here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den 'Pass Nantes' für unbegrenzte Fahrten und freien Eintritt.",
+          "Die Straßenbahnen fahren sehr häufig.",
+          "Die Navibus-Anlegestelle ist am Quai de la Fosse.",
+          "Am Wochenende ist der Nahverkehr oft kostenlos."
+        ],
+        "hu": [
+          "Vegyél 'Pass Nantes' kártyát korlátlan utazáshoz és ingyenes belépőkhöz.",
+          "A villamosok nagyon sűrűn járnak.",
+          "A Navibus kikötő a Quai de la Fosse-nál van.",
+          "Hétvégén a tömegközlekedés gyakran ingyenes."
+        ],
+        "ro": [
+          "Cumpărați 'Pass Nantes' pentru călătorii nelimitate și intrări gratuite.",
+          "Tramvaiele circulă foarte frecvent.",
+          "Stația de Navibus este la Quai de la Fosse.",
+          "În weekend, transportul public este adesea gratuit."
+        ],
+        "en": [
+          "Buy the 'Pass Nantes' for unlimited rides and free entries.",
+          "Trams run very frequently.",
+          "The Navibus dock is at Quai de la Fosse.",
+          "Public transit is often free on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "city_id": "le-puy-en-velay",
+  "anchor": {
+    "name": "Cathédrale Notre-Dame du Puy",
+    "coords": [
+      45.0431,
+      3.8836
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place du Plot",
+          "coords": [
+            45.0415,
+            3.8828
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee in der Nähe der bunten Häuser.",
+            "hu": "Igyon egy kávét a színes házak gyűrűjében.",
+            "ro": "Beți o cafea lângă casele colorate.",
+            "en": "Enjoy a coffee surrounded by colorful historical houses."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame du Puy",
+          "coords": [
+            45.0431,
+            3.8836
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den wunderschönen romanischen Kreuzgang.",
+            "hu": "Nézze meg a csodálatos román kori kolostort.",
+            "ro": "Vizitați superba mănăstire în stil romanic.",
+            "en": "Don't miss the stunning Romanesque cloister."
+          }
+        },
+        {
+          "name": "Rocher Corneille (Notre-Dame de France)",
+          "coords": [
+            45.045,
+            3.8845
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Aussicht von der Spitze der Statue ist atemberaubend.",
+            "hu": "A kilátás a szobor tetejéről lélegzetelállító.",
+            "ro": "Priveliștea de pe statuie este spectaculoasă.",
+            "en": "The panoramic view from the top is breathtaking."
+          }
+        },
+        {
+          "name": "Musée Crozatier",
+          "coords": [
+            45.038,
+            3.883
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die berühmten Klöppelspitzen der Region.",
+            "hu": "Fedezze fel a régió híres vert csipkéit.",
+            "ro": "Descoperiți faimoasa dantelă locală.",
+            "en": "Discover the region's famous handmade lace collections."
+          }
+        },
+        {
+          "name": "Rocher Saint-Michel d'Aiguilhe",
+          "coords": [
+            45.05,
+            3.8825
+          ],
+          "category": "religious",
+          "arrive_at": "16:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf den Aufstieg über 268 Stufen vor.",
+            "hu": "Készüljön fel a 268 lépcsőfok megmászására.",
+            "ro": "Pregătiți-vă să urcați cele 268 de trepte.",
+            "en": "Prepare for a climb of 268 stairs for incredible views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem belebten Place du Plot, bevor Sie zur majestätischen Kathedrale hinaufsteigen. Mittags erklimmen Sie den Rocher Corneille für ein Panorama über das vulkanische Velay. Der Nachmittag gehört der Kultur im Musée Crozatier und dem Garten von Henri Vinay. Den Abschluss bildet der magische Aufstieg zur Kapelle Saint-Michel, die auf einem vulkanischen Schlot thront.",
+        "hu": "Kezdje a napot a nyüzsgő Place du Plot téren, majd emelkedjen fel a fenséges katedrálishoz. Délben másszon fel a Rocher Corneille-re a vulkanikus táj panorámájáért. A délutánt töltse kulturális felfedezéssel a Musée Crozatier falai között. A napot a vulkáni kúpon trónoló Saint-Michel kápolna mágikus látványával zárja.",
+        "ro": "Începeți ziua în vibranta Piață du Plot, apoi urcați spre catedrala maiestuoasă. La prânz, cuceriți Rocher Corneille pentru o panoramă asupra peisajului vulcanic. După-amiaza este dedicată culturii la Muzeul Crozatier și relaxării în grădina Henri Vinay. Încheiați cu ascensiunea magică spre capela Saint-Michel, cocoțată pe un coș vulcanic.",
+        "en": "Start your day at the lively Place du Plot before ascending to the majestic cathedral. At midday, climb Rocher Corneille for a panorama of the volcanic Velay region. Spend the afternoon exploring culture at the Musée Crozatier. Conclude your tour with the magical ascent to the Saint-Michel chapel, perched high on a volcanic plug."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lentilles Vertes du Puy",
+            "tip": "Probieren Sie die berühmten grünen Linsen in einem lokalen Eintopf."
+          },
+          {
+            "name": "Le Poivre d'Ane",
+            "tip": "Ein charmantes Restaurant mit authentischer regionaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puy-i zöld lencse",
+            "tip": "Kóstolja meg a híres lencsét egy helyi raguban."
+          },
+          {
+            "name": "L'Ecu d'Or",
+            "tip": "Hagyományos ételek elegáns környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lintea verde de Puy",
+            "tip": "Gustați faimoasa linte într-o tocană locală."
+          },
+          {
+            "name": "Restaurant Le Bambou",
+            "tip": "Specialități din Auvergne gătite cu pasiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puy Green Lentils",
+            "tip": "Taste the world-famous 'caviar of Velay' in a local stew."
+          },
+          {
+            "name": "Comme à la Maison",
+            "tip": "Cozy spot offering homemade local specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Henri Vinay",
+            "tip": "Ein friedlicher Park ideal für eine kleine Pause.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Michel Aussichtspunkt",
+            "tip": "Ruhiger Blick auf die Kapelle im Abendlicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Henri Vinay",
+            "tip": "Békés park, ideális egy rövid pihenőre.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Michel kilátó",
+            "tip": "Csendes kilátás a kápolnára az esti fényekben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Henri Vinay",
+            "tip": "Un parc liniștit, ideal pentru o scurtă pauză.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punct de belvedere Saint-Michel",
+            "tip": "Vedere liniștită spre capelă la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Henri Vinay Garden",
+            "tip": "A peaceful park perfect for a midday rest.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Michel viewpoint",
+            "tip": "Quiet view of the chapel in the evening light.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verveine du Velay Pagès",
+            "tip": "Der berühmte grüne Likör der Region."
+          },
+          {
+            "name": "Spitzengeschäft am Place du Plot",
+            "tip": "Handgefertigte Klöppelspitzen als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Verveine du Velay Pagès",
+            "tip": "A régió híres zöld gyógynövénylikőrje."
+          },
+          {
+            "name": "Csipkebolt a Place du Plot-on",
+            "tip": "Kézzel készült vert csipkék szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Verveine du Velay Pagès",
+            "tip": "Faimosul lichior de plante verzi al regiunii."
+          },
+          {
+            "name": "Magazin de dantelă",
+            "tip": "Dantelă lucrată manual pentru amintiri autentice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Verveine du Velay Pagès",
+            "tip": "The region's famous green herbal liqueur."
+          },
+          {
+            "name": "Lace shops near Cathedral",
+            "tip": "Traditional handmade lace to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Kopfsteinpflastergassen.",
+          "Die Kathedrale ist kostenlos, aber der Kreuzgang kostet Eintritt.",
+          "Planen Sie den Aufstieg zum Saint-Michel für den späten Nachmittag.",
+          "Achten Sie auf die Jakobsweg-Markierungen in der Stadt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek, macskaköves utcákhoz.",
+          "A katedrális ingyenes, de a kolostorba belépőt kell váltani.",
+          "A Saint-Michel szikla megmászását hagyja késő délutánra.",
+          "Keresse a Szent Jakab-út jelzéseit a városban."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte cu pavaj.",
+          "Catedrala este gratuită, dar intrarea în mănăstire este contra cost.",
+          "Lăsați urcarea pe stânca Saint-Michel pentru după-amiaza târziu.",
+          "Căutați semnele drumului Camino de Santiago prin oraș."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the steep cobblestone streets.",
+          "The cathedral is free, but the cloister requires an entry fee.",
+          "Schedule the Saint-Michel climb for the late afternoon.",
+          "Look for the shells marking the start of the Santiago Way."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hôtel-Dieu",
+          "coords": [
+            45.0435,
+            3.8835
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des alten Krankenhauses.",
+            "hu": "Csodálja meg a régi kórház építészetét.",
+            "ro": "Admirați arhitectura vechiului spital.",
+            "en": "Admire the architecture of the ancient hospital."
+          }
+        },
+        {
+          "name": "Borne Tal",
+          "coords": [
+            45.055,
+            3.865
+          ],
+          "category": "park",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Radweg entlang des Flusses Borne.",
+            "hu": "Szép kerékpárút a Borne folyó mentén.",
+            "ro": "O pistă de biciclete frumoasă de-a lungul râului Borne.",
+            "en": "Enjoy a scenic ride along the Borne river."
+          }
+        },
+        {
+          "name": "Chibottes de Vals",
+          "coords": [
+            45.02,
+            3.87
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die runden Steinhütten der Weinbauern.",
+            "hu": "Fedezze fel a borászok kerek kőkunyhóit.",
+            "ro": "Descoperiți colibele de piatră ale viticultorilor.",
+            "en": "Discover the unique dry-stone shelters of vine growers."
+          }
+        },
+        {
+          "name": "Musée Crozatier Park",
+          "coords": [
+            45.038,
+            3.883
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schatten und Ruhe nach der Radtour.",
+            "hu": "Árnyék és nyugalom a tekerés után.",
+            "ro": "Umbră și liniște după plimbarea cu bicicleta.",
+            "en": "Shade and peace after your cycling loop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert das historische Erbe der Oberstadt mit der grünen Umgebung. Nach einem Besuch des Hôtel-Dieu folgen Sie dem Borne-Tal auf sanften Wegen. Am Mittag entdecken Sie die Chibottes, faszinierende Steinbauten in den Weinbergen von Vals, bevor Sie entspannt durch den Stadtpark zurückkehren.",
+        "hu": "Ez a kerékpáros túra ötvözi a felsőváros történelmi örökségét a zöld környezettel. Az Hôtel-Dieu látogatása után kövesse a Borne-völgy lankás útjait. Délben fedezze fel a Chibotte-okat, a különleges kőépítményeket a valsi szőlőhegyen, majd térjen vissza a városi parkon keresztül.",
+        "ro": "Acest tur pe bicicletă combină moștenirea istorică a orașului vechi cu împrejurimile verzi. După vizita la Hôtel-Dieu, urmați valea râului Borne pe poteci line. La prânz, descoperiți 'les chibottes', construcții de piatră fascinante în viile din Vals, înainte de a reveni prin parcul orașului.",
+        "en": "This cycling tour combines the upper town's heritage with the green surroundings. After visiting Hôtel-Dieu, follow the Borne valley on gentle paths. At midday, discover the Chibottes, fascinating dry-stone shelters in the Vals vineyards, before returning through the lush city park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Food-Truck au Bord de l'Eau",
+            "tip": "Snacks am Flussufer während der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség a központban",
+            "tip": "Vigyen magával egy kis sós lepényt a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie artisanale",
+            "tip": "Cumpărați o gustare locală pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Artisanal Bakery",
+            "tip": "Pick up a savory tart for your riverside break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Borne Ufer",
+            "tip": "Sanftes Plätschern und Natur pur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borne folyópart",
+            "tip": "A víz csobogása és tiszta természet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Borne",
+            "tip": "Sunetul apei și natură pură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Borne Riverbank",
+            "tip": "Gentle water sounds and pure nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Velay",
+            "tip": "Zubehör und lokale Karten für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velay Kerékpárbolt",
+            "tip": "Kiegészítők és helyi bringás térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de biciclete",
+            "tip": "Accesorii și hărți locale pentru cicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velay Bike Shop",
+            "tip": "Supplies and local maps for cyclists."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Oberstadt ist sehr steil, nutzen Sie E-Bikes wenn möglich.",
+          "Die Voie Verte beginnt etwas außerhalb und ist sehr flach.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg nach Vals mit.",
+          "Achten Sie auf Wanderer in den engen Gassen."
+        ],
+        "hu": [
+          "A felsőváros nagyon meredek, lehetőleg elektromos kerékpárt használjon.",
+          "A Voie Verte (zöld út) a városon kívül kezdődik és nagyon sík.",
+          "Vigyen elég vizet a valsi emelkedőhöz.",
+          "Figyeljen a gyalogosokra a szűk utcákban."
+        ],
+        "ro": [
+          "Orașul vechi este foarte abrupt, folosiți biciclete electrice dacă se poate.",
+          "Pista 'Voie Verte' începe la marginea orașului și este foarte plană.",
+          "Luați suficientă apă pentru urcarea spre Vals.",
+          "Atenție la pietoni în zonele cu străzi înguste."
+        ],
+        "en": [
+          "The upper town is very steep; use an e-bike if possible.",
+          "The 'Voie Verte' starts on the outskirts and is very flat.",
+          "Carry enough water for the climb towards Vals.",
+          "Watch out for pedestrians in the narrow old town streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Saint-Michel d'Aiguilhe",
+          "coords": [
+            45.05,
+            3.8825
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Fuße des Felsens.",
+            "hu": "Parkoljon a szikla lábánál.",
+            "ro": "Parcați la baza stâncii.",
+            "en": "Park at the base of the rock for easy access."
+          }
+        },
+        {
+          "name": "Fortress of Polignac",
+          "coords": [
+            45.0695,
+            3.859
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Eine uneinnehmbare Festung auf einem Vulkantisch.",
+            "hu": "Bevethetetlen erőd egy vulkáni fennsíkon.",
+            "ro": "O cetate inexpugnabilă pe un platou vulcanic.",
+            "en": "An impregnable fortress set on a volcanic plateau."
+          }
+        },
+        {
+          "name": "Cascade de la Beaume",
+          "coords": [
+            44.91,
+            3.92
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Wasserfall im Wald.",
+            "hu": "Látványos vízesés az erdő mélyén.",
+            "ro": "O cascadă spectaculoasă în pădure.",
+            "en": "A spectacular waterfall tucked in the forest."
+          }
+        },
+        {
+          "name": "Distillerie Pagès",
+          "coords": [
+            45.04,
+            3.9
+          ],
+          "category": "industry",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Produktion des berühmten Likörs.",
+            "hu": "Látogassa meg a híres likőrgyárat.",
+            "ro": "Vizitați locul de producție al faimosului lichior.",
+            "en": "Visit the distillery of the famous local liqueur."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights rund um Le Puy. Nach der Kapelle Saint-Michel fahren Sie zur imposanten Festung Polignac. Am Nachmittag führt Sie die Fahrt zum versteckten Wasserfall Beaume inmitten wilder Natur. Den Abschluss bildet ein Besuch der Pagès-Destillerie, um das flüssige Gold des Velay zu entdecken.",
+        "hu": "Autóval felfedezheti Le Puy környékének legszebb pontjait. A Saint-Michel kápolna után hajtson Polignac impozáns erődjéhez. Délután a vadregényes Beaume-vízesés várja az erdő mélyén. A napot a Pagès lepárlóban zárja, ahol megismerheti a Velay vidékének folyékony aranyát.",
+        "ro": "Cu mașina veți descoperi locurile emblematice din jurul orașului. După capela Saint-Michel, conduceți spre impunătoarea cetate Polignac. După-amiaza vă duce spre cascada Beaume, ascunsă în mijlocul naturii sălbatice. Încheiați ziua la distileria Pagès pentru a descoperi lichiorul tradițional local.",
+        "en": "By car, you can easily explore the landmarks surrounding Le Puy. After the Saint-Michel chapel, drive to the imposing Fortress of Polignac. In the afternoon, head to the hidden Beaume waterfall in the wild countryside. Complete your day with a visit to the Pagès distillery to discover the region's famous herbal liqueur."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de Polignac",
+            "tip": "Regionale Küche direkt neben der Festung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de Polignac",
+            "tip": "Helyi konyha közvetlenül az erőd mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de Polignac",
+            "tip": "Bucătărie regională chiar lângă cetate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de Polignac",
+            "tip": "Regional cuisine located right next to the fortress."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wald bei la Beaume",
+            "tip": "Frische Luft und beruhigendes Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Beaume erdő",
+            "tip": "Friss levegő és nyugtató vízcsobogás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de la Beaume",
+            "tip": "Aer curat și sunet relaxant de apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beaume Forest",
+            "tip": "Fresh air and soothing waterfall sounds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique Pagès",
+            "tip": "Liköre und Tees direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pagès Mintabolt",
+            "tip": "Likőrök és teák közvetlenül a gyártótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Pagès",
+            "tip": "Lichioruri și ceaiuri direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pagès Distillery Shop",
+            "tip": "Buy liqueurs and teas directly from the maker."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den großen Parkplatz 'Place de la Libération'.",
+          "Die Fahrt zur Beaume-Kaskade dauert etwa 20 Minuten.",
+          "Achten Sie auf die engen Kurven in den vulkanischen Tälern.",
+          "Polignac ist am Vormittag am wenigsten überlaufen."
+        ],
+        "hu": [
+          "Használja a tágas 'Place de la Libération' parkolót.",
+          "Az út a Beaume-vízeséshez kb. 20 percet vesz igénybe.",
+          "Vigyázzon a szűk kanyarokra a vulkanikus völgyekben.",
+          "Polignac délelőtt a legkevésbé zsúfolt."
+        ],
+        "ro": [
+          "Folosiți parcarea mare de la 'Place de la Libération'.",
+          "Drumul spre cascada Beaume durează aproximativ 20 de minute.",
+          "Atenție la curbele strânse din văile vulcanice.",
+          "Polignac este mai puțin aglomerat în cursul dimineții."
+        ],
+        "en": [
+          "Use the large 'Place de la Libération' parking lot.",
+          "The drive to Beaume waterfall takes about 20 minutes.",
+          "Be careful with narrow curves in the volcanic valleys.",
+          "Polignac is usually less crowded in the morning."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare du Puy-en-Velay",
+          "coords": [
+            45.0425,
+            3.8895
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all local bus lines."
+          }
+        },
+        {
+          "name": "Cathédrale (Stop Michelet)",
+          "coords": [
+            45.0431,
+            3.8836
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Busse halten nur wenige Gehminuten unterhalb.",
+            "hu": "A buszok pár perces sétára állnak meg a katedrálistól.",
+            "ro": "Autobuzele opresc la câteva minute de mers pe jos.",
+            "en": "Buses stop just a few minutes' walk below the cathedral."
+          }
+        },
+        {
+          "name": "Espace Pagezy",
+          "coords": [
+            45.041,
+            3.89
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Moderne Ausstellungsräume im Herzen der Stadt.",
+            "hu": "Modern kiállítóterek a város szívében.",
+            "ro": "Spații de expoziție moderne în centrul orașului.",
+            "en": "Modern exhibition spaces in the heart of the city."
+          }
+        },
+        {
+          "name": "Brives-Charensac (Fluss Borne)",
+          "coords": [
+            45.047,
+            3.925
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein schöner Erholungsort am Stadtrand.",
+            "hu": "Szép pihenőhely a város szélén.",
+            "ro": "Un loc frumos de relaxare la marginea orașului.",
+            "en": "A beautiful relaxation spot on the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das 'Tudip'-Netzwerk, um Le Puy bequem zu erkunden. Vom Bahnhof gelangen Sie schnell zur Oberstadt und zur Kathedrale. Mittags besuchen Sie moderne Kulturräume, bevor Sie mit dem Bus nach Brives-Charensac fahren, um an den Ufern der Loire und der Borne zu entspannen.",
+        "hu": "Használja a 'Tudip' hálózatot Le Puy kényelmes felfedezéséhez. A vasútállomástól gyorsan elérheti a felsővárost és a katedrálist. Délben látogasson el modern kulturális terekbe, majd buszozzon el Brives-Charensacba, ahol a Loire és a Borne partján pihenhet.",
+        "ro": "Utilizați rețeaua 'Tudip' pentru a explora orașul confortabil. De la gară ajungeți rapid în orașul de sus și la catedrală. La prânz vizitați spații culturale moderne, apoi luați autobuzul spre Brives-Charensac pentru relaxare pe malul Loarei.",
+        "en": "Use the 'Tudip' transit network to explore Le Puy with ease. From the station, quickly reach the upper town and cathedral. In the midday, visit modern cultural hubs before taking a bus to Brives-Charensac to relax by the banks of the Loire and Borne rivers."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Schneller und guter Service direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Gyors és jó kiszolgálás a vasútállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Servicii rapide și bune chiar la gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brasserie de la Gare",
+            "tip": "Quick and reliable service right by the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loire-Ufer in Brives",
+            "tip": "Ruhiger Spaziergang am ersten Fluss Frankreichs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loire-part Brivesben",
+            "tip": "Csendes séta Franciaország első folyója mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Loarei în Brives",
+            "tip": "O plimbare liniștită pe malul râului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loire Riverbank in Brives",
+            "tip": "Quiet walk along the upper Loire river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché couvert",
+            "tip": "Lokale Produkte in der Nähe der Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fedett piac",
+            "tip": "Helyi termékek a buszmegállók közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața acoperită",
+            "tip": "Produse locale aproape de stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Indoor Market",
+            "tip": "Find local products near the main bus stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihre Tickets direkt beim Fahrer oder per App.",
+          "Die Linien fahren samstags seltener, prüfen Sie den Plan.",
+          "Nutzen Sie die elektrische 'Navette' für das Stadtzentrum.",
+          "Der Bahnhof ist der beste Orientierungspunkt für Touristen."
+        ],
+        "hu": [
+          "Vegye meg jegyét a sofőrnél vagy az applikációban.",
+          "Szombaton ritkábban járnak a buszok, ellenőrizze a menetrendet.",
+          "Használja az elektromos kisbuszt a városközpontban.",
+          "A vasútállomás a legjobb tájékozódási pont a turistáknak."
+        ],
+        "ro": [
+          "Cumpărați biletele direct de la șofer sau prin aplicație.",
+          "Sâmbăta autobuzele circulă mai rar, verificați orarul.",
+          "Folosiți microbuzul electric 'Navette' pentru centrul orașului.",
+          "Gara este cel mai bun punct de orientare pentru turiști."
+        ],
+        "en": [
+          "Buy your tickets from the driver or via the mobile app.",
+          "Buses run less frequently on Saturdays; check the schedule.",
+          "Use the electric 'Navette' shuttle for the historic center.",
+          "The train station is the best starting point for transit users."
+        ]
+      }
+    }
+  }
+}

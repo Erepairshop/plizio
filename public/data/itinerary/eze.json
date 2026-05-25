@@ -1,0 +1,1080 @@
+{
+  "city_id": "eze",
+  "anchor": {
+    "name": "Èze Village",
+    "coords": [
+      7.3608,
+      43.7281
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Usine-Laboratoire Fragonard",
+          "coords": [
+            7.3615,
+            43.7278
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kostenlose Führung durch die Parfumherstellung.",
+            "hu": "Ingyenes tárlatvezetés a parfümkészítés világába.",
+            "ro": "Tur ghidat gratuit prin procesul de fabricare a parfumului.",
+            "en": "Free guided tour through the perfume making process."
+          }
+        },
+        {
+          "name": "Chapelle de la Sainte-Croix",
+          "coords": [
+            7.3618,
+            43.7282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die älteste Kapelle des Dorfes, Ort der Büßer.",
+            "hu": "A falu legrégebbi kápolnája, a bűnbánók rendjéé.",
+            "ro": "Cea mai veche capelă din sat, sediul penitenților.",
+            "en": "The oldest chapel in the village, home of the penitents."
+          }
+        },
+        {
+          "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+          "coords": [
+            7.3622,
+            43.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschöne Barockkirche mit neoklassizistischer Fassade.",
+            "hu": "Csodás barokk templom neoklasszicista homlokzattal.",
+            "ro": "Biserică barocă superbă cu fațadă neoclasică.",
+            "en": "Beautiful Baroque church with a Neoclassical facade."
+          }
+        },
+        {
+          "name": "Le Jardin Exotique d'Èze",
+          "coords": [
+            7.3612,
+            43.7292
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Panorama-Aussicht auf die Riviera zwischen Kakteen.",
+            "hu": "Panorámás kilátás a Riviérára a kaktuszok közül.",
+            "ro": "Vedere panoramică asupra Rivierei printre cactuși.",
+            "en": "Panoramic Riviera views amidst a cactus collection."
+          }
+        },
+        {
+          "name": "Château d'Èze (Ruinen)",
+          "coords": [
+            7.361,
+            43.7293
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historische Überreste auf dem höchsten Punkt des Dorfes.",
+            "hu": "Történelmi maradványok a falu legmagasabb pontján.",
+            "ro": "Vestigii istorice în cel mai înalt punct al satului.",
+            "en": "Historical remains at the highest point of the village."
+          }
+        },
+        {
+          "name": "Sentier de Nietzsche",
+          "coords": [
+            7.3605,
+            43.7275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 135,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steiler Abstieg nach Èze-sur-Mer mit Meerblick.",
+            "hu": "Meredek lejtő Èze-sur-Mer felé, tengeri kilátással.",
+            "ro": "Coborâre abruptă spre Èze-sur-Mer cu vedere la mare.",
+            "en": "Steep descent to Èze-sur-Mer with sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie in die Düfte von Fragonard ein, bevor Sie die verschlungenen Gassen erklimmen. Mittags bestaunen Sie die barocke Pracht der Kirche und die stille Weiße der Büßerkapelle. Der Nachmittag gehört dem Exotischen Garten auf dem Gipfel, wo die Ruinen der Burg thronen. Zum Abschluss wandern Sie auf Nietzsches Spuren hinunter zum azurblauen Meer.",
+        "hu": "Reggel a Fragonard illataival indul a nap, majd felfedezzük a falu kanyargós sikátorait. Délben a barokk templom és a bűnbánók kápolnája nyújt lelki feltöltődést. A délutánt a falu tetején lévő Egzotikus Kertben és a várromok között töltjük. Végül Nietzsche nyomdokain haladva ereszkedünk le a tengerpartra a panorámás ösvényen.",
+        "ro": "Dimineața începe cu aromele Fragonard, urmată de explorarea străduțelor medievale. La prânz, vizităm biserica barocă și capela istorică a penitenților. După-amiaza este dedicată Grădinii Exotice din vârful stâncii și ruinelor castelului. Încheiem ziua cu o drumeție pe poteca lui Nietzsche, coborând spre apele azurii ale Mediteranei.",
+        "en": "Start your morning with the scents of Fragonard before climbing the winding medieval streets. Midday is perfect for visiting the Baroque church and the historic penitents' chapel. Spend your afternoon at the Exotic Garden on the summit, surrounded by castle ruins. Finish your journey by following Nietzsche's path down to the sparkling sea at the base of the cliffs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "Traditionelle provenzalische Küche mit Aussicht."
+          },
+          {
+            "name": "Socca",
+            "tip": "Kichererbsenfladen, ein Muss an der Riviera."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "Hagyományos provence-i konyha pazar kilátással."
+          },
+          {
+            "name": "Socca",
+            "tip": "Csicseriborsó lepény, elmaradhatatlan helyi csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "Bucătărie tradițională provensală cu o priveliște superbă."
+          },
+          {
+            "name": "Socca",
+            "tip": "Clătită din năut, o specialitate locală obligatorie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "Traditional Provençal cuisine with a great view."
+          },
+          {
+            "name": "Socca",
+            "tip": "Chickpea pancake, a must-try Riviera street food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Exotique Ruinen",
+            "tip": "Stiller Moment über dem Abgrund.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Chapelle de la Sainte-Croix",
+            "tip": "Kühle Ruhe im historischen Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Egzotikus Kert romjai",
+            "tip": "Csendes pillanat a szakadék felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Kereszt-kápolna",
+            "tip": "Hűvös nyugalom a történelmi központban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Grădinii Exotice",
+            "tip": "Moment de liniște deasupra hăului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Capela Sfintei Cruci",
+            "tip": "Răcoare și liniște în centrul istoric.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Exotic Garden Ruins",
+            "tip": "Quiet moment perched above the abyss.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Chapelle de la Sainte-Croix",
+            "tip": "Cool tranquility in the historical center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Exklusive Düfte und Seifen."
+          },
+          {
+            "name": "Verrerie d'Èze",
+            "tip": "Handgefertigte Glaskunst aus dem Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Exkluzív illatok és szappanok."
+          },
+          {
+            "name": "Verrerie d'Èze",
+            "tip": "Kézzel készített üvegművészeti tárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Parfumuri și săpunuri exclusive."
+          },
+          {
+            "name": "Verrerie d'Èze",
+            "tip": "Artă din sticlă lucrată manual în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Exclusive fragrances and soaps."
+          },
+          {
+            "name": "Verrerie d'Èze",
+            "tip": "Handmade glass art from the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die steilen Gassen.",
+          "Besuchen Sie den Garten früh am Morgen, um den Massen zu entgehen.",
+          "Der Nietzsche-Pfad ist anstrengend, nehmen Sie genug Wasser mit.",
+          "Reservieren Sie Restaurants im Voraus, da Èze sehr beliebt ist."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a meredek, köves utcákhoz.",
+          "Érkezzen korán az Egzotikus Kertbe a tömeg elkerülése végett.",
+          "A Nietzsche-ösvény fárasztó, vigyen magával elegendő vizet.",
+          "Foglaljon asztalt előre, mert a falu éttermei gyorsan megtelnek."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte și pietruite.",
+          "Vizitați grădina dimineața devreme pentru a evita aglomerația.",
+          "Poteca lui Nietzsche este solicitantă, luați apă suficientă.",
+          "Rezervați masa în avans, deoarece satul este foarte căutat."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the steep, cobbled streets.",
+          "Visit the Exotic Garden early in the morning to avoid crowds.",
+          "Nietzsche path is strenuous; ensure you carry enough water.",
+          "Book restaurants in advance as Èze is a very popular destination."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fort de la Revère",
+          "coords": [
+            7.3715,
+            43.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "360-Grad-Blick über die Alpen und das Meer.",
+            "hu": "360 fokos kilátás az Alpokra és a tengerre.",
+            "ro": "Vedere la 360 de grade peste Alpi și mare.",
+            "en": "360-degree view over the Alps and the sea."
+          }
+        },
+        {
+          "name": "Usine-Laboratoire Fragonard",
+          "coords": [
+            7.3615,
+            43.7278
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Perfekter Stopp an der Hauptstraße für Radfahrer.",
+            "hu": "Tökéletes megálló a főút mentén a kerékpárosoknak.",
+            "ro": "Oprire perfectă pe șoseaua principală pentru bicicliști.",
+            "en": "Perfect stop along the main road for cyclists."
+          }
+        },
+        {
+          "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+          "coords": [
+            7.3622,
+            43.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Fahrradabstellplatz ins Dorf.",
+            "hu": "Rövid séta a biciklitárolótól a falu központjába.",
+            "ro": "Scurtă plimbare de la parcarea de biciclete în sat.",
+            "en": "Short walk from the bike parking into the village."
+          }
+        },
+        {
+          "name": "Le Jardin Exotique d'Èze",
+          "coords": [
+            7.3612,
+            43.7292
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Belohnung für den steilen Aufstieg.",
+            "hu": "A jutalom a meredek emelkedő után.",
+            "ro": "Răsplata pentru urcușul abrupt.",
+            "en": "The reward after the steep climb."
+          }
+        },
+        {
+          "name": "Galimard Perfumerie Èze-Village",
+          "coords": [
+            7.363,
+            43.727
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein weiterer duftender Halt vor der Abfahrt.",
+            "hu": "Még egy illatos megálló a legurulás előtt.",
+            "ro": "Încă o oprire parfumată înainte de coborâre.",
+            "en": "Another fragrant stop before the ride down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer sportlichen Fahrt zum Fort de la Revère für die beste Aussicht. Danach gleiten Sie hinunter zum Dorf Èze, um die Parfumfabriken zu besuchen. Das Dorf selbst erkunden Sie zu Fuß, bevor Sie im Exotischen Garten entspannen. Beenden Sie die Tour mit einem Besuch bei Galimard, bevor Sie die Panorama-Corniche weiterfahren.",
+        "hu": "Kezdje a napot egy sportos tekeréssel a Fort de la Revère-hez a legjobb kilátásért. Ezután guruljon le Éze faluba, hogy meglátogassa a parfümgyárakat. A falut gyalog fedezzük fel, majd az Egzotikus Kertben pihenünk. Zárja a túrát a Galimard-nál, mielőtt továbbhaladna a panorámás Corniche úton.",
+        "ro": "Începeți ziua cu o cursă sportivă spre Fort de la Revère pentru cea mai bună panoramă. Apoi coborâți spre satul Èze pentru a vizita fabricile de parfum. Satul se explorează la pas, urmat de o relaxare în Grădina Exotică. Încheiați turul la Galimard înainte de a continua pe drumul panoramic Corniche.",
+        "en": "Begin with a challenging ride up to Fort de la Revère for the ultimate coastal views. Coast down to Èze Village to explore its famous perfume heritage. Leave your bike to wander through the medieval alleys and the Exotic Garden on foot. Wrap up your cycling tour at Galimard before heading back along the scenic Corniche."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Deli' Èze",
+            "tip": "Schnelle Sandwiches und Salate für Radfahrer."
+          },
+          {
+            "name": "Pissaladière",
+            "tip": "Zwiebelkuchen mit Sardellen, idealer Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Deli' Èze",
+            "tip": "Gyors szendvicsek és saláták bringásoknak."
+          },
+          {
+            "name": "Pissaladière",
+            "tip": "Hagymás lepény szardellával, remek tízórai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Deli' Èze",
+            "tip": "Sandvișuri rapide și salate pentru bicicliști."
+          },
+          {
+            "name": "Pissaladière",
+            "tip": "Tartă cu ceapă și anșoa, gustarea ideală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Deli' Èze",
+            "tip": "Quick sandwiches and salads for cyclists."
+          },
+          {
+            "name": "Pissaladière",
+            "tip": "Onion tart with anchovies, a perfect snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort de la Revère Picknickplatz",
+            "tip": "Ruhe hoch über dem Mittelmeer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Moyenne Corniche Aussichtspunkt",
+            "tip": "Kurze Pause mit Blick auf Saint-Jean-Cap-Ferrat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fort de la Revère piknikező",
+            "tip": "Nyugalom magasan a tenger felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Moyenne Corniche kilátópont",
+            "tip": "Rövid pihenő rálátással a Cap-Ferrat félszigetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona de picnic Fort de la Revère",
+            "tip": "Liniște sus deasupra Mediteranei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Punct de belvedere Moyenne Corniche",
+            "tip": "Scurtă pauză cu vedere spre Cap-Ferrat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort de la Revère Picnic Area",
+            "tip": "Tranquility high above the Mediterranean.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Moyenne Corniche Viewpoint",
+            "tip": "Short break with views over Cap-Ferrat.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Savonnerie d'Èze",
+            "tip": "Handgemachte Olivenölseifen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Savonnerie d'Èze",
+            "tip": "Kézműves olívaolaj szappanok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Savonnerie d'Èze",
+            "tip": "Săpunuri artizanale cu ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Savonnerie d'Èze",
+            "tip": "Handmade olive oil soaps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind schmal und stark befahren, Vorsicht geboten.",
+          "E-Bikes werden für die steilen Anstiege dringend empfohlen.",
+          "Parken Sie Ihr Fahrrad am Dorfeingang; das Dorf ist autofrei.",
+          "Vermeiden Sie die Mittagsitze auf den offenen Straßen."
+        ],
+        "hu": [
+          "Az utak szűkek és forgalmasak, legyen nagyon óvatos.",
+          "Az elektromos kerékpár erősen ajánlott a meredek emelkedők miatt.",
+          "Láncolja le a biciklit a falu bejáratánál; a falu sétálóövezet.",
+          "Kerülje a déli hőséget a nyílt szakaszokon."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și circulate, fiți foarte atenți.",
+          "E-bike-ul este recomandat pentru urcările solicitante.",
+          "Parcați bicicleta la intrarea în sat; interiorul este pietonal.",
+          "Evitați canicula de la amiază pe porțiunile deschise."
+        ],
+        "en": [
+          "Roads are narrow and busy; exercise great caution.",
+          "Electric bikes are highly recommended for the steep inclines.",
+          "Lock your bike at the village entrance; the interior is pedestrian-only.",
+          "Avoid the midday heat on the exposed Corniche roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Galimard Perfumerie Èze-Village",
+          "coords": [
+            7.363,
+            43.727
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor der Parfümerie.",
+            "hu": "Saját parkoló közvetlenül a parfüméria előtt.",
+            "ro": "Parcare proprie chiar în fața parfumeriei.",
+            "en": "Dedicated parking right in front of the perfumery."
+          }
+        },
+        {
+          "name": "Usine-Laboratoire Fragonard",
+          "coords": [
+            7.3615,
+            43.7278
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Labor, bevor der Touristenansturm kommt.",
+            "hu": "Látogassa meg a labort, mielőtt megérkeznek a buszos csoportok.",
+            "ro": "Vizitați laboratorul înainte de sosirea grupurilor mari.",
+            "en": "Visit the lab before the large tour groups arrive."
+          }
+        },
+        {
+          "name": "Le Jardin Exotique d'Èze",
+          "coords": [
+            7.3612,
+            43.7292
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Parkplatz am Ortseingang ca. 10 Min. Fußweg bergauf.",
+            "hu": "A falu bejáratánál lévő parkolótól kb. 10 perc gyalog felfelé.",
+            "ro": "De la parcarea de la intrare sunt cca. 10 min de urcat pe jos.",
+            "en": "About a 10-minute walk uphill from the village entrance parking."
+          }
+        },
+        {
+          "name": "Fort de la Revère",
+          "coords": [
+            7.3715,
+            43.7315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Leicht erreichbar über die Grande Corniche.",
+            "hu": "Könnyen elérhető a Grande Corniche úton keresztül.",
+            "ro": "Accesibil ușor prin drumul Grande Corniche.",
+            "en": "Easily accessible via the Grande Corniche road."
+          }
+        },
+        {
+          "name": "Trophée d'Auguste (La Turbie)",
+          "coords": [
+            7.401,
+            43.7445
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Riesiges römisches Denkmal im Nachbardorf.",
+            "hu": "Hatalmas római emlékmű a szomszédos faluban.",
+            "ro": "Monument roman uriaș în satul vecin.",
+            "en": "Colossal Roman monument in the neighboring village."
+          }
+        },
+        {
+          "name": "Sentier de Nietzsche (Aussichtspunkt)",
+          "coords": [
+            7.3605,
+            43.7275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick, ohne den ganzen Pfad zu gehen.",
+            "hu": "Élvezze a kilátást anélkül, hogy végigmenne az ösvényen.",
+            "ro": "Bucurați-vă de priveliște fără a parcurge toată poteca.",
+            "en": "Enjoy the view without hiking the entire trail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Èze und Umgebung flexibel. Beginnen Sie mit den Parfümerien, bevor Sie den Exotischen Garten im Dorfzentrum erklimmen. Danach fahren Sie hinauf zum Fort de la Revère für ein Panorama der Extraklasse und besuchen das beeindruckende römische Denkmal in La Turbie. Ein entspannter Ausklang mit Blick auf das Meer rundet den Tag ab.",
+        "hu": "Autóval kényelmesen fedezheti fel Éze környékének legszebb pontjait. Kezdjen a parfümériákkal, majd hódítsa meg a falu tetején lévő Egzotikus Kertet. Ezután autózzon fel a Fort de la Revère-hez a pazar kilátásért, és látogassa meg a monumentális római emlékművet La Turbie-ban. A napot egy tengeri panorámás pihenővel zárjuk.",
+        "ro": "Cu mașina puteți descoperi flexibil atracțiile din Èze și împrejurimi. Începeți cu parfumeriile, apoi urcați la Grădina Exotică din centrul satului. Continuați spre Fort de la Revère pentru o panoramă de excepție și vizitați monumentul roman impresionant din La Turbie. Încheiați ziua relaxat, admirând marea de la înălțime.",
+        "en": "A car gives you the freedom to see Èze and its surroundings with ease. Start with the famous perfume houses, then head up to the village's Exotic Garden. Drive further up to Fort de la Revère for world-class vistas and visit the monumental Roman Trophy in nearby La Turbie. End your day at a scenic viewpoint overlooking the glittering Mediterranean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Chèvre d'Or",
+            "tip": "Luxuriöses Gourmet-Erlebnis (Reservierung nötig)."
+          },
+          {
+            "name": "Hostellerie Jérôme (La Turbie)",
+            "tip": "Hervorragende lokale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Chèvre d'Or",
+            "tip": "Luxus gasztro-élmény (foglalás kötelező)."
+          },
+          {
+            "name": "Hostellerie Jérôme (La Turbie)",
+            "tip": "Kiváló helyi konyha a szomszéd faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Chèvre d'Or",
+            "tip": "Experiență gourmet de lux (necesită rezervare)."
+          },
+          {
+            "name": "Hostellerie Jérôme (La Turbie)",
+            "tip": "Bucătărie locală de excepție."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Chèvre d'Or",
+            "tip": "Luxury gourmet experience (reservation required)."
+          },
+          {
+            "name": "Hostellerie Jérôme (La Turbie)",
+            "tip": "Excellent local cuisine in the next village."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grande Corniche Naturpark",
+            "tip": "Viel Platz und Ruhe zum Durchatmen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fort de la Revère Plateau",
+            "tip": "Sonnenuntergang über der gesamten Riviera.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grande Corniche Natúrpark",
+            "tip": "Tágas tér és nyugalom a természetben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fort de la Revère fennsík",
+            "tip": "Naplemente az egész Riviéra felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Natural Grande Corniche",
+            "tip": "Spațiu generos și liniște în natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Platoul Fort de la Revère",
+            "tip": "Apus de soare peste întreaga Rivieră.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grande Corniche Nature Park",
+            "tip": "Spacious areas for a quiet breath of air.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Fort de la Revère Plateau",
+            "tip": "Sunset views over the entire Riviera.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galimard Shop",
+            "tip": "Direktverkauf ab Werk."
+          },
+          {
+            "name": "Atelier de Sculpture",
+            "tip": "Lokale Kunstwerke aus Olivenholz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galimard Shop",
+            "tip": "Közvetlen gyári értékesítés."
+          },
+          {
+            "name": "Atelier de Sculpture",
+            "tip": "Helyi szobrok olajfából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galimard Shop",
+            "tip": "Vânzare directă de la fabrică."
+          },
+          {
+            "name": "Atelier de Sculpture",
+            "tip": "Sculpturi locale din lemn de măslin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galimard Shop",
+            "tip": "Direct factory sales prices."
+          },
+          {
+            "name": "Atelier de Sculpture",
+            "tip": "Local sculptures made from olive wood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken in Èze ist teuer und im Sommer oft voll.",
+          "Nutzen Sie den Shuttle-Service von den unteren Parkplätzen.",
+          "Die Fahrt über die Grande Corniche bietet die besten Fotostopps.",
+          "Achten Sie auf die engen Kurven in den Bergdörfern."
+        ],
+        "hu": [
+          "A parkolás Éze-ben drága és nyáron hamar megtelik.",
+          "Használja az ingajáratot az alsóbb parkolóktól.",
+          "A Grande Corniche úton vannak a legjobb fotópontok.",
+          "Vigyázzon a szűk kanyarokkal a hegyi falvakban."
+        ],
+        "ro": [
+          "Parcarea în Èze este scumpă și adesea plină vara.",
+          "Folosiți serviciul de shuttle de la parcările de mai jos.",
+          "Drumul pe Grande Corniche oferă cele mai bune puncte foto.",
+          "Atenție la curbele strânse în satele de munte."
+        ],
+        "en": [
+          "Parking in Èze is expensive and often full during summer.",
+          "Use the shuttle service from the lower parking lots if needed.",
+          "Driving along the Grande Corniche offers the best photo ops.",
+          "Be mindful of the sharp bends in the mountain villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Usine-Laboratoire Fragonard",
+          "coords": [
+            7.3615,
+            43.7278
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Èze Village' direkt vor dem Eingang.",
+            "hu": "Az 'Èze Village' buszmegálló közvetlenül a bejáratnál van.",
+            "ro": "Stația de autobuz 'Èze Village' este chiar în fața intrării.",
+            "en": "The 'Èze Village' bus stop is right in front of the entrance."
+          }
+        },
+        {
+          "name": "Église Notre-Dame-de-l'Assomption d'Èze",
+          "coords": [
+            7.3622,
+            43.7285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Folgen Sie der Beschilderung ins Dorfzentrum.",
+            "hu": "Kövesse a jelzéseket a falu központja felé.",
+            "ro": "Urmați indicatoarele spre centrul satului.",
+            "en": "Follow the signs leading into the village center."
+          }
+        },
+        {
+          "name": "Le Jardin Exotique d'Èze",
+          "coords": [
+            7.3612,
+            43.7292
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spitzenblick, der jeden Cent des Eintritts wert ist.",
+            "hu": "A kilátás minden centet megér a belépőből.",
+            "ro": "Priveliștea merită fiecare cent din prețul biletului.",
+            "en": "The view is worth every cent of the admission fee."
+          }
+        },
+        {
+          "name": "Chapelle de la Sainte-Croix",
+          "coords": [
+            7.3618,
+            43.7282
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kleines Juwel in den Gassen des Bergdorfes.",
+            "hu": "Kis ékszerdoboz a hegyi falu sikátoraiban.",
+            "ro": "O mică bijuterie în străduțele satului de munte.",
+            "en": "A small gem hidden in the mountain village alleys."
+          }
+        },
+        {
+          "name": "Sentier de Nietzsche (Startpunkt)",
+          "coords": [
+            7.3605,
+            43.7275
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Anfang des Pfades für Fotos.",
+            "hu": "Élvezze az ösvény elejét a legjobb fotókért.",
+            "ro": "Bucurați-vă de începutul potecii pentru fotografii.",
+            "en": "Enjoy the start of the trail for great photo spots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus erreichen Sie Èze Village bequem von Nizza oder Monaco aus. Nach der Ankunft erkunden Sie die Parfumgeheimnisse bei Fragonard und steigen dann hinauf in das mittelalterliche Labyrinth. Der Exotische Garten bietet Ihnen eine Pause mit Postkartenblick. Vor der Rückreise schlendern Sie durch die Gassen und werfen einen Blick auf den berühmten Nietzsche-Pfad.",
+        "hu": "Busszal könnyen elérheti Éze falut Nizzából vagy Monacóból. Érkezés után fedezze fel a Fragonard parfümtitkait, majd induljon el a középkori labirintusba. Az Egzotikus Kertben tarthat egy pihenőt képeslapba illő kilátással. A visszautazás előtt tegyen egy utolsó sétát a sikátorokban a Nietzsche-ösvény mentén.",
+        "ro": "Autobuzul vă aduce confortabil în satul Èze din Nisa sau Monaco. După sosire, explorați secretele parfumurilor la Fragonard, apoi urcați în labirintul medieval. Grădina Exotică oferă o pauză cu vederi de carte poștală. Înainte de plecare, plimbați-vă pe străduțe și admirați începutul faimoasei poteci a lui Nietzsche.",
+        "en": "Take the bus from Nice or Monaco to reach Èze Village effortlessly. Start by discovering the secrets of perfume at Fragonard before climbing into the medieval maze of the village. The Exotic Garden provides a perfect break with postcard-worthy views. Before your return journey, wander through the stone alleys and see the start of the legendary Nietzsche path."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gachon",
+            "tip": "Gemütliche Bäckerei für einen schnellen Snack."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "Frischer Klassiker der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gachon",
+            "tip": "Hangulatos pékség egy gyors tízóraira."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "A régió friss, klasszikus salátája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gachon",
+            "tip": "Brutărie primitoare pentru o gustare rapidă."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "Salata clasică și proaspătă a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gachon",
+            "tip": "Cozy bakery for a quick local snack."
+          },
+          {
+            "name": "Salade Niçoise",
+            "tip": "The fresh, classic salad of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Kleiner Rückzugsort neben der Kirche.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Blickpunkt Moyenne Corniche",
+            "tip": "Warten auf den Bus mit Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Kis menedékhely a templom mellett.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Moyenne Corniche kilátó",
+            "tip": "Várakozás a buszra panorámával.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Mic refugiu lângă biserică.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Belvedere Moyenne Corniche",
+            "tip": "Așteptarea autobuzului cu priveliște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "Small retreat next to the church.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Moyenne Corniche Lookout",
+            "tip": "Waiting for the bus with a view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Echoppe d'Èze",
+            "tip": "Provenzalische Stoffe und Deko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Echoppe d'Èze",
+            "tip": "Provence-i anyagok és dekoráció."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Echoppe d'Èze",
+            "tip": "Țesături și decorațiuni provensale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Echoppe d'Èze",
+            "tip": "Provençal fabrics and home decor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Linie 82 und 112 verbinden Nizza mit Èze Village.",
+          "Die Busse können im Sommer sehr voll sein, kommen Sie rechtzeitig.",
+          "Entwerten Sie Ihr Ticket direkt beim Einsteigen.",
+          "Achten Sie auf den Fahrplan, besonders am Wochenende."
+        ],
+        "hu": [
+          "A 82-es és 112-es busz köti össze Nizzát Éze-vel.",
+          "A buszok nyáron zsúfoltak lehetnek, érkezzen korábban.",
+          "Érvényesítse jegyét azonnal felszállás után.",
+          "Figyeljen a menetrendre, különösen hétvégén."
+        ],
+        "ro": [
+          "Liniile 82 și 112 leagă Nisa de Èze Village.",
+          "Autobuzele pot fi aglomerate vara, veniți din timp.",
+          "Validați biletul imediat după urcare.",
+          "Verificați orarul, în special în weekend."
+        ],
+        "en": [
+          "Lines 82 and 112 connect Nice with Èze Village.",
+          "Buses can be very crowded in summer; arrive early.",
+          "Validate your ticket immediately upon boarding.",
+          "Keep an eye on the schedule, especially during weekends."
+        ]
+      }
+    }
+  }
+}

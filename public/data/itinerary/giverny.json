@@ -1,0 +1,922 @@
+{
+  "city_id": "giverny",
+  "anchor": {
+    "name": "Giverny Center",
+    "coords": [
+      1.5236,
+      49.0758
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Fondation Claude Monet",
+          "coords": [
+            1.5342,
+            49.0753
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets im Voraus, um die langen Schlangen am Eingang zu vermeiden.",
+            "hu": "Foglaljon jegyet előre online, hogy elkerülje a bejáratnál kialakuló hosszú sorokat.",
+            "ro": "Rezervați bilete în avans online pentru a evita cozile lungi de la intrare.",
+            "en": "Book tickets in advance online to avoid the long queues at the entrance."
+          }
+        },
+        {
+          "name": "Clos Normand",
+          "coords": [
+            1.5338,
+            49.0751
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:52",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vertikalen Gärten, die Monet wie ein Gemälde angelegt hat.",
+            "hu": "Csodálja meg a függőleges kerteket, amelyeket Monet úgy tervezett, mint egy festményt.",
+            "ro": "Admirați grădinile verticale pe care Monet le-a conceput ca pe o pictură.",
+            "en": "Admire the vertical gardens that Monet designed just like a painting."
+          }
+        },
+        {
+          "name": "Jardin d'Eau",
+          "coords": [
+            1.5325,
+            49.0745
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Die japanische Brücke ist der perfekte Ort für ein Erinnerungsfoto unter Glyzinien.",
+            "hu": "A japán híd a tökéletes hely egy emlékfotóhoz a lilaakácok alatt.",
+            "ro": "Podul japonez este locul perfect pentru o fotografie de amintire sub glicine.",
+            "en": "The Japanese bridge is the perfect spot for a souvenir photo under the wisteria."
+          }
+        },
+        {
+          "name": "Musée des impressionnismes Giverny",
+          "coords": [
+            1.5312,
+            49.0762
+          ],
+          "category": "museums",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht den modernen Museumsgarten, der farblich nach Themen sortiert ist.",
+            "hu": "Ne hagyja ki a modern múzeumkertet, amely színek szerint van témákra osztva.",
+            "ro": "Nu ratați grădina modernă a muzeului, care este sortată pe teme cromatice.",
+            "en": "Don't miss the modern museum garden, which is sorted by color themes."
+          }
+        },
+        {
+          "name": "Hôtel Baudy",
+          "coords": [
+            1.5285,
+            49.0768
+          ],
+          "category": "famous residences",
+          "arrive_at": "16:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das alte Atelier im Garten, in dem Cézanne und Renoir arbeiteten.",
+            "hu": "Látogassa meg a kertben lévő régi műtermet, ahol Cézanne és Renoir is dolgozott.",
+            "ro": "Vizitați vechiul atelier din grădină, unde au lucrat Cézanne și Renoir.",
+            "en": "Visit the old studio in the garden where Cézanne and Renoir used to work."
+          }
+        },
+        {
+          "name": "Église Sainte-Radegonde de Giverny",
+          "coords": [
+            1.5265,
+            49.0782
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie das Familiengrab von Claude Monet auf dem angrenzenden Friedhof.",
+            "hu": "Keresse meg Claude Monet családi sírboltját a szomszédos temetőben.",
+            "ro": "Căutați mormântul familiei lui Claude Monet în cimitirul adiacent.",
+            "en": "Look for Claude Monet's family tomb in the adjacent cemetery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen des Impressionismus. Am Vormittag erkunden Sie das Haus und die prächtigen Gärten von Claude Monet, wo die berühmten Seerosenbilder entstanden. Zum Mittagessen tauchen Sie in die künstlerische Atmosphäre des Musée des Impressionnismes ein.\n\nDer Nachmittag gehört dem Dorfcharakter. Sie spazieren entlang der Rue Claude Monet zum historischen Hôtel Baudy, einem ehemaligen Treffpunkt berühmter Maler. Den Abschluss bildet ein Besuch der Dorfkirche, wo der Meister des Lichts seine letzte Ruhe fand, während die Abendsonne die normannische Landschaft vergoldet.",
+        "hu": "A nap az impresszionizmus szívében indul. Délelőtt Claude Monet házát és pompás kertjeit fedezheti fel, ahol a híres tavirózsás festmények születtek. Ebédidőben merüljön el a Musée des Impressionnismes művészi világában.\n\nDélután a falu bája kerül sorra. Sétáljon végig a Rue Claude Monet-n a történelmi Hôtel Baudy-ig, amely egykor híres festők találkozóhelye volt. A napot a falusi templom meglátogatásával zárjuk, ahol a fény mestere végső nyugalomra lelt, miközben az esti nap aranyba vonja a normandiai tájat.",
+        "ro": "Ziua începe în inima impresionismului. Dimineața, veți explora casa și grădinile magnifice ale lui Claude Monet, unde au luat naștere celebrele picturi cu nuferi. La prânz, scufundați-vă în atmosfera artistică de la Musée des Impressionnismes.\n\nDupă-amiaza aparține farmecului satului. Te vei plimba pe Rue Claude Monet până la istoricul Hôtel Baudy, fost loc de întâlnire al pictorilor celebri. Vizita se încheie la biserica satului, unde maestrul luminii își dorme somnul de veci, în timp ce soarele serii auriește peisajul normand.",
+        "en": "Your day begins in the heart of Impressionism. In the morning, explore Claude Monet's house and magnificent gardens, where the famous water lily paintings were born. At midday, immerse yourself in the artistic atmosphere of the Musée des Impressionnismes.\n\nThe afternoon is dedicated to the village character. Stroll along Rue Claude Monet to the historic Hôtel Baudy, a former meeting place for famous painters. The day concludes with a visit to the village church, where the master of light found his final rest, as the evening sun gilds the Norman landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarte aux Pommes Normande",
+            "tip": "Probieren Sie diesen klassischen Apfelkuchen mit viel Sahne im Restaurant Baudy."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Erfrischender lokaler Apfelwein, ideal zu einem herzhaften Galette."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarte aux Pommes Normande",
+            "tip": "Kóstolja meg ezt a klasszikus almatortát sok tejszínnel a Baudy étteremben."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Frissítő helyi almabor, amely ideális egy sós galette mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarte aux Pommes Normande",
+            "tip": "Gustați această tartă cu mere clasică cu multă smântână la Restaurantul Baudy."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Cidru local răcoritor, ideal alături de o galetă sărată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarte aux Pommes Normande",
+            "tip": "Try this classic apple tart with plenty of cream at Restaurant Baudy."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Refreshing local apple cider, ideal with a savory galette."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Epte",
+            "tip": "Ein ruhiger Spaziergang am Fluss abseits der Touristenströme.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hügel von Giverny",
+            "tip": "Panoramablick über das Tal der Seine bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Epte folyó partja",
+            "tip": "Csendes séta a folyó mentén, távol a turisták tömegétől.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Giverny dombjai",
+            "tip": "Panorámás kilátás a Szajna völgyére naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Epte",
+            "tip": "O plimbare liniștită pe malul râului, departe de mulțimea de turiști.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dealurile din Giverny",
+            "tip": "Vedere panoramică asupra văii Senei la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Epte",
+            "tip": "A quiet walk along the river away from the tourist crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Hills of Giverny",
+            "tip": "Panoramic view over the Seine valley at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Boutique de la Fondation",
+            "tip": "Hochwertige Reproduktionen und Souvenirs rund um Monet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Boutique de la Fondation",
+            "tip": "Kiváló minőségű reprodukciók és Monet-hoz kapcsolódó szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Boutique de la Fondation",
+            "tip": "Reproduceri de înaltă calitate și suveniruri legate de Monet."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Boutique de la Fondation",
+            "tip": "High-quality reproductions and Monet-related souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Giverny ist klein und lässt sich hervorragend zu Fuß erkunden.",
+          "Die Hauptstraße 'Rue Claude Monet' verbindet fast alle Sehenswürdigkeiten.",
+          "Kommen Sie so früh wie möglich, um die Gärten in Ruhe zu genießen.",
+          "Tragen Sie bequeme Schuhe für die unebenen Wege in den Gärten."
+        ],
+        "hu": [
+          "Giverny kicsi, és kiválóan felfedezhető gyalogosan.",
+          "A főutca, a 'Rue Claude Monet' szinte minden látnivalót összeköt.",
+          "Érkezzen a lehető legkorábban, hogy nyugodtan élvezhesse a kerteket.",
+          "Viseljen kényelmes cipőt a kertek egyenetlen ösvényeihez."
+        ],
+        "ro": [
+          "Giverny este mic și poate fi explorat excelent la pas.",
+          "Strada principală 'Rue Claude Monet' leagă aproape toate atracțiile.",
+          "Sosiți cât mai devreme posibil pentru a vă bucura de grădini în liniște.",
+          "Purtați încălțăminte confortabilă pentru potecile denivelate din grădini."
+        ],
+        "en": [
+          "Giverny is small and can be explored perfectly on foot.",
+          "The main street 'Rue Claude Monet' connects almost all attractions.",
+          "Arrive as early as possible to enjoy the gardens in peace.",
+          "Wear comfortable shoes for the uneven paths in the gardens."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Vernon Train Station",
+          "coords": [
+            1.4882,
+            49.0935
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad direkt gegenüber dem Bahnhof bei den lokalen Verleihern.",
+            "hu": "Béreljen kerékpárt közvetlenül a vasútállomással szemben a helyi kölcsönzőknél.",
+            "ro": "Închiriați bicicleta direct vizavi de gară de la centrele locale.",
+            "en": "Rent your bike directly opposite the train station from the local rental shops."
+          }
+        },
+        {
+          "name": "Le Vieux-Moulin de Vernon",
+          "coords": [
+            1.4885,
+            49.0972
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieses alte Fachwerkhaus über der Seine ist das Wahrzeichen von Vernon.",
+            "hu": "Ez a Szajna felett álló régi fagerendás ház Vernon jelképe.",
+            "ro": "Această veche casă cu paiantă de deasupra Senei este simbolul Vernonului.",
+            "en": "This old half-timbered house over the Seine is the landmark of Vernon."
+          }
+        },
+        {
+          "name": "Voie Verte de la Seine",
+          "coords": [
+            1.5125,
+            49.0852
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache, autofreie Strecke entlang der alten Eisenbahnlinie.",
+            "hu": "Élvezze a sík, autómentes útvonalat a régi vasútvonal mentén.",
+            "ro": "Bucurați-vă de traseul plat, fără mașini, de-a lungul vechii linii de cale ferată.",
+            "en": "Enjoy the flat, car-free route along the old railway line."
+          }
+        },
+        {
+          "name": "Fondation Claude Monet",
+          "coords": [
+            1.5342,
+            49.0753
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Es gibt dedizierte Fahrradparkplätze in der Nähe des Haupteingangs.",
+            "hu": "A főbejárat közelében kijelölt kerékpárparkolók találhatók.",
+            "ro": "Există parcări dedicate pentru biciclete în apropierea intrării principale.",
+            "en": "There are dedicated bike parking spaces near the main entrance."
+          }
+        },
+        {
+          "name": "Ancien Moulin de Chennevières",
+          "coords": [
+            1.5452,
+            49.0725
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort am Ende des Dorfes, ideal für eine kurze Pause am Wasser.",
+            "hu": "Egy csendes hely a falu végén, ideális egy rövid pihenőre a vízparton.",
+            "ro": "Un loc liniștit la capătul satului, ideal pentru o scurtă pauză pe malul apei.",
+            "en": "A quiet spot at the end of the village, ideal for a short break by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Stadt Vernon mit dem idyllischen Giverny. Nach der Ankunft am Bahnhof radeln Sie zum fotogenen Vieux-Moulin und folgen dann dem grünen Radweg durch das Tal der Seine. In Giverny haben Sie genügend Zeit für Monets Gärten, bevor Sie die ruhigeren Außenbezirke erkunden und schließlich entspannt zurückradeln.",
+        "hu": "Ez a kerékpártúra összeköti Vernon városát az idilli Givernyvel. A vasútállomásra érkezés után tekerjen el a fotogén Vieux-Moulin-hoz, majd kövesse a zöld kerékpárutat a Szajna völgyében. Givernyben bőséges ideje lesz Monet kertjeire, mielőtt felfedezné a csendesebb külterületeket, majd visszatekerne.",
+        "ro": "Acest tur cu bicicleta leagă orașul Vernon de idilicul Giverny. După sosirea la gară, pedalați până la fotogenicul Vieux-Moulin și apoi urmați pista verde de biciclete prin valea Senei. În Giverny, veți avea timp suficient pentru grădinile lui Monet înainte de a explora periferia mai liniștită.",
+        "en": "This bike tour connects the town of Vernon with idyllic Giverny. After arriving at the station, cycle to the photogenic Vieux-Moulin and then follow the green cycle path through the Seine valley. In Giverny, you'll have ample time for Monet's gardens before exploring the quieter outskirts and cycling back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Rose",
+            "tip": "Holen Sie sich frische Baguettes und Macarons für ein Picknick an der Seine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Rose",
+            "tip": "Vegyél friss bagettet és macaront egy Szajna-parti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Rose",
+            "tip": "Luați baghete proaspete și macarons pentru un picnic pe malul Senei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Rose",
+            "tip": "Get fresh baguettes and macarons for a picnic by the Seine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rive Gauche Vernon",
+            "tip": "Die linke Flussseite bietet weite Wiesen zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernon bal part",
+            "tip": "A folyó bal partja tágas réteket kínál a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul stâng Vernon",
+            "tip": "Malul stâng al râului oferă pajiști largi pentru odihnă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernon Left Bank",
+            "tip": "The left bank of the river offers wide meadows for resting.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vernon Market",
+            "tip": "Samstagmorgens lokaler Käse und frischer Cidre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernoni piac",
+            "tip": "Szombat délelőttönként helyi sajtok és friss almabor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Vernon",
+            "tip": "Sâmbătă dimineața, brânzeturi locale și cidru proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernon Market",
+            "tip": "Saturday mornings for local cheese and fresh cider."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke Vernon-Giverny ist etwa 5 km lang und fast komplett flach.",
+          "Nutzen Sie die 'Voie Verte', sie ist sicherer als die Hauptstraße.",
+          "Sichern Sie Ihr Fahrrad in Giverny immer gut ab.",
+          "Ein Picknick am Flussufer ist günstiger als die Restaurants im Dorf."
+        ],
+        "hu": [
+          "A Vernon-Giverny útvonal kb. 5 km hosszú és szinte teljesen sík.",
+          "Használja a 'Voie Verte'-et, biztonságosabb, mint a főút.",
+          "Givernyben mindig jól zárja le a kerékpárját.",
+          "A folyóparti piknik olcsóbb, mint a falusi éttermek."
+        ],
+        "ro": [
+          "Traseul Vernon-Giverny are aproximativ 5 km și este aproape complet plat.",
+          "Folosiți 'Voie Verte', este mai sigură decât drumul principal.",
+          "Asigurați-vă întotdeauna bine bicicleta în Giverny.",
+          "Un picnic pe malul râului este mai ieftin decât restaurantele din sat."
+        ],
+        "en": [
+          "The Vernon-Giverny route is about 5 km long and almost completely flat.",
+          "Use the 'Voie Verte', it's safer than the main road.",
+          "Always lock your bike securely in Giverny.",
+          "A riverside picnic is cheaper than the restaurants in the village."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 55.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Fondation Claude Monet",
+          "coords": [
+            1.5342,
+            49.0753
+          ],
+          "category": "museums",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz 'Parking de la Prairie' am Dorfeingang.",
+            "hu": "Használja a falu bejáratánál lévő nagy 'Parking de la Prairie' parkolót.",
+            "ro": "Folosiți parcarea mare 'Parking de la Prairie' de la intrarea în sat.",
+            "en": "Use the large 'Parking de la Prairie' parking lot at the village entrance."
+          }
+        },
+        {
+          "name": "Hôtel Baudy",
+          "coords": [
+            1.5285,
+            49.0768
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Reservieren Sie für das Mittagessen einen Tisch auf der Terrasse.",
+            "hu": "Foglaljon asztalt a teraszon az ebédhez.",
+            "ro": "Rezervați o masă pe terasă pentru prânz.",
+            "en": "Reserve a table on the terrace for lunch."
+          }
+        },
+        {
+          "name": "Musée des impressionnismes",
+          "coords": [
+            1.5312,
+            49.0762
+          ],
+          "category": "museums",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Ausstellungen wechseln regelmäßig, prüfen Sie das Programm online.",
+            "hu": "A kiállítások rendszeresen változnak, ellenőrizze a programot online.",
+            "ro": "Expozițiile se schimbă regulat, verificați programul online.",
+            "en": "Exhibitions change regularly, check the program online."
+          }
+        },
+        {
+          "name": "Château Gaillard (Les Andelys)",
+          "coords": [
+            1.4028,
+            49.2382
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Die Ruine von Richard Löwenherz bietet den besten Blick auf die Seine-Schleifen.",
+            "hu": "Oroszlánszívű Richárd várának romjairól nyílik a legjobb kilátás a Szajna-kanyarra.",
+            "ro": "Ruinele cetății lui Richard Inimă de Leu oferă cea mai bună vedere asupra buclelor Senei.",
+            "en": "The ruins of Richard the Lionheart's castle offer the best view of the Seine loops."
+          }
+        },
+        {
+          "name": "Vernon Old Town",
+          "coords": [
+            1.4852,
+            49.0915
+          ],
+          "category": "historical",
+          "arrive_at": "17:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Gassen mit den Fachwerkhäusern aus dem Mittelalter.",
+            "hu": "Sétáljon végig a középkori fagerendás házakkal teli utcákon.",
+            "ro": "Plimbați-vă pe străduțele cu case din paiantă din perioada medievală.",
+            "en": "Stroll through the alleys with half-timbered houses from the Middle Ages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erweitern Sie Ihren Radius. Nach den Blumengärten von Giverny fahren Sie flussabwärts nach Les Andelys, um die imposante Festung Château Gaillard zu bestaunen. Auf dem Rückweg halten Sie im historischen Zentrum von Vernon, bevor der Tag gemütlich ausklingt.",
+        "hu": "Autóval kibővítheti a sugarát. Giverny virágoskertjei után hajtson a folyó mentén Les Andelys-be, hogy megcsodálja a Château Gaillard impozáns erődjét. Visszaúton álljon meg Vernon történelmi központjában, mielőtt a nap kellemesen véget érne.",
+        "ro": "Cu mașina, vă extindeți raza de acțiune. După grădinile cu flori din Giverny, conduceți în aval spre Les Andelys pentru a admira fortăreața impunătoare Château Gaillard. La întoarcere, opriți-vă în centrul istoric al Vernonului.",
+        "en": "With a car, you can expand your radius. After the flower gardens of Giverny, drive downstream to Les Andelys to admire the imposing fortress of Château Gaillard. On the way back, stop in the historic center of Vernon before the day ends pleasantly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "Eine Spezialität der Region, oft in gehobenen Restaurants serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "A régió különlegessége, gyakran nívós éttermekben szolgálják fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "O specialitate a regiunii, servită adesea în restaurante de lux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canard à la rouennaise",
+            "tip": "A specialty of the region, often served in upscale restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Panorama de la Roche Guyon",
+            "tip": "Ein kurzer Umweg zu einem der schönsten Dörfer Frankreichs.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Roche Guyon panoráma",
+            "tip": "Egy rövid kitérő Franciaország egyik legszebb falujához.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama de la Roche Guyon",
+            "tip": "O scurtă abatere către unul dintre cele mai frumoase sate din Franța.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "La Roche Guyon Panorama",
+            "tip": "A short detour to one of the most beautiful villages in France.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Calvados-Brennereien",
+            "tip": "Kaufen Sie authentischen Apfelbrand direkt beim Erzeuger in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Calvados főzdék",
+            "tip": "Vásároljon autentikus almapárlatot közvetlenül a környékbeli termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Distilerii de Calvados",
+            "tip": "Cumpărați rachiu de mere autentic direct de la producătorii din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Calvados distilleries",
+            "tip": "Buy authentic apple brandy directly from producers in the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Giverny kann im Sommer schwierig sein, nutzen Sie offizielle Plätze.",
+          "Die Straßen entlang der Seine sind sehr kurvenreich und landschaftlich reizvoll.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen in den kleinen Dörfern.",
+          "Ein Mietwagen ist ideal, um die umliegenden Schlösser zu besuchen."
+        ],
+        "hu": [
+          "Givernyben a parkolás nyáron nehéz lehet, használja a hivatalos helyeket.",
+          "A Szajna menti utak nagyon kanyargósak és látványosak.",
+          "Ügyeljen a sebességkorlátozásokra a kis falvakban.",
+          "A bérautó ideális a környékbeli kastélyok meglátogatásához."
+        ],
+        "ro": [
+          "Parcarea în Giverny poate fi dificilă vara, folosiți locurile oficiale.",
+          "Drumurile de-a lungul Senei sunt foarte sinuoase și pitorești.",
+          "Fiți atenți la limitele de viteză în satele mici.",
+          "O mașină închiriată este ideală pentru a vizita castelele din jur."
+        ],
+        "en": [
+          "Parking in Giverny can be difficult in summer, use official spots.",
+          "The roads along the Seine are very winding and scenic.",
+          "Watch out for speed limits in the small villages.",
+          "A rental car is ideal for visiting the surrounding castles."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Vernon Station (Navette)",
+          "coords": [
+            1.4882,
+            49.0935
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Shuttle-Bus (Navette) fährt kurz nach Ankunft der Züge aus Paris ab.",
+            "hu": "A transzferbusz (navette) röviddel a párizsi vonatok érkezése után indul.",
+            "ro": "Autobuzul de transfer (navette) pleacă la scurt timp după sosirea trenurilor din Paris.",
+            "en": "The shuttle bus (navette) departs shortly after the arrival of trains from Paris."
+          }
+        },
+        {
+          "name": "Fondation Claude Monet",
+          "coords": [
+            1.5342,
+            49.0753
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Vom Busstopp sind es nur wenige Minuten zu Fuß zum Haupteingang.",
+            "hu": "A buszmegállótól csak pár perc séta a főbejárat.",
+            "ro": "De la stația de autobuz sunt doar câteva minute de mers pe jos până la intrarea principală.",
+            "en": "From the bus stop, it's just a few minutes' walk to the main entrance."
+          }
+        },
+        {
+          "name": "Musée des impressionnismes",
+          "coords": [
+            1.5312,
+            49.0762
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Kombiticket für beide Museen, um Geld zu sparen.",
+            "hu": "Használja a kombinált jegyet mindkét múzeumba, hogy pénzt spóroljon.",
+            "ro": "Folosiți biletul combinat pentru ambele muzee pentru a economisi bani.",
+            "en": "Use the combined ticket for both museums to save money."
+          }
+        },
+        {
+          "name": "Tombe de Claude Monet",
+          "coords": [
+            1.5262,
+            49.0785
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein schlichter und würdevoller Ort am Ende des Dorfes.",
+            "hu": "Egyszerű és méltóságteljes hely a falu végén.",
+            "ro": "Un loc simplu și demn la capătul satului.",
+            "en": "A simple and dignified place at the end of the village."
+          }
+        },
+        {
+          "name": "Vernon Old Town",
+          "coords": [
+            1.4852,
+            49.0915
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die gotische Stiftskirche Notre-Dame in Vernon.",
+            "hu": "Ne hagyja ki a gótikus Notre-Dame társaskáptalani templomot Vernonban.",
+            "ro": "Nu ratați biserica colegială gotică Notre-Dame din Vernon.",
+            "en": "Don't miss the Gothic collegiate church of Notre-Dame in Vernon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ideal für Tagesausflügler aus Paris. Der Shuttle bringt Sie direkt zu Monets Reich. Nach dem Besuch der Museen spazieren Sie zum Grab des Künstlers und nehmen den Bus zurück nach Vernon, um dort die charmante Altstadt zu erkunden, bevor Ihr Zug zurückfährt.",
+        "hu": "Ideális a Párizsból érkező egynapos kirándulóknak. A transzferbusz közvetlenül Monet birodalmába viszi. A múzeumlátogatás után sétáljon el a művész sírjához, majd busszal menjen vissza Vernonba, hogy felfedezze a bájos óvárost.",
+        "ro": "Ideal pentru excursioniștii de o zi din Paris. Transferul vă duce direct în imperiul lui Monet. După vizitarea muzeelor, mergeți la mormântul artistului și luați autobuzul înapoi spre Vernon pentru a explora centrul vechi fermecător.",
+        "en": "Ideal for day trippers from Paris. The shuttle takes you directly to Monet's realm. After visiting the museums, walk to the artist's grave and take the bus back to Vernon to explore the charming old town before your train departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Schnelle und leckere Crêpes für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Gyors és finom palacsinták két látnivaló között."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Clătite rapide și delicioase între două vizite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Village",
+            "tip": "Quick and delicious crepes between sightseeing."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten des Musée des Impressionnismes",
+            "tip": "Oft weniger überlaufen als Monets Garten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Musée des Impressionnismes kertje",
+            "tip": "Gyakran kevésbé zsúfolt, mint Monet kertje.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Musée des Impressionnismes",
+            "tip": "Adesea mai puțin aglomerată decât grădina lui Monet.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum of Impressionism Garden",
+            "tip": "Often less crowded than Monet's garden.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kioske in Vernon",
+            "tip": "Lokale Postkarten und kleine Kunstführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernoni kioszkok",
+            "tip": "Helyi képeslapok és kis művészeti kalauzok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri din Vernon",
+            "tip": "Vederi locale și mici ghiduri de artă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernon kiosks",
+            "tip": "Local postcards and small art guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Hin- und Rückfahrticket für die Navette am Bahnhof.",
+          "Die Fahrpläne sind auf die Züge abgestimmt, prüfen Sie die letzte Rückfahrt.",
+          "In Giverny sind die Wege für den Busverkehr begrenzt, vieles ist Fußgängerzone.",
+          "Die Navette akzeptiert oft keine Kreditkarten, halten Sie Bargeld bereit."
+        ],
+        "hu": [
+          "Vásároljon oda-vissza jegyet a transzferbuszra a vasútállomáson.",
+          "A menetrendek a vonatokhoz igazodnak, ellenőrizze az utolsó visszautat.",
+          "Givernyben a buszközlekedés korlátozott, sok a gyalogos zóna.",
+          "A navette gyakran nem fogad el bankkártyát, legyen nálad készpénz."
+        ],
+        "ro": [
+          "Cumpărați un bilet dus-întors pentru navette de la gară.",
+          "Orarele sunt sincronizate cu trenurile, verificați ultima cursă de întoarcere.",
+          "În Giverny, căile de acces pentru autobuz sunt limitate, multe zone sunt pietonale.",
+          "Naveta adesea nu acceptă carduri bancare, aveți bani gheață la îndemână."
+        ],
+        "en": [
+          "Buy a round-trip ticket for the navette at the train station.",
+          "Schedules are synchronized with trains, check the last return trip.",
+          "In Giverny, bus routes are limited, much of it is a pedestrian zone.",
+          "The navette often doesn't accept credit cards, have cash ready."
+        ]
+      }
+    }
+  }
+}

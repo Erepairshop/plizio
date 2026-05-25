@@ -1,0 +1,944 @@
+{
+  "city_id": "evian-les-bains",
+  "anchor": {
+    "name": "Évian-les-Bains",
+    "coords": [
+      46.4006,
+      6.5872
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Source Cachat",
+          "coords": [
+            46.4012,
+            6.5905
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bringen Sie eine leere Flasche mit, um das frische Quellwasser kostenlos zu probieren.",
+            "hu": "Hozz magaddal üres palackot, hogy ingyen megkóstolhasd a friss forrásvizet.",
+            "ro": "Aduceți o sticlă goală pentru a gusta apa proaspătă de izvor gratuit.",
+            "en": "Bring an empty bottle to taste the fresh spring water for free."
+          }
+        },
+        {
+          "name": "Palais Lumière",
+          "coords": [
+            46.4018,
+            6.5912
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der ehemaligen Thermen, heute ein Kulturzentrum.",
+            "hu": "Csodáld meg az egykori termálfürdő építészetét, amely ma kulturális központ.",
+            "ro": "Admirați arhitectura fostelor băi termale, acum un centru cultural.",
+            "en": "Admire the architecture of the former thermal baths, now a cultural center."
+          }
+        },
+        {
+          "name": "Restaurant Au Jardin d'Eden",
+          "coords": [
+            46.4015,
+            6.5925
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Barschfilets direkt aus dem Genfersee.",
+            "hu": "Kóstold meg a közvetlenül a Genfi-tóból fogott süllőfilét.",
+            "ro": "Gustați fileul de biban proaspăt pescuit direct din Lacul Geneva.",
+            "en": "Try the perch fillets caught directly from Lake Geneva."
+          }
+        },
+        {
+          "name": "Promenade du Lac",
+          "coords": [
+            46.4025,
+            6.5935
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Blumenbeete und den Blick auf die Schweizer Alpen.",
+            "hu": "Élvezd a virágágyásokat és a svájci Alpokra nyíló kilátást.",
+            "ro": "Bucurați-vă de straturile de flori și de priveliștea spre Alpii Elvețieni.",
+            "en": "Enjoy the flower beds and the view of the Swiss Alps."
+          }
+        },
+        {
+          "name": "Funiculaire d'Évian",
+          "coords": [
+            46.4002,
+            6.5895
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese historische Standseilbahn aus dem Jahr 1907 ist kostenlos.",
+            "hu": "Ez az 1907-ből származó történelmi sikló teljesen ingyenes.",
+            "ro": "Acest funicular istoric din 1907 este complet gratuit.",
+            "en": "This historic funicular from 1907 is completely free of charge."
+          }
+        },
+        {
+          "name": "Villa Lumière (Hôtel de Ville)",
+          "coords": [
+            46.401,
+            6.592
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Rathaus, das im ehemaligen Wohnhaus der Brüder Lumière untergebracht ist.",
+            "hu": "Látogass el a városházára, amely a Lumière fivérek egykori lakóházában van.",
+            "ro": "Vizitați primăria, situată în fosta reședință a fraților Lumière.",
+            "en": "Visit the town hall, located in the former residence of the Lumière brothers."
+          }
+        },
+        {
+          "name": "Port d'Évian Sunset",
+          "coords": [
+            46.4022,
+            6.5945
+          ],
+          "category": "sunset",
+          "arrive_at": "17:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit Blick auf den See ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására a tóra nyíló kilátással.",
+            "ro": "Locul perfect pentru a încheia ziua cu o priveliște superbă asupra lacului.",
+            "en": "The perfect spot to end the day with a view over the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Cachat-Quelle, dem Geburtsort des berühmten Wassers. Ein kurzer Spaziergang führt Sie zum prachtvollen Palais Lumière, wo Kunst auf Belle-Époque-Architektur trifft. Nach einem Mittagessen mit Seeblick laden die Uferpromenaden zum Verweilen ein. Am Nachmittag bringt Sie die historische Standseilbahn in die Höhe, bevor Sie die opulente Villa Lumière bestaunen. Der Abend endet stimmungsvoll am Hafen bei einem Glas Savoyer Wein.",
+        "hu": "Kezdje a napot a Cachat-forrásnál, a híres víz szülőhelyén. Egy rövid séta elvezeti a pompás Palais Lumière-hez, ahol a művészet találkozik a Belle Époque építészetével. A tóparti ebéd után a sétány hívogat pihenésre. Délután a történelmi sikló repíti a magasba, mielőtt megcsodálná a fényűző Villa Lumière-t. Az este hangulatosan zárul a kikötőben egy pohár savoyai bor társaságában.",
+        "ro": "Începeți ziua la Sursa Cachat, locul de naștere al celebrei ape minerale. O scurtă plimbare vă duce la magnificul Palais Lumière, unde arta întâlnește arhitectura Belle Époque. După un prânz cu vedere la lac, faleza vă invită la relaxare. După-amiaza, funicularul istoric vă poartă spre înălțimi, înainte de a admira opulenta Villa Lumière. Seara se încheie atmosferic în port, cu un pahar de vin de Savoia.",
+        "en": "Start your day at the Cachat Source, the birthplace of the famous water. A short walk leads you to the magnificent Palais Lumière, where art meets Belle Époque architecture. After a lakeside lunch, the promenades invite you to relax. In the afternoon, the historic funicular carries you to the heights before you admire the opulent Villa Lumière. The evening ends atmospherically at the harbor with a glass of Savoy wine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Filets de Perche",
+            "tip": "Frischer Barsch aus dem See, serviert mit Butter-Zitronen-Sauce."
+          },
+          {
+            "name": "Abondance Käse",
+            "tip": "Ein halbharter Bergkäse aus der Region Haute-Savoie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Filets de Perche",
+            "tip": "Friss süllő a tóból, citromos-vajas mártással tálalva."
+          },
+          {
+            "name": "Abondance sajt",
+            "tip": "Félkemény hegyi sajt Felső-Savoya régiójából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Filets de Perche",
+            "tip": "Biban proaspăt din lac, servit cu sos de unt și lămâie."
+          },
+          {
+            "name": "Brânză Abondance",
+            "tip": "O brânză de munte semidură din regiunea Haute-Savoie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Filets de Perche",
+            "tip": "Fresh perch from the lake, served with butter-lemon sauce."
+          },
+          {
+            "name": "Abondance Cheese",
+            "tip": "A semi-hard mountain cheese from the Haute-Savoie region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins de l'Eau",
+            "tip": "Ein schwimmender Garten am See, erreichbar mit dem Boot.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Ruhige Oase hinter dem Rathaus.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardins de l'Eau",
+            "tip": "Úszó kert a tavon, hajóval megközelíthető.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Csendes oázis a városháza mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardins de l'Eau",
+            "tip": "O grădină plutitoare pe lac, accesibilă cu barca.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Oază de liniște în spatele primăriei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardins de l'Eau",
+            "tip": "A floating garden on the lake, accessible by boat.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de l'Hôtel de Ville",
+            "tip": "Quiet oasis behind the town hall.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Evian Boutique",
+            "tip": "Exklusive Sammlerflaschen und Accessoires der Marke."
+          },
+          {
+            "name": "Marché d'Évian",
+            "tip": "Lokaler Markt am Dienstag- und Freitagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Evian Boutique",
+            "tip": "Exkluzív gyűjtői palackok és márkás kiegészítők."
+          },
+          {
+            "name": "Marché d'Évian",
+            "tip": "Helyi piac kedd és péntek reggelente."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Evian Boutique",
+            "tip": "Sticle exclusive de colecție și accesorii ale mărcii."
+          },
+          {
+            "name": "Marché d'Évian",
+            "tip": "Piață locală în diminețile de marți și vineri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Evian Boutique",
+            "tip": "Exclusive collector bottles and brand accessories."
+          },
+          {
+            "name": "Marché d'Évian",
+            "tip": "Local market on Tuesday and Friday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen der Oberstadt.",
+          "Nutzen Sie die kostenlose Standseilbahn, um Höhenmeter zu sparen.",
+          "Reservieren Sie für die Abendessen am Seeufer im Voraus.",
+          "Die Quelle Cachat ist 24 Stunden am Tag zugänglich."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a felsőváros meredek utcáihoz.",
+          "Használd az ingyenes siklót a szintkülönbség leküzdéséhez.",
+          "A tóparti vacsorákhoz érdemes előre asztalt foglalni.",
+          "A Cachat-forrás a nap 24 órájában ingyenesen elérhető."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile abrupte din orașul de sus.",
+          "Folosiți funicularul gratuit pentru a economisi energie la urcare.",
+          "Rezervați din timp pentru cinele pe malul lacului.",
+          "Sursa Cachat este accesibilă gratuit 24 de ore pe zi."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep streets of the upper town.",
+          "Use the free funicular to save energy on the climb.",
+          "Book in advance for dinners on the lakeside.",
+          "The Cachat Source is accessible for free 24 hours a day."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Promenade du Lac",
+          "coords": [
+            46.4025,
+            6.5935
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein flacher Weg entlang des Genfersees, ideal zum Radfahren.",
+            "hu": "Lapos útvonal a Genfi-tó mentén, ideális kerékpározáshoz.",
+            "ro": "Un traseu plat de-a lungul Lacului Geneva, ideal pentru ciclism.",
+            "en": "A flat path along Lake Geneva, ideal for cycling."
+          }
+        },
+        {
+          "name": "Plage d'Évian",
+          "coords": [
+            46.3995,
+            6.575
+          ],
+          "category": "beach",
+          "arrive_at": "10:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Bad im See oder den Poolbereich.",
+            "hu": "Élvezd a fürdőzést a tóban vagy a medence területén.",
+            "ro": "Bucurați-vă de o baie în lac sau de zona piscinelor.",
+            "en": "Enjoy a swim in the lake or the pool area."
+          }
+        },
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            46.402,
+            6.5955
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die Segelboote und Jachten an.",
+            "hu": "Nézd meg a vitorlásokat és a jachtokat.",
+            "ro": "Priviți ambarcațiunile și iahturile din port.",
+            "en": "Take a look at the sailboats and yachts in the harbor."
+          }
+        },
+        {
+          "name": "E.Leclerc Gastro Stop",
+          "coords": [
+            46.398,
+            6.565
+          ],
+          "category": "gastro",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich lokale Spezialitäten für ein Picknick.",
+            "hu": "Vegyél helyi különlegességeket egy piknikhez.",
+            "ro": "Cumpărați specialități locale pentru un picnic.",
+            "en": "Pick up local specialties for a picnic."
+          }
+        },
+        {
+          "name": "Grange au Lac",
+          "coords": [
+            46.395,
+            6.588
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Konzerthaus aus Holz.",
+            "hu": "Egy lenyűgöző, fából készült koncertterem.",
+            "ro": "O sală de concerte impresionantă, construită din lemn.",
+            "en": "An impressive concert hall built entirely of wood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Ufer des Genfersees auf zwei Rädern. Von der blumengeschmückten Promenade geht es zur Plage d'Évian für eine erfrischende Pause. Radeln Sie weiter zum modernen Jachthafen und entdecken Sie versteckte architektonische Juwelen wie die Grange au Lac in den Hügeln. Diese Tour verbindet sportliche Aktivität mit den schönsten Aussichtspunkten der Region.",
+        "hu": "Fedezd fel a Genfi-tó partját két keréken. A virágos sétánytól indulva tekerj az éviani strandig egy frissítő pihenőre. Haladj tovább a modern jachtkikötő felé, és fedezd fel a rejtett építészeti gyöngyszemeket, mint a domboldalon lévő Grange au Lac. Ez a túra ötvözi a sportot a régió legszebb kilátópontjaival.",
+        "ro": "Explorați malurile Lacului Geneva pe două roți. De la faleza plină de flori, pedalați spre plaja Évian pentru o pauză revigorantă. Continuați spre portul modern și descoperiți bijuterii arhitecturale ascunse, precum Grange au Lac de pe dealuri. Acest tur combină activitatea sportivă cu cele mai frumoase puncte de belvedere din regiune.",
+        "en": "Explore the shores of Lake Geneva on two wheels. From the flower-lined promenade, cycle to the Évian beach for a refreshing break. Continue to the modern marina and discover hidden architectural gems like the Grange au Lac in the hills. This tour combines sports with the most beautiful viewpoints in the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Savoie Picknick",
+            "tip": "Holen Sie sich Schinken und Käse für eine Pause am See."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savoyai piknik",
+            "tip": "Vegyél sonkát és sajtot a tóparti pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic de Savoia",
+            "tip": "Cumpărați șuncă și brânză pentru o pauză pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Savoy Picnic",
+            "tip": "Pick up ham and cheese for a break by the lake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rive Sud",
+            "tip": "Ruhigerer Abschnitt der Küste westlich des Zentrums.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli part",
+            "tip": "Csendesebb part szakasz a központtól nyugatra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rive Sud",
+            "tip": "Secțiune mai liniștită a coastei, la vest de centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Shore",
+            "tip": "Quieter section of the coast west of the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäfte",
+            "tip": "Ausrüstung für Outdoor-Aktivitäten in den Alpen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportboltok",
+            "tip": "Felszerelés az alpesi szabadtéri tevékenységekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de sport",
+            "tip": "Echipament pentru activități outdoor în Alpi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sports Shops",
+            "tip": "Equipment for outdoor activities in the Alps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die steileren Wege oberhalb des Sees.",
+          "Die Seepromenade ist am Wochenende sehr belebt; fahren Sie vorsichtig.",
+          "Helme sind in Frankreich für Kinder unter 12 Jahren Pflicht."
+        ],
+        "hu": [
+          "Bérelj elektromos kerékpárt a tó feletti meredekebb utakhoz.",
+          "A tóparti sétány hétvégén zsúfolt lehet, tekerj óvatosan.",
+          "Franciaországban a sisak kötelező a 12 év alatti gyermekek számára."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru drumurile mai abrupte de deasupra lacului.",
+          "Faleza este aglomerată în weekend; pedalați cu atenție.",
+          "Căștile sunt obligatorii în Franța pentru copiii sub 12 ani."
+        ],
+        "en": [
+          "Rent an e-bike for the steeper paths above the lake.",
+          "The lakeside promenade is very busy on weekends; ride carefully.",
+          "Helmets are mandatory in France for children under 12."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Évian Zentrum (Parking)",
+          "coords": [
+            46.4015,
+            6.591
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Tiefgarage am Palais Lumière.",
+            "hu": "Használd a Palais Lumière melletti mélygarázst.",
+            "ro": "Folosiți parcarea subterană de la Palais Lumière.",
+            "en": "Use the underground parking at Palais Lumière."
+          }
+        },
+        {
+          "name": "Dent d'Oche (Base)",
+          "coords": [
+            46.353,
+            6.663
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht auf den Genfersee von den Bergen.",
+            "hu": "Látványos kilátás a Genfi-tóra a hegyekből.",
+            "ro": "Vedere spectaculoasă asupra Lacului Geneva din munți.",
+            "en": "Spectacular view of Lake Geneva from the mountains."
+          }
+        },
+        {
+          "name": "Bernex (Village)",
+          "coords": [
+            46.361,
+            6.675
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein typisches Alpendorf mit exzellenten Käsereien.",
+            "hu": "Tipikus alpesi falu kiváló sajtüzemekkel.",
+            "ro": "Un sat alpin tipic, cu brânzării excelente.",
+            "en": "A typical Alpine village with excellent cheese dairies."
+          }
+        },
+        {
+          "name": "Thonon-les-Bains",
+          "coords": [
+            46.373,
+            6.48
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schloss Ripaille am Ufer.",
+            "hu": "Látogasd meg a Ripaille kastélyt a parton.",
+            "ro": "Vizitați Castelul Ripaille situat pe mal.",
+            "en": "Visit the Ripaille Castle on the shore."
+          }
+        },
+        {
+          "name": "Sunset Point (Quai de Blonay)",
+          "coords": [
+            46.4022,
+            6.5945
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bequemer Zugang zum See für den Sonnenuntergang.",
+            "hu": "Kényelmes hozzáférés a tóhoz a naplementéhez.",
+            "ro": "Acces convenabil la lac pentru apusul soarelui.",
+            "en": "Convenient access to the lake for the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie nicht nur Évian, sondern auch das majestätische Hinterland. Fahren Sie hinauf zum Dent d'Oche für ein unvergleichliches Bergpanorama. Besuchen Sie das charmante Dorf Bernex, um authentischen Alpkäse zu kosten, bevor Sie am Nachmittag das benachbarte Thonon-les-Bains und sein historisches Schloss erkunden. Ein perfekter Tag zwischen See und Gipfeln.",
+        "hu": "Autóval nemcsak Éviant, hanem a fenséges hátországot is felfedezheted. Vezess fel a Dent d'Oche-hoz a páratlan hegyi panorámáért. Látogass el a bájos Bernex faluba, hogy megkóstold az autentikus alpesi sajtot, mielőtt délután felfedeznéd a szomszédos Thonon-les-Bains-t és történelmi kastélyát. Tökéletes nap a tó és a csúcsok között.",
+        "ro": "Cu mașina, explorați nu doar Évian, ci și hinterlandul maiestuos. Conduceți până la Dent d'Oche pentru o panoramă montană de neegalat. Vizitați satul fermecător Bernex pentru a gusta brânză alpină autentică, înainte de a explora după-amiaza orașul vecin Thonon-les-Bains și castelul său istoric. O zi perfectă între lac și vârfuri.",
+        "en": "By car, you explore not only Évian but also the majestic hinterland. Drive up to Dent d'Oche for an unparalleled mountain panorama. Visit the charming village of Bernex to taste authentic Alpine cheese before exploring neighboring Thonon-les-Bains and its historic castle in the afternoon. A perfect day between lake and peaks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bernex Käse",
+            "tip": "Besuchen Sie eine lokale Käserei im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bernex sajt",
+            "tip": "Látogass el egy helyi sajtüzembe a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Bernex",
+            "tip": "Vizitați o brânzărie locală din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bernex Cheese",
+            "tip": "Visit a local cheese dairy in the village."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Hucel",
+            "tip": "Ein ruhiger Aussichtspunkt hoch über dem See.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Hucel",
+            "tip": "Csendes kilátópont magasan a tó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Hucel",
+            "tip": "Un punct de belvedere liniștit, sus deasupra lacului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Hucel",
+            "tip": "A quiet viewpoint high above the lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Landwirtschaftliche Produkte",
+            "tip": "Direktverkauf in den Bergdörfern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezőgazdasági termékek",
+            "tip": "Közvetlen eladás a hegyi falvakban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse agricole",
+            "tip": "Vânzare directă în satele de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Products",
+            "tip": "Direct sales in the mountain villages."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bergstraßen können eng sein; fahren Sie vorsichtig.",
+          "Parkplätze im Zentrum von Évian sind begrenzt; nutzen Sie Parkhäuser.",
+          "Ein Besuch im Schloss Ripaille erfordert oft eine Reservierung."
+        ],
+        "hu": [
+          "A hegyi utak keskenyek lehetnek, vezess óvatosan.",
+          "Évian központjában korlátozott a parkolás, használd a parkolóházakat.",
+          "A Ripaille kastély látogatásához gyakran előzetes foglalás szükséges."
+        ],
+        "ro": [
+          "Drumurile de munte pot fi înguste; conduceți cu atenție.",
+          "Parcarea în centrul orașului Évian este limitată; folosiți parcările etajate.",
+          "O vizită la Castelul Ripaille necesită adesea rezervare."
+        ],
+        "en": [
+          "Mountain roads can be narrow; drive carefully.",
+          "Parking in the center of Évian is limited; use parking garages.",
+          "A visit to Ripaille Castle often requires a reservation."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Funiculaire d'Évian",
+          "coords": [
+            46.4002,
+            6.5895
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zur obersten Station für die beste Aussicht.",
+            "hu": "Menj fel a legfelső állomásig a legjobb kilátásért.",
+            "ro": "Mergeți până la ultima stație pentru cea mai bună vedere.",
+            "en": "Go to the top station for the best view."
+          }
+        },
+        {
+          "name": "Port d'Évian (Boat)",
+          "coords": [
+            46.4022,
+            6.5945
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie das Boot der CGN für eine Minikreuzfahrt.",
+            "hu": "Szállj fel a CGN hajójára egy minikörutazáshoz.",
+            "ro": "Luați barca CGN pentru o mini-croazieră.",
+            "en": "Take the CGN boat for a mini-cruise."
+          }
+        },
+        {
+          "name": "Jardins de l'Eau du Pré Curieux",
+          "coords": [
+            46.406,
+            6.578
+          ],
+          "category": "park",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dieser Garten ist nur mit einem Elektroboot erreichbar.",
+            "hu": "Ez a kert csak elektromos hajóval érhető el.",
+            "ro": "Această grădină este accesibilă doar cu barca electrică.",
+            "en": "This garden is only accessible by electric boat."
+          }
+        },
+        {
+          "name": "Casino d'Évian",
+          "coords": [
+            46.4018,
+            6.5925
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das größte Casino am See in einem prachtvollen Gebäude.",
+            "hu": "A tópart legnagyobb kaszinója egy pompás épületben.",
+            "ro": "Cel mai mare cazinou de pe malul lacului într-o clădire superbă.",
+            "en": "The largest lakeside casino in a magnificent building."
+          }
+        },
+        {
+          "name": "Gastro Stop (Quai de Blonay)",
+          "coords": [
+            46.402,
+            6.594
+          ],
+          "category": "gastro",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis oder Gebäck direkt am See.",
+            "hu": "Élvezz egy fagyit vagy süteményt közvetlenül a tóparton.",
+            "ro": "Bucurați-vă de o înghețată sau de produse de patiserie chiar pe malul lacului.",
+            "en": "Enjoy an ice cream or pastry right by the lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Vielfalt der Verkehrsmittel in Évian. Beginnen Sie mit der historischen Standseilbahn, die Sie mühelos in die Oberstadt bringt. Später steigen Sie am Hafen in ein Solarboot um, das Sie zum einzigartigen Wassergarten Pré Curieux führt. Diese autofreie Tour bietet Ihnen die Möglichkeit, den See aus verschiedenen Perspektiven zu erleben, vom Berg bis direkt aufs Wasser.",
+        "hu": "Használd ki Évian változatos közlekedési eszközeit. Kezdj a történelmi siklóval, amely könnyedén felvisz a felsővárosba. Később szállj át a kikötőben egy szolárhajóra, amely az egyedülálló Pré Curieux vízi kertbe repít. Ez az autómentes túra lehetővé teszi, hogy különböző perspektívákból tapasztald meg a tavat, a hegytől egészen a vízig.",
+        "ro": "Profită de diversitatea mijloacelor de transport din Évian. Începeți cu funicularul istoric, care vă duce fără efort în orașul de sus. Mai târziu, urcați-vă în port într-o barcă solară care vă va duce la grădina acvatică unică Pré Curieux. Acest tur fără mașină vă oferă posibilitatea de a experimenta lacul din perspective diferite, de la munte până direct pe apă.",
+        "en": "Take advantage of the variety of transport in Évian. Start with the historic funicular, which effortlessly takes you to the upper town. Later, switch to a solar boat at the harbor to visit the unique Pré Curieux water garden. This car-free tour allows you to experience the lake from different perspectives, from the mountain to directly on the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Süße oder herzhafte Crêpes mit Blick auf den Bootsverkehr."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Édes vagy sós palacsinták a hajóforgalomra néző kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Clătite dulci sau sărate cu vedere la traficul naval."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Port",
+            "tip": "Sweet or savory crêpes with a view of the boat traffic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pré Curieux Gärten",
+            "tip": "Abgelegene Naturoase am Nordufer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pré Curieux kertek",
+            "tip": "Elszigetelt természeti oázis az északi parton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Pré Curieux",
+            "tip": "Oază naturală izolată pe malul nordic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pré Curieux Gardens",
+            "tip": "Secluded natural oasis on the north shore.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Postkarten und maritime Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői kioszk",
+            "tip": "Képeslapok és tengerészeti emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din port",
+            "tip": "Vederi și suveniruri maritime."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Postcards and maritime souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Standseilbahn verkehrt regelmäßig von Mai bis September.",
+          "Tickets für den Pré Curieux Garten beinhalten die Bootsfahrt.",
+          "Schauen Sie auf die Fahrpläne der Schiffe nach Lausanne für einen kurzen Abstecher."
+        ],
+        "hu": [
+          "A sikló rendszeresen közlekedik májustól szeptemberig.",
+          "A Pré Curieux kertbe szóló jegyek tartalmazzák a hajóutat is.",
+          "Nézd meg a Lausanne-ba tartó hajók menetrendjét egy rövid kitérőhöz."
+        ],
+        "ro": [
+          "Funicularul circulă regulat din mai până în septembrie.",
+          "Biletele pentru grădina Pré Curieux includ și călătoria cu barca.",
+          "Verificați orarul navelor spre Lausanne pentru o scurtă excursie."
+        ],
+        "en": [
+          "The funicular runs regularly from May to September.",
+          "Tickets for the Pré Curieux garden include the boat trip.",
+          "Check the schedules of the ships to Lausanne for a short detour."
+        ]
+      }
+    }
+  }
+}

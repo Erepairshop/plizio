@@ -1,0 +1,1043 @@
+{
+  "city_id": "val-d-isere",
+  "anchor": {
+    "name": "Val-d'Isère",
+    "coords": [
+      6.9789,
+      45.4486
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Val d'Histoire",
+            "hu": "Val d'Histoire Múzeum",
+            "ro": "Muzeul Val d'Histoire",
+            "en": "Val d'Histoire Museum"
+          },
+          "coords": [
+            6.9812,
+            45.4491
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie, wie aus einem Bauerndorf ein Weltklasse-Resort wurde.",
+            "hu": "Ismerd meg, hogyan lett a pásztorfaluból világklasszis síparadicsom.",
+            "ro": "Aflați cum a devenit un sat de fermieri o stațiune de talie mondială.",
+            "en": "Learn how a farming village transformed into a world-class resort."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Bernard",
+            "hu": "Szent Bernát-templom",
+            "ro": "Biserica Sfântul Bernard",
+            "en": "Saint-Bernard Church"
+          },
+          "coords": [
+            6.9801,
+            45.4482
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Barockaltar und den markanten Glockenturm aus dem 17. Jhd.",
+            "hu": "Csodáld meg a 17. századi barokk oltárt és a jellegzetes harangtornyot.",
+            "ro": "Admirați altarul baroc și clopotnița distinctivă din secolul al XVII-lea.",
+            "en": "Admire the 17th-century Baroque altar and the distinctive bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Fornet",
+            "hu": "Le Fornet ófalu",
+            "ro": "Le Fornet",
+            "en": "Le Fornet"
+          },
+          "coords": [
+            7.0012,
+            45.4415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein authentisches Dorf mit traditionellen Steinhäusern und Schieferdächern.",
+            "hu": "Autentikus hegyi falu hagyományos kőházakkal és pala tetőkkel.",
+            "ro": "Un sat autentic cu case tradiționale de piatră și acoperișuri de ardezie.",
+            "en": "An authentic village with traditional stone houses and slate roofs."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade du Fornet",
+            "hu": "Fornet-vízesés",
+            "ro": "Cascada du Fornet",
+            "en": "Fornet Waterfall"
+          },
+          "coords": [
+            7.0045,
+            45.4385
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang führt zu diesem versteckten Juwel am Isère-Ufer.",
+            "hu": "Rövid séta vezet ehhez a rejtett gyöngyszemhez az Isère partján.",
+            "ro": "O scurtă plimbare duce la această bijuterie ascunsă de pe malul râului Isère.",
+            "en": "A short walk leads to this hidden gem on the banks of the Isère river."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Ouillette",
+            "hu": "Ouillette-tó",
+            "ro": "Lacul de l'Ouillette",
+            "en": "Ouillette Lake"
+          },
+          "coords": [
+            6.9655,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Solaise-Lift, um diesen Bergsee auf 2500m zu erreichen.",
+            "hu": "Használd a Solaise felvonót, hogy elérd ezt a 2500 méteren fekvő tavat.",
+            "ro": "Folosiți telecabina Solaise pentru a ajunge la acest lac montan la 2500m.",
+            "en": "Use the Solaise lift to reach this mountain lake at 2500m altitude."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Val-d'Isère. Entdecken Sie im Museum die faszinierende Verwandlung des Ortes, bevor Sie die barocke Stille der Kirche Saint-Bernard genießen. Ein schöner Spaziergang führt Sie flussaufwärts in den Ortsteil Le Fornet, wo die Zeit in den engen Gassen stillzustehen scheint. Nach dem Besuch des nahegelegenen Wasserfalls schweben Sie mit der Seilbahn zum Lac de l'Ouillette, um den Tag bei einem atemberaubenden Alpenpanorama ausklingen zu lassen.",
+        "hu": "A napot Val-d'Isère történelmi központjában kezdjük. A helyi múzeumban megismerhetjük a falu felemelkedését, majd a Szent Bernát-templom barokk falai között pihenhetünk. Egy kellemes séta vezet az Isère mentén Le Fornet-be, ahol a hagyományos kőházak között igazi alpesi hangulat fogad. A közeli vízesés megtekintése után felvonóval jutunk fel az Ouillette-tóhoz, ahol 2500 méteres magasságban, a csúcsok árnyékában zárhatjuk a napot.",
+        "ro": "Ziua începe în centrul istoric al stațiunii Val-d'Isère. Descoperiți transformarea fascinantă a satului la muzeu, înainte de a vă bucura de liniștea barocă a bisericii Saint-Bernard. O plimbare frumoasă vă poartă în amonte spre cătunul Le Fornet, unde timpul pare să stea în loc printre casele de piatră. După ce vizitați cascada din apropiere, urcați cu telecabina la Lac de l'Ouillette pentru a încheia ziua cu o panoramă alpină spectaculoasă.",
+        "en": "Your day begins in the historic heart of Val-d'Isère. Discover the village's fascinating transformation at the museum before enjoying the Baroque serenity of Saint-Bernard Church. A scenic walk takes you upstream to the hamlet of Le Fornet, where time seems to stand still among the stone houses. After visiting the nearby waterfall, take the cable car up to Lac de l'Ouillette to end your day surrounded by breathtaking Alpine panoramas at 2500 meters."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Cassivière",
+            "tip": "Probieren Sie die traditionelle Tartiflette mit Beaufort-Käse."
+          },
+          {
+            "name": "L'Atelier d'Edmond",
+            "tip": "Sterne-Küche in einem rustikalen Ambiente in Le Fornet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Cassivière",
+            "tip": "Kóstold meg a hagyományos tartiflette-et helyi Beaufort sajttal."
+          },
+          {
+            "name": "L'Atelier d'Edmond",
+            "tip": "Csillagos gasztronómia rusztikus környezetben Le Fornet-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Cassivière",
+            "tip": "Încercați tartiflette tradițională cu brânză Beaufort locală."
+          },
+          {
+            "name": "L'Atelier d'Edmond",
+            "tip": "Gastronomie stelată într-un cadru rustic în Le Fornet."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Cassivière",
+            "tip": "Try the traditional tartiflette made with local Beaufort cheese."
+          },
+          {
+            "name": "L'Atelier d'Edmond",
+            "tip": "Michelin-starred dining in a rustic setting in Le Fornet."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de l'Ouillette",
+            "tip": "Ein friedlicher Ort zum Entspannen am Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ufer der Isère",
+            "tip": "Ruhiger Pfad zwischen dem Zentrum und Le Fornet.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac de l'Ouillette",
+            "tip": "Békés hely a kikapcsolódáshoz a vízparton.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Az Isère partja",
+            "tip": "Csendes ösvény a központ és Le Fornet között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lac de l'Ouillette",
+            "tip": "Un loc liniștit pentru relaxare lângă apă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul râului Isère",
+            "tip": "Potecă liniștită între centru și Le Fornet.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac de l'Ouillette",
+            "tip": "A peaceful spot for relaxation by the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of the Isère",
+            "tip": "Quiet path between the center and Le Fornet.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Adroit Fromagerie",
+            "tip": "Der beste Ort für lokalen Beaufort-Käse und Salami."
+          },
+          {
+            "name": "Val d'Isère Markt",
+            "tip": "Jeden Montag lokales Handwerk und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Adroit Fromagerie",
+            "tip": "A legjobb hely a helyi Beaufort sajt és szalámi beszerzésére."
+          },
+          {
+            "name": "Val d'Isère Piac",
+            "tip": "Minden hétfőn helyi kézműves termékek és finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Adroit Fromagerie",
+            "tip": "Cel mai bun loc pentru brânză Beaufort locală și salamuri."
+          },
+          {
+            "name": "Piața Val d'Isère",
+            "tip": "În fiecare luni, artizanat local și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Adroit Fromagerie",
+            "tip": "The best place for local Beaufort cheese and cured meats."
+          },
+          {
+            "name": "Val d'Isère Market",
+            "tip": "Local crafts and specialties every Monday."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie auch im Sommer feste Wanderschuhe für die Wege rund um Le Fornet.",
+          "Die Solaise-Seilbahn ist oft für Fußgänger zugänglich, prüfen Sie die Sommer-Fahrpläne.",
+          "Die Sonne in 2500m Höhe ist sehr stark, Sonnenschutz ist Pflicht.",
+          "Val-d'Isère ist kompakt, fast alles im Zentrum ist in 15 Minuten zu Fuß erreichbar."
+        ],
+        "hu": [
+          "Nyáron is viselj túrabakancsot a Le Fornet körüli ösvényeken.",
+          "A Solaise felvonó gyakran elérhető gyalogosoknak is, ellenőrizd a nyári menetrendet.",
+          "A nap 2500 méteren nagyon erős, a fényvédő használata kötelező.",
+          "Val-d'Isère kompakt, a központban szinte minden elérhető 15 perc sétával."
+        ],
+        "ro": [
+          "Purtați bocanci de munte chiar și vara pentru potecile din jurul Le Fornet.",
+          "Telecabina Solaise este adesea accesibilă pietonilor, verificați orarul de vară.",
+          "Soarele la 2500m este foarte puternic, protecția solară este obligatorie.",
+          "Val-d'Isère este compact, aproape totul în centru este la 15 minute de mers pe jos."
+        ],
+        "en": [
+          "Wear sturdy hiking boots even in summer for the paths around Le Fornet.",
+          "The Solaise cable car is often accessible to pedestrians; check summer schedules.",
+          "The sun at 2500m is very strong; sunscreen is a must.",
+          "Val-d'Isère is compact; almost everything in the center is reachable within 15 minutes on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Fornet",
+            "hu": "Le Fornet",
+            "ro": "Le Fornet",
+            "en": "Le Fornet"
+          },
+          "coords": [
+            7.0012,
+            45.4415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein steiler aber lohnenswerter Anstieg vom Zentrum.",
+            "hu": "Meredek, de kifizetődő emelkedő a központból.",
+            "ro": "O urcare abruptă, dar care merită, din centru.",
+            "en": "A steep but rewarding climb from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Col de l'Iseran",
+            "hu": "Iseran-hágó",
+            "ro": "Pasul Iseran",
+            "en": "Col de l'Iseran"
+          },
+          "coords": [
+            7.0305,
+            45.4172
+          ],
+          "category": "natural features",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Der höchste asphaltierte Pass der Alpen auf 2770m.",
+            "hu": "Az Alpok legmagasabb aszfaltozott hágója, 2770 méteren.",
+            "ro": "Cea mai înaltă trecătoare asfaltată din Alpi, la 2770m.",
+            "en": "The highest paved mountain pass in the Alps at 2770m."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de Bellevarde",
+            "hu": "Bellevarde-szikla",
+            "ro": "Rocher de Bellevarde",
+            "en": "Rocher de Bellevarde"
+          },
+          "coords": [
+            6.9452,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Olympique-Bahn für den Bikepark-Abstieg.",
+            "hu": "Használd az Olympique felvonót a Bikepark lejtőihez.",
+            "ro": "Folosiți telecabina Olympique pentru coborârea în Bikepark.",
+            "en": "Use the Olympique lift for the Bikepark descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Ouillette",
+            "hu": "Ouillette-tó",
+            "ro": "Lacul de l'Ouillette",
+            "en": "Ouillette Lake"
+          },
+          "coords": [
+            6.9655,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause vor der finalen Abfahrt.",
+            "hu": "Tökéletes pihenőhely az utolsó lejtmenet előtt.",
+            "ro": "Perfect pentru o pauză înainte de coborârea finală.",
+            "en": "Perfect for a break before the final descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc National de la Vanoise",
+            "hu": "Vanoise Nemzeti Park",
+            "ro": "Parcul Național Vanoise",
+            "en": "Vanoise National Park"
+          },
+          "coords": [
+            6.985,
+            45.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf Murmeltiere am Wegesrand.",
+            "hu": "Figyeld a mormotákat az út szélén.",
+            "ro": "Fiți atenți la marmote pe marginea drumului.",
+            "en": "Watch out for marmots along the path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Für Radfahrer ist Val-d'Isère ein Paradies zwischen legendären Passstraßen und adrenalingeladenen Downhills. Starten Sie mit dem Anstieg zum Col de l'Iseran, einer Herausforderung für jeden Rennradfahrer. Wer es entspannter mag, nutzt die Bergbahnen zum Rocher de Bellevarde, dem Herzstück des Bikeparks. Genießen Sie die rasante Abfahrt zum Lac de l'Ouillette und erkunden Sie die unberührte Natur am Rande des Vanoise-Nationalparks, wo die hochalpine Flora und Fauna Sie begeistern wird.",
+        "hu": "A kerékpárosok számára Val-d'Isère igazi paradicsom a legendás hágók és az adrenalindús lejtők között. Kezdjük a napot az Iseran-hágó meghódításával, ami minden országútis álma. Aki lazább élményre vágyik, vegye igénybe a felvonókat a Bellevarde-sziklához, a Bikepark központjához. Élvezzük a száguldást az Ouillette-tó felé, majd fedezzük fel a Vanoise Nemzeti Park érintetlen tájait, ahol a mormoták füttye kíséri utunkat.",
+        "ro": "Pentru bicicliști, Val-d'Isère este un paradis între trecători legendare și coborâri pline de adrenalină. Începeți cu ascensiunea spre Col de l'Iseran, o provocare pentru orice ciclist de șosea. Cei care preferă relaxarea pot folosi telecabinele spre Rocher de Bellevarde, inima parcului de biciclete. Bucurați-vă de coborârea rapidă spre Lac de l'Ouillette și explorați natura virgină de la marginea Parcului Național Vanoise.",
+        "en": "For cyclists, Val-d'Isère is a paradise ranging from legendary mountain passes to adrenaline-fueled downhills. Start with the climb to Col de l'Iseran, a bucket-list challenge for road cyclists. For a more relaxed experience, use the lifts to reach Rocher de Bellevarde, the heart of the Bikepark. Enjoy a thrilling descent toward Lac de l'Ouillette and explore the pristine nature on the edge of Vanoise National Park, where Alpine flora and fauna await."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chevallot",
+            "tip": "Beste Bäckerei für einen schnellen Snack vor dem Anstieg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chevallot",
+            "tip": "A legjobb pékség egy gyors snackhez az emelkedő előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chevallot",
+            "tip": "Cea mai bună brutărie pentru o gustare rapidă înainte de urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chevallot",
+            "tip": "The best bakery for a quick snack before the climb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont Saint-Charles",
+            "tip": "Ruhiger Spot am Fuße des Iseran-Anstiegs.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont Saint-Charles",
+            "tip": "Csendes hely az Iseran-emelkedő lábánál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont Saint-Charles",
+            "tip": "Loc liniștit la poalele urcării Iseran.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pont Saint-Charles",
+            "tip": "Quiet spot at the base of the Iseran climb.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mountain Pro Shop",
+            "tip": "Alles für das Bike und professioneller Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mountain Pro Shop",
+            "tip": "Minden, ami kerékpár, profi szervizzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mountain Pro Shop",
+            "tip": "Totul pentru bicicletă și service profesionist."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain Pro Shop",
+            "tip": "Everything for your bike and professional service."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes sind ideal, um die steilen Bergstraßen ohne Erschöpfung zu erkunden.",
+          "Prüfen Sie Ihre Bremsen vor den langen Abfahrten vom Iseran.",
+          "In den Tunneln auf der Passstraße ist Licht am Fahrrad zwingend erforderlich.",
+          "Der Bikepark bietet Strecken für alle Könnerstufen, von Grün bis Schwarz."
+        ],
+        "hu": [
+          "Az e-bike-ok ideálisak a meredek hegyi utak kimerültség nélküli felfedezéséhez.",
+          "Ellenőrizd a fékeket a hosszú Iseran-lejtők előtt.",
+          "A hágóút alagútjaiban kötelező a kerékpáros világítás.",
+          "A Bikepark minden szinthez kínál pályákat a zöldtől a feketéig."
+        ],
+        "ro": [
+          "Bicicletele electrice sunt ideale pentru a explora drumurile abrupte fără epuizare.",
+          "Verificați frânele înainte de coborârile lungi de pe Iseran.",
+          "Lumina la bicicletă este obligatorie în tunelurile de pe drumul spre pas.",
+          "Bikepark oferă trasee pentru toate nivelurile, de la verde la negru."
+        ],
+        "en": [
+          "E-bikes are ideal for exploring steep mountain roads without exhaustion.",
+          "Check your brakes before the long descents from Col de l'Iseran.",
+          "Bike lights are mandatory for the tunnels on the mountain pass road.",
+          "The Bikepark offers trails for all skill levels, from green to black."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Col de l'Iseran",
+            "hu": "Iseran-hágó",
+            "ro": "Pasul Iseran",
+            "en": "Col de l'Iseran"
+          },
+          "coords": [
+            7.0305,
+            45.4172
+          ],
+          "category": "natural features",
+          "arrive_at": "09:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Gletscher der Vanoise.",
+            "hu": "Élvezd a kilátást a Vanoise gleccsereire.",
+            "ro": "Bucurați-vă de vederea spre ghețarii Vanoise.",
+            "en": "Enjoy the view of the Vanoise glaciers."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Fornet",
+            "hu": "Le Fornet",
+            "ro": "Le Fornet",
+            "en": "Le Fornet"
+          },
+          "coords": [
+            7.0012,
+            45.4415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze am Ortseingang vorhanden.",
+            "hu": "Ingyenes parkolás a falu bejáratánál.",
+            "ro": "Parcare gratuită disponibilă la intrarea în sat.",
+            "en": "Free parking available at the village entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Val d'Histoire",
+            "hu": "Val d'Histoire Múzeum",
+            "ro": "Muzeul Val d'Histoire",
+            "en": "Val d'Histoire Museum"
+          },
+          "coords": [
+            6.9812,
+            45.4491
+          ],
+          "category": "museums",
+          "arrive_at": "11:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentrales Parkhaus 'Centre' nutzen.",
+            "hu": "Használd a 'Centre' központi parkolóházat.",
+            "ro": "Folosiți parcarea centrală 'Centre'.",
+            "en": "Use the 'Centre' central parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de Bellevarde",
+            "hu": "Bellevarde-szikla",
+            "ro": "Rocher de Bellevarde",
+            "en": "Rocher de Bellevarde"
+          },
+          "coords": [
+            6.9452,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Auffahrt mit der Olympique-Seilbahn (Parken an der Station).",
+            "hu": "Feljutás az Olympique felvonóval (parkolás az állomásnál).",
+            "ro": "Acces cu telecabina Olympique (parcare la stație).",
+            "en": "Access via the Olympique cable car (parking at the station)."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Ouillette",
+            "hu": "Ouillette-tó",
+            "ro": "Lacul de l'Ouillette",
+            "en": "Ouillette Lake"
+          },
+          "coords": [
+            6.9655,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das höchstgelegene Restaurant am See lädt zur Teepause ein.",
+            "hu": "A tóparti legmagasabb étterem teázásra hívogat.",
+            "ro": "Cel mai înalt restaurant de pe malul lacului vă invită la un ceai.",
+            "en": "The highest lakeside restaurant invites you for a tea break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc National de la Vanoise",
+            "hu": "Vanoise Nemzeti Park",
+            "ro": "Parcul Național Vanoise",
+            "en": "Vanoise National Park"
+          },
+          "coords": [
+            6.985,
+            45.435
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Manchet-Tal Ende für kurze Wanderwege.",
+            "hu": "Parkolj a Manchet-völgy végén a rövid túrautakhoz.",
+            "ro": "Parcați la capătul văii Manchet pentru trasee scurte.",
+            "en": "Park at the end of Manchet Valley for short hiking trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie die gesamte Pracht der Savoyer Alpen rund um Val-d'Isère. Beginnen Sie früh mit der Fahrt zum Col de l'Iseran, bevor der Touristenverkehr zunimmt. Nach einem Stopp im urigen Le Fornet erkunden Sie das Zentrum und sein Museum. Nutzen Sie die modernen Bergbahnen, um auch ohne Wanderung die Gipfel am Bellevarde und den idyllischen Lac de l'Ouillette zu erreichen. Den Abschluss bildet eine entspannte Fahrt in das Manchet-Tal, das Tor zum Vanoise-Nationalpark.",
+        "hu": "Autóval Savoya Alpokának teljes pompáját felfedezhetjük Val-d'Isère körül. Kezdjük korán az utat az Iseran-hágóra, mielőtt megnő a forgalom. Egy megálló után a patinás Le Fornet-ben, fedezzük fel a központot és múzeumát. Vegyük igénybe a modern felvonókat, hogy túrázás nélkül is elérjük a Bellevarde csúcsait és az idilli Ouillette-tavat. A napot egy nyugodt autózással zárjuk a Manchet-völgybe, amely a Vanoise Nemzeti Park kapuja.",
+        "ro": "Cu mașina, puteți explora întreaga splendoare a Alpilor Savoiei în jurul stațiunii Val-d'Isère. Începeți devreme cu drumul spre Col de l'Iseran, înainte ca traficul să crească. După o oprire în pitorescul Le Fornet, explorați centrul și muzeul său. Folosiți telecabinele moderne pentru a ajunge la vârfurile de la Bellevarde și la idilicul Lac de l'Ouillette fără a urca pe jos. Încheiați cu o plimbare relaxantă în valea Manchet.",
+        "en": "By car, you can unlock the full splendor of the Savoyard Alps surrounding Val-d'Isère. Start early with a drive up to Col de l'Iseran before the tourist traffic builds up. After a stop in the rustic Le Fornet, explore the center and its history museum. Utilize the modern ski lifts to reach the peaks of Bellevarde and the idyllic Lac de l'Ouillette without the hike. Conclude your day with a peaceful drive into the Manchet Valley, the gateway to Vanoise National Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Fruitière",
+            "tip": "Stylisches Restaurant an der Bergstation mit toller Terrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Fruitière",
+            "tip": "Stílusos étterem a hegyállomáson nagyszerű terasszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Fruitière",
+            "tip": "Restaurant elegant la stația de munte, cu o terasă superbă."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Fruitière",
+            "tip": "Stylish restaurant at the mountain station with a great terrace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Fornet Brücke",
+            "tip": "Panoramablick auf die Schluchten der Isère.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Fornet híd",
+            "tip": "Panorámás kilátás az Isère szurdokaira.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Le Fornet",
+            "tip": "Vedere panoramică asupra cheilor Isère.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Fornet Bridge",
+            "tip": "Panoramic view of the Isère gorges.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie des Cimes",
+            "tip": "Savoyisches Kunsthandwerk und exklusive Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galerie des Cimes",
+            "tip": "Savoyai kézműves termékek és exkluzív szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerie des Cimes",
+            "tip": "Artizanat savoiard și suveniruri exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galerie des Cimes",
+            "tip": "Savoyard crafts and exclusive souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Col de l'Iseran ist nur von Juni bis Oktober geöffnet.",
+          "Parkhäuser im Zentrum sind im Sommer oft günstiger als im Winter.",
+          "Achten Sie auf Motorradfahrer auf der kurvenreichen Passstraße.",
+          "Tanken Sie im Tal voll, oben in den Bergen sind die Preise deutlich höher."
+        ],
+        "hu": [
+          "Az Iseran-hágóra vezető út csak júniustól októberig van nyitva.",
+          "A központi parkolóházak nyáron gyakran olcsóbbak, mint télen.",
+          "Figyelj a motorosokra a kanyargós hágóúton.",
+          "Tankolj tele a völgyben, a hegyekben jóval magasabbak az árak."
+        ],
+        "ro": [
+          "Drumul spre Col de l'Iseran este deschis doar din iunie până în octombrie.",
+          "Parcările acoperite din centru sunt adesea mai ieftine vara decât iarna.",
+          "Fiți atenți la motocicliști pe drumul sinuos spre pas.",
+          "Alimentați în vale, prețurile sunt mult mai mari sus la munte."
+        ],
+        "en": [
+          "The road to Col de l'Iseran is only open from June to October.",
+          "Central parking garages are often cheaper in summer than in winter.",
+          "Watch out for motorcyclists on the winding mountain pass road.",
+          "Fill up your tank in the valley; prices are significantly higher in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Val d'Histoire",
+            "hu": "Val d'Histoire Múzeum",
+            "ro": "Muzeul Val d'Histoire",
+            "en": "Val d'Histoire Museum"
+          },
+          "coords": [
+            6.9812,
+            45.4491
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Gare Routière' nutzen.",
+            "hu": "Használd a 'Gare Routière' központi megállót.",
+            "ro": "Folosiți stația centrală 'Gare Routière'.",
+            "en": "Use the 'Gare Routière' central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher de Bellevarde",
+            "hu": "Bellevarde-szikla",
+            "ro": "Rocher de Bellevarde",
+            "en": "Rocher de Bellevarde"
+          },
+          "coords": [
+            6.9452,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die 'Olympique' Gondel startet direkt am Schneeplatz.",
+            "hu": "Az 'Olympique' gondola közvetlenül a hómezőről indul.",
+            "ro": "Telegondola 'Olympique' pleacă direct din Piața Zăpezii.",
+            "en": "The 'Olympique' gondola starts directly from the snow front."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Ouillette",
+            "hu": "Ouillette-tó",
+            "ro": "Lacul de l'Ouillette",
+            "en": "Ouillette Lake"
+          },
+          "coords": [
+            6.9655,
+            45.4412
+          ],
+          "category": "natural features",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verbindung mit der 'Solaise' Gondelbahn.",
+            "hu": "Csatlakozás a 'Solaise' gondolás felvonóval.",
+            "ro": "Conexiune cu telecabina 'Solaise'.",
+            "en": "Connection via the 'Solaise' gondola lift."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Fornet",
+            "hu": "Le Fornet",
+            "ro": "Le Fornet",
+            "en": "Le Fornet"
+          },
+          "coords": [
+            7.0012,
+            45.4415
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der rote 'Train Rouge' Pendelbus fährt alle 15 Minuten.",
+            "hu": "A piros 'Train Rouge' ingajárat 15 percenként jár.",
+            "ro": "Autobuzul roșu 'Train Rouge' circulă la fiecare 15 minute.",
+            "en": "The red 'Train Rouge' shuttle runs every 15 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade du Fornet",
+            "hu": "Fornet-vízesés",
+            "ro": "Cascada du Fornet",
+            "en": "Fornet Waterfall"
+          },
+          "coords": [
+            7.0045,
+            45.4385
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur 5 Gehminuten von der Bus-Endstation Le Fornet.",
+            "hu": "Csak 5 perc séta a Le Fornet buszvégállomástól.",
+            "ro": "La doar 5 minute de mers pe jos de capătul liniei de autobuz Le Fornet.",
+            "en": "Just a 5-minute walk from the Le Fornet bus terminus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten Gratis-Bussystems 'Train Rouge' und der modernen Bergbahnen ist Val-d'Isère auch ohne Auto perfekt erlebbar. Starten Sie im Museum im Zentrum, bevor Sie mit der Solaise-Bahn in die alpine Höhe zum Lac de l'Ouillette schweben. Wechseln Sie zum Bellevarde für den besten Panoramablick, bevor Sie der rote Pendelbus in den charmanten Ortsteil Le Fornet bringt. Ein kurzer Spaziergang zur Cascade du Fornet rundet Ihren Tag in der savoyischen Bergwelt ab.",
+        "hu": "A kiváló 'Train Rouge' ingyenes buszhálózatnak és a modern felvonóknak köszönhetően Val-d'Isère autó nélkül is tökéletesen bejárható. Kezdjük a központi múzeumban, majd repüljünk fel a Solaise felvonóval az Ouillette-tóhoz. Váltsunk a Bellevarde-ra a legjobb panorámáért, mielőtt a piros busz elvinne minket a bájos Le Fornet-be. Egy rövid séta a Fornet-vízeséshez tökéletesen zárja a savoyai hegyekben töltött napot.",
+        "ro": "Datorită excelentului sistem de autobuze gratuite 'Train Rouge' și a telecabinelor moderne, Val-d'Isère poate fi explorat perfect fără mașină. Începeți la muzeul din centru, apoi urcați cu telecabina Solaise la Lac de l'Ouillette. Treceți la Bellevarde pentru cea mai bună panoramă, înainte ca autobuzul roșu să vă ducă în fermecătorul cartier Le Fornet. O scurtă plimbare la Cascada du Fornet completează ziua în munții savoiarzi.",
+        "en": "Thanks to the excellent 'Train Rouge' free shuttle system and modern ski lifts, Val-d'Isère is perfectly accessible without a car. Start at the central museum before gliding up the Solaise lift to the high-alpine Lac de l'Ouillette. Switch to Bellevarde for the ultimate panorama before catching the red shuttle to the charming hamlet of Le Fornet. A short stroll to the Cascade du Fornet rounds off your day in the Savoyard mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Signal",
+            "tip": "Hütten-Gastronomie auf höchstem Niveau am Gipfel des Fornet-Lifts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Signal",
+            "tip": "Hüttengasztronómia a legmagasabb szinten a Fornet felvonó tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Signal",
+            "tip": "Gastronomie montană la cel mai înalt nivel la vârful telecabinei Fornet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Signal",
+            "tip": "High-end mountain dining at the top of the Fornet lift."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Solaise Plateau",
+            "tip": "Weite Flächen zum Entspannen abseits der Stationen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Solaise-fennsík",
+            "tip": "Tágas terek a pihenéshez az állomásoktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Solaise",
+            "tip": "Spații largi pentru relaxare departe de stații.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Solaise Plateau",
+            "tip": "Wide spaces for relaxation away from the stations.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Snowberry",
+            "tip": "Große Auswahl an hochwertiger Outdoorkleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Snowberry",
+            "tip": "Kiváló minőségű outdoor ruházat széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Snowberry",
+            "tip": "O selecție largă de îmbrăcăminte outdoor de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Snowberry",
+            "tip": "A wide selection of high-quality outdoor apparel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Pendelbusse sind im gesamten Ort kostenlos, ein Ticket ist nicht nötig.",
+          "Sommerpässe für die Lifte können an den Talstationen erworben werden.",
+          "Laden Sie die 'Val d'Isère Ski' App für Echtzeit-Buszeiten herunter.",
+          "Die letzte Bergfahrt ist meist gegen 16:30 Uhr, planen Sie Ihre Rückkehr rechtzeitig."
+        ],
+        "hu": [
+          "Az ingajáratok az egész településen ingyenesek, jegy nem szükséges.",
+          "Nyári felvonóbérletek a völgyállomásokon válthatók.",
+          "Töltsd le a 'Val d'Isère Ski' appot a valós idejű buszmenetrendhez.",
+          "Az utolsó felvonó általában 16:30 körül indul, tervezd meg időben a visszautat."
+        ],
+        "ro": [
+          "Autobuzele sunt gratuite în întreaga stațiune, nu este nevoie de bilet.",
+          "Abonamentele de vară pentru telecabine pot fi achiziționate de la stațiile de bază.",
+          "Descărcați aplicația 'Val d'Isère Ski' pentru orele de autobuz în timp real.",
+          "Ultima urcare este de obicei în jur de 16:30, planificați întoarcerea la timp."
+        ],
+        "en": [
+          "The shuttle buses are free throughout the village; no ticket is required.",
+          "Summer lift passes can be purchased at the valley stations.",
+          "Download the 'Val d'Isère Ski' app for real-time bus tracking.",
+          "The last lift ascent is usually around 4:30 PM; plan your return accordingly."
+        ]
+      }
+    }
+  }
+}

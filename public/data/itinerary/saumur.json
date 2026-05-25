@@ -1,0 +1,1079 @@
+{
+  "city_id": "saumur",
+  "anchor": {
+    "name": "Saumur",
+    "coords": [
+      -0.0775,
+      47.2603
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Saint-Pierre",
+            "hu": "Szent Péter tér",
+            "ro": "Piața Sfântul Petru",
+            "en": "Place Saint-Pierre"
+          },
+          "coords": [
+            -0.0758,
+            47.2592
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkhäuser aus dem 15. Jahrhundert.",
+            "hu": "Csodálja meg a 15. századi fagerendás házakat a téren.",
+            "ro": "Admirați casele cu bârne de lemn din secolul al XV-lea.",
+            "en": "Admire the 15th-century timber-framed houses around the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saumur",
+            "hu": "Saumur vára",
+            "ro": "Castelul Saumur",
+            "en": "Château de Saumur"
+          },
+          "coords": [
+            -0.0725,
+            47.2575
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Stadt und die Loire.",
+            "hu": "Innen nyílik a legszebb kilátás a városra és a folyóra.",
+            "ro": "Cea mai bună vedere panoramică asupra orașului și Loarei.",
+            "en": "The best panoramic view of the city and the Loire river."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Vins de Loire",
+            "hu": "Loire-menti Borok Háza",
+            "ro": "Casa Vinurilor din Loire",
+            "en": "Maison des Vins de Loire"
+          },
+          "coords": [
+            -0.0772,
+            47.2615
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal, um die regionalen Weine kennenzulernen.",
+            "hu": "Tökéletes hely a régió borainak megismeréséhez.",
+            "ro": "Ideal pentru a descoperi vinurile regionale.",
+            "en": "Perfect place to learn about and taste regional wines."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            -0.0785,
+            47.2622
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude direkt am Flussufer.",
+            "hu": "Lenyűgöző épület közvetlenül a folyóparton.",
+            "ro": "O clădire magnifică situată chiar pe malul râului.",
+            "en": "A magnificent building located right on the river bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Nantilly",
+            "hu": "Nantilly-i Miasszonyunk templom",
+            "ro": "Biserica Notre-Dame de Nantilly",
+            "en": "Église Notre-Dame de Nantilly"
+          },
+          "coords": [
+            -0.0778,
+            47.2548
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtigen Wandteppiche im Inneren.",
+            "hu": "Nézze meg a templomban őrzött lenyűgöző falikárpitokat.",
+            "ro": "Vizitați tapiseriile magnifice din interior.",
+            "en": "Check out the magnificent tapestries kept inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Loire-Ufer Promenade",
+            "hu": "Loire-parti sétány",
+            "ro": "Promenada pe malul Loarei",
+            "en": "Loire River Bank Promenade"
+          },
+          "coords": [
+            -0.0815,
+            47.2635
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Tökéletes egy pihentető délutáni sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
+            "en": "Perfect for a relaxing afternoon stroll by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Saumur zu Fuß, beginnend im historischen Zentrum mit seinen Fachwerkhäusern und dem belebten Place Saint-Pierre. Der Aufstieg zum Schloss wird mit einem atemberaubenden Blick über das Loire-Tal belohnt.\n\nMittags können Sie die lokale Gastronomie in den engen Gassen der Altstadt genießen, wo die berühmten Fouées serviert werden. Ein Besuch im Weinhaus führt Sie in die Welt der feinen Loire-Weine ein.\n\nAm Nachmittag erkunden Sie die religiöse Architektur der Stadt, insbesondere die älteste Kirche Saumurs mit ihren wertvollen Teppichen. Der Weg führt Sie stetig näher an das majestätische Flussufer.\n\nDen Tag lassen Sie entspannt an der Loire ausklingen. Beobachten Sie, wie sich das goldene Licht der Sonne auf den hellen Tuffsteinfassaden spiegelt, bevor Sie ein Glas Crémant de Loire genießen.",
+        "hu": "Fedezze fel Saumurt gyalogosan, a történelmi központ fagerendás házaival és a nyüzsgő Szent Péter térrel. A várba vezető emelkedőt a Loire-völgyre nyíló lélegzetelállító kilátás teszi feledhetetlenné.\n\nDélben élvezze a helyi gasztronómiát az óváros szűk utcáiban, ahol a híres fouée lepényeket szolgálják fel. A borok háza bevezeti Önt a Loire menti nemes borok világába.\n\nDélután fedezze fel a város vallási építészetét, különösen Saumur legrégebbi templomát és annak értékes falikárpitjait. Az út fokozatosan a fenséges folyópart felé vezeti Önt.\n\nA napot pihentető sétával zárja a Loire partján. Figyelje meg, ahogy a nap aranyló fénye megcsillan a világos tufakő homlokzatokon, mielőtt elfogyasztana egy pohár helyi pezsgőt.",
+        "ro": "Descoperiți Saumur la pas, începând din centrul istoric cu casele sale cu bârne de lemn și animata Piață Sfântul Petru. Urcarea la castel este răsplătită cu o priveliște uluitoare asupra văii Loarei.\n\nLa prânz, bucurați-vă de gastronomia locală pe străduțele înguste ale orașului vechi, unde se servesc faimoasele plăcinte fouées. O vizită la casa vinului vă va introduce în lumea vinurilor nobile de pe Loara.\n\nDupă-amiaza, explorați arhitectura religioasă a orașului, în special cea mai veche biserică din Saumur și tapiseriile sale valoroase. Drumul vă poartă treptat spre malul maiestuos al râului.\n\nÎncheiați ziua cu o plimbare relaxantă pe malul Loarei. Observați cum lumina aurie a soarelui se reflectă pe fațadele din tuf calcaros, înainte de a savura un pahar de spumant local.",
+        "en": "Discover Saumur on foot, starting in the historic center with its timber-framed houses and the bustling Place Saint-Pierre. The climb to the castle is rewarded with a breathtaking view over the Loire Valley.\n\nAt midday, enjoy local gastronomy in the narrow streets of the old town, where the famous fouées are served. A visit to the wine house introduces you to the world of noble Loire wines.\n\nIn the afternoon, explore the city's religious architecture, especially Saumur's oldest church and its valuable tapestries. The path leads you steadily towards the majestic riverbank.\n\nEnd the day with a relaxing stroll along the Loire. Watch the golden light of the sun reflect on the light tuffeau stone facades before enjoying a glass of local Crémant de Loire."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Fouées",
+            "tip": "Probieren Sie diese im Holzofen gebackenen Teigtaschen."
+          },
+          {
+            "name": "Saumur-Champigny",
+            "tip": "Ein hervorragender Rotwein aus der Region."
+          },
+          {
+            "name": "Distillerie Combier",
+            "tip": "Kosten Sie den berühmten Triple Sec Likör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Fouées",
+            "tip": "Kóstolja meg ezeket a kemencében sült töltött lepényeket."
+          },
+          {
+            "name": "Saumur-Champigny",
+            "tip": "Kiváló helyi vörösbor a régióból."
+          },
+          {
+            "name": "Distillerie Combier",
+            "tip": "Kóstolja meg a híres Triple Sec likőrt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Fouées",
+            "tip": "Gustați aceste plăcinte umplute coapte în cuptor cu lemne."
+          },
+          {
+            "name": "Saumur-Champigny",
+            "tip": "Un vin roșu excelent din regiune."
+          },
+          {
+            "name": "Distillerie Combier",
+            "tip": "Gustați faimosul lichior Triple Sec."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Fouées",
+            "tip": "Try these wood-fired stuffed pita-like breads."
+          },
+          {
+            "name": "Saumur-Champigny",
+            "tip": "An excellent local red wine from the region."
+          },
+          {
+            "name": "Distillerie Combier",
+            "tip": "Taste the famous Triple Sec liqueur."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten",
+            "tip": "Ruhiger Park mit tollem Ausblick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Île d'Offard",
+            "tip": "Insel in der Loire für Naturfreunde.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thouet-Ufer",
+            "tip": "Versteckte Wege entlang des Nebenflusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Csendes park pazar kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Île d'Offard",
+            "tip": "Sziget a Loire közepén a természet kedvelőinek.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thouet-part",
+            "tip": "Rejtett ösvények a mellékfolyó mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului",
+            "tip": "Parc liniștit cu o vedere superbă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Île d'Offard",
+            "tip": "Insulă pe Loara pentru iubitorii de natură.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Thouet",
+            "tip": "Cărări ascunse de-a lungul afluentului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Gardens",
+            "tip": "Quiet park with a great view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Île d'Offard",
+            "tip": "Island in the Loire for nature lovers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Thouet Banks",
+            "tip": "Hidden paths along the tributary river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place Saint-Pierre Markt",
+            "tip": "Wochenmarkt am Samstagmorgen."
+          },
+          {
+            "name": "Maison du Vin",
+            "tip": "Große Auswahl an lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter téri piac",
+            "tip": "Szombat reggeli helyi piac."
+          },
+          {
+            "name": "Maison du Vin",
+            "tip": "Helyi borok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Sfântul Petru",
+            "tip": "Piață locală în sâmbăta dimineața."
+          },
+          {
+            "name": "Casa Vinului",
+            "tip": "O selecție largă de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place Saint-Pierre Market",
+            "tip": "Local market on Saturday mornings."
+          },
+          {
+            "name": "Maison du Vin",
+            "tip": "Wide selection of local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Das Schloss liegt auf einem Hügel, der Aufstieg ist kurz, de Aber steil.",
+          "Die Tourist-Information am Fluss bietet gute Stadtpläne.",
+          "Reservieren Sie für das Mittagessen einen Tisch in der Rue Saint-Nicolas."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A vár dombtetőn van, a feljutás rövid, de meredek.",
+          "A folyóparti turisztikai iroda kiváló várostérképeket kínál.",
+          "Érdemes asztalt foglalni ebédre a Rue Saint-Nicolas utcában."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+          "Castelul este pe un deal, urcarea este scurtă, dar abruptă.",
+          "Biroul de turism de pe malul râului oferă hărți bune ale orașului.",
+          "Rezervați o masă pentru prânz pe Rue Saint-Nicolas."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the old town.",
+          "The castle is on a hill; the climb is short but steep.",
+          "The tourist office by the river offers good city maps.",
+          "Consider booking a table for lunch in Rue Saint-Nicolas."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Saumur",
+            "hu": "Saumur vára",
+            "ro": "Castelul Saumur",
+            "en": "Château de Saumur"
+          },
+          "coords": [
+            -0.0725,
+            47.2575
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradabstellplatz am Eingang.",
+            "hu": "Biztonságos kerékpártároló a bejáratnál.",
+            "ro": "Parcare securizată pentru biciclete la intrare.",
+            "en": "Secure bike parking available at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dampierre-sur-Loire",
+            "hu": "Dampierre-sur-Loire",
+            "ro": "Dampierre-sur-Loire",
+            "en": "Dampierre-sur-Loire"
+          },
+          "coords": [
+            -0.0305,
+            47.2452
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Höhlenwohnungen im Tuffstein.",
+            "hu": "Fedezze fel a tufába vájt barlanglakásokat.",
+            "ro": "Descoperiți locuințele rupestre săpate în tuf.",
+            "en": "Discover the troglodyte houses carved into the cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Cadre Noir",
+            "hu": "Le Cadre Noir lovasiskola",
+            "ro": "Le Cadre Noir",
+            "en": "Le Cadre Noir"
+          },
+          "coords": [
+            -0.1145,
+            47.2605
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nationale Reitschule Frankreichs.",
+            "hu": "Franciaország nemzeti lovasiskolája.",
+            "ro": "Școala națională de echitație a Franței.",
+            "en": "The prestigious National Riding School of France."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Blindés",
+            "hu": "Páncélos Múzeum",
+            "ro": "Muzeul Blindatelor",
+            "en": "Musée des Blindés"
+          },
+          "coords": [
+            -0.0935,
+            47.2655
+          ],
+          "category": "museum",
+          "arrive_at": "14:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine der größten Panzersammlungen weltweit.",
+            "hu": "A világ egyik legnagyobb páncélosgyűjteménye.",
+            "ro": "Una dintre cele mai mari colecții de tancuri din lume.",
+            "en": "One of the largest tank collections in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Caves Ackerman",
+            "hu": "Ackerman pincészet",
+            "ro": "Caves Ackerman",
+            "en": "Caves Ackerman"
+          },
+          "coords": [
+            -0.1035,
+            47.2588
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckenden unterirdischen Keller.",
+            "hu": "Látogassa meg a lenyűgöző föld alatti pincéket.",
+            "ro": "Vizitați cramele subterane impresionante.",
+            "en": "Visit the impressive underground wine cellars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der berühmten 'Loire à Vélo'-Strecke. Sie verbinden das Schloss Saumur mit den faszinierenden Troglodyten-Dörfern in der Umgebung.\n\nAm Vormittag radeln Sie am Flussufer entlang nach Dampierre, wo Sie in die Welt der Höhlenbewohner eintauchen können. Der Weg ist flach und bietet herrliche Ausblicke.\n\nDer Mittag steht im Zeichen der Eleganz im Cadre Noir, der Wiege der französischen Reitkunst. Danach führt die Route zum beeindruckenden Panzermuseum.\n\nZum Abschluss genießen Sie eine kühle Kellerführung bei einem der großen Sekthäuser in Saint-Hilaire-Saint-Florent, bevor Sie entspannt ins Zentrum zurückkehren.",
+        "hu": "Ez a kerékpártúra a híres 'Loire à Vélo' útvonalon vezet. Összeköti Saumur várát a környék lenyűgöző barlanglakásos falvaival.\n\nDélelőtt a folyóparton tekerve érheti el Dampierre-t, ahol bepillantást nyerhet a tufába vájt lakóhelyek világába. Az út sík és végig gyönyörű panorámát kínál.\n\nA délután az elegancia jegyében telik a Cadre Noir lovasiskolában, a francia lovasművészet bölcsőjében. Ezt követi a monumentális Páncélos Múzeum meglátogatása.\n\nA nap végén élvezze a hűvös pincerendszereket az egyik nagy pezsgőháznál Saint-Hilaire-ben, majd tekerjen vissza kényelmesen a központba.",
+        "ro": "Acest tur cu bicicleta vă poartă pe faimosul traseu 'Loire à Vélo'. Conectați castelul Saumur cu satele rupestre fascinante din împrejurimi.\n\nÎn cursul dimineții, pedalați pe malul râului până la Dampierre, unde puteți pătrunde în lumea locuințelor săpate în stâncă. Drumul este plat și oferă vederi superbe.\n\nPrânzul este dedicat eleganței la Cadre Noir, leagănul artei ecvestre franceze. Apoi, traseul vă duce la impresionantul Muzeu al Blindatelor.\n\nLa final, bucurați-vă de răcoarea cramelor subterane la una dintre marile case de spumante din Saint-Hilaire, înainte de a reveni relaxat în centru.",
+        "en": "This bike tour takes you along the famous 'Loire à Vélo' route. It connects Saumur Castle with the fascinating troglodyte villages nearby.\n\nIn the morning, cycle along the riverbank to Dampierre, where you can peek into the world of cave dwellings. The path is flat and offers constant beautiful views.\n\nMidday is dedicated to elegance at the Cadre Noir, the cradle of French equestrian art. This is followed by a visit to the monumental Tank Museum.\n\nAt the end of the day, enjoy the cool underground cellars at one of the major sparkling wine houses in Saint-Hilaire before cycling back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crémant de Loire",
+            "tip": "Hervorragender lokaler Schaumwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crémant de Loire",
+            "tip": "Kiváló helyi pezsgőbor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crémant de Loire",
+            "tip": "Vin spumant local excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crémant de Loire",
+            "tip": "Excellent local sparkling wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loire-Inseln",
+            "tip": "Ruhige Orte zum Picknicken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loire-szigetek",
+            "tip": "Csendes helyek piknikhez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insulele de pe Loara",
+            "tip": "Locuri liniștite pentru picnic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loire Islands",
+            "tip": "Quiet spots for a picnic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veuve Amiot Shop",
+            "tip": "Direktverkauf von Sekt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veuve Amiot szaküzlet",
+            "tip": "Pezsgő közvetlen értékesítése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Veuve Amiot",
+            "tip": "Vânzare directă de spumante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veuve Amiot Shop",
+            "tip": "Direct sale of sparkling wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad nahe dem Bahnhof oder dem Hafen.",
+          "Folgen Sie der grünen Beschilderung 'Loire à Vélo'.",
+          "Ein Vorhängeschloss ist bei Besichtigungen unerlässlich.",
+          "Die Wege sind meist flach, aber Wind kann von der Loire kommen."
+        ],
+        "hu": [
+          "Béreljen kerékpárt az állomás vagy a kikötő közelében.",
+          "Kövesse a zöld 'Loire à Vélo' jelzéseket.",
+          "A lakat elengedhetetlen a látogatások idejére.",
+          "Az utak többnyire síkok, de a folyó felől fújhat a szél."
+        ],
+        "ro": [
+          "Închiriați o bicicletă lângă gară sau port.",
+          "Urmați semnele verzi 'Loire à Vélo'.",
+          "Un lacăt este esențial în timpul vizitelor.",
+          "Traseele sunt în mare parte plate, dar vântul poate bate dinspre Loara."
+        ],
+        "en": [
+          "Rent a bike near the train station or the harbor.",
+          "Follow the green 'Loire à Vélo' signs.",
+          "A bike lock is essential for when you stop to visit sites.",
+          "The paths are mostly flat, but be prepared for river winds."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saumur Zentrum",
+            "hu": "Saumur központja",
+            "ro": "Centrul Saumur",
+            "en": "Saumur Center"
+          },
+          "coords": [
+            -0.0775,
+            47.2603
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem Place de la République.",
+            "hu": "Parkoljon a Place de la République téren.",
+            "ro": "Parcați în Place de la République.",
+            "en": "Park your car at Place de la République."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Fontevraud",
+            "hu": "Fontevraud-i apátság",
+            "ro": "Abatia Fontevraud",
+            "en": "Fontevraud Abbey"
+          },
+          "coords": [
+            0.0505,
+            47.1812
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 14.5,
+          "tip_5lang": {
+            "de": "Grabstätte von Richard Löwenherz.",
+            "hu": "Oroszlánszívű Richárd sírhelye.",
+            "ro": "Locul de înmormântare al lui Richard Inimă de Leu.",
+            "en": "The burial place of Richard the Lionheart."
+          }
+        },
+        {
+          "name": {
+            "de": "Candes-Saint-Martin",
+            "hu": "Candes-Saint-Martin",
+            "ro": "Candes-Saint-Martin",
+            "en": "Candes-Saint-Martin"
+          },
+          "coords": [
+            0.0735,
+            47.2115
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Montsoreau",
+            "hu": "Montsoreau",
+            "ro": "Montsoreau",
+            "en": "Montsoreau"
+          },
+          "coords": [
+            0.0558,
+            47.2155
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schloss direkt an der Loire.",
+            "hu": "Látogassa meg a közvetlenül a Loire partján álló várat.",
+            "ro": "Vizitați castelul situat chiar pe malul Loarei.",
+            "en": "Visit the castle located directly on the Loire banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouvet Ladubay Keller",
+            "hu": "Bouvet Ladubay pincészet",
+            "ro": "Caves Bouvet Ladubay",
+            "en": "Bouvet Ladubay Cellars"
+          },
+          "coords": [
+            -0.1045,
+            47.2575
+          ],
+          "category": "gastro",
+          "arrive_at": "15:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Besichtigung der Keller mit dem Fahrrad unter Tage.",
+            "hu": "Pincelátogatás kerékpárral a föld alatt.",
+            "ro": "Turul cramelor cu bicicleta în subteran.",
+            "en": "Cellar tour by vintage bicycle underground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie nicht nur Saumur, sondern auch die Schätze der unmittelbaren Umgebung. Die Fahrt führt Sie zur monumentalen Abtei Fontevraud, einer der größten Klosteranlagen Europas.\n\nDer Mittag führt Sie in das malerische Dorf Candes-Saint-Martin, wo die Vienne in die Loire mündet. Der Blick vom Panorama-Punkt über dem Dorf ist unvergleichlich.\n\nAnschließend besuchen Sie das Schloss Montsoreau, das einzige Loire-Schloss, das direkt im Flussbett erbaut wurde. Die Fahrt entlang des Flusses bietet stets neue Perspektiven.\n\nDen Abschluss bildet eine exklusive Kellerführung zurück in Saumur, bevor Sie den Tag in einem der Restaurants am Flussufer ausklingen lassen.",
+        "hu": "Autóval nemcsak Saumurt, hanem a közvetlen környék kincseit is felfedezheti. Az út a monumentális Fontevraud-i apátsághoz vezet, amely Európa egyik legnagyobb kolostoregyüttese.\n\nDélben látogasson el a festői Candes-Saint-Martin faluba, ahol a Vienne folyó a Loire-ba ömlik. A falu feletti kilátópontról nyíló panoráma páratlan.\n\nEzt követően látogassa meg Montsoreau várát, az egyetlen Loire-menti kastélyt, amely közvetlenül a folyómederre épült. A folyó menti autózás folyamatosan új látnivalókat kínál.\n\nA napot egy exkluzív pincelátogatással zárja Saumurban, majd vacsorázzon meg a folyóparti éttermek egyikében.",
+        "ro": "Cu mașina, veți descoperi nu doar Saumur, ci și comorile din împrejurimile imediate. Drumul vă duce la monumentala Abație Fontevraud, unul dintre cele mai mari complexe monahale din Europa.\n\nLa prânz, vizitați satul pitoresc Candes-Saint-Martin, unde râul Vienne se varsă în Loara. Vederea de la punctul panoramic de deasupra satului este de neegalat.\n\nUlterior, vizitați Castelul Montsoreau, singurul castel de pe Loara construit direct pe malul râului. Drumul de-a lungul apei oferă mereu perspective noi.\n\nÎncheiați cu un tur exclusivist al cramelor înapoi în Saumur, înainte de a finaliza ziua la unul dintre restaurantele de pe malul râului.",
+        "en": "By car, you will discover not only Saumur but also the treasures of the immediate surroundings. The drive leads to the monumental Fontevraud Abbey, one of the largest monastic complexes in Europe.\n\nAt midday, visit the picturesque village of Candes-Saint-Martin, where the Vienne river flows into the Loire. The view from the panoramic point above the village is unparalleled.\n\nNext, visit the Castle of Montsoreau, the only Loire chateau built directly on the riverbed. Driving along the river constantly offers new perspectives.\n\nEnd your trip with an exclusive cellar tour back in Saumur before finishing the day at one of the riverside restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Champignons de Paris",
+            "tip": "Besuchen Sie eine Pilzzucht in den Höhlen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gombák",
+            "tip": "Látogasson meg egy gombatenyészetet a barlangokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ciuperci locale",
+            "tip": "Vizitați o crescătorie de ciuperci în peșteri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Mushrooms",
+            "tip": "Visit a mushroom farm inside the caves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Candes-Saint-Martin Panorama",
+            "tip": "Blick auf den Zusammenfluss der Flüsse.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Candes-Saint-Martin kilátó",
+            "tip": "Kilátás a folyók összefolyására.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Candes-Saint-Martin",
+            "tip": "Vedere asupra confluenței râurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Candes-Saint-Martin Panorama",
+            "tip": "View of the confluence of the rivers.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fontevraud Shop",
+            "tip": "Kunsthandwerk und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fontevraud-i bolt",
+            "tip": "Kézműves termékek és helyi áruk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul Fontevraud",
+            "tip": "Artizanat și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fontevraud Shop",
+            "tip": "Crafts and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Parkplätze am Rande der Altstadt.",
+          "Die Straßen entlang der Loire sind sehr malerisch.",
+          "Achten Sie auf die Geschwindigkeitsbegrenzungen in den Dörfern.",
+          "Buchen Sie Kellerführungen im Voraus."
+        ],
+        "hu": [
+          "Használja az óváros szélén található parkolókat.",
+          "A Loire menti utak rendkívül látványosak.",
+          "Figyeljen a sebességkorlátozásokra a falvakban.",
+          "A pincelátogatásokat érdemes előre lefoglalni."
+        ],
+        "ro": [
+          "Folosiți parcările de la marginea centrului vechi.",
+          "Drumurile de-a lungul Loarei sunt foarte pitorești.",
+          "Atenție la limitele de viteză în sate.",
+          "Rezervați tururile de cramă în avans."
+        ],
+        "en": [
+          "Use the parking lots located at the edge of the old town.",
+          "The roads along the Loire are very scenic.",
+          "Watch out for speed limits in the small villages.",
+          "It is best to book cellar tours in advance."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Saumur",
+            "hu": "Saumur vasútállomás",
+            "ro": "Gara Saumur",
+            "en": "Saumur Train Station"
+          },
+          "coords": [
+            -0.0715,
+            47.2685
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Stadtbusse (Oisans).",
+            "hu": "A városi buszok (Oisans) indulási pontja.",
+            "ro": "Punct de plecare pentru autobuzele urbane.",
+            "en": "Starting point for city buses (Oisans)."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Bilange",
+            "hu": "Place de la Bilange",
+            "ro": "Place de la Bilange",
+            "en": "Place de la Bilange"
+          },
+          "coords": [
+            -0.0782,
+            47.2612
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi csomópontja.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all local bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saumur",
+            "hu": "Saumur vára",
+            "ro": "Castelul Saumur",
+            "en": "Château de Saumur"
+          },
+          "coords": [
+            -0.0725,
+            47.2575
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein kleiner Shuttle fährt im Sommer direkt hinauf.",
+            "hu": "Nyáron kisméretű buszjárat visz fel közvetlenül.",
+            "ro": "O navetă mică urcă direct în timpul verii.",
+            "en": "A small shuttle runs directly up the hill in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Hilaire-Saint-Florent",
+            "hu": "Saint-Hilaire-Saint-Florent",
+            "ro": "Saint-Hilaire-Saint-Florent",
+            "en": "Saint-Hilaire-Saint-Florent"
+          },
+          "coords": [
+            -0.1035,
+            47.2588
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Viertel der großen Champagnerhäuser.",
+            "hu": "A nagy pezsgőházak negyede.",
+            "ro": "Cartierul marilor case de spumante.",
+            "en": "The district of the major sparkling wine houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Le Dôme",
+            "hu": "Le Dôme színház",
+            "ro": "Teatrul Le Dôme",
+            "en": "Le Dôme Theater"
+          },
+          "coords": [
+            -0.0788,
+            47.2625
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Moderne Architektur am Loire-Ufer.",
+            "hu": "Modern építészet a Loire partján.",
+            "ro": "Arhitectură modernă pe malul Loarei.",
+            "en": "Modern architecture on the Loire river bank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Saumur lässt sich bequem mit dem lokalen Bussystem 'Oisans' erkunden. Beginnen Sie am Bahnhof und fahren Sie ins Herz der Stadt zum Place de la Bilange.\n\nDer Mittag führt Sie hinauf zum Schloss. Im Sommer erleichtern kleine Shuttles den Aufstieg. Genießen Sie den Ausblick, bevor Sie den Bus in den Stadtteil der Weinkeller nehmen.\n\nNachmittags erkunden Sie die beeindruckenden Keller von Saint-Hilaire, die alle mit dem Bus erreichbar sind. Es ist die entspannteste Art, die lokalen Weine zu probieren.\n\nZurück im Zentrum können Sie das moderne Kulturzentrum am Fluss bewundern, bevor Sie bequem wieder den Zug oder Ihren Ausgangspunkt erreichen.",
+        "hu": "Saumur kényelmesen felfedezhető az 'Oisans' helyi buszhálózattal. Kezdje az utazást a vasútállomásnál, és menjen a város szívébe, a Place de la Bilange-hoz.\n\nDélben látogasson el a várba; nyáron kisméretű buszjáratok segítik a feljutást. Élvezze a kilátást, majd buszozzon el a borpincék negyedébe.\n\nDélután fedezze fel Saint-Hilaire lenyűgöző pincerendszereit, amelyek mind elérhetőek busszal. Ez a legkényelmesebb módja a helyi borok kóstolásának.\n\nA központba visszatérve csodálja meg a folyóparti modern kulturális központot, mielőtt visszatérne a vasútállomásra vagy a kiindulópontjára.",
+        "ro": "Saumur poate fi explorat confortabil cu sistemul local de autobuze 'Oisans'. Începeți de la gară și mergeți în inima orașului, la Place de la Bilange.\n\nLa prânz, urcați la castel; vara, navete mici facilitează accesul. Bucurați-vă de priveliște, apoi luați autobuzul către cartierul cramelor de vin.\n\nDupă-amiaza, explorați cramele impresionante din Saint-Hilaire, toate accesibile cu autobuzul. Este cea mai relaxantă modalitate de a degusta vinurile locale.\n\nReveniți în centru pentru a admira centrul cultural modern de pe malul râului, înainte de a ajunge confortabil înapoi la gară sau la punctul de plecare.",
+        "en": "Saumur can be easily explored using the local 'Oisans' bus network. Start at the train station and head to the heart of the city at Place de la Bilange.\n\nAt midday, visit the castle; in summer, small shuttles make the climb easier. Enjoy the views, then take a bus to the wine cellar district.\n\nIn the afternoon, explore the impressive cellars of Saint-Hilaire, all accessible by bus. It is the most relaxing way to taste local wines without driving.\n\nBack in the center, admire the modern cultural center by the river before comfortably heading back to the train station or your starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crémant Tasting",
+            "tip": "Viele Häuser sind fussläufig von Bushaltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pezsgőkóstolás",
+            "tip": "Sok pincészet sétatávolságra van a buszmegállóktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Degustare de spumante",
+            "tip": "Multe crame sunt la mică distanță de stațiile de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sparkling Wine Tasting",
+            "tip": "Many wine houses are within walking distance of bus stops."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Le Dôme Terrasse",
+            "tip": "Schöner Blick auf die Brücken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Dôme terasz",
+            "tip": "Szép kilátás a hidakra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa Le Dôme",
+            "tip": "Vedere frumoasă asupra podurilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Dôme Terrace",
+            "tip": "Nice view of the bridges.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue d'Orléans",
+            "tip": "Haupteinkaufsstraße im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue d'Orléans",
+            "tip": "A központ fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue d'Orléans",
+            "tip": "Principala stradă comercială din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue d'Orléans",
+            "tip": "Main shopping street in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets direkt beim Fahrer oder per App.",
+          "Die Linien 30 und 33 bedienen die wichtigsten Sehenswürdigkeiten.",
+          "Achten Sie auf die reduzierten Fahrpläne an Sonntagen.",
+          "Die Busse sind im Stadtzentrum meist pünktlich."
+        ],
+        "hu": [
+          "Vásároljon jegyet közvetlenül a vezetőnél vagy applikáción.",
+          "A 30-as és 33-as járatok érintik a főbb látnivalókat.",
+          "Figyeljen a vasárnapi ritkított menetrendre.",
+          "A buszok a belvárosban általában pontosak."
+        ],
+        "ro": [
+          "Cumpărați bilete direct de la șofer sau prin aplicație.",
+          "Liniile 30 și 33 deservesc principalele atracții.",
+          "Atenție la orarul redus din zilele de duminică.",
+          "Autobuzele sunt de obicei punctuale în centrul orașului."
+        ],
+        "en": [
+          "Buy tickets directly from the driver or via the app.",
+          "Lines 30 and 33 serve the most important sights.",
+          "Be aware of reduced schedules on Sundays.",
+          "Buses in the city center are generally punctual."
+        ]
+      }
+    }
+  }
+}

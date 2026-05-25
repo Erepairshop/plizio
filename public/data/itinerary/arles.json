@@ -1,0 +1,1019 @@
+{
+  "city_id": "arles",
+  "anchor": {
+    "name": "Arles Amphitheatre",
+    "coords": [
+      4.631,
+      43.6776
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater von Arles",
+            "hu": "Arles-i amfiteátrum",
+            "ro": "Amfiteatrul din Arles",
+            "en": "Arles Amphitheatre"
+          },
+          "coords": [
+            4.631,
+            43.6776
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie in die obersten Ränge für den besten Blick auf die Stadt.",
+            "hu": "Menj fel a legfelső szintekre a legjobb városi kilátásért.",
+            "ro": "Urcați la nivelurile superioare pentru cea mai bună vedere asupra orașului.",
+            "en": "Go to the top tiers for the best view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Antik Színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theatre"
+          },
+          "coords": [
+            4.6305,
+            43.6765
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die 'Zwei Grazien', die markanten Marmorsäulen.",
+            "hu": "Keresd a 'Két Gráciát', a megmaradt márványoszlopokat.",
+            "ro": "Căutați 'Cele două Grații', coloanele de marmură rămase.",
+            "en": "Look for the 'Two Graces', the remaining marble columns."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la République & Saint-Trophime",
+            "hu": "Place de la République és Szent Trophime-templom",
+            "ro": "Place de la République și Biserica Saint-Trophime",
+            "en": "Place de la République & Saint-Trophime"
+          },
+          "coords": [
+            4.6275,
+            43.676
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das romanische Portal mit biblischen Szenen.",
+            "hu": "Csodáld meg a román stílusú kaput a bibliai jelenetekkel.",
+            "ro": "Admirați portalul romanic cu scene biblice.",
+            "en": "Admire the Romanesque portal with biblical scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Van Gogh",
+            "hu": "Espace Van Gogh",
+            "ro": "Espace Van Gogh",
+            "en": "Espace Van Gogh"
+          },
+          "coords": [
+            4.6265,
+            43.6755
+          ],
+          "category": "museum",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 120,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Garten ist exakt so bepflanzt, wie Van Gogh ihn malte.",
+            "hu": "A kertet pontosan úgy ültették be, ahogy Van Gogh megfestette.",
+            "ro": "Grădina este plantată exact așa cum a pictat-o Van Gogh.",
+            "en": "The garden is planted exactly as Van Gogh painted it."
+          }
+        },
+        {
+          "name": {
+            "de": "Luma Arles & Der Turm",
+            "hu": "Luma Arles és a Frank Gehry torony",
+            "ro": "Luma Arles și Turnul Frank Gehry",
+            "en": "Luma Arles & The Tower"
+          },
+          "coords": [
+            4.634,
+            43.671
+          ],
+          "category": "museum",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die Edelstahlpaneele reflektieren das Licht der Provence.",
+            "hu": "A rozsdamentes acélpanelek visszaverik Provence fényeit.",
+            "ro": "Panourile din oțel inoxidabil reflectă lumina Provencei.",
+            "en": "The stainless steel panels reflect the light of Provence."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhone-Ufer Promenade",
+            "hu": "Rhône-parti sétány",
+            "ro": "Promenada de pe malul Ronului",
+            "en": "Rhône Riverbank Promenade"
+          },
+          "coords": [
+            4.624,
+            43.679
+          ],
+          "category": "sunset",
+          "arrive_at": "17:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für den Sonnenuntergang über dem Fluss.",
+            "hu": "Tökéletes hely a folyó feletti naplementéhez.",
+            "ro": "Perfect pentru apusul soarelui peste râu.",
+            "en": "Perfect for sunset over the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der gewaltigen römischen Arena, dem am besten erhaltenen Monument der Stadt. Danach erkunden Sie das nahe gelegene antike Theater, wo einst tausende Bürger Arles' Kultur genossen. Mittags erwartet Sie die Place de la République mit der prächtigen Kathedrale Saint-Trophime.\n\nNach einer Pause im Schatten der Platanen besuchen Sie den Espace Van Gogh, das ehemalige Krankenhaus, in dem der Maler behandelt wurde. Spüren Sie die Inspiration in dem farbenfrohen Innenhof.\n\nDer Nachmittag steht im Zeichen der Moderne: Der futuristische Luma-Turm von Frank Gehry bildet einen spektakulären Kontrast zur antiken Stadtmauer. Erfahren Sie hier mehr über zeitgenössische Kunst.\n\nBeenden Sie den Tag mit einem Spaziergang entlang der Rhone. Wenn die Sonne tief steht und das Wasser golden glänzt, verstehen Sie, warum Van Gogh diese Stadt so liebte. Ein Glas Rosé am Ufer rundet das Erlebnis ab.",
+        "hu": "Kezdje a reggelt a hatalmas római amfiteátrumban, amely a város legépebben maradt műemléke. Ezután fedezze fel a közeli antik színházat, ahol egykor Arles polgárai szórakoztak. Délben a Place de la République és a Szent Trophime-templom díszes kapuja várja.\n\nEgy platánok alatti pihenő után látogasson el az Espace Van Gogh-ba, az egykori kórházba, ahol a festőt kezelték. A színes virágokkal teli udvar ma is pontosan úgy fest, mint Van Gogh híres festményén.\n\nDélután a modern művészeté a főszerep: a Frank Gehry által tervezett Luma-torony futurisztikus acéllemezei látványos kontrasztot alkotnak az ókori romokkal. Itt a legfrissebb kortárs tárlatokat tekintheti meg.\n\nZárja a napot egy sétával a Rhône partján. Ahogy a nap alacsonyan jár és aranyba vonja a folyót, megértheti, miért ragadta meg ez a fény Van Goghot. Egy pohár provence-i rozé a parton tökéletes befejezés.",
+        "ro": "Începeți dimineața în uriașa arenă romană, cel mai bine conservat monument al orașului. Apoi explorați teatrul antic din apropiere, unde odinioară mii de cetățeni se bucurau de cultură. La prânz, Place de la République vă așteaptă cu superba catedrală Saint-Trophime.\n\nDupă o pauză la umbra platanilor, vizitați Espace Van Gogh, fostul spital în care a fost tratat pictorul. Simțiți inspirația în curtea interioară plină de culori, restaurată conform tablourilor sale.\n\nDupă-amiaza este dedicată modernității: turnul futurist Luma, proiectat de Frank Gehry, oferă un contrast spectaculos cu zidurile antice. Descoperiți aici expoziții de artă contemporană de nivel mondial.\n\nÎncheiați ziua cu o plimbare pe malul Ronului. Când soarele coboară și apa strălucește auriu, veți înțelege de ce Van Gogh a iubit atât de mult acest oraș. Un pahar de rosé pe malul râului completează experiența.",
+        "en": "Start your morning at the massive Roman Amphitheatre, the city's best-preserved monument. Then explore the nearby Ancient Theatre, where Arles' citizens once gathered for entertainment. Midday brings you to Place de la République with the magnificent Saint-Trophime Church.\n\nAfter a break under the plane trees, visit Espace Van Gogh, the former hospital where the painter was treated. Feel the inspiration in the colorful courtyard, replanted to match his famous paintings.\n\nThe afternoon focuses on modernity: Frank Gehry's futuristic Luma Tower creates a spectacular contrast with the ancient city walls. Explore world-class contemporary art installations here.\n\nEnd the day with a stroll along the Rhône. As the sun sets and the water glows gold, you will understand why Van Gogh was so captivated by this light. A glass of Provençal rosé by the river is the perfect finish."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Traditionelles Schmorgericht vom Camargue-Stier mit Rotwein."
+          },
+          {
+            "name": "Le Galoubet",
+            "tip": "Beliebtes Bistro mit schattiger Terrasse und regionaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Hagyományos vörösboros bikapörkölt Camargue-i fekete rizzsel."
+          },
+          {
+            "name": "Le Galoubet",
+            "tip": "Népszerű bisztró árnyas terasszal és helyi alapanyagokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Tocană tradițională de taur din Camargue cu vin roșu."
+          },
+          {
+            "name": "Le Galoubet",
+            "tip": "Bistro popular cu terasă umbrită și bucătărie regională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardiane de Taureau",
+            "tip": "Traditional bull stew from Camargue cooked in red wine."
+          },
+          {
+            "name": "Le Galoubet",
+            "tip": "Popular bistro with a shaded terrace and local seasonal food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alyscamps",
+            "tip": "Antike Nekropole mit einer ruhigen Allee aus Steinsarkophagen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de la Roquette",
+            "tip": "Ruhigerer Teil des Flussufers abseits der Massen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alyscamps",
+            "tip": "Ókori nekropolisz csendes sétánnyal és kőszarkofágokkal.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de la Roquette",
+            "tip": "Csendesebb folyóparti rész távol a tömegtől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Alyscamps",
+            "tip": "Necropolă antică cu o alee liniștită de sarcofage din piatră.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de la Roquette",
+            "tip": "Parte liniștită a malului râului, departe de aglomerație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Alyscamps",
+            "tip": "Ancient Roman necropolis with a quiet alley of stone sarcophagi.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de la Roquette",
+            "tip": "Quieter part of the riverbank away from the main crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Samstagsmarkt",
+            "tip": "Einer der größten und schönsten Märkte der Provence (Boulevard des Lices)."
+          },
+          {
+            "name": "Moustier",
+            "tip": "Exklusive provenzalische Stoffe und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szombati piac",
+            "tip": "Provence egyik legnagyobb és legszebb piaca a Boulevard des Lices-en."
+          },
+          {
+            "name": "Moustier",
+            "tip": "Exkluzív provence-i szövetek és textiltermékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de sâmbătă",
+            "tip": "Una dintre cele mai mari și frumoase piețe din Provence pe Boulevard des Lices."
+          },
+          {
+            "name": "Moustier",
+            "tip": "Țesături și textile provensale exclusive."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saturday Market",
+            "tip": "One of the largest and most beautiful markets in Provence on Boulevard des Lices."
+          },
+          {
+            "name": "Moustier",
+            "tip": "Exclusive Provençal fabrics and textile products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie den Pass Monument, wenn Sie mehrere römische Stätten besuchen möchten.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Mittagessen gibt es meist zwischen 12:00 und 14:00 Uhr, reservieren Sie vorab.",
+          "Die Hitze im Sommer kann intensiv sein, nutzen Sie die frühen Morgenstunden."
+        ],
+        "hu": [
+          "Vegyél Monument bérletet, ha több római kori helyszínt is meg akarsz nézni.",
+          "Viselj kényelmes cipőt az óváros macskaköves utcái miatt.",
+          "Az ebédidő szigorúan 12:00 és 14:00 között van, érdemes asztalt foglalni.",
+          "A nyári hőség erős lehet, használd ki a kora reggeli órákat."
+        ],
+        "ro": [
+          "Cumpărați Pass Monument dacă intenționați să vizitați mai multe situri romane.",
+          "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+          "Prânzul este servit de obicei între 12:00 și 14:00, rezervați din timp.",
+          "Căldura de vară poate fi intensă, profitați de orele dimineții."
+        ],
+        "en": [
+          "Purchase the Pass Monument if you plan to visit multiple Roman sites.",
+          "Wear comfortable shoes for the cobblestone streets of the old town.",
+          "Lunch is usually served between 12:00 and 14:00, booking is recommended.",
+          "Summer heat can be intense, so make the most of the early morning hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alyscamps",
+            "hu": "Alyscamps",
+            "ro": "Alyscamps",
+            "en": "Alyscamps"
+          },
+          "coords": [
+            4.636,
+            43.673
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der schattigen Allee.",
+            "hu": "Tekerj végig az árnyas fasoron.",
+            "ro": "Pedalați de-a lungul aleii umbrite.",
+            "en": "Cycle along the shaded avenue."
+          }
+        },
+        {
+          "name": {
+            "de": "Luma Arles",
+            "hu": "Luma Arles",
+            "ro": "Luma Arles",
+            "en": "Luma Arles"
+          },
+          "coords": [
+            4.634,
+            43.671
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Es gibt viele Fahrradabstellplätze am Eingang.",
+            "hu": "Sok kerékpártároló van a bejáratnál.",
+            "ro": "Există multe rastele pentru biciclete la intrare.",
+            "en": "There are many bike racks at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'Arles Antique",
+            "hu": "Arles-i Antik Múzeum",
+            "ro": "Muzeul Arles Antic",
+            "en": "Arles Antique Museum"
+          },
+          "coords": [
+            4.616,
+            43.674
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Sehen Sie das römische Lastkahn-Wrack.",
+            "hu": "Nézd meg a római kori folyami hajó roncsait.",
+            "ro": "Vedeți epava barjei romane.",
+            "en": "See the Roman river barge wreck."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Van Gogh (Langlois-Brücke)",
+            "hu": "Van Gogh-híd (Langlois-híd)",
+            "ro": "Podul Van Gogh",
+            "en": "Van Gogh Bridge"
+          },
+          "coords": [
+            4.621,
+            43.657
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Rekonstruktion der Brücke aus Van Goghs Gemälden.",
+            "hu": "Van Gogh festményeiről ismert híd rekonstrukciója.",
+            "ro": "Reconstrucția podului din picturile lui Van Gogh.",
+            "en": "Reconstruction of the bridge from Van Gogh's paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhone-Damm Radweg",
+            "hu": "Rhône-gát kerékpárút",
+            "ro": "Pista de biciclete de pe digul Ronului",
+            "en": "Rhône Dam Cycle Path"
+          },
+          "coords": [
+            4.623,
+            43.682
+          ],
+          "category": "park",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Flacher Weg mit Blick auf den Fluss und die Stadt.",
+            "hu": "Sík útvonal kilátással a folyóra és a városra.",
+            "ro": "Traseu plat cu vedere la râu și la oraș.",
+            "en": "Flat path with views of the river and the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Arles lässt sich wunderbar mit dem Fahrrad erkunden. Starten Sie bei Alyscamps und radeln Sie dann zum modernen Luma-Gelände. Folgen Sie dem Kanal zum berühmten Pont Van Gogh außerhalb des Zentrums.\n\nNach einem kulturellen Stopp im Musée de l'Arles Antique genießen Sie die Fahrt entlang der Rhone-Dämme. Die flache Landschaft der Camargue beginnt direkt vor den Toren der Stadt.",
+        "hu": "Arles remekül felfedezhető két keréken. Kezdjen az Alyscamps-nál, majd tekerjen a modern Luma negyedbe. Kövesse a csatorna partját a városon kívüli híres Van Gogh-hídhoz.\n\nAz Antik Múzeum megtekintése után élvezze a tekerést a Rhône gátján. A Camargue sík vidéke közvetlenül a város kapui előtt kezdődik.",
+        "ro": "Arles poate fi explorat minunat cu bicicleta. Începeți la Alyscamps, apoi pedalați spre zona modernă Luma. Urmați canalul până la faimosul pod Van Gogh din afara centrului.\n\nDupă o oprire culturală la Muzeul Arles Antic, bucurați-vă de plimbarea pe digurile Ronului. Peisajul plat al Camargue începe chiar la porțile orașului.",
+        "en": "Arles is wonderful to explore by bike. Start at Alyscamps and then cycle to the modern Luma site. Follow the canal to the famous Van Gogh Bridge outside the center.\n\nAfter a cultural stop at the Arles Antique Museum, enjoy the ride along the Rhône dams. The flat Camargue landscape begins right outside the city gates."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Camargue-Reis",
+            "tip": "Probieren Sie den geschützten roten Reis der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Camargue-i rizs",
+            "tip": "Kóstolja meg a régió védett vörös rizsét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Orez de Camargue",
+            "tip": "Gustați orezul roșu protejat al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Camargue Rice",
+            "tip": "Try the protected red rice of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kanal von Arles nach Bouc",
+            "tip": "Ruhiger Radweg am Wasser.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arles-Bouc csatorna",
+            "tip": "Csendes kerékpárút a víz mellett.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Arles-Bouc",
+            "tip": "Pistă de biciclete liniștită lângă apă.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal d'Arles à Bouc",
+            "tip": "Quiet cycle path along the water.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl aus den Alpilles",
+            "tip": "Direkt vom Erzeuger in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpilles-i olívaolaj",
+            "tip": "Közvetlenül a közeli termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline din Alpilles",
+            "tip": "Direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpilles Olive Oil",
+            "tip": "Direct from local producers nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Via Rhona' Beschilderung.",
+          "Achten Sie auf den Mistral-Wind, der das Treten erschweren kann."
+        ],
+        "hu": [
+          "Kövesse a 'Via Rhona' jelzéseket.",
+          "Vigyázzon a misztrál széllel, ami megnehezítheti a tekerést."
+        ],
+        "ro": [
+          "Urmați semnalizarea 'Via Rhona'.",
+          "Atenție la vântul Mistral, care poate îngreuna pedalarea."
+        ],
+        "en": [
+          "Follow the 'Via Rhona' signs.",
+          "Watch out for the Mistral wind, which can make pedaling difficult."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater (Zentrum)",
+            "hu": "Amfiteátrum (központ)",
+            "ro": "Amfiteatru (centru)",
+            "en": "Amphitheatre (center)"
+          },
+          "coords": [
+            4.631,
+            43.6776
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Centre.",
+            "hu": "Parkoljon a Centre parkolóházban.",
+            "ro": "Parcați în parcarea etajată Centre.",
+            "en": "Park in the Centre parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Luma Arles",
+            "hu": "Luma Arles",
+            "ro": "Luma Arles",
+            "en": "Luma Arles"
+          },
+          "coords": [
+            4.634,
+            43.671
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ausstellungen im Parc des Ateliers.",
+            "hu": "Nézze meg a kiállításokat a Parc des Ateliers-ben.",
+            "ro": "Vizitați expozițiile din Parc des Ateliers.",
+            "en": "Visit the exhibitions in the Parc des Ateliers."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye de Montmajour",
+            "hu": "Montmajour-apátság",
+            "ro": "Abația Montmajour",
+            "en": "Montmajour Abbey"
+          },
+          "coords": [
+            4.664,
+            43.689
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Mittelalterliche Abtei auf einem Felsen über dem Sumpf.",
+            "hu": "Középkori apátság egy sziklán a mocsár felett.",
+            "ro": "Abație medievală pe o stâncă deasupra mlaștinii.",
+            "en": "Medieval abbey on a rock above the marshes."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'Arles Antique",
+            "hu": "Arles-i Antik Múzeum",
+            "ro": "Muzeul Arles Antic",
+            "en": "Arles Antique Museum"
+          },
+          "coords": [
+            4.616,
+            43.674
+          ],
+          "category": "museum",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz direkt davor.",
+            "hu": "Nagy ingyenes parkoló közvetlenül előtte.",
+            "ro": "Parcare mare gratuită chiar în față.",
+            "en": "Large free parking lot right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Alyscamps",
+            "hu": "Alyscamps",
+            "ro": "Alyscamps",
+            "en": "Alyscamps"
+          },
+          "coords": [
+            4.636,
+            43.673
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spaziergang durch die antike Totenstadt.",
+            "hu": "Séta az ókori holtak városában.",
+            "ro": "Plimbare prin orașul antic al morților.",
+            "en": "Stroll through the ancient city of the dead."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die Schätze knapp außerhalb von Arles. Nach der Arena im Zentrum fahren Sie zur beeindruckenden Abbaye de Montmajour. Der Tag endet im Antik-Museum mit seinen wertvollen römischen Funden.",
+        "hu": "Autóval az Arles közvetlen közelében lévő kincseket is elérheti. A központi amfiteátrum után látogasson el a lenyűgöző Montmajour-apátsághoz. A napot az Antik Múzeum értékes római leletei zárják.",
+        "ro": "Cu mașina puteți ajunge și la comorile aflate chiar în afara orașului Arles. După arena din centru, conduceți către impresionanta Abație Montmajour. Ziua se încheie la Muzeul Antic cu valoroasele sale descoperiri romane.",
+        "en": "By car, you can also reach the treasures just outside Arles. After visiting the arena in the center, drive to the impressive Montmajour Abbey. The day ends at the Antique Museum with its precious Roman finds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Saucisson d'Arles",
+            "tip": "Würzige Esel- oder Rindersalami."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arles-i kolbász",
+            "tip": "Fűszeres szalámi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salam de Arles",
+            "tip": "Specialitate de salam picant."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saucisson d'Arles",
+            "tip": "Spicy local sausage specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Montmajour",
+            "tip": "Blick über die Reisfelder.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Montmajour-domb",
+            "tip": "Kilátás a rizsföldekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Montmajour",
+            "tip": "Vedere peste câmpurile de orez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Montmajour Hill",
+            "tip": "View over the rice fields.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Occitane en Provence",
+            "tip": "Hochwertige Kosmetik aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Occitane en Provence",
+            "tip": "Kiváló minőségű helyi kozmetikumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Occitane en Provence",
+            "tip": "Cosmetice de înaltă calitate din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Occitane en Provence",
+            "tip": "High-quality regional cosmetics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie das Zentrum mit dem Auto, nutzen Sie P+R.",
+          "Parkplatzsuche während des Marktes am Samstag ist fast unmöglich."
+        ],
+        "hu": [
+          "Kerülje el a belvárost autóval, használja a P+R parkolókat.",
+          "A szombati piac ideje alatt szinte lehetetlen parkolót találni."
+        ],
+        "ro": [
+          "Evitați centrul cu mașina, folosiți parcările P+R.",
+          "Găsirea unui loc de parcare în timpul pieței de sâmbătă este aproape imposibilă."
+        ],
+        "en": [
+          "Avoid the center by car, use P+R parking instead.",
+          "Finding parking during the Saturday market is nearly impossible."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Arles",
+            "hu": "Arles vasútállomás",
+            "ro": "Gara Arles",
+            "en": "Arles Train Station"
+          },
+          "coords": [
+            4.63,
+            43.684
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die Stadtbusse.",
+            "hu": "A helyi buszok indulási pontja.",
+            "ro": "Punct de plecare pentru autobuzele locale.",
+            "en": "Starting point for city buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Arles Amphitheater",
+            "hu": "Arles-i amfiteátrum",
+            "ro": "Amfiteatrul din Arles",
+            "en": "Arles Amphitheatre"
+          },
+          "coords": [
+            4.631,
+            43.6776
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle 'Navia A'.",
+            "hu": "Használja a 'Navia A' ingajáratot.",
+            "ro": "Folosiți naveta 'Navia A'.",
+            "en": "Use the 'Navia A' shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Luma Arles",
+            "hu": "Luma Arles",
+            "ro": "Luma Arles",
+            "en": "Luma Arles"
+          },
+          "coords": [
+            4.634,
+            43.671
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Haltestelle 'Luma' direkt am Gelände.",
+            "hu": "A 'Luma' megálló közvetlenül a bejáratnál van.",
+            "ro": "Stația 'Luma' chiar lângă incintă.",
+            "en": "The 'Luma' stop is right by the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'Arles Antique",
+            "hu": "Arles-i Antik Múzeum",
+            "ro": "Muzeul Arles Antic",
+            "en": "Arles Antique Museum"
+          },
+          "coords": [
+            4.616,
+            43.674
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Buslinie 4 verbindet das Museum mit dem Zentrum.",
+            "hu": "A 4-es busz köti össze a múzeumot a központtal.",
+            "ro": "Linia 4 de autobuz leagă muzeul de centru.",
+            "en": "Bus line 4 connects the museum with the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Place de la République",
+            "ro": "Place de la République",
+            "en": "Place de la République"
+          },
+          "coords": [
+            4.6275,
+            43.676
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Platz, viele Busse halten in der Nähe.",
+            "hu": "Központi tér, sok busz megáll a közelben.",
+            "ro": "Piață centrală, multe autobuze opresc în apropiere.",
+            "en": "Central square, many buses stop nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Bussystem von Arles, Envia, verbindet die wichtigsten Sehenswürdigkeiten bequem. Starten Sie am Bahnhof und nutzen Sie die kleinen Elektroshuttles für das enge Zentrum. Besuchen Sie das Antik-Museum und Luma bequem ohne Parkplatzsorgen.",
+        "hu": "Az Arles-i buszhálózat (Envia) kényelmesen összeköti a főbb látnivalókat. Kezdjen a vasútállomáson, és használja a kis elektromos buszokat a szűk belvárosban. Látogasson el az Antik Múzeumba és a Lumához parkolási gondok nélkül.",
+        "ro": "Sistemul de autobuze din Arles, Envia, conectează confortabil principalele obiective. Începeți de la gară și folosiți micile navete electrice pentru centrul îngust. Vizitați Muzeul Antic și Luma fără grija parcării.",
+        "en": "Arles' bus system, Envia, conveniently connects the major sights. Start at the train station and use the small electric shuttles for the narrow center. Visit the Antique Museum and Luma comfortably without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fougasse d'Arles",
+            "tip": "Traditionelles Brot mit Oliven oder Speck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arles-i Fougasse",
+            "tip": "Hagyományos kenyér olajbogyóval vagy szalonnával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fougasse de Arles",
+            "tip": "Pâine tradițională cu măsline sau slănină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fougasse d'Arles",
+            "tip": "Traditional bread with olives or bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin d'été",
+            "tip": "Öffentlicher Garten nahe dem Theater.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin d'été",
+            "tip": "Nyilvános kert a színház közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin d'été",
+            "tip": "Grădină publică lângă teatru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin d'été",
+            "tip": "Public garden near the theatre.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Soulier",
+            "tip": "Beste Bäckerei für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Soulier",
+            "tip": "A legjobb pékség a helyi finomságokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Soulier",
+            "tip": "Cea mai bună brutărie pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Soulier",
+            "tip": "Best bakery for local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Envia-App für Echtzeit-Fahrpläne.",
+          "Kaufen Sie Zehnerkarten für günstigere Fahrten."
+        ],
+        "hu": [
+          "Töltse le az Envia alkalmazást a valós idejű menetrendhez.",
+          "Vegyen 10-es gyűjtőjegyet a kedvezőbb árért."
+        ],
+        "ro": [
+          "Descărcați aplicația Envia pentru orare în timp real.",
+          "Cumpărați bilete cu 10 călătorii pentru prețuri mai bune."
+        ],
+        "en": [
+          "Download the Envia app for real-time schedules.",
+          "Buy 10-ride tickets for better value."
+        ]
+      }
+    }
+  }
+}

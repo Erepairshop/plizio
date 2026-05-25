@@ -1,0 +1,1076 @@
+{
+  "city_id": "gordes",
+  "anchor": {
+    "name": "Gordes",
+    "coords": [
+      5.2002,
+      43.9111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Point de vue de Gordes",
+          "coords": [
+            5.2035,
+            43.9085
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der beste Ort für das klassische Panoramafoto des Dorfes vor dem Frühstück.",
+            "hu": "A legjobb hely a klasszikus panorámafotóhoz a falu előtt, még reggeli előtt.",
+            "ro": "Cel mai bun loc pentru fotografia panoramică clasică a satului înainte de micul dejun.",
+            "en": "The best spot for the classic panoramic photo of the village before breakfast."
+          }
+        },
+        {
+          "name": "Place Genty Pantaly",
+          "coords": [
+            5.2005,
+            43.9112
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Trinken Sie einen Espresso in einem der Cafés und beobachten Sie das Treiben.",
+            "hu": "Igyon meg egy eszpresszót az egyik kávézóban, és figyelje a falusi életet.",
+            "ro": "Beți un espresso la una dintre cafenele și observați forfota satului.",
+            "en": "Have an espresso at one of the cafes and watch the village life go by."
+          }
+        },
+        {
+          "name": "Château de Gordes",
+          "coords": [
+            5.2008,
+            43.9115
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Bewundern Sie den monumentalen Renaissance-Kamin im Inneren des Schlosses.",
+            "hu": "Csodálja meg a monumentális reneszánsz kandallót a vár belsejében.",
+            "ro": "Admirați șemineul monumental renascentist din interiorul castelului.",
+            "en": "Admire the monumental Renaissance fireplace inside the castle."
+          }
+        },
+        {
+          "name": "Caves du Palais Saint-Firmin",
+          "coords": [
+            5.1998,
+            43.911
+          ],
+          "category": "natural features",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Diese unterirdischen Keller bieten auch an heißen Sommertagen eine angenehme Kühle.",
+            "hu": "Ezek a földalatti pincék még a forró nyári napokon is kellemes hűvöset biztosítanak.",
+            "ro": "Aceste pivnițe subterane oferă o răcoare plăcută chiar și în zilele toride de vară.",
+            "en": "These underground cellars offer a pleasant coolness even on hot summer days."
+          }
+        },
+        {
+          "name": "Église Saint-Firmin",
+          "coords": [
+            5.1992,
+            43.9108
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Besuchen Sie die farbenfrohen Kapellen, die dem Schutzpatron des Dorfes gewidmet sind.",
+            "hu": "Látogassa meg a falu védőszentjének szentelt színes kápolnákat.",
+            "ro": "Vizitați capelele colorate dedicate sfântului patron al satului.",
+            "en": "Visit the colorful chapels dedicated to the patron saint of the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen Sie am berühmten Aussichtspunkt, um Gordes in seiner ganzen Pracht zu sehen. Der Vormittag gehört dem historischen Zentrum mit dem imposanten Schloss und dem lebhaften Hauptplatz. Mittags steigen Sie in die geheimnisvollen unterirdischen Keller hinab, um die industrielle Vergangenheit zu entdecken. Nachmittags bietet die Kirche Saint-Firmin einen Moment der Stille. Abends lassen Sie den Tag bei einem Glas lokalem Rosé auf der Piazza ausklingen.",
+        "hu": "Kezdje a reggelt a híres kilátópontnál, hogy teljes pompájában láthassa Gordest. A délelőtt a történelmi központé, az impozáns várral és a nyüzsgő főtérrel. Délben ereszkedjen le a titokzatos földalatti pincékbe, hogy felfedezze a falu ipari múltját. Délután a Saint-Firmin templom kínál egy pillanatnyi csendet. Este zárja a napot egy pohár helyi rozéval a főtéren, élvezve a provence-i hangulatot.",
+        "ro": "Începeți dimineața la celebrul punct de belvedere pentru a vedea Gordes în toată splendoarea sa. Dimineața aparține centrului istoric, cu castelul impunător și piața principală plină de viață. La prânz, coborâți în pivnițele subterane misterioase pentru a descoperi trecutul industrial. După-amiaza, biserica Saint-Firmin oferă un moment de liniște. Seara, încheiați ziua cu un pahar de rosé local în piață.",
+        "en": "Start your morning at the famous viewpoint to see Gordes in all its hilltop glory. Mid-morning is dedicated to the historic center, featuring the imposing castle and the lively main square. At noon, descend into the mysterious underground cellars to discover the village's industrial past. In the afternoon, Saint-Firmin church offers a moment of quiet. Finish your evening with a glass of local rosé on the square, soaking in the Provencal atmosphere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trüffel-Omelett",
+            "tip": "Probieren Sie diese lokale Spezialität im Restaurant L'Artegal."
+          },
+          {
+            "name": "Luberon Weine",
+            "tip": "Besuchen Sie die Cave de Gordes für eine Verkostung regionaler Rosés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgombás omlett",
+            "tip": "Kóstolja meg ezt a helyi különlegességet a L'Artegal étteremben."
+          },
+          {
+            "name": "Luberon borok",
+            "tip": "Látogasson el a Cave de Gordes-ba egy helyi rozé kóstolóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Omletă cu trufe",
+            "tip": "Încercați această specialitate locală la restaurantul L'Artegal."
+          },
+          {
+            "name": "Vinuri de Luberon",
+            "tip": "Vizitați Cave de Gordes pentru o degustare de vinuri rosé regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Omelette",
+            "tip": "Try this local specialty at the L'Artegal restaurant."
+          },
+          {
+            "name": "Luberon Wines",
+            "tip": "Visit the Cave de Gordes for a tasting of regional rosé wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvédère de Gordes",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hintergassen",
+            "tip": "Die Calades (Steinpflasterwege) hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvédère de Gordes",
+            "tip": "Tökéletes hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Hátsó utcák",
+            "tip": "A templom mögötti csendes, köves sikátorok.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvédère de Gordes",
+            "tip": "Perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ulițele lăturalnice",
+            "tip": "Drumurile pietruite (calades) din spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvédère de Gordes",
+            "tip": "Perfect for watching the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Back alleys",
+            "tip": "The quiet stone-paved paths (calades) behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dienstagsmarkt",
+            "tip": "Lokale Produkte wie Olivenöl und Lavendelhonig."
+          },
+          {
+            "name": "Töpferei",
+            "tip": "Handgefertigte Keramik in den kleinen Ateliers des Dorfes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Keddi piac",
+            "tip": "Helyi termékek, mint az olívaolaj és a levendulaméz."
+          },
+          {
+            "name": "Fazekasműhelyek",
+            "tip": "Kézzel készített kerámiák a falu kis műhelyeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de marți",
+            "tip": "Produse locale, cum ar fi uleiul de măsline și mierea de lavandă."
+          },
+          {
+            "name": "Ceramică",
+            "tip": "Ceramică lucrată manual în micile ateliere din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuesday Market",
+            "tip": "Local products like olive oil and lavender honey."
+          },
+          {
+            "name": "Pottery",
+            "tip": "Handmade ceramics in the small workshops of the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen sehr steil und steinig sind.",
+          "Besuchen Sie das Dorf früh am Morgen, um den Touristenmassen zu entgehen.",
+          "Der Dienstagsmarkt ist sehr beliebt, parken Sie also rechtzeitig.",
+          "Vergessen Sie Ihre Kamera nicht für den Panoramablick."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az utcák meredekek és kövesek.",
+          "Érkezzen korán reggel, hogy elkerülje a turistaáradatot.",
+          "A keddi piac nagyon népszerű, parkoljon le időben.",
+          "Ne felejtse otthon a fényképezőgépét a panoráma miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece străzile sunt abrupte și pietruite.",
+          "Vizitați satul dimineața devreme pentru a evita aglomerația.",
+          "Piața de marți este foarte populară, deci parcați din timp.",
+          "Nu vă uitați aparatul foto pentru priveliștile panoramice."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and made of stone.",
+          "Visit the village early in the morning to avoid the tourist crowds.",
+          "The Tuesday market is very popular, so find parking early.",
+          "Don't forget your camera for the panoramic views."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Point de vue de Gordes",
+          "coords": [
+            5.2035,
+            43.9085
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Kurzer Stopp vor dem Anstieg in das Dorfzentrum.",
+            "hu": "Rövid megálló a falu központjába való emelkedő előtt.",
+            "ro": "Scurtă oprire înainte de urcarea spre centrul satului.",
+            "en": "Short stop before the climb into the village center."
+          }
+        },
+        {
+          "name": "Village des Bories",
+          "coords": [
+            5.1805,
+            43.9082
+          ],
+          "category": "museums",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Entdecken Sie die alten Trockensteinhütten, ein Wunder der Architektur.",
+            "hu": "Fedezze fel a régi szárazon rakott kőkunyhókat, az építészet csodáját.",
+            "ro": "Descoperiți vechile colibe din piatră uscată, o minune a arhitecturii.",
+            "en": "Discover the old dry-stone huts, a marvel of rural architecture."
+          }
+        },
+        {
+          "name": "Abbaye Notre-Dame de Sénanque",
+          "coords": [
+            5.189,
+            43.9315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Besonders schön im Juni/Juli, wenn der Lavendel blüht.",
+            "hu": "Különösen szép júniusban és júliusban, amikor virágzik a levendula.",
+            "ro": "Deosebit de frumos în iunie/iulie, când înflorește lavanda.",
+            "en": "Particularly beautiful in June/July when the lavender is in bloom."
+          }
+        },
+        {
+          "name": "Place Genty Pantaly",
+          "coords": [
+            5.2005,
+            43.9112
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "13:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Verdiente Pause nach dem steilen Anstieg zurück ins Dorf.",
+            "hu": "Megérdemelt pihenő a faluba való meredek visszakapaszkodás után.",
+            "ro": "Pauză binemeritată după urcarea abruptă înapoi în sat.",
+            "en": "Deserved break after the steep climb back into the village."
+          }
+        },
+        {
+          "name": "Château de Gordes",
+          "coords": [
+            5.2008,
+            43.9115
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher vor dem Schloss ab.",
+            "hu": "Zárja le biztonságosan a kerékpárját a vár előtt.",
+            "ro": "Încuiați bicicleta în siguranță în fața castelului.",
+            "en": "Lock your bike securely in front of the castle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine sportliche Tour rund um Gordes. Starten Sie mit dem Panoramablick und radeln Sie dann zum einzigartigen Village des Bories. Die Route führt weiter durch malerische Straßen zur berühmten Abtei Sénanque. Nach dem Rückweg ins Dorfzentrum entspannen Sie am Hauptplatz und besichtigen das Schloss. Die hügelige Landschaft des Luberon bietet fantastische Ausblicke, erfordert aber eine gute Kondition.",
+        "hu": "Sportos túra Gordes körül. Kezdje a panorámával, majd tekerjen el az egyedülálló Village des Bories-hoz. Az útvonal festői utakon vezet tovább a híres Sénanque apátsághoz. A faluközpontba való visszatérés után pihenjen a főtéren és nézze meg a várat. A Luberon dombos vidéke fantasztikus kilátást nyújt, de jó kondíciót igényel.",
+        "ro": "Un tur sportiv în jurul satului Gordes. Începeți cu panorama, apoi pedalați spre unicul Village des Bories. Traseul continuă pe drumuri pitorești către faimoasa abație Sénanque. După întoarcerea în centrul satului, relaxați-vă în piața principală și vizitați castelul. Peisajul deluros din Luberon oferă priveliști fantastice, dar necesită o condiție fizică bună.",
+        "en": "An athletic tour around Gordes. Start with the panoramic view, then cycle to the unique Village des Bories. The route continues through scenic roads to the famous Sénanque Abbey. After returning to the village center, relax at the main square and visit the castle. The hilly Luberon landscape offers fantastic views but requires good stamina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lavendel-Eis",
+            "tip": "Eine erfrischende Belohnung nach der Radtour."
+          },
+          {
+            "name": "Banon Käse",
+            "tip": "Ziegenkäse in Kastanienblättern gewickelt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulafagylalt",
+            "tip": "Frissítő jutalom a kerékpározás után."
+          },
+          {
+            "name": "Banon sajt",
+            "tip": "Gesztenyelevélbe csomagolt kecskesajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată de lavandă",
+            "tip": "O recompensă răcoritoare după tura cu bicicleta."
+          },
+          {
+            "name": "Brânză Banon",
+            "tip": "Brânză de capră învelită în frunze de castan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Ice Cream",
+            "tip": "A refreshing reward after the bike ride."
+          },
+          {
+            "name": "Banon Cheese",
+            "tip": "Goat cheese wrapped in chestnut leaves."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sénanque Gärten",
+            "tip": "Die Ruhe rund um das Kloster genießen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Einsame Wege oberhalb des Dorfes.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sénanque kertjei",
+            "tip": "Élvezze a kolostor körüli csendet.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Vaucluse-fennsík",
+            "tip": "Magányos utak a falu felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Sénanque",
+            "tip": "Bucurați-vă de liniștea din jurul mănăstirii.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Drumuri izolate deasupra satului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sénanque Gardens",
+            "tip": "Enjoy the peace around the monastery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plateau de Vaucluse",
+            "tip": "Lonely paths above the village.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendel-Säckchen",
+            "tip": "Ein duftendes Souvenir aus der Provence."
+          },
+          {
+            "name": "Luberon Honig",
+            "tip": "Direkt vom Imker in der Nähe der Abtei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulazsák",
+            "tip": "Illatos szuvenír Provence-ból."
+          },
+          {
+            "name": "Luberon méz",
+            "tip": "Közvetlenül a méhésztől az apátság közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Un suvenir parfumat din Provence."
+          },
+          {
+            "name": "Miere de Luberon",
+            "tip": "Direct de la apicultor, lângă abație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Sachets",
+            "tip": "A fragrant souvenir from Provence."
+          },
+          {
+            "name": "Luberon Honey",
+            "tip": "Directly from the beekeeper near the abbey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, wenn Sie die steilen Hügel entspannter erkunden möchten.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten auf den Landstraßen.",
+          "Achten Sie auf den Mistral-Wind, der das Radfahren erschweren kann.",
+          "In den engen Gassen von Gordes das Fahrrad schieben."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt, ha kényelmesebben szeretné felfedezni a dombokat.",
+          "Vigyen magával bőven vizet, az országutakon kevés az árnyék.",
+          "Figyeljen a misztrál szélre, amely megnehezítheti a tekerést.",
+          "Gordes szűk utcáin tolja a kerékpárt."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică dacă doriți să explorați dealurile mai relaxat.",
+          "Luați suficientă apă, există puțină umbră pe drumurile județene.",
+          "Atenție la vântul Mistral, care poate îngreuna pedalarea.",
+          "În ulițele înguste din Gordes, mergeți pe lângă bicicletă."
+        ],
+        "en": [
+          "Rent an e-bike if you want to explore the steep hills more comfortably.",
+          "Take plenty of water; there is little shade on the country roads.",
+          "Watch out for the Mistral wind, which can make cycling difficult.",
+          "Push your bike in the narrow alleys of Gordes."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Point de vue de Gordes",
+          "coords": [
+            5.2035,
+            43.9085
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Es gibt einen kleinen Parkplatz direkt an der Straße für Fotos.",
+            "hu": "Van egy kis parkoló közvetlenül az út mentén a fotózáshoz.",
+            "ro": "Există o mică parcare direct pe marginea drumului pentru fotografii.",
+            "en": "There is a small parking area right by the road for photos."
+          }
+        },
+        {
+          "name": "Village des Bories",
+          "coords": [
+            5.1805,
+            43.9082
+          ],
+          "category": "museums",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Der Zufahrtsweg ist sehr schmal, fahren Sie vorsichtig.",
+            "hu": "A bekötőút nagyon keskeny, vezessen óvatosan.",
+            "ro": "Drumul de acces este foarte îngust, conduceți cu atenție.",
+            "en": "The access road is very narrow, drive carefully."
+          }
+        },
+        {
+          "name": "Abbaye Notre-Dame de Sénanque",
+          "coords": [
+            5.189,
+            43.9315
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Buchen Sie die Führung im Voraus, um das Innere zu sehen.",
+            "hu": "Foglalja le előre a vezetést, ha látni szeretné a belső tereket.",
+            "ro": "Rezervați turul ghidat în avans pentru a vedea interiorul.",
+            "en": "Book the guided tour in advance to see the interior."
+          }
+        },
+        {
+          "name": "Le Moulin des Bouillons",
+          "coords": [
+            5.195,
+            43.878
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_4lang": {
+            "de": "Sehen Sie die älteste Olivenpresse der Welt in diesem Museum.",
+            "hu": "Nézze meg a világ legrégebbi olajprését ebben a múzeumban.",
+            "ro": "Vedeți cel mai vechi teasc de măsline din lume în acest muzeu.",
+            "en": "See the world's oldest olive press in this museum."
+          }
+        },
+        {
+          "name": "Château de Gordes",
+          "coords": [
+            5.2008,
+            43.9115
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Nutzen Sie den Parkplatz am Ortseingang und gehen Sie zu Fuß ins Zentrum.",
+            "hu": "Használja a falu szélén lévő parkolót, és sétáljon be a központba.",
+            "ro": "Folosiți parcarea de la intrarea în sat și mergeți pe jos în centru.",
+            "en": "Use the parking lot at the village entrance and walk to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Gordes mit den Schätzen der Umgebung. Morgens besuchen Sie das Village des Bories und die Abtei Sénanque. Nach dem Mittagessen steht das Olivenöl-Museum Moulin des Bouillons auf dem Programm. Den späten Nachmittag verbringen Sie im Dorfzentrum von Gordes, besichtigen das Schloss und genießen die Aussicht. Ein perfekter Tag, um die Vielfalt des Luberon ohne Zeitdruck zu erleben.",
+        "hu": "Ez az autós túra ötvözi Gordes látnivalóit a környék kincseivel. Reggel látogasson el a Village des Bories-hoz és a Sénanque apátsághoz. Ebéd után a Moulin des Bouillons olajmúzeum a program. A késő délutánt Gordes központjában töltse, nézze meg a várat és élvezze a kilátást. Tökéletes nap a Luberon sokszínűségének felfedezésére időkényszer nélkül.",
+        "ro": "Acest tur auto combină punctele forte ale satului Gordes cu comorile din jur. Dimineața vizitați Village des Bories și abația Sénanque. După prânz, programul include muzeul uleiului de măsline Moulin des Bouillons. Petreceți după-amiaza târziu în centrul satului Gordes, vizitând castelul și admirând priveliștea. O zi perfectă pentru a experimenta diversitatea din Luberon fără grabă.",
+        "en": "This car tour combines the highlights of Gordes with nearby treasures. In the morning, visit the Village des Bories and Sénanque Abbey. After lunch, explore the Moulin des Bouillons olive oil museum. Spend the late afternoon in Gordes village center, visiting the castle and enjoying the views. A perfect day to experience the diversity of Luberon without time pressure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Ratatouille",
+            "tip": "Frisches provenzalisches Gemüse im Le Mas Tourteron."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Kaufen Sie frisch gepresstes Öl im Moulin des Bouillons."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ratatouille",
+            "tip": "Friss provence-i zöldségek a Le Mas Tourteron étteremben."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Vásároljon frissen préselt olajat a Moulin des Bouillonsnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ratatouille",
+            "tip": "Legume proaspete provensale la Le Mas Tourteron."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Cumpărați ulei proaspăt presat la Moulin des Bouillons."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ratatouille",
+            "tip": "Fresh Provencal vegetables at Le Mas Tourteron."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Buy freshly pressed oil at Moulin des Bouillons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sénanque Tal",
+            "tip": "Spaziergang entlang der Lavendelfelder.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Pantaléon",
+            "tip": "Ein kleines, ruhiges Dorf in der Nähe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sénanque-völgy",
+            "tip": "Séta a levendulamezők mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Pantaléon",
+            "tip": "Egy apró, csendes falu a közelben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Sénanque",
+            "tip": "Plimbare de-a lungul câmpurilor de lavandă.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Pantaléon",
+            "tip": "Un sat mic și liniștit în apropiere.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sénanque Valley",
+            "tip": "Walk along the lavender fields.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Saint-Pantaléon",
+            "tip": "A tiny, quiet village nearby.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Occitane Produkte",
+            "tip": "Regionale Kosmetik in den Boutiquen des Dorfes."
+          },
+          {
+            "name": "Provenzalische Stoffe",
+            "tip": "Tischdecken und Textilien mit bunten Mustern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Occitane termékek",
+            "tip": "Regionális kozmetikumok a falu boltjaiban."
+          },
+          {
+            "name": "Provence-i textilek",
+            "tip": "Színes mintás terítők és szövetek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse L'Occitane",
+            "tip": "Cosmetice regionale în buticurile din sat."
+          },
+          {
+            "name": "Țesături provensale",
+            "tip": "Fețe de masă și textile cu modele colorate."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Occitane Products",
+            "tip": "Regional cosmetics in the village boutiques."
+          },
+          {
+            "name": "Provencal Fabrics",
+            "tip": "Tablecloths and textiles with colorful patterns."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist schwierig, nutzen Sie die großen Parkplätze außerhalb.",
+          "Die Straßen im Luberon sind kurvig, fahren Sie defensiv.",
+          "Im Sommer sind die Parkgebühren relativ hoch.",
+          "Achten Sie auf Radfahrer auf den schmalen Landstraßen."
+        ],
+        "hu": [
+          "A központban nehéz parkolni, használja a külső nagy parkolókat.",
+          "A Luberon útjai kanyargósak, vezessen óvatosan.",
+          "Nyáron a parkolási díjak viszonylag magasak.",
+          "Figyeljen a kerékpárosokra a szűk országutakon."
+        ],
+        "ro": [
+          "Parcarea în centru este dificilă, folosiți parcările mari de la periferie.",
+          "Drumurile din Luberon sunt sinuoase, conduceți preventiv.",
+          "Vara, taxele de parcare sunt relativ mari.",
+          "Atenție la bicicliști pe drumurile județene înguste."
+        ],
+        "en": [
+          "Parking in the center is difficult; use the large lots on the outskirts.",
+          "Roads in Luberon are winding; drive defensively.",
+          "In summer, parking fees are relatively high.",
+          "Watch out for cyclists on the narrow country roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Point de vue de Gordes",
+          "coords": [
+            5.2035,
+            43.9085
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Steigen Sie an der Haltestelle 'Le Belvédère' aus.",
+            "hu": "Szálljon le a 'Le Belvédère' megállónál.",
+            "ro": "Coborâți la stația 'Le Belvédère'.",
+            "en": "Get off at 'Le Belvédère' bus stop."
+          }
+        },
+        {
+          "name": "Place Genty Pantaly",
+          "coords": [
+            5.2005,
+            43.9112
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftspunkt für alle lokalen Busse.",
+            "hu": "Minden helyi busz központi érkezési pontja.",
+            "ro": "Punctul central de sosire pentru toate autobuzele locale.",
+            "en": "Central arrival point for all local buses."
+          }
+        },
+        {
+          "name": "Château de Gordes",
+          "coords": [
+            5.2008,
+            43.9115
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": "Caves du Palais Saint-Firmin",
+          "coords": [
+            5.1998,
+            43.911
+          ],
+          "category": "natural features",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Ideal für eine Pause während der heißesten Mittagsstunden.",
+            "hu": "Ideális pihenőhely a legforróbb déli órákban.",
+            "ro": "Ideal pentru o pauză în timpul celor mai fierbinți ore ale amiezii.",
+            "en": "Ideal for a break during the hottest midday hours."
+          }
+        },
+        {
+          "name": "Église Saint-Firmin",
+          "coords": [
+            5.1992,
+            43.9108
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Prüfen Sie den Busfahrplan für die Rückfahrt nach Avignon oder Cavaillon.",
+            "hu": "Ellenőrizze a buszmenetrendet az Avignonba vagy Cavaillonba való visszatéréshez.",
+            "ro": "Verificați mersul autobuzelor pentru întoarcerea spre Avignon sau Cavaillon.",
+            "en": "Check the bus schedule for your return to Avignon or Cavaillon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Gordes stressfrei mit den öffentlichen Verkehrsmitteln. Nach der Ankunft am Aussichtspunkt spazieren Sie ins Dorfzentrum. Den Vormittag verbringen Sie mit der Besichtigung des Schlosses und des belebten Hauptplatzes. Mittags bieten die kühlen Keller des Palais Saint-Firmin eine perfekte Zuflucht. Der Nachmittag endet mit einem Besuch der Dorfkirche, bevor Sie den Bus für die Rückreise nehmen. Eine entspannte Art, das 'Schönste Dorf Frankreichs' zu erleben.",
+        "hu": "Fedezze fel Gordest stresszmentesen tömegközlekedéssel. A kilátóponthoz való megérkezés után sétáljon be a faluközpontba. A délelőttöt a vár és a nyüzsgő főtér megtekintésével töltse. Délben a Palais Saint-Firmin hűvös pincéi nyújtanak tökéletes menedéket. A délután a falu templomának meglátogatásával zárul, mielőtt felszállna a visszatérő buszra. Kényelmes módja Franciaország egyik legszebb falujának megismerésére.",
+        "ro": "Descoperiți Gordes fără stres folosind transportul public. După sosirea la punctul de belvedere, plimbați-vă spre centrul satului. Petreceți dimineața vizitând castelul și piața principală plină de viață. La prânz, pivnițele răcoroase ale Palais Saint-Firmin oferă refugiul perfect. După-amiaza se încheie cu o vizită la biserica satului înainte de a lua autobuzul de întoarcere. O modalitate relaxată de a experimenta cel mai frumos sat din Franța.",
+        "en": "Discover Gordes stress-free using public transit. After arriving at the viewpoint, walk into the village center. Spend your morning visiting the castle and the lively main square. At noon, the cool cellars of Palais Saint-Firmin offer a perfect escape. The afternoon ends with a visit to the village church before catching your return bus. A relaxed way to experience one of the 'Most Beautiful Villages of France'."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Provenzalische Kräuter",
+            "tip": "Kaufen Sie Mischungen für zu Hause auf dem Markt."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Ein Muss zu jedem Mittagessen in Gordes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provence-i fűszerek",
+            "tip": "Vásároljon keverékeket otthonra a piacon."
+          },
+          {
+            "name": "Provence-i rozé",
+            "tip": "Minden gordes-i ebéd kötelező kísérője."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi de Provence",
+            "tip": "Cumpărați amestecuri pentru acasă de la piață."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Un must la orice prânz în Gordes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbes de Provence",
+            "tip": "Buy local herb mixes at the market to take home."
+          },
+          {
+            "name": "Provence Rosé",
+            "tip": "A must-have with every lunch in Gordes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fontaine de Gordes",
+            "tip": "Ein schattiger Platz zum Warten auf den Bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ruhiger Blick über das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gordes kútja",
+            "tip": "Árnyékos hely a buszra való várakozáshoz.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templom előtti tér",
+            "tip": "Csendes kilátás a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fântâna din Gordes",
+            "tip": "Un loc umbrit pentru a aștepta autobuzul.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piațeta bisericii",
+            "tip": "Vedere liniștită asupra văii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gordes Fountain",
+            "tip": "A shaded spot to wait for the bus.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church Square",
+            "tip": "Quiet view over the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelseife",
+            "tip": "Handgemachte Seifen aus lokaler Produktion."
+          },
+          {
+            "name": "Postkarten",
+            "tip": "In den kleinen Schreibwarenläden im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulaszappan",
+            "tip": "Kézzel készített szappanok helyi alapanyagokból."
+          },
+          {
+            "name": "Képeslapok",
+            "tip": "A központ kis papírboltjaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săpun cu lavandă",
+            "tip": "Săpunuri artizanale din producție locală."
+          },
+          {
+            "name": "Vederi",
+            "tip": "În micile papetării din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Soap",
+            "tip": "Handmade soaps from local production."
+          },
+          {
+            "name": "Postcards",
+            "tip": "Available in small stationery shops in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busverbindungen (Linie 915) sind selten, planen Sie genau.",
+          "In der Hochsaison kann der Bus Verspätung haben.",
+          "Kaufen Sie Ihr Ticket direkt beim Fahrer (Zoug-Pass).",
+          "Der Bus hält etwas außerhalb des steilsten Teils des Dorfes."
+        ],
+        "hu": [
+          "A buszjáratok (915-ös vonal) ritkák, tervezzen pontosan.",
+          "Főszezonban a busz késhet a forgalom miatt.",
+          "Vásárolja meg jegyét közvetlenül a vezetőnél.",
+          "A busz a falu legmeredekebb részén kívül áll meg."
+        ],
+        "ro": [
+          "Legăturile de autobuz (linia 915) sunt rare, planificați cu atenție.",
+          "În plin sezon, autobuzul poate avea întârzieri.",
+          "Cumpărați biletul direct de la șofer.",
+          "Autobuzul oprește puțin în afara celei mai abrupte părți a satului."
+        ],
+        "en": [
+          "Bus connections (Line 915) are infrequent, so plan carefully.",
+          "In high season, buses may be delayed due to traffic.",
+          "Buy your ticket directly from the driver.",
+          "The bus stops slightly outside the steepest part of the village."
+        ]
+      }
+    }
+  }
+}

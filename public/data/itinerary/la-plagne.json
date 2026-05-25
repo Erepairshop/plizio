@@ -1,0 +1,591 @@
+{
+  "city_id": "la-plagne",
+  "anchor": {
+    "name": "La Plagne",
+    "coords": [
+      6.6792,
+      45.5078
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:10",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aime La Plagne (Paquebot des Neiges)",
+            "hu": "Aime La Plagne (Hajó a hóban)",
+            "ro": "Aime La Plagne (Paquebot des Neiges)",
+            "en": "Aime La Plagne (Snow Ocean Liner)"
+          },
+          "coords": [
+            6.675,
+            45.512
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die futuristische Architektur von Michel Bezançon.",
+            "hu": "Csodálja meg Michel Bezançon futurisztikus építészetét.",
+            "ro": "Admirați arhitectura futuristă a lui Michel Bezançon.",
+            "en": "Admire the futuristic architecture by Michel Bezançon."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Écuménique de Plagne Centre",
+            "hu": "Plagne Centre ökumenikus kápolna",
+            "ro": "Chapelle Écuménique de Plagne Centre",
+            "en": "Ecumenical Chapel of Plagne Centre"
+          },
+          "coords": [
+            6.678,
+            45.506
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein moderner, friedlicher Ort für Besinnung.",
+            "hu": "Modern, békés hely az elmélyüléshez.",
+            "ro": "Un loc modern și liniștit pentru reflecție.",
+            "en": "A modern, peaceful place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Blanchets",
+            "hu": "Blanchets-tó",
+            "ro": "Lac des Blanchets",
+            "en": "Lac des Blanchets"
+          },
+          "coords": [
+            6.695,
+            45.502
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Picknick am Bergsee.",
+            "hu": "Tökéletes hely egy piknikhez a hegyi tónál.",
+            "ro": "Loc perfect pentru un picnic lângă lacul de munte.",
+            "en": "Perfect spot for a picnic by the mountain lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommet de la Grande Rochette",
+            "hu": "Grande Rochette csúcs",
+            "ro": "Vârful Grande Rochette",
+            "en": "Grande Rochette Summit"
+          },
+          "coords": [
+            6.685,
+            45.495
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Funiplagne für eine mühelose Auffahrt.",
+            "hu": "Használja a Funiplagne felvonót a könnyű feljutáshoz.",
+            "ro": "Folosiți telecabina Funiplagne pentru o urcare fără efort.",
+            "en": "Use the Funiplagne cable car for an effortless ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte de Glace",
+            "hu": "Jégbarlang",
+            "ro": "Peștera de Gheață",
+            "en": "Ice Grotto"
+          },
+          "coords": [
+            6.72,
+            45.495
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Eisskulpturen im Inneren des Gletschers.",
+            "hu": "Csodálja meg a jégszobrokat a gleccser belsejében.",
+            "ro": "Admirați sculpturile de gheață din interiorul ghețarului.",
+            "en": "Admire the ice sculptures inside the glacier."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Aime La Plagne, einem architektonischen Wahrzeichen. Nach einem Besuch der modernen Kapelle wandern Sie zum idyllischen Lac des Blanchets. Der Nachmittag gehört den Gipfeln: Genießen Sie das Panorama von der Grande Rochette und tauchen Sie schließlich in die faszinierende Welt der Eishöhle ein.",
+        "hu": "Kezdje a napot Aime La Plagne-ban, amely egy építészeti mérföldkő. A modern kápolna megtekintése után túrázzon el az idilli Blanchets-tóhoz. A délután a csúcsoké: élvezze a panorámát a Grande Rochette-ről, végül pedig merüljön el a jégbarlang lenyűgöző világában.",
+        "ro": "Începeți ziua în Aime La Plagne, un punct de reper arhitectural. După o vizită la capela modernă, mergeți în drumeție spre idilicul Lac des Blanchets. După-amiaza aparține vârfurilor: bucurați-vă de panoramă de pe Grande Rochette și, în final, scufundați-vă în lumea fascinantă a peșterii de gheață.",
+        "en": "Start your day in Aime La Plagne, an architectural landmark. After visiting the modern chapel, hike to the idyllic Lac des Blanchets. The afternoon belongs to the peaks: enjoy the panorama from Grande Rochette and finally immerse yourself in the fascinating world of the ice cave."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Chalet des Colosses",
+            "tip": "Probieren Sie die Savoyer Käseplatte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Chalet des Colosses",
+            "tip": "Kóstolja meg a savoyai sajttálat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Chalet des Colosses",
+            "tip": "Încercați platoul de brânzeturi din Savoia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Chalet des Colosses",
+            "tip": "Try the Savoyard cheese platter."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac des Blanchets",
+            "tip": "Ein ruhiger Ort fernab des Trubels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blanchets-tó",
+            "tip": "Csendes hely távol a nyüzsgéstől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lac des Blanchets",
+            "tip": "Un loc liniștit departe de agitație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac des Blanchets",
+            "tip": "A quiet spot away from the hustle.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Commerciale",
+            "tip": "Lokale Produkte wie Honig und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galerie Commerciale",
+            "tip": "Helyi termékek, mint a méz és a sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerie Commerciale",
+            "tip": "Produse locale precum mierea și brânza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galerie Commerciale",
+            "tip": "Local products like honey and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Wanderschuhe.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die UV-Strahlung ist in der Höhe sehr stark.",
+          "Prüfen Sie die Betriebszeiten der Seilbahnen."
+        ],
+        "hu": [
+          "Viseljen erős túrabakancsot.",
+          "Vigyen magával elegendő vizet.",
+          "Az UV-sugárzás a magasban nagyon erős.",
+          "Ellenőrizze a felvonók üzemidejét."
+        ],
+        "ro": [
+          "Purtați bocanci de drumeție rezistenți.",
+          "Luați suficientă apă cu voi.",
+          "Radiațiile UV sunt foarte puternice la înălțime.",
+          "Verificați programul telecabinelor."
+        ],
+        "en": [
+          "Wear sturdy hiking boots.",
+          "Take enough water with you.",
+          "UV radiation is very strong at high altitudes.",
+          "Check the cable car operating hours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la Mine de Macot",
+            "hu": "Macot bányamúzeum",
+            "ro": "Muzeul Minei de Macot",
+            "en": "Macot Mine Museum"
+          },
+          "coords": [
+            6.671,
+            45.545
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Bergbaugeschichte.",
+            "hu": "Ismerje meg a helyi bányászat történetét.",
+            "ro": "Aflați despre istoria minieră locală.",
+            "en": "Learn about the local mining history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bobsleigh Track La Plagne",
+            "hu": "La Plagne bobpálya",
+            "ro": "Pista de Bob La Plagne",
+            "en": "La Plagne Bobsleigh Track"
+          },
+          "coords": [
+            6.685,
+            45.518
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Die einzige Bobbahn Frankreichs von den Olympischen Spielen 1992.",
+            "hu": "Franciaország egyetlen bobpályája az 1992-es olimpiáról.",
+            "ro": "Singura pistă de bob din Franța de la Jocurile Olimpice din 1992.",
+            "en": "France's only bobsleigh track from the 1992 Olympics."
+          }
+        },
+        {
+          "name": {
+            "de": "Vanoise Express",
+            "hu": "Vanoise Express",
+            "ro": "Vanoise Express",
+            "en": "Vanoise Express"
+          },
+          "coords": [
+            6.735,
+            45.553
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie das Tal in einer der größten Seilbahnen der Welt.",
+            "hu": "Keljen át a völgyön a világ egyik legnagyobb felvonójával.",
+            "ro": "Traversați valea în una dintre cele mai mari telecabine din lume.",
+            "en": "Cross the valley in one of the world's largest cable cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche de Mio",
+            "hu": "Roche de Mio",
+            "ro": "Roche de Mio",
+            "en": "Roche de Mio"
+          },
+          "coords": [
+            6.715,
+            45.503
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Aussichtspunkt auf 2739 m Höhe.",
+            "hu": "Látványos kilátópont 2739 méteres magasságban.",
+            "ro": "Un punct de belvedere spectaculos la 2739 m altitudine.",
+            "en": "A spectacular viewpoint at 2739m altitude."
+          }
+        },
+        {
+          "name": {
+            "de": "Glacier de la Chiaupe",
+            "hu": "Chiaupe-gleccser",
+            "ro": "Ghețarul de la Chiaupe",
+            "en": "Chiaupe Glacier"
+          },
+          "coords": [
+            6.725,
+            45.493
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie ewiges Eis auch im Sommer.",
+            "hu": "Tapasztalja meg az örök jeget nyáron is.",
+            "ro": "Experimentați gheața veșnică chiar și vara.",
+            "en": "Experience eternal ice even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset at Plagne Centre",
+            "hu": "Naplemente Plagne Centre-ben",
+            "ro": "Apus de soare la Plagne Centre",
+            "en": "Sunset at Plagne Centre"
+          },
+          "coords": [
+            6.679,
+            45.508
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang über den Alpengipfeln.",
+            "hu": "Élvezze a naplementét az alpesi csúcsok felett.",
+            "ro": "Bucurați-vă de apusul de soare peste vârfurile alpine.",
+            "en": "Enjoy the sunset over the Alpine peaks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet Geschichte mit extremen Landschaften. Beginnen Sie im Bergbaumuseum von Macot, besuchen Sie die legendäre Bobbahn und fahren Sie mit dem Vanoise Express. Der Nachmittag führt Sie hoch hinaus zur Roche de Mio und zum Chiaupe-Gletscher, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Ez az autós túra a történelmet ötvözi a szélsőséges tájakkal. Kezdje a Macot bányamúzeumban, látogasson el a legendás bobpályához, és utazzon a Vanoise Expresszel. A délután magasra repíti a Roche de Mio-hoz és a Chiaupe-gleccserhez, mielőtt pihentetően zárná a napot.",
+        "ro": "Acest tur cu mașina combină istoria cu peisajele extreme. Începeți la muzeul minei din Macot, vizitați legendara pistă de bob și mergeți cu Vanoise Express. După-amiaza vă duce sus, la Roche de Mio și ghețarul Chiaupe, înainte de a încheia ziua relaxat.",
+        "en": "This car tour combines history with extreme landscapes. Start at the Macot mine museum, visit the legendary bobsleigh track, and ride the Vanoise Express. The afternoon takes you high up to Roche de Mio and the Chiaupe Glacier before ending the day in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bonnet",
+            "tip": "Herzhafte Tartiflette mit Blick auf die Pisten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bonnet",
+            "tip": "Kiadós tartiflette kilátással a pályákra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bonnet",
+            "tip": "Tartiflette consistentă cu vedere la pârtii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bonnet",
+            "tip": "Hearty tartiflette with a view of the slopes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Glacier de la Chiaupe",
+            "tip": "Ewige Stille inmitten der Eiswelt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chiaupe-gleccser",
+            "tip": "Örök csend a jégvilág közepén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ghețarul de la Chiaupe",
+            "tip": "Liniște eternă în mijlocul lumii de gheață.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chiaupe Glacier",
+            "tip": "Eternal silence in the middle of the ice world.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Coopérative Laitière",
+            "tip": "Bester Beaufort-Käse direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coopérative Laitière",
+            "tip": "A legjobb Beaufort sajt közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coopérative Laitière",
+            "tip": "Cea mai bună brânză Beaufort direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coopérative Laitière",
+            "tip": "Best Beaufort cheese directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind serpentinenreich, fahren Sie vorsichtig.",
+          "Parkplätze sind in den Zentren oft gebührenpflichtig.",
+          "Tanken Sie im Tal, oben ist es teurer.",
+          "Nehmen Sie warme Kleidung für den Gletscher mit."
+        ],
+        "hu": [
+          "Az utak szerpentinekkel teliek, vezessen óvatosan.",
+          "A központokban a parkolás gyakran fizetős.",
+          "Tankoljon a völgyben, fent drágább.",
+          "Vigyen meleg ruhát a gleccserhez."
+        ],
+        "ro": [
+          "Drumurile sunt pline de serpentine, conduceți cu atenție.",
+          "Parcarea este adesea cu plată în centre.",
+          "Alimentați în vale, sus este mai scump.",
+          "Luați haine groase pentru ghețar."
+        ],
+        "en": [
+          "The roads are winding, drive carefully.",
+          "Parking is often paid in the centers.",
+          "Refuel in the valley, it's more expensive at the top.",
+          "Take warm clothes for the glacier."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15,
+      "stop_count": 4,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 20,
+      "stop_count": 5,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    }
+  }
+}

@@ -1,0 +1,1180 @@
+{
+  "city_id": "etretat",
+  "anchor": {
+    "name": "Étretat",
+    "coords": [
+      0.205,
+      49.7075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "id": "et-beach",
+          "name": {
+            "de": "Plage d'Étretat",
+            "hu": "Étretati strand",
+            "ro": "Plaja din Étretat",
+            "en": "Étretat Beach"
+          },
+          "coords": [
+            0.2035,
+            49.7078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Früh am Morgen ist der Kieselstrand am ruhigsten.",
+            "hu": "Kora reggel a legnyugodtabb a kavicsos part.",
+            "ro": "Plaja cu pietriș este cea mai liniștită dimineața devreme.",
+            "en": "The pebble beach is quietest early in the morning."
+          }
+        },
+        {
+          "id": "et-aval",
+          "name": {
+            "de": "Falaise d'Aval",
+            "hu": "Falaise d'Aval szikla",
+            "ro": "Falaise d'Aval",
+            "en": "Falaise d'Aval"
+          },
+          "coords": [
+            0.1995,
+            49.7065
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Aufstieg bietet den ikonischen Blick auf das Tor.",
+            "hu": "A feljutás után nyílik a legszebb kilátás a kapura.",
+            "ro": "Urcarea oferă vederea iconică asupra arcadei.",
+            "en": "The climb offers the iconic view of the stone arch."
+          }
+        },
+        {
+          "id": "et-aiguille",
+          "name": {
+            "de": "L'Aiguille",
+            "hu": "L'Aiguille (A Tű)",
+            "ro": "L'Aiguille (Acul)",
+            "en": "L'Aiguille (The Needle)"
+          },
+          "coords": [
+            0.1982,
+            49.7068
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie nach dem 'Schatz' von Arsène Lupin.",
+            "hu": "Itt keressétek Arsène Lupin elrejtett kincsét.",
+            "ro": "Căutați 'comoara' lui Arsène Lupin aici.",
+            "en": "Look for the 'treasure' of Arsène Lupin here."
+          }
+        },
+        {
+          "id": "et-lupin",
+          "name": {
+            "de": "Le Clos Lupin",
+            "hu": "Le Clos Lupin múzeum",
+            "ro": "Le Clos Lupin",
+            "en": "Le Clos Lupin"
+          },
+          "coords": [
+            0.2075,
+            49.7058
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Welt des Meisterdiebs.",
+            "hu": "Merüljetek el az úri betörő rejtélyes világában.",
+            "ro": "Explorați universul fascinant al hoțului gentilom.",
+            "en": "Immerse yourself in the world of the gentleman thief."
+          }
+        },
+        {
+          "id": "et-jardins",
+          "name": {
+            "de": "Les Jardins d'Étretat",
+            "hu": "Étretati kertek",
+            "ro": "Grădinile din Étretat",
+            "en": "Les Jardins d'Étretat"
+          },
+          "coords": [
+            0.2115,
+            49.7102
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Moderne Kunst trifft auf surreale Gartenarchitektur.",
+            "hu": "Modern művészet és szürreális kertépítészet találkozása.",
+            "ro": "Arta modernă întâlnește arhitectura peisagistică suprarealistă.",
+            "en": "Modern art meets surreal garden architecture."
+          }
+        },
+        {
+          "id": "et-chapelle",
+          "name": {
+            "de": "Chapelle Notre-Dame de la Garde",
+            "hu": "Notre-Dame de la Garde kápolna",
+            "ro": "Capela Notre-Dame de la Garde",
+            "en": "Chapelle Notre-Dame de la Garde"
+          },
+          "coords": [
+            0.2125,
+            49.7105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Beschützerin der Seeleute hoch über dem Meer.",
+            "hu": "A tengerészek védelmezője magasan a tenger felett.",
+            "ro": "Protectoarea marinarilor, situată sus deasupra mării.",
+            "en": "The protector of sailors perched high above the sea."
+          }
+        },
+        {
+          "id": "et-amont",
+          "name": {
+            "de": "Falaise d'Amont",
+            "hu": "Falaise d'Amont szikla",
+            "ro": "Falaise d'Amont",
+            "en": "Falaise d'Amont"
+          },
+          "coords": [
+            0.2145,
+            49.7115
+          ],
+          "category": "natural features",
+          "arrive_at": "18:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für den Abschiedsblick.",
+            "hu": "A tökéletes hely az utolsó pillantáshoz a városra.",
+            "ro": "Locul perfect pentru o ultimă privire asupra orașului.",
+            "en": "The perfect spot for a final view of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am berühmten Kieselstrand, während das Licht die weißen Klippen beleuchtet. Am Vormittag erklimmen Sie die Falaise d'Aval für den klassischen Postkartenblick auf die Aiguille. Mittags tauchen Sie im Clos Lupin in literarische Geheimnisse ein. Den Nachmittag verbringen Sie in den futuristischen Gärten und lassen den Tag an der Kapelle auf der Falaise d'Amont ausklingen.",
+        "hu": "Kezdje a napot a híres kavicsos strandon, ahogy a fény megvilágítja a fehér sziklákat. Délelőtt másszon fel a Falaise d'Aval sziklára a klasszikus képeslap-kilátásért. Délben merüljön el az irodalmi titkokban a Clos Lupin villában. A délutánt töltse a futurisztikus kertekben, majd zárja a napot a Falaise d'Amont tetején álló kápolnánál.",
+        "ro": "Începeți ziua pe celebra plajă cu pietriș, admirând faleza luminată de soarele dimineții. Înainte de prânz, urcați pe Falaise d'Aval pentru panorama clasică asupra stâncii Aiguille. După amiază, explorați misterele literare la Clos Lupin și grădinile suprarealiste de pe deal. Încheiați ziua la capela de pe Falaise d'Amont pentru un apus de neuitat.",
+        "en": "Start your day on the famous pebble beach as the morning light hits the white cliffs. In the morning, hike up Falaise d'Aval for the quintessential view of the Needle. Midday is for literary mysteries at Clos Lupin. Spend your afternoon in the futuristic gardens, then end your journey at the chapel on Falaise d'Amont for a spectacular panoramic farewell."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Frische Miesmuscheln direkt am Hafen genießen."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Herzhafte Crêpes in einer der lokalen Crêperien."
+          },
+          {
+            "name": "Cidre de Normandie",
+            "tip": "Ein erfrischendes Glas lokaler Apfelwein zum Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Friss feketekagyló sült krumplival a parton."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Sós hajdinalisztből készült palacsinta helyi sonkával."
+          },
+          {
+            "name": "Normandiai Cidre",
+            "tip": "Frissítő helyi almabor, ami minden ételhez illik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Midi proaspete servite cu cartofi prăjiți pe faleză."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Clătite sărate tradiționale din hrișcă."
+          },
+          {
+            "name": "Cidru de Normandia",
+            "tip": "Băutură răcoritoare locală din mere, acidulată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moules-Frites",
+            "tip": "Fresh mussels served with fries, a seaside staple."
+          },
+          {
+            "name": "Galette Complète",
+            "tip": "Savory buckwheat crepes filled with local ingredients."
+          },
+          {
+            "name": "Normandy Cider",
+            "tip": "Refreshingly crisp local apple cider."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Ruhe finden hinter der kleinen Kapelle.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Les Jardins d'Étretat",
+            "tip": "Meditative Stille in den Gartenräumen.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kieselstrand am Abend",
+            "tip": "Dem Rollen der Steine in den Wellen zuhören.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Csendes elvonulás a kis kápolna mögött.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Étretati kertek",
+            "tip": "Meditatív nyugalom a szürreális növények közt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Partszél alkonyatkor",
+            "tip": "A hullámok és a kavicsok morajlásának hallgatása.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Găsește liniștea în spatele micii capele.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grădinile Étretat",
+            "tip": "Liniște meditativă printre sculpturile vegetale.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja la amurg",
+            "tip": "Ascultă sunetul valurilor care mișcă pietrele.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Falaise d'Amont",
+            "tip": "Find peace in the grassy areas behind the chapel.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "The Gardens of Étretat",
+            "tip": "Meditative silence among the topiary art.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Beach at dusk",
+            "tip": "Listen to the soothing sound of pebbles in the waves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Alte Markthalle mit lokalen Spezialitäten."
+          },
+          {
+            "name": "Lupin Souvenirs",
+            "tip": "Exklusive Artikel rund um den Meisterdieb."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Régi fedett piac helyi gasztrotermékekkel."
+          },
+          {
+            "name": "Lupin ajándékbolt",
+            "tip": "Egyedi emléktárgyak Arsène Lupin rajongóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Piața acoperită veche cu produse locale."
+          },
+          {
+            "name": "Suveniruri Lupin",
+            "tip": "Obiecte tematice legate de celebrul personaj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Historic covered market with local delicacies."
+          },
+          {
+            "name": "Lupin Gift Shop",
+            "tip": "Unique souvenirs for fans of the gentleman thief."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe für die Wanderungen auf den Klippen.",
+          "Achten Sie auf die Gezeiten, wenn Sie am Fuß der Klippen spazieren.",
+          "Die Parkplätze im Zentrum sind schnell voll, nutzen Sie die P+R Plätze.",
+          "Nehmen Sie eine Windjacke mit, es ist oft windig auf den Höhen.",
+          "Buchen Sie die Gärten im Voraus, um Wartezeiten zu vermeiden."
+        ],
+        "hu": [
+          "Viseljen kényelmes, csúszásmentes cipőt a sziklák meghódításához.",
+          "Mindig ellenőrizze az apály-dagály táblázatot a parton sétálva.",
+          "A belvárosi parkolás nehéz, érdemes a külső parkolókat használni.",
+          "Vigyen magával széldzsekit, a sziklák tetején nagy a szél.",
+          "A kertekbe érdemes előre jegyet foglalni a várakozás elkerülésére."
+        ],
+        "ro": [
+          "Purtați încălțăminte adecvată pentru drumețiile pe faleză.",
+          "Verificați tabelul mareelor înainte de a merge pe sub stânci.",
+          "Parcările centrale se umplu rapid, folosiți parcările de la intrare.",
+          "Luați o jachetă de vânt, curentul este puternic pe înălțimi.",
+          "Rezervați biletele pentru grădini online pentru a evita coada."
+        ],
+        "en": [
+          "Wear sturdy shoes for the cliffside coastal paths.",
+          "Always check tide times before walking along the beach under the cliffs.",
+          "Central parking fills up quickly; use the park-and-ride lots.",
+          "Bring a windbreaker as it can be very windy on the cliff tops.",
+          "Book your garden tickets in advance to guarantee entry."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "et-beach",
+          "name": {
+            "de": "Plage d'Étretat",
+            "hu": "Étretati strand",
+            "ro": "Plaja din Étretat",
+            "en": "Étretat Beach"
+          },
+          "coords": [
+            0.2035,
+            49.7078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Wasser vor der Tour.",
+            "hu": "Rövid pihenő a parton az indulás előtt.",
+            "ro": "Scurt popas la apă înainte de tură.",
+            "en": "Quick stop by the water before the ride."
+          }
+        },
+        {
+          "id": "et-jardins",
+          "name": {
+            "de": "Les Jardins d'Étretat",
+            "hu": "Étretati kertek",
+            "ro": "Grădinile din Étretat",
+            "en": "Les Jardins d'Étretat"
+          },
+          "coords": [
+            0.2115,
+            49.7102
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrrad am Eingang sicher abstellen.",
+            "hu": "A bringát a bejáratnál biztonságosan le lehet zárni.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely at the entrance."
+          }
+        },
+        {
+          "id": "et-nungesser",
+          "name": {
+            "de": "Monument Nungesser et Coli",
+            "hu": "Nungesser és Coli emlékmű",
+            "ro": "Monumentul Nungesser et Coli",
+            "en": "Monument Nungesser et Coli"
+          },
+          "coords": [
+            0.2135,
+            49.7108
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Denkmal für die Pioniere der Atlantiküberquerung.",
+            "hu": "Emlékmű az atlanti átrepülés úttörőinek.",
+            "ro": "Monument dedicat pionierilor traversării Atlanticului.",
+            "en": "Monument to the pioneers of Atlantic flight."
+          }
+        },
+        {
+          "id": "et-lupin",
+          "name": {
+            "de": "Le Clos Lupin",
+            "hu": "Le Clos Lupin múzeum",
+            "ro": "Le Clos Lupin",
+            "en": "Le Clos Lupin"
+          },
+          "coords": [
+            0.2075,
+            49.7058
+          ],
+          "category": "museums",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekte Pause im kühlen Inneren des Hauses.",
+            "hu": "Tökéletes pihenő a ház hűvös falai között.",
+            "ro": "O pauză perfectă la răcoarea muzeului.",
+            "en": "A perfect break in the cool interior of the villa."
+          }
+        },
+        {
+          "id": "et-amont-ride",
+          "name": {
+            "de": "Falaise d'Amont (Panorama)",
+            "hu": "Falaise d'Amont panoráma",
+            "ro": "Panorama Falaise d'Amont",
+            "en": "Falaise d'Amont (Panorama)"
+          },
+          "coords": [
+            0.2185,
+            49.7155
+          ],
+          "category": "natural features",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Weiter entfernte Aussichtspunkte anradeln.",
+            "hu": "Tekerjünk el a távolabbi kilátópontokhoz is.",
+            "ro": "Pedalați până la punctele de belvedere mai îndepărtate.",
+            "en": "Cycle further to reach more distant viewpoints."
+          }
+        },
+        {
+          "id": "et-town",
+          "name": {
+            "de": "Étretat Zentrum",
+            "hu": "Étretat központ",
+            "ro": "Centrul Étretat",
+            "en": "Étretat Center"
+          },
+          "coords": [
+            0.2065,
+            49.7072
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ausklang in einem der Cafés.",
+            "hu": "Zárja a túrát az egyik hangulatos kávézóban.",
+            "ro": "Încheiați tura la una dintre cafenele.",
+            "en": "Finish your ride at one of the cozy cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Étretat mit dem Rad, von der Uferpromenade bis hinauf zu den windigen Höhen der Klippen. Diese Route verbindet die kulturellen Highlights im Zentrum mit den weiten Aussichten der Falaise d'Amont. Genießen Sie die frische Meeresbrise und die Flexibilität, auch etwas abgelegenere Pfade zu erkunden, die zu Fuß zu weit wären.",
+        "hu": "Fedezze fel Étretat-t kerékpárral a tengerparti sétánytól a sziklák szeles csúcsáig. Ez az útvonal összeköti a belváros kulturális látnivalóit a Falaise d'Amont tágas panorámájával. Élvezze a tengeri szellőt és a szabadságot, hogy olyan távolabbi ösvényeket is bejárhat, amelyek gyalog már messze lennének.",
+        "ro": "Explorați Étretat pe două roți, de la faleză până pe culmile vântoase ale stâncilor. Acest traseu îmbină atracțiile culturale din centru cu panoramele largi de pe Falaise d'Amont. Bucurați-vă de briza mării și de flexibilitatea de a ajunge rapid în locuri care ar fi prea departe de parcurs pe jos.",
+        "en": "Discover Étretat by bike, from the seaside promenade to the windy heights of the cliffs. This route combines cultural highlights in the town center with the expansive views of Falaise d'Amont. Enjoy the fresh sea breeze and the flexibility to explore paths that would be a bit too far to reach on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêpes à emporter",
+            "tip": "Schneller Snack für unterwegs."
+          },
+          {
+            "name": "Lokaler Käse",
+            "tip": "Camembert de Normandie vom Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétáló palacsinta",
+            "tip": "Gyors és finom falat tekerés közben."
+          },
+          {
+            "name": "Helyi sajtok",
+            "tip": "Igazi normandiai Camembert a piacról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Clătite la pachet",
+            "tip": "O gustare rapidă între două reprize de pedalat."
+          },
+          {
+            "name": "Brânzeturi locale",
+            "tip": "Camembert de Normandia direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Takeaway Crepes",
+            "tip": "A quick and delicious snack for the road."
+          },
+          {
+            "name": "Local Cheeses",
+            "tip": "Authentic Normandy Camembert from the market."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hinterland Pfade",
+            "tip": "Ruhige Wege weg von den Touristenströmen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hátországi ösvények",
+            "tip": "Csendes utak távol a turisták tömegétől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cărările din hinterland",
+            "tip": "Drumuri liniștite departe de fluxul de turiști.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Inland trails",
+            "tip": "Quiet paths away from the main tourist crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradladen Souvenirs",
+            "tip": "Kleine Andenken für Radbegeisterte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros szuvenír",
+            "tip": "Apró emléktárgyak bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri pentru bicicliști",
+            "tip": "Mici amintiri tematice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike-themed gifts",
+            "tip": "Small mementos for cycling enthusiasts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Bremszustand vor der Abfahrt von den Klippen.",
+          "Einige Wege auf den Klippen sind nur für Fußgänger reserviert.",
+          "Nutzen Sie die markierten Radwege im Stadtgebiet.",
+          "Nehmen Sie ausreichend Wasser mit, der Aufstieg ist steil.",
+          "Ein Schloss ist für die Besichtigung der Museen unerlässlich."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a meredek lejtők előtt.",
+          "Néhány szikla menti ösvény csak gyalogosoknak van fenntartva.",
+          "Használja a kijelölt kerékpársávokat a városban.",
+          "Vigyen elég vizet, az emelkedők izzasztóak lehetnek.",
+          "A múzeumlátogatáshoz mindenképp hozzon lakatot."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de pe faleză.",
+          "Unele poteci de pe stânci sunt rezervate exclusiv pietonilor.",
+          "Folosiți pistele de biciclete marcate în oraș.",
+          "Luați destulă apă, urcușurile sunt solicitante.",
+          "Un antifurt este esențial pentru opririle la muzee."
+        ],
+        "en": [
+          "Check your brakes before descending from the cliff tops.",
+          "Some cliffside paths are strictly for pedestrians only.",
+          "Stick to marked cycling lanes within the town area.",
+          "Carry enough water as the climbs can be strenuous.",
+          "A sturdy lock is essential for stops at museums and gardens."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "et-chapelle",
+          "name": {
+            "de": "Chapelle Notre-Dame de la Garde",
+            "hu": "Notre-Dame de la Garde kápolna",
+            "ro": "Capela Notre-Dame de la Garde",
+            "en": "Chapelle Notre-Dame de la Garde"
+          },
+          "coords": [
+            0.2125,
+            49.7105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Klippe nutzen.",
+            "hu": "Használja a közvetlenül a szikla melletti parkolót.",
+            "ro": "Folosiți parcarea situată chiar lângă faleză.",
+            "en": "Use the parking lot located right by the cliff."
+          }
+        },
+        {
+          "id": "et-jardins",
+          "name": {
+            "de": "Les Jardins d'Étretat",
+            "hu": "Étretati kertek",
+            "ro": "Grădinile din Étretat",
+            "en": "Les Jardins d'Étretat"
+          },
+          "coords": [
+            0.2115,
+            49.7102
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einzigartige Aussicht auf den Ort.",
+            "hu": "Egyedülálló kilátás nyílik innen a falura.",
+            "ro": "O vedere unică asupra satului de aici.",
+            "en": "Unique perspective of the village from here."
+          }
+        },
+        {
+          "id": "et-lupin",
+          "name": {
+            "de": "Le Clos Lupin",
+            "hu": "Le Clos Lupin múzeum",
+            "ro": "Le Clos Lupin",
+            "en": "Le Clos Lupin"
+          },
+          "coords": [
+            0.2075,
+            49.7058
+          ],
+          "category": "museums",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "In der Nähe der Villa parken.",
+            "hu": "Parkoljon a villa közelében lévő utcákban.",
+            "ro": "Parcați pe străzile din apropierea vilei.",
+            "en": "Park in the streets near the villa."
+          }
+        },
+        {
+          "id": "et-beach",
+          "name": {
+            "de": "Plage d'Étretat",
+            "hu": "Étretati strand",
+            "ro": "Plaja din Étretat",
+            "en": "Étretat Beach"
+          },
+          "coords": [
+            0.2035,
+            49.7078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Langer Spaziergang entlang der Flutlinie.",
+            "hu": "Hosszú séta a vízpart mentén.",
+            "ro": "O plimbare lungă de-a lungul liniei apei.",
+            "en": "A long walk along the tide line."
+          }
+        },
+        {
+          "id": "et-aval",
+          "name": {
+            "de": "Falaise d'Aval",
+            "hu": "Falaise d'Aval szikla",
+            "ro": "Falaise d'Aval",
+            "en": "Falaise d'Aval"
+          },
+          "coords": [
+            0.1995,
+            49.7065
+          ],
+          "category": "natural features",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Letzter Blick auf das natürliche Felstor.",
+            "hu": "Utolsó pillantás a természetes sziklakapura.",
+            "ro": "O ultimă privire asupra arcadei naturale.",
+            "en": "A final look at the natural rock arch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen von Étretat. Beginnen Sie oben an der Kapelle für einen weiten Rundblick, bevor Sie die faszinierenden Gärten besuchen. Mittags führt der Weg in das Herz des Ortes zum Clos Lupin und anschließend an den Strand. Den Abschluss bildet der kurze Aufstieg zur Falaise d'Aval für das perfekte Urlaubsfoto.",
+        "hu": "Autóval kényelmesen elérheti Étretat különböző szintjeit. Kezdje fent a kápolnánál a tágas panorámáért, mielőtt meglátogatná a lenyűgöző kerteket. Délben az út a város szívébe vezet a Clos Lupin villához, majd a tengerpartra. A napot a Falaise d'Aval sziklához tett rövid séta zárja a tökéletes nyaralós fotóért.",
+        "ro": "Cu mașina puteți accesa ușor diferitele niveluri ale orașului Étretat. Începeți sus la capelă pentru o panoramă largă, înainte de a vizita grădinile fascinante. La prânz, mergeți în inima stațiunii la Clos Lupin și apoi pe plajă. Încheiați cu o scurtă urcare pe Falaise d'Aval pentru fotografia perfectă de vacanță.",
+        "en": "By car, you can easily access the different levels of Étretat. Start at the top by the chapel for an expansive view before visiting the fascinating gardens. Midday takes you into the heart of the village to Clos Lupin and then to the beach. End your trip with a short walk to Falaise d'Aval for that perfect holiday photo."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frutti di Mare Platte",
+            "tip": "Meeresfrüchte-Spezialitäten in Küstennähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Friss tengeri finomságok a part mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Specialități marine proaspete lângă coastă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Platter",
+            "tip": "Fresh local seafood specialties by the coast."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapellen-Aussicht",
+            "tip": "Am frühen Morgen fast menschenleer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna kilátó",
+            "tip": "Kora reggel szinte teljesen néptelen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea de la capelă",
+            "tip": "Aproape pustie dimineața devreme.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapel Viewpoint",
+            "tip": "Almost deserted early in the morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Lokale Kunstwerke als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Helyi művészeti termékek emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică artizanală",
+            "tip": "Obiecte de artă locală ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Local artistic pieces as souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahren Sie vorsichtig in den engen Gassen des Zentrums.",
+          "Nutzen Sie Bezahl-Apps für die Parkgebühren.",
+          "Die Hauptstraße zum Strand ist oft für PKW gesperrt.",
+          "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+          "Planen Sie mehr Zeit für die Parkplatzsuche am Wochenende ein."
+        ],
+        "hu": [
+          "Vezessen óvatosan a belváros szűk utcáiban.",
+          "Használjon mobilappot a parkolási díj fizetéséhez.",
+          "A strandhoz vezető főutca gyakran le van zárva az autók elől.",
+          "Ne hagyjon értéktárgyat látható helyen az autóban.",
+          "Hétvégén számoljon több idővel a parkolóhely keresésére."
+        ],
+        "ro": [
+          "Conduceți cu atenție pe străduțele înguste din centru.",
+          "Folosiți aplicații mobile pentru plata parcării.",
+          "Strada principală spre plajă este adesea închisă mașinilor.",
+          "Nu lăsați obiecte de valoare la vedere în mașină.",
+          "Alocați mai mult timp pentru căutarea parcării în weekend."
+        ],
+        "en": [
+          "Drive carefully through the narrow town center streets.",
+          "Use mobile apps to pay for parking fees conveniently.",
+          "The main street to the beach is often restricted for cars.",
+          "Do not leave any valuables visible inside the car.",
+          "Allow extra time for finding a parking spot on weekends."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "et-center",
+          "name": {
+            "de": "Étretat Rathausplatz",
+            "hu": "Étretat Városháza tér",
+            "ro": "Piața Primăriei Étretat",
+            "en": "Étretat Town Hall"
+          },
+          "coords": [
+            0.2065,
+            49.7072
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Busse.",
+            "hu": "A buszok központi érkezési pontja.",
+            "ro": "Punctul central de sosire pentru autobuze.",
+            "en": "Central arrival point for buses."
+          }
+        },
+        {
+          "id": "et-beach",
+          "name": {
+            "de": "Plage d'Étretat",
+            "hu": "Étretati strand",
+            "ro": "Plaja din Étretat",
+            "en": "Étretat Beach"
+          },
+          "coords": [
+            0.2035,
+            49.7078
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+            "hu": "Csak pár perc séta a megállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stație.",
+            "en": "Just a few minutes' walk from the bus stop."
+          }
+        },
+        {
+          "id": "et-lupin",
+          "name": {
+            "de": "Le Clos Lupin",
+            "hu": "Le Clos Lupin múzeum",
+            "ro": "Le Clos Lupin",
+            "en": "Le Clos Lupin"
+          },
+          "coords": [
+            0.2075,
+            49.7058
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Einfach erreichbar im Ortskern.",
+            "hu": "Könnyen elérhető a városközpontban.",
+            "ro": "Ușor accesibil în centrul localității.",
+            "en": "Easily accessible in the town center."
+          }
+        },
+        {
+          "id": "et-jardins",
+          "name": {
+            "de": "Les Jardins d'Étretat",
+            "hu": "Étretati kertek",
+            "ro": "Grădinile din Étretat",
+            "en": "Les Jardins d'Étretat"
+          },
+          "coords": [
+            0.2115,
+            49.7102
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Kurzer, steiler Weg von der Haltestelle.",
+            "hu": "Rövid, de meredek út a buszmegállótól.",
+            "ro": "Drum scurt, dar abrupt de la stație.",
+            "en": "Short but steep walk from the stop."
+          }
+        },
+        {
+          "id": "et-amont",
+          "name": {
+            "de": "Falaise d'Amont",
+            "hu": "Falaise d'Amont szikla",
+            "ro": "Falaise d'Amont",
+            "en": "Falaise d'Amont"
+          },
+          "coords": [
+            0.2145,
+            49.7115
+          ],
+          "category": "natural features",
+          "arrive_at": "16:05",
+          "stay_min": 65,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blick auf den Fahrplan für die Rückfahrt nicht vergessen.",
+            "hu": "Ne felejtse el ellenőrizni a visszautat.",
+            "ro": "Nu uitați să verificați orarul pentru întoarcere.",
+            "en": "Don't forget to check the return bus schedule."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den öffentlichen Nahverkehr für einen stressfreien Besuch. Vom zentralen Busstopp erreichen Sie bequem den Strand und die wichtigsten Museen im Ort. Die Klippen erkunden Sie von dort aus zu Fuß, wobei die Route Sie von den geheimnisvollen Gärten bis zur geschichtsträchtigen Klippe d'Amont führt. Ein perfekter Mix aus Komfort und Naturerlebnis.",
+        "hu": "Használja a tömegközlekedést a stresszmentes látogatáshoz. A központi buszmegállóból könnyen elérheti a strandot és a legfontosabb múzeumokat. A sziklákat innen gyalog fedezheti fel, az út a titokzatos kertektől a történelmi Falaise d'Amont-ig vezet. A kényelem és a természeti élmény tökéletes keveréke.",
+        "ro": "Folosiți transportul public pentru o vizită fără stres. Din stația centrală de autobuz puteți ajunge ușor la plajă și la principalele muzee. Faleza se explorează pe jos de acolo, traseul ducându-vă de la grădinile misterioase până la faleza istorică d'Amont. Un mix perfect între confort și natură.",
+        "en": "Use public transport for a stress-free visit to Étretat. From the central bus stop, you can easily reach the beach and the main museums. Explore the cliffs from there on foot, with the route taking you from the mysterious gardens to the historic Falaise d'Amont. A perfect blend of convenience and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Tradition",
+            "tip": "Frische Backwaren für den Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos pékség",
+            "tip": "Friss péksütemények a tengerparti uzsonnához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie tradițională",
+            "tip": "Produse de patiserie proaspete pentru plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional Bakery",
+            "tip": "Fresh pastries for a seaside snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandkörbe",
+            "tip": "Entspannung mit Blick auf die Wellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandkosarak",
+            "tip": "Lazítás a hullámokat figyelve.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coșuri de plajă",
+            "tip": "Relaxare privind valurile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach chairs",
+            "tip": "Relax while watching the waves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Shop",
+            "tip": "Schöne Karten für die Liebsten daheim."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapbolt",
+            "tip": "Szép üdvözlőlapok az otthoniaknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vederi",
+            "tip": "Cărți poștale frumoase pentru cei de acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard Shop",
+            "tip": "Beautiful cards for your loved ones back home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 21 verbindet Le Havre mit Étretat.",
+          "Kaufen Sie Tickets idealerweise vorab online.",
+          "Am Wochenende können Busse sehr voll sein.",
+          "Die Haltestellen sind gut ausgeschildert.",
+          "Achten Sie auf die letzte Abfahrt am Abend."
+        ],
+        "hu": [
+          "A 21-es buszjárat köti össze Le Havre-t és Étretat-t.",
+          "A jegyeket érdemes előre online megváltani.",
+          "Hétvégén a buszok nagyon zsúfoltak lehetnek.",
+          "A megállók jól ki vannak táblázva a központban.",
+          "Mindig figyeljen az utolsó esti járat indulására."
+        ],
+        "ro": [
+          "Linia 21 face legătura între Le Havre și Étretat.",
+          "Cumpărați biletele online în prealabil dacă este posibil.",
+          "În weekend, autobuzele pot fi foarte aglomerate.",
+          "Stațiile sunt bine semnalizate în centru.",
+          "Aveți grijă la ora de plecare a ultimului autobuz."
+        ],
+        "en": [
+          "Bus line 21 connects Le Havre with Étretat.",
+          "Ideally, purchase your tickets online in advance.",
+          "Buses can be very crowded during the weekends.",
+          "The bus stops are well-signposted in the center.",
+          "Always keep an eye on the last departure in the evening."
+        ]
+      }
+    }
+  }
+}

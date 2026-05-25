@@ -1,0 +1,1022 @@
+{
+  "city_id": "menton",
+  "anchor": {
+    "name": "Menton",
+    "coords": [
+      43.7762,
+      7.5044
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilique Saint-Michel-Archange",
+            "hu": "Szent Mihály arkangyal bazilika",
+            "ro": "Bazilica Sfântul Mihail Arhanghelul",
+            "en": "Basilique Saint-Michel-Archange"
+          },
+          "coords": [
+            43.7768,
+            7.5065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Mosaik auf dem Vorplatz der Basilika.",
+            "hu": "Nézze meg a bazilika előtti gyönyörű kavicsmozaikot.",
+            "ro": "Admirați mozaicul de pietricele din fața bazilicii.",
+            "en": "Admire the beautiful pebble mosaic in front of the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents Blancs",
+            "hu": "Fehér Bűnbánók kápolnája",
+            "ro": "Capela Penitents Blancs",
+            "en": "Chapelle des Pénitents Blancs"
+          },
+          "coords": [
+            43.777,
+            7.5068
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese Barockkapelle ist ein Juwel direkt neben der Basilika.",
+            "hu": "Ez a barokk kápolna közvetlenül a bazilika mellett található.",
+            "ro": "Această capelă barocă este o bijuterie chiar lângă bazilică.",
+            "en": "This Baroque chapel is a gem located right next to the basilica."
+          }
+        },
+        {
+          "name": {
+            "de": "Cimetière du Vieux Château",
+            "hu": "Óvár temetője",
+            "ro": "Cimitirul Vechiului Castel",
+            "en": "Cimetière du Vieux Château"
+          },
+          "coords": [
+            43.7778,
+            7.5062
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den besten Panoramablick auf die Bucht und Italien.",
+            "hu": "Élvezze a legjobb panorámát az öbölre és Olaszországra.",
+            "ro": "Bucurați-vă de cea mai bună panoramă asupra golfului și Italiei.",
+            "en": "Enjoy the best panoramic view of the bay and Italy."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Jean Cocteau",
+            "hu": "Jean Cocteau Múzeum",
+            "ro": "Muzeul Jean Cocteau",
+            "en": "Musée Jean Cocteau"
+          },
+          "coords": [
+            43.7745,
+            7.5035
+          ],
+          "category": "museums",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 130,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie auch die Bastion am Hafen, die ebenfalls zum Museum gehört.",
+            "hu": "Látogassa meg a kikötőnél lévő bástyát is, amely a múzeum része.",
+            "ro": "Vizitați și bastionul din port, care face parte din muzeu.",
+            "en": "Visit the bastion by the port, which is also part of the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardins Biovès",
+            "hu": "Biovès kertek",
+            "ro": "Grădinile Biovès",
+            "en": "Jardins Biovès"
+          },
+          "coords": [
+            43.7755,
+            7.4985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Hier findet im Februar das berühmte Zitronenfest statt.",
+            "hu": "Itt rendezik meg februárban a híres Citromfesztivált.",
+            "ro": "Aici are loc faimosul Festival al Lămâilor în februarie.",
+            "en": "The famous Lemon Festival takes place here in February."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais de l'Europe",
+            "hu": "Európa-palota",
+            "ro": "Palatul Europei",
+            "en": "Palais de l'Europe"
+          },
+          "coords": [
+            43.776,
+            7.4975
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "17:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie das aktuelle Programm für Ausstellungen oder Konzerte.",
+            "hu": "Ellenőrizze az aktuális kiállításokat vagy koncertprogramokat.",
+            "ro": "Verificați programul actual pentru expoziții sau concerte.",
+            "en": "Check the current schedule for exhibitions or concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "A délelőtt Menton barokk szívében telik, ahol a bazilika és a kápolna díszes belső terei nyűgöznek le. Az óváros temetőjéből nyíló kilátás után a Jean Cocteau Múzeum modern művészetével ismerkedünk. A napot a Biovès kertek illatos ösvényein és az Európa-palota kulturális központjánál zárjuk, élvezve a francia riviéra elegáns hangulatát.",
+        "de": "Der Vormittag vergeht im barocken Herzen von Menton, wo die prunkvollen Innenräume der Basilika und der Kapelle beeindrucken. Nach dem Ausblick vom Friedhof entdecken wir die moderne Kunst im Jean Cocteau Museum. Den Tag lassen wir in den Jardins Biovès und am Palais de l'Europe ausklingen, während wir die elegante Atmosphäre genießen.",
+        "ro": "Dimineața se desfășoară în inima barocă a orașului Menton, unde interioarele bazilicii și capelei impresionează. După priveliștea de la cimitirul castelului vechi, descoperim arta modernă la Muzeul Jean Cocteau. Încheiem ziua pe aleile parfumate ale grădinilor Biovès și la Palais de l'Europe, bucurându-ne de eleganța Rivierei.",
+        "en": "Morning is spent in the Baroque heart of Menton, admiring the ornate interiors of the basilica and chapel. After the stunning views from the cemetery, we explore modern art at the Jean Cocteau Museum. The day concludes in the fragrant Biovès Gardens and at the Palais de l'Europe, soaking in the elegant French Riviera atmosphere."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Socca",
+            "tip": "Hagyományos csicseriborsó lepény a piacon."
+          },
+          {
+            "name": "Mentoni citromtorta",
+            "tip": "Helyi specialitás a cukrászdákban."
+          },
+          {
+            "name": "Le Petit Port",
+            "tip": "Friss tengeri gyümölcsök a kikötőnél."
+          }
+        ],
+        "de": [
+          {
+            "name": "Socca",
+            "tip": "Traditioneller Kichererbsenfladen auf dem Markt."
+          },
+          {
+            "name": "Menton Zitronentarte",
+            "tip": "Lokale Spezialität in den Konditoreien."
+          },
+          {
+            "name": "Le Petit Port",
+            "tip": "Frische Meeresfrüchte direkt am Hafen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Socca",
+            "tip": "Clătită tradițională din năut la piață."
+          },
+          {
+            "name": "Tartă cu lămâie de Menton",
+            "tip": "Specialitate locală în cofetării."
+          },
+          {
+            "name": "Le Petit Port",
+            "tip": "Fructe de mare proaspete lângă port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Socca",
+            "tip": "Traditional chickpea pancake at the market."
+          },
+          {
+            "name": "Menton Lemon Tart",
+            "tip": "Local specialty in pastry shops."
+          },
+          {
+            "name": "Le Petit Port",
+            "tip": "Fresh seafood right at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Cimetière du Vieux Château",
+            "tip": "Csendes elmélkedés pazar panorámával.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin Botanique Val Rahmeh",
+            "tip": "Trópusi béke a város szélén.",
+            "emoji": "🌿"
+          }
+        ],
+        "de": [
+          {
+            "name": "Cimetière du Vieux Château",
+            "tip": "Stille Kontemplation mit herrlicher Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin Botanique Val Rahmeh",
+            "tip": "Tropische Ruhe am Rande der Stadt.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimetière du Vieux Château",
+            "tip": "Contemplare liniștită cu panoramă superbă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin Botanique Val Rahmeh",
+            "tip": "Liniște tropicală la marginea orașului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Promenade du Soleil",
+            "tip": "Esti séta a tengerparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cimetière du Vieux Château",
+            "tip": "Quiet contemplation with a superb panorama.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin Botanique Val Rahmeh",
+            "tip": "Tropical peace on the edge of town.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Helyi termékek és színes piac."
+          },
+          {
+            "name": "Au Pays du Citron",
+            "tip": "Kiváló citromos szuvenírek."
+          }
+        ],
+        "de": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Lokale Produkte und bunter Markt."
+          },
+          {
+            "name": "Au Pays du Citron",
+            "tip": "Exzellente Zitronen-Souvenirs."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Produse locale și piață colorată."
+          },
+          {
+            "name": "Au Pays du Citron",
+            "tip": "Suveniruri excelente cu lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché des Halles",
+            "tip": "Local products and a colorful market."
+          },
+          {
+            "name": "Au Pays du Citron",
+            "tip": "Excellent lemon-themed souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "Az óváros lépcsői meredekek, viseljen kényelmes cipőt.",
+          "A bazilikát érdemes a reggeli órákban látogatni a fények miatt.",
+          "A kikötő környékén sok jó étterem található.",
+          "Ne hagyja ki a helyi citromos lekvárokat.",
+          "A temetőig való feljutás fárasztó, de a kilátás kárpótolja."
+        ],
+        "de": [
+          "Die Treppen der Altstadt sind steil, tragen Sie bequeme Schuhe.",
+          "Besuchen Sie die Basilika am Vormittag wegen des Lichts.",
+          "Im Hafenbereich gibt es viele gute Restaurants.",
+          "Verpassen Sie nicht die lokalen Zitronenmarmeladen.",
+          "Der Aufstieg zum Friedhof ist anstrengend, aber die Aussicht lohnt sich."
+        ],
+        "ro": [
+          "Treptele orașului vechi sunt abrupte, purtați pantofi confortabili.",
+          "Vizitați bazilica în orele dimineții pentru lumina frumoasă.",
+          "Există multe restaurante bune în zona portului.",
+          "Nu ratați gemurile locale de lămâie.",
+          "Urcarea până la cimitir este obositoare, dar priveliștea merită."
+        ],
+        "en": [
+          "The old town steps are steep, wear comfortable shoes.",
+          "Visit the basilica in the morning for the best light.",
+          "There are many good restaurants around the harbor area.",
+          "Don't miss the local lemon jams.",
+          "The climb to the cemetery is tiring, but the view is worth it."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "hu": "Biovès kertek",
+            "de": "Jardins Biovès",
+            "ro": "Grădinile Biovès",
+            "en": "Jardins Biovès"
+          },
+          "coords": [
+            43.7755,
+            7.4985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "hu": "Kezdje a napot a város legszebb kertjében.",
+            "de": "Beginnen Sie den Tag im schönsten Garten der Stadt.",
+            "ro": "Începeți ziua în cea mai frumoasă grădină a orașului.",
+            "en": "Start your day in the most beautiful garden in town."
+          }
+        },
+        {
+          "name": {
+            "hu": "Jean Cocteau Múzeum",
+            "de": "Musée Jean Cocteau",
+            "ro": "Muzeul Jean Cocteau",
+            "en": "Musée Jean Cocteau"
+          },
+          "coords": [
+            43.7745,
+            7.5035
+          ],
+          "category": "museums",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "hu": "A tengerparti sétányon könnyű ide tekerni.",
+            "de": "Entlang der Promenade lässt es sich herrlich radeln.",
+            "ro": "Este ușor să pedalezi până aici pe faleză.",
+            "en": "It's easy to cycle here along the seafront promenade."
+          }
+        },
+        {
+          "name": {
+            "hu": "Val Rahmeh Botanikus Kert",
+            "de": "Jardin Botanique Val Rahmeh",
+            "ro": "Grădina Botanică Val Rahmeh",
+            "en": "Jardin Botanique Val Rahmeh"
+          },
+          "coords": [
+            43.776,
+            7.513
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 130,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Egzotikus növények és nyugalom a domboldalon.",
+            "de": "Exotische Pflanzen und Ruhe am Hang.",
+            "ro": "Plante exotice și liniște pe versant.",
+            "en": "Exotic plants and tranquility on the hillside."
+          }
+        },
+        {
+          "name": {
+            "hu": "Serre de la Madone",
+            "de": "Serre de la Madone",
+            "ro": "Serre de la Madone",
+            "en": "Serre de la Madone"
+          },
+          "coords": [
+            43.775,
+            7.476
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "hu": "Ez a kert távolabb van, de kerékpárral remek célpont.",
+            "de": "Ein tolles Ziel mit dem Rad etwas abseits der Stadt.",
+            "ro": "O destinație excelentă cu bicicleta, puțin în afara orașului.",
+            "en": "This garden is further away, but makes a great destination by bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Menton a kertek városa, és kerékpárral a legtávolabbi oázisok is könnyen elérhetőek. A Biovès kertek után a tengerparti úton tekerünk a Cocteau Múzeumig, majd felfedezzük a Val Rahmeh botanikai ritkaságait. A nap fénypontja a Serre de la Madone, ahol Lawrence Johnston híres kertépítészeti örökségében gyönyörködhetünk.",
+        "de": "Menton ist die Stadt der Gärten, und mit dem Rad sind auch entlegene Oasen erreichbar. Nach den Jardins Biovès radeln wir am Meer zum Cocteau Museum und entdecken die Raritäten von Val Rahmeh. Der Höhepunkt ist Serre de la Madone, wo wir Lawrence Johnstons Gartenbau-Erbe bewundern.",
+        "ro": "Menton este orașul grădinilor, iar cu bicicleta chiar și cele mai îndepărtate oaze sunt accesibile. După grădinile Biovès, pedalăm de-a lungul mării până la Muzeul Cocteau, apoi descoperim raritățile de la Val Rahmeh. Punctul culminant este Serre de la Madone, cu faimoasa moștenire a lui Lawrence Johnston.",
+        "en": "Menton is the city of gardens, and by bike, even the most distant oases are reachable. After the Biovès Gardens, we cycle along the sea to the Cocteau Museum and discover the botanical rarities of Val Rahmeh. The highlight is Serre de la Madone, where we can admire Lawrence Johnston's famous horticultural legacy."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Barbajuan",
+            "tip": "Spenóttal és ricottával töltött tészta."
+          }
+        ],
+        "de": [
+          {
+            "name": "Barbajuan",
+            "tip": "Mit Spinat und Ricotta gefüllte Teigtaschen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Barbajuan",
+            "tip": "Paste umplute cu spanac și ricotta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barbajuan",
+            "tip": "Stuffed pastry with spinach and ricotta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Serre de la Madone",
+            "tip": "Elszigetelt paradicsom a dombok között.",
+            "emoji": "🌿"
+          }
+        ],
+        "de": [
+          {
+            "name": "Serre de la Madone",
+            "tip": "Isoliertes Paradies in den Hügeln.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Serre de la Madone",
+            "tip": "Paradis izolat printre dealuri.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Serre de la Madone",
+            "tip": "Isolated paradise among the hills.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Citromos szappanok",
+            "tip": "Illatos helyi kézműves termékek."
+          }
+        ],
+        "de": [
+          {
+            "name": "Zitronenseifen",
+            "tip": "Duftende lokale Handwerksprodukte."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săpunuri cu lămâie",
+            "tip": "Produse artizanale locale parfumate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon soaps",
+            "tip": "Fragrant local artisanal products."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A tengerparti szakasz sík, de a kertekhez emelkedők vezetnek.",
+          "Használja a kerékpárutat a Garavan-öböl felé.",
+          "Mindig zárja le a biciklit a látnivalóknál.",
+          "A délutáni melegben keressen árnyékos pihenőket."
+        ],
+        "de": [
+          "Die Küstenstrecke ist flach, aber zu den Gärten führen Steigungen.",
+          "Nutzen Sie den Radweg Richtung Garavan-Bucht.",
+          "Schließen Sie Ihr Rad bei den Sehenswürdigkeiten immer ab.",
+          "Suchen Sie in der Mittagshitze schattige Rastplätze."
+        ],
+        "ro": [
+          "Secțiunea de coastă este plană, dar spre grădini sunt pante.",
+          "Folosiți pista de biciclete spre golful Garavan.",
+          "Încuiați întotdeauna bicicleta la obiectivele turistice.",
+          "Căutați locuri de odihnă umbrite în căldura după-amiezii."
+        ],
+        "en": [
+          "The coastal section is flat, but hills lead up to the gardens.",
+          "Use the cycle path towards Garavan Bay.",
+          "Always lock your bike at the sights.",
+          "Look for shady rest spots during the afternoon heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "hu": "Óvár temetője",
+            "de": "Cimetière du Vieux Château",
+            "ro": "Cimitirul Vechiului Castel",
+            "en": "Cimetière du Vieux Château"
+          },
+          "coords": [
+            43.7778,
+            7.5062
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "hu": "Parkoljon lejjebb, és sétáljon fel a kilátásért.",
+            "de": "Parken Sie weiter unten und gehen Sie für die Aussicht zu Fuß.",
+            "ro": "Parcați mai jos și urcați pentru priveliște.",
+            "en": "Park further down and walk up for the view."
+          }
+        },
+        {
+          "name": {
+            "hu": "Szent Mihály arkangyal bazilika",
+            "de": "Basilique Saint-Michel-Archange",
+            "ro": "Bazilica Sfântul Mihail Arhanghelul",
+            "en": "Basilique Saint-Michel-Archange"
+          },
+          "coords": [
+            43.7768,
+            7.5065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "A barokk homlokzat lenyűgöző fotótéma.",
+            "de": "Die Barockfassade ist ein beeindruckendes Fotomotiv.",
+            "ro": "Fațada barocă este un subiect foto impresionant.",
+            "en": "The Baroque facade is a stunning photo subject."
+          }
+        },
+        {
+          "name": {
+            "hu": "Val Rahmeh Botanikus Kert",
+            "de": "Jardin Botanique Val Rahmeh",
+            "ro": "Grădina Botanică Val Rahmeh",
+            "en": "Jardin Botanique Val Rahmeh"
+          },
+          "coords": [
+            43.776,
+            7.513
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 135,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "hu": "Saját parkolóval rendelkezik, kényelmes megálló.",
+            "de": "Verfügt über einen eigenen Parkplatz, bequemer Stopp.",
+            "ro": "Are parcare proprie, oprire convenabilă.",
+            "en": "Has its own parking, a convenient stop."
+          }
+        },
+        {
+          "name": {
+            "hu": "Serre de la Madone",
+            "de": "Serre de la Madone",
+            "ro": "Serre de la Madone",
+            "en": "Serre de la Madone"
+          },
+          "coords": [
+            43.775,
+            7.476
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "hu": "A dombok között fekvő kert autóval könnyen elérhető.",
+            "de": "Der Garten in den Hügeln ist mit dem Auto leicht erreichbar.",
+            "ro": "Grădina dintre dealuri este ușor accesibilă cu mașina.",
+            "en": "The garden nestled in the hills is easily accessible by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Autóval kényelmesen felfedezhetjük Menton magasabban fekvő kincseit. A temető panorámája és a bazilika barokk pompája után a Garavan negyed felé vesszük az irányt, ahol a Val Rahmeh botanikus kert vár. A délutánt a várostól kicsit távolabb eső, varázslatos Serre de la Madone kertben töltjük.",
+        "de": "Mit dem Auto erkunden wir bequem die höher gelegenen Schätze von Menton. Nach dem Panorama des Friedhofs und der Pracht der Basilika fahren wir zum Botanischen Garten Val Rahmeh. Den Nachmittag verbringen wir im magischen Garten Serre de la Madone, bevor wir ins Zentrum zurückkehren.",
+        "ro": "Cu mașina, explorăm confortabil comorile de la înălțime ale orașului Menton. După panorama cimitirului și splendoarea bazilicii, ne îndreptăm spre cartierul Garavan pentru grădina Val Rahmeh. Petrecem după-amiaza în grădina magică Serre de la Madone, situată puțin în afara orașului.",
+        "en": "By car, we comfortably explore the treasures in the higher parts of Menton. After the cemetery's panorama and the basilica's Baroque splendor, we head towards the Garavan district to visit Val Rahmeh. The afternoon is spent in the magical Serre de la Madone garden, slightly outside the town."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Wolfsbarsch",
+            "tip": "Frissen fogott tengeri süllő provence-i módra."
+          }
+        ],
+        "de": [
+          {
+            "name": "Wolfsbarsch",
+            "tip": "Frisch gefangener Fisch nach provenzalischer Art."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biban de mare",
+            "tip": "Pește proaspăt în stil provensal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sea bass",
+            "tip": "Freshly caught fish prepared in Provençal style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Sainte-Agnès",
+            "tip": "Középkori falu pazar kilátással a közelben.",
+            "emoji": "⛰️"
+          }
+        ],
+        "de": [
+          {
+            "name": "Sainte-Agnès",
+            "tip": "Nahes mittelalterliches Dorf mit toller Aussicht.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sainte-Agnès",
+            "tip": "Sat medieval din apropiere cu vedere superbă.",
+            "emoji": "⛰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sainte-Agnès",
+            "tip": "Nearby medieval village with a great view.",
+            "emoji": "⛰️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Citromlikőr",
+            "tip": "Mentoni különlegesség díszes üvegben."
+          }
+        ],
+        "de": [
+          {
+            "name": "Zitronenlikör",
+            "tip": "Spezialität aus Menton in dekorativer Flasche."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior de lămâie",
+            "tip": "Specialitate locală în sticlă decorativă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon liqueur",
+            "tip": "Menton specialty in a decorative bottle."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "A parkolás nehézkes lehet főszezonban, használja a mélygarázsokat.",
+          "A szűk utcákban legyen óvatos a vezetéssel.",
+          "Látogasson el a közeli Sainte-Agnès faluba is.",
+          "Mindig legyen Önnél aprópénz a parkolóórákhoz."
+        ],
+        "de": [
+          "Parken kann in der Hochsaison schwierig sein, nutzen Sie Tiefgaragen.",
+          "Seien Sie vorsichtig in den engen Gassen.",
+          "Besuchen Sie auch das nahe gelegene Dorf Sainte-Agnès.",
+          "Haben Sie immer Kleingeld für Parkuhren dabei."
+        ],
+        "ro": [
+          "Parcarea poate fi dificilă în sezon, folosiți parcările subterane.",
+          "Fiți atenți la condus în străzile înguste.",
+          "Vizitați și satul apropiat Sainte-Agnès.",
+          "Aveți întotdeauna mărunțiș pentru aparatele de parcare."
+        ],
+        "en": [
+          "Parking can be tricky in high season, use underground parking.",
+          "Be careful driving in the narrow streets.",
+          "Consider visiting the nearby village of Sainte-Agnès.",
+          "Always have small change for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "hu": "Európa-palota",
+            "de": "Palais de l'Europe",
+            "ro": "Palatul Europei",
+            "en": "Palais de l'Europe"
+          },
+          "coords": [
+            43.776,
+            7.4975
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "A buszpályaudvar közelében található.",
+            "de": "Befindet sich in der Nähe des Busbahnhofs.",
+            "ro": "Situat în apropierea autogării.",
+            "en": "Located near the bus station."
+          }
+        },
+        {
+          "name": {
+            "hu": "Biovès kertek",
+            "de": "Jardins Biovès",
+            "ro": "Grădinile Biovès",
+            "en": "Jardins Biovès"
+          },
+          "coords": [
+            43.7755,
+            7.4985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "hu": "Könnyű séta a központi buszmegállóktól.",
+            "de": "Leichter Spaziergang von den Bushaltestellen.",
+            "ro": "Plimbare ușoară de la stațiile de autobuz.",
+            "en": "Easy walk from central bus stops."
+          }
+        },
+        {
+          "name": {
+            "hu": "Jean Cocteau Múzeum",
+            "de": "Musée Jean Cocteau",
+            "ro": "Muzeul Jean Cocteau",
+            "en": "Musée Jean Cocteau"
+          },
+          "coords": [
+            43.7745,
+            7.5035
+          ],
+          "category": "museums",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 130,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "hu": "Használja a helyi 'Zest' buszhálózatot.",
+            "de": "Nutzen Sie das lokale 'Zest'-Busnetz.",
+            "ro": "Folosiți rețeaua de autobuze 'Zest'.",
+            "en": "Use the local 'Zest' bus network."
+          }
+        },
+        {
+          "name": {
+            "hu": "Val Rahmeh Botanikus Kert",
+            "de": "Jardin Botanique Val Rahmeh",
+            "ro": "Grădina Botanică Val Rahmeh",
+            "en": "Jardin Botanique Val Rahmeh"
+          },
+          "coords": [
+            43.776,
+            7.513
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "hu": "A buszmegálló sétatávolságra van a bejárattól.",
+            "de": "Die Bushaltestelle ist nah am Eingang.",
+            "ro": "Stația de autobuz este aproape de intrare.",
+            "en": "The bus stop is within walking distance of the entrance."
+          }
+        },
+        {
+          "name": {
+            "hu": "Szent Mihály arkangyal bazilika",
+            "de": "Basilique Saint-Michel-Archange",
+            "ro": "Bazilica Sfântul Mihail Arhanghelul",
+            "en": "Basilique Saint-Michel-Archange"
+          },
+          "coords": [
+            43.7768,
+            7.5065
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "hu": "Szálljon le az óváros aljánál lévő megállóban.",
+            "de": "Steigen Sie am Fuße der Altstadt aus.",
+            "ro": "Coborâți la baza orașului vechi.",
+            "en": "Get off at the stop at the foot of the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "hu": "Menton tömegközlekedéssel is kiválóan felfedezhető. A központi Európa-palota után busszal jutunk el a kikötőhöz és a Cocteau Múzeumhoz. A délutáni program a Garavan negyed botanikus kertje, majd a napot az óváros barokk bazilikájánál zárjuk.",
+        "de": "Menton lässt sich hervorragend mit Bussen erkunden. Nach dem Palais de l'Europe und den Jardins Biovès nehmen wir den Bus zum Hafen und zum Cocteau Museum. Am Nachmittag besuchen wir den Botanischen Garten von Garavan und beenden den Tag an der Barockbasilika.",
+        "ro": "Menton poate fi explorat excelent cu transportul public. După Palais de l'Europe și grădinile Biovès, luăm autobuzul către port și Muzeul Cocteau. După-amiaza include grădina botanică din Garavan, iar ziua se încheie la bazilica barocă.",
+        "en": "Menton is perfectly explorable via public transport. After visiting the central Palais de l'Europe and the Biovès Gardens, we take a bus to the harbor and the Cocteau Museum. The afternoon features the botanical garden of Garavan, finishing at the Baroque basilica."
+      },
+      "gastro_picks": {
+        "hu": [
+          {
+            "name": "Citromos sör",
+            "tip": "Helyi kézműves sör mentoni citrommal."
+          }
+        ],
+        "de": [
+          {
+            "name": "Zitronenbier",
+            "tip": "Lokales Handwerksbier mit Menton-Zitrone."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere cu lămâie",
+            "tip": "Bere artizanală cu lămâie de Menton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lemon beer",
+            "tip": "Local craft beer brewed with Menton lemons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "hu": [
+          {
+            "name": "Sablettes strand",
+            "tip": "Nyugodt pihenés a tengerparton.",
+            "emoji": "🏖️"
+          }
+        ],
+        "de": [
+          {
+            "name": "Sablettes Strand",
+            "tip": "Ruhige Entspannung am Meer.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Sablettes",
+            "tip": "Relaxare liniștită la malul mării.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sablettes Beach",
+            "tip": "Quiet relaxation by the sea.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "hu": [
+          {
+            "name": "Illatszerek",
+            "tip": "Levendula és citrom illatú termékek."
+          }
+        ],
+        "de": [
+          {
+            "name": "Düfte",
+            "tip": "Produkte mit Lavendel- und Zitronenduft."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parfumuri",
+            "tip": "Produse cu aromă de lavandă și lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragrances",
+            "tip": "Products with lavender and lemon scents."
+          }
+        ]
+      },
+      "tips": {
+        "hu": [
+          "Váltson napijegyet a Zest buszokra.",
+          "A buszok menetrendje pontos, érdemes előre tervezni.",
+          "A Garavan felé tartó buszokról szép a kilátás.",
+          "Használja a vonatot, ha Monacóba menne."
+        ],
+        "de": [
+          "Kaufen Sie eine Tageskarte für die Zest-Busse.",
+          "Die Fahrpläne sind pünktlich, planen Sie voraus.",
+          "Die Busse Richtung Garavan bieten eine schöne Aussicht.",
+          "Nutzen Sie den Zug für Ausflüge nach Monaco."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuzele Zest.",
+          "Orarele sunt punctuale, planificați în avans.",
+          "Autobuzele spre Garavan oferă o vedere frumoasă.",
+          "Folosiți trenul pentru Monaco sau Nisa."
+        ],
+        "en": [
+          "Buy a day pass for the Zest bus network.",
+          "Bus schedules are reliable, planning ahead is recommended.",
+          "Buses heading towards Garavan offer lovely views.",
+          "Use the train for trips to Monaco or Nice."
+        ]
+      }
+    }
+  }
+}

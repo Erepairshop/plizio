@@ -1,0 +1,640 @@
+{
+  "city_id": "cabourg",
+  "anchor": {
+    "name": "Cabourg",
+    "coords": [
+      -0.1428,
+      49.2825
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gärten des Casinos",
+            "hu": "Kaszinó kertjei",
+            "ro": "Grădinile Cazinoului",
+            "en": "Casino Gardens"
+          },
+          "coords": [
+            -0.143,
+            49.283
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Blumenbeete.",
+            "hu": "Csodálja meg a virágágyásokat.",
+            "ro": "Admirați rondurile de flori.",
+            "en": "Admire the beautiful flower beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hôtel de Cabourg",
+            "hu": "Grand Hôtel",
+            "ro": "Grand Hôtel",
+            "en": "Grand Hôtel"
+          },
+          "coords": [
+            -0.1445,
+            49.2845
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Prousts Lieblingsort.",
+            "hu": "Proust kedvenc helye.",
+            "ro": "Locul preferat al lui Proust.",
+            "en": "Marcel Proust's favorite place."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade Marcel Proust",
+            "hu": "Marcel Proust sétány",
+            "ro": "Promenada Marcel Proust",
+            "en": "Promenade Marcel Proust"
+          },
+          "coords": [
+            -0.148,
+            49.2855
+          ],
+          "category": "beach",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Längste Promenade Europas.",
+            "hu": "Európa leghosszabb sétánya.",
+            "ro": "Cea mai lungă promenadă din Europa.",
+            "en": "Europe's longest pedestrian promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Cabourg",
+            "hu": "Cabourg-i strand",
+            "ro": "Plaja Cabourg",
+            "en": "Cabourg Beach"
+          },
+          "coords": [
+            -0.15,
+            49.286
+          ],
+          "category": "beach",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Feiner Sand und blaue Schirme.",
+            "hu": "Finom homok és kék napernyők.",
+            "ro": "Nisip fin și umbrele albastre.",
+            "en": "Fine sand and iconic blue umbrellas."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenue de la Mer",
+            "hu": "Tenger sugárút",
+            "ro": "Avenue de la Mer",
+            "en": "Avenue de la Mer"
+          },
+          "coords": [
+            -0.14,
+            49.281
+          ],
+          "category": "shopping",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stöbern Sie in den Boutiquen.",
+            "hu": "Nézze meg a butikokat.",
+            "ro": "Explorați buticurile locale.",
+            "en": "Stroll through local boutiques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Tauchen Sie ein in die Belle Époque. Beginnen Sie in den Casino-Gärten, besuchen Sie das legendäre Grand Hôtel und spazieren Sie über die endlose Promenade Marcel Proust. Nachmittags genießen Sie die Sonne am feinen Sandstrand und beenden den Tag beim Shoppen in der Avenue de la Mer.",
+        "hu": "Merüljön el a Belle Époque hangulatában. Kezdjen a Kaszinó kertjeiben, látogassa meg a legendás Grand Hotelt, és sétáljon a végtelen Marcel Proust sétányon. Délután élvezze a napsütést a finom homokos strandon, majd zárja a napot vásárlással a Tenger sugárúton.",
+        "ro": "Cufundați-vă în atmosfera Belle Époque. Începeți în grădinile cazinoului, vizitați legendarul Grand Hôtel și plimbați-vă pe nesfârșita promenadă Marcel Proust. După-amiaza, bucurați-vă de soare pe plaja cu nisip fin și încheiați ziua cu cumpărături pe Avenue de la Mer.",
+        "en": "Immerse yourself in the Belle Époque atmosphere. Start in the Casino Gardens, visit the legendary Grand Hôtel, and walk along the endless Marcel Proust promenade. In the afternoon, soak up the sun on the fine sandy beach and end your day shopping on Avenue de la Mer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Balbec",
+            "tip": "Essen wie Proust im Grand Hôtel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Digue aux Huîtres",
+            "tip": "Friss osztriga és tengeri herkentyűk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Embarcadère",
+            "tip": "Pește proaspăt cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Côté Mer",
+            "tip": "Excellent seafood near the casino."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dunes de Cabourg",
+            "tip": "Wilde Natur im Westen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerpart naplementekor",
+            "tip": "Varázslatos színek.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Aquilon",
+            "tip": "Loc liniștit pentru copii și adulți.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mouth of the Dives",
+            "tip": "Serene river meet sea spot.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Cabourg",
+            "tip": "Lokale Käsesorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biscuiterie de Normandie",
+            "tip": "Finom helyi kekszek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Proust",
+            "tip": "Suveniruri literare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pâtisserie Carli",
+            "tip": "Wonderful French pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Probieren Sie die Madeleines, Proust zu Ehren.",
+          "Die Stadt ist strahlenförmig angelegt.",
+          "Buchen Sie im Voraus für das Grand Hôtel."
+        ],
+        "hu": [
+          "Kóstolja meg a madeleine süteményt Proust emlékére.",
+          "A város alaprajza legyező alakú.",
+          "A Grand Hotelbe érdemes előre foglalni."
+        ],
+        "ro": [
+          "Gustați prăjiturile madeleine în onoarea lui Proust.",
+          "Orașul este proiectat în formă de evantai.",
+          "Rezervați masă din timp la Grand Hôtel."
+        ],
+        "en": [
+          "Taste the madeleines in honor of Marcel Proust.",
+          "The town layout is designed in a fan shape.",
+          "Book in advance for a meal at the Grand Hôtel."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casino Cabourg",
+            "en": "Cabourg Casino"
+          },
+          "coords": [
+            -0.143,
+            49.283
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Gyülekező a kaszinó előtt."
+          }
+        },
+        {
+          "name": {
+            "de": "Houlgate Klippen",
+            "en": "Houlgate Cliffs"
+          },
+          "coords": [
+            -0.075,
+            49.305
+          ],
+          "category": "panorama",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrt entlang der Küste."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hôtel",
+            "en": "Grand Hôtel"
+          },
+          "coords": [
+            -0.1445,
+            49.2845
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "ro": "O oprire elegantă."
+          }
+        },
+        {
+          "name": {
+            "de": "Dives-sur-Mer",
+            "en": "Dives-sur-Mer"
+          },
+          "coords": [
+            -0.128,
+            49.286
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "William the Conqueror's port."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand / Promenade",
+            "en": "Beach / Promenade"
+          },
+          "coords": [
+            -0.148,
+            49.2855
+          ],
+          "category": "beach",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "hu": "Kellemes pihenő a parton."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie ins benachbarte Houlgate und entdecken Sie die Geschichte Wilhelms des Eroberers in Dives-sur-Mer.",
+        "hu": "Tekerjen át a szomszédos Houlgate-be, és fedezze fel Hódító Vilmos történetét Dives-sur-Merben.",
+        "ro": "Pedalați până în vecina Houlgate și descoperiți istoria lui William Cuceritorul în Dives-sur-Mer.",
+        "en": "Cycle to neighboring Houlgate and discover the history of William the Conqueror in Dives-sur-Mer."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bougnat",
+            "tip": "Traditionell in Dives-sur-Mer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marais de la Dives",
+            "tip": "Ruhige Sümpfe.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Village d'Art Guillaume le Conquérant",
+            "tip": "Kunsthandwerk."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße ist flach und schön.",
+          "Vorsicht bei Wind am Meer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cabourg Zentrum",
+            "en": "Cabourg Center"
+          },
+          "coords": [
+            -0.1428,
+            49.2825
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "hu": "Parkoljon a Kaszinó közelében."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Hôtel",
+            "en": "Grand Hôtel"
+          },
+          "coords": [
+            -0.1445,
+            49.2845
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kaffee auf der Terrasse."
+          }
+        },
+        {
+          "name": {
+            "de": "Merville Batterie",
+            "en": "Merville Battery"
+          },
+          "coords": [
+            -0.198,
+            49.27
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "ro": "Muzeu despre Debarcare."
+          }
+        },
+        {
+          "name": {
+            "de": "Pegasus Bridge",
+            "en": "Pegasus Bridge"
+          },
+          "coords": [
+            -0.274,
+            49.242
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "en": "Famous D-Day bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabourg Strand",
+            "en": "Cabourg Beach"
+          },
+          "coords": [
+            -0.15,
+            49.286
+          ],
+          "category": "sunset",
+          "arrive_at": "16:25",
+          "stay_min": 125,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "hu": "Visszatérés a tengerpartra."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kombinieren Sie den Charme von Cabourg mit der Geschichte der Landung der Alliierten an der Merville Batterie und der Pegasus Bridge.",
+        "hu": "Kombinálja Cabourg báját a szövetséges partraszállás történetével a Merville-i ütegnél és a Pegasus-hídnál.",
+        "ro": "Combinați farmecul din Cabourg cu istoria debarcării aliaților la bateria Merville și podul Pegasus.",
+        "en": "Combine the charm of Cabourg with D-Day history at the Merville Battery and Pegasus Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant du Port",
+            "tip": "In der Nähe von Merville."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Orne-Mündung",
+            "tip": "Natur pur.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Normandie Outlet",
+            "tip": "Marken zu guten Preisen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Museen schließen oft um 18 Uhr.",
+          "Parkplätze sind am Strand zahlungspflichtig."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.5,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Dives-Cabourg",
+            "en": "Dives-Cabourg Station"
+          },
+          "coords": [
+            -0.13,
+            49.287
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "hu": "Városnéző buszok indulása."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Cabourg",
+            "en": "Cabourg Casino"
+          },
+          "coords": [
+            -0.143,
+            49.283
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Linie 20 hält hier."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade Marcel Proust",
+            "en": "Marcel Proust Promenade"
+          },
+          "coords": [
+            -0.148,
+            49.2855
+          ],
+          "category": "beach",
+          "arrive_at": "11:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "ro": "Acces ușor de la stația de autobuz."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenue de la Mer",
+            "en": "Avenue de la Mer"
+          },
+          "coords": [
+            -0.14,
+            49.281
+          ],
+          "category": "shopping",
+          "arrive_at": "14:00",
+          "stay_min": 185,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "en": "Perfect for a late afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Shuttle-Bus, um bequem von Dives nach Cabourg und zur Promenade zu gelangen.",
+        "hu": "Használja a buszjáratot Dives és Cabourg, valamint a sétány közötti kényelmes közlekedéshez.",
+        "ro": "Folosiți autobuzul de transfer pentru a ajunge ușor de la Dives la Cabourg și la promenadă.",
+        "en": "Use the shuttle bus to easily get from Dives to Cabourg and the promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brasserie du Casino",
+            "tip": "Klassisch und gut."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square de l'Hôtel de Ville",
+            "tip": "Ruhiges Grün.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Carrefour Market",
+            "tip": "Gute Auswahl an Spezialitäten."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse heißen 'Nomad'.",
+          "Im Sommer sind die Busse oft voll."
+        ]
+      }
+    }
+  }
+}

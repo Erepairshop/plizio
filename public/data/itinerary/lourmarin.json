@@ -1,0 +1,958 @@
+{
+  "city_id": "lourmarin",
+  "anchor": {
+    "name": "Lourmarin",
+    "coords": [
+      5.3625,
+      43.7642
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 2.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Place de l'Ormeau",
+          "coords": [
+            5.3628,
+            43.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Herzschlag des Dorfes, ideal für Fotos.",
+            "hu": "A falu szíve, ideális fotózáshoz.",
+            "ro": "Inima satului, ideală pentru fotografii.",
+            "en": "The heartbeat of the village, ideal for photos."
+          }
+        },
+        {
+          "name": "Le Beffroi de Lourmarin",
+          "coords": [
+            5.3635,
+            43.764
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schöner Glockenturm im Herzen der Gassen.",
+            "hu": "Szép harangtorony a szűk utcák mélyén.",
+            "ro": "Un turn cu ceas frumos în inima străduțelor.",
+            "en": "A beautiful bell tower in the heart of the alleys."
+          }
+        },
+        {
+          "name": "La Fontaine aux Trois Masques",
+          "coords": [
+            5.363,
+            43.7638
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Berühmter Brunnen, ein Symbol des Ortes.",
+            "hu": "Híres szökőkút, a település szimbóluma.",
+            "ro": "Fântână celebră, un simbol al localității.",
+            "en": "Famous fountain, a symbol of the village."
+          }
+        },
+        {
+          "name": "Château de Lourmarin",
+          "coords": [
+            5.3605,
+            43.7645
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das erste Renaissance-Schloss der Provence.",
+            "hu": "Provence első reneszánsz kastélya.",
+            "ro": "Primul castel renascentist din Provence.",
+            "en": "The first Renaissance castle in Provence."
+          }
+        },
+        {
+          "name": "Temple Protestant",
+          "coords": [
+            5.3615,
+            43.765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlichte und elegante Architektur.",
+            "hu": "Egyszerű és elegáns építészet.",
+            "ro": "Arhitectură simplă și elegantă.",
+            "en": "Simple and elegant architecture."
+          }
+        },
+        {
+          "name": "Église Saint-André et Saint-Trophime",
+          "coords": [
+            5.3635,
+            43.7632
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wunderschönes romanisches Portal.",
+            "hu": "Csodálatos román stílusú kapuzat.",
+            "ro": "Portal romanic superb.",
+            "en": "Beautiful Romanesque portal."
+          }
+        },
+        {
+          "name": "Tombe d'Albert Camus",
+          "coords": [
+            5.365,
+            43.7615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein bescheidenes Grab für einen großen Geist.",
+            "hu": "Mérsékelt sírhely egy nagy elme számára.",
+            "ro": "Un mormânt modest pentru o minte luminată.",
+            "en": "A modest grave for a great mind."
+          }
+        },
+        {
+          "name": "Pont romain de Lourmarin",
+          "coords": [
+            5.358,
+            43.768
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Historische Brücke über die Aigue Brun.",
+            "hu": "Történelmi híd az Aigue Brun felett.",
+            "ro": "Pod istoric peste râul Aigue Brun.",
+            "en": "Historical bridge over the Aigue Brun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie den Morgen auf der Place de l'Ormeau mit einem Kaffee. Schlendern Sie durch die Gassen zum Beffroi und zum Maskenbrunnen. Das prächtige Renaissanceschloss ist der Höhepunkt des Vormittags. Nach dem Mittagessen besuchen Sie den protestantischen Tempel und die romanische Kirche. Ein Spaziergang zum Friedhof führt Sie zum Grab von Camus, bevor der Tag an der römischen Brücke endet.",
+        "hu": "Élvezze a reggelt a Place de l'Ormeau-n egy kávéval. Sétáljon a sikátorokon át a harangtoronyhoz és a maszkos kúthoz. A pazar reneszánsz kastély a délelőtt fénypontja. Ebéd után látogassa meg a protestáns templomot és a román stílusú templomot. Egy séta a temetőhöz elvezeti Camus sírjához, majd a nap a római hídnál zárul.",
+        "ro": "Savurați dimineața în Place de l'Ormeau cu o cafea. Plimbați-vă pe străduțe spre turnul cu ceas și fântâna cu măști. Castelul renascentist superb este punctul culminant al dimineții. După prânz, vizitați templul protestant și biserica romanică. O plimbare spre cimitir vă duce la mormântul lui Camus, iar ziua se încheie la podul roman.",
+        "en": "Enjoy the morning at Place de l'Ormeau with a coffee. Stroll through the alleys to the bell tower and the masked fountain. The magnificent Renaissance castle is the highlight of the morning. After lunch, visit the Protestant temple and the Romanesque church. A walk to the cemetery leads you to Camus's grave before the day ends at the Roman bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Numéro 9",
+            "tip": "Raffiniertes Menü im Herzen des Dorfes."
+          },
+          {
+            "name": "Café Gaby",
+            "tip": "Klassisches Bistrot-Erlebnis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Numéro 9",
+            "tip": "Finomított menü a falu szívében."
+          },
+          {
+            "name": "Café Gaby",
+            "tip": "Klasszikus bisztró élmény."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Numéro 9",
+            "tip": "Meniu rafinat în inima satului."
+          },
+          {
+            "name": "Café Gaby",
+            "tip": "Experiență clasică de bistrou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Numéro 9",
+            "tip": "Refined menu in the heart of the village."
+          },
+          {
+            "name": "Café Gaby",
+            "tip": "Classic bistro experience."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Lourmarin",
+            "tip": "Friedliche Stille und Zypressen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aigue Brun Ufer",
+            "tip": "Rauschen des Wassers genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lourmarin temető",
+            "tip": "Békés csend és ciprusok.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Aigue Brun partja",
+            "tip": "Élvezze a víz csobogását.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Lourmarin",
+            "tip": "Liniște deplină și chiparoși.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Malul Aigue Brun",
+            "tip": "Bucurați-vă de susurul apei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lourmarin Cemetery",
+            "tip": "Peaceful silence and cypresses.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Banks of Aigue Brun",
+            "tip": "Enjoy the sound of the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Freitagsmarkt",
+            "tip": "Einer der besten Märkte der Provence."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pénteki piac",
+            "tip": "Provence egyik legjobb piaca."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de vineri",
+            "tip": "Una dintre cele mai bune piețe din Provence."
+          }
+        ],
+        "en": [
+          {
+            "name": "Friday Market",
+            "tip": "One of the best markets in Provence."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kommen Sie am Freitag sehr früh wegen des Marktes.",
+          "Das Dorf ist fast komplett flach und leicht zu begehen.",
+          "Viele Künstlergalerien verstecken sich in den Gassen.",
+          "Im Sommer gibt es Abendkonzerte im Schloss."
+        ],
+        "hu": [
+          "Pénteken érkezzen korán a piac miatt.",
+          "A falu szinte teljesen sík, könnyen bejárható.",
+          "Sok művészeti galéria rejtőzik a sikátorokban.",
+          "Nyáron esti koncerteket tartanak a kastélyban."
+        ],
+        "ro": [
+          "Veniți foarte devreme vineri pentru piață.",
+          "Satul este aproape complet plat și ușor de parcurs.",
+          "Multe galerii de artă se ascund pe străduțe.",
+          "Vara au loc concerte de seară la castel."
+        ],
+        "en": [
+          "Arrive very early on Friday for the market.",
+          "The village is almost completely flat and easy to walk.",
+          "Many art galleries are hidden in the alleys.",
+          "In summer, evening concerts are held at the castle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Château de Lourmarin",
+          "coords": [
+            5.3605,
+            43.7645
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Radweg rund um das Schloss.",
+            "hu": "Szép kerékpárút a kastély körül.",
+            "ro": "Pistă de biciclete frumoasă în jurul castelului.",
+            "en": "Nice bike path around the castle."
+          }
+        },
+        {
+          "name": "Pont romain de Lourmarin",
+          "coords": [
+            5.358,
+            43.768
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ruhige Nebenstraße für Radfahrer.",
+            "hu": "Csendes mellékút kerékpárosoknak.",
+            "ro": "Drum secundar liniștit pentru bicicliști.",
+            "en": "Quiet side road for cyclists."
+          }
+        },
+        {
+          "name": "Vineyards of Lourmarin",
+          "coords": [
+            5.375,
+            43.755
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrt durch die Weinberge des Luberon.",
+            "hu": "Tekerjen át a Luberon szőlőültetvényein.",
+            "ro": "Drum prin podgoriile din Luberon.",
+            "en": "Ride through the Luberon vineyards."
+          }
+        },
+        {
+          "name": "Place de l'Ormeau",
+          "coords": [
+            5.3628,
+            43.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher ab.",
+            "hu": "Biztonságosan zárja le a kerékpárját.",
+            "ro": "Parcați bicicleta în siguranță.",
+            "en": "Park your bike securely."
+          }
+        },
+        {
+          "name": "Tombe d'Albert Camus",
+          "coords": [
+            5.365,
+            43.7615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Einfache Fahrt bergab zum Friedhof.",
+            "hu": "Könnyű lejtős út a temetőhöz.",
+            "ro": "Drum ușor în pantă spre cimitir.",
+            "en": "Easy downhill ride to the cemetery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Luberon-Tal auf dem Fahrrad. Nach dem Schloss führt die Route zur römischen Brücke und durch malerische Weinberge. Zum Mittagessen kehren Sie ins Dorfzentrum zurück. Die flachen Wege rund um Lourmarin sind ideal für entspanntes Radeln, bevor Sie den Tag am Friedhof abschließen.",
+        "hu": "Fedezze fel a Luberon-völgyet kerékpáron. A kastély után az útvonal a római hídhoz és festői szőlőültetvényekhez vezet. Ebédre térjen vissza a falu központjába. A Lourmarin körüli sík utak ideálisak a pihentető tekeréshez, mielőtt a napot a temetőnél zárná.",
+        "ro": "Explorați valea Luberon pe bicicletă. După castel, ruta duce la podul roman și prin podgorii pitorești. Pentru prânz, reveniți în centrul satului. Drumurile plate din jurul Lourmarin sunt ideale pentru pedalat relaxat, înainte de a încheia ziua la cimitir.",
+        "en": "Explore the Luberon valley by bike. After the castle, the route leads to the Roman bridge and through picturesque vineyards. For lunch, return to the village center. The flat paths around Lourmarin are ideal for relaxed cycling before ending the day at the cemetery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picnic in the Vines",
+            "tip": "Lokaler Käse und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a szőlőben",
+            "tip": "Helyi sajt és bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic în vii",
+            "tip": "Brânză și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic in the Vines",
+            "tip": "Local cheese and wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine",
+            "tip": "Schattige Pausenplätze.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfák",
+            "tip": "Árnyékos pihenőhelyek.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezi de măslini",
+            "tip": "Locuri de odihnă umbrite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Groves",
+            "tip": "Shady break spots.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Domaine de la Citadelle",
+            "tip": "Weinverkauf direkt beim Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Domaine de la Citadelle",
+            "tip": "Borvásárlás közvetlenül a borásznál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Domaine de la Citadelle",
+            "tip": "Vânzare de vin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Domaine de la Citadelle",
+            "tip": "Wine sales direct from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für längere Touren im Umland.",
+          "Tragen Sie einen Helm, auch auf Nebenwegen.",
+          "Die Wege sind im Sommer sehr staubig.",
+          "Achten Sie auf Traktoren während der Weinlese."
+        ],
+        "hu": [
+          "Béreljen elektromos kerékpárt a hosszabb túrákhoz.",
+          "Viseljen sisakot a mellékutakon is.",
+          "Az utak nyáron nagyon porosak.",
+          "Vigyázzon a traktorokra a szüret idején."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru tururi lungi.",
+          "Purtați cască, chiar și pe drumuri secundare.",
+          "Drumurile sunt foarte prăfoase vara.",
+          "Atenție la tractoare în timpul culesului viilor."
+        ],
+        "en": [
+          "Rent an e-bike for longer tours in the area.",
+          "Wear a helmet, even on side roads.",
+          "The paths are very dusty in summer.",
+          "Watch out for tractors during the harvest."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Château de Lourmarin",
+          "coords": [
+            5.3605,
+            43.7645
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großer Besucherparkplatz vorhanden.",
+            "hu": "Nagy látogatói parkoló áll rendelkezésre.",
+            "ro": "Parcare mare pentru vizitatori disponibilă.",
+            "en": "Large visitor parking available."
+          }
+        },
+        {
+          "name": "Bonnieux (Viewpoint)",
+          "coords": [
+            5.308,
+            43.822
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Blick auf Lourmarin von der gegenüberliegenden Seite.",
+            "hu": "Kilátás Lourmarinra a túloldalról.",
+            "ro": "Vedere spre Lourmarin de pe partea opusă.",
+            "en": "View of Lourmarin from the opposite side."
+          }
+        },
+        {
+          "name": "Place de l'Ormeau",
+          "coords": [
+            5.3628,
+            43.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang.",
+            "hu": "Parkoljon a falu bejáratánál.",
+            "ro": "Parcați la intrarea în sat.",
+            "en": "Park at the village entrance."
+          }
+        },
+        {
+          "name": "Pont romain de Lourmarin",
+          "coords": [
+            5.358,
+            43.768
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Haltemöglichkeit direkt an der Brücke.",
+            "hu": "Megállási lehetőség közvetlenül a hídnál.",
+            "ro": "Posibilitate de oprire chiar la pod.",
+            "en": "Stopping possibility right at the bridge."
+          }
+        },
+        {
+          "name": "Ansouis (Nearby)",
+          "coords": [
+            5.464,
+            43.738
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Besuch eines weiteren 'schönsten Dorfes'.",
+            "hu": "Látogasson el egy másik 'legszebb faluba'.",
+            "ro": "Vizitați un alt 'cel mai frumos sat'.",
+            "en": "Visit another 'most beautiful village'."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen, die Schönheit des Luberon weiträumig zu erkunden. Nach dem Schloss von Lourmarin fahren Sie nach Bonnieux für ein tolles Panorama. Das Mittagessen genießen Sie wieder in Lourmarin. Am Nachmittag besuchen Sie die römische Brücke und das charmante Nachbardorf Ansouis.",
+        "hu": "Az autó lehetővé teszi a Luberon szépségeinek szélesebb körű felfedezését. A lourmarini kastély után utazzon Bonnieux-be a remek panorámáért. Az ebédet ismét Lourmarinban fogyassza el. Délután látogassa meg a római hidat és a bájos szomszédos falut, Ansouis-t.",
+        "ro": "Mașina vă permite să explorați frumusețea Luberonului pe scară largă. După castelul din Lourmarin, mergeți la Bonnieux pentru o panoramă grozavă. Savurați prânzul din nou în Lourmarin. După-amiaza, vizitați podul roman și satul vecin fermecător Ansouis.",
+        "en": "The car allows you to explore the beauty of the Luberon widely. After the castle in Lourmarin, drive to Bonnieux for a great panorama. Enjoy lunch back in Lourmarin. In the afternoon, visit the Roman bridge and the charming neighboring village of Ansouis."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge de la Fenière",
+            "tip": "Sternekuche in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge de la Fenière",
+            "tip": "Csillagos konyha a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge de la Fenière",
+            "tip": "Bucătărie cu stele Michelin în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge de la Fenière",
+            "tip": "Starred cuisine nearby."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Forêt des Cèdres",
+            "tip": "Gigantische Zedern und Stille.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cédruserdő",
+            "tip": "Hatalmas cédrusok és csend.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de Cedri",
+            "tip": "Cedri giganți și liniște.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cedar Forest",
+            "tip": "Giant cedars and silence.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Huilerie Bastide du Laval",
+            "tip": "Bestes Olivenöl der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Huilerie Bastide du Laval",
+            "tip": "A régió legjobb olívaolaja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Huilerie Bastide du Laval",
+            "tip": "Cel mai bun ulei de măsline din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Huilerie Bastide du Laval",
+            "tip": "Best olive oil in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng; fahren Sie vorsichtig.",
+          "Parken Sie auf dem großen Parkplatz 'Parking des Cerisiers'.",
+          "Die Fahrt durch die Combe de Lourmarin ist spektakulär.",
+          "Vermeiden Sie das Dorfzentrum mit dem Auto."
+        ],
+        "hu": [
+          "Az utak szűkek, vezessen óvatosan.",
+          "Parkoljon a nagy 'Parking des Cerisiers' parkolóban.",
+          "A Combe de Lourmarin szurdokán való áthaladás látványos.",
+          "Kerülje el a falu központját autóval."
+        ],
+        "ro": [
+          "Drumurile sunt înguste; conduceți cu atenție.",
+          "Parcați în parcarea mare 'Parking des Cerisiers'.",
+          "Drumul prin Combe de Lourmarin este spectaculos.",
+          "Evitați centrul satului cu mașina."
+        ],
+        "en": [
+          "The roads are narrow; drive carefully.",
+          "Park in the large 'Parking des Cerisiers' lot.",
+          "The drive through the Combe de Lourmarin is spectacular.",
+          "Avoid the village center by car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Lourmarin Bus Stop",
+          "coords": [
+            5.364,
+            43.7625
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Zentraler Halt für Busse aus Aix-en-Provence.",
+            "hu": "Központi megálló az Aix-en-Provence-ból érkező buszoknak.",
+            "ro": "Stație centrală pentru autobuzele din Aix-en-Provence.",
+            "en": "Central stop for buses from Aix-en-Provence."
+          }
+        },
+        {
+          "name": "Château de Lourmarin",
+          "coords": [
+            5.3605,
+            43.7645
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "Scurtă plimbare de la stație.",
+            "en": "Short walk from the stop."
+          }
+        },
+        {
+          "name": "Place de l'Ormeau",
+          "coords": [
+            5.3628,
+            43.7635
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentrum des dörflichen Lebens.",
+            "hu": "A falusi élet központja.",
+            "ro": "Centrul vieții satului.",
+            "en": "Center of village life."
+          }
+        },
+        {
+          "name": "Tombe d'Albert Camus",
+          "coords": [
+            5.365,
+            43.7615
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Friedhof liegt am Ortsrand.",
+            "hu": "A temető a falu szélén található.",
+            "ro": "Cimitirul se află la marginea satului.",
+            "en": "The cemetery is located on the outskirts."
+          }
+        },
+        {
+          "name": "Temple Protestant",
+          "coords": [
+            5.3615,
+            43.765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Oft für kulturelle Events genutzt.",
+            "hu": "Gyakran használt kulturális eseményekre.",
+            "ro": "Deseori folosit pentru evenimente culturale.",
+            "en": "Often used for cultural events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Bus aus Aix oder Pertuis an. Vom zentralen Halt erreichen Sie das Schloss in wenigen Minuten. Erkunden Sie das historische Zentrum und den Marktplatz zu Fuß. Nach einer Pause besuchen Sie das Grab von Camus und den protestantischen Tempel, bevor Sie den Bus zur Rückreise nehmen.",
+        "hu": "Érkezzen busszal Aix-ből vagy Pertuis-ből. A központi megállótól pár perc alatt elérheti a kastélyt. Gyalog fedezze fel a történelmi központot és a piacteret. Egy pihenő után látogassa meg Camus sírját és a protestáns templomot, mielőtt buszra szállna a visszaúthoz.",
+        "ro": "Călătoriți cu autobuzul din Aix sau Pertuis. De la stația centrală ajungeți la castel în câteva minute. Explorați centrul istoric și piața pe jos. După o pauză, vizitați mormântul lui Camus și templul protestant, înainte de a lua autobuzul pentru întoarcere.",
+        "en": "Travel by bus from Aix or Pertuis. From the central stop, you can reach the castle in a few minutes. Explore the historic center and the marketplace on foot. After a break, visit Camus's grave and the Protestant temple before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Sandwiches für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Szendvicsek az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Sandvișuri pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie du Village",
+            "tip": "Sandwiches for the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kleine Gassen",
+            "tip": "Schatten und Ruhe finden.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis sikátorok",
+            "tip": "Árnyék és nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străduțe mici",
+            "tip": "Găsiți umbră și liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Alleys",
+            "tip": "Find shade and peace.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir du Luberon",
+            "tip": "Lavendelsäckchen und Seifen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenir du Luberon",
+            "tip": "Levendulazsákok és szappanok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenir du Luberon",
+            "tip": "Săculeți cu lavandă și săpunuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir du Luberon",
+            "tip": "Lavender sachets and soaps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Linie 908 (Zou!).",
+          "Am Wochenende fahren weniger Busse.",
+          "Die Tickets können beim Fahrer gekauft werden.",
+          "Lourmarin ist ein idealer Transit-Hub im Luberon."
+        ],
+        "hu": [
+          "Ellenőrizze a 908-as (Zou!) járat menetrendjét.",
+          "Hétvégén kevesebb busz közlekedik.",
+          "A jegyeket a sofőrnél is megvásárolhatja.",
+          "Lourmarin ideális közlekedési csomópont a Luberonban."
+        ],
+        "ro": [
+          "Verificați orarul liniei 908 (Zou!).",
+          "Sunt mai puține autobuze în weekend.",
+          "Biletele pot fi cumpărate de la șofer.",
+          "Lourmarin este un nod de tranzit ideal în Luberon."
+        ],
+        "en": [
+          "Check the schedule of line 908 (Zou!).",
+          "Fewer buses run on weekends.",
+          "Tickets can be bought from the driver.",
+          "Lourmarin is an ideal transit hub in the Luberon."
+        ]
+      }
+    }
+  }
+}

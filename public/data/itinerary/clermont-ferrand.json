@@ -1,0 +1,1270 @@
+{
+  "city_id": "clermont-ferrand",
+  "anchor": {
+    "name": "Place de Jaude",
+    "coords": [
+      3.082,
+      45.777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place de Jaude",
+          "coords": [
+            3.082,
+            45.777
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Vercingetorix-Statue von Bartholdi.",
+            "hu": "Csodálja meg Vercingetorix szobrát, melyet Bartholdi készített.",
+            "ro": "Admirați statuia lui Vercingetorix realizată de Bartholdi.",
+            "en": "Admire the Vercingetorix statue created by Bartholdi."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame-de-l'Assomption",
+          "coords": [
+            3.085,
+            45.778
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die einzige Kathedrale aus schwarzem Lavastein in Frankreich.",
+            "hu": "Franciaország egyetlen fekete lávakőből épült katedrálisa.",
+            "ro": "Singura catedrală din piatră de lavă neagră din Franța.",
+            "en": "The only cathedral built entirely from black lava stone in France."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame-du-Port",
+          "coords": [
+            3.09,
+            45.78
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe mit beeindruckenden Kapitellen.",
+            "hu": "UNESCO világörökség lenyűgöző oszlopfőkkel.",
+            "ro": "Sit UNESCO cu capiteluri sculptate impresionante.",
+            "en": "UNESCO World Heritage site with impressive sculpted capitals."
+          }
+        },
+        {
+          "name": "Marché Saint-Pierre",
+          "coords": [
+            3.083,
+            45.779
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Saint-Nectaire Käse.",
+            "hu": "Kóstolja meg a helyi Saint-Nectaire sajtot.",
+            "ro": "Gustați brânza locală Saint-Nectaire.",
+            "en": "Try the local Saint-Nectaire cheese."
+          }
+        },
+        {
+          "name": "Jardin Lecoq",
+          "coords": [
+            3.088,
+            45.773
+          ],
+          "category": "park",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein englischer Garten im Herzen der Stadt.",
+            "hu": "Angolkert a város szívében.",
+            "ro": "O grădină englezească în inima orașului.",
+            "en": "An English-style garden in the heart of the city."
+          }
+        },
+        {
+          "name": "Musée Bargoin",
+          "coords": [
+            3.087,
+            45.774
+          ],
+          "category": "museum",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Archäologische Schätze aus der gallo-römischen Zeit.",
+            "hu": "Gallo-római kori régészeti kincsek.",
+            "ro": "Trezori arheologice din epoca gallo-romană.",
+            "en": "Archaeological treasures from the Gallo-Roman era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Place de Jaude, dem pulsierenden Zentrum von Clermont-Ferrand. Die markante schwarze Kathedrale aus Volvic-Stein dominiert das Stadtbild und bietet im Inneren faszinierende Glasmalereien. Nach einem Besuch der romanischen Basilika Notre-Dame-du-Port lockt der Marché Saint-Pierre mit regionalen Köstlichkeiten. Den Nachmittag verbringen Sie entspannt im Jardin Lecoq, bevor Sie im Musée Bargoin in die antike Geschichte der Auvergne eintauchen.",
+        "hu": "Kezdje a napot a Place de Jaude-on, Clermont-Ferrand nyüzsgő központjában. A Volvic-kőből épült jellegzetes fekete katedrális uralja a városképet, belsejében lenyűgöző üvegablakokkal. A román stílusú Notre-Dame-du-Port bazilika megtekintése után a Marché Saint-Pierre kínál regionális finomságokat. A délutánt töltse pihenéssel a Jardin Lecoq parkban, majd merüljön el Auvergne ókori történelmében a Musée Bargoin falai között.",
+        "ro": "Începeți ziua în Place de Jaude, centrul vibrant al orașului Clermont-Ferrand. Catedrala neagră distinctivă, construită din piatră de Volvic, domină peisajul urban și oferă vitralii fascinante în interior. După o vizită la basílica romanică Notre-Dame-du-Port, piața Saint-Pierre vă atrage cu delicii regionale. Petreceți după-amiaza relaxându-vă în Jardin Lecoq, înainte de a explora istoria antică a regiunii Auvergne la Musée Bargoin.",
+        "en": "Start your day at Place de Jaude, the vibrant heart of Clermont-Ferrand. The striking black cathedral made of Volvic stone dominates the skyline and features fascinating stained glass inside. After visiting the Romanesque Basilica of Notre-Dame-du-Port, the Saint-Pierre Market entices with regional delicacies. Spend the afternoon relaxing in Jardin Lecoq before diving into the ancient history of Auvergne at the Musée Bargoin."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Truffade",
+            "tip": "Herzhaftes Gericht aus Kartoffeln und Cantal-Käse im L'Ostal."
+          },
+          {
+            "name": "Pounti",
+            "tip": "Traditioneller Fleisch-Gemüse-Kuchen im Le Saint-Eutrope."
+          },
+          {
+            "name": "Bleu d'Auvergne",
+            "tip": "Berühmter Blauschimmelkäse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Truffade",
+            "tip": "Kiadós burgonyás-sajtos étel Cantal sajttal az L'Ostal étteremben."
+          },
+          {
+            "name": "Pounti",
+            "tip": "Hagyományos húsos-zöldséges pite a Le Saint-Eutrope-ban."
+          },
+          {
+            "name": "Bleu d'Auvergne",
+            "tip": "A régió híres kékpenészes sajtja."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Truffade",
+            "tip": "Mâncare consistentă din cartofi și brânză Cantal la L'Ostal."
+          },
+          {
+            "name": "Pounti",
+            "tip": "Plăcintă tradițională cu carne și legume la Le Saint-Eutrope."
+          },
+          {
+            "name": "Bleu d'Auvergne",
+            "tip": "Celebrul tip de brânză cu mucegai din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffade",
+            "tip": "Hearty potato and Cantal cheese dish at L'Ostal."
+          },
+          {
+            "name": "Pounti",
+            "tip": "Traditional meat and vegetable cake at Le Saint-Eutrope."
+          },
+          {
+            "name": "Bleu d'Auvergne",
+            "tip": "Famous blue cheese from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvédère de la Place de la Victoire",
+            "tip": "Blick auf die Türme der Kathedrale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Square Blaise-Pascal",
+            "tip": "Ein ruhiger Platz hinter der Kathedrale.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fontaine d'Amboise",
+            "tip": "Prächtiger Renaissance-Brunnen.",
+            "emoji": "⛲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place de la Victoire kilátó",
+            "tip": "Kilátás a katedrális tornyaira.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Square Blaise-Pascal",
+            "tip": "Csendes tér a katedrális mögött.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fontaine d'Amboise",
+            "tip": "Pompás reneszánsz szökőkút.",
+            "emoji": "⛲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvédère de la Place de la Victoire",
+            "tip": "Vedere asupra turnurilor catedralei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Square Blaise-Pascal",
+            "tip": "O piațetă liniștită în spatele catedralei.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fontaine d'Amboise",
+            "tip": "Fântână renascentistă magnifică.",
+            "emoji": "⛲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvédère de la Place de la Victoire",
+            "tip": "View of the cathedral towers.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Square Blaise-Pascal",
+            "tip": "A quiet square behind the cathedral.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Fontaine d'Amboise",
+            "tip": "Magnificent Renaissance fountain.",
+            "emoji": "⛲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue des Gras",
+            "tip": "Boutiquen mit Blick auf den Puy de Dôme."
+          },
+          {
+            "name": "L'Aventure Michelin Boutique",
+            "tip": "Einzigartige Souvenirs der Reifenmarke."
+          },
+          {
+            "name": "Les Fromages de l'Abeille",
+            "tip": "Spezialitätenladen für Auvergne-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue des Gras",
+            "tip": "Butikok kilátással a Puy de Dôme-ra."
+          },
+          {
+            "name": "L'Aventure Michelin Boutique",
+            "tip": "Egyedi szuvenírek a gumiabroncs márkától."
+          },
+          {
+            "name": "Les Fromages de l'Abeille",
+            "tip": "Szaküzlet auvergne-i sajtokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue des Gras",
+            "tip": "Boutique-uri cu vedere spre Puy de Dôme."
+          },
+          {
+            "name": "L'Aventure Michelin Boutique",
+            "tip": "Suveniruri unice ale mărcii de anvelope."
+          },
+          {
+            "name": "Les Fromages de l'Abeille",
+            "tip": "Magazin specializat în brânzeturi din Auvergne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue des Gras",
+            "tip": "Boutiques with a view of Puy de Dôme."
+          },
+          {
+            "name": "L'Aventure Michelin Boutique",
+            "tip": "Unique souvenirs from the tire brand."
+          },
+          {
+            "name": "Les Fromages de l'Abeille",
+            "tip": "Specialty shop for Auvergne cheeses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Altstadt.",
+          "Die meisten Sehenswürdigkeiten liegen in der Fußgängerzone.",
+          "Achten Sie auf die Brunnen aus Lavastein in der ganzen Stadt.",
+          "Die Stadt ist hügelig, planen Sie kurze Pausen ein.",
+          "Probieren Sie die regionalen Weine aus den Côtes d'Auvergne."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A legtöbb látnivaló a sétálóövezetben található.",
+          "Figyelje meg a városszerte megtalálható lávakőből készült kutakat.",
+          "A város dombos, tervezzen rövid pihenőket.",
+          "Kóstolja meg a Côtes d'Auvergne borvidék helyi borait."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite din centrul vechi.",
+          "Majoritatea obiectivelor turistice se află în zona pietonală.",
+          "Observați fântânile din piatră de lavă răspândite prin oraș.",
+          "Orașul este deluros, planificați scurte pauze.",
+          "Gustați vinurile locale din regiunea Côtes d'Auvergne."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets of the old town.",
+          "Most sights are located within the pedestrian zone.",
+          "Look out for the lava stone fountains throughout the city.",
+          "The city is hilly, so plan for short breaks.",
+          "Try the local wines from the Côtes d'Auvergne region."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place de Jaude",
+          "coords": [
+            3.082,
+            45.777
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit C-Vélo Leihstation.",
+            "hu": "Kiindulópont C-Vélo bérlőállomással.",
+            "ro": "Punct de plecare cu stație de închiriere C-Vélo.",
+            "en": "Starting point with C-Vélo bike rental station."
+          }
+        },
+        {
+          "name": "Vieux Montferrand",
+          "coords": [
+            3.115,
+            45.793
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Mittelalterliches Viertel mit prächtigen Renaissance-Häusern.",
+            "hu": "Középkori negyed pompás reneszánsz házakkal.",
+            "ro": "Cartier medieval cu case renascentiste magnifice.",
+            "en": "Medieval district with magnificent Renaissance houses."
+          }
+        },
+        {
+          "name": "L'Aventure Michelin",
+          "coords": [
+            3.106,
+            45.79
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Geschichte von Michelin.",
+            "hu": "Ismerje meg a Michelin márka teljes történetét.",
+            "ro": "Aflați totul despre istoria mărcii Michelin.",
+            "en": "Learn everything about the history of the Michelin brand."
+          }
+        },
+        {
+          "name": "Parc de la Frange Verte",
+          "coords": [
+            3.135,
+            45.775
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Grüne Oase am Stadtrand für eine Radpause.",
+            "hu": "Zöld oázis a város szélén egy kerékpáros pihenőhöz.",
+            "ro": "Oază de verdeață la marginea orașului pentru o pauză.",
+            "en": "Green oasis on the outskirts for a cycling break."
+          }
+        },
+        {
+          "name": "Cathédrale de Clermont",
+          "coords": [
+            3.085,
+            45.778
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Abschluss im historischen Zentrum.",
+            "hu": "Befejezés a történelmi központban.",
+            "ro": "Final în centrul istoric.",
+            "en": "Finish in the historical center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Clermont-Ferrand und sein industrielles Erbe mit dem Rad. Vom Place de Jaude radeln Sie zum Vieux Montferrand, einer mittelalterlichen Planstadt. Das Michelin-Museum zeigt die faszinierende Entwicklung des Reifenherstellers. Nach einer entspannten Fahrt durch den Parc de la Frange Verte kehren Sie zur Kathedrale ins Stadtzentrum zurück, wobei Sie die modernen Radwege der Stadt nutzen.",
+        "hu": "Fedezze fel Clermont-Ferrand-t és ipari örökségét kerékpárral. A Place de Jaude-ról tekerjen el a Vieux Montferrand-ba, amely egy középkori tervezett város. A Michelin-múzeum bemutatja a gumiabroncs-gyártó lenyűgöző fejlődését. A Parc de la Frange Verte-en keresztül tett pihentető biciklizés után térjen vissza a katedrálishoz, kihasználva a város modern kerékpárútjait.",
+        "ro": "Descoperiți Clermont-Ferrand și moștenirea sa industrială cu bicicleta. Din Place de Jaude, pedalați spre Vieux Montferrand, un oraș medieval planificat. Muzeul Michelin prezintă evoluția fascinantă a producătorului de anvelope. După o plimbare relaxantă prin Parc de la Frange Verte, reveniți la catedrală în centrul orașului, folosind pistele moderne de biciclete.",
+        "en": "Discover Clermont-Ferrand and its industrial heritage by bike. From Place de Jaude, cycle to Vieux Montferrand, a medieval planned city. The Michelin museum shows the fascinating development of the tire manufacturer. After a relaxing ride through Parc de la Frange Verte, return to the cathedral in the city center using the city's modern bike paths."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auvergne Pastete",
+            "tip": "Perfekt für ein Picknick im Park."
+          },
+          {
+            "name": "L'Avenue",
+            "tip": "Fahrradfreundliches Café in der Nähe von Michelin."
+          },
+          {
+            "name": "Gaufres à la Gentiane",
+            "tip": "Waffeln mit regionalem Enzian-Likör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auvergne pástétom",
+            "tip": "Tökéletes választás egy parki piknikhez."
+          },
+          {
+            "name": "L'Avenue",
+            "tip": "Kerékpáros-barát kávézó a Michelin közelében."
+          },
+          {
+            "name": "Enciános ostya",
+            "tip": "Gofri helyi enciánlikőrrel ízesítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pate de Auvergne",
+            "tip": "Perfect pentru un picnic în parc."
+          },
+          {
+            "name": "L'Avenue",
+            "tip": "Cafenea prietenoasă cu bicicliștii lângă Michelin."
+          },
+          {
+            "name": "Gaufres cu gențiană",
+            "tip": "Vafe cu lichior local de gențiană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auvergne Pate",
+            "tip": "Perfect for a picnic in the park."
+          },
+          {
+            "name": "L'Avenue",
+            "tip": "Bike-friendly cafe near Michelin."
+          },
+          {
+            "name": "Gentian Waffles",
+            "tip": "Waffles flavored with regional gentian liqueur."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Tiretaine",
+            "tip": "Ruhiger Radweg entlang des Baches.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Jeune Résistance",
+            "tip": "Kleiner Park im Viertel Montferrand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de Montjuzet",
+            "tip": "Hügeliger Park mit Stadtblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiretaine partja",
+            "tip": "Csendes kerékpárút a patak mentén.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Jeune Résistance",
+            "tip": "Kis park Montferrand negyedében.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de Montjuzet",
+            "tip": "Domboldali park városi kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malurile râului Tiretaine",
+            "tip": "Pistă de biciclete liniștită de-a lungul pârâului.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Jeune Résistance",
+            "tip": "Mic parc în cartierul Montferrand.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de Montjuzet",
+            "tip": "Parc pe deal cu vedere spre oraș.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of the Tiretaine",
+            "tip": "Quiet bike path along the stream.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Square de la Jeune Résistance",
+            "tip": "Small park in the Montferrand district.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parc de Montjuzet",
+            "tip": "Hilly park with city views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "C-Vélo Station",
+            "tip": "Mieten Sie ein E-Bike für Steigungen."
+          },
+          {
+            "name": "Velo-City Shop",
+            "tip": "Alles für den Radfahrer im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "C-Vélo állomás",
+            "tip": "Béreljen e-bike-ot az emelkedőkhöz."
+          },
+          {
+            "name": "Velo-City Shop",
+            "tip": "Minden, ami a kerékpározáshoz kell."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stație C-Vélo",
+            "tip": "Închiriați o bicicletă electrică pentru pante."
+          },
+          {
+            "name": "Velo-City Shop",
+            "tip": "Totul pentru bicicliști în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "C-Vélo Station",
+            "tip": "Rent an e-bike for the slopes."
+          },
+          {
+            "name": "Velo-City Shop",
+            "tip": "Everything for cyclists in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das C-Vélo System für einfache Kurzzeitmieten.",
+          "Einige Straßen in der Altstadt sind sehr steil.",
+          "Die Strecke nach Montferrand ist flach und gut ausgebaut.",
+          "Nehmen Sie ein Schloss mit, um das Rad sicher abzustellen.",
+          "Tragen Sie einen Helm, besonders auf den Hauptstraßen."
+        ],
+        "hu": [
+          "Használja a C-Vélo rendszert az egyszerű rövid távú bérléshez.",
+          "Az óváros néhány utcája nagyon meredek.",
+          "A Montferrand felé vezető út sík és jól kiépített.",
+          "Vigyen magával lakatot a kerékpár biztonságos leállításához.",
+          "Viseljen sisakot, különösen a főutakon."
+        ],
+        "ro": [
+          "Utilizați sistemul C-Vélo pentru închirieri ușoare pe termen scurt.",
+          "Unele străzi din centrul vechi sunt foarte abrupte.",
+          "Traseul spre Montferrand este plat și bine amenajat.",
+          "Luați un lacăt pentru a parca bicicleta în siguranță.",
+          "Purtați cască, în special pe străzile principale."
+        ],
+        "en": [
+          "Use the C-Vélo system for easy short-term rentals.",
+          "Some streets in the old town are very steep.",
+          "The route to Montferrand is flat and well-developed.",
+          "Take a lock with you to park the bike safely.",
+          "Wear a helmet, especially on main roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place de Jaude",
+          "coords": [
+            3.082,
+            45.777
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tiefgarage direkt unter dem Platz nutzen.",
+            "hu": "Használja a tér alatti mélygarázst.",
+            "ro": "Folosiți parcarea subterană direct sub piață.",
+            "en": "Use the underground parking directly under the square."
+          }
+        },
+        {
+          "name": "Cathédrale de Clermont",
+          "coords": [
+            3.085,
+            45.778
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Krypta der Kathedrale.",
+            "hu": "Látogasson el a katedrális kriptájába.",
+            "ro": "Vizitați cripta catedralei.",
+            "en": "Visit the cathedral crypt."
+          }
+        },
+        {
+          "name": "Puy de Dôme",
+          "coords": [
+            2.964,
+            45.772
+          ],
+          "category": "mountain",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahrt mit der Zahnradbahn Panoramique des Dômes.",
+            "hu": "Utazás a Panoramique des Dômes fogaskerekű vasúttal.",
+            "ro": "Călătorie cu trenul cu cremalieră Panoramique des Dômes.",
+            "en": "Ride the Panoramique des Dômes rack railway."
+          }
+        },
+        {
+          "name": "Vulcania",
+          "coords": [
+            2.94,
+            45.813
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Themenpark über Vulkane und die Erde.",
+            "hu": "Vulkánokról és a Földről szóló témapark.",
+            "ro": "Parc tematic despre vulcani și pământ.",
+            "en": "Theme park about volcanoes and the Earth."
+          }
+        },
+        {
+          "name": "Gergovie Plateau",
+          "coords": [
+            3.125,
+            45.718
+          ],
+          "category": "historical",
+          "arrive_at": "17:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Ort der berühmten Schlacht gegen Cäsar.",
+            "hu": "A Cézár elleni híres csata helyszíne.",
+            "ro": "Locul faimoasei bătălii împotriva lui Cezar.",
+            "en": "Site of the famous battle against Caesar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Vulkane der Auvergne. Nach einem kurzen Stopp im Stadtzentrum führt die Fahrt zum Puy de Dôme, von wo aus Sie ein 360-Grad-Panorama genießen. Vulcania bietet interaktive Erlebnisse rund um die Geologie. Den Tag lassen Sie auf dem Plateau von Gergovie ausklingen, dem historischen Schauplatz von Vercingetorix' Sieg über die Römer.",
+        "hu": "Autóval elérheti Auvergne leglátványosabb vulkánjait. Rövid belvárosi megálló után az út a Puy de Dôme-hoz vezet, ahonnan 360 fokos panoráma nyílik. A Vulcania interaktív élményeket kínál a geológia világából. A napot a Gergovie-fennsíkon zárja, amely Vercingetorix rómaiak feletti győzelmének történelmi helyszíne.",
+        "ro": "Cu mașina puteți ajunge la cei mai spectaculoși vulcani din Auvergne. După o scurtă oprire în centrul orașului, drumul duce spre Puy de Dôme, de unde vă bucurați de o panoramă de 360 de grade. Vulcania oferă experiențe interactive despre geologie. Încheiați ziua pe platoul Gergovie, locul istoric al victoriei lui Vercingetorix asupra romanilor.",
+        "en": "By car, you can reach the most spectacular volcanoes of Auvergne. After a short stop in the city center, the drive leads to Puy de Dôme, offering a 360-degree panorama. Vulcania provides interactive experiences centered on geology. End the day at the Gergovie Plateau, the historic site of Vercingetorix's victory over the Romans."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de la Moreno",
+            "tip": "Rustikale Küche am Bergpass."
+          },
+          {
+            "name": "Le 1013",
+            "tip": "Panorama-Restaurant auf dem Puy de Dôme."
+          },
+          {
+            "name": "L'Archipel",
+            "tip": "Gourmet-Essen im Vulcania-Park."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de la Moreno",
+            "tip": "Rusztikus konyha a hágónál."
+          },
+          {
+            "name": "Le 1013",
+            "tip": "Panorámás étterem a Puy de Dôme tetején."
+          },
+          {
+            "name": "L'Archipel",
+            "tip": "Gourmet étkezés a Vulcania parkban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de la Moreno",
+            "tip": "Bucătărie rustică în trecătoare."
+          },
+          {
+            "name": "Le 1013",
+            "tip": "Restaurant panoramic pe Puy de Dôme."
+          },
+          {
+            "name": "L'Archipel",
+            "tip": "Masă gourmet în parcul Vulcania."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de la Moreno",
+            "tip": "Rustic cuisine at the mountain pass."
+          },
+          {
+            "name": "Le 1013",
+            "tip": "Panoramic restaurant atop Puy de Dôme."
+          },
+          {
+            "name": "L'Archipel",
+            "tip": "Gourmet dining within Vulcania park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plateau de Gergovie",
+            "tip": "Weite Flächen und Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac d'Aydat",
+            "tip": "Vulkanischer See zum Entspannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chemin des Muletiers",
+            "tip": "Wanderweg zum Puy de Dôme.",
+            "emoji": "🥾"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gergovie-fennsík",
+            "tip": "Tágas terek és naplemente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac d'Aydat",
+            "tip": "Vulkanikus tó a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chemin des Muletiers",
+            "tip": "Gyalogút a Puy de Dôme-hoz.",
+            "emoji": "🥾"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Gergovie",
+            "tip": "Spații vaste și apus de soare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac d'Aydat",
+            "tip": "Lac vulcanic pentru relaxare.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chemin des Muletiers",
+            "tip": "Cale de drumeție spre Puy de Dôme.",
+            "emoji": "🥾"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gergovie Plateau",
+            "tip": "Wide open spaces and sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac d'Aydat",
+            "tip": "Volcanic lake for relaxing.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chemin des Muletiers",
+            "tip": "Hiking path to Puy de Dôme.",
+            "emoji": "🥾"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Jaude Shopping Center",
+            "tip": "Große Auswahl an Marken."
+          },
+          {
+            "name": "La Boutique du Volcan",
+            "tip": "Vulkansteinschmuck und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jaude bevásárlóközpont",
+            "tip": "Márkák széles választéka."
+          },
+          {
+            "name": "La Boutique du Volcan",
+            "tip": "Lávakő ékszerek és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Jaude",
+            "tip": "Gamă largă de mărci."
+          },
+          {
+            "name": "La Boutique du Volcan",
+            "tip": "Bijuterii din piatră de lavă și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Jaude Shopping Centre",
+            "tip": "Wide selection of brands."
+          },
+          {
+            "name": "La Boutique du Volcan",
+            "tip": "Lava stone jewelry and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie das Ticket für die Zahnradbahn im Voraus online.",
+          "Die Straßen in der Chaîne des Puys sind kurvig, fahren Sie vorsichtig.",
+          "Parken Sie im Stadtzentrum bevorzugt in Parkhäusern.",
+          "Nehmen Sie auch im Sommer eine Jacke für den Gipfel mit.",
+          "Tanken Sie voll, bevor Sie in die ländlicheren Vulkangebiete fahren."
+        ],
+        "hu": [
+          "Foglalja le előre online a fogaskerekű vasút jegyét.",
+          "A Chaîne des Puys útjai kanyargósak, vezessen óvatosan.",
+          "A belvárosban lehetőleg parkolóházakban parkoljon.",
+          "Vigyen magával kabátot a csúcsra még nyáron is.",
+          "Tankoljon tele, mielőtt a távolabbi vulkáni területekre indul."
+        ],
+        "ro": [
+          "Rezervați online în avans biletul pentru trenul cu cremalieră.",
+          "Drumurile din Chaîne des Puys sunt sinuoase, conduceți cu atenție.",
+          "În centrul orașului, parcați de preferință în parcări etajate.",
+          "Luați o jachetă pentru vârf chiar și în timpul verii.",
+          "Alimentați complet înainte de a pleca spre zonele vulcanice rurale."
+        ],
+        "en": [
+          "Book your rack railway ticket online in advance.",
+          "The roads in the Chaîne des Puys are winding, drive carefully.",
+          "Prefer multi-storey car parks when parking in the city center.",
+          "Take a jacket for the summit, even in summer.",
+          "Fill up your tank before heading into the more rural volcanic areas."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place de Jaude",
+          "coords": [
+            3.082,
+            45.777
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der T2C Straßenbahn.",
+            "hu": "A T2C villamoshálózat központi csomópontja.",
+            "ro": "Nodul central al tramvaiului T2C.",
+            "en": "Central hub of the T2C tramway."
+          }
+        },
+        {
+          "name": "Cathédrale Notre-Dame",
+          "coords": [
+            3.085,
+            45.778
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Tramstation Gaillard.",
+            "hu": "Csak pár perc séta a Gaillard villamosmegállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stația Gaillard.",
+            "en": "Just a few minutes' walk from the Gaillard tram station."
+          }
+        },
+        {
+          "name": "L'Aventure Michelin",
+          "coords": [
+            3.106,
+            45.79
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Direkt an der Tramlinie A (Station Stade Marcel-Michelin).",
+            "hu": "Közvetlenül az A villamosvonalon (Stade Marcel-Michelin megálló).",
+            "ro": "Direct pe linia de tramvai A (stația Stade Marcel-Michelin).",
+            "en": "Directly on tram line A (Stade Marcel-Michelin station)."
+          }
+        },
+        {
+          "name": "Vieux Montferrand",
+          "coords": [
+            3.115,
+            45.793
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Station Musée d'Art Roger-Quilliot.",
+            "hu": "Musée d'Art Roger-Quilliot megálló.",
+            "ro": "Stația Musée d'Art Roger-Quilliot.",
+            "en": "Musée d'Art Roger-Quilliot station."
+          }
+        },
+        {
+          "name": "Musée d'Art Roger-Quilliot",
+          "coords": [
+            3.116,
+            45.794
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kunstsammlungen in einem ehemaligen Kloster.",
+            "hu": "Művészeti gyűjtemények egy egykori kolostorban.",
+            "ro": "Colecții de artă într-o fostă mănăstire.",
+            "en": "Art collections housed in a former convent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die moderne gummibereifte Straßenbahn von Clermont-Ferrand. Die Linie A verbindet die wichtigsten Punkte wie den Place de Jaude mit dem Michelin-Stadion und dem historischen Montferrand. Besuchen Sie das Michelin-Erlebniszentrum und beenden Sie den Tag im Roger-Quilliot-Kunstmuseum, das in einem wunderschön restaurierten Kloster untergebracht ist.",
+        "hu": "Használja Clermont-Ferrand modern, gumikerekű villamosát. Az A vonal összeköti a legfontosabb pontokat, mint a Place de Jaude-ot a Michelin stadionnal és a történelmi Montferrand-nal. Látogassa meg a Michelin élményközpontot, majd zárja a napot a Roger-Quilliot Művészeti Múzeumban, amely egy gyönyörűen felújított kolostorban kapott helyet.",
+        "ro": "Utilizați tramvaiul modern cu pneuri din Clermont-Ferrand. Linia A conectează cele mai importante puncte, precum Place de Jaude cu stadionul Michelin și cartierul istoric Montferrand. Vizitați centrul de experiență Michelin și încheiați ziua la Muzeul de Artă Roger-Quilliot, situat într-o fostă mănăstire restaurată superb.",
+        "en": "Use the modern rubber-tyred tramway of Clermont-Ferrand. Line A connects key points like Place de Jaude with the Michelin stadium and historic Montferrand. Visit the Michelin experience center and end the day at the Roger-Quilliot Art Museum, housed in a beautifully restored convent."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Puy de la Lune",
+            "tip": "Jazz-Restaurant mit lokaler Küche."
+          },
+          {
+            "name": "L'Imprimerie",
+            "tip": "Moderne Gastronomie in einem ehemaligen Druckhaus."
+          },
+          {
+            "name": "Boulangerie Moderne",
+            "tip": "Beste Croissants in der Nähe der Tramhaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Puy de la Lune",
+            "tip": "Jazz étterem helyi konyhával."
+          },
+          {
+            "name": "L'Imprimerie",
+            "tip": "Modern gasztronómia egy egykori nyomdában."
+          },
+          {
+            "name": "Boulangerie Moderne",
+            "tip": "A legjobb croissant-ok a villamosmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Puy de la Lune",
+            "tip": "Restaurant de jazz cu bucătărie locală."
+          },
+          {
+            "name": "L'Imprimerie",
+            "tip": "Gastronomie modernă într-o fostă tipografie."
+          },
+          {
+            "name": "Boulangerie Moderne",
+            "tip": "Cele mai bune cornuri lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Puy de la Lune",
+            "tip": "Jazz restaurant with local cuisine."
+          },
+          {
+            "name": "L'Imprimerie",
+            "tip": "Modern gastronomy in a former printing house."
+          },
+          {
+            "name": "Boulangerie Moderne",
+            "tip": "Best croissants near the tram stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten MARQ",
+            "tip": "Stilles Atrium im Kunstmuseum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibliothèque du Patrimoine",
+            "tip": "Historische Bibliothek mit ruhiger Atmosphäre.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Parc de la Gauthière",
+            "tip": "Grüner Rückzugsort entlang der Tramlinie.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "MARQ kolostorkert",
+            "tip": "Csendes átrium a művészeti múzeumban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibliothèque du Patrimoine",
+            "tip": "Történelmi könyvtár csendes légkörrel.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Parc de la Gauthière",
+            "tip": "Zöld menedék a villamosvonal mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii MARQ",
+            "tip": "Atrium liniștit în muzeul de artă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibliothèque du Patrimoine",
+            "tip": "Bibliotecă istorică cu atmosferă liniștită.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Parc de la Gauthière",
+            "tip": "Refugiu verde de-a lungul liniei de tramvai.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "MARQ Cloister Garden",
+            "tip": "Quiet atrium within the art museum.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bibliothèque du Patrimoine",
+            "tip": "Historic library with a quiet atmosphere.",
+            "emoji": "📚"
+          },
+          {
+            "name": "Parc de la Gauthière",
+            "tip": "Green retreat along the tram line.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Saint-Joseph",
+            "tip": "Lokaler Markt für frische Produkte."
+          },
+          {
+            "name": "Les Galeries de Jaude",
+            "tip": "Zentrales Kaufhaus an der Tramstation."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saint-Joseph piac",
+            "tip": "Helyi piac friss termékekkel."
+          },
+          {
+            "name": "Les Galeries de Jaude",
+            "tip": "Központi áruház a villamosmegállónál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Saint-Joseph",
+            "tip": "Piață locală pentru produse proaspete."
+          },
+          {
+            "name": "Les Galeries de Jaude",
+            "tip": "Magazin central lângă stația de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Joseph Market",
+            "tip": "Local market for fresh products."
+          },
+          {
+            "name": "Les Galeries de Jaude",
+            "tip": "Central department store at the tram stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das T2C-Netz.",
+          "Die Straßenbahn fährt alle 6-10 Minuten.",
+          "Nutzen Sie die App MyBus Clermont für Fahrpläne in Echtzeit.",
+          "Entwerten Sie Ihr Ticket beim Einsteigen.",
+          "Die Linie A ist eine der wenigen Trambahnen mit Reifen weltweit."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a T2C hálózatra.",
+          "A villamos 6-10 percenként közlekedik.",
+          "Használja a MyBus Clermont alkalmazást a valós idejű menetrendhez.",
+          "Érvényesítse jegyét felszálláskor.",
+          "Az A vonal a világ kevés gumikerekű villamosának egyike."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua T2C.",
+          "Tramvaiul circulă la fiecare 6-10 minute.",
+          "Utilizați aplicația MyBus Clermont pentru orare în timp real.",
+          "Validați biletul la urcare.",
+          "Linia A este unul dintre puținele tramvaie cu pneuri din lume."
+        ],
+        "en": [
+          "Purchase a day ticket for the T2C network.",
+          "The tram runs every 6-10 minutes.",
+          "Use the MyBus Clermont app for real-time schedules.",
+          "Validate your ticket upon boarding.",
+          "Line A is one of the few rubber-tyred tramways in the world."
+        ]
+      }
+    }
+  }
+}

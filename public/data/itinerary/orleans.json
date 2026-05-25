@@ -1,0 +1,1073 @@
+{
+  "city_id": "orleans",
+  "anchor": {
+    "name": "Place du Martroi",
+    "coords": [
+      1.9093,
+      47.9029
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Martroi",
+            "hu": "Place du Martroi",
+            "ro": "Place du Martroi",
+            "en": "Place du Martroi"
+          },
+          "coords": [
+            1.9093,
+            47.9029
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Reiterstatue von Jeanne d'Arc.",
+            "hu": "Csodálja meg Jeanne d'Arc lovas szobrát.",
+            "ro": "Admirați statuia ecvestră a Ioanei d'Arc.",
+            "en": "Admire the equestrian statue of Joan of Arc."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus von Jeanne d'Arc",
+            "hu": "Jeanne d'Arc háza",
+            "ro": "Casa Ioanei d'Arc",
+            "en": "Maison de Jeanne d'Arc"
+          },
+          "coords": [
+            1.9064,
+            47.9011
+          ],
+          "category": "historical",
+          "arrive_at": "09:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Rekonstruiertes Haus, in dem die Jungfrau von Orléans 1429 wohnte.",
+            "hu": "Rekonstruált ház, ahol az orléans-i szűz lakott 1429-ben.",
+            "ro": "Casă reconstruită unde a locuit Fecioara din Orléans în 1429.",
+            "en": "Reconstructed house where the Maid of Orleans stayed in 1429."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Sainte-Croix",
+            "hu": "Szent Kereszt Székesegyház",
+            "ro": "Catedrala Sainte-Croix",
+            "en": "Cathédrale Sainte-Croix"
+          },
+          "coords": [
+            1.9142,
+            47.9018
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Glasfenster erzählen die Geschichte von Jeanne d'Arc.",
+            "hu": "Az üvegablakok Jeanne d'Arc történetét mesélik el.",
+            "ro": "Vitraliile spun povestea Ioanei d'Arc.",
+            "en": "The stained glass windows tell the story of Joan of Arc."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel Groslot",
+            "hu": "Hôtel Groslot",
+            "ro": "Hôtel Groslot",
+            "en": "Hôtel Groslot"
+          },
+          "coords": [
+            1.9126,
+            47.9026
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Ein prächtiges Renaissance-Herrenhaus, das heute das Rathaus ist.",
+            "hu": "Pompás reneszánsz palota, ma városházaként működik.",
+            "ro": "Un conac renascentist magnific, acum primărie.",
+            "en": "A magnificent Renaissance mansion, now the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            1.9105,
+            47.9005
+          ],
+          "category": "gastro",
+          "arrive_at": "13:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Probieren Sie Gerichte mit Orléans-Essig.",
+            "hu": "Kóstoljon meg orléans-i ecettel készült ételeket.",
+            "ro": "Gustați preparate cu oțet de Orléans.",
+            "en": "Try dishes seasoned with Orléans vinegar."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Musée des Beaux-Arts"
+          },
+          "coords": [
+            1.9123,
+            47.9015
+          ],
+          "category": "museum",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine der reichsten Kunstsammlungen Frankreichs.",
+            "hu": "Franciaország egyik leggazdagabb művészeti gyűjteménye.",
+            "ro": "Una dintre cele mai bogate colecții de artă din Franța.",
+            "en": "One of France's richest art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Loire-Ufer",
+            "hu": "Loire-part",
+            "ro": "Malurile Loarei",
+            "en": "Loire River Banks"
+          },
+          "coords": [
+            1.9108,
+            47.8975
+          ],
+          "category": "sunset",
+          "arrive_at": "16:38",
+          "stay_min": 74,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ideal für einen Spaziergang zum Sonnenuntergang am Quai du Châtelet.",
+            "hu": "Ideális naplemente sétához a Quai du Châtelet mentén.",
+            "ro": "Ideal pentru o plimbare la apus pe Quai du Châtelet.",
+            "en": "Ideal for a sunset stroll along the Quai du Châtelet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir das Herz von Orléans am Place du Martroi und besuchen das historische Haus von Jeanne d'Arc. Mittags bewundern wir die imposante Kathedrale Sainte-Croix und das elegante Hôtel Groslot. Nach einem gemütlichen Mittagessen in den Gassen der Altstadt tauchen wir im Musée des Beaux-Arts in die Kunstgeschichte ein. Den Abend lassen wir entspannt an den malerischen Ufern der Loire ausklingen, während die Sonne über dem Fluss versinkt.",
+        "hu": "Reggel Orléans szívében, a Place du Martroi-n kezdünk, majd meglátogatjuk Jeanne d'Arc történelmi házát. Délelőtt a lenyűgöző Szent Kereszt Székesegyházat és az elegáns Hôtel Groslot-t csodáljuk meg. Egy hangulatos óvárosi ebéd után a Szépművészeti Múzeum művészeti kincsei között merülünk el. Az estét a Loire partján, a folyó felett lemenő nap sugaraiban gyönyörködve zárjuk, élvezve a nyugodt vízparti atmoszférát.",
+        "ro": "Dimineața explorăm inima orașului Orléans în Place du Martroi și vizităm casa istorică a Ioanei d'Arc. La prânz admirăm impunătoarea Catedrală Sainte-Croix și elegantul Hôtel Groslot. După un prânz relaxat pe străzile orașului vechi, ne scufundăm în istoria artei la Muzeul de Arte Frumoase. Seara o petrecem relaxându-ne pe malurile pitorești ale Loarei, în timp ce soarele apune peste râu.",
+        "en": "In the morning, we explore the heart of Orléans at Place du Martroi and visit the historical House of Joan of Arc. At midday, we admire the imposing Sainte-Croix Cathedral and the elegant Hôtel Groslot. After a cozy lunch in the alleys of the old town, we immerse ourselves in art history at the Musée des Beaux-Arts. We end the evening relaxing on the picturesque banks of the Loire as the sun sets over the river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cotignac d'Orléans",
+            "tip": "Traditionelles Quittengelee in kleinen Holzschachteln."
+          },
+          {
+            "name": "Vinaigre d'Orléans",
+            "tip": "Berühmter Essig, perfekt als Souvenir oder in lokalen Gerichten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cotignac d'Orléans",
+            "tip": "Hagyományos birsalmazselé kis fadobozokban."
+          },
+          {
+            "name": "Vinaigre d'Orléans",
+            "tip": "Híres ecet, tökéletes ajándékként vagy helyi ételekbe."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotignac d'Orléans",
+            "tip": "Jeleu tradițional de gutui în cutii mici de lemn."
+          },
+          {
+            "name": "Vinaigre d'Orléans",
+            "tip": "Oțet faimos, perfect ca suvenir sau în mâncăruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cotignac d'Orléans",
+            "tip": "Traditional quince jelly served in small wooden boxes."
+          },
+          {
+            "name": "Vinaigre d'Orléans",
+            "tip": "Famous vinegar, perfect as a souvenir or in local dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quai du Châtelet",
+            "tip": "Ruhiger Blick auf die Loire.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de l'Hôtel Groslot",
+            "tip": "Eine kleine grüne Oase im Zentrum.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai du Châtelet",
+            "tip": "Csendes kilátás a Loire-ra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de l'Hôtel Groslot",
+            "tip": "Egy kis zöld oázis a központban.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quai du Châtelet",
+            "tip": "Vedere liniștită spre Loara.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de l'Hôtel Groslot",
+            "tip": "O mică oază verde în centru.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Quai du Châtelet",
+            "tip": "Quiet view of the Loire river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de l'Hôtel Groslot",
+            "tip": "A small green oasis in the center.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles Châtelet",
+            "tip": "Überdachter Markt mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles Châtelet",
+            "tip": "Fedett piac regionális termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles Châtelet",
+            "tip": "Piață acoperită cu produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Châtelet",
+            "tip": "Covered market with regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt lässt sich am besten zu Fuß erkunden.",
+          "Achten Sie auf die kleinen Joan-of-Arc-Plaketten im Boden.",
+          "Abends sind die Quais besonders lebendig.",
+          "Reservieren Sie für Restaurants in der Rue de Bourgogne."
+        ],
+        "hu": [
+          "Az óváros gyalogosan fedezhető fel a legjobban.",
+          "Keresse a kis Jeanne d'Arc plaketteket a földön.",
+          "Este a rakpartok különösen élettel telik.",
+          "Érdemes asztalt foglalni a Rue de Bourgogne éttermeiben."
+        ],
+        "ro": [
+          "Orașul vechi este cel mai bine explorat pe jos.",
+          "Căutați micile plăcuțe cu Ioana d'Arc pe jos.",
+          "Seara malurile râului sunt deosebit de animate.",
+          "Rezervați masă pentru restaurantele de pe Rue de Bourgogne."
+        ],
+        "en": [
+          "The old town is best explored on foot.",
+          "Look for the small Joan of Arc plaques on the ground.",
+          "The quays are particularly lively in the evening.",
+          "Book ahead for restaurants in Rue de Bourgogne."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Martroi",
+            "hu": "Place du Martroi",
+            "ro": "Place du Martroi",
+            "en": "Place du Martroi"
+          },
+          "coords": [
+            1.9093,
+            47.9029
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit Mieträdern in der Nähe.",
+            "hu": "Kiindulópont bérautó-állomással a közelben.",
+            "ro": "Punct de plecare cu biciclete de închiriat în apropiere.",
+            "en": "Starting point with rental bikes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Pasteur",
+            "hu": "Parc Pasteur",
+            "ro": "Parcul Pasteur",
+            "en": "Parc Pasteur"
+          },
+          "coords": [
+            1.9161,
+            47.9085
+          ],
+          "category": "park",
+          "arrive_at": "09:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schöner Stadtpark mit einer kleinen Dampfeisenbahn.",
+            "hu": "Szép városi park egy kis gőzmozdonnyal.",
+            "ro": "Parc urban frumos cu o mică locomotivă cu abur.",
+            "en": "Beautiful city park with a small steam train."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Sainte-Croix",
+            "hu": "Szent Kereszt Székesegyház",
+            "ro": "Catedrala Sainte-Croix",
+            "en": "Cathédrale Sainte-Croix"
+          },
+          "coords": [
+            1.9142,
+            47.9018
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrradständer direkt vor dem Vorplatz.",
+            "hu": "Kerékpártárolók közvetlenül a főtér előtt.",
+            "ro": "Suporturi de biciclete direct în fața pieței.",
+            "en": "Bike racks right in front of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Loire à Vélo Weg",
+            "hu": "Loire à Vélo kerékpárút",
+            "ro": "Traseul Loire à Vélo",
+            "en": "Loire à Vélo Path"
+          },
+          "coords": [
+            1.928,
+            47.898
+          ],
+          "category": "nature",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Teil des berühmten EuroVelo 6 Radwegs.",
+            "hu": "A híres EuroVelo 6 kerékpárút része.",
+            "ro": "Parte a faimosului traseu EuroVelo 6.",
+            "en": "Part of the famous EuroVelo 6 cycling route."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Plantes",
+            "hu": "Botanikus kert",
+            "ro": "Grădina Botanică",
+            "en": "Jardin des Plantes"
+          },
+          "coords": [
+            1.8955,
+            47.8935
+          ],
+          "category": "park",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein 3,5 Hektar großer botanischer Garten.",
+            "hu": "Egy 3,5 hektáros botanikus kert.",
+            "ro": "O grădină botanică de 3,5 hectare.",
+            "en": "A 3.5-hectare botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de l'Europe",
+            "hu": "Európa-híd",
+            "ro": "Podul Europei",
+            "en": "Europe Bridge"
+          },
+          "coords": [
+            1.885,
+            47.895
+          ],
+          "category": "landmark",
+          "arrive_at": "15:16",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Moderne Calatrava-Brücke mit tollem Panorama.",
+            "hu": "Modern Calatrava-híd remek panorámával.",
+            "ro": "Pod modern Calatrava cu o panoramă grozavă.",
+            "en": "Modern Calatrava bridge with a great panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir Orléans und seine grünen oasen. Wir starten im Zentrum und fahren zum Parc Pasteur, bevor wir die Kathedrale besuchen. Am späten Vormittag radeln wir entlang der Loire auf dem berühmten Radweg. Nach einer Pause im Jardin des Plantes überqueren wir die moderne Pont de l'Europe und genießen den weiten Blick über das Tal der Könige.",
+        "hu": "Kerékpárral fedezzük fel Orléans-t és zöld oázisait. A központból indulva a Parc Pasteur felé vesszük az irányt, majd meglátogatjuk a katedrálist. Késő délelőtt a Loire mentén tekerünk a híres kerékpárúton. A botanikus kertben tett pihenő után átkelünk a modern Európa-hídon, élvezve a királyok völgyére nyíló tágas kilátást.",
+        "ro": "Explorăm Orléans și oazele sale verzi cu bicicleta. Pornim din centru spre Parcul Pasteur, înainte de a vizita catedrala. Mai târziu pedalăm de-a lungul Loarei pe faimoasa pistă de biciclete. După o pauză în Grădina Botanică, traversăm modernul Pod al Europei și ne bucurăm de vederea largă peste valea regilor.",
+        "en": "We explore Orléans and its green oases by bike. We start in the center and head towards Parc Pasteur before visiting the cathedral. Late morning, we cycle along the Loire on the famous cycle path. After a break in the Jardin des Plantes, we cross the modern Europe Bridge and enjoy the wide view over the Valley of the Kings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Perfekt für ein Picknick am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Tökéletes egy folyóparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Perfect pentru un picnic pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie de la Loire",
+            "tip": "Perfect for a picnic by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Loire-Inseln",
+            "tip": "Blick auf unberührte Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loire-szigetek",
+            "tip": "Kilátás az érintetlen természetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insulele Loarei",
+            "tip": "Vedere spre natura virgină.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Loire Islands",
+            "tip": "View of untouched nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélo'+ Stationen",
+            "tip": "Günstige Leihräder überall."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélo'+ állomások",
+            "tip": "Olcsó bérkerékpárok mindenhol."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații Vélo'+",
+            "tip": "Biciclete de închiriat ieftine peste tot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélo'+ stations",
+            "tip": "Affordable rental bikes everywhere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die App 'Vélo'+' für Leihräder.",
+          "Fahren Sie vorsichtig auf den gepflasterten Straßen der Altstadt.",
+          "Die Loire-Radwege sind flach und gut ausgebaut.",
+          "Vermeiden Sie die Rushhour auf den Hauptbrücken."
+        ],
+        "hu": [
+          "Használja a 'Vélo'+ alkalmazást a bérléshez.",
+          "Vigyázzon az óváros macskaköves utcáin.",
+          "A Loire menti utak laposak és jól kiépítettek.",
+          "Kerülje a csúcsforgalmat a fő hidakon."
+        ],
+        "ro": [
+          "Utilizați aplicația 'Vélo'+ pentru închirieri.",
+          "Conduceți cu atenție pe străzile pavate din orașul vechi.",
+          "Pistele de-a lungul Loarei sunt plate și bine amenajate.",
+          "Evitați orele de vârf pe podurile principale."
+        ],
+        "en": [
+          "Use the 'Vélo'+ app for rentals.",
+          "Ride carefully on the cobbled streets of the old town.",
+          "The Loire cycle paths are flat and well-maintained.",
+          "Avoid rush hour on the main bridges."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 42.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum von Orléans",
+            "hu": "Orléans központja",
+            "ro": "Centrul orașului Orléans",
+            "en": "Orléans Center"
+          },
+          "coords": [
+            1.9093,
+            47.9029
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Martroi.",
+            "hu": "Parkoljon a Martroi mélygarázsban.",
+            "ro": "Parcați în parcarea Martroi.",
+            "en": "Park in the Martroi underground parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Meung-sur-Loire",
+            "hu": "Meung-sur-Loire kastély",
+            "ro": "Castelul Meung-sur-Loire",
+            "en": "Château de Meung-sur-Loire"
+          },
+          "coords": [
+            1.693,
+            47.823
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 17.0,
+          "tip_5lang": {
+            "de": "Einst Residenz der Bischöfe von Orléans.",
+            "hu": "Egykor az orléans-i püspökök rezidenciája volt.",
+            "ro": "Fostă reședință a episcopilor de Orléans.",
+            "en": "Former residence of the Bishops of Orléans."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaugency",
+            "hu": "Beaugency",
+            "ro": "Beaugency",
+            "en": "Beaugency"
+          },
+          "coords": [
+            1.631,
+            47.778
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Mittelalterliche Stadt mit einer berühmten Brücke.",
+            "hu": "Középkori város híres híddal.",
+            "ro": "Oraș medieval cu un pod faimos.",
+            "en": "Medieval town with a famous bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Floral de la Source",
+            "hu": "Forrás Virágpark",
+            "ro": "Parcul Floral de la Source",
+            "en": "Parc Floral de la Source"
+          },
+          "coords": [
+            1.938,
+            47.851
+          ],
+          "category": "park",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 18.0,
+          "tip_5lang": {
+            "de": "Hier entspringt die Loiret.",
+            "hu": "Itt ered a Loiret folyó.",
+            "ro": "Aici izvorăște râul Loiret.",
+            "en": "Where the Loiret river originates."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivet Loiret-Ufer",
+            "hu": "Olivet Loiret-part",
+            "ro": "Malul Loiret la Olivet",
+            "en": "Olivet Loiret Banks"
+          },
+          "coords": [
+            1.895,
+            47.865
+          ],
+          "category": "sunset",
+          "arrive_at": "17:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Romantische Bootsfahrten und Villen am Wasser.",
+            "hu": "Romantikus csónakházak és villák a vízparton.",
+            "ro": "Case de bărci romantice și vile pe malul apei.",
+            "en": "Romantic boat houses and riverside villas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken wir die Umgebung von Orléans. Nach einem kurzen Stopp im Zentrum fahren wir westlich zum Schloss Meung-sur-Loire, das für seine dunkle Geschichte bekannt ist. Danach besuchen wir das charmante mittelalterliche Beaugency. Am Nachmittag entspannen wir im Parc Floral de la Source, bevor wir den Tag an den romantischen Ufern des Loiret in Olivet beenden.",
+        "hu": "Autóval fedezzük fel Orléans környékét. A központi séta után nyugat felé, a sötét múltjáról ismert Meung-sur-Loire kastélyhoz hajtunk. Ezután meglátogatjuk Beaugency bájos középkori városát. Délután a Forrás Virágparkban pihenünk, majd a napot az Olivet-ben, a Loiret folyó romantikus partján zárjuk.",
+        "ro": "Descoperim împrejurimile orașului Orléans cu mașina. După o scurtă oprire în centru, mergem spre vest la castelul Meung-sur-Loire, cunoscut pentru istoria sa întunecată. Vizităm apoi fermecătorul oraș medieval Beaugency. După-amiaza ne relaxăm în Parcul Floral de la Source, înainte de a încheia ziua pe malurile romantice ale râului Loiret în Olivet.",
+        "en": "We discover the surroundings of Orléans by car. After a short stop in the center, we drive west to Meung-sur-Loire castle, known for its dark history. Then we visit the charming medieval town of Beaugency. In the afternoon, we relax in the Parc Floral de la Source before ending the day on the romantic banks of the Loiret in Olivet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Guinguettes du Loiret",
+            "tip": "Traditionelle Gartenlokale am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Guinguettes du Loiret",
+            "tip": "Hagyományos vízparti kerthelyiségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Guinguettes du Loiret",
+            "tip": "Localuri tradiționale pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Guinguettes du Loiret",
+            "tip": "Traditional riverside garden cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Source du Loiret",
+            "tip": "Ein mystischer Ort im Park.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Loiret-forrás",
+            "tip": "Misztikus hely a parkban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvorul Loiret",
+            "tip": "Un loc mistic în parc.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Source of the Loiret",
+            "tip": "A mystical spot in the park.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Place de la Loire",
+            "tip": "Einkaufszentrum mit vielen Parkplätzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Place de la Loire",
+            "tip": "Bevásárlóközpont sok parkolóval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Place de la Loire",
+            "tip": "Centru comercial cu multe locuri de parcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Place de la Loire",
+            "tip": "Shopping center with plenty of parking."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist teuer, nutzen Sie P+R.",
+          "Die Landstraßen entlang der Loire sind landschaftlich schöner.",
+          "Achten Sie auf Geschwindigkeitsbegrenzungen in den Dörfern.",
+          "Die Parkanlagen schließen bei Sonnenuntergang."
+        ],
+        "hu": [
+          "A központi parkolás drága, használja a P+R-t.",
+          "A Loire menti alsóbbrendű utak szebbek.",
+          "Figyeljen a sebességkorlátozásokra a falvakban.",
+          "A parkok naplementekor zárnak."
+        ],
+        "ro": [
+          "Parcarea în centru este scumpă, folosiți P+R.",
+          "Drumurile secundare de-a lungul Loarei sunt mai pitorești.",
+          "Atenție la limitele de viteză în sate.",
+          "Parcurile se închid la apus."
+        ],
+        "en": [
+          "Central parking is expensive, use P+R.",
+          "The country roads along the Loire are more scenic.",
+          "Watch out for speed limits in villages.",
+          "The parks close at sunset."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Martroi (Tram A/B)",
+            "hu": "Place du Martroi (Tram A/B)",
+            "ro": "Place du Martroi (Tram A/B)",
+            "en": "Place du Martroi (Tram A/B)"
+          },
+          "coords": [
+            1.9093,
+            47.9029
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Knotenpunkt beider Straßenbahnlinien.",
+            "hu": "Mindkét villamosvonal csomópontja.",
+            "ro": "Nodul ambelor linii de tramvai.",
+            "en": "Hub for both tram lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale (Tram B)",
+            "hu": "Katedrális (Tram B)",
+            "ro": "Catedrala (Tram B)",
+            "en": "Cathedral (Tram B)"
+          },
+          "coords": [
+            1.9142,
+            47.9018
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Haltestelle liegt direkt vor der Hauptstraße.",
+            "hu": "A megálló közvetlenül a főutca előtt van.",
+            "ro": "Stația este chiar în fața străzii principale.",
+            "en": "The stop is right in front of the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "FRAC Centre",
+            "hu": "FRAC Központ",
+            "ro": "FRAC Centre",
+            "en": "FRAC Centre"
+          },
+          "coords": [
+            1.902,
+            47.898
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zeitgenössische Architektur in den alten Militärbaracken.",
+            "hu": "Kortárs építészet a régi katonai barakkokban.",
+            "ro": "Arhitectură contemporană în vechile barăci militare.",
+            "en": "Contemporary architecture in the old military barracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Floral (Tram A)",
+            "hu": "Parc Floral (Tram A)",
+            "ro": "Parc Floral (Tram A)",
+            "en": "Parc Floral (Tram A)"
+          },
+          "coords": [
+            1.938,
+            47.851
+          ],
+          "category": "park",
+          "arrive_at": "13:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Endstation der Linie A im Süden.",
+            "hu": "Az A vonal déli végállomása.",
+            "ro": "Capătul liniei A în sud.",
+            "en": "Terminus of line A in the south."
+          }
+        },
+        {
+          "name": {
+            "de": "Quais de la Loire (Tram A)",
+            "hu": "Loire-rakpart (Tram A)",
+            "ro": "Falezele Loarei (Tram A)",
+            "en": "Loire Quays (Tram A)"
+          },
+          "coords": [
+            1.91,
+            47.896
+          ],
+          "category": "sunset",
+          "arrive_at": "16:09",
+          "stay_min": 61,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Abendstimmung direkt an der Haltestelle Royale-Châtelet.",
+            "hu": "Esti hangulat közvetlenül a Royale-Châtelet megállónál.",
+            "ro": "Atmosferă de seară direct la stația Royale-Châtelet.",
+            "en": "Evening atmosphere right at Royale-Châtelet stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des modernen Straßenbahnnetzes erkunden wir Orléans bequem von Nord nach Süd. Wir beginnen am Martroi-Platz und fahren zur Kathedrale. Danach besuchen wir das architektonisch spektakuläre FRAC-Zentrum. Ein Ausflug in den Süden führt uns mit der Linie A zum Parc Floral. Am späten Nachmittag kehren wir ins Zentrum zurück und genießen die Loire-Ufer direkt an der Haltestelle Royale-Châtelet.",
+        "hu": "A modern villamoshálózatnak köszönhetően kényelmesen fedezzük fel Orléans-t északról délre. A Martroi téren kezdünk, majd a katedrálishoz utazunk. Ezután meglátogatjuk az építészetileg látványos FRAC központot. Egy déli kirándulás az A vonallal a Parc Floralhoz visz minket. Késő délután visszatérünk a központba, és a Loire-partot a Royale-Châtelet megállónál élvezzük.",
+        "ro": "Datorită rețelei moderne de tramvai, explorăm Orléans confortabil de la nord la sud. Începem în Piața Martroi și mergem la catedrală. Vizităm apoi centrul FRAC, spectaculos din punct de vedere arhitectural. O excursie în sud ne duce cu linia A la Parc Floral. Mai târziu ne întoarcem în centru și ne bucurăm de malurile Loarei chiar lângă stația Royale-Châtelet.",
+        "en": "Thanks to the modern tram network, we explore Orléans comfortably from north to south. We start at Martroi Square and travel to the cathedral. Then we visit the architecturally spectacular FRAC center. A trip south takes us on Line A to Parc Floral. Late afternoon, we return to the center and enjoy the Loire banks right by the Royale-Châtelet stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Agriculture",
+            "tip": "Klassische Brasserie in der Nähe des Martroi-Platzes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Agriculture",
+            "tip": "Klasszikus brasserie a Martroi tér közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Agriculture",
+            "tip": "Braserie clasică lângă Piața Martroi."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Agriculture",
+            "tip": "Classic brasserie near Martroi Square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de l'Évêché",
+            "tip": "Ruhiger Garten hinter der Kathedrale.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Püspöki kert",
+            "tip": "Csendes kert a katedrális mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Episcopiei",
+            "tip": "Grădină liniștită în spatele catedralei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bishop's Garden",
+            "tip": "Quiet garden behind the cathedral.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la République",
+            "tip": "Haupteinkaufsstraße, von der Tram durchfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la République",
+            "tip": "Fő bevásárlóutca, amin áthalad a villamos."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la République",
+            "tip": "Strada comercială principală, străbătută de tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la République",
+            "tip": "Main shopping street traversed by the tram."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Ticket 24h) für das TAO-Netz.",
+          "Die Straßenbahnen verkehren sehr regelmäßig.",
+          "Entwerten Sie Ihr Ticket beim Einstieg.",
+          "Linie A leagă centrul de campusul universitar."
+        ],
+        "hu": [
+          "Vásároljon 24 órás jegyet a TAO hálózatra.",
+          "A villamosok nagyon gyakran járnak.",
+          "Érvényesítse a jegyét felszálláskor.",
+          "Az A vonal köti össze a központot az egyetemi negyeddel."
+        ],
+        "ro": [
+          "Cumpărați un bilet de 24 de ore pentru rețeaua TAO.",
+          "Tramvaiele circulă foarte regulat.",
+          "Validați biletul la urcare.",
+          "Linia A leagă centrul de campusul universitar."
+        ],
+        "en": [
+          "Buy a 24h ticket for the TAO network.",
+          "Trams run very frequently.",
+          "Validate your ticket when boarding.",
+          "Line A connects the center with the university campus."
+        ]
+      }
+    }
+  }
+}

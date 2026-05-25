@@ -1,0 +1,982 @@
+{
+  "city_id": "montpellier",
+  "anchor": {
+    "name": "Place de la Comédie",
+    "coords": [
+      3.8763,
+      43.6109
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Comédie",
+            "hu": "Place de la Comédie",
+            "ro": "Place de la Comédie",
+            "en": "Place de la Comédie"
+          },
+          "coords": [
+            3.8794,
+            43.6085
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Drei Grazien am Brunnen.",
+            "hu": "Csodálja meg a Három Grácia szökőkutat.",
+            "ro": "Admirați fântâna celor Trei Grații.",
+            "en": "Admire the Three Graces fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Fabre",
+            "hu": "Musée Fabre",
+            "ro": "Muzeul Fabre",
+            "en": "Fabre Museum"
+          },
+          "coords": [
+            3.8804,
+            43.6112
+          ],
+          "category": "museum",
+          "arrive_at": "09:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Galerie der flämischen Meister.",
+            "hu": "Nézze meg a flamand mesterek galériáját.",
+            "ro": "Vizitați galeria maeștrilor flamanzi.",
+            "en": "Visit the gallery of Flemish masters."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            3.8715,
+            43.6131
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Achten Sie auf die massiven kegelförmigen Pfeiler.",
+            "hu": "Figyelje meg a hatalmas kúpos pilléreket.",
+            "ro": "Observați pilonii masivi în formă de con.",
+            "en": "Note the massive cone-shaped pillars."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Plantes",
+            "hu": "Fűvészkert",
+            "ro": "Grădina Botanică",
+            "en": "Botanical Garden"
+          },
+          "coords": [
+            3.8711,
+            43.6142
+          ],
+          "category": "park",
+          "arrive_at": "12:59",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Frankreichs ältester botanischer Garten.",
+            "hu": "Franciaország legrégebbi botanikus kertje.",
+            "ro": "Cea mai veche grădină botanică din Franța.",
+            "en": "The oldest botanical garden in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade du Peyrou",
+            "hu": "Peyrou sétány",
+            "ro": "Promenada Peyrou",
+            "en": "Promenade du Peyrou"
+          },
+          "coords": [
+            3.8695,
+            43.6114
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Blick auf das Aquädukt Saint-Clément.",
+            "hu": "Kilátás a Saint-Clément vízvezetékre.",
+            "ro": "Vedere spre apeductul Saint-Clément.",
+            "en": "View of the Saint-Clément aqueduct."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Abendessen",
+            "hu": "Vacsora az óvárosban",
+            "ro": "Cină în centrul vechi",
+            "en": "Old Town Dinner"
+          },
+          "coords": [
+            3.8755,
+            43.6105
+          ],
+          "category": "gastro",
+          "arrive_at": "15:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Probieren Sie lokale Weine aus dem Languedoc.",
+            "hu": "Kóstolja meg a helyi Languedoc borokat.",
+            "ro": "Gustați vinurile locale din Languedoc.",
+            "en": "Taste local Languedoc wines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am belebten Place de la Comédie, dem pulsierenden Herzen der Stadt. Nach einem Besuch im beeindruckenden Musée Fabre tauchen Sie in die mittelalterlichen Gassen des Écusson-Viertels ein. Mittags erkunden Sie die gotische Kathedrale und den historischen botanischen Garten. Der Nachmittag endet mit einem Panorama-Ausblick vom Peyrou, bevor Sie den Tag bei einem gemütlichen Abendessen in der Altstadt ausklingen lassen.",
+        "hu": "Napját a forgalmas Place de la Comédie-n, a város lüktető szívében kezdi. A lenyűgöző Musée Fabre megtekintése után elmerül az Écusson negyed középkori utcáiban. Délben felfedezi a gótikus székesegyházat és a történelmi füvészkertet. A délután a Peyrou sétány panorámájával zárul, majd a napot egy hangulatos óvárosi vacsorával koronázza meg.",
+        "ro": "Ziua începe în vibranta Place de la Comédie, inima orașului. După o vizită la impresionantul Muzeu Fabre, vă pierdeți pe străzile medievale din cartierul Écusson. La prânz, explorați catedrala gotică și grădina botanică istorică. După-amiaza se încheie cu o panoramă de pe esplanada Peyrou, înainte de a finaliza ziua cu o cină relaxantă în centrul vechi.",
+        "en": "Your day starts at the bustling Place de la Comédie, the city's beating heart. After a visit to the impressive Fabre Museum, dive into the medieval streets of the Écusson district. At noon, explore the Gothic cathedral and the historic botanical garden. The afternoon ends with a panoramic view from Peyrou before capping off the day with a cozy dinner in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles Castellane",
+            "tip": "Frische lokale Produkte und Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles Castellane",
+            "tip": "Friss helyi termékek és tenger gyümölcsei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles Castellane",
+            "tip": "Produse locale proaspete și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles Castellane",
+            "tip": "Fresh local products and seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Plantes",
+            "tip": "Ein ruhiger Rückzugsort im Schatten alter Bäume.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fűvészkert",
+            "tip": "Csendes menedék az ősi fák árnyékában.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Un refugiu liniștit la umbra arborilor antici.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "A quiet retreat in the shade of ancient trees.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue de la Loge",
+            "tip": "Haupteinkaufsstraße mit vielen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue de la Loge",
+            "tip": "Fő bevásárlóutca számos butikkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue de la Loge",
+            "tip": "Strada principală de cumpărături cu multe buticuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue de la Loge",
+            "tip": "Main shopping street with many boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Nutzen Sie die kleinen Gassen, um Schatten zu finden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Használja a szűk sikátorokat árnyékért."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Folosiți străzile înguste pentru a găsi umbră."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Use the narrow alleys to find shade."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Comédie",
+            "hu": "Place de la Comédie",
+            "ro": "Place de la Comédie",
+            "en": "Place de la Comédie"
+          },
+          "coords": [
+            3.8794,
+            43.6085
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Startpunkt für Radtouren in Richtung Meer.",
+            "hu": "Kiindulópont a tenger felé tartó biciklitúrákhoz.",
+            "ro": "Punct de plecare pentru trasee de bicicletă spre mare.",
+            "en": "Starting point for bike tours towards the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Antigone",
+            "hu": "Antigone negyed",
+            "ro": "Cartierul Antigone",
+            "en": "Antigone District"
+          },
+          "coords": [
+            3.8902,
+            43.6071
+          ],
+          "category": "historical",
+          "arrive_at": "09:46",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Neoklassizistische Architektur von Ricardo Bofill.",
+            "hu": "Ricardo Bofill neoklasszicista építészete.",
+            "ro": "Arhitectură neoclasică de Ricardo Bofill.",
+            "en": "Neoclassical architecture by Ricardo Bofill."
+          }
+        },
+        {
+          "name": {
+            "de": "Rives du Lez",
+            "hu": "Lez partja",
+            "ro": "Malurile râului Lez",
+            "en": "Rives du Lez"
+          },
+          "coords": [
+            3.8955,
+            43.6022
+          ],
+          "category": "park",
+          "arrive_at": "10:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Entspannter Radweg entlang des Flusses.",
+            "hu": "Pihentető kerékpárút a folyó mentén.",
+            "ro": "Pistă de biciclete relaxantă de-a lungul râului.",
+            "en": "Relaxing bike path along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Marianne",
+            "hu": "Port Marianne",
+            "ro": "Port Marianne",
+            "en": "Port Marianne"
+          },
+          "coords": [
+            3.8988,
+            43.5995
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Moderne Architektur und künstliche Seen.",
+            "hu": "Modern építészet és mesterséges tavak.",
+            "ro": "Arhitectură modernă și lacuri artificiale.",
+            "en": "Modern architecture and artificial lakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Palavas-les-Flots Strand",
+            "hu": "Palavas-les-Flots strand",
+            "ro": "Plaja Palavas-les-Flots",
+            "en": "Palavas-les-Flots Beach"
+          },
+          "coords": [
+            3.9312,
+            43.5285
+          ],
+          "category": "beach",
+          "arrive_at": "13:44",
+          "stay_min": 180,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Genießen Sie ein Bad im Mittelmeer.",
+            "hu": "Élvezze a mártózást a Földközi-tengerben.",
+            "ro": "Bucurați-vă de o baie în Marea Mediterană.",
+            "en": "Enjoy a dip in the Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Meer",
+            "hu": "Naplemente a tengerparton",
+            "ro": "Apus de soare la malul mării",
+            "en": "Sunset at the Beach"
+          },
+          "coords": [
+            3.9355,
+            43.5255
+          ],
+          "category": "sunset",
+          "arrive_at": "16:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Perfekter Ort für Fotos.",
+            "hu": "Tökéletes helyszín fotózáshoz.",
+            "ro": "Locul perfect pentru fotografii.",
+            "en": "Perfect spot for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie vom historischen Zentrum direkt an die Küste. Sie starten am Place de la Comédie und durchqueren das futuristische Viertel Antigone. Entlang des Flusses Lez radeln Sie auf gut ausgebauten Wegen durch das moderne Port Marianne bis nach Palavas-les-Flots. Hier können Sie den Nachmittag am Strand verbringen und den weiten Blick auf das Meer genießen, bevor Sie den Rückweg antreten.",
+        "hu": "Ez a kerékpártúra a történelmi központból egyenesen a tengerpartra vezeti Önt. A Place de la Comédie-ról indulva áthalad a futurista Antigone negyeden. A Lez folyó mentén, jól kiépített utakon kerékpározik a modern Port Marianne-on keresztül egészen Palavas-les-Flots-ig. Itt a délutánt a strandon töltheti, élvezve a tengerre nyíló kilátást, mielőtt visszaindulna.",
+        "ro": "Acest tur cu bicicleta vă poartă din centrul istoric direct spre coastă. Plecați din Place de la Comédie și traversați cartierul futurist Antigone. De-a lungul râului Lez, pedalați pe piste bine amenajate prin modernul Port Marianne până la Palavas-les-Flots. Aici vă puteți petrece după-amiaza pe plajă, admirând marea, înainte de a vă întoarce.",
+        "en": "This bike tour takes you from the historic center directly to the coast. Starting at Place de la Comédie, you'll cross the futuristic Antigone district. Pedal along the Lez river on well-maintained paths through modern Port Marianne all the way to Palavas-les-Flots. Here, you can spend the afternoon at the beach, enjoying the sea views before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Phare",
+            "tip": "Restaurant im Aussichtsturm mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Phare",
+            "tip": "Étterem a kilátótoronyban tengeri panorámával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Phare",
+            "tip": "Restaurant în turnul de belvedere cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Phare",
+            "tip": "Restaurant in the lookout tower with sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Maguelone",
+            "tip": "Ruhigerer Strandabschnitt in der Nähe der Kathedrale.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maguelone strand",
+            "tip": "Csendesebb szakasz a székesegyház közelében.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Maguelone",
+            "tip": "Secțiune de plajă mai liniștită lângă catedrală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maguelone Beach",
+            "tip": "Quieter stretch of beach near the cathedral.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Palavas",
+            "tip": "Lokaler Markt mit sommerlichem Flair."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palavas piac",
+            "tip": "Helyi piac nyári hangulattal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Palavas",
+            "tip": "Piață locală cu atmosferă de vară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palavas Market",
+            "tip": "Local market with a summer vibe."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Fahrrad über das Vélomagg-System.",
+          "Nehmen Sie ausreichend Wasser und Sonnenschutz mit."
+        ],
+        "hu": [
+          "Béreljen kerékpárt a Vélomagg rendszeren keresztül.",
+          "Vigyen magával elegendő vizet és naptejet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă prin sistemul Vélomagg.",
+          "Luați suficientă apă și protecție solară."
+        ],
+        "en": [
+          "Rent a bike through the Vélomagg system.",
+          "Take plenty of water and sunscreen."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "19:25",
+      "total_km": 97.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Promenade du Peyrou",
+            "hu": "Peyrou sétány",
+            "ro": "Promenada Peyrou",
+            "en": "Promenade du Peyrou"
+          },
+          "coords": [
+            3.8695,
+            43.6114
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Einfaches Parken im nahegelegenen Parkhaus.",
+            "hu": "Könnyű parkolás a közeli parkolóházban.",
+            "ro": "Parcare ușoară în garajul din apropiere.",
+            "en": "Easy parking in the nearby garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Pierre",
+            "hu": "Szent Péter-székesegyház",
+            "ro": "Catedrala Sfântul Petru",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            3.8715,
+            43.6131
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Einzigartige Architektur der südfranzösischen Gotik.",
+            "hu": "Dél-francia gótika egyedi építészete.",
+            "ro": "Arhitectură unică a goticului sud-francez.",
+            "en": "Unique architecture of Southern French Gothic."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Flaugergues",
+            "hu": "Flaugergues kastély",
+            "ro": "Castelul Flaugergues",
+            "en": "Château de Flaugergues"
+          },
+          "coords": [
+            3.9215,
+            43.6085
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Besichtigen Sie das Weingut und die Gärten.",
+            "hu": "Látogassa meg a borászatot és a kerteket.",
+            "ro": "Vizitați crama și grădinile.",
+            "en": "Visit the winery and the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Guilhem-le-Désert",
+            "hu": "Saint-Guilhem-le-Désert",
+            "ro": "Saint-Guilhem-le-Désert",
+            "en": "Saint-Guilhem-le-Désert"
+          },
+          "coords": [
+            3.5485,
+            43.7345
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 90,
+          "hop_from_prev_km": 45.0,
+          "tip_4lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Vacsora Montpellierben",
+            "hu": "Vacsora Montpellierben",
+            "ro": "Cină în Montpellier",
+            "en": "Dinner in Montpellier"
+          },
+          "coords": [
+            3.8755,
+            43.6105
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 45.0,
+          "tip_4lang": {
+            "de": "Rückkehr in die Stadt zum Abendessen.",
+            "hu": "Visszatérés a városba vacsorázni.",
+            "ro": "Revenire în oraș pentru cină.",
+            "en": "Return to the city for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie sowohl die Highlights von Montpellier als auch das spektakuläre Umland. Nach dem Besuch der Kathedrale und des luxuriösen Château de Flaugergues führt Sie die Fahrt ins Hinterland nach Saint-Guilhem-le-Désert, einem mittelalterlichen Juwel in einer Schlucht. Der Tag endet wieder im Stadtzentrum, wo Sie die kulinarischen Köstlichkeiten der Region genießen können.",
+        "hu": "Autóval felfedezheti Montpellier legfontosabb látnivalóit és a látványos környéket is. A székesegyház és a fényűző Château de Flaugergues meglátogatása után az út a hátországba, Saint-Guilhem-le-Désertbe vezet, amely egy középkori ékszerdoboz egy szurdok mélyén. A nap a városközpontban ér véget, ahol megkóstolhatja a régió kulináris finomságait.",
+        "ro": "Cu mașina, explorați atât punctele forte din Montpellier, cât și împrejurimile spectaculoase. După vizitarea catedralei și a luxosului Château de Flaugergues, drumul vă poartă în interiorul regiunii spre Saint-Guilhem-le-Désert, o bijuterie medievală situată într-un defileu. Ziua se încheie din nou în centrul orașului, unde puteți savura delicii culinare locale.",
+        "en": "By car, you explore both the highlights of Montpellier and the spectacular surrounding area. After visiting the cathedral and the luxurious Château de Flaugergues, the drive takes you inland to Saint-Guilhem-le-Désert, a medieval gem nestled in a gorge. The day ends back in the city center, where you can enjoy the region's culinary delights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Folies à Flaugergues",
+            "tip": "Elegantes Restaurant direkt am Schloss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folies à Flaugergues",
+            "tip": "Elegáns étterem közvetlenül a kastélynál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Folies à Flaugergues",
+            "tip": "Restaurant elegant chiar lângă castel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Folies à Flaugergues",
+            "tip": "Elegant restaurant right at the castle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont du Diable",
+            "tip": "Blick auf den Fluss Hérault in der Nähe von Saint-Guilhem.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ördög-híd",
+            "tip": "Kilátás az Hérault folyóra Saint-Guilhem közelében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pont du Diable",
+            "tip": "Vedere spre râul Hérault lângă Saint-Guilhem.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Devil Bridge",
+            "tip": "View of the Hérault river near Saint-Guilhem.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handwerksläden in Saint-Guilhem",
+            "tip": "Handgefertigte Keramik und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves boltok Saint-Guilhemben",
+            "tip": "Kézzel készített kerámia és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de artizanat în Saint-Guilhem",
+            "tip": "Ceramică lucrată manual și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Craft shops in Saint-Guilhem",
+            "tip": "Handmade ceramics and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Parkplätze im Voraus, wenn möglich.",
+          "Die Fahrt nach Saint-Guilhem dauert etwa 45 Minuten."
+        ],
+        "hu": [
+          "Foglaljon parkolóhelyet előre, ahol lehetséges.",
+          "Az út Saint-Guilhembe körülbelül 45 percig tart."
+        ],
+        "ro": [
+          "Rezervați parcare în avans, dacă este posibil.",
+          "Drumul spre Saint-Guilhem durează aproximativ 45 de minute."
+        ],
+        "en": [
+          "Book parking in advance where possible.",
+          "The drive to Saint-Guilhem takes about 45 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Comédie",
+            "hu": "Place de la Comédie",
+            "ro": "Place de la Comédie",
+            "en": "Place de la Comédie"
+          },
+          "coords": [
+            3.8794,
+            43.6085
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Knotenpunkt aller Straßenbahnlinien.",
+            "hu": "Az összes villamosvonal csomópontja.",
+            "ro": "Nod central pentru toate liniile de tramvai.",
+            "en": "Hub for all tram lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Fabre",
+            "hu": "Musée Fabre",
+            "ro": "Muzeul Fabre",
+            "en": "Fabre Museum"
+          },
+          "coords": [
+            3.8804,
+            43.6112
+          ],
+          "category": "museum",
+          "arrive_at": "09:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Kurzer Fußweg von der Haltestelle Corum.",
+            "hu": "Rövid séta a Corum megállótól.",
+            "ro": "Scurtă plimbare de la stația Corum.",
+            "en": "Short walk from the Corum stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Antigone",
+            "hu": "Antigone negyed",
+            "ro": "Cartierul Antigone",
+            "en": "Antigone District"
+          },
+          "coords": [
+            3.8902,
+            43.6071
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Nutzen Sie die Linie 1 (blau mit Schwalben).",
+            "hu": "Használja az 1-es vonalat (kék, fecskékkel).",
+            "ro": "Folosiți linia 1 (albastră cu rândunele).",
+            "en": "Use line 1 (blue with swallows)."
+          }
+        },
+        {
+          "name": {
+            "de": "Odysseum",
+            "hu": "Odysseum",
+            "ro": "Odysseum",
+            "en": "Odysseum"
+          },
+          "coords": [
+            3.9215,
+            43.6015
+          ],
+          "category": "shopping",
+          "arrive_at": "12:41",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Großes Einkaufs- und Freizeitzentrum.",
+            "hu": "Nagy bevásárló- és szabadidőközpont.",
+            "ro": "Mare centru de cumpărături și agrement.",
+            "en": "Large shopping and leisure center."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Mare Nostrum",
+            "hu": "Mare Nostrum Akvárium",
+            "ro": "Acvariul Mare Nostrum",
+            "en": "Mare Nostrum Aquarium"
+          },
+          "coords": [
+            3.9235,
+            43.601
+          ],
+          "category": "museum",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Unterwasserreise durch die Weltmeere.",
+            "hu": "Víz alatti utazás a világ óceánjain keresztül.",
+            "ro": "Călătorie subacvatică prin oceanele lumii.",
+            "en": "Underwater journey through the world's oceans."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Montpellier verfügt über eines der schönsten Straßenbahnnetze der Welt. Starten Sie im Zentrum und besuchen Sie das Musée Fabre. Mit der blauen Linie 1 fahren Sie weiter in das architektonisch einzigartige Antigone-Viertel. Die Fahrt endet am Endpunkt Odysseum, einem modernen Areal für Shopping und Freizeit, wo Sie das Aquarium besuchen können, bevor Sie bequem mit der Tram zurückkehren.",
+        "hu": "Montpellier a világ egyik legszebb villamoshálózatával rendelkezik. Kezdjen a központban a Musée Fabre meglátogatásával. A kék 1-es vonallal utazzon tovább az építészetileg egyedülálló Antigone negyedbe. Az út az Odysseum végállomáson ér véget, amely egy modern bevásárló- és szabadidős terület, ahol meglátogathatja az akváriumot, mielőtt kényelmesen visszautazna.",
+        "ro": "Montpellier are una dintre cele mai frumoase rețele de tramvai din lume. Începeți în centru cu vizitarea Muzeului Fabre. Cu linia albastră 1, mergeți spre cartierul Antigone, unic din punct de vedere arhitectural. Călătoria se încheie la stația terminus Odysseum, o zonă modernă de cumpărături și agrement, unde puteți vizita acvariul înainte de a reveni confortabil cu tramvaiul.",
+        "en": "Montpellier has one of the world's most beautiful tram networks. Start in the center by visiting the Fabre Museum. Take the blue line 1 to the architecturally unique Antigone district. The trip ends at the Odysseum terminus, a modern shopping and leisure area where you can visit the aquarium before returning comfortably by tram."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pirates Paradise",
+            "tip": "Themenrestaurant ideal für Familien im Odysseum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pirates Paradise",
+            "tip": "Tematikus étterem családoknak az Odysseumban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pirates Paradise",
+            "tip": "Restaurant tematic ideal pentru familii în Odysseum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pirates Paradise",
+            "tip": "Themed restaurant ideal for families in Odysseum."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bassin Jacques Cœur",
+            "tip": "Moderner See in Port Marianne zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bassin Jacques Cœur",
+            "tip": "Modern tó Port Marianne-ban a kikapcsolódáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bassin Jacques Cœur",
+            "tip": "Lac modern în Port Marianne pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bassin Jacques Cœur",
+            "tip": "Modern lake in Port Marianne for relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Odysseum Mall",
+            "tip": "Über 100 Geschäfte in Open-Air-Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Odysseum Pláza",
+            "tip": "Több mint 100 üzlet szabadtéri környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Odysseum Mall",
+            "tip": "Peste 100 de magazine în atmosferă în aer liber."
+          }
+        ],
+        "en": [
+          {
+            "name": "Odysseum Mall",
+            "tip": "Over 100 shops in an open-air atmosphere."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
+          "Die Tram-Designs stammen von Christian Lacroix."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a korlátlan utazáshoz.",
+          "A villamosok dizájnját Christian Lacroix tervezte."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+          "Designul tramvaielor este semnat de Christian Lacroix."
+        ],
+        "en": [
+          "Buy a day pass for unlimited travel.",
+          "The tram designs were created by Christian Lacroix."
+        ]
+      }
+    }
+  }
+}

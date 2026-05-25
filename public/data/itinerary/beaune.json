@@ -1,0 +1,974 @@
+{
+  "city_id": "beaune",
+  "anchor": {
+    "name": "Beaune City Center",
+    "coords": [
+      4.8389,
+      47.025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place des Halles",
+          "coords": [
+            4.8375,
+            47.0245
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Samstagmorgen für lokale Produkte.",
+            "hu": "A szombat reggeli piac a legjobb hely a helyi termékekhez.",
+            "ro": "Vizitați piața sâmbătă dimineața pentru produse locale.",
+            "en": "Visit the Saturday morning market for the best local produce."
+          }
+        },
+        {
+          "name": "Hospices de Beaune (Hôtel-Dieu)",
+          "coords": [
+            4.8365,
+            47.0218
+          ],
+          "category": "museum",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohen glasierten Ziegeldächer im Innenhof.",
+            "hu": "Csodálja meg a belső udvar színes, mázas tetőcserepeit.",
+            "ro": "Admirați acoperișurile colorate cu țiglă smălțuită din curtea interioară.",
+            "en": "Admire the colorful glazed tile roofs in the inner courtyard."
+          }
+        },
+        {
+          "name": "Collégiale Notre-Dame de Beaune",
+          "coords": [
+            4.8385,
+            47.0242
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die Wandteppiche aus dem 15. Jahrhundert im Chor an.",
+            "hu": "Nézze meg a kórusban található 15. századi faliszőnyegeket.",
+            "ro": "Vedeți tapiseriile din secolul al XV-lea din corul bisericii.",
+            "en": "View the 15th-century tapestries in the church choir."
+          }
+        },
+        {
+          "name": "Musée du Vin de Bourgogne",
+          "coords": [
+            4.8372,
+            47.0235
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich im ehemaligen Palast der Herzöge von Burgund.",
+            "hu": "A múzeum a burgundi hercegek egykori palotájában található.",
+            "ro": "Muzeul se află în fostul palat al ducilor de Burgundia.",
+            "en": "The museum is housed in the former palace of the Dukes of Burgundy."
+          }
+        },
+        {
+          "name": "Moutarderie Fallot",
+          "coords": [
+            4.8355,
+            47.0205
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie verschiedene Senfsorten an der Probierbar.",
+            "hu": "Kóstoljon meg különböző mustárokat a kóstolópultnál.",
+            "ro": "Gustați diferite tipuri de muștar la barul de degustare.",
+            "en": "Taste different types of mustard at the tasting bar."
+          }
+        },
+        {
+          "name": "Remparts de Beaune",
+          "coords": [
+            4.8395,
+            47.0265
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Spaziergang auf der Stadtmauer bietet schöne Ausblicke auf die Altstadt.",
+            "hu": "A városfalon tett séta szép kilátást nyújt az óvárosra.",
+            "ro": "O plimbare pe zidurile cetății oferă vederi frumoase asupra centrului vechi.",
+            "en": "A walk on the ramparts offers beautiful views of the old town."
+          }
+        },
+        {
+          "name": "Parc de la Bouzaize",
+          "coords": [
+            4.8255,
+            47.0255
+          ],
+          "category": "park",
+          "arrive_at": "17:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Mieten Sie ein kleines Boot auf dem See zum Entspannen.",
+            "hu": "Béreljen egy kis csónakot a tavon a pihenéshez.",
+            "ro": "Închiriați o barcă mică pe lac pentru relaxare.",
+            "en": "Rent a small boat on the lake for some relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Beaune auf dem Place des Halles. Der Vormittag steht ganz im Zeichen der Geschichte im berühmten Hôtel-Dieu mit seinen prächtigen Dächern. Nach einem Besuch der romanischen Stiftskirche tauchen Sie mittags in die Welt des Weins im herzoglichen Palast ein. Der Nachmittag wird würzig bei Fallot, gefolgt von einem entspannten Spaziergang entlang der historischen Stadtmauern, bevor der Tag friedlich im Bouzaize-Park ausklingt.",
+        "hu": "Kezdje a napot Beaune szívében, a Place des Halles téren. A délelőtt a történelemé a híres Hôtel-Dieu kórházban, melynek tetői lenyűgözőek. A román stílusú Notre-Dame megtekintése után délben merüljön el a borvilágban a hercegi palotában. A délután csípős lesz a Fallot mustárműhelyben, majd egy pihentető séta következik a városfalakon, végül a napot a Bouzaize park nyugalmában zárhatja.",
+        "ro": "Începeți ziua în inima orașului Beaune, în Place des Halles. Dimineața este dedicată istoriei la faimosul Hôtel-Dieu, cu acoperișurile sale magnifice. După vizitarea bisericii Notre-Dame, la prânz descoperiți universul vinului în fostul palat ducal. După-amiaza devine picantă la fabrica de muștar Fallot, urmată de o plimbare relaxantă pe zidurile cetății, înainte de a încheia ziua în liniștea parcului Bouzaize.",
+        "en": "Start your day in the heart of Beaune at Place des Halles. The morning is dedicated to history at the famous Hôtel-Dieu with its magnificent roofs. After visiting the Romanesque Notre-Dame, immerse yourself in the world of wine at the ducal palace. The afternoon gets spicy at the Fallot mustard mill, followed by a relaxing walk along the historic ramparts, before ending the day peacefully in the Bouzaize park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boeuf Bourguignon",
+            "tip": "Das klassische Rindfleischgericht der Region, langsam in Rotwein geschmort."
+          },
+          {
+            "name": "Le Jardin des Remparts",
+            "tip": "Kreative Küche in einem wunderschönen Gartenambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgundi marharagu",
+            "tip": "A régió klasszikus étele, vörösborban lassan párolt marhahús."
+          },
+          {
+            "name": "Le Jardin des Remparts",
+            "tip": "Kreatív konyha gyönyörű kerti környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boeuf Bourguignon",
+            "tip": "Mâncarea clasică de vită a regiunii, gătită lent în vin roșu."
+          },
+          {
+            "name": "Le Jardin des Remparts",
+            "tip": "Bucătărie creativă într-un cadru de grădină superb."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boeuf Bourguignon",
+            "tip": "The region's classic beef dish, slowly simmered in red wine."
+          },
+          {
+            "name": "Le Jardin des Remparts",
+            "tip": "Creative cuisine in a beautiful garden setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square des Lions",
+            "tip": "Ein kleiner, ruhiger Park abseits der Touristenströme.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Remparts Nord",
+            "tip": "Der nördliche Teil der Stadtmauer ist besonders friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square des Lions",
+            "tip": "Egy kis, csendes park távol a turistaáradattól.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Remparts Nord",
+            "tip": "A városfal északi része különösen békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square des Lions",
+            "tip": "Un parc mic și liniștit, departe de fluxul de turiști.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Remparts Nord",
+            "tip": "Partea de nord a zidurilor cetății este deosebit de liniștită.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square des Lions",
+            "tip": "A small, quiet park away from the tourist crowds.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Remparts Nord",
+            "tip": "The northern part of the ramparts is particularly peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Athenaeum",
+            "tip": "Ein fantastischer Buchladen mit großer Weinauswahl."
+          },
+          {
+            "name": "La Boutique Fallot",
+            "tip": "Frischer Senf direkt aus der Mühle als perfektes Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Athenaeum",
+            "tip": "Fantasztikus könyvesbolt hatalmas borválasztékkal."
+          },
+          {
+            "name": "La Boutique Fallot",
+            "tip": "Friss mustár közvetlenül a malomból, tökéletes szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Athenaeum",
+            "tip": "O librărie fantastică cu o selecție vastă de vinuri."
+          },
+          {
+            "name": "La Boutique Fallot",
+            "tip": "Muștar proaspăt direct de la moară, suvenirul perfect."
+          }
+        ],
+        "en": [
+          {
+            "name": "Athenaeum",
+            "tip": "A fantastic bookstore with a huge selection of wines."
+          },
+          {
+            "name": "La Boutique Fallot",
+            "tip": "Fresh mustard straight from the mill, a perfect souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Altstadt ist fast vollständig Fußgängerzone und sehr kompakt.",
+          "Buchen Sie Tickets für das Hôtel-Dieu im Voraus online.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Viele Weinproben erfordern eine Reservierung."
+        ],
+        "hu": [
+          "Az óváros szinte teljesen sétálóövezet és nagyon kompakt.",
+          "Foglalja le online előre a jegyeket a Hôtel-Dieu-be.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Sok borkóstolóhoz előzetes bejelentkezés szükséges."
+        ],
+        "ro": [
+          "Centrul vechi este aproape în întregime pietonal și foarte compact.",
+          "Rezervați biletele pentru Hôtel-Dieu online în avans.",
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Multe degustări de vin necesită rezervare prealabilă."
+        ],
+        "en": [
+          "The old town is almost entirely pedestrianized and very compact.",
+          "Book tickets for the Hôtel-Dieu online in advance.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Many wine tastings require a prior reservation."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hospices de Beaune",
+          "coords": [
+            4.8365,
+            47.0218
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Eingang.",
+            "hu": "Parkolja le biztonságosan a kerékpárját a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely at the entrance."
+          }
+        },
+        {
+          "name": "Remparts de Beaune",
+          "coords": [
+            4.8395,
+            47.0265
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Umradeln Sie die Altstadt entlang der äußeren Ringstraße.",
+            "hu": "Kerülje meg az óvárost a külső körgyűrű mentén.",
+            "ro": "Ocoliți centrul vechi de-a lungul șoselei de centură interioare.",
+            "en": "Cycle around the old town along the outer ring road."
+          }
+        },
+        {
+          "name": "Route des Grands Crus",
+          "coords": [
+            4.825,
+            47.015
+          ],
+          "category": "nature",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch die weltberühmten Weinberge.",
+            "hu": "Élvezze a biciklizést a világhírű szőlőültetvények között.",
+            "ro": "Bucurați-vă de plimbarea prin podgoriile celebre în întreaga lume.",
+            "en": "Enjoy the ride through the world-famous vineyards."
+          }
+        },
+        {
+          "name": "Pommard Village",
+          "coords": [
+            4.795,
+            47.011
+          ],
+          "category": "city",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie ein Weingut für eine kurze Verkostung.",
+            "hu": "Látogasson el egy borászathoz egy rövid kóstolóra.",
+            "ro": "Vizitați o cramă pentru o scurtă degustare.",
+            "en": "Visit a winery for a short tasting session."
+          }
+        },
+        {
+          "name": "Parc de la Bouzaize",
+          "coords": [
+            4.8255,
+            47.0255
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für eine Pause nach der Tour.",
+            "hu": "Ideális hely a pihenésre a túra után.",
+            "ro": "Un loc ideal pentru o pauză după tură.",
+            "en": "An ideal place for a break after the tour."
+          }
+        },
+        {
+          "name": "Moutarderie Fallot",
+          "coords": [
+            4.8355,
+            47.0205
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich Senf für Ihr Picknick.",
+            "hu": "Vásároljon mustárt a piknikhez.",
+            "ro": "Cumpărați muștar pentru picnic.",
+            "en": "Pick up some mustard for your picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Beaune und seine Weinberge auf zwei Rädern. Nach dem historischen Hôtel-Dieu verlassen Sie die Stadtmauern und fahren auf der berühmten 'Route des Grands Crus'. Das charmante Dorf Pommard bietet den perfekten Wendepunkt für eine Verkostung, bevor Sie durch den Bouzaize-Park zurückkehren und den Tag bei der Senfmühle Fallot abschließen.",
+        "hu": "Fedezze fel Beaune-t és a környékbeli szőlőültetvényeket két keréken. A történelmi Hôtel-Dieu után hagyja el a városfalakat, és tekerjen a híres 'Route des Grands Crus' úton. A bájos Pommard falu tökéletes fordulópont egy kóstolóra, mielőtt a Bouzaize parkon keresztül visszatérne, és a napot a Fallot mustárműhelynél zárná.",
+        "ro": "Explorați Beaune și podgoriile sale pe două roți. După vizitarea istoricului Hôtel-Dieu, ieșiți dincolo de zidurile cetății și pedalați pe faimoasa 'Route des Grands Crus'. Satul pitoresc Pommard oferă punctul de întoarcere perfect pentru o degustare, înainte de a reveni prin parcul Bouzaize și de a încheia ziua la fabrica de muștar Fallot.",
+        "en": "Explore Beaune and its surrounding vineyards on two wheels. After the historic Hôtel-Dieu, leave the ramparts and cycle on the famous 'Route des Grands Crus'. The charming village of Pommard offers the perfect turning point for a tasting, before returning through Bouzaize park and finishing the day at the Fallot mustard mill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gougères",
+            "tip": "Kleine Käsewindbeutel, ideal als Snack während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gougères",
+            "tip": "Sajtos égetett tészta fánkocskák, ideális snack biciklizés közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gougères",
+            "tip": "Mici gogoși cu brânză, gustarea ideală în timpul turei cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gougères",
+            "tip": "Savory cheese puffs, an ideal snack during your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Pommard",
+            "tip": "Finden Sie ein ruhiges Plätzchen zwischen den Reben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pommard szőlői",
+            "tip": "Keressen egy csendes helyet a tőkék között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Pommard",
+            "tip": "Găsiți un loc liniștit printre rândurile de viță de vie.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pommard Vineyards",
+            "tip": "Find a quiet spot among the vines.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bourgogne Randonnée",
+            "tip": "Fahrradverleih mit exzellenten Karten der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bourgogne Randonnée",
+            "tip": "Kerékpárkölcsönző kiváló térképekkel a régióról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bourgogne Randonnée",
+            "tip": "Centru de închiriere biciclete cu hărți excelente ale regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bourgogne Randonnée",
+            "tip": "Bike rental shop with excellent regional maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die 'Voie Verte' ist ein gut ausgebauter Radweg durch die Weinberge.",
+          "Achten Sie auf Traktoren während der Weinlesezeit.",
+          "Ein Schloss für das Fahrrad ist unbedingt erforderlich.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "A 'Voie Verte' egy jól kiépített kerékpárút a szőlők között.",
+          "Ügyeljen a traktorokra a szüret idején.",
+          "A kerékpárhoz feltétlenül vigyen lakatot.",
+          "Vigyen magával elég vizet, különösen nyáron."
+        ],
+        "ro": [
+          "„Voie Verte” este o pistă de biciclete bine amenajată prin podgorii.",
+          "Atenție la tractoare în timpul perioadei de recoltare.",
+          "Un sistem de antifurt pentru bicicletă este absolut necesar.",
+          "Luați suficientă apă, mai ales pe timpul verii."
+        ],
+        "en": [
+          "The 'Voie Verte' is a well-maintained cycle path through the vineyards.",
+          "Watch out for tractors during the harvest season.",
+          "A bike lock is absolutely necessary.",
+          "Take enough water with you, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 28.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hospices de Beaune",
+          "coords": [
+            4.8365,
+            47.0218
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Parkplatz 'Boulevard Perpreuil'.",
+            "hu": "Használja a 'Boulevard Perpreuil' parkolót.",
+            "ro": "Folosiți parcarea de pe „Boulevard Perpreuil”.",
+            "en": "Use the 'Boulevard Perpreuil' parking lot."
+          }
+        },
+        {
+          "name": "Château de Savigny-lès-Beaune",
+          "coords": [
+            4.818,
+            47.062
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Einzigartige Sammlung von Flugzeugen und Abarth-Rennwagen.",
+            "hu": "Egyedülálló repülőgép- és Abarth versenyautó-gyűjtemény.",
+            "ro": "Colecție unică de avioane și mașini de curse Abarth.",
+            "en": "Unique collection of aircraft and Abarth racing cars."
+          }
+        },
+        {
+          "name": "Pommard Village",
+          "coords": [
+            4.795,
+            47.011
+          ],
+          "category": "city",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Mittagessen mit Blick auf die Reben.",
+            "hu": "Ideális egy ebédhez kilátással a szőlőre.",
+            "ro": "Ideal pentru un prânz cu vedere la vița de vie.",
+            "en": "Ideal for a lunch with a view of the vines."
+          }
+        },
+        {
+          "name": "Meursault Village",
+          "coords": [
+            4.775,
+            46.978
+          ],
+          "category": "city",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Bekannt für seine exzellenten Weißweine.",
+            "hu": "Kiváló fehérborairól ismert.",
+            "ro": "Cunoscut pentru vinurile sale albe excelente.",
+            "en": "Known for its excellent white wines."
+          }
+        },
+        {
+          "name": "Moutarderie Fallot",
+          "coords": [
+            4.8355,
+            47.0205
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Souvenirs vor der Rückreise.",
+            "hu": "Rövid megálló ajándékokért a hazautazás előtt.",
+            "ro": "Scurtă oprire pentru suveniruri înainte de plecare.",
+            "en": "Short stop for souvenirs before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erweitern Sie Ihren Radius um Beaune. Nach dem Pflichtbesuch im Hôtel-Dieu fahren Sie zum Schloss Savigny, das Technik- und Weinliebhaber gleichermaßen begeistert. Die Route führt Sie weiter südlich durch die berühmten Weindörfer Pommard und Meursault, wo Sie die wahre Essenz des Burgunds erleben, bevor Sie für einen letzten Halt nach Beaune zurückkehren.",
+        "hu": "Autóval kibővítheti a Beaune környéki felfedezést. A Hôtel-Dieu kötelező látogatása után irány a Savigny-kastély, amely a technika és a bor szerelmeseit egyaránt lenyűgözi. Az út délebbre vezet a híres Pommard és Meursault borfalvakon keresztül, ahol átélheti Burgundia valódi esszenciáját, mielőtt visszatérne Beaune-ba egy utolsó megállóra.",
+        "ro": "Cu mașina vă extindeți raza de explorare în jurul orașului Beaune. După vizita obligatorie la Hôtel-Dieu, mergeți la Castelul Savigny, care îi încântă deopotrivă pe iubitorii de tehnică și de vin. Traseul continuă spre sud prin satele viticole celebre Pommard și Meursault, unde puteți experimenta esența reală a Burgundiei, înainte de a reveni în Beaune pentru o ultimă oprire.",
+        "en": "By car, you can expand your discovery around Beaune. After the mandatory visit to the Hôtel-Dieu, head to Savigny Castle, which fascinates tech and wine lovers alike. The route takes you further south through the famous wine villages of Pommard and Meursault, where you can experience the true essence of Burgundy before returning to Beaune for a final stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Époisses-Käse",
+            "tip": "Ein kräftiger Weichkäse, perfekt zu einem lokalen Weißwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Époisses sajt",
+            "tip": "Erőteljes lágy sajt, tökéletes egy helyi fehérborhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Époisses",
+            "tip": "O brânză moale cu aromă puternică, perfectă cu un vin alb local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Époisses Cheese",
+            "tip": "A strong soft cheese, perfect with a local white wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Savigny Schlossgarten",
+            "tip": "Großzügige Anlage mit viel Platz zum Durchatmen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Savigny kastélypark",
+            "tip": "Tágas terület, ahol van hely fellélegezni.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Castelului Savigny",
+            "tip": "Domeniu vast cu mult spațiu pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Savigny Castle Gardens",
+            "tip": "Spacious grounds with plenty of room to breathe.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cave de Meursault",
+            "tip": "Ideal, um Weine direkt beim Erzeuger zu kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cave de Meursault",
+            "tip": "Ideális borvásárláshoz közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cave de Meursault",
+            "tip": "Ideal pentru a cumpăra vinuri direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave de Meursault",
+            "tip": "Ideal for buying wines directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum von Beaune kann schwierig sein, nutzen Sie die Randparkplätze.",
+          "Die Straßen in den Dörfern sind oft sehr eng.",
+          "0,0 Promille Grenze beachten, wenn Sie fahren.",
+          "Die Route des Grands Crus ist landschaftlich sehr reizvoll."
+        ],
+        "hu": [
+          "Beaune központjában nehéz lehet a parkolás, használja a szélső parkolókat.",
+          "A falvak utcái gyakran nagyon szűkek.",
+          "Ügyeljen a zéró tolerancia szabályára, ha vezet.",
+          "A Route des Grands Crus tájilag nagyon vonzó."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului Beaune poate fi dificilă, folosiți parcările de la periferie.",
+          "Străzile din sate sunt adesea foarte înguste.",
+          "Atenție la limita de alcoolemie dacă conduceți.",
+          "Route des Grands Crus este foarte pitorească."
+        ],
+        "en": [
+          "Parking in central Beaune can be difficult, use the peripheral parking lots.",
+          "Village streets are often very narrow.",
+          "Be aware of drink-driving limits if you are driving.",
+          "The Route des Grands Crus is very scenic."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Beaune",
+          "coords": [
+            4.845,
+            47.022
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Bahnhof ist nur wenige Gehminuten vom Zentrum entfernt.",
+            "hu": "Az állomás csak pár perc sétára van a központtól.",
+            "ro": "Gara se află la doar câteva minute de mers pe jos de centru.",
+            "en": "The station is just a few minutes' walk from the center."
+          }
+        },
+        {
+          "name": "Hospices de Beaune",
+          "coords": [
+            4.8365,
+            47.0218
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus 'Navette gratuite' im Zentrum.",
+            "hu": "Használja a központban a helyi ingyenes buszjáratot.",
+            "ro": "Folosiți autobuzul local gratuit din centru.",
+            "en": "Use the local free shuttle bus in the center."
+          }
+        },
+        {
+          "name": "Collégiale Notre-Dame",
+          "coords": [
+            4.8385,
+            47.0242
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zentraler Punkt für viele Busverbindungen.",
+            "hu": "Központi pont sok buszjárat számára.",
+            "ro": "Punct central pentru multe conexiuni de autobuz.",
+            "en": "Central point for many bus connections."
+          }
+        },
+        {
+          "name": "Parc de la Bouzaize",
+          "coords": [
+            4.8255,
+            47.0255
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Gut mit der Buslinie 1 erreichbar.",
+            "hu": "Jól megközelíthető az 1-es buszvonallal.",
+            "ro": "Accesibil cu linia de autobuz 1.",
+            "en": "Easily accessible with bus line 1."
+          }
+        },
+        {
+          "name": "Musée du Vin",
+          "coords": [
+            4.8372,
+            47.0235
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Liegt direkt auf dem Rückweg zum Bahnhof.",
+            "hu": "Közvetlenül az állomásra vezető úton fekszik.",
+            "ro": "Se află chiar pe drumul de întoarcere spre gară.",
+            "en": "Located right on the way back to the station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vom Bahnhof aus ist Beaune hervorragend erschlossen. Nutzen Sie die kostenlose Innenstadt-Navette, um bequem zum Hôtel-Dieu zu gelangen. Nach der Besichtigung der Stiftskirche bringt Sie der Bus zum weitläufigen Bouzaize-Park. Ein letzter Stopp im Weinmuseum rundet das Erlebnis ab, bevor Sie mit dem Zug die Heimreise antreten.",
+        "hu": "A vasútállomástól Beaune kiválóan megközelíthető. Használja az ingyenes belvárosi buszjáratot, hogy kényelmesen eljusson a Hôtel-Dieu-höz. A Notre-Dame megtekintése után a busz elviszi a tágas Bouzaize parkhoz. Egy utolsó megálló a bormúzeumban teszi teljessé az élményt, mielőtt vonattal hazautazna.",
+        "ro": "De la gară, Beaune este excelent deservit de transportul public. Folosiți microbuzul gratuit din centru pentru a ajunge confortabil la Hôtel-Dieu. După vizitarea bisericii, autobuzul vă duce la parcul vast Bouzaize. O ultimă oprire la Muzeul Vinului completează experiența înainte de a lua trenul înapoi.",
+        "en": "From the train station, Beaune is excellently accessible. Use the free city center shuttle to reach the Hôtel-Dieu comfortably. After visiting the Notre-Dame church, the bus takes you to the extensive Bouzaize park. A final stop at the Wine Museum rounds off the experience before you take the train home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Escargots de Bourgogne",
+            "tip": "Weinbergschnecken mit Knoblauchbutter, eine Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burgundi csigák",
+            "tip": "Fokhagymás vajjal készült éticsigák, igazi ínyencség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Melci de Burgundia",
+            "tip": "Melci cu unt și usturoi, o delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burgundy Snails",
+            "tip": "Snails with garlic butter, a true local delicacy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein versteckter Rückzugsort in der Nähe der Notre-Dame.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Egy rejtett pihenőhely a Notre-Dame közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un refugiu ascuns în apropiere de Notre-Dame.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cloister Garden",
+            "tip": "A hidden retreat near Notre-Dame.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bouchard Aîné & Fils",
+            "tip": "Historische Keller, die auch zu Fuß erreichbar sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouchard Aîné & Fils",
+            "tip": "Történelmi pincék, amelyek gyalog is elérhetőek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouchard Aîné & Fils",
+            "tip": "Crame istorice accesibile și pe jos."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouchard Aîné & Fils",
+            "tip": "Historic cellars that are also reachable on foot."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Fahrpläne der Buslinie 'Cote y Bus'.",
+          "Die Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Sonntags verkehren deutlich weniger Busse.",
+          "Vom Bahnhof zum Zentrum sind es etwa 10-15 Minuten Fußweg."
+        ],
+        "hu": [
+          "Ellenőrizze a 'Cote y Bus' járatok menetrendjét.",
+          "A jegyeket közvetlenül a sofőrnél is meg lehet vásárolni.",
+          "Vasárnap jelentősen kevesebb busz közlekedik.",
+          "Az állomástól a központ kb. 10-15 perc gyalog."
+        ],
+        "ro": [
+          "Verificați orarul liniilor „Cote y Bus”.",
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Duminica circulă mult mai puține autobuze.",
+          "De la gară până în centru sunt aproximativ 10-15 minute de mers pe jos."
+        ],
+        "en": [
+          "Check the schedules for 'Cote y Bus' lines.",
+          "Tickets can be purchased directly from the driver.",
+          "Buses run significantly less frequently on Sundays.",
+          "It's about a 10-15 minute walk from the station to the center."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1131 @@
+{
+  "city_id": "calvi",
+  "anchor": {
+    "name": "Calvi",
+    "coords": [
+      8.7572,
+      42.5664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Calvi",
+            "hu": "Calvi kikötője",
+            "ro": "Portul din Calvi",
+            "en": "Calvi Marina"
+          },
+          "coords": [
+            8.7575,
+            42.5665
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Ideal für einen Kaffee mit Blick auf die Luxusyachten.",
+            "hu": "Ideális egy kávéhoz a luxusjachtokra néző kilátással.",
+            "ro": "Ideal pentru o cafea cu vedere la iahturile de lux.",
+            "en": "Ideal for a coffee with views of the luxury yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Calvi",
+            "hu": "Calvi citadella",
+            "ro": "Citadela din Calvi",
+            "en": "Calvi Citadel"
+          },
+          "coords": [
+            8.761,
+            42.5685
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Die Aussicht von den Festungsmauern ist atemberaubend.",
+            "hu": "A várfalakról nyíló kilátás lélegzetelállító.",
+            "ro": "Vederea de pe zidurile fortăreței este uluitoare.",
+            "en": "The views from the fortress walls are breathtaking."
+          }
+        },
+        {
+          "name": {
+            "de": "Pro-Kathedrale Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-székesegyház",
+            "ro": "Catedrala Sfântul Ioan Botezătorul",
+            "en": "St. John the Baptist Cathedral"
+          },
+          "coords": [
+            8.7615,
+            42.5688
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Bewundern Sie das berühmte schwarze Christus-Kruzifix.",
+            "hu": "Csodálja meg a híres fekete Krisztus-feszületet.",
+            "ro": "Admirați celebrul crucifix negru al lui Hristos.",
+            "en": "Admire the famous black Christ crucifix inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Clemenceau",
+            "hu": "Clemenceau utca",
+            "ro": "Strada Clemenceau",
+            "en": "Rue Clemenceau"
+          },
+          "coords": [
+            8.757,
+            42.566
+          ],
+          "category": "shopping",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Kaufen Sie hier korsischen Honig und Myrthenlikör.",
+            "hu": "Itt vásárolhat korzikai mézet és mirtuszlikőrt.",
+            "ro": "Cumpărați de aici miere corsicană și lichior de mirt.",
+            "en": "Buy Corsican honey and myrtle liqueur here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Calvi",
+            "hu": "Calvi strandja",
+            "ro": "Plaja din Calvi",
+            "en": "Calvi Beach"
+          },
+          "coords": [
+            8.765,
+            42.558
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_4lang": {
+            "de": "Genießen Sie das flache, kristallklare Wasser.",
+            "hu": "Élvezze a sekély, kristálytiszta vizet.",
+            "ro": "Bucurați-vă de apa mică și cristalină.",
+            "en": "Enjoy the shallow, crystal-clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Abschluss am Quai Landry",
+            "hu": "Gasztro-zárás a Quai Landry-n",
+            "ro": "Final gastronomic la Quai Landry",
+            "en": "Gastro Finale at Quai Landry"
+          },
+          "coords": [
+            8.758,
+            42.5662
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Probieren Sie Meeresfrüchte direkt am Wasser.",
+            "hu": "Kóstolja meg a tenger gyümölcseit közvetlenül a vízparton.",
+            "ro": "Încercați fructe de mare chiar lângă apă.",
+            "en": "Try seafood right by the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am lebhaften Yachthafen, wo weiße Boote vor der Kulisse der Berge schaukeln. Ein Spaziergang durch die Rue Clemenceau führt Sie direkt in das Herz des korsischen Kunsthandwerks.\n\nMittags erklimmen Sie die mächtige Zitadelle. Erkunden Sie die Kathedrale Saint-Jean-Baptiste und genießen Sie ein traditionelles Mittagessen mit Blick auf das glitzernde Mittelmeer.\n\nDen Nachmittag verbringen Sie am weitläufigen Strand von Calvi. Das flache, türkisfarbene Wasser ist ideal für ein ausgiebiges Bad oder entspannte Stunden im weichen Sand.\n\nWenn der Abend dämmert, kehren Sie zum Quai Landry zurück. Beobachten Sie, wie die Zitadelle im Sonnenuntergang leuchtet, während Sie lokale Spezialitäten in den Restaurants am Wasser genießen.",
+        "hu": "A reggel a nyüzsgő kikötőben indul, ahol fehér jachtok ringanak a hegyek háttere előtt. Egy séta a Rue Clemenceau-n keresztül egyenesen a korzikai kézművesség szívébe vezeti Önt.\n\nDélben másszon fel a hatalmas Citadellára. Fedezze fel a Saint-Jean-Baptiste székesegyházat, és élvezze a tradicionális ebédet a csillogó Földközi-tengerre nyíló kilátással.\n\nA délutánt töltse a tágas Calvi strandon. A sekély, türkizkék víz tökéletes egy hosszú fürdőzéshez vagy pihentető órákhoz a puha homokban.\n\nAhogy leszáll az este, térjen vissza a Quai Landry-ra. Nézze meg, ahogy a Citadella ragyog a naplementében, miközben helyi különlegességeket kóstol a vízparti éttermekben.",
+        "ro": "Dimineața începe în portul plin de viață, unde iahturile albe se leagănă pe fundalul munților. O plimbare pe Rue Clemenceau vă duce direct în inima meșteșugurilor corse.\n\nLa prânz, urcați la puternica Citadelă. Explorați Catedrala Saint-Jean-Baptiste și bucurați-vă de un prânz tradițional cu vedere la Marea Mediterană sclipitoare.\n\nPetreceți după-amiaza pe vasta plajă din Calvi. Apa turcoaz și puțin adâncă este ideală pentru o baie lungă sau ore de relaxare pe nisipul fin.\n\nPe măsură ce se lasă seara, reveniți la Quai Landry. Priviți cum Citadela strălucește în apus, în timp ce savurați specialități locale la restaurantele de pe malul apei.",
+        "en": "Morning starts at the bustling marina, where white yachts bob against a backdrop of mountains. A stroll through Rue Clemenceau leads you directly into the heart of Corsican craftsmanship.\n\nBy midday, ascend the mighty Citadelle. Explore the Saint-Jean-Baptiste Cathedral and enjoy a traditional lunch with views over the glittering Mediterranean Sea.\n\nSpend the afternoon on the vast Plage de Calvi. The shallow turquoise waters are perfect for a long swim or relaxing hours on the soft sand.\n\nAs evening falls, return to Quai Landry. Watch the Citadelle glow in the sunset while enjoying local specialties at the waterfront restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sanglier à la Corse",
+            "tip": "Wildschweineintopf, ein kräftiges Nationalgericht."
+          },
+          {
+            "name": "Fiadone",
+            "tip": "Klassischer Käsekuchen mit Zitrone und Brocciu."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sanglier à la Corse",
+            "tip": "Vaddisznópörkölt, egy kiadós nemzeti étel."
+          },
+          {
+            "name": "Fiadone",
+            "tip": "Klasszikus túrótorta citrommal és Brocciu sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanglier à la Corse",
+            "tip": "Tocană de mistreț, un fel de mâncare național consistent."
+          },
+          {
+            "name": "Fiadone",
+            "tip": "Prăjitură clasică cu brânză Brocciu și lămâie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanglier à la Corse",
+            "tip": "Wild boar stew, a hearty national dish."
+          },
+          {
+            "name": "Fiadone",
+            "tip": "Classic cheesecake made with lemon and Brocciu cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zitadellen-Wall",
+            "tip": "Ruhiger Blick auf das Meer abseits der Massen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pinienwald am Strand",
+            "tip": "Schattiger Rückzugsort hinter dem Sand.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Citadella falai",
+            "tip": "Csendes kilátás a tengerre a tömegtől távol.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fenyőerdő a strandon",
+            "tip": "Árnyas menedék közvetlenül a homok mögött.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile Cetății",
+            "tip": "Vedere liniștită la mare, departe de mulțime.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de pini",
+            "tip": "Un refugiu umbrit chiar în spatele plajei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Citadel Ramparts",
+            "tip": "Quiet sea views away from the harbor crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pine Forest",
+            "tip": "A shaded retreat right behind the beach sand.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Markthalle für lokale Wurstwaren und Käse."
+          },
+          {
+            "name": "A Loghja",
+            "tip": "Feinkostladen für erstklassige korsische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Vásárcsarnok helyi felvágottakért és sajtokért."
+          },
+          {
+            "name": "A Loghja",
+            "tip": "Csemegebolt prémium korzikai termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Hală pentru mezeluri și brânzeturi locale."
+          },
+          {
+            "name": "A Loghja",
+            "tip": "Băcănie pentru produse corse de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Covered market for local charcuterie and cheese."
+          },
+          {
+            "name": "A Loghja",
+            "tip": "Delicatessen for premium Corsican products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster in der Zitadelle.",
+          "Buchen Sie Restauranttische am Hafen im Voraus.",
+          "Das Wasser am Strand bleibt lange flach, ideal für Familien.",
+          "Besuchen Sie die Zitadelle am späten Nachmittag für das beste Licht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Citadella macskaköveihez.",
+          "A kikötői éttermekbe érdemes előre asztalt foglalni.",
+          "A strand vize sokáig sekély marad, családoknak ideális.",
+          "Látogassa meg a Citadellát késő délután a legjobb fényekért."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru pietrele cubice din Citadelă.",
+          "Rezervați din timp mese la restaurantele din port.",
+          "Apa de la plajă rămâne mică pe o distanță mare, ideală pentru familii.",
+          "Vizitați Citadela după-amiaza târziu pentru cea mai bună lumină."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones in the Citadel.",
+          "Book harbor-side restaurant tables in advance during summer.",
+          "The beach water stays shallow for a long way, great for kids.",
+          "Visit the Citadel in the late afternoon for the best photography light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Calvi",
+            "hu": "Calvi kikötője",
+            "ro": "Portul din Calvi",
+            "en": "Calvi Marina"
+          },
+          "coords": [
+            8.7575,
+            42.5665
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Starten Sie Ihre Tour entlang der flachen Hafenpromenade.",
+            "hu": "Kezdje a túrát a lapos kikötői sétány mentén.",
+            "ro": "Începeți turul de-a lungul promenadei plate din port.",
+            "en": "Start your tour along the flat harbor promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinienwald-Radweg",
+            "hu": "Fenyőerdei kerékpárút",
+            "ro": "Pista de biciclete prin pădure",
+            "en": "Pine Forest Bike Path"
+          },
+          "coords": [
+            8.775,
+            42.552
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein schattiger Weg parallel zum Sandstrand.",
+            "hu": "Árnyas út a homokos stranddal párhuzamosan.",
+            "ro": "O potecă umbrită paralelă cu plaja de nisip.",
+            "en": "A shaded path parallel to the sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Serra",
+            "hu": "Notre-Dame de la Serra kápolna",
+            "ro": "Notre-Dame de la Serra",
+            "en": "Notre-Dame de la Serra"
+          },
+          "coords": [
+            8.736,
+            42.551
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Ein steiler Anstieg, aber die beste Aussicht auf die Bucht.",
+            "hu": "Meredek emelkedő, de innen a legjobb a kilátás az öbölre.",
+            "ro": "O urcare abruptă, dar cea mai bună vedere asupra golfului.",
+            "en": "A steep climb, but the best panoramic view of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Revellata-Halbinsel",
+            "hu": "Revellata-félsziget",
+            "ro": "Peninsula Revellata",
+            "en": "Revellata Peninsula"
+          },
+          "coords": [
+            8.725,
+            42.57
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Wilde Natur und versteckte Badebuchten.",
+            "hu": "Vadon termő természet és rejtett fürdőöblök.",
+            "ro": "Natură sălbatică și golfuri ascunse pentru înot.",
+            "en": "Wild nature and hidden coves for a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastro-Belohnung im Zentrum",
+            "hu": "Gasztro-jutalom a központban",
+            "ro": "Recompensă culinară în centru",
+            "en": "Gastro Reward in Center"
+          },
+          "coords": [
+            8.756,
+            42.565
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Erfrischen Sie sich mit einem korsischen Pietra-Bier.",
+            "hu": "Frissüljön fel egy korzikai Pietra sörrel.",
+            "ro": "Răcoriți-vă cu o bere corsicană Pietra.",
+            "en": "Refresh yourself with a Corsican Pietra beer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am glitzernden Hafen und folgen Sie dem flachen Weg am Strand entlang. Der Duft der Pinien begleitet Sie auf den ersten Kilometern.\n\nAm späten Vormittag fordern Sie sich mit dem Anstieg zur Notre-Dame de la Serra heraus. Die Belohnung ist ein Panorama, das Ihnen den Atem rauben wird.\n\nSetzen Sie Ihre Fahrt zur wilden Revellata-Halbinsel fort. Hier finden Sie unberührte Naturpfade und kleine Buchten, die zum Abkühlen im Meer einladen.\n\nZum Abschluss rollen Sie entspannt zurück ins Stadtzentrum. Genießen Sie eine herzhafte korsische Mahlzeit, um Ihre Energiereserven nach einem aktiven Tag aufzufüllen.",
+        "hu": "Kezdje a kerékpártúrát a csillogó kikötőben, és kövesse a strand menti sík utat. A fenyők illata végigkíséri az első kilométereken.\n\nKéső délelőtt tegye próbára magát a Notre-Dame de la Serra emelkedőjével. A jutalom egy olyan panoráma, amelytől eláll a lélegzete.\n\nFolytassa útját a vad Revellata-félsziget felé. Itt érintetlen ösvényeket és kis öblöket talál, amelyek hűsítő fürdőzésre csábítanak.\n\nVégül guruljon vissza kényelmesen a városközpontba. Élvezze a kiadós korzikai vacsorát, hogy feltöltődjön az aktív nap után.",
+        "ro": "Începeți turul cu bicicleta în portul strălucitor și urmați drumul plat de-a lungul plajei. Mirosul pinilor vă însoțește în primii kilometri.\n\nSpre sfârșitul dimineții, provocați-vă cu urcarea către Notre-Dame de la Serra. Recompensa este o panoramă care vă va lăsa fără suflare.\n\nContinuați plimbarea către peninsula sălbatică Revellata. Aici veți găsi poteci naturale virgine și mici golfuri care vă invită la o baie răcoritoare.\n\nLa final, reveniți relaxat în centrul orașului. Savurați o masă corsicană consistentă pentru a vă reîncărca bateriile după o zi activă.",
+        "en": "Start your cycling tour at the sparkling harbor and follow the flat path along the beach. The scent of pine trees accompanies you for the first few kilometers.\n\nIn the late morning, challenge yourself with the climb to Notre-Dame de la Serra. The reward is a panorama that will take your breath away.\n\nContinue your ride to the wild Revellata Peninsula. Here you will find untouched nature trails and small coves perfect for a cooling dip in the sea.\n\nTo wrap up, coast back down to the city center. Enjoy a hearty Corsican meal to replenish your energy after an active day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pietra Bier",
+            "tip": "Korsisches Kastanienbier, sehr erfrischend."
+          },
+          {
+            "name": "Charcuterie Corse",
+            "tip": "Prisutu und Lonzu sind perfekt für eine Pause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pietra sör",
+            "tip": "Korzikai gesztenyesör, nagyon frissítő."
+          },
+          {
+            "name": "Charcuterie Corse",
+            "tip": "A Prisutu és Lonzu tökéletes egy kis pihenőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere Pietra",
+            "tip": "Bere corsicană cu castane, foarte răcoritoare."
+          },
+          {
+            "name": "Charcuterie Corse",
+            "tip": "Prisutu și Lonzu sunt perfecte pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pietra Beer",
+            "tip": "Corsican chestnut beer, very refreshing after a ride."
+          },
+          {
+            "name": "Charcuterie Corse",
+            "tip": "Prisutu and Lonzu ham are perfect for a snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Ein spiritueller Ort mit weiter Fernsicht.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Revellata Leuchtturm",
+            "tip": "Abgeschiedene Spitze der Halbinsel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Spirituális hely tágas kilátással.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Revellata világítótorony",
+            "tip": "A félsziget távoli csúcsa.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Un loc spiritual cu o perspectivă largă.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Farul Revellata",
+            "tip": "Vârful izolat al peninsulei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "A spiritual spot with wide-reaching views.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Revellata Lighthouse",
+            "tip": "Isolated tip of the peninsula.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Orriu",
+            "tip": "Lokaler Käse und Wein zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Orriu",
+            "tip": "Helyi sajt és bor elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Orriu",
+            "tip": "Brânză și vin local pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Orriu",
+            "tip": "Local cheese and wine shop for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Serra.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Die Küstenstraße ist flach, aber die Hügel sind fordernd.",
+          "Ein Mountainbike ist für die Revellata-Pfade besser geeignet."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeit a Serra-ról való leereszkedés előtt.",
+          "Vigyen elegendő vizet, kevés az árnyék.",
+          "A tengerparti út sík, de a dombok embert próbálóak.",
+          "A Revellata ösvényeihez a hegyi kerékpár alkalmasabb."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de la Serra.",
+          "Luați destulă apă, există puțină umbră.",
+          "Drumul de coastă este plat, dar dealurile sunt solicitante.",
+          "O bicicletă de munte este mai potrivită pentru potecile din Revellata."
+        ],
+        "en": [
+          "Check your brakes before descending from the Serra hill.",
+          "Carry plenty of water as there is little shade on the hills.",
+          "The coastal road is flat, but inland climbs are steep.",
+          "A mountain bike is better suited for the Revellata trails."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 45.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle von Calvi",
+            "hu": "Calvi citadella",
+            "ro": "Citadela din Calvi",
+            "en": "Calvi Citadel"
+          },
+          "coords": [
+            8.761,
+            42.5685
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Parken Sie am Fuße der Festung (kostenpflichtig).",
+            "hu": "Parkoljon az erőd lábánál (fizetős).",
+            "ro": "Parcați la baza fortăreței (cu plată).",
+            "en": "Park at the foot of the fortress (paid parking)."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de la Serra",
+            "hu": "Notre-Dame de la Serra kápolna",
+            "ro": "Notre-Dame de la Serra",
+            "en": "Notre-Dame de la Serra"
+          },
+          "coords": [
+            8.736,
+            42.551
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Kostenloser Parkplatz direkt bei der Kapelle.",
+            "hu": "Ingyenes parkoló közvetlenül a kápolnánál.",
+            "ro": "Parcare gratuită chiar lângă capelă.",
+            "en": "Free parking available right next to the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Revellata",
+            "hu": "Revellata-fok",
+            "ro": "Pointe de la Revellata",
+            "en": "Pointe de la Revellata"
+          },
+          "coords": [
+            8.724,
+            42.583
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_4lang": {
+            "de": "Fahren Sie bis zum Parkplatz am Ende der Straße.",
+            "hu": "Hajtson el az út végén található parkolóig.",
+            "ro": "Conduceți până la parcarea de la capătul drumului.",
+            "en": "Drive to the parking area at the end of the road."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Île-Rousse Ausflug",
+            "hu": "Kirándulás L'Île-Rousse-ba",
+            "ro": "Excursie la L'Île-Rousse",
+            "en": "L'Île-Rousse Excursion"
+          },
+          "coords": [
+            8.937,
+            42.634
+          ],
+          "category": "city",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 24.0,
+          "tip_4lang": {
+            "de": "Besuchen Sie den roten Granit-Leuchtturm auf der Insel.",
+            "hu": "Látogassa meg a vörös gránit világítótornyot a szigeten.",
+            "ro": "Vizitați farul de granit roșu de pe insulă.",
+            "en": "Visit the red granite lighthouse on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen am Hafen von Calvi",
+            "hu": "Vacsora Calvi kikötőjében",
+            "ro": "Cină în portul Calvi",
+            "en": "Dinner at Calvi Marina"
+          },
+          "coords": [
+            8.758,
+            42.5662
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_4lang": {
+            "de": "Genießen Sie den Sonnenuntergang über den Masten.",
+            "hu": "Élvezze a naplementét az árbocok felett.",
+            "ro": "Bucurați-vă de apusul peste catarge.",
+            "en": "Enjoy the sunset over the ship masts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der historischen Zitadelle von Calvi, bevor Sie die Hügel hinauffahren. Die Straße bietet spektakuläre Kurven und Ausblicke.\n\nMittags erreichen Sie die Kapelle Notre-Dame de la Serra und die wilde Halbinsel Revellata. Hier erleben Sie die raue Schönheit der korsischen Westküste in ihrer vollen Pracht.\n\nAm Nachmittag machen Sie einen Abstecher in das benachbarte L'Île-Rousse. Schlendern Sie über den Place Paoli und bewundern Sie den markanten roten Felsen der Halbinsel Pietra.\n\nZum Abendessen kehren Sie nach Calvi zurück. Die Fahrt entlang der Küstenstraße im goldenen Abendlicht ist ein krönender Abschluss Ihres ereignisreichen Tages.",
+        "hu": "Kezdje a napot Calvi történelmi Citadellájával, mielőtt felhajtana a dombokra. Az út látványos kanyarokat és kilátást kínál.\n\nDélben elérheti a Notre-Dame de la Serra kápolnát és a vad Revellata-félszigetet. Itt teljes pompájában tapasztalhatja meg a korzikai nyugati part zord szépségét.\n\nDélután tegyen egy kitérőt a szomszédos L'Île-Rousse-ba. Sétáljon végig a Place Paoli-n, és csodálja meg a Pietra-félsziget jellegzetes vörös szikláit.\n\nVacsoraidőben térjen vissza Calviba. A tengerparti úton való vezetés az esti aranyfényben méltó befejezése az eseménydús napnak.",
+        "ro": "Începeți ziua cu Citadela istorică din Calvi, înainte de a urca spre dealuri. Drumul oferă curbe spectaculoase și vederi panoramice.\n\nLa prânz, ajungeți la capela Notre-Dame de la Serra și peninsula sălbatică Revellata. Aici veți experimenta frumusețea aspră a coastei de vest corsicane în toată splendoarea sa.\n\nDupă-amiaza, faceți o excursie în orașul vecin L'Île-Rousse. Plimbați-vă prin Place Paoli și admirați stânca roșie distinctivă a peninsulei Pietra.\n\nPentru cină, reveniți în Calvi. Drumul de-a lungul coastei în lumina aurie a serii este o încheiere perfectă pentru ziua dumneavoastră plină de evenimente.",
+        "en": "Start your day with the historical Citadel of Calvi before driving up into the hills. The road offers spectacular curves and coastal vistas.\n\nBy midday, reach the Notre-Dame de la Serra chapel and the wild Revellata Peninsula. Here you will experience the rugged beauty of the Corsican west coast in all its glory.\n\nIn the afternoon, take a side trip to the neighboring L'Île-Rousse. Stroll across Place Paoli and admire the striking red rock of the Pietra Peninsula.\n\nReturn to Calvi for dinner. Driving along the coastal road in the golden evening light is a crowning finish to your eventful day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sanglier",
+            "tip": "Wildschwein in verschiedenen Variationen."
+          },
+          {
+            "name": "Korsischer Honig",
+            "tip": "Ideal als Souvenir von den lokalen Märkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sanglier",
+            "tip": "Vaddisznó különböző elkészítési módokban."
+          },
+          {
+            "name": "Korzikai méz",
+            "tip": "Ideális szuvenír a helyi piacokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sanglier",
+            "tip": "Mistreț preparat în diverse moduri."
+          },
+          {
+            "name": "Miere corsicană",
+            "tip": "Ideală ca suvenir din piețele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sanglier",
+            "tip": "Wild boar prepared in various traditional styles."
+          },
+          {
+            "name": "Corsican Honey",
+            "tip": "Pick up a jar from local markets as a souvenir."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Panorama-Ruhepol hoch über der Stadt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage de la Revellata",
+            "tip": "Abgelegener Strand für absolute Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Panorámás nyugalom a város felett.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage de la Revellata",
+            "tip": "Elszigetelt strand a tökéletes csendhez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "Liniște panoramică deasupra orașului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Plage de la Revellata",
+            "tip": "Plajă izolată pentru liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Notre-Dame de la Serra",
+            "tip": "A panoramic sanctuary high above the town.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Revellata Beach",
+            "tip": "Remote beach for absolute tranquility.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Île-Rousse Markt",
+            "tip": "Hervorragend für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Île-Rousse piac",
+            "tip": "Kiváló friss termékekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața L'Île-Rousse",
+            "tip": "Excelentă pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Île-Rousse Market",
+            "tip": "Excellent for fresh local produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen können eng und kurvenreich sein.",
+          "Parkplätze in Calvi sind im Sommer Mangelware.",
+          "Nutzen Sie die Küstenstraße für die beste Aussicht.",
+          "Klimaanlage im Auto ist von Juni bis August Pflicht."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak lehetnek.",
+          "Calviban nyáron kevés a parkolóhely.",
+          "A legjobb kilátásért használja a tengerparti utat.",
+          "A légkondi az autóban júniustól augusztusig kötelező."
+        ],
+        "ro": [
+          "Drumurile pot fi înguste și sinuoase.",
+          "Locurile de parcare în Calvi sunt puține vara.",
+          "Folosiți drumul de coastă pentru cele mai bune priveliști.",
+          "Aerul condiționat în mașină este obligatoriu din iunie până în august."
+        ],
+        "en": [
+          "Roads can be narrow and very winding; drive carefully.",
+          "Parking in Calvi center is difficult during peak summer months.",
+          "Take the coastal road (D81) for the most scenic drive.",
+          "Car air conditioning is essential from June to August."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Calvi (Zentrum)",
+            "hu": "Calvi vasútállomás (Központ)",
+            "ro": "Gara Calvi (Centru)",
+            "en": "Calvi Station (Center)"
+          },
+          "coords": [
+            8.756,
+            42.565
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_4lang": {
+            "de": "Kaufen Sie Ihre Fahrkarte direkt am kleinen Schalter.",
+            "hu": "Vásárolja meg jegyét közvetlenül a kis ablaknál.",
+            "ro": "Cumpărați biletul direct de la ghișeul mic.",
+            "en": "Buy your ticket directly at the small station counter."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen & Zitadelle",
+            "hu": "Kikötő és Citadella",
+            "ro": "Port și Citadelă",
+            "en": "Harbor & Citadel"
+          },
+          "coords": [
+            8.761,
+            42.5685
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Vom Bahnhof sind es nur wenige Gehminuten zum Hafen.",
+            "hu": "Az állomástól csak pár perc séta a kikötő.",
+            "ro": "De la gară sunt doar câteva minute de mers pe jos până în port.",
+            "en": "It is just a few minutes walk from the station to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Calvi (Haltestelle)",
+            "hu": "Calvi strand (megálló)",
+            "ro": "Plaja Calvi (stație)",
+            "en": "Calvi Beach (Stop)"
+          },
+          "coords": [
+            8.766,
+            42.556
+          ],
+          "category": "beach",
+          "arrive_at": "11:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Der Zug hält direkt hinter dem Sandstrand.",
+            "hu": "A vonat közvetlenül a homokos part mögött áll meg.",
+            "ro": "Trenul oprește chiar în spatele plajei de nisip.",
+            "en": "The train stops right behind the sandy beach stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Restitude",
+            "hu": "Sainte-Restitude megálló",
+            "ro": "Sainte-Restitude",
+            "en": "Sainte-Restitude"
+          },
+          "coords": [
+            8.805,
+            42.566
+          ],
+          "category": "park",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Ein ruhigerer Küstenabschnitt, ideal zum Schnorcheln.",
+            "hu": "Csendesebb tengerparti szakasz, ideális búvárkodáshoz.",
+            "ro": "O secțiune de coastă mai liniștită, ideală pentru snorkeling.",
+            "en": "A quieter coastal section, ideal for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendessen im Zentrum",
+            "hu": "Vacsora a központban",
+            "ro": "Cină în centru",
+            "en": "Dinner in Center"
+          },
+          "coords": [
+            8.757,
+            42.566
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.2,
+          "tip_4lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre der Altstadt.",
+            "hu": "Élvezze az óváros nyüzsgő hangulatát.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a orașului vechi.",
+            "en": "Enjoy the lively atmosphere of the old town streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den charmanten Küstenzug 'U Trinichellu' für Ihren Tag in Calvi. Starten Sie im Zentrum und spazieren Sie zur historischen Zitadelle, um die Geschichte der Insel zu spüren.\n\nMittags bringt Sie der Zug bequem direkt zum weitläufigen Strand. Genießen Sie die Fahrt mit Meerblick, bevor Sie in das kristallklare Wasser eintauchen.\n\nAm Nachmittag fahren Sie ein Stück weiter entlang der Küste zu ruhigeren Haltestellen wie Sainte-Restitude. Hier finden Sie friedliche Buchten fernab des Trubels im Zentrum.\n\nDen Tag lassen Sie in den Gassen der Altstadt ausklingen. Da der Bahnhof im Herzen der Stadt liegt, erreichen Sie die besten Restaurants nach Ihrem Ausflug in wenigen Schritten.",
+        "hu": "Használja a bájos 'U Trinichellu' part menti vonatot calvi napjához. Kezdje a központban, és sétáljon el a történelmi Citadellához, hogy átérezze a sziget múltját.\n\nDélben a vonat kényelmesen elviszi közvetlenül a tágas strandra. Élvezze a tengerre néző utazást, mielőtt elmerülne a kristálytiszta vízben.\n\nDélután utazzon egy kicsit tovább a part mentén a csendesebb megállókig, mint például Sainte-Restitude. Itt békés öblöket talál a központ forgatagától távol.\n\nA napot az óváros szűk utcáiban zárja. Mivel az állomás a város szívében van, a kirándulás után pár lépéssel elérheti a legjobb éttermeket.",
+        "ro": "Folosiți fermecătorul tren de coastă „U Trinichellu” pentru ziua dumneavoastră în Calvi. Începeți în centru și plimbați-vă spre Citadela istorică pentru a simți istoria insulei.\n\nLa prânz, trenul vă duce confortabil direct la plaja vastă. Bucurați-vă de călătoria cu vedere la mare înainte de a plonja în apa cristalină.\n\nDupă-amiaza, mergeți puțin mai departe de-a lungul coastei spre stații mai liniștite, cum ar fi Sainte-Restitude. Aici veți găsi golfuri pașnice departe de agitația din centru.\n\nÎncheiați ziua pe străzile orașului vechi. Deoarece gara este în inima orașului, veți ajunge la cele mai bune restaurante în câțiva pași după excursia dumneavoastră.",
+        "en": "Use the charming 'U Trinichellu' coastal train for your day in Calvi. Start in the center and walk to the historic Citadel to feel the island's past.\n\nBy midday, the train conveniently takes you directly to the vast beach. Enjoy the sea-view ride before diving into the crystal-clear water.\n\nIn the afternoon, travel a bit further along the coast to quieter stops like Sainte-Restitude. Here you will find peaceful coves away from the hustle and bustle of the center.\n\nFinish your day in the narrow streets of the old town. Since the station is in the heart of the city, you are just a few steps away from the best restaurants after your trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korsische Käseplatte",
+            "tip": "Probieren Sie Brocciu und Tomme de Corse."
+          },
+          {
+            "name": "Canistrelli",
+            "tip": "Traditionelles korsisches Gebäck zum Kaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korzikai sajttál",
+            "tip": "Kóstolja meg a Brocciu-t és a Tomme de Corse-t."
+          },
+          {
+            "name": "Canistrelli",
+            "tip": "Hagyományos korzikai keksz a kávé mellé."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou cu brânzeturi",
+            "tip": "Încercați Brocciu și Tomme de Corse."
+          },
+          {
+            "name": "Canistrelli",
+            "tip": "Biscuiți tradiționali corsicani lângă cafea."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corsican Cheese Platter",
+            "tip": "Try the local Brocciu and Tomme de Corse."
+          },
+          {
+            "name": "Canistrelli",
+            "tip": "Traditional Corsican biscuits, perfect with coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sainte-Restitude Strand",
+            "tip": "Viel ruhiger als der Hauptstrand von Calvi.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sainte-Restitude strand",
+            "tip": "Sokkal nyugodtabb, mint Calvi fő strandja.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Sainte-Restitude",
+            "tip": "Mult mai liniștită decât plaja principală din Calvi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sainte-Restitude Beach",
+            "tip": "Much quieter than the main Calvi beach.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsgeschäfte",
+            "tip": "Kleine Läden für Postkarten und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási üzletek",
+            "tip": "Kis boltok képeslapokért és rágcsálnivalókért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele din gară",
+            "tip": "Mici magazine pentru vederi și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Shops",
+            "tip": "Small shops for postcards and quick snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Fahrplan des Trinichellu ändert sich je nach Saison.",
+          "Validieren Sie Ihr Ticket vor dem Einsteigen.",
+          "Die Züge sind oft klein, sichern Sie sich einen Fensterplatz.",
+          "Vom Bahnhof zum Strand sind es nur wenige Schritte."
+        ],
+        "hu": [
+          "A Trinichellu menetrendje szezontól függően változik.",
+          "Érvényesítse jegyét felszállás előtt.",
+          "A vonatok gyakran kicsik, foglaljon ablak melletti helyet.",
+          "Az állomástól a strandig csak pár lépés a távolság."
+        ],
+        "ro": [
+          "Mersul trenului Trinichellu se schimbă în funcție de sezon.",
+          "Validați biletul înainte de urcare.",
+          "Trenurile sunt adesea mici, prindeți un loc la fereastră.",
+          "De la gară la plajă sunt doar câțiva pași."
+        ],
+        "en": [
+          "The 'Trinichellu' schedule varies significantly by season.",
+          "Validate your ticket on the platform before boarding.",
+          "The trains are small; try to get a sea-side window seat.",
+          "It's only a few steps from the beach stops to the water."
+        ]
+      }
+    }
+  }
+}

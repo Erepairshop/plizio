@@ -1,0 +1,982 @@
+{
+  "city_id": "carnac",
+  "anchor": {
+    "name": "Carnac",
+    "coords": [
+      -3.0794,
+      47.585
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Cornély",
+            "hu": "Szent Kornél-templom",
+            "ro": "Biserica Saint-Cornély",
+            "en": "Church of Saint-Cornély"
+          },
+          "coords": [
+            -3.0781,
+            47.5851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Deckenmalereien.",
+            "hu": "Csodálja meg a mennyezeti festményeket.",
+            "ro": "Admirați picturile de pe tavan.",
+            "en": "Admire the painted ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Vorgeschichte",
+            "hu": "Őstörténeti Múzeum",
+            "ro": "Muzeul de Preistorie",
+            "en": "Museum of Prehistory"
+          },
+          "coords": [
+            -3.0772,
+            47.5848
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Weltweit bedeutendste Megalith-Sammlung.",
+            "hu": "A világ legjelentősebb megalitgyűjteménye.",
+            "ro": "Cea mai importantă colecție megalitică din lume.",
+            "en": "World's leading megalithic collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus Saint-Michel",
+            "hu": "Szent Mihály-halomsír",
+            "ro": "Tumulul Saint-Michel",
+            "en": "Saint-Michel Tumulus"
+          },
+          "coords": [
+            -3.0725,
+            47.5912
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick auf die Bucht.",
+            "hu": "A legjobb panoráma az öbölre.",
+            "ro": "Cea mai bună vedere panoramică a golfului.",
+            "en": "Best panoramic view of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Ménec-Steinreihen",
+            "hu": "Ménec-kősorok",
+            "ro": "Aliniamentele de la Ménec",
+            "en": "Ménec Alignments"
+          },
+          "coords": [
+            -3.0841,
+            47.5915
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das Besucherzentrum liegt direkt hier.",
+            "hu": "A látogatóközpont közvetlenül itt található.",
+            "ro": "Centrul de vizitare este chiar aici.",
+            "en": "The visitor center is located right here."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Nagy Strand",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -3.0755,
+            47.5752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Zwei Kilometer feiner weißer Sand.",
+            "hu": "Két kilométernyi finom fehér homok.",
+            "ro": "Doi kilometri de nisip alb fin.",
+            "en": "Two kilometers of fine white sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Carnac mit der barocken Kirche und dem faszinierenden Prähistorischen Museum. Mittags steigen Sie auf den Saint-Michel-Tumulus für eine weite Sicht über das Morbihan. Am Nachmittag erkunden Sie das Hauptfeld der geheimnisvollen Menhire von Ménec, bevor Sie den Tag entspannt am breiten Sandstrand ausklingen lassen.",
+        "hu": "Kezdje a napot Carnac történelmi központjában, a barokk templom és a lenyűgöző Őstörténeti Múzeum megtekintésével. Délben másszon fel a Szent Mihály-halomsírra a Morbihan-öbölre nyíló kilátásért. Délután fedezze fel Ménec titokzatos menhirjeit, majd zárja a napot pihenéssel a tágas homokos tengerparton.",
+        "ro": "Începeți ziua în centrul istoric al orașului Carnac, cu biserica barocă și fascinantul Muzeu de Preistorie. La prânz, urcați pe tumulul Saint-Michel pentru o vedere panoramică asupra golfului Morbihan. După-amiaza, explorați câmpul principal de menhire misterioase de la Ménec, înainte de a încheia ziua relaxându-vă pe plaja lungă de nisip.",
+        "en": "Start your day in Carnac's historic center with the baroque church and the fascinating Prehistory Museum. At noon, climb the Saint-Michel Tumulus for a wide view over the Morbihan. In the afternoon, explore the main field of mysterious menhirs at Ménec, before ending the day relaxing on the wide sandy beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie Chez Chantal",
+            "tip": "Probieren Sie Galettes mit Buchweizen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie Chez Chantal",
+            "tip": "Kóstolja meg a hajdina galette-et."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie Chez Chantal",
+            "tip": "Încercați galetele cu hrișcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie Chez Chantal",
+            "tip": "Try the buckwheat galettes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle auf dem Tumulus",
+            "tip": "Ruhiger Ort mit weiter Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kápolna a halomsíron",
+            "tip": "Csendes hely pazar kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela de pe tumul",
+            "tip": "Loc liniștit cu vedere largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapel on the Tumulus",
+            "tip": "Quiet spot with a wide view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Immer mittwochs und sonntags am Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Szerda és vasárnap délelőttönként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Miercuri și duminică dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Every Wednesday and Sunday morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die Steinwege.",
+          "Besuchen Sie das Museum vor den Feldern für besseres Verständnis."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a köves ösvényekhez.",
+          "A kősorok előtt látogassa meg a múzeumot a jobb megértésért."
+        ],
+        "ro": [
+          "Purtați pantofi comozi pentru potecile pietroase.",
+          "Vizitați muzeul înainte de aliniamente pentru o mai bună înțelegere."
+        ],
+        "en": [
+          "Wear comfortable shoes for the stony paths.",
+          "Visit the museum before the fields for better understanding."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ménec-Steinreihen",
+            "hu": "Ménec-kősorok",
+            "ro": "Aliniamentele de la Ménec",
+            "en": "Ménec Alignments"
+          },
+          "coords": [
+            -3.0841,
+            47.5915
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Startpunkt der großen Tour.",
+            "hu": "A nagy túra kezdőpontja.",
+            "ro": "Punctul de plecare al marelui tur.",
+            "en": "Starting point of the grand tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kermario-Steinreihen",
+            "hu": "Kermario-kősorok",
+            "ro": "Aliniamentele de la Kermario",
+            "en": "Kermario Alignments"
+          },
+          "coords": [
+            -3.0702,
+            47.5961
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Hier stehen die höchsten Steine.",
+            "hu": "Itt találhatók a legmagasabb kövek.",
+            "ro": "Aici se află cele mai înalte pietre.",
+            "en": "The tallest stones are located here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kerlescan-Steinreihen",
+            "hu": "Kerlescan-kősorok",
+            "ro": "Aliniamentele de la Kerlescan",
+            "en": "Kerlescan Alignments"
+          },
+          "coords": [
+            -3.0565,
+            47.6015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der am besten erhaltene Cromlech.",
+            "hu": "A legjobban megőrzött kőkör.",
+            "ro": "Cel mai bine conservat cromleh.",
+            "en": "The best-preserved cromlech."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus Saint-Michel",
+            "hu": "Szent Mihály-halomsír",
+            "ro": "Tumulul Saint-Michel",
+            "en": "Saint-Michel Tumulus"
+          },
+          "coords": [
+            -3.0725,
+            47.5912
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kurzer steiler Anstieg mit dem Rad.",
+            "hu": "Rövid, meredek emelkedő bringával.",
+            "ro": "Urcare scurtă și abruptă cu bicicleta.",
+            "en": "Short steep climb with the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Cornély",
+            "hu": "Szent Kornél-templom",
+            "ro": "Biserica Saint-Cornély",
+            "en": "Church of Saint-Cornély"
+          },
+          "coords": [
+            -3.0781,
+            47.5851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahrradständer am Kirchplatz.",
+            "hu": "Kerékpártárolók a templomtéren.",
+            "ro": "Suporturi de biciclete în piața bisericii.",
+            "en": "Bike racks at the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Nagy Strand",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -3.0755,
+            47.5752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöne Fahrt entlang der Promenade.",
+            "hu": "Szép út a sétány mentén.",
+            "ro": "O plimbare frumoasă de-a lungul faleză.",
+            "en": "Beautiful ride along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Légenèse",
+            "hu": "Légenèse strand",
+            "ro": "Plaja Légenèse",
+            "en": "Légenèse Beach"
+          },
+          "coords": [
+            -3.0885,
+            47.5732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ruhigerer Abschluss des Tages.",
+            "hu": "Csendesebb napzárás.",
+            "ro": "O încheiere de zi mai liniștită.",
+            "en": "Quieter end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lassen sich alle drei großen Steinreihen von Ménec bis Kerlescan perfekt verbinden. Nach der mystischen Tour durch die Vorzeit führt der Weg über den Tumulus zurück in den Ort zur prächtigen Kirche. Den krönenden Abschluss bilden die Küstenradwege, die Sie zur Grande Plage und der etwas versteckteren Plage de Légenèse führen.",
+        "hu": "Kerékpárral mindhárom nagy kősor – Ménectől Kerlescanig – tökéletesen összeköthető. Az őstörténeti túra után az út a halomsíron keresztül vezet vissza a városba a pompás templomhoz. A napot a parti kerékpárutakon zárhatja, amelyek a Nagy Strandhoz és a rejtettebb Légenèse strandhoz visznek.",
+        "ro": "Cu bicicleta, toate cele trei mari aliniamente de pietre – de la Ménec la Kerlescan – pot fi conectate perfect. După turul mistic prin preistorie, drumul duce prin tumul înapoi în oraș, la biserica splendidă. Finalul perfect este oferit de pistele de biciclete de pe coastă, care vă duc la Grande Plage și la plaja mai retrasă Légenèse.",
+        "en": "By bike, all three major stone rows – from Ménec to Kerlescan – can be perfectly connected. After the mystical tour through prehistory, the path leads via the tumulus back to town to the magnificent church. The highlight is the coastal cycle paths leading you to Grande Plage and the more hidden Légenèse Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Escale Gourmande",
+            "tip": "Frischer Fisch und Cidre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Escale Gourmande",
+            "tip": "Friss hal és cider."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Escale Gourmande",
+            "tip": "Pește proaspăt și cidru."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Escale Gourmande",
+            "tip": "Fresh fish and cider."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de Légenèse",
+            "tip": "Weniger Trubel als am Hauptstrand.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Légenèse strand",
+            "tip": "Kevesebb tömeg, mint a fő strandon.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Légenèse",
+            "tip": "Mai puțină agitație decât pe plaja principală.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Légenèse Beach",
+            "tip": "Less hustle than the main beach.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison du Cidre",
+            "tip": "Beste Auswahl an regionalem Apfelwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison du Cidre",
+            "tip": "A legjobb választék helyi ciderekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison du Cidre",
+            "tip": "Cea mai bună selecție de cidru regional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison du Cidre",
+            "tip": "Best selection of regional cider."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Wege zwischen den Steinreihen.",
+          "Ein Schloss ist für Stopps an den Stränden unverzichtbar."
+        ],
+        "hu": [
+          "Használja a kijelölt utakat a kősorok között.",
+          "A strandolásnál mindenképp zárja le a biciklit."
+        ],
+        "ro": [
+          "Folosiți potecile marcate între aliniamente.",
+          "Un sistem de blocare este esențial pentru opririle la plajă."
+        ],
+        "en": [
+          "Use the marked paths between the stone rows.",
+          "A lock is essential for stops at the beaches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kerlescan-Steinreihen",
+            "hu": "Kerlescan-kősorok",
+            "ro": "Aliniamentele de la Kerlescan",
+            "en": "Kerlescan Alignments"
+          },
+          "coords": [
+            -3.0565,
+            47.6015
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parkplatz meist weniger belegt.",
+            "hu": "A parkoló általában kevésbé foglalt.",
+            "ro": "Parcarea este de obicei mai liberă.",
+            "en": "Parking is usually less crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Kermario-Steinreihen",
+            "hu": "Kermario-kősorok",
+            "ro": "Aliniamentele de la Kermario",
+            "en": "Kermario Alignments"
+          },
+          "coords": [
+            -3.0702,
+            47.5961
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Aussichtsturm.",
+            "hu": "Látogassa meg a kilátótornyot.",
+            "ro": "Vizitați turnul de observație.",
+            "en": "Visit the observation tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Ménec-Steinreihen",
+            "hu": "Ménec-kősorok",
+            "ro": "Aliniamentele de la Ménec",
+            "en": "Ménec Alignments"
+          },
+          "coords": [
+            -3.0841,
+            47.5915
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Großer zentraler Parkplatz vorhanden.",
+            "hu": "Nagy központi parkoló áll rendelkezésre.",
+            "ro": "Există o parcare centrală mare.",
+            "en": "Large central parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Vorgeschichte",
+            "hu": "Őstörténeti Múzeum",
+            "ro": "Muzeul de Preistorie",
+            "en": "Museum of Prehistory"
+          },
+          "coords": [
+            -3.0772,
+            47.5848
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parkhaus im Ortskern nutzen.",
+            "hu": "Használja a városközpont parkolóházát.",
+            "ro": "Folosiți parcarea etajată din centru.",
+            "en": "Use the parking garage in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Nagy Strand",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -3.0755,
+            47.5752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken entlang der Boulevard de la Plage.",
+            "hu": "Parkolás a Boulevard de la Plage mentén.",
+            "ro": "Parcare de-a lungul Boulevard de la Plage.",
+            "en": "Parking along Boulevard de la Plage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die weitläufigen Megalithfelder bequem von Ost nach West, beginnend beim ruhigen Kerlescan bis zum beeindruckenden Ménec. Danach geht es ins Stadtzentrum für tiefe Einblicke in die Steinzeit-Kultur im Museum. Den Nachmittag verbringen Sie flexibel an der Küste, wo die Grande Plage ausreichend Platz zum Entspannen bietet.",
+        "hu": "Autóval kényelmesen felfedezheti a kiterjedt megalitmezőket keletről nyugat felé, a csendes Kerlescantól a lenyűgöző Ménecig. Ezután irány a városközpont, ahol a múzeumban mélyebb betekintést nyerhet a kőkorszaki kultúrába. A délutánt rugalmasan a tengerparton töltheti, ahol a Nagy Strand bőséges helyet kínál a kikapcsolódáshoz.",
+        "ro": "Cu mașina, explorați câmpurile megalitice vaste confortabil de la est la vest, începând de la liniștitul Kerlescan până la impresionantul Ménec. Apoi, mergeți în centrul orașului pentru o incursiune profundă în cultura epocii de piatră la muzeu. După-amiaza o petreceți flexibil pe coastă, unde Grande Plage oferă suficient spațiu pentru relaxare.",
+        "en": "By car, you can comfortably explore the extensive megalithic fields from east to west, starting from the quiet Kerlescan to the impressive Ménec. Then, head to the town center for deep insights into Stone Age culture at the museum. Spend a flexible afternoon on the coast, where Grande Plage offers plenty of space to relax."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Côté Cuisine",
+            "tip": "Gehobene regionale Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Côté Cuisine",
+            "tip": "Színvonalas regionális konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Côté Cuisine",
+            "tip": "Bucătărie regională rafinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Côté Cuisine",
+            "tip": "Upscale regional cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Steinreihe Kerlescan",
+            "tip": "Der abgelegenste Teil der Alignements.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerlescan kősor",
+            "tip": "A kősorok legtávolabbi része.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aliniamentul Kerlescan",
+            "tip": "Cea mai retrasă parte a aliniamentelor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kerlescan Row",
+            "tip": "The most remote part of the alignments.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Belle-Iloise",
+            "tip": "Edle Fischkonserven als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Belle-Iloise",
+            "tip": "Kiváló halkonzervek ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Belle-Iloise",
+            "tip": "Conserve de pește premium ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Belle-Iloise",
+            "tip": "Premium canned fish as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkverbote in der Hochsaison.",
+          "Nutzen Sie den Shuttle-Bus 'Carnavette' wenn Parkplätze voll sind."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási tilalmakra főszezonban.",
+          "Használja a 'Carnavette' buszt, ha a parkolók telve vannak."
+        ],
+        "ro": [
+          "Atenție la restricțiile de parcare în sezonul de vârf.",
+          "Folosiți autobuzul 'Carnavette' dacă parcările sunt pline."
+        ],
+        "en": [
+          "Watch out for parking restrictions in high season.",
+          "Use the 'Carnavette' shuttle if parking lots are full."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ménec-Steinreihen",
+            "hu": "Ménec-kősorok",
+            "ro": "Aliniamentele de la Ménec",
+            "en": "Ménec Alignments"
+          },
+          "coords": [
+            -3.0841,
+            47.5915
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Haltstelle direkt am Maison des Mégalithes.",
+            "hu": "Megálló közvetlenül a Megalitok Házánál.",
+            "ro": "Stație chiar lângă Maison des Mégalithes.",
+            "en": "Stop right at the Maison des Mégalithes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Vorgeschichte",
+            "hu": "Őstörténeti Múzeum",
+            "ro": "Muzeul de Preistorie",
+            "en": "Museum of Prehistory"
+          },
+          "coords": [
+            -3.0772,
+            47.5848
+          ],
+          "category": "museums",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle 'Carnac-Ville'.",
+            "hu": "Központi megálló: 'Carnac-Ville'.",
+            "ro": "Stația centrală 'Carnac-Ville'.",
+            "en": "Central stop 'Carnac-Ville'."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Cornély",
+            "hu": "Szent Kornél-templom",
+            "ro": "Biserica Saint-Cornély",
+            "en": "Church of Saint-Cornély"
+          },
+          "coords": [
+            -3.0781,
+            47.5851
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "Csak pár lépésre a megállótól.",
+            "ro": "La doar câțiva pași de stație.",
+            "en": "Just a few steps from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Nagy Strand",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -3.0755,
+            47.5752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Haltestelle am Tourismusbüro Strand.",
+            "hu": "Megálló a strandnál lévő irodánál.",
+            "ro": "Stație la biroul de turism de pe plajă.",
+            "en": "Stop at the beach tourist office."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Légenèse",
+            "hu": "Légenèse strand",
+            "ro": "Plaja Légenèse",
+            "en": "Légenèse Beach"
+          },
+          "coords": [
+            -3.0885,
+            47.5732
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ruhiges Ende vor der Rückfahrt.",
+            "hu": "Csendes befejezés a hazautazás előtt.",
+            "ro": "Final liniștit înainte de plecare.",
+            "en": "Quiet end before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zwischen den Megalithen von Ménec und dem historischen Stadtzentrum zu pendeln. Nach dem Besuch der Kirche und des Museums bringt Sie der Bus direkt an die lebhafte Grande Plage. Bevor Sie den Rückweg antreten, lohnt sich ein kurzer Abstecher zur ruhigeren Plage de Légenèse, um die Meeresbrise abseits der Massen zu genießen.",
+        "hu": "Használja a helyi buszjáratot a Ménec-megalitok és a történelmi városközpont közötti közlekedéshez. A templom és a múzeum megtekintése után a busz egyenesen a pezsgő Nagy Strandhoz viszi. Mielőtt visszaindulna, érdemes egy rövid kitérőt tenni a csendesebb Légenèse strandra, hogy a tömegtől távol élvezze a tengeri szellőt.",
+        "ro": "Folosiți autobuzul local pentru a pendula între megalitii de la Ménec și centrul istoric al orașului. După vizitarea bisericii și a muzeului, autobuzul vă duce direct la vibranta Grande Plage. Înainte de a pleca înapoi, merită o scurtă oprire la plaja mai liniștită Légenèse, pentru a vă bucura de briza mării departe de mulțime.",
+        "en": "Use the local bus to commute between the Ménec megaliths and the historic town center. After visiting the church and the museum, the bus takes you straight to the lively Grande Plage. Before heading back, a short detour to the quieter Légenèse Beach is worthwhile to enjoy the sea breeze away from the crowds."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kiosque de la Plage",
+            "tip": "Snacks und Eis mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kiosque de la Plage",
+            "tip": "Snackek és fagylalt tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kiosque de la Plage",
+            "tip": "Gustări și înghețată cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosque de la Plage",
+            "tip": "Snacks and ice cream with sea view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenpfad",
+            "tip": "Spaziergang zwischen den beiden Stränden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti ösvény",
+            "tip": "Séta a két strand között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de coastă",
+            "tip": "Plimbare între cele două plaje.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Path",
+            "tip": "Walk between the two beaches.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs des Alignements",
+            "tip": "Repliken und Bücher über Megalithen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenirs des Alignements",
+            "tip": "Másolatok és könyvek a megalitokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenirs des Alignements",
+            "tip": "Replici și cărți despre megaliți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs des Alignements",
+            "tip": "Replicas and books about megaliths."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Linie 1 (BreizhGo).",
+          "Kaufen Sie ein Tagesticket für mehr Flexibilität."
+        ],
+        "hu": [
+          "Ellenőrizze az 1-es vonal (BreizhGo) menetrendjét.",
+          "Vásároljon napijegyet a nagyobb rugalmasságért."
+        ],
+        "ro": [
+          "Verificați orarul liniei 1 (BreizhGo).",
+          "Cumpărați un bilet de o zi pentru mai multă flexibilitate."
+        ],
+        "en": [
+          "Check the timetable for Line 1 (BreizhGo).",
+          "Buy a day ticket for more flexibility."
+        ]
+      }
+    }
+  }
+}

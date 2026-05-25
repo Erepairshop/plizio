@@ -1,0 +1,1113 @@
+{
+  "city_id": "saint-cirq-lapopie",
+  "anchor": {
+    "name": "Saint-Cirq-Lapopie",
+    "coords": [
+      44.4625,
+      1.6789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Sombral",
+            "hu": "Place du Sombral",
+            "ro": "Piața Sombral",
+            "en": "Place du Sombral"
+          },
+          "coords": [
+            44.4621,
+            1.678
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Früher Morgen ist ideal für Fotos ohne Menschenmassen.",
+            "hu": "A kora reggeli órák a legjobbak a tömegmentes fotókhoz.",
+            "ro": "Dimineața devreme este ideală pentru fotografii fără mulțimi.",
+            "en": "Early morning is perfect for photos without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Cirq-et-Sainte-Juliette",
+            "hu": "Szent Cirill és Szent Júlia templom",
+            "ro": "Biserica Saint-Cirq-et-Sainte-Juliette",
+            "en": "Saint-Cirq-et-Sainte-Juliette Church"
+          },
+          "coords": [
+            44.4624,
+            1.6785
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur und die Aussicht vom Vorplatz.",
+            "hu": "Csodáld meg a gótikus építészetet és a kilátást a templomkertből.",
+            "ro": "Admirați arhitectura gotică și priveliștea de pe esplanadă.",
+            "en": "Admire the Gothic architecture and the view from the church square."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Fort - Schlossruinen",
+            "hu": "Várromok és kilátópont",
+            "ro": "Ruinele Castelului - Le Fort",
+            "en": "Le Fort - Castle Ruins"
+          },
+          "coords": [
+            44.4629,
+            1.6795
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der höchste Punkt des Dorfes bietet ein 360-Grad-Panorama.",
+            "hu": "A falu legmagasabb pontja, 360 fokos panorámával a Lot-völgyre.",
+            "ro": "Cel mai înalt punct al satului oferă o panoramă de 360 de grade.",
+            "en": "The highest point of the village offers a 360-degree panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Rignault",
+            "hu": "Musée Rignault",
+            "ro": "Muzeul Rignault",
+            "en": "Musée Rignault"
+          },
+          "coords": [
+            44.4626,
+            1.6802
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Gärten des Museums sind eine Oase der Ruhe.",
+            "hu": "A múzeum kertjei a nyugalom igazi oázisai.",
+            "ro": "Grădinile muzeului sunt o oază de liniște.",
+            "en": "The museum's gardens are an oasis of tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Dorf",
+            "hu": "Ebéd a faluban",
+            "ro": "Prânz în sat",
+            "en": "Lunch in the village"
+          },
+          "coords": [
+            44.4622,
+            1.6782
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie das berühmte Quercy-Lamm.",
+            "hu": "Kóstold meg a híres quercy-i bárányt.",
+            "ro": "Încercați celebrul miel de Quercy.",
+            "en": "Try the famous Quercy lamb."
+          }
+        },
+        {
+          "name": {
+            "de": "Chemin de Halage (Treppelpfad)",
+            "hu": "Chemin de Halage (Vontatóút)",
+            "ro": "Chemin de Halage",
+            "en": "Chemin de Halage (Towpath)"
+          },
+          "coords": [
+            44.468,
+            1.675
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der in den Fels gehauene Pfad ist spektakulär.",
+            "hu": "A sziklába vájt ösvény látványa lenyűgöző.",
+            "ro": "Poteca săpată în stâncă este spectaculoasă.",
+            "en": "The path carved directly into the rock is spectacular."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusshafen Port de Saint-Cirq",
+            "hu": "Folyami kikötő",
+            "ro": "Portul Saint-Cirq",
+            "en": "River Port of Saint-Cirq"
+          },
+          "coords": [
+            44.4685,
+            1.676
+          ],
+          "category": "park",
+          "arrive_at": "17:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote an der Schleuse.",
+            "hu": "Nézd meg a hajókat a zsilipnél.",
+            "ro": "Urmăriți bărcile la ecluză.",
+            "en": "Watch the boats passing through the lock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen dieses mittelalterlichen Juwels auf dem Place du Sombral. Steigen Sie zur befestigten Kirche hinauf und erkunden Sie dann die Ruinen der Burg für einen atemberaubenden Blick auf das Lot-Tal. Nach einem kulturellen Besuch im Musée Rignault genießen Sie ein lokales Mittagessen. Am Nachmittag steigen Sie zum Fluss hinab, um den berühmten, in den Fels gehauenen Treppelpfad zu bewandern, bevor Sie den Tag am ruhigen Flusshafen ausklingen lassen.",
+        "hu": "Kezdje a napot e középkori ékszerdoboz szívében, a Place du Sombral téren. Sétáljon fel az erődtemplomhoz, majd fedezze fel a várromokat, ahonnan lélegzetelállító kilátás nyílik a Lot-völgyre. A Musée Rignault megtekintése után élvezze a helyi ízeket egy hangulatos ebéden. Délután ereszkedjen le a folyóhoz, hogy bejárja a híres, sziklába vájt vontatóutat, végül pihenjen meg a kikötő nyugalmában.",
+        "ro": "Începeți ziua în inima acestei bijuterii medievale, în Place du Sombral. Urcați la biserica fortificată și apoi explorați ruinele castelului pentru o vedere uluitoare asupra văii Lot. După o vizită culturală la Muzeul Rignault, savurați un prânz local. După-amiaza, coborâți spre râu pentru a parcurge faimosul drum de halaj săpat în stâncă, înainte de a încheia ziua în liniștea portului fluvial.",
+        "en": "Begin your day in the heart of this medieval gem at Place du Sombral. Climb up to the fortified church and then explore the castle ruins for a breathtaking view of the Lot valley. After a cultural visit to the Musée Rignault, enjoy a local lunch. In the afternoon, descend to the river to walk the famous towpath carved into the rock, before finishing your day at the peaceful river port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Foie Gras du Quercy",
+            "tip": "Die regionale Spezialität schlechthin."
+          },
+          {
+            "name": "Le Cantou",
+            "tip": "Traditionelle Küche in einem historischen Gebäude."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quercy-i hízott kacsamáj",
+            "tip": "A régió legfontosabb gasztronómiai kincse."
+          },
+          {
+            "name": "Le Cantou étterem",
+            "tip": "Hagyományos konyha egy történelmi épületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Foie Gras de Quercy",
+            "tip": "Specialitatea regională prin excelență."
+          },
+          {
+            "name": "Le Cantou",
+            "tip": "Bucătărie tradițională într-o clădire istorică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quercy Foie Gras",
+            "tip": "The ultimate regional specialty."
+          },
+          {
+            "name": "Le Cantou",
+            "tip": "Traditional cuisine in a historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick von den Schlossruinen",
+            "tip": "Besonders ruhig am frühen Abend.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Ufer des Lot bei der Schleuse",
+            "tip": "Ein friedlicher Ort zum Nachdenken.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várromok kilátópontja",
+            "tip": "Kora este a legnyugodtabb hely.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "A Lot partja a zsilipnél",
+            "tip": "Békés hely az elmélkedéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la ruinele castelului",
+            "tip": "Deosebit de liniștit seara devreme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Malul râului Lot lângă ecluză",
+            "tip": "Un loc pașnic pentru meditație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View from the Castle Ruins",
+            "tip": "Particularly quiet in the early evening.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Banks of the Lot by the lock",
+            "tip": "A peaceful spot for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Safran du Quercy",
+            "tip": "Das 'rote Gold' der Region."
+          },
+          {
+            "name": "Holzdrechsler-Werkstätten",
+            "tip": "Einzigartige handgefertigte Objekte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quercy-i sáfrány",
+            "tip": "A régió 'vörös aranya'."
+          },
+          {
+            "name": "Faeszergályos műhelyek",
+            "tip": "Egyedi, kézzel készült fatárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șofran de Quercy",
+            "tip": "„Aurul roșu” al regiunii."
+          },
+          {
+            "name": "Ateliere de strungărie în lemn",
+            "tip": "Obiecte artizanale unice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quercy Saffron",
+            "tip": "The 'red gold' of the region."
+          },
+          {
+            "name": "Woodturning workshops",
+            "tip": "Unique handcrafted wooden objects."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Gassen steil und gepflastert sind.",
+          "Parken Sie auf den oberen Parkplätzen (P4), um den steilen Aufstieg zu vermeiden.",
+          "Besuchen Sie das Dorf außerhalb der Hochsaison für ein authentischeres Erlebnis.",
+          "Nehmen Sie ausreichend Wasser mit, besonders für den Weg zum Fluss."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, mert az utcák meredekek és macskakövesek.",
+          "Parkolj a felső parkolókban (P4), hogy elkerüld a nagy szintkülönbséget.",
+          "Látogass el főszezonon kívül az autentikusabb élményért.",
+          "Vigyél magaddal elegendő vizet, főleg a folyóhoz vezető sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece străzile sunt abrupte și pavate.",
+          "Parcați în parcările superioare (P4) pentru a evita urcarea abruptă.",
+          "Vizitați satul în afara sezonului de vârf pentru o experiență autentică.",
+          "Luați suficientă apă, mai ales pentru drumul spre râu."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are steep and cobbled.",
+          "Park in the upper parking lots (P4) to avoid a steep climb.",
+          "Visit outside peak season for a more authentic experience.",
+          "Carry enough water, especially for the walk down to the river."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Touristeninformation",
+            "hu": "Turista iroda",
+            "ro": "Biroul de turism",
+            "en": "Tourist Office"
+          },
+          "coords": [
+            44.462,
+            1.6775
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich eine Karte der Radwege.",
+            "hu": "Kérj egy térképet a kerékpárutakról.",
+            "ro": "Cereți o hartă a traseelor de bicicletă.",
+            "en": "Get a map of the cycling routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfrundgang Saint-Cirq",
+            "hu": "Szent Cirill falu körút",
+            "ro": "Turul satului Saint-Cirq",
+            "en": "Saint-Cirq Village Tour"
+          },
+          "coords": [
+            44.4625,
+            1.6785
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad in den engen Gassen.",
+            "hu": "A szűk utcákban told a biciklit.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lot-Uferstraße",
+            "hu": "Lot-parti út",
+            "ro": "Drumul pe malul Lotului",
+            "en": "Lot River Road"
+          },
+          "coords": [
+            44.471,
+            1.67
+          ],
+          "category": "park",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die flache Strecke entlang des Wassers.",
+            "hu": "Élvezd a sík szakaszt a víz mentén.",
+            "ro": "Bucurați-vă de secțiunea plană de-a lungul apei.",
+            "en": "Enjoy the flat section along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouziès - Brücke",
+            "hu": "Bouziès - híd",
+            "ro": "Bouziès - Podul",
+            "en": "Bouziès - Bridge"
+          },
+          "coords": [
+            44.482,
+            1.648
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein toller Ort für ein Picknick am Fluss.",
+            "hu": "Remek hely egy folyóparti piknikhez.",
+            "ro": "Un loc minunat pentru un picnic la râu.",
+            "en": "A great spot for a riverside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cénevières (Blick)",
+            "hu": "Cénevières kastély (kilátás)",
+            "ro": "Castelul Cénevières (vedere)",
+            "en": "Cénevières Castle (View)"
+          },
+          "coords": [
+            44.4625,
+            1.751
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein Renaissance-Schloss hoch über dem Lot.",
+            "hu": "Reneszánsz kastély magasan a Lot felett.",
+            "ro": "Un castel renascentist deasupra Lotului.",
+            "en": "A Renaissance castle high above the Lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Saint-Cirq",
+            "hu": "Visszatérés a faluba",
+            "ro": "Revenirea la Saint-Cirq",
+            "en": "Return to Saint-Cirq"
+          },
+          "coords": [
+            44.4625,
+            1.6789
+          ],
+          "category": "square",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein wohlverdientes Getränk auf der Terrasse.",
+            "hu": "Megérdemelt frissítő a teraszon.",
+            "ro": "O băutură binemeritată pe terasă.",
+            "en": "A well-deserved drink on the terrace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Lot-Tal mit dem Fahrrad. Beginnen Sie mit einem Besuch im Dorf Saint-Cirq-Lapopie (zu Fuß in den Gassen). Radeln Sie dann flussabwärts nach Bouziès entlang der malerischen Uferstraße. Bewundern Sie die Klippen und die grüne Landschaft. Auf dem Rückweg können Sie einen Umweg machen, um das imposante Schloss Cénevières zu sehen, bevor Sie für eine Pause ins Dorf zurückkehren.",
+        "hu": "Fedezze fel a Lot-völgyet két keréken. Kezdje a napot Saint-Cirq-Lapopie bebarangolásával (a szűk utcákban sétálva). Ezután tekerjen le a folyó mentén Bouziès irányába a festői part menti úton. Csodálja meg a sziklafalakat és a zöldellő tájat. Visszafelé tegyen egy kitérőt Cénevières vára felé, mielőtt visszatérne a faluba egy pihentető zárásra.",
+        "ro": "Explorați valea Lotului pe bicicletă. Începeți cu o vizită în satul Saint-Cirq-Lapopie (pe jos pe străduțe). Apoi pedalați în aval spre Bouziès pe drumul pitoresc de pe malul râului. Admirați faleza și peisajul verde. La întoarcere, puteți face o deviere pentru a vedea impunătorul castel Cénevières, înainte de a reveni în sat pentru o pauză.",
+        "en": "Explore the Lot Valley by bike. Start with a visit to Saint-Cirq-Lapopie village (on foot in the alleys). Then cycle downstream towards Bouziès along the scenic riverside road. Admire the cliffs and the lush landscape. On the way back, take a detour to see the imposing Cénevières Castle before returning to the village for a rest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cahors-Wein",
+            "tip": "Der berühmte 'schwarze Wein' der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cahors-i bor",
+            "tip": "A régió híres 'fekete bora'."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Cahors",
+            "tip": "Celebrul 'vin negru' al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cahors Wine",
+            "tip": "The famous 'black wine' of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Picknickplatz Bouziès",
+            "tip": "Ruhig und direkt am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouziès-i pihenőhely",
+            "tip": "Csendes pont közvetlenül a víznél.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Loc de picnic în Bouziès",
+            "tip": "Liniștit și chiar lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouziès Picnic Spot",
+            "tip": "Quiet and right by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte in Bouziès",
+            "tip": "Honig und Walnüsse direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek Bouziès-ben",
+            "tip": "Méz és dió közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale în Bouziès",
+            "tip": "Miere și nuci direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products in Bouziès",
+            "tip": "Honey and walnuts directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die steilen Abschnitte um das Dorf.",
+          "Achten Sie auf Autos auf der schmalen Uferstraße.",
+          "Die Strecke nach Bouziès ist fast völlig flach.",
+          "Bringen Sie ein Schloss mit, um das Rad im Dorf sicher abzustellen."
+        ],
+        "hu": [
+          "Bérelj elektromos kerékpárt a falu körüli meredek emelkedőkhöz.",
+          "Vigyázz az autókra a szűk part menti úton.",
+          "A Bouziès felé vezető szakasz szinte teljesen sík.",
+          "Vigyél lakatot, hogy biztonságban tudd a biciklit a faluban."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru pantele din jurul satului.",
+          "Atenție la mașini pe drumul îngust de pe malul râului.",
+          "Traseul spre Bouziès este aproape complet plat.",
+          "Aduceți un antifurt pentru a lăsa bicicleta în siguranță în sat."
+        ],
+        "en": [
+          "Rent an e-bike for the steep sections around the village.",
+          "Watch out for cars on the narrow riverside road.",
+          "The section to Bouziès is almost completely flat.",
+          "Bring a lock to secure your bike in the village."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parkplatz P4 Saint-Cirq",
+            "hu": "Saint-Cirq P4 parkoló",
+            "ro": "Parcarea P4 Saint-Cirq",
+            "en": "P4 Parking Saint-Cirq"
+          },
+          "coords": [
+            44.463,
+            1.6765
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Günstigster Zugang zum oberen Dorf.",
+            "hu": "A legkényelmesebb bejárat a felső faluhoz.",
+            "ro": "Cea mai ușoară cale de acces către partea de sus a satului.",
+            "en": "Easiest access to the upper village."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Cirq-Lapopie Dorf",
+            "hu": "Saint-Cirq-Lapopie falu",
+            "ro": "Satul Saint-Cirq-Lapopie",
+            "en": "Saint-Cirq-Lapopie Village"
+          },
+          "coords": [
+            44.4625,
+            1.6789
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Kunstgalerien.",
+            "hu": "Szánj időt a művészeti galériákra.",
+            "ro": "Acordați-vă timp pentru galeriile de artă.",
+            "en": "Take your time to visit the art galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte du Pech Merle",
+            "hu": "Pech Merle barlang",
+            "ro": "Peștera Pech Merle",
+            "en": "Pech Merle Cave"
+          },
+          "coords": [
+            44.5075,
+            1.6445
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Reservieren Sie Ihre Tickets unbedingt im Voraus.",
+            "hu": "Mindenképpen foglald le előre a jegyeket.",
+            "ro": "Rezervați biletele neapărat în avans.",
+            "en": "Be sure to book your tickets in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouziès - Panoramablick",
+            "hu": "Bouziès - panoráma",
+            "ro": "Bouziès - Vedere panoramică",
+            "en": "Bouziès - Panoramic View"
+          },
+          "coords": [
+            44.485,
+            1.645
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blick auf die Klippen und den Fluss.",
+            "hu": "Kilátás a sziklafalakra és a folyóra.",
+            "ro": "Vedere asupra falezei și râului.",
+            "en": "View of the cliffs and the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Cénevières",
+            "hu": "Cénevières kastélya",
+            "ro": "Castelul Cénevières",
+            "en": "Cénevières Castle"
+          },
+          "coords": [
+            44.4628,
+            1.7512
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Führungen sind oft vom Besitzer selbst.",
+            "hu": "A vezetést sokszor maga a tulajdonos tartja.",
+            "ro": "Tururile sunt adesea ghidate de proprietar.",
+            "en": "Tours are often led by the owner himself."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Cirq (Abschied)",
+            "hu": "Saint-Cirq (búcsú)",
+            "ro": "Saint-Cirq (rămas bun)",
+            "en": "Saint-Cirq (farewell)"
+          },
+          "coords": [
+            44.4625,
+            1.6789
+          ],
+          "category": "square",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Abendessen mit Blick auf das beleuchtete Dorf.",
+            "hu": "Vacsora kilátással a kivilágított falura.",
+            "ro": "Cină cu vedere la satul iluminat.",
+            "en": "Dinner with a view of the illuminated village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Schätze rund um Saint-Cirq-Lapopie entdecken. Beginnen Sie mit einem ausgiebigen Rundgang durch das mittelalterliche Dorf. Fahren Sie dann zur Grotte von Pech Merle, um prähistorische Malereien zu bewundern. Am Nachmittag besuchen Sie das prächtige Schloss Cénevières, bevor Sie für einen stimmungsvollen Abend nach Saint-Cirq zurückkehren.",
+        "hu": "Autóval könnyedén felfedezheti Saint-Cirq-Lapopie környékének kincseit. Kezdje a napot a középkori falu alapos bejárásával. Ezután hajtson el a Pech Merle barlanghoz, hogy megcsodálja az őskori barlangrajzokat. Délután látogasson el a pompás Cénevières kastélyhoz, majd térjen vissza Saint-Cirq-be egy hangulatos estére.",
+        "ro": "Cu mașina puteți descoperi comorile din jurul Saint-Cirq-Lapopie. Începeți cu un tur detaliat al satului medieval. Apoi mergeți la Peștera Pech Merle pentru a admira picturile preistorice. După-amiaza, vizitați splendidul castel Cénevières, înainte de a reveni în Saint-Cirq pentru o seară atmosferică.",
+        "en": "By car, you can easily discover the treasures around Saint-Cirq-Lapopie. Start with a thorough tour of the medieval village. Then drive to the Pech Merle cave to admire prehistoric paintings. In the afternoon, visit the splendid Cénevières Castle before returning to Saint-Cirq for an atmospheric evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gâteau aux noix",
+            "tip": "Traditioneller Walnusskuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gâteau aux noix",
+            "tip": "Hagyományos diótorta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gâteau aux noix",
+            "tip": "Prăjitură tradițională cu nuci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gâteau aux noix",
+            "tip": "Traditional walnut cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Circque de Vènes",
+            "tip": "Spektakuläre Schleife des Lot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Circque de Vènes kilátó",
+            "tip": "Látványos kanyarulat a Lot folyón.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Circque de Vènes",
+            "tip": "Bucla spectaculoasă a Lotului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Circque de Vènes Lookout",
+            "tip": "Spectacular loop of the Lot river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinboutiquen in Cahors",
+            "tip": "Große Auswahl an lokalen Appellationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cahors-i borboltok",
+            "tip": "Helyi borok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri de vin în Cahors",
+            "tip": "O selecție largă de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cahors wine boutiques",
+            "tip": "Wide selection of local appellations."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Lot-Tal sind schmal und kurvig.",
+          "Parkplatzgebühren im Dorf sind während der Saison obligatorisch.",
+          "Buchen Sie die Grotte Pech Merle Wochen im Voraus.",
+          "Kombinieren Sie den Besuch mit einer Fahrt entlang des Flusses."
+        ],
+        "hu": [
+          "A Lot-völgy útjai szűkek és kanyargósak.",
+          "A faluban a parkolás szezonban fizetős.",
+          "A Pech Merle barlangot hetekkel előre foglald le.",
+          "Kombináld a látogatást egy folyó menti autózással."
+        ],
+        "ro": [
+          "Drumurile din valea Lotului sunt înguste și sinuoase.",
+          "Taxele de parcare în sat sunt obligatorii în timpul sezonului.",
+          "Rezervați Peștera Pech Merle cu săptămâni în avans.",
+          "Combinați vizita cu o plimbare cu mașina de-a lungul râului."
+        ],
+        "en": [
+          "The roads in the Lot valley are narrow and winding.",
+          "Parking fees in the village are mandatory during the season.",
+          "Book the Pech Merle cave weeks in advance.",
+          "Combine the visit with a drive along the river."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Tour-de-Faure",
+            "hu": "Tour-de-Faure buszmegálló",
+            "ro": "Stația de autobuz Tour-de-Faure",
+            "en": "Tour-de-Faure Bus Stop"
+          },
+          "coords": [
+            44.468,
+            1.691
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunft mit der Linie 889 von Cahors.",
+            "hu": "Érkezés a 889-es busszal Cahors felől.",
+            "ro": "Sosire cu linia 889 din Cahors.",
+            "en": "Arrival by line 889 from Cahors."
+          }
+        },
+        {
+          "name": {
+            "de": "Aufstieg zum Dorf",
+            "hu": "Séta fel a faluba",
+            "ro": "Urcarea spre sat",
+            "en": "Walk up to the Village"
+          },
+          "coords": [
+            44.4625,
+            1.6789
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein steiler, aber schöner Fußweg.",
+            "hu": "Meredek, de gyönyörű gyalogút.",
+            "ro": "O potecă abruptă, dar frumoasă.",
+            "en": "A steep but beautiful walking path."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Zentrum",
+            "hu": "Történelmi központ",
+            "ro": "Centrul istoric",
+            "en": "Historic Center"
+          },
+          "coords": [
+            44.4622,
+            1.6782
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Handwerksläden.",
+            "hu": "Fedezd fel a kézműves boltokat.",
+            "ro": "Explorați magazinele de artizanat.",
+            "en": "Explore the craft shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaterrasse (Mittag)",
+            "hu": "Panorámaterasz (ebéd)",
+            "ro": "Terasa panoramică (prânz)",
+            "en": "Panoramic Terrace (Lunch)"
+          },
+          "coords": [
+            44.4625,
+            1.6785
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht beim Essen.",
+            "hu": "Élvezd a kilátást étkezés közben.",
+            "ro": "Bucurați-vă de priveliște în timp ce mâncați.",
+            "en": "Enjoy the view while eating."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr zur Haltestelle",
+            "hu": "Visszatérés a megállóhoz",
+            "ro": "Revenirea la stație",
+            "en": "Return to the Stop"
+          },
+          "coords": [
+            44.468,
+            1.691
+          ],
+          "category": "square",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Abfahrtszeit des Busses genau.",
+            "hu": "Pontosan ellenőrizd a busz indulását.",
+            "ro": "Verificați exact ora de plecare a autobuzului.",
+            "en": "Check the bus departure time carefully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Besuchen Sie Saint-Cirq-Lapopie ganz entspannt mit dem Bus. Von der Haltestelle in Tour-de-Faure führt Sie ein schöner Spaziergang hinauf zum Dorf. Verbringen Sie den Tag damit, die mittelalterlichen Gassen und historischen Gebäude zu erkunden. Nach einem gemütlichen Mittagessen auf einer Terrasse steigen Sie wieder zum Fluss hinab, um Ihren Bus zurück zu nehmen.",
+        "hu": "Látogasson el Saint-Cirq-Lapopie-ba kényelmesen busszal. A Tour-de-Faure-i megállótól egy kellemes séta vezet fel a faluba. Töltse a napot a középkori utcák és történelmi épületek felfedezésével. Egy hangulatos teraszon elköltött ebéd után ereszkedjen vissza a folyóhoz, hogy elérje a visszatérő buszjáratot.",
+        "ro": "Vizitați Saint-Cirq-Lapopie relaxat, cu autobuzul. De la stația din Tour-de-Faure, o plimbare frumoasă vă conduce spre sat. Petreceți ziua explorând străduțele medievale și clădirile istorice. După un prânz plăcut pe o terasă, coborâți din nou spre râu pentru a lua autobuzul de întoarcere.",
+        "en": "Visit Saint-Cirq-Lapopie stress-free by bus. From the stop in Tour-de-Faure, a beautiful walk leads you up to the village. Spend the day exploring the medieval alleys and historic buildings. After a leisurely lunch on a terrace, descend back to the river to catch your return bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rocamadour-Käse",
+            "tip": "Kleiner Ziegenkäse aus der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rocamadour sajt",
+            "tip": "Helyi kecskesajt különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză Rocamadour",
+            "tip": "O mică brânză de capră locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocamadour Cheese",
+            "tip": "Small local goat cheese specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Mairie",
+            "tip": "Ein ruhiger Winkel im Dorfzentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városháza kertje",
+            "tip": "Csendes zug a falu központjában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina primăriei",
+            "tip": "Un colț liniștit în centrul satului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Town Hall Garden",
+            "tip": "A quiet corner in the village center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Boutiquen",
+            "tip": "Wunderschöne Aquarelle des Dorfes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslap boltok",
+            "tip": "Gyönyörű akvarellek a faluról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de vederi",
+            "tip": "Acuarele superbe cu satul.",
+            "en": "Postcard boutiques"
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard boutiques",
+            "tip": "Beautiful watercolors of the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 889 fährt nur wenige Male am Tag.",
+          "In den Sommermonaten gibt es zusätzliche Shuttlebusse.",
+          "Planen Sie genug Zeit für den Fußweg zur Haltestelle ein.",
+          "Kaufen Sie die Fahrkarten direkt beim Fahrer."
+        ],
+        "hu": [
+          "A 889-es busz naponta csak néhányszor jár.",
+          "A nyári hónapokban kiegészítő buszjáratok is indulnak.",
+          "Hagyj elég időt a megállóhoz való visszasétálásra.",
+          "A jegyet közvetlenül a buszsofőrnél is megveheted."
+        ],
+        "ro": [
+          "Linia de autobuz 889 circulă de doar câteva ori pe zi.",
+          "În lunile de vară există autobuze navetă suplimentare.",
+          "Acordați-vă suficient timp pentru mersul pe jos până la stație.",
+          "Cumpărați biletele direct de la șofer."
+        ],
+        "en": [
+          "Bus line 889 runs only a few times a day.",
+          "Additional shuttles operate during the summer months.",
+          "Allow plenty of time for the walk back to the stop.",
+          "Buy tickets directly from the driver."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1268 @@
+{
+  "city_id": "grenoble",
+  "anchor": {
+    "name": "Grenoble Centre",
+    "coords": [
+      45.1885,
+      5.7245
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Victor Hugo",
+            "hu": "Victor Hugo tér",
+            "ro": "Piața Victor Hugo",
+            "en": "Victor Hugo Square"
+          },
+          "coords": [
+            45.1895,
+            5.7235
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für einen ersten Kaffee am Morgen.",
+            "hu": "Tökéletes hely egy reggeli kávéhoz a város szívében.",
+            "ro": "Locul perfect pentru o cafea de dimineață în centrul orașului.",
+            "en": "The perfect spot for a morning coffee in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de Ville",
+            "hu": "Városkert",
+            "ro": "Jardin de Ville",
+            "en": "Jardin de Ville"
+          },
+          "coords": [
+            45.1915,
+            5.7265
+          ],
+          "category": "park",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das alte Rathaus am Rande des Parks.",
+            "hu": "Csodálja meg a régi városházát a park szélén.",
+            "ro": "Admirați vechea primărie de la marginea parcului.",
+            "en": "Admire the old town hall at the edge of the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn zur Bastille",
+            "hu": "Bastille felvonó",
+            "ro": "Telefericul Bastille",
+            "en": "Bastille Cable Car"
+          },
+          "coords": [
+            45.192,
+            5.725
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die 'Les Bulles' runden Gondeln sind das Wahrzeichen der Stadt.",
+            "hu": "A 'Les Bulles' gömb alakú kabinjai a város jelképei.",
+            "ro": "Cabinele rotunde 'Les Bulles' sunt simbolul orașului.",
+            "en": "The 'Les Bulles' spherical cabins are the city's icon."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de la Bastille",
+            "hu": "Bastille erőd",
+            "ro": "Fortul Bastille",
+            "en": "Bastille Fort"
+          },
+          "coords": [
+            45.1985,
+            5.725
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Alpen und den Mont Blanc.",
+            "hu": "Élvezze a panorámát az Alpokra és a Mont Blanc-ra.",
+            "ro": "Bucurați-vă de panorama asupra Alpilor și a muntelui Mont Blanc.",
+            "en": "Enjoy the panoramic view of the Alps and Mont Blanc."
+          }
+        },
+        {
+          "name": {
+            "de": "Place aux Herbes",
+            "hu": "Gyógynövények tere",
+            "ro": "Piața aux Herbes",
+            "en": "Place aux Herbes"
+          },
+          "coords": [
+            45.1925,
+            5.7295
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten in den gemütlichen Bistros.",
+            "hu": "Kóstolja meg a helyi specialitásokat a hangulatos bisztrókban.",
+            "ro": "Gustați specialitățile locale în bistrourile primitoare.",
+            "en": "Taste local specialties in the cozy bistros."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            45.193,
+            5.731
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das seltene gotische Ziborium im Inneren.",
+            "hu": "Nézze meg a ritka gótikus cibóriumot az épület belsejében.",
+            "ro": "Vizitați ciboriumul gotic rar din interiorul catedralei.",
+            "en": "Visit the rare Gothic ciborium inside the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Grenoble",
+            "hu": "Grenoble-i Múzeum",
+            "ro": "Muzeul din Grenoble",
+            "en": "Musée de Grenoble"
+          },
+          "coords": [
+            45.1945,
+            5.733
+          ],
+          "category": "museum",
+          "arrive_at": "16:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eines der bedeutendsten Museen für moderne Kunst in Frankreich.",
+            "hu": "Franciaország egyik legjelentősebb modern művészeti múzeuma.",
+            "ro": "Unul dintre cele mai importante muzee de artă modernă din Franța.",
+            "en": "One of the most significant modern art museums in France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Grenoble am Place Victor Hugo, umgeben von Haussmann-Architektur. Nach einem Spaziergang durch den Jardin de Ville nehmen Sie die berühmte Seilbahn hinauf zur Bastille. Der Vormittag bietet spektakuläre Ausblicke auf die Gipfel der Belledonne und des Vercors. Mittags kehren Sie in die Altstadt zurück, um in den Gassen rund um die Place aux Herbes zu speisen. Der Nachmittag ist der Geschichte in der Kathedrale und der Kultur im weltberühmten Kunstmuseum gewidmet.",
+        "hu": "Kezdje a napot Grenoble szívében, a Victor Hugo téren, Haussmann-stílusú épületek között. Egy rövid séta után a Városkertben üljön fel a híres felvonóra a Bastille-hoz. A délelőtt folyamán csodálja meg a Belledonne és a Vercors csúcsait. Ebédidőben térjen vissza az óvárosba, a Place aux Herbes környéki sikátorokba. A délutánt szentelje a történelemnek a katedrálisban, majd zárja a napot a világhírű képzőművészeti múzeumban.",
+        "ro": "Începeți ziua în inima orașului Grenoble, în Piața Victor Hugo, înconjurată de arhitectură Haussmann. După o plimbare prin Jardin de Ville, urcați cu celebrul teleferic la Bastille. Dimineața oferă priveliști spectaculoase asupra vârfurilor Belledonne și Vercors. La prânz, reveniți în orașul vechi pentru a lua masa pe străduțele din jurul Pieței aux Herbes. După-amiaza este dedicată istoriei la catedrală și culturii în renumitul muzeu de artă.",
+        "en": "Start your day in the heart of Grenoble at Place Victor Hugo, surrounded by Haussmann architecture. After a stroll through the Jardin de Ville, take the famous cable car up to the Bastille. The morning offers spectacular views of the Belledonne and Vercors peaks. At midday, return to the old town to dine in the alleys around Place aux Herbes. Spend the afternoon exploring history at the cathedral and culture at the world-renowned art museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Gratin Dauphinois",
+            "tip": "Probieren Sie das Original bei 'La Table Ronde', einem der ältesten Cafés Frankreichs."
+          },
+          {
+            "name": "Noix de Grenoble",
+            "tip": "Suchen Sie nach Walnuss-Spezialitäten in der Konditorei 'Zugmeyer'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Gratin Dauphinois",
+            "tip": "Kóstolja meg az eredetit a 'La Table Ronde'-ban, Franciaország egyik legrégebbi kávézójában."
+          },
+          {
+            "name": "Noix de Grenoble",
+            "tip": "Keressen diós különlegességeket a 'Zugmeyer' cukrászdában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Gratin Dauphinois",
+            "tip": "Gustați rețeta originală la 'La Table Ronde', una dintre cele mai vechi cafenele din Franța."
+          },
+          {
+            "name": "Noix de Grenoble",
+            "tip": "Căutați specialități cu nuci la patiseria 'Zugmeyer'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Gratin Dauphinois",
+            "tip": "Try the original at 'La Table Ronde', one of France's oldest cafés."
+          },
+          {
+            "name": "Noix de Grenoble",
+            "tip": "Look for walnut specialties at 'Zugmeyer' pastry shop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Terrasse de la Bastille",
+            "tip": "Sonnenuntergang über der Stadt mit Blick auf den Isère-Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Dauphins",
+            "tip": "Ein ruhiger Park an den Hängen der Bastille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Terrasse de la Bastille",
+            "tip": "Naplemente a város felett, kilátással az Isère folyóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Dauphins",
+            "tip": "Csendes park a Bastille domboldalán.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terrasse de la Bastille",
+            "tip": "Apus de soare peste oraș cu vedere la râul Isère.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Dauphins",
+            "tip": "Un parc liniștit pe pantele dealului Bastille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Terrasse de la Bastille",
+            "tip": "Sunset over the city with views of the Isère river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin des Dauphins",
+            "tip": "A quiet park on the slopes of the Bastille.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halle Sainte-Claire",
+            "tip": "Traditionelle Markthalle für regionale Produkte wie Käse und Wein."
+          },
+          {
+            "name": "Rue de Bonne",
+            "tip": "Elegante Einkaufsstraße mit französischen Boutiquen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halle Sainte-Claire",
+            "tip": "Hagyományos vásárcsarnok regionális termékekkel, például sajtokkal és borokkal."
+          },
+          {
+            "name": "Rue de Bonne",
+            "tip": "Elegáns bevásárlóutca francia butikokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halle Sainte-Claire",
+            "tip": "Hală tradițională pentru produse regionale precum brânzeturi și vin."
+          },
+          {
+            "name": "Rue de Bonne",
+            "tip": "Stradă comercială elegantă cu boutique-uri franțuzești."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halle Sainte-Claire",
+            "tip": "Traditional market hall for regional products like cheese and wine."
+          },
+          {
+            "name": "Rue de Bonne",
+            "tip": "Elegant shopping street with French boutiques."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Seilbahnkarten können am Automaten an der Talstation gekauft werden.",
+          "Grenoble ist eine der flachsten Städte Frankreichs, ideal zum Wandern.",
+          "Besuchen Sie das St-Laurent-Viertel auf der anderen Flussseite für italienisches Flair.",
+          "Montags sind viele Museen und einige Restaurants geschlossen."
+        ],
+        "hu": [
+          "A felvonójegyeket az alsó állomás automatáinál vásárolhatja meg.",
+          "Grenoble Franciaország egyik leglaposabb városa, ideális gyalogláshoz.",
+          "Látogassa meg az Isère túloldalán lévő St-Laurent negyedet az olaszos hangulatért.",
+          "Hétfőnként sok múzeum és néhány étterem zárva tart."
+        ],
+        "ro": [
+          "Biletele pentru teleferic pot fi cumpărate de la automatele de la stația de bază.",
+          "Grenoble este unul dintre cele mai plate orașe din Franța, ideal pentru mersul pe jos.",
+          "Vizitați cartierul St-Laurent de pe cealaltă parte a râului pentru o atmosferă italiană.",
+          "Lunea, multe muzee și unele restaurante sunt închise."
+        ],
+        "en": [
+          "Cable car tickets can be purchased at machines at the base station.",
+          "Grenoble is one of the flattest cities in France, making it perfect for walking.",
+          "Visit the St-Laurent district across the river for an Italian vibe.",
+          "Many museums and some restaurants are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ufer der Isère",
+            "hu": "Isère-part",
+            "ro": "Malurile râului Isère",
+            "en": "Banks of the Isère"
+          },
+          "coords": [
+            45.195,
+            5.731
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radfahren entlang des Flusses auf gut ausgebauten Wegen.",
+            "hu": "Kerékpározzon a folyó mentén a jól kiépített utakon.",
+            "ro": "Mergeți cu bicicleta de-a lungul râului pe piste bine amenajate.",
+            "en": "Cycle along the river on well-maintained paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Paul Mistral",
+            "hu": "Paul Mistral park",
+            "ro": "Parcul Paul Mistral",
+            "en": "Parc Paul Mistral"
+          },
+          "coords": [
+            45.1865,
+            5.736
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Sehen Sie den Perret-Turm, das erste Stahlbetonbauwerk seiner Art.",
+            "hu": "Nézze meg a Perret-tornyot, az első ilyen jellegű vasbeton építményt.",
+            "ro": "Vedeți Turnul Perret, prima structură din beton armat de acest tip.",
+            "en": "See the Perret Tower, the first reinforced concrete structure of its kind."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Saint-Bruno",
+            "hu": "Saint-Bruno negyed",
+            "ro": "Cartierul Saint-Bruno",
+            "en": "Saint-Bruno Quarter"
+          },
+          "coords": [
+            45.187,
+            5.715
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den farbenfrohen Markt für einen Snack.",
+            "hu": "Látogassa meg a színes piacot egy tízóraira.",
+            "ro": "Vizitați piața colorată pentru o gustare.",
+            "en": "Visit the colorful market for a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade des Alpes",
+            "hu": "Stade des Alpes",
+            "ro": "Stade des Alpes",
+            "en": "Stade des Alpes"
+          },
+          "coords": [
+            45.1855,
+            5.741
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein modernes Stadion direkt im Park Paul Mistral.",
+            "hu": "Modern stadion közvetlenül a Paul Mistral parkban.",
+            "ro": "Un stadion modern situat chiar în Parcul Paul Mistral.",
+            "en": "A modern stadium located right in Parc Paul Mistral."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Naturgeschichte",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            45.188,
+            5.7325
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ideal für Familien, mit einem schönen Botanischen Garten.",
+            "hu": "Ideális családoknak, gyönyörű botanikus kerttel.",
+            "ro": "Ideal pentru familii, cu o grădină botanică frumoasă.",
+            "en": "Ideal for families, with a beautiful botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Grenette",
+            "hu": "Grenette tér",
+            "ro": "Piața Grenette",
+            "en": "Place Grenette"
+          },
+          "coords": [
+            45.191,
+            5.7275
+          ],
+          "category": "square",
+          "arrive_at": "16:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der belebteste Platz der Stadt für ein kühles Getränk.",
+            "hu": "A város legforgalmasabb tere egy hűsítő italhoz.",
+            "ro": "Cea mai animată piață din oraș pentru o băutură răcoritoare.",
+            "en": "The busiest square in the city for a cool drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Grenoble ist eine Fahrradstadt par excellence. Beginnen Sie Ihre Tour entlang der Isère-Ufer, wo Sie den Fluss und die Berge gleichzeitig genießen können. Radeln Sie zum Parc Paul Mistral, der grünen Lunge der Stadt, und bewundern Sie den historischen Perret-Turm. Nach einem Abstecher zum lebhaften Markt im Saint-Bruno-Viertel führt der Weg am modernen Stadion vorbei zum Naturkundemuseum. Die Tour endet am Place Grenette, dem sozialen Mittelpunkt der Stadt, wo Sie Ihr Fahrrad sicher parken und entspannen können.",
+        "hu": "Grenoble a kerékpárosok városa. Kezdje a túrát az Isère partján, ahol egyszerre élvezheti a folyó és a hegyek látványát. Tekerjen el a Paul Mistral parkba, a város zöld tüdejébe, és csodálja meg a történelmi Perret-tornyot. A Saint-Bruno negyed nyüzsgő piaca után az út a modern stadion mellett vezet a Természettudományi Múzeumhoz. A túra a Grenette téren ér véget, a város közösségi központjában, ahol biztonságosan leparkolhat és megpihenhet.",
+        "ro": "Grenoble este un oraș al bicicletelor prin excelență. Începeți turul pe malurile râului Isère, unde vă puteți bucura de râu și de munți în același timp. Mergeți cu bicicleta până în Parcul Paul Mistral, plămânul verde al orașului, și admirați istoricul Turn Perret. După o vizită în piața plină de viață din cartierul Saint-Bruno, drumul trece pe lângă stadionul modern spre Muzeul de Istorie Naturală. Turul se încheie în Piața Grenette, centrul social al orașului, unde puteți parca bicicleta și vă puteți relaxa.",
+        "en": "Grenoble is a cycling city par excellence. Start your tour along the Isère banks, enjoying the river and mountains simultaneously. Cycle to Parc Paul Mistral, the city's green lung, and admire the historic Perret Tower. After a detour to the lively market in the Saint-Bruno district, the path leads past the modern stadium to the Natural History Museum. The tour ends at Place Grenette, the city's social hub, where you can safely park your bike and relax."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caillette",
+            "tip": "Eine lokale Fleischspezialität, oft auf dem Saint-Bruno-Markt zu finden."
+          },
+          {
+            "name": "Chartreuse-Eis",
+            "tip": "Probieren Sie Eis mit dem berühmten Kräuterlikör der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caillette",
+            "tip": "Helyi húsos specialitás, gyakran megtalálható a Saint-Bruno piacon."
+          },
+          {
+            "name": "Chartreuse fagylalt",
+            "tip": "Kóstolja meg a régió híres gyógynövénylikőrjével készült fagyit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caillette",
+            "tip": "O specialitate locală din carne, găsită adesea în piața Saint-Bruno."
+          },
+          {
+            "name": "Înghețată Chartreuse",
+            "tip": "Încercați înghețata cu faimosul lichior de plante din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caillette",
+            "tip": "A local meat specialty often found at the Saint-Bruno market."
+          },
+          {
+            "name": "Chartreuse Ice Cream",
+            "tip": "Try ice cream made with the region's famous herbal liqueur."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bassin de Jouty",
+            "tip": "Ruhiger Wasserbereich im Parc Paul Mistral.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quai de la Graille",
+            "tip": "Ruhige Radwege entlang der Isère abseits des Zentrums.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bassin de Jouty",
+            "tip": "Csendes vizes terület a Paul Mistral parkban.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quai de la Graille",
+            "tip": "Csendes kerékpárutak az Isère mentén, távol a központtól.",
+            "emoji": "🚴"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bassin de Jouty",
+            "tip": "Zonă liniștită cu apă în Parcul Paul Mistral.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quai de la Graille",
+            "tip": "Piste de biciclete liniștite de-a lungul râului Isère, departe de centru.",
+            "emoji": "🚴"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bassin de Jouty",
+            "tip": "Quiet water area in Parc Paul Mistral.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Quai de la Graille",
+            "tip": "Quiet cycle paths along the Isère away from the center.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "M_vélo+",
+            "tip": "Hier können Sie Fahrräder leihen und Zubehör kaufen."
+          },
+          {
+            "name": "L'Épicerie Locavore",
+            "tip": "Regionale Spezialitäten direkt von Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "M_vélo+",
+            "tip": "Itt kerékpárt bérelhet és kiegészítőket vásárolhat."
+          },
+          {
+            "name": "L'Épicerie Locavore",
+            "tip": "Regionális specialitások közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "M_vélo+",
+            "tip": "Aici puteți închiria biciclete și cumpăra accesorii."
+          },
+          {
+            "name": "L'Épicerie Locavore",
+            "tip": "Specialități regionale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "M_vélo+",
+            "tip": "The place to rent bikes and buy accessories."
+          },
+          {
+            "name": "L'Épicerie Locavore",
+            "tip": "Regional specialties directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die 'Chronovélo'-Routen für schnelles und sicheres Vorankommen.",
+          "Schließen Sie Ihr Fahrrad immer mit einem stabilen Schloss ab.",
+          "Die Stadt ist fast komplett eben, aber Vorsicht vor den Straßenbahnschienen.",
+          "Leihen Sie ein gelbes 'M_vélo+' Fahrrad für den authentischen Look."
+        ],
+        "hu": [
+          "Használja a 'Chronovélo' útvonalakat a gyors és biztonságos haladáshoz.",
+          "Mindig zárja le a kerékpárját egy erős lakattal.",
+          "A város szinte teljesen sík, de vigyázzon a villamossíneknél.",
+          "Béreljen sárga 'M_vélo+' kerékpárt az autentikus megjelenésért."
+        ],
+        "ro": [
+          "Utilizați rutele 'Chronovélo' pentru o deplasare rapidă și sigură.",
+          "Încuiați întotdeauna bicicleta cu un sistem antifurt solid.",
+          "Orașul este aproape complet plat, dar atenție la șinele de tramvai.",
+          "Închiriați o bicicletă galbenă 'M_vélo+' pentru un aspect autentic."
+        ],
+        "en": [
+          "Use the 'Chronovélo' routes for fast and safe travel.",
+          "Always lock your bike with a sturdy lock.",
+          "The city is almost completely flat, but watch out for tram tracks.",
+          "Rent a yellow 'M_vélo+' bike for the authentic local look."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 38.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Vizille",
+            "hu": "Vizille kastély",
+            "ro": "Castelul Vizille",
+            "en": "Vizille Castle"
+          },
+          "coords": [
+            45.076,
+            5.772
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.0,
+          "tip_5lang": {
+            "de": "Wiege der Französischen Revolution mit einem riesigen Park.",
+            "hu": "A francia forradalom bölcsője egy hatalmas parkkal.",
+            "ro": "Leagănul Revoluției Franceze, cu un parc imens.",
+            "en": "The cradle of the French Revolution with a huge park."
+          }
+        },
+        {
+          "name": {
+            "de": "Uriage-les-Bains",
+            "hu": "Uriage-les-Bains",
+            "ro": "Uriage-les-Bains",
+            "en": "Uriage-les-Bains"
+          },
+          "coords": [
+            45.129,
+            5.834
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein eleganter Kurort ideal für eine Mittagspause.",
+            "hu": "Elegáns fürdőváros, ideális egy ebédszünethez.",
+            "ro": "O stațiune balneară elegantă, ideală pentru o pauză de prânz.",
+            "en": "An elegant spa town ideal for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nizier-du-Moucherotte",
+            "hu": "Saint-Nizier-du-Moucherotte",
+            "ro": "Saint-Nizier-du-Moucherotte",
+            "en": "Saint-Nizier-du-Moucherotte"
+          },
+          "coords": [
+            45.172,
+            5.626
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Der beste Aussichtspunkt über das gesamte Grenoble-Becken.",
+            "hu": "A legjobb kilátópont az egész grenoble-i medencére.",
+            "ro": "Cel mai bun punct de belvedere asupra întregii depresiuni Grenoble.",
+            "en": "The best viewpoint over the entire Grenoble basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion der Olympischen Winterspiele 1968",
+            "hu": "1968-as téli olimpiai stadion",
+            "ro": "Stadionul Olimpic din 1968",
+            "en": "1968 Winter Olympics Stadium Site"
+          },
+          "coords": [
+            45.185,
+            5.742
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Erinnerung an Grenobles olympische Vergangenheit.",
+            "hu": "Emlék Grenoble olimpiai múltjából.",
+            "ro": "Amintire a trecutului olimpic al orașului Grenoble.",
+            "en": "A reminder of Grenoble's Olympic past."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais des Sports",
+            "hu": "Sportpalota",
+            "ro": "Palatul Sporturilor",
+            "en": "Palais des Sports"
+          },
+          "coords": [
+            45.186,
+            5.739
+          ],
+          "category": "landmark",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein architektonisches Highlight der 60er Jahre.",
+            "hu": "A 60-as évek egyik építészeti csúcspontja.",
+            "ro": "Un punct de reper arhitectural al anilor '60.",
+            "en": "An architectural highlight of the 1960s."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulären Ziele am Stadtrand. Beginnen Sie beim prächtigen Château de Vizille, das Geschichte und Natur verbindet. Nach einem Besuch im Kurort Uriage fahren Sie hinauf nach Saint-Nizier im Vercors-Massiv für einen atemberaubenden Blick über die Stadt. Zurück in Grenoble erkunden Sie die olympischen Stätten von 1968 im Parc Paul Mistral. Diese Tour zeigt Ihnen die perfekte Lage Grenobles inmitten von drei Gebirgszügen.",
+        "hu": "Autóval elérheti a város szélén található látványos helyszíneket. Kezdjen a pompás Vizille kastélynál, ahol a történelem és a természet találkozik. Az Uriage fürdővárosban tett látogatás után vezessen fel Saint-Nizier-be a Vercors-hegységbe, ahonnan lélegzetelállító kilátás nyílik a városra. Visszatérve Grenoble-ba, fedezze fel az 1968-as olimpiai helyszíneket a Paul Mistral parkban. Ez a túra megmutatja Grenoble tökéletes fekvését három hegység gyűrűjében.",
+        "ro": "Cu mașina puteți ajunge la destinații spectaculoase de la marginea orașului. Începeți cu magnificul Castel Vizille, care îmbină istoria și natura. După o vizită în stațiunea balneară Uriage, urcați la Saint-Nizier, în masivul Vercors, pentru o vedere uluitoare asupra orașului. Revenind în Grenoble, explorați siturile olimpice din 1968 din Parcul Paul Mistral. Acest tur vă arată locația perfectă a orașului Grenoble, înconjurat de trei lanțuri muntoase.",
+        "en": "By car, you can reach spectacular destinations on the outskirts. Start at the magnificent Château de Vizille, combining history and nature. After a visit to the spa town of Uriage, drive up to Saint-Nizier in the Vercors massif for a breathtaking view over the city. Back in Grenoble, explore the 1968 Olympic sites in Parc Paul Mistral. This tour showcases Grenoble's perfect location surrounded by three mountain ranges."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chartreuse-Likör",
+            "tip": "Besuchen Sie die Kellereien in Voiron (kurzer Umweg)."
+          },
+          {
+            "name": "Sainte-Maure Käse",
+            "tip": "Kaufen Sie frischen Ziegenkäse in den Dörfern am Vercors-Hang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chartreuse likőr",
+            "tip": "Látogassa meg a pincéket Voiron-ban (rövid kitérő)."
+          },
+          {
+            "name": "Sainte-Maure sajt",
+            "tip": "Vásároljon friss kecskesajtot a Vercors-lejtő falvaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior Chartreuse",
+            "tip": "Vizitați cramele din Voiron (un scurt ocol)."
+          },
+          {
+            "name": "Brânză Sainte-Maure",
+            "tip": "Cumpărați brânză proaspătă de capră din satele de pe versanții Vercors."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chartreuse Liqueur",
+            "tip": "Visit the cellars in Voiron (a short detour)."
+          },
+          {
+            "name": "Sainte-Maure Cheese",
+            "tip": "Buy fresh goat cheese in the villages on the Vercors slopes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park von Vizille",
+            "tip": "Riesiges Gelände mit Kanälen und frei laufenden Hirschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belvédère de Saint-Nizier",
+            "tip": "Völlige Stille hoch über dem Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vizille parkja",
+            "tip": "Hatalmas terület csatornákkal és szabadon kószáló szarvasokkal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belvédère de Saint-Nizier",
+            "tip": "Teljes csend magasan a völgy felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Vizille",
+            "tip": "Teren imens cu canale și cerbi care se plimbă liber.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belvédère de Saint-Nizier",
+            "tip": "Liniște totală deasupra văii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vizille Park",
+            "tip": "Huge grounds with canals and free-roaming deer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belvédère de Saint-Nizier",
+            "tip": "Total silence high above the valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand'Place",
+            "tip": "Großes Einkaufszentrum im Süden der Stadt."
+          },
+          {
+            "name": "Bauernmärkte in Uriage",
+            "tip": "Lokale Produkte direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand'Place",
+            "tip": "Nagy bevásárlóközpont a város déli részén."
+          },
+          {
+            "name": "Termelői piacok Uriage-ban",
+            "tip": "Helyi termékek közvetlenül a gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand'Place",
+            "tip": "Centru comercial mare în sudul orașului."
+          },
+          {
+            "name": "Piețe de fermieri în Uriage",
+            "tip": "Produse locale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand'Place",
+            "tip": "A large shopping mall in the south of the city."
+          },
+          {
+            "name": "Farmers markets in Uriage",
+            "tip": "Local products directly from the source."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Stadtzentrum ist teuer; nutzen Sie 'Park & Ride' (P+R).",
+          "Die Bergstraßen erfordern Konzentration, sind aber sehr gut ausgebaut.",
+          "In den Bergen kann es deutlich kühler sein als im Tal.",
+          "Vermeiden Sie die Rushhour auf der A480."
+        ],
+        "hu": [
+          "A városközpontban a parkolás drága; használja a 'Park & Ride' (P+R) helyeket.",
+          "A hegyi utak koncentrációt igényelnek, de kiváló minőségűek.",
+          "A hegyekben jóval hűvösebb lehet, mint a völgyben.",
+          "Kerülje a csúcsforgalmat az A480-as úton."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este scumpă; utilizați parcările 'Park & Ride' (P+R).",
+          "Drumurile montane necesită concentrare, dar sunt foarte bine întreținute.",
+          "La munte poate fi mult mai răcoare decât în vale.",
+          "Evitați orele de vârf pe autostrada A480."
+        ],
+        "en": [
+          "Parking in the city center is expensive; use 'Park & Ride' (P+R) facilities.",
+          "Mountain roads require focus but are very well-maintained.",
+          "It can be significantly cooler in the mountains than in the valley.",
+          "Avoid rush hour on the A480 motorway."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Grenoble",
+            "hu": "Grenoble vasútállomás",
+            "ro": "Gara Grenoble",
+            "en": "Grenoble Station"
+          },
+          "coords": [
+            45.1915,
+            5.7145
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein wichtiger Knotenpunkt mit modernem Design.",
+            "hu": "Fontos közlekedési csomópont modern dizájnnal.",
+            "ro": "Un nod feroviar important cu un design modern.",
+            "en": "A major transport hub with modern design."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de Verdun",
+            "hu": "Verdun tér",
+            "ro": "Piața Verdun",
+            "en": "Place de Verdun"
+          },
+          "coords": [
+            45.189,
+            5.732
+          ],
+          "category": "square",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Hier befinden sich die Präfektur und die Bibliothek.",
+            "hu": "Itt található a prefektúra és a könyvtár.",
+            "ro": "Aici se află prefectura și biblioteca.",
+            "en": "Home to the prefecture and the library."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Résistance",
+            "hu": "Ellenállási Múzeum",
+            "ro": "Muzeul Rezistenței",
+            "en": "Museum of Resistance"
+          },
+          "coords": [
+            45.1885,
+            5.7335
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewegendes Museum über die Geschichte der Region im 2. Weltkrieg.",
+            "hu": "Megható múzeum a régió II. világháborús történetéről.",
+            "ro": "Muzeu emoționant despre istoria regiunii în al Doilea Război Mondial.",
+            "en": "A moving museum about the region's history during WWII."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Sainte-Claire",
+            "hu": "Sainte-Claire tér",
+            "ro": "Piața Sainte-Claire",
+            "en": "Place Sainte-Claire"
+          },
+          "coords": [
+            45.192,
+            5.7305
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Halt für den Marktbesuch.",
+            "hu": "Központi megálló a piaci látogatáshoz.",
+            "ro": "Stație centrală pentru vizitarea pieței.",
+            "en": "Central stop for visiting the market."
+          }
+        },
+        {
+          "name": {
+            "de": "MC2: Grenoble",
+            "hu": "MC2: Grenoble",
+            "ro": "MC2: Grenoble",
+            "en": "MC2: Grenoble"
+          },
+          "coords": [
+            45.17,
+            5.735
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Kulturzentrum der Stadt, erreichbar mit der Tram A.",
+            "hu": "A város kulturális központja, az A villamossal érhető el.",
+            "ro": "Centrul cultural al orașului, accesibil cu tramvaiul A.",
+            "en": "The city's cultural center, accessible via Tram A."
+          }
+        },
+        {
+          "name": {
+            "de": "La Belle Électrique",
+            "hu": "La Belle Électrique",
+            "ro": "La Belle Électrique",
+            "en": "La Belle Électrique"
+          },
+          "coords": [
+            45.1865,
+            5.708
+          ],
+          "category": "landmark",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein modernes Konzerthaus im umgebauten Industrieviertel.",
+            "hu": "Modern koncertterem egy átalakított ipari negyedben.",
+            "ro": "O sală modernă de concerte într-un cartier industrial renovat.",
+            "en": "A modern concert hall in a converted industrial district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Grenobles Straßenbahnnetz ist weltbekannt für seine Effizienz und Barrierefreiheit. Starten Sie am Bahnhof und fahren Sie zum Place de Verdun, dem monumentalen Zentrum der Verwaltung. Besuchen Sie das bewegende Widerstandsmuseum, bevor Sie mit der Tram zur Place Sainte-Claire für ein Mittagessen fahren. Am Nachmittag bringt Sie die Linie A in den Süden zum modernen Kulturzentrum MC2 und schließlich zum angesagten Industrieviertel Bouchayer-Viallet, wo das Nachtleben pulsiert.",
+        "hu": "Grenoble villamoshálózata világhírű hatékonyságáról és akadálymentességéről. Induljon a vasútállomástól, és utazzon a Verdun térre, a közigazgatás monumentális központjába. Látogassa meg a megható Ellenállási Múzeumot, majd villamossal menjen a Sainte-Claire térre ebédelni. Délután az A vonal elviszi délebbre a modern MC2 kulturális központhoz, végül pedig a felkapott Bouchayer-Viallet ipari negyedbe, ahol az éjszakai élet zajlik.",
+        "ro": "Rețeaua de tramvaie din Grenoble este renumită la nivel mondial pentru eficiență și accesibilitate. Începeți de la gară și mergeți în Piața Verdun, centrul monumental al administrației. Vizitați emoționantul Muzeu al Rezistenței, apoi luați tramvaiul spre Piața Sainte-Claire pentru prânz. După-amiaza, linia A vă duce spre sud la centrul cultural modern MC2 și, în final, în cartierul industrial la modă Bouchayer-Viallet, unde viața de noapte pulsează.",
+        "en": "Grenoble's tram network is world-renowned for its efficiency and accessibility. Start at the station and travel to Place de Verdun, the monumental administrative center. Visit the moving Resistance Museum before taking the tram to Place Sainte-Claire for lunch. In the afternoon, Line A takes you south to the modern MC2 cultural center and finally to the trendy Bouchayer-Viallet industrial district, where the nightlife hums."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Murier d'Italie",
+            "tip": "Traditionelle Gerichte in der Nähe der Tramhaltestelle Hubert Dubedout."
+          },
+          {
+            "name": "Kebab und Streetfood",
+            "tip": "Das Saint-Bruno-Viertel bietet die beste internationale Küche der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Murier d'Italie",
+            "tip": "Hagyományos ételek a Hubert Dubedout villamosmegálló közelében."
+          },
+          {
+            "name": "Kebab és Streetfood",
+            "tip": "A Saint-Bruno negyed kínálja a legjobb nemzetközi konyhát a városban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Murier d'Italie",
+            "tip": "Preparate tradiționale lângă stația de tramvai Hubert Dubedout."
+          },
+          {
+            "name": "Kebab și Streetfood",
+            "tip": "Cartierul Saint-Bruno oferă cea mai bună bucătărie internațională din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Murier d'Italie",
+            "tip": "Traditional dishes near the Hubert Dubedout tram stop."
+          },
+          {
+            "name": "Kebab and Streetfood",
+            "tip": "The Saint-Bruno district offers the best international cuisine in the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bibliothek-Garten",
+            "tip": "Kleiner, ruhiger Garten direkt am Place de Verdun.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de l'Alliance",
+            "tip": "Eine grüne Oase im Süden der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Könyvtárkert",
+            "tip": "Kicsi, csendes kert közvetlenül a Verdun térnél.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de l'Alliance",
+            "tip": "Zöld oázis a város déli részén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Bibliotecii",
+            "tip": "O grădină mică și liniștită chiar lângă Piața Verdun.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de l'Alliance",
+            "tip": "O oază verde în sudul orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Library Garden",
+            "tip": "A small, quiet garden right by Place de Verdun.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Parc de l'Alliance",
+            "tip": "A green oasis in the southern part of the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "K'Store",
+            "tip": "Kompaktes Einkaufszentrum im Stadtzentrum."
+          },
+          {
+            "name": "Casernes de Bonne",
+            "tip": "Einkaufen in einem wunderschön umgebauten Kasernengelände."
+          }
+        ],
+        "hu": [
+          {
+            "name": "K'Store",
+            "tip": "Kompakt bevásárlóközpont a városközpontban."
+          },
+          {
+            "name": "Casernes de Bonne",
+            "tip": "Vásárlás egy gyönyörűen átalakított kaszárnyaépületben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "K'Store",
+            "tip": "Centru comercial compact în centrul orașului."
+          },
+          {
+            "name": "Casernes de Bonne",
+            "tip": "Cumpărături într-o fostă cazarmă frumos renovată."
+          }
+        ],
+        "en": [
+          {
+            "name": "K'Store",
+            "tip": "A compact shopping center in the city heart."
+          },
+          {
+            "name": "Casernes de Bonne",
+            "tip": "Shopping in a beautifully converted former barracks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte am Automaten jeder Tramstation.",
+          "Die Trambahnen fahren bis nach Mitternacht.",
+          "Validieren Sie Ihr Ticket vor dem Einsteigen am Bahnsteig.",
+          "Die Linien A und B sind die wichtigsten für Touristen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet bármely villamosmegálló automatájánál.",
+          "A villamosok éjfélig közlekednek.",
+          "Kezelje a jegyét a peronon felszállás előtt.",
+          "Az A és B vonal a legfontosabb a turisták számára."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi de la automatele din orice stație de tramvai.",
+          "Tramvaiele circulă până după miezul nopții.",
+          "Validați biletul pe peron înainte de a urca.",
+          "Liniile A și B sunt cele mai importante pentru turiști."
+        ],
+        "en": [
+          "Buy a day pass at the ticket machines at any tram stop.",
+          "Trams run until after midnight.",
+          "Validate your ticket on the platform before boarding.",
+          "Lines A and B are the most useful for visitors."
+        ]
+      }
+    }
+  }
+}

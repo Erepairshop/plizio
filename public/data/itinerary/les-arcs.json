@@ -1,0 +1,591 @@
+{
+  "city_id": "les-arcs",
+  "anchor": {
+    "name": "Les Arcs",
+    "coords": [
+      6.7878,
+      45.5722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:10",
+      "end_estimate": "17:45",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Village d'Arc 1950",
+            "hu": "Arc 1950 falu",
+            "ro": "Satul Arc 1950",
+            "en": "Arc 1950 Village"
+          },
+          "coords": [
+            6.791,
+            45.572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein charmantes, autofreies Dorf im Disney-Stil.",
+            "hu": "Bájos, autómentes falu Disney-stílusban.",
+            "ro": "Un sat fermecător, fără mașini, în stil Disney.",
+            "en": "A charming, car-free village in a Disney-like style."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Haute d'Arc 1800",
+            "hu": "Arc 1800 felső tér",
+            "ro": "Place Haute d'Arc 1800",
+            "en": "Place Haute d'Arc 1800"
+          },
+          "coords": [
+            6.775,
+            45.568
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das pulsierende Zentrum von Les Arcs.",
+            "hu": "Les Arcs lüktető központja.",
+            "ro": "Centrul vibrant al Les Arcs.",
+            "en": "The pulsating center of Les Arcs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Moutons",
+            "hu": "Birkák tava",
+            "ro": "Lacul Moutons",
+            "en": "Sheep Lake"
+          },
+          "coords": [
+            6.805,
+            45.558
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein friedlicher See mit Blick auf den Mont Blanc.",
+            "hu": "Békés tó kilátással a Mont Blanc-ra.",
+            "ro": "Un lac liniștit cu vedere la Mont Blanc.",
+            "en": "A peaceful lake with a view of Mont Blanc."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Arpette",
+            "hu": "L'Arpette",
+            "ro": "L'Arpette",
+            "en": "L'Arpette"
+          },
+          "coords": [
+            6.8,
+            45.575
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "15:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ideal für ein Sonnenbad auf der Terrasse.",
+            "hu": "Ideális egy kis napozáshoz a teraszon.",
+            "ro": "Ideal pentru o baie de soare pe terasă.",
+            "en": "Ideal for sunbathing on the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Aiguille Rouge",
+            "hu": "Vörös-tű csúcs",
+            "ro": "Vârful Aiguille Rouge",
+            "en": "Aiguille Rouge"
+          },
+          "coords": [
+            6.84,
+            45.55
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der höchste Punkt mit 3226 m und 360-Grad-Panorama.",
+            "hu": "A legmagasabb pont 3226 méteren, 360 fokos panorámával.",
+            "ro": "Cel mai înalt punct la 3226 m, cu panoramă de 360 de grade.",
+            "en": "The highest point at 3226m with a 360-degree panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die verschiedenen Ebenen von Les Arcs zu Fuß. Beginnen Sie im malerischen Arc 1950 und wandern Sie zum lebhaften Arc 1800. Ein Mittagessen am Lac des Moutons bietet Ruhe, bevor Sie über L'Arpette den spektakulären Gipfel der Aiguille Rouge erreichen.",
+        "hu": "Fedezze fel Les Arcs különböző szintjeit gyalogosan. Kezdje a festői Arc 1950-ben, majd túrázzon a nyüzsgő Arc 1800-ba. Egy ebéd a Birkák tavánál nyugalmat kínál, mielőtt az L'Arpette-en keresztül elérné az Aiguille Rouge látványos csúcsát.",
+        "ro": "Explorați diferitele niveluri ale Les Arcs pe jos. Începeți în pitorescul Arc 1950 și mergeți în drumeție spre vibrantul Arc 1800. Un prânz la Lacul Moutons oferă liniște, înainte de a ajunge la vârful spectaculos Aiguille Rouge prin L'Arpette.",
+        "en": "Explore the different levels of Les Arcs on foot. Start in picturesque Arc 1950 and hike to the lively Arc 1800. A lunch at Sheep Lake offers tranquility before reaching the spectacular summit of Aiguille Rouge via L'Arpette."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le 2134",
+            "tip": "Moderne Interpretation der alpinen Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le 2134",
+            "tip": "Az alpesi konyha modern értelmezése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le 2134",
+            "tip": "Interpretare modernă a bucătăriei alpine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le 2134",
+            "tip": "Modern interpretation of Alpine cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac des Moutons",
+            "tip": "Stille am Bergsee mit Mont-Blanc-Blick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Birkák tava",
+            "tip": "Csend a hegyi tónál, kilátással a Mont Blanc-ra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Moutons",
+            "tip": "Liniște la lacul de munte cu vedere la Mont-Blanc.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sheep Lake",
+            "tip": "Silence at the mountain lake with Mont Blanc views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Arc 1950 Boutiquen",
+            "tip": "Hochwertige Sportbekleidung und Accessoires."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arc 1950 butikok",
+            "tip": "Kiváló minőségű sportruházat és kiegészítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-urile Arc 1950",
+            "tip": "Îmbrăcăminte sport și accesorii de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arc 1950 Boutiques",
+            "tip": "High-quality sportswear and accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die kostenlosen Pendelbusse zwischen den Stationen.",
+          "Sonnenschutz ist ein Muss.",
+          "Planen Sie Zeit für die Seilbahnfahrt zur Aiguille Rouge ein.",
+          "Ein Fernglas lohnt sich für den Panoramablick."
+        ],
+        "hu": [
+          "Használja az ingyenes buszjáratokat az állomások között.",
+          "A fényvédő krém kötelező.",
+          "Tervezzen időt az Aiguille Rouge felvonóra.",
+          "Érdemes távcsövet vinni a panoráma miatt."
+        ],
+        "ro": [
+          "Folosiți autobuzele gratuite între stații.",
+          "Protecția solară este obligatorie.",
+          "Alocați timp pentru călătoria cu telecabina spre Aiguille Rouge.",
+          "Un binoclu este util pentru vederea panoramică."
+        ],
+        "en": [
+          "Use the free shuttle buses between the stations.",
+          "Sun protection is a must.",
+          "Plan time for the cable car ride to Aiguille Rouge.",
+          "Binoculars are worth it for the panoramic view."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Funiculaire Arc en Ciel",
+            "hu": "Arc en Ciel sikló",
+            "ro": "Funicularul Arc en Ciel",
+            "en": "Arc en Ciel Funicular"
+          },
+          "coords": [
+            6.705,
+            45.612
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verbindet Bourg-Saint-Maurice in nur 7 Minuten mit Arc 1600.",
+            "hu": "Bourg-Saint-Maurice-t mindössze 7 perc alatt összeköti Arc 1600-zal.",
+            "ro": "Conectează Bourg-Saint-Maurice de Arc 1600 în doar 7 minute.",
+            "en": "Connects Bourg-Saint-Maurice to Arc 1600 in just 7 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "Coupole d'Arc 1600",
+            "hu": "Arc 1600 kupola",
+            "ro": "Coupole d'Arc 1600",
+            "en": "Coupole d'Arc 1600"
+          },
+          "coords": [
+            6.715,
+            45.592
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein ikonisches Gebäude der alpinen Architektur.",
+            "hu": "Az alpesi építészet ikonikus épülete.",
+            "ro": "O clădire iconică a arhitecturii alpine.",
+            "en": "An iconic building of Alpine architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Résidence La Cascade",
+            "hu": "La Cascade rezidencia",
+            "ro": "Rezidența La Cascade",
+            "en": "Residence La Cascade"
+          },
+          "coords": [
+            6.718,
+            45.59
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Teil des von Charlotte Perriand entworfenen Ensembles.",
+            "hu": "A Charlotte Perriand által tervezett együttes része.",
+            "ro": "Parte a ansamblului proiectat de Charlotte Perriand.",
+            "en": "Part of the ensemble designed by Charlotte Perriand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Vernettes",
+            "hu": "Notre-Dame-des-Vernettes kápolna",
+            "ro": "Chapelle Notre-Dame-des-Vernettes",
+            "en": "Notre-Dame-des-Vernettes Chapel"
+          },
+          "coords": [
+            6.745,
+            45.558
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein barockes Juwel hoch in den Bergen.",
+            "hu": "Barokk ékszerdoboz magasan a hegyekben.",
+            "ro": "O bijuterie barocă sus în munți.",
+            "en": "A Baroque jewel high in the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Vanoise Express (Station Les Arcs)",
+            "hu": "Vanoise Express (Les Arcs állomás)",
+            "ro": "Le Vanoise Express (Stația Les Arcs)",
+            "en": "Le Vanoise Express (Les Arcs Station)"
+          },
+          "coords": [
+            6.735,
+            45.553
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht aus der doppelstöckigen Gondel.",
+            "hu": "Élvezze a kilátást a kétszintes gondolából.",
+            "ro": "Bucurați-vă de priveliște din gondola cu două etaje.",
+            "en": "Enjoy the view from the double-decker gondola."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset at Arc 1950",
+            "hu": "Naplemente Arc 1950-ben",
+            "ro": "Apus de soare la Arc 1950",
+            "en": "Sunset at Arc 1950"
+          },
+          "coords": [
+            6.791,
+            45.572
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein magischer Abschluss des Tages im Dorf.",
+            "hu": "A nap varázslatos lezárása a faluban.",
+            "ro": "Un final magic al zilei în sat.",
+            "en": "A magical end to the day in the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die hervorragende Infrastruktur von Les Arcs. Mit der Standseilbahn erreichen Sie Arc 1600, wo Sie die Architektur von Charlotte Perriand bewundern können. Ein Ausflug zur barocken Kapelle Vernettes bietet kulturelle Tiefe, bevor Sie mit dem Vanoise Express das Tal überqueren und den Tag in Arc 1950 ausklingen lassen.",
+        "hu": "Használja ki Les Arcs kiváló infrastruktúráját. A siklóval érje el Arc 1600-at, ahol megcsodálhatja Charlotte Perriand építészetét. A barokk Vernettes kápolnához tett kirándulás kulturális mélységet kínál, mielőtt a Vanoise Expresszel átkelne a völgyön, és a napot Arc 1950-ben zárná.",
+        "ro": "Profități de infrastructura excelentă a Les Arcs. Cu funicularul ajungeți la Arc 1600, unde puteți admira arhitectura lui Charlotte Perriand. O excursie la capela barocă Vernettes oferă profunzime culturală, înainte de a traversa valea cu Vanoise Express și de a încheia ziua în Arc 1950.",
+        "en": "Take advantage of Les Arcs' excellent infrastructure. Use the funicular to reach Arc 1600, where you can admire the architecture of Charlotte Perriand. A trip to the Baroque Vernettes chapel offers cultural depth before crossing the valley with the Vanoise Express and ending the day in Arc 1950."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Sanglier qui Fume",
+            "tip": "Rustikale Hütte mit traditioneller Kost."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Sanglier qui Fume",
+            "tip": "Rusztikus hütte hagyományos ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Sanglier qui Fume",
+            "tip": "Cabană rustică cu mâncare tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Sanglier qui Fume",
+            "tip": "Rustic hut with traditional food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle des Vernettes",
+            "tip": "Ein Ort der absoluten Ruhe und Spiritualität.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vernettes kápolna",
+            "tip": "Az abszolút nyugalom és spiritualitás helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chapelle des Vernettes",
+            "tip": "Un loc de liniște absolută și spiritualitate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vernettes Chapel",
+            "tip": "A place of absolute peace and spirituality.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bourg-Saint-Maurice Markt",
+            "tip": "Samstagmorgens für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bourg-Saint-Maurice piac",
+            "tip": "Szombat reggelenként helyi különlegességekért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Bourg-Saint-Maurice",
+            "tip": "Sâmbătă dimineața pentru specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bourg-Saint-Maurice Market",
+            "tip": "Saturday mornings for local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Pass 'Paradiski' deckt alle Lifte ab.",
+          "Achten Sie auf die letzte Fahrt des Vanoise Express.",
+          "Bourg-Saint-Maurice ist per Zug gut erreichbar.",
+          "Die Architekturführungen in Arc 1600 sind sehr empfehlenswert."
+        ],
+        "hu": [
+          "A 'Paradiski' bérlet minden liftre érvényes.",
+          "Figyeljen a Vanoise Express utolsó járatára.",
+          "Bourg-Saint-Maurice vonattal jól megközelíthető.",
+          "Az Arc 1600 építészeti túrái erősen ajánlottak."
+        ],
+        "ro": [
+          "Permisul 'Paradiski' acoperă toate teleschiurile.",
+          "Fiți atenți la ultima cursă a Vanoise Express.",
+          "Bourg-Saint-Maurice este ușor accesibil cu trenul.",
+          "Tururile de arhitectură din Arc 1600 sunt foarte recomandate."
+        ],
+        "en": [
+          "The 'Paradiski' pass covers all lifts.",
+          "Pay attention to the last run of the Vanoise Express.",
+          "Bourg-Saint-Maurice is easily accessible by train.",
+          "The architecture tours in Arc 1600 are highly recommended."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15,
+      "stop_count": 4,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 20,
+      "stop_count": 5,
+      "stops": [],
+      "narrative_4lang": {
+        "de": "...",
+        "hu": "...",
+        "ro": "...",
+        "en": "..."
+      },
+      "gastro_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "quiet_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "shopping_picks": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      },
+      "tips": {
+        "de": [],
+        "hu": [],
+        "ro": [],
+        "en": []
+      }
+    }
+  }
+}

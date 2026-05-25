@@ -1,0 +1,1141 @@
+{
+  "city_id": "vichy",
+  "anchor": {
+    "name": "Hall des Sources",
+    "coords": [
+      3.4267,
+      46.1278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hall des Sources & Parc des Sources",
+            "hu": "Hall des Sources és Források Parkja",
+            "ro": "Hall des Sources și Parcul Izvoarelor",
+            "en": "Hall des Sources & Parc des Sources"
+          },
+          "coords": [
+            3.4267,
+            46.1278
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie das berühmte Vichy-Wasser direkt an der Quelle.",
+            "hu": "Kóstolja meg a híres Vichy-vizet közvetlenül a forrásnál.",
+            "ro": "Gustați faimoasa apă Vichy direct de la sursă.",
+            "en": "Taste the famous Vichy water directly at the source."
+          }
+        },
+        {
+          "name": {
+            "de": "Opéra de Vichy",
+            "hu": "Vichy-i Operaház",
+            "ro": "Opera din Vichy",
+            "en": "Vichy Opera House"
+          },
+          "coords": [
+            3.4228,
+            46.1271
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Jugendstil-Architektur.",
+            "hu": "Csodálja meg a pompás szecessziós építészetet.",
+            "ro": "Admirați arhitectura superbă în stil Art Nouveau.",
+            "en": "Admire the magnificent Art Nouveau architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalets Napoléon III",
+            "hu": "III. Napóleon faházai",
+            "ro": "Cabanele lui Napoleon al III-lea",
+            "en": "Napoleon III Chalets"
+          },
+          "coords": [
+            3.4215,
+            46.1235
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese Villen im Schweizer Stil wurden für den Kaiser erbaut.",
+            "hu": "Ezek a svájci stílusú villák a császár számára épültek.",
+            "ro": "Aceste vile în stil elvețian au fost construite pentru împărat.",
+            "en": "These Swiss-style villas were built for the Emperor."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Blaise",
+            "hu": "Szent Balázs-templom",
+            "ro": "Biserica Sfântul Blaise",
+            "en": "Saint-Blaise Church"
+          },
+          "coords": [
+            3.4252,
+            46.1228
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckende schwarze Madonna im Inneren.",
+            "hu": "Nézze meg a lenyűgöző fekete Madonnát a belső térben.",
+            "ro": "Vizitați impresionanta Madonă Neagră din interior.",
+            "en": "Visit the impressive Black Madonna inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Arts d'Afrique et d'Asie",
+            "hu": "Afrika- és Ázsia-művészeti Múzeum",
+            "ro": "Muzeul de Artă Africană și Asiatică",
+            "en": "Museum of African and Asian Arts"
+          },
+          "coords": [
+            3.4265,
+            46.1242
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie exotische Sammlungen in einem historischen Gebäude.",
+            "hu": "Fedezzen fel egzotikus gyűjteményeket egy történelmi épületben.",
+            "ro": "Descoperiți colecții exotice într-o clădire istorică.",
+            "en": "Explore exotic collections in a historic building."
+          }
+        },
+        {
+          "name": {
+            "de": "Parcs d'Allier & Promenade",
+            "hu": "Allier-parkok és sétány",
+            "ro": "Parcurile Allier și Promenada",
+            "en": "Allier Parks & Promenade"
+          },
+          "coords": [
+            3.4205,
+            46.1255
+          ],
+          "category": "park",
+          "arrive_at": "16:20",
+          "stay_min": 140,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für den Sonnenuntergang am Flussufer.",
+            "hu": "Tökéletes hely a naplementéhez a folyóparton.",
+            "ro": "Un loc perfect pentru apusul de soare pe malul râului.",
+            "en": "A perfect spot for sunset by the riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Kurstadt. Probieren Sie das heilende Quellwasser in der majestätischen Hall des Sources, bevor Sie die prächtige Oper bewundern. Mittags spazieren Sie vorbei an den kaiserlichen Chalets aus der Zeit Napoleons III. und genießen die elegante Atmosphäre. Der Nachmittag ist der Kunst und Spiritualität gewidmet, mit einem Besuch der Eglise Saint-Blaise und ihrer schwarzen Madonna. Beenden Sie den Tag entspannt in den weitläufigen Parks am Ufer des Allier, während die Sonne langsam untergeht.",
+        "hu": "Kezdje a napot a fürdőváros szívében. Kóstolja meg a gyógyvizet a fenséges Hall des Sources-ban, mielőtt megcsodálná a pompás Operaházat. Délben sétáljon el a III. Napóleon korabeli császári faházak mellett, élvezve az elegáns légkört. A délután a művészeté és a spiritualitásé: látogasson el a Szent Balázs-templomba, ahol a fekete Madonnát őrzik. Zárja a napot pihentetően az Allier-folyó partján elterülő tágas parkokban, miközben a nap lassan lebukik a látóhatár alá.",
+        "ro": "Începeți ziua în inima orașului balnear. Gustați apa termală în maiestuoasa Hall des Sources înainte de a admira superba Operă. La prânz, plimbați-vă pe lângă cabanele imperiale din epoca lui Napoleon al III-lea, savurând atmosfera elegantă. După-amiaza este dedicată artei și spiritualității, cu o vizită la Biserica Sfântul Blaise și Madona sa neagră. Încheiați ziua relaxat în parcurile vaste de pe malul râului Allier, în timp ce soarele apune încet.",
+        "en": "Start your day in the heart of the spa town. Taste the healing waters at the majestic Hall des Sources before admiring the splendid Opera House. At midday, stroll past the imperial chalets from the Napoleon III era, enjoying the elegant atmosphere. The afternoon is dedicated to art and spirituality, with a visit to the Saint-Blaise Church and its Black Madonna. End the day relaxingly in the vast parks along the Allier riverbank as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pastilles de Vichy",
+            "tip": "Die berühmten Minzbonbons mit Mineralsalzen."
+          },
+          {
+            "name": "Brasserie du Casino",
+            "tip": "Klassische französische Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pastilles de Vichy",
+            "tip": "A híres mentás cukorka ásványi sókkal."
+          },
+          {
+            "name": "Brasserie du Casino",
+            "tip": "Klasszikus francia konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pastilles de Vichy",
+            "tip": "Celebrele bomboane mentolate cu săruri minerale."
+          },
+          {
+            "name": "Brasserie du Casino",
+            "tip": "Bucătărie franceză clasică într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastilles de Vichy",
+            "tip": "The famous mint candies made with mineral salts."
+          },
+          {
+            "name": "Brasserie du Casino",
+            "tip": "Classic French cuisine in a historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bords de l'Allier",
+            "tip": "Ruhiger Spaziergang am Flussufer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Napoléon III",
+            "tip": "Schatten und Entspannung unter alten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bords de l'Allier",
+            "tip": "Csendes séta a folyóparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Napoléon III",
+            "tip": "Árnyék és pihenés az öreg fák alatt.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bords de l'Allier",
+            "tip": "Plimbare liniștită pe malul râului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Napoléon III",
+            "tip": "Umbră și relaxare sub copaci bătrâni.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bords de l'Allier",
+            "tip": "Quiet stroll along the riverbank.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parc Napoléon III",
+            "tip": "Shade and relaxation under old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grand Marché de Vichy",
+            "tip": "Lokale Produkte und Spezialitäten aus der Auvergne."
+          },
+          {
+            "name": "Rue de l'Hôtel des Postes",
+            "tip": "Elegante Boutiquen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grand Marché de Vichy",
+            "tip": "Helyi termékek és Auvergne-i specialitások."
+          },
+          {
+            "name": "Rue de l'Hôtel des Postes",
+            "tip": "Elegáns butikok a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grand Marché de Vichy",
+            "tip": "Produse locale și specialități din Auvergne."
+          },
+          {
+            "name": "Rue de l'Hôtel des Postes",
+            "tip": "Boutique-uri elegante în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grand Marché de Vichy",
+            "tip": "Local products and specialties from Auvergne."
+          },
+          {
+            "name": "Rue de l'Hôtel des Postes",
+            "tip": "Elegant boutiques in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die meisten Sehenswürdigkeiten sind bequem zu Fuß erreichbar.",
+          "Bringen Sie eine eigene Flasche mit, um das Quellwasser zu probieren.",
+          "Die Oper kann nur im Rahmen von Führungen besichtigt werden.",
+          "Genießen Sie eine Pause in einem der vielen Cafés am Parc des Sources."
+        ],
+        "hu": [
+          "A legtöbb látnivaló kényelmesen elérhető gyalogosan.",
+          "Hozzon saját palackot, hogy megkóstolhassa a forrásvizet.",
+          "Az Operaház csak vezetett túrák keretében látogatható.",
+          "Élvezze a pihenést a Parc des Sources számos kávézójának egyikében."
+        ],
+        "ro": [
+          "Majoritatea obiectivelor turistice sunt ușor accesibile pe jos.",
+          "Aduceți o sticlă proprie pentru a gusta apa de izvor.",
+          "Opera poate fi vizitată doar în cadrul tururilor ghidate.",
+          "Savurați o pauză la una dintre numeroasele cafenele de lângă Parc des Sources."
+        ],
+        "en": [
+          "Most attractions are easily reachable on foot.",
+          "Bring your own bottle to taste the spring water.",
+          "The Opera House can only be visited during guided tours.",
+          "Enjoy a break at one of the many cafes near Parc des Sources."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc des Sources",
+            "hu": "Források Parkja",
+            "ro": "Parcul Izvoarelor",
+            "en": "Parc des Sources"
+          },
+          "coords": [
+            3.4267,
+            46.1278
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Vichy",
+            "hu": "Ó-Vichy",
+            "ro": "Vichy-ul Vechi",
+            "en": "Old Vichy"
+          },
+          "coords": [
+            3.425,
+            46.1225
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Enge Gassen und historische Häuser.",
+            "hu": "Szűk utcák és történelmi házak.",
+            "ro": "Străzi înguste și case istorice.",
+            "en": "Narrow streets and historic houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade des Berges de l'Allier",
+            "hu": "Allier-parti sétány",
+            "ro": "Promenada pe malul râului Allier",
+            "en": "Allier Riverbank Promenade"
+          },
+          "coords": [
+            3.418,
+            46.124
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flache und gut ausgebaute Radwege.",
+            "hu": "Sík és jól kiépített kerékpárutak.",
+            "ro": "Piste de biciclete plate și bine întreținute.",
+            "en": "Flat and well-maintained bike paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac d'Allier & Marina",
+            "hu": "Allier-tó és kikötő",
+            "ro": "Lacul Allier și Marina",
+            "en": "Allier Lake & Marina"
+          },
+          "coords": [
+            3.412,
+            46.13
+          ],
+          "category": "lake",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ideal für eine Mittagspause am Wasser.",
+            "hu": "Ideális egy vízparti ebédszünethez.",
+            "ro": "Ideal pentru o pauză de prânz lângă apă.",
+            "en": "Ideal for a lunch break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodrome de Vichy-Bellerive",
+            "hu": "Vichy-Bellerive lóversenypálya",
+            "ro": "Hipodromul Vichy-Bellerive",
+            "en": "Vichy-Bellerive Racecourse"
+          },
+          "coords": [
+            3.405,
+            46.125
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine der schönsten Rennbahnen Frankreichs.",
+            "hu": "Franciaország egyik legszebb lóversenypályája.",
+            "ro": "Unul dintre cele mai frumoase hipodromuri din Franța.",
+            "en": "One of the most beautiful racecourses in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Kennedy",
+            "hu": "Kennedy-park",
+            "ro": "Parcul Kennedy",
+            "en": "Kennedy Park"
+          },
+          "coords": [
+            3.418,
+            46.128
+          ],
+          "category": "park",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ruhiger Park abseits der Touristenströme.",
+            "hu": "Csendes park a turistatömegektől távol.",
+            "ro": "Parc liniștit, departe de mulțimile de turiști.",
+            "en": "Quiet park away from the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Café",
+            "hu": "Grand Café",
+            "ro": "Grand Café",
+            "en": "Grand Café"
+          },
+          "coords": [
+            3.4245,
+            46.1265
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prachtvolles Café im Stil der Jahrhundertwende.",
+            "hu": "Pompás kávéház a századforduló stílusában.",
+            "ro": "Cafenea superbă în stilul secolului trecut.",
+            "en": "Magnificent cafe in the style of the turn of the century."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Vichy auf zwei Rädern. Beginnen Sie im Zentrum und radeln Sie durch das historische Viertel 'Vieux Vichy'. Die flachen Wege entlang des Allier-Flusses bieten herrliche Ausblicke und frische Luft. Umrunden Sie den Lac d'Allier und besuchen Sie den beeindruckenden Hippodrom auf der anderen Seite des Flusses. Am Nachmittag genießen Sie die Ruhe in den weniger bekannten Parks, bevor Sie Ihre Tour bei einem Kaffee im legendären Grand Café stilvoll ausklingen lassen.",
+        "hu": "Fedezze fel Vichy-t két keréken. Kezdje a központban, és tekerjen át a történelmi 'Vieux Vichy' negyeden. Az Allier-folyó menti sík utak csodálatos kilátást és friss levegőt kínálnak. Kerülje meg az Allier-tavat, és látogasson el a folyó túloldalán található lenyűgöző lóversenypályára. Délután élvezze a csendet a kevésbé ismert parkokban, mielőtt túráját stílusosan zárná egy kávéval a legendás Grand Caféban.",
+        "ro": "Explorați Vichy pe două roți. Începeți în centru și pedalați prin cartierul istoric 'Vieux Vichy'. Traseele plate de-a lungul râului Allier oferă priveliști superbe și aer curat. Înconjurați Lacul Allier și vizitați hipodromul impresionant de pe cealaltă parte a râului. După-amiaza, bucurați-vă de liniște în parcurile mai puțin cunoscute, înainte de a vă încheia turul cu stil, la o cafea în legendarul Grand Café.",
+        "en": "Explore Vichy on two wheels. Start in the center and cycle through the historic 'Vieux Vichy' district. The flat paths along the Allier River offer wonderful views and fresh air. Circle the Allier Lake and visit the impressive racecourse on the other side of the river. In the afternoon, enjoy the peace in the lesser-known parks before ending your tour in style with a coffee at the legendary Grand Café."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Grand Marché",
+            "tip": "Holen Sie sich frisches Obst und Käse für ein Picknick am See."
+          },
+          {
+            "name": "Grand Café",
+            "tip": "Historisches Café mit fantastischem Dekor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Grand Marché",
+            "tip": "Vegyünk friss gyümölcsöt és sajtot egy tóparti piknikhez."
+          },
+          {
+            "name": "Grand Café",
+            "tip": "Történelmi kávéház fantasztikus dekorációval."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Grand Marché",
+            "tip": "Cumpărați fructe proaspete și brânză pentru un picnic la lac."
+          },
+          {
+            "name": "Grand Café",
+            "tip": "Cafenea istorică cu un decor fantastic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Grand Marché",
+            "tip": "Pick up fresh fruit and cheese for a lakeside picnic."
+          },
+          {
+            "name": "Grand Café",
+            "tip": "Historical cafe with fantastic decor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac d'Allier",
+            "tip": "Uferweg mit Blick auf das Wasser.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marina de Vichy",
+            "tip": "Beobachten Sie die Boote in der Sonne.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac d'Allier",
+            "tip": "Parti út kilátással a vízre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marina de Vichy",
+            "tip": "Figyelje a hajókat a napsütésben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lac d'Allier",
+            "tip": "Drum pe mal cu vedere la apă.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marina de Vichy",
+            "tip": "Urmăriți bărcile în soare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac d'Allier",
+            "tip": "Riverside path with water views.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marina de Vichy",
+            "tip": "Watch the boats in the sun.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Confiserie Moinet",
+            "tip": "Traditionelle Süßwaren seit 1852."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Confiserie Moinet",
+            "tip": "Hagyományos édességek 1852 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Confiserie Moinet",
+            "tip": "Dulciuri tradiționale din 1852."
+          }
+        ],
+        "en": [
+          {
+            "name": "Confiserie Moinet",
+            "tip": "Traditional confectionery since 1852."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vichy ist sehr fahrradfreundlich mit vielen flachen Wegen.",
+          "Nutzen Sie das 'Vivélo' Leihradsystem der Stadt.",
+          "Die Brücke über den Allier bietet einen tollen Panoramablick auf die Stadt.",
+          "Achten Sie in Fußgängerzonen auf Fußgänger."
+        ],
+        "hu": [
+          "Vichy nagyon kerékpárosbarát, sok sík úttal.",
+          "Használja a város 'Vivélo' közösségi kerékpárrendszerét.",
+          "Az Allier-híd remek panorámát kínál a városra.",
+          "A sétálóövezetekben figyeljen a gyalogosokra."
+        ],
+        "ro": [
+          "Vichy este foarte prietenos cu bicicliștii, având multe trasee plate.",
+          "Utilizați sistemul de închiriat biciclete 'Vivélo' al orașului.",
+          "Podul peste Allier oferă o vedere panoramică excelentă asupra orașului.",
+          "Aveți grijă la pietoni în zonele pietonale."
+        ],
+        "en": [
+          "Vichy is very bike-friendly with many flat paths.",
+          "Use the city's 'Vivélo' bike-sharing system.",
+          "The bridge over the Allier offers a great panoramic view of the city.",
+          "Be careful with pedestrians in pedestrian zones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 65.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Quartier Thermal",
+            "hu": "Termál negyed",
+            "ro": "Cartierul Termal",
+            "en": "Thermal District"
+          },
+          "coords": [
+            3.426,
+            46.128
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Parc des Sources.",
+            "hu": "Parkoljon a Parc des Sources közelében.",
+            "ro": "Parcați lângă Parc des Sources.",
+            "en": "Park near Parc des Sources."
+          }
+        },
+        {
+          "name": {
+            "de": "Charroux (Plus Beaux Villages)",
+            "hu": "Charroux (legszebb falvak egyike)",
+            "ro": "Charroux (cele mai frumoase sate)",
+            "en": "Charroux (One of the most beautiful villages)"
+          },
+          "coords": [
+            3.162,
+            46.185
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 32.0,
+          "tip_5lang": {
+            "de": "Ein mittelalterliches Juwel nur 30 km entfernt.",
+            "hu": "Egy középkori ékszerdoboz mindössze 30 km-re.",
+            "ro": "O bijuterie medievală la doar 30 km distanță.",
+            "en": "A medieval gem just 30 km away."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Busset",
+            "hu": "Busset kastélya",
+            "ro": "Castelul Busset",
+            "en": "Château de Busset"
+          },
+          "coords": [
+            3.513,
+            46.062
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 28.0,
+          "tip_5lang": {
+            "de": "Historische Festung mit Blick auf die Limagne.",
+            "hu": "Történelmi erődítmény kilátással a Limagne-síkságra.",
+            "ro": "Fortăreață istorică cu vedere spre câmpia Limagne.",
+            "en": "Historic fortress overlooking the Limagne plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Source des Célestins",
+            "hu": "Célestins-forrás",
+            "ro": "Izvorul Célestins",
+            "en": "Célestins Spring"
+          },
+          "coords": [
+            3.424,
+            46.12
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Die einzige Quelle, deren Wasser direkt in Flaschen abgefüllt wird.",
+            "hu": "Az egyetlen forrás, amelynek vizét közvetlenül palackozzák.",
+            "ro": "Singura sursă a cărei apă este îmbuteliată direct.",
+            "en": "The only spring whose water is bottled directly."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino de Vichy",
+            "hu": "Vichy Kaszinó",
+            "ro": "Cazinoul din Vichy",
+            "en": "Vichy Casino"
+          },
+          "coords": [
+            3.421,
+            46.126
+          ],
+          "category": "historical",
+          "arrive_at": "17:15",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eleganter Tagesabschluss im Stadtzentrum.",
+            "hu": "Elegáns napzárás a városközpontban.",
+            "ro": "Final de zi elegant în centrul orașului.",
+            "en": "Elegant end to the day in the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie nicht nur die Pracht von Vichy, sondern auch die Schätze der Umgebung. Nach einem morgendlichen Besuch im Thermalviertel fahren Sie nach Charroux, einem der schönsten Dörfer Frankreichs, berühmt für seinen Senf. Am Nachmittag besuchen Sie das beeindruckende Château de Busset, bevor Sie nach Vichy zurückkehren, um die Source des Célestins zu bewundern. Beenden Sie Ihre Tour am festlich beleuchteten Casino im Herzen der Stadt.",
+        "hu": "Autóval nemcsak Vichy pompáját fedezheti fel, hanem a környék kincseit is. A termál negyedben tett reggeli látogatás után vezessen el Charroux-ba, Franciaország egyik legszebb falujába, amely híres mustárjáról. Délután látogasson el a lenyűgöző Busset kastélyhoz, mielőtt visszatérne Vichy-be, hogy megcsodálja a Célestins-forrást. Túráját a város szívében található, ünnepélyesen kivilágított Kaszinónál zárja.",
+        "ro": "Cu mașina, veți descoperi nu doar splendoarea orașului Vichy, ci și comorile din împrejurimi. După o vizită de dimineață în cartierul termal, conduceți spre Charroux, unul dintre cele mai frumoase sate din Franța, faimos pentru muștarul său. După-amiaza, vizitați impresionantul Castel Busset înainte de a reveni în Vichy pentru a admira Izvorul Célestins. Încheiați turul la Cazinoul luminat festiv din inima orașului.",
+        "en": "By car, you will discover not only the splendor of Vichy but also the treasures of the surroundings. After a morning visit to the thermal district, drive to Charroux, one of France's most beautiful villages, famous for its mustard. In the afternoon, visit the impressive Château de Busset before returning to Vichy to admire the Célestins Spring. End your tour at the festively lit Casino in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moutarde de Charroux",
+            "tip": "Probieren Sie den handwerklich hergestellten Senf im Dorf."
+          },
+          {
+            "name": "La Table d'Antoine",
+            "tip": "Gehobene Gastronomie in Vichy."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Moutarde de Charroux",
+            "tip": "Kóstolja meg a kézműves mustárt a faluban."
+          },
+          {
+            "name": "La Table d'Antoine",
+            "tip": "Színvonalas gasztronómia Vichy-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moutarde de Charroux",
+            "tip": "Gustați muștarul artizanal produs în sat."
+          },
+          {
+            "name": "La Table d'Antoine",
+            "tip": "Gastronomie rafinată în Vichy."
+          }
+        ],
+        "en": [
+          {
+            "name": "Moutarde de Charroux",
+            "tip": "Taste the artisan mustard made in the village."
+          },
+          {
+            "name": "La Table d'Antoine",
+            "tip": "Fine dining in Vichy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busset Panorama",
+            "tip": "Blick über die Auvergne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Busset panoráma",
+            "tip": "Kilátás Auvergne-re.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Busset",
+            "tip": "Vedere peste regiunea Auvergne.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Busset Panorama",
+            "tip": "View over the Auvergne region.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Maison de la Moutarde",
+            "tip": "Kaufen Sie lokalen Senf und Essig in Charroux."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maison de la Moutarde",
+            "tip": "Vásároljon helyi mustárt és ecetet Charroux-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maison de la Moutarde",
+            "tip": "Cumpărați muștar și oțet local în Charroux."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maison de la Moutarde",
+            "tip": "Buy local mustard and vinegar in Charroux."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parkhaus 'Parking Poste' liegt zentral im Zentrum.",
+          "Die Straßen nach Charroux führen durch malerische Landschaften.",
+          "Parkplätze sind in Vichy oft kostenpflichtig, achten Sie auf die Automaten.",
+          "Reservieren Sie für das Abendessen in Vichy im Voraus."
+        ],
+        "hu": [
+          "A 'Parking Poste' parkolóház központi helyen található.",
+          "A Charroux-ba vezető utak festői tájakon haladnak keresztül.",
+          "A parkolás Vichy-ben gyakran fizetős, figyeljen az automatákra.",
+          "Vichy-ben érdemes előre asztalt foglalni vacsorához."
+        ],
+        "ro": [
+          "Parcarea 'Parking Poste' este situată central.",
+          "Drumurile spre Charroux trec prin peisaje pitorești.",
+          "Parcarea în Vichy este adesea cu plată, fiți atenți la automate.",
+          "Rezervați din timp pentru cină în Vichy."
+        ],
+        "en": [
+          "The 'Parking Poste' parking garage is centrally located.",
+          "The roads to Charroux lead through picturesque landscapes.",
+          "Parking in Vichy is often paid, look for the ticket machines.",
+          "Book in advance for dinner in Vichy."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Vichy",
+            "hu": "Vichy vasútállomás",
+            "ro": "Gara Vichy",
+            "en": "Vichy Train Station"
+          },
+          "coords": [
+            3.431,
+            46.126
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schönes Beispiel für die Bahnhofsarchitektur.",
+            "hu": "A vasúti építészet szép példája.",
+            "ro": "Un exemplu frumos de arhitectură feroviară.",
+            "en": "A beautiful example of railway architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie & Centre-Ville",
+            "hu": "Városháza és városközpont",
+            "ro": "Primăria și centrul orașului",
+            "en": "Town Hall & City Center"
+          },
+          "coords": [
+            3.424,
+            46.1265
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der Buslinien Mobivie.",
+            "hu": "A Mobivie buszvonalak központi csomópontja.",
+            "ro": "Nod central pentru liniile de autobuz Mobivie.",
+            "en": "Central hub for Mobivie bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Sources",
+            "hu": "Források Parkja",
+            "ro": "Parcul Izvoarelor",
+            "en": "Parc des Sources"
+          },
+          "coords": [
+            3.4267,
+            46.1278
+          ],
+          "category": "park",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Herzen der Kurstadt.",
+            "hu": "Élvezze a nyugalmat a fürdőváros szívében.",
+            "ro": "Bucurați-vă de liniște în inima orașului balnear.",
+            "en": "Enjoy the peace in the heart of the spa town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellerive-sur-Allier (Stade Aquatique)",
+            "hu": "Bellerive-sur-Allier (Vízi Stadion)",
+            "ro": "Bellerive-sur-Allier (Stadionul Acvatic)",
+            "en": "Bellerive-sur-Allier (Aquatic Stadium)"
+          },
+          "coords": [
+            3.408,
+            46.133
+          ],
+          "category": "park",
+          "arrive_at": "13:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Moderner Badekomplex auf der anderen Flussseite.",
+            "hu": "Modern fürdőkomplexum a folyó túloldalán.",
+            "ro": "Complex modern de înot pe cealaltă parte a râului.",
+            "en": "Modern swimming complex on the other side of the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Omnisports",
+            "hu": "Omnisport Központ",
+            "ro": "Centrul Omnisports",
+            "en": "Omnisports Center"
+          },
+          "coords": [
+            3.405,
+            46.138
+          ],
+          "category": "park",
+          "arrive_at": "16:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Große Grünflächen für Sport und Freizeit.",
+            "hu": "Hatalmas zöldfelületek sportoláshoz és szabadidőhöz.",
+            "ro": "Spații verzi mari pentru sport și recreere.",
+            "en": "Large green spaces for sports and leisure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das öffentliche Bussystem Mobivie, um Vichy und seine Umgebung stressfrei zu erkunden. Beginnen Sie am Bahnhof und fahren Sie ins Stadtzentrum, um das Rathaus und den Parc des Sources zu besuchen. Mittags überqueren Sie den Allier mit dem Bus, um den modernen Wasserstadion in Bellerive-sur-Allier zu erreichen – ein idealer Ort zur Entspannung. Beenden Sie Ihren Ausflug in den weitläufigen Grünanlagen des Omnisports-Zentrums, bevor Sie bequem zum Bahnhof zurückkehren.",
+        "hu": "Használja a Mobivie nyilvános buszhálózatot Vichy és környéke stresszmentes felfedezéséhez. Kezdje a vasútállomáson, majd utazzon be a városközpontba a városháza és a Parc des Sources meglátogatásához. Délben busszal keljen át az Allier-folyón a modern bellerive-sur-allier-i vízi stadionhoz, amely ideális hely a kikapcsolódásra. Zárja kirándulását az Omnisport Központ tágas zöldterületein, mielőtt kényelmesen visszatérne az állomásra.",
+        "ro": "Utilizați sistemul public de autobuze Mobivie pentru a explora Vichy și împrejurimile sale fără stres. Începeți de la gară și mergeți în centrul orașului pentru a vizita primăria și Parc des Sources. La prânz, traversați râul Allier cu autobuzul pentru a ajunge la modernul stadion acvatic din Bellerive-sur-Allier – un loc ideal pentru relaxare. Încheiați-vă excursia în spațiile verzi vaste ale centrului Omnisports înainte de a reveni confortabil la gară.",
+        "en": "Use the Mobivie public bus system to explore Vichy and its surroundings stress-free. Start at the train station and head to the city center to visit the town hall and Parc des Sources. At midday, cross the Allier by bus to reach the modern aquatic stadium in Bellerive-sur-Allier – an ideal place for relaxation. End your trip in the vast green areas of the Omnisports center before returning comfortably to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Hippocampe",
+            "tip": "Restaurant am Flussufer mit Blick auf das Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Hippocampe",
+            "tip": "Folyóparti étterem kilátással a vízre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Hippocampe",
+            "tip": "Restaurant pe malul râului cu vedere la apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Hippocampe",
+            "tip": "Riverside restaurant with water views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stade Aquatique",
+            "tip": "Entspannung in den Thermalbecken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vízi Stadion",
+            "tip": "Pihenés a termálvizes medencékben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stadionul Acvatic",
+            "tip": "Relaxare în bazinele termale.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Aquatic Stadium",
+            "tip": "Relaxation in the thermal pools.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Quatre Chemins",
+            "tip": "Modernes Einkaufszentrum im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Quatre Chemins",
+            "tip": "Modern bevásárlóközpont a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Quatre Chemins",
+            "tip": "Centru comercial modern în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Quatre Chemins",
+            "tip": "Modern shopping center in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die Mobivie-App für Fahrpläne in Echtzeit herunter.",
+          "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+          "Die Busse verkehren regelmäßig zwischen Vichy und Bellerive.",
+          "Am Sonntag ist der Fahrplan eingeschränkt."
+        ],
+        "hu": [
+          "Töltse le a Mobivie alkalmazást a valós idejű menetrendekhez.",
+          "A napijegy gyakran olcsóbb, mint az egyszeri jegyek.",
+          "A buszok rendszeresen járnak Vichy és Bellerive között.",
+          "Vasárnap a menetrend korlátozott."
+        ],
+        "ro": [
+          "Descărcați aplicația Mobivie pentru orare în timp real.",
+          "Un bilet de o zi este adesea mai ieftin decât călătoriile individuale.",
+          "Autobuzele circulă regulat între Vichy și Bellerive.",
+          "Duminica, programul este redus."
+        ],
+        "en": [
+          "Download the Mobivie app for real-time schedules.",
+          "A day ticket is often cheaper than individual fares.",
+          "Buses run regularly between Vichy and Bellerive.",
+          "On Sundays, the schedule is limited."
+        ]
+      }
+    }
+  }
+}

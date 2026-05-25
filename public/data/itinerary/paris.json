@@ -1,0 +1,1124 @@
+{
+  "city_id": "paris",
+  "anchor": {
+    "name": "Paris",
+    "coords": [
+      2.3522,
+      48.8566
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame székesegyház",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.3499,
+            48.853
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um die Fassade im Morgenlicht zu sehen.",
+            "hu": "Érkezz korán, hogy elkerüld a tömeget a téren.",
+            "ro": "Veniți devreme pentru a vedea fațada în lumina dimineții.",
+            "en": "Arrive early to admire the facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Chapelle",
+            "hu": "Sainte-Chapelle",
+            "ro": "Sainte-Chapelle",
+            "en": "Sainte-Chapelle"
+          },
+          "coords": [
+            2.345,
+            48.8554
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets im Voraus für die unglaublichen Glasmalereien.",
+            "hu": "Foglalj jegyet előre a lenyűgöző üvegablakokhoz.",
+            "ro": "Rezervați bilete în avans pentru vitraliile incredibile.",
+            "en": "Book tickets in advance for the incredible stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Neuf",
+            "hu": "Pont Neuf",
+            "ro": "Pont Neuf",
+            "en": "Pont Neuf"
+          },
+          "coords": [
+            2.3413,
+            48.857
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die älteste Brücke der Stadt bietet tolle Fotomöglichkeiten.",
+            "hu": "A város legrégebbi hídja, remek fotópont.",
+            "ro": "Cel mai vechi pod din oraș oferă oportunități foto grozave.",
+            "en": "The city's oldest bridge offers great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Louvre-Museum",
+            "hu": "Louvre Múzeum",
+            "ro": "Muzeul Luvru",
+            "en": "Louvre Museum"
+          },
+          "coords": [
+            2.3376,
+            48.8606
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Konzentrieren Sie sich auf einen Flügel, um nicht überfordert zu werden.",
+            "hu": "Válassz ki egy szárnyat, hogy ne vessz el a hatalmas gyűjteményben.",
+            "ro": "Concentrați-vă pe o singură aripă pentru a nu fi copleșit.",
+            "en": "Focus on one wing to avoid being overwhelmed."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Tuileries",
+            "hu": "Tuileriák kertje",
+            "ro": "Grădinile Tuileries",
+            "en": "Tuileries Garden"
+          },
+          "coords": [
+            2.3266,
+            48.8635
+          ],
+          "category": "park",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mieten Sie einen grünen Stuhl an einem der Brunnen.",
+            "hu": "Pihenj meg egy zöld fémszéken a szökőkutak mellett.",
+            "ro": "Închiriați un scaun verde lângă una dintre fântâni.",
+            "en": "Rent a green chair by one of the fountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Concorde",
+            "hu": "Place de la Concorde",
+            "ro": "Place de la Concorde",
+            "en": "Place de la Concorde"
+          },
+          "coords": [
+            2.3211,
+            48.8656
+          ],
+          "category": "square",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den Obelisken von Luxor in der Mitte.",
+            "hu": "Csodáld meg a luxori obeliszket a tér közepén.",
+            "ro": "Admirați obeliscul din Luxor din mijlocul pieței.",
+            "en": "Admire the Luxor Obelisk in the center of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Seine-Ufer",
+            "hu": "Szajna-part",
+            "ro": "Malurile Senei",
+            "en": "Seine Banks"
+          },
+          "coords": [
+            2.315,
+            48.863
+          ],
+          "category": "sunset",
+          "arrive_at": "16:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie bei Sonnenuntergang entlang der Kaimauern.",
+            "hu": "Sétálj a rakparton a naplementében.",
+            "ro": "Plimbați-vă de-a lungul cheiurilor la apus.",
+            "en": "Stroll along the quays at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Paris auf der Île de la Cité. Nach der Besichtigung der Notre-Dame und der Sainte-Chapelle überqueren Sie den Pont Neuf zum Louvre. Mittags genießen Sie die Kunstschätze, gefolgt von einem entspannten Spaziergang durch die Tuilerien. Der Tag endet majestätisch an der Place de la Concorde und mit einem goldenen Sonnenuntergang an der Seine.",
+        "hu": "Kezdd a napot Párizs történelmi szívében, az Île de la Cité szigeten. A Notre-Dame és a Sainte-Chapelle után a Pont Neuf hídon át érkezz a Louvre-hoz. Délután pihenj a Tuileriák kertjében, majd fejezd be a sétát a Place de la Concorde téren, végül élvezd az alkonyt a Szajna-parton, ahol a város fényei életre kelnek.",
+        "ro": "Începeți ziua în inima istorică a Parisului, pe Île de la Cité. După Notre-Dame și Sainte-Chapelle, traversați Pont Neuf spre Luvru. La prânz bucurați-vă de comorile de artă, urmate de o plimbare relaxantă prin Tuileries. Ziua se încheie maiestuos în Place de la Concorde și cu un apus auriu pe malul Senei.",
+        "en": "Start your day in the historic heart of Paris on Île de la Cité. After Notre-Dame and Sainte-Chapelle, cross Pont Neuf to the Louvre. Enjoy world-class art at midday, followed by a relaxed stroll through the Tuileries. The day ends majestically at Place de la Concorde with a golden sunset along the Seine banks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Angelina",
+            "tip": "Probieren Sie die berühmte heiße Schokolade 'L'Africain'."
+          },
+          {
+            "name": "Le Comptoir de la Gastronomie",
+            "tip": "Hervorragende Enten-Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angelina",
+            "tip": "Kóstold meg a híres 'L'Africain' sűrű forró csokoládét."
+          },
+          {
+            "name": "Le Comptoir de la Gastronomie",
+            "tip": "Kiváló kacsaételek és pástétomok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Angelina",
+            "tip": "Încercați celebra ciocolată caldă 'L'Africain'."
+          },
+          {
+            "name": "Le Comptoir de la Gastronomie",
+            "tip": "Specialități de rață excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Angelina",
+            "tip": "Try the famous 'L'Africain' thick hot chocolate."
+          },
+          {
+            "name": "Le Comptoir de la Gastronomie",
+            "tip": "Excellent duck specialties and terrines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square du Vert-Galant",
+            "tip": "Ein ruhiger Park an der Spitze der Insel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square du Vert-Galant",
+            "tip": "Csendes park a sziget csúcsán, remek kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square du Vert-Galant",
+            "tip": "Un parc liniștit în vârful insulei.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square du Vert-Galant",
+            "tip": "A quiet park at the tip of the island.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shakespeare and Company",
+            "tip": "Legendäre Buchhandlung am Linken Ufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shakespeare and Company",
+            "tip": "Legendás angol nyelvű könyvesbolt a Szajna mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Shakespeare and Company",
+            "tip": "Librărie legendară pe malul stâng."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shakespeare and Company",
+            "tip": "Legendary English-language bookstore."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Nutzen Sie die kostenlosen Trinkwasserbrunnen.",
+          "Achten Sie auf Taschendiebe in Touristenbereichen.",
+          "Genießen Sie ein Picknick am Flussufer."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a macskaköves utcákhoz.",
+          "Használd az utcai ivókutakat (Fontaine Wallace).",
+          "Vigyázz az értékeidre a forgalmas helyeken.",
+          "Próbálj ki egy pikniket a Szajna-parton."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru pavaj.",
+          "Folosiți fântânile gratuite cu apă potabilă.",
+          "Fiți atenți la hoții de buzunare în zonele aglomerate.",
+          "Savurați un picnic pe malul râului."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestones.",
+          "Use the free public drinking fountains.",
+          "Watch out for pickpockets in tourist areas.",
+          "Enjoy a picnic along the river bank."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eiffelturm",
+            "hu": "Eiffel-torony",
+            "ro": "Turnul Eiffel",
+            "en": "Eiffel Tower"
+          },
+          "coords": [
+            2.2945,
+            48.8584
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier für die besten Fotos ohne Schatten.",
+            "hu": "Kezdd itt a napot a legjobb fényekért.",
+            "ro": "Începeți aici pentru cele mai bune fotografii.",
+            "en": "Start here for the best photos without shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Invalides",
+            "hu": "Invalidusok háza",
+            "ro": "Domul Invalizilor",
+            "en": "Les Invalides"
+          },
+          "coords": [
+            2.3126,
+            48.855
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie Napoleons Grab unter der goldenen Kuppel.",
+            "hu": "Nézd meg Napóleon sírját az aranykupola alatt.",
+            "ro": "Vizitați mormântul lui Napoleon sub cupola aurie.",
+            "en": "Visit Napoleon's tomb under the golden dome."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Orsay",
+            "hu": "Musée d'Orsay",
+            "ro": "Muzeul d'Orsay",
+            "en": "Musée d'Orsay"
+          },
+          "coords": [
+            2.3265,
+            48.8599
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein alter Bahnhof, der nun Meisterwerke beherbergt.",
+            "hu": "Egy régi vasútállomás, amely impresszionista remekműveket rejt.",
+            "ro": "O fostă gară care adăpostește capodopere.",
+            "en": "An old train station housing impressionist masterpieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Germain-des-Prés",
+            "hu": "Saint-Germain-des-Prés",
+            "ro": "Saint-Germain-des-Prés",
+            "en": "Saint-Germain-des-Prés"
+          },
+          "coords": [
+            2.3333,
+            48.8537
+          ],
+          "category": "gastro",
+          "arrive_at": "13:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das Viertel der Literaten und Cafés.",
+            "hu": "Az irodalmárok és a híres kávézók negyede.",
+            "ro": "Cartierul literaților și al cafenelelor.",
+            "en": "The district of writers and famous cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Luxembourg",
+            "hu": "Luxembourg-kert",
+            "ro": "Grădina Luxemburg",
+            "en": "Luxembourg Gardens"
+          },
+          "coords": [
+            2.3372,
+            48.8462
+          ],
+          "category": "park",
+          "arrive_at": "14:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für eine entspannte Pause im Grünen.",
+            "hu": "Tökéletes hely egy kis pihenésre a zöldben.",
+            "ro": "Ideal pentru o pauză relaxantă în natură.",
+            "en": "Ideal for a relaxed break in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Panthéon",
+            "hu": "Panthéon",
+            "ro": "Panteonul",
+            "en": "Panthéon"
+          },
+          "coords": [
+            2.3464,
+            48.8462
+          ],
+          "category": "historical",
+          "arrive_at": "16:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die letzte Ruhestätte der großen Persönlichkeiten Frankreichs.",
+            "hu": "Franciaország nagyjainak nyughelye a Latin negyedben.",
+            "ro": "Locul de odihnă al marilor personalități ale Franței.",
+            "en": "The resting place of France's greatest citizens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das Linke Ufer von Paris mit dem Fahrrad. Vom Eiffelturm aus fahren Sie vorbei an den Invalides zum Musée d'Orsay. Genießen Sie die Atmosphäre in Saint-Germain, bevor Sie durch den herrlichen Jardin du Luxembourg radeln. Der Tag endet im beeindruckenden Panthéon im Herzen des Quartier Latin.",
+        "hu": "Fedezd fel a Szajna bal partját kerékpáron! Az Eiffel-toronytól indulva az Invalidusokon át tekerj el a Musée d'Orsay-ig. Érezd át Saint-Germain hangulatát, majd kerekezz át a gyönyörű Luxembourg-kerten. A napot a Latin negyed szívében, az impozáns Panthéonnál zárhatod.",
+        "ro": "Descoperiți malul stâng al Parisului cu bicicleta. De la Turnul Eiffel, pedalați pe lângă Invalides spre Muzeul d'Orsay. Bucurați-vă de atmosfera din Saint-Germain înainte de a trece prin Grădinile Luxemburg. Ziua se încheie la impresionantul Panteon, în inima Cartierului Latin.",
+        "en": "Explore the Left Bank of Paris by bike. From the Eiffel Tower, ride past Invalides to Musée d'Orsay. Soak up the Saint-Germain atmosphere before cycling through the magnificent Luxembourg Gardens. The day ends at the impressive Panthéon in the heart of the Latin Quarter."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Deux Magots",
+            "tip": "Historisches Café in Saint-Germain."
+          },
+          {
+            "name": "Laduree",
+            "tip": "Die besten Macarons der Welt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Deux Magots",
+            "tip": "Történelmi kávéház Saint-Germain szívében."
+          },
+          {
+            "name": "Ladurée",
+            "tip": "Világhírű és színes macaronok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Deux Magots",
+            "tip": "Cafenea istorică în Saint-Germain."
+          },
+          {
+            "name": "Ladurée",
+            "tip": "Cele mai bune macarons din lume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Deux Magots",
+            "tip": "Historic cafe in Saint-Germain-des-Prés."
+          },
+          {
+            "name": "Ladurée",
+            "tip": "World-famous colorful macarons."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arènes de Lutèce",
+            "tip": "Ein römisches Amphitheater versteckt im Quartier Latin.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arènes de Lutèce",
+            "tip": "Rejtett római amfiteátrum a Latin negyedben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arènes de Lutèce",
+            "tip": "Un amfiteatru roman ascuns în Cartierul Latin.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arènes de Lutèce",
+            "tip": "A hidden Roman amphitheater in the Latin Quarter.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Bon Marché",
+            "tip": "Das eleganteste Kaufhaus der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bon Marché",
+            "tip": "A város legelegánsabb áruháza."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bon Marché",
+            "tip": "Cel mai elegant magazin universal din oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bon Marché",
+            "tip": "The city's most elegant department store."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das Vélib-System für Leihfahrräder.",
+          "Fahren Sie vorsichtig auf den Busspuren.",
+          "Schließen Sie Ihr Rad immer sicher ab.",
+          "Vermeiden Sie das Radfahren bei starkem Regen."
+        ],
+        "hu": [
+          "Használd a Vélib közösségi kerékpárrendszert.",
+          "Közlekedj óvatosan a buszsávokban.",
+          "Mindig zárd le biztonságosan a biciklit.",
+          "A Szajna-parti bicikliutak a legbiztonságosabbak."
+        ],
+        "ro": [
+          "Folosiți sistemul Vélib pentru închiriere.",
+          "Circulați cu atenție pe benzile de autobuz.",
+          "Încuiați întotdeauna bicicleta în siguranță.",
+          "Evitați mersul pe bicicletă pe ploaie torențială."
+        ],
+        "en": [
+          "Use the Vélib bike-sharing system.",
+          "Ride carefully in the bus lanes.",
+          "Always lock your bike securely.",
+          "The riverside bike paths are the most scenic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Trocadéro",
+            "hu": "Trocadéro",
+            "ro": "Trocadéro",
+            "en": "Trocadéro"
+          },
+          "coords": [
+            2.2875,
+            48.863
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beste Aussicht auf den Eiffelturm von oben.",
+            "hu": "Innen nyílik a legjobb kilátás az Eiffel-toronyra.",
+            "ro": "Cea mai bună vedere spre Turnul Eiffel.",
+            "en": "Best view of the Eiffel Tower from the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Arc de Triomphe",
+            "hu": "Diadalív",
+            "ro": "Arcul de Triumf",
+            "en": "Arc de Triomphe"
+          },
+          "coords": [
+            2.295,
+            48.8738
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Unterführung, um zum Bogen zu gelangen.",
+            "hu": "Használd az aluljárót, ne próbálj meg átszaladni a körforgalmon.",
+            "ro": "Folosiți pasajul subteran pentru a ajunge la arc.",
+            "en": "Use the underground passage to reach the arch."
+          }
+        },
+        {
+          "name": {
+            "de": "Champs-Élysées",
+            "hu": "Champs-Élysées",
+            "ro": "Champs-Élysées",
+            "en": "Champs-Élysées"
+          },
+          "coords": [
+            2.3075,
+            48.8698
+          ],
+          "category": "shopping",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die prachtvollste Allee der Welt erkunden.",
+            "hu": "Séta a világ egyik leghíresebb sugárútján.",
+            "ro": "Explorați cel mai frumos bulevard din lume.",
+            "en": "Explore the most famous avenue in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit Palais",
+            "hu": "Petit Palais",
+            "ro": "Petit Palais",
+            "en": "Petit Palais"
+          },
+          "coords": [
+            2.3146,
+            48.8661
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Eintritt zur permanenten Sammlung ist kostenlos.",
+            "hu": "Az állandó gyűjtemény megtekintése ingyenes.",
+            "ro": "Intrarea la colecția permanentă este gratuită.",
+            "en": "Entry to the permanent collection is free."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Versailles",
+            "hu": "Versailles-i kastély",
+            "ro": "Palatul Versailles",
+            "en": "Palace of Versailles"
+          },
+          "coords": [
+            2.1204,
+            48.8049
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 180,
+          "hop_from_prev_min": 67,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Ein Muss außerhalb der Stadt; planen Sie Zeit für die Gärten ein.",
+            "hu": "Kihagyhatatlan kirándulás; hagyj időt a kertre is.",
+            "ro": "O vizită obligatorie; alocați timp pentru grădini.",
+            "en": "A must-see excursion; allow plenty of time for the gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour führt Sie zu den monumentalen Wahrzeichen von Paris und schließlich nach Versailles. Starten Sie am Trocadéro für den ikonischen Eiffelturm-Blick, fahren Sie um den Arc de Triomphe und die Champs-Élysées hinunter. Nach Kultur im Petit Palais verlassen Sie die Stadt für den königlichen Glanz von Versailles.",
+        "hu": "Ez az autós túra Párizs monumentális jelképeihez és Versailles-ba vezet. Kezdj a Trocadéro teraszon, hajts át a Diadalív körforgalmán és végig a Champs-Élysées-n. A Petit Palais művészete után hagyd el a várost, hogy felfedezd a Napkirály lenyűgöző palotáját.",
+        "ro": "Acest tur vă conduce la monumentele emblematice ale Parisului și în final la Versailles. Începeți la Trocadéro pentru vederea iconică, conduceți în jurul Arcului de Triumf și pe Champs-Élysées. După cultura de la Petit Palais, părăsiți orașul pentru splendoarea regală de la Versailles.",
+        "en": "This car tour takes you to Paris's monumental landmarks and finally to Versailles. Start at Trocadéro for the iconic Eiffel view, drive around the Arc de Triomphe and down the Champs-Élysées. After some culture at Petit Palais, head out of the city for the royal grandeur of Versailles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Avenue",
+            "tip": "Exklusives Restaurant an den Champs-Élysées."
+          },
+          {
+            "name": "Le Train Bleu",
+            "tip": "Prachtvolles Interieur am Gare de Lyon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Avenue",
+            "tip": "Exkluzív étterem a Champs-Élysées-n."
+          },
+          {
+            "name": "Le Train Bleu",
+            "tip": "Lenyűgöző barokk belső tér az állomáson."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Avenue",
+            "tip": "Restaurant exclusivist pe Champs-Élysées."
+          },
+          {
+            "name": "Le Train Bleu",
+            "tip": "Interior magnific la Gare de Lyon."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Avenue",
+            "tip": "Exclusive restaurant on the Champs-Élysées."
+          },
+          {
+            "name": "Le Train Bleu",
+            "tip": "Magnificent interior inside the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin du Petit Palais",
+            "tip": "Ein versteckter Innenhof mit Café.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin du Petit Palais",
+            "tip": "Rejtett belső kert kávézóval.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin du Petit Palais",
+            "tip": "O curte interioară ascunsă cu cafenea.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin du Petit Palais",
+            "tip": "A hidden courtyard garden with a cafe.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Avenue Montaigne",
+            "tip": "Die Straße der Haute Couture."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Avenue Montaigne",
+            "tip": "A luxusmárkák és a divat utcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Avenue Montaigne",
+            "tip": "Strada pentru haute couture."
+          }
+        ],
+        "en": [
+          {
+            "name": "Avenue Montaigne",
+            "tip": "The street for high-end haute couture."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Rushhour am Morgen.",
+          "Parkhäuser sind teuer, aber sicher.",
+          "Nutzen Sie ein Navi für den Kreisverkehr am Diadalív.",
+          "Buchen Sie Versailles-Tickets mit festem Zeitfenster."
+        ],
+        "hu": [
+          "Kerüld a reggeli csúcsforgalmat.",
+          "A parkolóházak drágák, de biztonságosak.",
+          "Használj GPS-t a Diadalív körforgalmában.",
+          "Versailles-ba mindig időpontra szóló jegyet vegyél."
+        ],
+        "ro": [
+          "Evitați orele de vârf de dimineață.",
+          "Parcările subterane sunt scumpe, dar sigure.",
+          "Folosiți GPS pentru sensul giratoriu de la Arc.",
+          "Rezervați bilete la Versailles cu oră fixă."
+        ],
+        "en": [
+          "Avoid the morning rush hour.",
+          "Parking garages are expensive but safer.",
+          "Use navigation for the Arc de Triomphe roundabout.",
+          "Always book Versailles tickets for a specific time slot."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Montmartre / Sacré-Cœur",
+            "hu": "Montmartre / Sacré-Cœur",
+            "ro": "Montmartre / Sacré-Cœur",
+            "en": "Montmartre / Sacré-Cœur"
+          },
+          "coords": [
+            2.3429,
+            48.8867
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Standseilbahn den Hügel hinauf.",
+            "hu": "Használd a siklót, hogy feljuss a dombtetőre.",
+            "ro": "Luați funicularul pentru a urca dealul.",
+            "en": "Take the funicular to reach the top of the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Marais",
+            "hu": "Le Marais",
+            "ro": "Le Marais",
+            "en": "Le Marais"
+          },
+          "coords": [
+            2.3575,
+            48.859
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen mittelalterlichen Gassen.",
+            "hu": "Sétálj a középkori hangulatú szűk utcákon.",
+            "ro": "Plimbați-vă pe străzile înguste medievale.",
+            "en": "Stroll through the narrow medieval streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Vosges",
+            "hu": "Place des Vosges",
+            "ro": "Place des Vosges",
+            "en": "Place des Vosges"
+          },
+          "coords": [
+            2.3653,
+            48.8555
+          ],
+          "category": "square",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der schönste Platz in Paris mit symmetrischer Architektur.",
+            "hu": "Párizs legszebb és legszimmetrikusabb tere.",
+            "ro": "Cea mai frumoasă piață din Paris cu arhitectură simetrică.",
+            "en": "The most beautiful square in Paris with symmetrical design."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Bastille",
+            "hu": "Bastille tér",
+            "ro": "Piața Bastille",
+            "en": "Place de la Bastille"
+          },
+          "coords": [
+            2.3698,
+            48.8531
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ort der Französischen Revolution, heute ein Opernplatz.",
+            "hu": "A francia forradalom helyszíne, ma modern operaház áll itt.",
+            "ro": "Locul Revoluției Franceze, astăzi piața operei.",
+            "en": "Site of the French Revolution, now an opera square."
+          }
+        },
+        {
+          "name": {
+            "de": "Père Lachaise",
+            "hu": "Père-Lachaise temető",
+            "ro": "Cimitirul Père Lachaise",
+            "en": "Père Lachaise Cemetery"
+          },
+          "coords": [
+            2.3933,
+            48.8606
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gräber von Jim Morrison und Oscar Wilde.",
+            "hu": "Keresd meg Jim Morrison és Oscar Wilde sírját.",
+            "ro": "Vizitați mormintele lui Jim Morrison și Oscar Wilde.",
+            "en": "Visit the graves of Jim Morrison and Oscar Wilde."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal Saint-Martin",
+            "hu": "Canal Saint-Martin",
+            "ro": "Canal Saint-Martin",
+            "en": "Canal Saint-Martin"
+          },
+          "coords": [
+            2.367,
+            48.874
+          ],
+          "category": "sunset",
+          "arrive_at": "15:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Das Trendviertel am Wasser zum Entspannen.",
+            "hu": "A helyiek kedvenc csatornapartja a pihenéshez.",
+            "ro": "Cartierul la modă de pe malul canalului.",
+            "en": "The trendy district along the water to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Metro, um das authentische Paris zu erleben. Starten Sie auf dem Hügel von Montmartre mit Panoramablick. Tauchen Sie ein in das trendige Marais und entspannen Sie auf der Place des Vosges. Nach einem Spaziergang über den Friedhof Père Lachaise lassen Sie den Tag am malerischen Canal Saint-Martin ausklingen.",
+        "hu": "Használd a metrót, hogy felfedezd az igazi Párizst! Kezdj a Montmartre tetején a kilátással, majd merülj el a Marais negyed forgatagában. Pihenj a Place des Vosges árkádjai alatt, látogasd meg a Père-Lachaise temetőt, végül élvezd a Canal Saint-Martin partjának bohém hangulatát.",
+        "ro": "Folosiți metroul pentru a experimenta Parisul autentic. Începeți pe dealul Montmartre cu vedere panoramică. Scufundați-vă în cartierul Marais și relaxați-vă în Place des Vosges. După o plimbare prin cimitirul Père Lachaise, încheiați ziua pe malul pitoresc al Canalului Saint-Martin.",
+        "en": "Use the metro to experience the authentic vibe of Paris. Start on the hill of Montmartre for panoramic views. Dive into the trendy Marais and relax at Place des Vosges. After a walk through Père Lachaise Cemetery, end your day by the picturesque Canal Saint-Martin."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'As du Fallafel",
+            "tip": "Die besten Falafel im Marais."
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "tip": "Hervorragendes Gebäck am Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'As du Fallafel",
+            "tip": "A világ legjobb falafele a zsidó negyedben."
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "tip": "Kiváló kézműves pékség a csatornánál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'As du Fallafel",
+            "tip": "Cel mai bun falafel din Marais."
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "tip": "Patiserie excelentă lângă canal."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'As du Fallafel",
+            "tip": "World-famous falafel in the Jewish quarter."
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "tip": "Excellent artisanal bakery near the canal."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square du Temple",
+            "tip": "Ein friedlicher Garten im 3. Bezirk.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square du Temple",
+            "tip": "Békés kert a 3. kerületben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square du Temple",
+            "tip": "O grădină liniștită în arondismentul 3.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square du Temple",
+            "tip": "A peaceful garden in the 3rd arrondissement.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Merci",
+            "tip": "Trendiger Concept Store im Marais."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Merci",
+            "tip": "Népszerű és stílusos koncepcióüzlet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Merci",
+            "tip": "Concept store modern în Marais."
+          }
+        ],
+        "en": [
+          {
+            "name": "Merci",
+            "tip": "Trendy and stylish concept store in Marais."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für die Metro.",
+          "Vermeiden Sie die Linie 13 zur Hauptverkehrszeit.",
+          "Die Metro-Stationen sind oft kleine Kunstwerke.",
+          "Achten Sie auf die Ausgänge (Sortie)."
+        ],
+        "hu": [
+          "Vegyél napijegyet (Mobilis) a metróhoz.",
+          "Kerüld a 13-as vonalat a csúcsidőben.",
+          "A metróállomások gyakran önmagukban is látványosak.",
+          "Figyeld a 'Sortie' feliratokat a kijárathoz."
+        ],
+        "ro": [
+          "Cumpărați un abonament de o zi pentru metrou.",
+          "Evitați linia 13 la orele de vârf.",
+          "Stațiile de metrou sunt adesea mici opere de artă.",
+          "Fiți atenți la semnele pentru ieșire (Sortie)."
+        ],
+        "en": [
+          "Buy a day pass (Mobilis) for the metro.",
+          "Avoid Line 13 during rush hours.",
+          "Metro stations are often artworks themselves.",
+          "Follow the 'Sortie' signs for exits."
+        ]
+      }
+    }
+  }
+}

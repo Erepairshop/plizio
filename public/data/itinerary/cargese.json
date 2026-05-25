@@ -1,0 +1,1072 @@
+{
+  "city_id": "cargese",
+  "anchor": {
+    "name": "Cargèse",
+    "coords": [
+      8.5953,
+      42.135
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieille Ville",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            8.5953,
+            42.1351
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die griechischen Straßennamen.",
+            "hu": "Figyeld a görög feliratú utcatáblákat.",
+            "ro": "Observați numele străzilor în greacă.",
+            "en": "Look for the Greek street names."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Grecque",
+            "hu": "Görög templom",
+            "ro": "Biserica Greacă",
+            "en": "Greek Church"
+          },
+          "coords": [
+            8.5945,
+            42.1348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ikonostase aus dem 17. Jahrhundert.",
+            "hu": "Csodáld meg a 17. századi ikonfalat.",
+            "ro": "Admirați iconostasul din secolul al XVII-lea.",
+            "en": "Admire the 17th-century iconostasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Latine",
+            "hu": "Latin templom",
+            "ro": "Biserica Latină",
+            "en": "Latin Church"
+          },
+          "coords": [
+            8.5955,
+            42.1345
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Golf von Sagone.",
+            "hu": "Élvezd a kilátást a Sagone-öbölre.",
+            "ro": "Bucurați-vă de vederea spre Golful Sagone.",
+            "en": "Enjoy the view over the Gulf of Sagone."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Plaisance",
+            "hu": "Kikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina"
+          },
+          "coords": [
+            8.5965,
+            42.1325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für einen Kaffee direkt am Wasser.",
+            "hu": "Tökéletes hely egy kávéhoz a vízparton.",
+            "ro": "Ideal pentru o cafea pe malul apei.",
+            "en": "Perfect for a coffee by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Menasina",
+            "hu": "Menasina strand",
+            "ro": "Plaja Menasina",
+            "en": "Menasina Beach"
+          },
+          "coords": [
+            8.6015,
+            42.1255
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Glasklares Wasser, ideal zum Schnorcheln.",
+            "hu": "Kristálytiszta víz, ideális sznorkelezéshez.",
+            "ro": "Apă cristalină, ideală pentru snorkeling.",
+            "en": "Crystal clear water, ideal for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Antoine",
+            "hu": "Szent Antal kápolna",
+            "ro": "Capela Sfântul Anton",
+            "en": "Chapelle Saint-Antoine"
+          },
+          "coords": [
+            8.5975,
+            42.1335
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für den Abschluss des Tages.",
+            "hu": "Csendes hely a nap lezárásához.",
+            "ro": "Un loc liniștit pentru finalul zilei.",
+            "en": "A quiet spot to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die verwinkelten Gassen von Cargèse, die von der griechischen Einwanderung im 17. Jahrhundert geprägt sind. Mittags besuchen Sie die zwei ikonischen Kirchen, die sich gegenüberstehen – ein Symbol religiöser Toleranz. Am Nachmittag entspannen Sie am türkisfarbenen Wasser der Plage de Menasina. Den Abend lassen Sie ruhig im Hafen oder bei der kleinen Kapelle Saint-Antoine mit Blick auf das Meer ausklingen.",
+        "hu": "Reggel Cargèse kanyargós utcáin kalandozunk, ahol a 17. századi görög betelepülés nyomait kutatjuk. Délben meglátogatjuk a két ikonikus templomot, melyek egymással szemben állnak – a vallási türelem jelképei. Délután a Menasina strand türkizkék vizében pihenünk. Az estét a kikötőben vagy a tengerre néző Szent Antal kápolnánál zárjuk egy békés pillanattal.",
+        "ro": "Dimineața explorați străzile șerpuite din Cargèse, marcate de imigrația greacă din secolul al XVII-lea. La prânz, vizitați cele două biserici iconice care stau față în față – un simbol al toleranței religioase. După-amiaza vă relaxați pe apele turcoaz ale plajei Menasina. Seara se încheie liniștit în port sau la mica capelă Saint-Antoine, cu vedere spre mare.",
+        "en": "In the morning, explore the winding streets of Cargèse, shaped by the Greek immigration of the 17th century. At midday, visit the two iconic churches facing each other – a symbol of religious tolerance. In the afternoon, relax by the turquoise waters of Menasina Beach. End the evening peacefully at the marina or by the Saint-Antoine chapel overlooking the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Brocciu Omelette",
+            "tip": "Probieren Sie diesen korsischen Frischkäse in einem Omelett."
+          },
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Frischer Fisch direkt im Hafen von Cargèse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brocciu omlett",
+            "hu": "Kóstold meg ezt a friss juhsajtot egy klasszikus omlettben."
+          },
+          {
+            "name": "Restaurant L'Ancre",
+            "hu": "Friss tengeri halak közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Omletă cu Brocciu",
+            "tip": "Gustați această brânză proaspătă corsicană într-o omletă."
+          },
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Pește proaspăt direct în portul din Cargèse."
+          }
+        ],
+        "en": [
+          {
+            "name": "Brocciu Omelette",
+            "tip": "Try this iconic Corsican fresh cheese in a local omelette."
+          },
+          {
+            "name": "Restaurant L'Ancre",
+            "tip": "Fresh seafood served right at the Cargèse marina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Chapelle Saint-Antoine",
+            "tip": "Stille und herrlicher Panoramablick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Ruhiger Küstenpfad.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Antal kápolna",
+            "tip": "Csend és lenyűgöző panoráma.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vámszedők ösvénye",
+            "tip": "Nyugodt tengerparti sétaút.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sfântul Anton",
+            "tip": "Liniște și o panoramă magnifică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sentier des Douaniers",
+            "tip": "Traseu de coastă liniștit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saint-Antoine Chapel",
+            "tip": "Silence and a magnificent panoramic view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Customs Path",
+            "tip": "A quiet coastal path for a peaceful walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "A Loghja",
+            "tip": "Lokale korsische Spezialitäten und Weine."
+          },
+          {
+            "name": "Korsisches Kunsthandwerk",
+            "tip": "Handgefertigte Messer und Korallenschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Loghja",
+            "tip": "Helyi korzikai specialitások és borok."
+          },
+          {
+            "name": "Korzikai kézműves bolt",
+            "tip": "Kézzel készített kések és korall ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "A Loghja",
+            "tip": "Specialități locale corsicane și vinuri."
+          },
+          {
+            "name": "Artizanat Corsican",
+            "tip": "Cuțite lucrate manual și bijuterii din corali."
+          }
+        ],
+        "en": [
+          {
+            "name": "A Loghja",
+            "tip": "Local Corsican specialties and regional wines."
+          },
+          {
+            "name": "Corsican Crafts",
+            "tip": "Handmade knives and coral jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da das Dorf steile Gassen hat.",
+          "Die Kirchen sind oft nur vormittags geöffnet.",
+          "Parken Sie am Dorfeingang, das Zentrum ist eng.",
+          "Nehmen Sie genug Wasser für den Weg zum Strand mit."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt, a falu utcái elég meredekek.",
+          "A templomok gyakran csak délelőtt tartanak nyitva.",
+          "Parkolj a falu szélén, a központ nagyon szűk.",
+          "Vigyél magaddal elég vizet a strand felé vezető útra."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, străzile sunt abrupte.",
+          "Bisericile sunt adesea deschise doar dimineața.",
+          "Parcați la intrarea în sat, centrul este foarte strâmt.",
+          "Luați suficientă apă pentru drumul spre plajă."
+        ],
+        "en": [
+          "Wear comfortable shoes as the village has steep alleys.",
+          "Churches are often only open in the morning.",
+          "Park at the village entrance, the center is very narrow.",
+          "Carry enough water for the walk to the beach."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Plaisance",
+            "hu": "Kikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina"
+          },
+          "coords": [
+            8.5965,
+            42.1325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Küstentouren.",
+            "hu": "Tökéletes startpont a parti túrákhoz.",
+            "ro": "Punct de plecare pentru tururi de coastă.",
+            "en": "Starting point for coastal tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pero",
+            "hu": "Pero strand",
+            "ro": "Plaja Pero",
+            "en": "Pero Beach"
+          },
+          "coords": [
+            8.5855,
+            42.1455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Langer Sandstrand, ideal für eine Pause.",
+            "hu": "Hosszú homokos part, ideális pihenőhely.",
+            "ro": "Plajă lungă cu nisip, ideală pentru o pauză.",
+            "en": "Long sandy beach, ideal for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour d'Omigna",
+            "hu": "Omigna torony",
+            "ro": "Turnul Omigna",
+            "en": "Omigna Tower"
+          },
+          "coords": [
+            8.5655,
+            42.1485
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein einsamer Genueserturm auf der Klippe.",
+            "hu": "Magányos genoai torony a szikla szélén.",
+            "ro": "Un turn genovez solitar pe faleză.",
+            "en": "A solitary Genoese tower on the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Chiuni",
+            "hu": "Chiuni strand",
+            "ro": "Plaja Chiuni",
+            "en": "Chiuni Beach"
+          },
+          "coords": [
+            8.5755,
+            42.1655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beliebter Strand mit Wassersportmöglichkeiten.",
+            "hu": "Népszerű strand vízi sport lehetőségekkel.",
+            "ro": "Plajă populară cu facilități pentru sporturi nautice.",
+            "en": "Popular beach with water sports options."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieille Ville",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            8.5953,
+            42.1351
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis zum Abschluss.",
+            "hu": "Zárd a napot egy kézműves fagyival.",
+            "ro": "Bucurați-vă de o înghețată la final.",
+            "en": "Enjoy an ice cream at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der wilden Küste nördlich von Cargèse. Sie starten am Hafen und radeln zum weiten Strand von Pero. Das Highlight ist die Fahrt zur Omigna-Spitze, wo ein stolzer Genueserturm über das Meer wacht. Nach einer Pause am Strand von Chiuni kehren Sie ins Dorf zurück, während die Sonne langsam tiefer sinkt und die Felsen rot färbt.",
+        "hu": "Ez a kerékpártúra Cargèse-től északra, a vad tengerpart mentén vezet. A kikötőből indulva tekerünk a tágas Pero strandig. A túra fénypontja az Omigna-fok, ahol egy büszke genoai torony őrzi a vizet. A Chiuni strandon tartott pihenő után térünk vissza a faluba, miközben a lemenő nap vörösre festi a parti sziklákat.",
+        "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei sălbatice la nord de Cargèse. Începeți din port și pedalați spre plaja largă Pero. Punctul culminant este drumul spre vârful Omigna, unde un turn genovez mândru veghează marea. După o pauză pe plaja Chiuni, reveniți în sat în timp ce soarele apune lent, colorând stâncile în roșu.",
+        "en": "This bike tour takes you along the wild coast north of Cargèse. Starting at the marina, cycle to the wide Pero beach. The highlight is the ride to the Omigna point, where a proud Genoese tower watches over the sea. After a break at Chiuni beach, return to the village as the setting sun begins to paint the rocks red."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korsischer Honig",
+            "tip": "Probieren Sie den 'Mele di Corsica' auf einem Baguette."
+          },
+          {
+            "name": "Beach Bar Chiuni",
+            "tip": "Leichte Sommersalate mit Blick aufs Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korzikai méz",
+            "tip": "Kóstold meg a helyi mézet friss baguette-tel."
+          },
+          {
+            "name": "Beach Bar Chiuni",
+            "tip": "Könnyű nyári saláták tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de Corsica",
+            "tip": "Gustați 'Mele di Corsica' pe o baghetă proaspătă."
+          },
+          {
+            "name": "Beach Bar Chiuni",
+            "tip": "Salate ușoare de vară cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corsican Honey",
+            "tip": "Try the famous 'Mele di Corsica' on a fresh baguette."
+          },
+          {
+            "name": "Beach Bar Chiuni",
+            "tip": "Light summer salads with a great sea view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tour d'Omigna",
+            "tip": "Einsamkeit und Meeresrauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felsbuchten bei Pero",
+            "tip": "Versteckte Plätze zwischen den Steinen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Omigna torony",
+            "tip": "Magány és a tenger zúgása.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pero-öböl sziklái",
+            "tip": "Rejtett zugok a kövek között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turnul Omigna",
+            "tip": "Singurătate și sunetul mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golfurile de lângă Pero",
+            "tip": "Locuri ascunse printre stânci.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Omigna Tower",
+            "tip": "Solitude and the sound of the waves.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pero Coves",
+            "tip": "Hidden spots among the rocks.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Le Panier Corse",
+            "tip": "Korbwaren und lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Panier Corse",
+            "tip": "Kosáráruk és helyi finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Panier Corse",
+            "tip": "Produse din împletituri și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Panier Corse",
+            "tip": "Wickerwork and local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike (VTT) ist für die Wege zu den Türmen ratsam.",
+          "Achten Sie auf Wanderer auf den Küstenpfaden.",
+          "Die Strecke ist hügelig, unterschätzen Sie die Sonne nicht.",
+          "Sichern Sie Ihr Rad gut bei Strandpausen."
+        ],
+        "hu": [
+          "A tornyokhoz vezető utakra hegyi kerékpár (VTT) javasolt.",
+          "Figyelj a gyalogtúrázókra a parti ösvényeken.",
+          "Az útvonal dombos, ne becsüld alá a napsütést.",
+          "Zárd le biztonságosan a biciklit a strandolás alatt."
+        ],
+        "ro": [
+          "O bicicletă montană (VTT) este recomandată pentru drumurile spre turnuri.",
+          "Atenție la drumeți pe potecile de coastă.",
+          "Traseul este deluros, nu subestimați soarele.",
+          "Asigurați bine bicicleta în timpul pauzelor de plajă."
+        ],
+        "en": [
+          "A mountain bike (VTT) is recommended for the tower paths.",
+          "Watch out for hikers on the coastal trails.",
+          "The route is hilly, do not underestimate the sun.",
+          "Secure your bike well during beach breaks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 22.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Grecque & Latine",
+            "hu": "Görög és Latin templom",
+            "ro": "Bisericile Greacă și Latină",
+            "en": "Greek & Latin Churches"
+          },
+          "coords": [
+            8.595,
+            42.135
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beide Kirchen in einem Stopp besuchen.",
+            "hu": "Látogasd meg mindkét templomot egyszerre.",
+            "ro": "Vizitați ambele biserici într-o singură oprire.",
+            "en": "Visit both churches in one stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour d'Orchino",
+            "hu": "Orchino torony",
+            "ro": "Turnul Orchino",
+            "en": "Orchino Tower"
+          },
+          "coords": [
+            8.5255,
+            42.1755
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fantastischer Weitblick über die Küste.",
+            "hu": "Fantasztikus távlati kilátás a partvidékre.",
+            "ro": "Vedere panoramică fantastică asupra coastei.",
+            "en": "Fantastic panoramic view over the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Chiuni",
+            "hu": "Chiuni strand",
+            "ro": "Plaja Chiuni",
+            "en": "Chiuni Beach"
+          },
+          "coords": [
+            8.5755,
+            42.1655
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ideal für ein langes Bad am Mittag.",
+            "hu": "Ideális egy hosszú déli fürdőzéshez.",
+            "ro": "Ideal pentru o baie lungă la prânz.",
+            "en": "Ideal for a long midday swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Plaisance",
+            "hu": "Kikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina"
+          },
+          "coords": [
+            8.5965,
+            42.1325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Schauen Sie den Fischerbooten zu.",
+            "hu": "Nézd a beérkező halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit.",
+            "en": "Watch the fishing boats coming in."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieille Ville",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            8.5953,
+            42.1351
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abendessen in den Gassen.",
+            "hu": "Vacsora a hangulatos sikátorokban.",
+            "ro": "Cina pe străduțele înguste.",
+            "en": "Dinner in the charming alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erweitern Sie Ihren Radius zu den entlegeneren Genuesertürmen. Nach der Besichtigung der einzigartigen Kirchen im Dorfzentrum fahren Sie zur Halbinsel Orchino, um den dortigen Wachturm zu bestaunen. Den Nachmittag verbringen Sie am weitläufigen Strand von Chiuni, bevor Sie am frühen Abend zum Hafen von Cargèse zurückkehren und den Tag bei einem Glas korsischen Wein im Herzen des Dorfes beenden.",
+        "hu": "Autóval kibővítjük a sugarat a távolabbi genoai tornyokig. A faluközpont egyedülálló templomainak megtekintése után az Orchino-félszigetre autózunk az ottani őrtoronyhoz. A délutánt a Chiuni strand tágas partján töltjük, majd kora este visszatérünk Cargèse kikötőjébe, és a napot egy pohár korzikai borral zárjuk a falu szívében.",
+        "ro": "Cu mașina vă extindeți raza către turnurile genoveze mai îndepărtate. După vizitarea bisericilor unice din centrul satului, conduceți spre peninsula Orchino pentru a admira turnul de veghe. După-amiaza o petreceți pe plaja întinsă Chiuni, înainte de a reveni în portul Cargèse spre seară, încheind ziua cu un pahar de vin corsican în inima satului.",
+        "en": "By car, you can expand your reach to the more distant Genoese towers. After visiting the unique churches in the village center, drive to the Orchino peninsula to admire the watchtower. Spend the afternoon at the expansive Chiuni beach before returning to the Cargèse marina in the early evening to end the day with a glass of Corsican wine in the heart of the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korsische Wurstwaren",
+            "tip": "Prisutu und Lonzu sind ein Muss."
+          },
+          {
+            "name": "Cazalibre",
+            "tip": "Restaurant mit herrlichem Blick auf den Golf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korzikai felvágottak",
+            "tip": "A Prisutu és a Lonzu kötelező finomság."
+          },
+          {
+            "name": "Cazalibre",
+            "tip": "Étterem csodálatos kilátással az öbölre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mezeluri Corsicane",
+            "tip": "Prisutu și Lonzu sunt obligatorii."
+          },
+          {
+            "name": "Cazalibre",
+            "tip": "Restaurant cu o vedere superbă asupra golfului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corsican Charcuterie",
+            "tip": "Prisutu and Lonzu are must-tries."
+          },
+          {
+            "name": "Cazalibre",
+            "tip": "Restaurant offering a stunning view of the gulf."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere Orchino",
+            "tip": "Ruhe pur mit Fernsicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orchino kilátó",
+            "tip": "Tiszta nyugalom távlati kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Orchino",
+            "tip": "Liniște deplină cu vedere la distanță.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Orchino Belvedere",
+            "tip": "Pure peace with a long-distance view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "U Muntagnolu",
+            "tip": "Direktverkauf von Schafskäse und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Muntagnolu",
+            "tip": "Juhsajt és olívaolaj közvetlen árusítása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Muntagnolu",
+            "tip": "Vânzare directă de brânză de oaie și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Muntagnolu",
+            "tip": "Direct sale of sheep cheese and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+          "Parkplätze am Strand von Chiuni sind im Sommer begrenzt.",
+          "Tanken Sie im Voraus, Tankstellen sind rar.",
+          "Beachten Sie die Ziegen auf der Fahrbahn."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak, vezess óvatosan.",
+          "A Chiuni strand parkolói nyáron hamar megtelnek.",
+          "Tankolj előre, a benzinkutak ritkák a környéken.",
+          "Figyelj az úttesten kószáló kecskékre."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite, conduceți cu atenție.",
+          "Locurile de parcare la plaja Chiuni sunt limitate vara.",
+          "Alimentați din timp, benzinăriile sunt rare.",
+          "Atenție la caprele de pe carosabil."
+        ],
+        "en": [
+          "The roads are narrow and winding, drive carefully.",
+          "Parking at Chiuni beach is limited in summer.",
+          "Refuel in advance as gas stations are scarce.",
+          "Watch out for goats on the road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieille Ville",
+            "hu": "Óváros",
+            "ro": "Orașul Vechi",
+            "en": "Old Town"
+          },
+          "coords": [
+            8.5953,
+            42.1351
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt der Busse.",
+            "hu": "A buszok központi érkezési pontja.",
+            "ro": "Punctul central de sosire a autobuzelor.",
+            "en": "Central arrival point for buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Grecque",
+            "hu": "Görög templom",
+            "ro": "Biserica Greacă",
+            "en": "Greek Church"
+          },
+          "coords": [
+            8.5945,
+            42.1348
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Dorfzentrum.",
+            "hu": "Rövid séta a falu központjától.",
+            "ro": "Scurtă plimbare din centrul satului.",
+            "en": "Short walk from the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pero",
+            "hu": "Pero strand",
+            "ro": "Plaja Pero",
+            "en": "Pero Beach"
+          },
+          "coords": [
+            8.5855,
+            42.1455
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vom Dorf aus zu Fuß oder per Shuttle erreichbar.",
+            "hu": "Gyalog vagy shuttle járattal is elérhető.",
+            "ro": "Accesibilă pe jos sau cu naveta din sat.",
+            "en": "Accessible on foot or via shuttle from the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Plaisance",
+            "hu": "Kikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina"
+          },
+          "coords": [
+            8.5965,
+            42.1325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückreise.",
+            "hu": "Utolsó megálló a visszautazás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Final stop before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Cargèse lässt sich auch gut ohne eigenes Auto entdecken. Sie starten im Dorfzentrum mit seinen historischen Gebäuden und den berühmten Kirchen. Nach einer kurzen Wanderung oder Fahrt erreichen Sie den Strand von Pero für entspannte Stunden am Meer. Den Nachmittag verbringen Sie im Hafenbereich, wo Sie das maritime Flair genießen können, bevor Ihr Bus Sie wieder abholt.",
+        "hu": "Cargèse autó nélkül is jól felfedezhető. A faluközpontban kezdünk a történelmi épületekkel és a híres templomokkal. Rövid séta vagy utazás után elérjük a Pero strandot, ahol a tengerparton pihenhetünk. A délutánt a kikötőben töltjük, élvezve a tengeri hangulatot, mielőtt a busz visszaindulna.",
+        "ro": "Cargèse poate fi descoperit cu ușurință și fără mașină personală. Începeți în centrul satului cu clădirile sale istorice și bisericile faimoase. După o scurtă plimbare sau călătorie, ajungeți la plaja Pero pentru ore relaxante la mare. După-amiaza o petreceți în zona portului, savurând atmosfera maritimă înainte de plecarea autobuzului.",
+        "en": "Cargèse can be easily explored without a car. Start in the village center with its historical buildings and famous churches. After a short walk or ride, reach Pero beach for relaxing hours by the sea. Spend the afternoon in the marina area, enjoying the maritime atmosphere before your bus departs."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Korsisches Bier (Pietra)",
+            "tip": "Gebraut mit Kastanienmehl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korzikai sör (Pietra)",
+            "tip": "Gesztenyeliszttel főzött különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bere Corsicană (Pietra)",
+            "tip": "Produsă cu făină de castane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corsican Beer (Pietra)",
+            "tip": "A unique beer brewed with chestnut flour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Kirchen",
+            "tip": "Kleiner Park zwischen den Sakralbauten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "Kis park a szakrális épületek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Bisericilor",
+            "tip": "Mic parc între clădirile sacre.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Garden",
+            "tip": "Small park located between the sacred buildings.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfbäckerei",
+            "tip": "Frische Canistrelli (korsische Kekse)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi pékség",
+            "tip": "Friss Canistrelli (korzikai kekszek)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din sat",
+            "tip": "Canistrelli proaspeți (biscuiți corsicani)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Bakery",
+            "tip": "Fresh Canistrelli (local Corsican cookies)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Fahrplan der Überlandbusse.",
+          "Die Haltestelle befindet sich meist an der Hauptstraße.",
+          "Im Sommer gibt es saisonale Shuttlebusse zum Strand.",
+          "Planen Sie Pufferzeiten für Verspätungen ein."
+        ],
+        "hu": [
+          "Ellenőrizd a távolsági buszok aktuális menetrendjét.",
+          "A megálló általában a főút mentén található.",
+          "Nyáron szezonális járatok indulnak a strandokra.",
+          "Számolj rá némi időt az esetleges késésekre."
+        ],
+        "ro": [
+          "Verificați programul actual al autobuzelor interurbane.",
+          "Stația se află de obicei pe strada principală.",
+          "Vara există navete sezoniere către plaje.",
+          "Planificați o marjă de timp pentru eventuale întârzieri."
+        ],
+        "en": [
+          "Check the current schedule for intercity buses.",
+          "The stop is usually located on the main road.",
+          "In summer, seasonal shuttles to the beaches are available.",
+          "Allow some buffer time for potential delays."
+        ]
+      }
+    }
+  }
+}

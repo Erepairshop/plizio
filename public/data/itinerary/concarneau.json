@@ -1,0 +1,1059 @@
+{
+  "city_id": "concarneau",
+  "anchor": {
+    "name": "Concarneau Ville Close",
+    "coords": [
+      47.8731,
+      -3.9183
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ville Close (Altstadt)",
+            "hu": "Ville Close (erődített város)",
+            "ro": "Ville Close (orașul fortificat)",
+            "en": "Ville Close (Walled Town)"
+          },
+          "coords": [
+            -3.9188,
+            47.8725
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie früh morgens auf die Stadtmauer für das beste Licht.",
+            "hu": "Sétáljon körbe a várfalon a legjobb reggeli fényekért.",
+            "ro": "Plimbați-vă pe zidurile cetății pentru cea mai bună lumină.",
+            "en": "Walk the ramparts early morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereimuseum",
+            "hu": "Halászati Múzeum",
+            "ro": "Muzeul Pescuitului",
+            "en": "Fishing Museum"
+          },
+          "coords": [
+            -3.9195,
+            47.8735
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den echten Trawler 'Hémérica' im Trockendock.",
+            "hu": "Nézze meg az igazi 'Hémérica' vonóhálós hajót a szárazdokkban.",
+            "ro": "Vizitați traulerul real 'Hémérica' aflat în docul uscat.",
+            "en": "Visit the real 'Hémérica' trawler in the dry dock."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachthafen",
+            "hu": "Jachtkikötő",
+            "ro": "Portul de Agrement",
+            "en": "Port de Plaisance"
+          },
+          "coords": [
+            -3.917,
+            47.8745
+          ],
+          "category": "square",
+          "arrive_at": "12:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bunte Treiben der Segelboote.",
+            "hu": "Figyelje a vitorlások nyüzsgését a kikötőben.",
+            "ro": "Observați agitația ambarcațiunilor cu pânze.",
+            "en": "Watch the bustling activity of the sailboats."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokales Bistro",
+            "hu": "Helyi bisztró",
+            "ro": "Bistro Local",
+            "en": "Local Bistro"
+          },
+          "coords": [
+            -3.916,
+            47.873
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie die Moules-Frites mit bretonischem Cidre.",
+            "hu": "Kóstolja meg a kagylót sült krumplival és breton ciderrel.",
+            "ro": "Încercați scoicile cu cartofi prăjiți și cidru breton.",
+            "en": "Try the moules-frites with local Breton cider."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinarium",
+            "hu": "Marinárium",
+            "ro": "Marinarium",
+            "en": "Marinarium"
+          },
+          "coords": [
+            -3.912,
+            47.872
+          ],
+          "category": "museum",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Meeresbiologie im ältesten Marinarium der Welt.",
+            "hu": "Fedezze fel a tengerbiológiát a világ legrégebbi marináriumában.",
+            "ro": "Descoperiți biologia marină în cel mai vechi marinarium din lume.",
+            "en": "Discover marine biology in the world's oldest marinarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Corniche-Promenade",
+            "hu": "Corniche sétány",
+            "ro": "Promenada Corniche",
+            "en": "Corniche Promenade"
+          },
+          "coords": [
+            -3.915,
+            47.871
+          ],
+          "category": "sunset",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für den Sonnenuntergang über dem Atlantik.",
+            "hu": "Tökéletes hely a naplementéhez az Atlanti-óceán felett.",
+            "ro": "Locul perfect pentru apusul peste Oceanul Atlantic.",
+            "en": "Perfect spot for sunset over the Atlantic Ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Ville Close, einer befestigten Inselstadt voller Geschichte. Danach tauchen Sie im Fischereimuseum in die maritime Seele der Bretagne ein. Mittags genießen Sie frische Meeresfrüchte am Hafen. Der Nachmittag gehört der Wissenschaft im Marinarium, gefolgt von einem entspannten Spaziergang entlang der Corniche bei Sonnenuntergang.",
+        "hu": "A reggel a Ville Close-ban indul, az erődített szigetvárosban, amely tele van történelemmel. Ezután a Halászati Múzeumban elmerülhet Bretagne tengeri lelkében. Ebédre friss tenger gyümölcseit kóstolhat a kikötőben. A délután a tudományé a Marináriumban, majd egy pihentető séta következik a Corniche mentén a naplementében.",
+        "ro": "Dimineața începe în Ville Close, un oraș insular fortificat plin de istorie. Apoi, vă scufundați în sufletul maritim al Bretaniei la Muzeul Pescuitului. La prânz, savurați fructe de mare proaspete în port. După-amiaza este dedicată științei la Marinarium, urmată de o plimbare relaxantă de-a lungul falezei Corniche la apus.",
+        "en": "Morning starts in the Ville Close, a fortified island town full of history. Then, dive into Brittany's maritime soul at the Fishing Museum. At lunch, enjoy fresh seafood at the harbor. The afternoon is dedicated to science at the Marinarium, followed by a relaxing stroll along the Corniche at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kouign-Amann",
+            "tip": "Butterkuchen aus der Boulangerie Messager."
+          },
+          {
+            "name": "Cidre Artisanal",
+            "tip": "Probieren Sie die lokalen Sorten im Le Petit Chaperon Rouge."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kouign-Amann",
+            "tip": "Hagyományos vajas sütemény a Boulangerie Messager-ből."
+          },
+          {
+            "name": "Artisanal Cider",
+            "tip": "Kóstolja meg a helyi fajtákat a Le Petit Chaperon Rouge-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kouign-Amann",
+            "tip": "Prăjitură cu unt de la Boulangerie Messager."
+          },
+          {
+            "name": "Cidru Artizanal",
+            "tip": "Încercați soiurile locale la Le Petit Chaperon Rouge."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kouign-Amann",
+            "tip": "Traditional butter cake from Boulangerie Messager."
+          },
+          {
+            "name": "Artisanal Cider",
+            "tip": "Try the local varieties at Le Petit Chaperon Rouge."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage des Sables Blancs",
+            "tip": "Ruhiger Strandspaziergang.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Quai de la Croix",
+            "tip": "Blick auf den Leuchtturm.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage des Sables Blancs",
+            "tip": "Csendes tengerparti séta.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Quai de la Croix",
+            "tip": "Kilátás a világítótoronyra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage des Sables Blancs",
+            "tip": "Plimbare liniștită pe plajă.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Quai de la Croix",
+            "tip": "Vedere spre far.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage des Sables Blancs",
+            "tip": "Quiet beach walk.",
+            "emoji": "🏖️"
+          },
+          {
+            "name": "Quai de la Croix",
+            "tip": "View of the lighthouse.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Conserverie Courtin",
+            "tip": "Berühmte Fischkonserven und Suppen."
+          },
+          {
+            "name": "L'Echoppe de la Ville Close",
+            "tip": "Bretonische Streifenshirts."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Conserverie Courtin",
+            "tip": "Híres halkonzervek és levesek."
+          },
+          {
+            "name": "L'Echoppe de la Ville Close",
+            "tip": "Breton csíkos pólók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Conserverie Courtin",
+            "tip": "Conserve de pește și supe celebre."
+          },
+          {
+            "name": "L'Echoppe de la Ville Close",
+            "tip": "Tricouri bretone în dungi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Conserverie Courtin",
+            "tip": "Famous fish preserves and soups."
+          },
+          {
+            "name": "L'Echoppe de la Ville Close",
+            "tip": "Breton striped shirts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie den 'Bac', die kleinste Fähre der Welt, für eine Abkürzung.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Prüfen Sie die Gezeiten für Strandspaziergänge.",
+          "Buchen Sie das Marinarium-Ticket vorab."
+        ],
+        "hu": [
+          "Használja a 'Bac'-ot, a világ legkisebb kompátkelését rövidítésnek.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Ellenőrizze az apály-dagály táblázatot a parti sétákhoz.",
+          "Foglalja le előre a jegyet a Marináriumba."
+        ],
+        "ro": [
+          "Folosiți 'Bac', cel mai mic feribot din lume, pentru o scurtătură.",
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Verificați tabelul mareelor pentru plimbările pe plajă.",
+          "Rezervați biletul la Marinarium în avans."
+        ],
+        "en": [
+          "Use the 'Bac', the smallest ferry in the world, as a shortcut.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Check the tide table for beach walks.",
+          "Book your Marinarium ticket in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ville Close",
+            "hu": "Ville Close",
+            "ro": "Ville Close",
+            "en": "Ville Close"
+          },
+          "coords": [
+            -3.9188,
+            47.8725
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad vor dem Eingang ab.",
+            "hu": "Hagyja a kerékpárt a bejárat előtt.",
+            "ro": "Lăsați bicicleta la intrare.",
+            "en": "Park your bike before the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Sables Blancs",
+            "hu": "Sables Blancs strand",
+            "ro": "Plaja Sables Blancs",
+            "en": "Sables Blancs Beach"
+          },
+          "coords": [
+            -3.925,
+            47.885
+          ],
+          "category": "beach",
+          "arrive_at": "10:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein Sprung ins kühle Nass erfrischt.",
+            "hu": "Egy csobbanás a vízben felfrissíti.",
+            "ro": "O baie în mare vă va răcori.",
+            "en": "A dip in the water will refresh you."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Kériolet",
+            "hu": "Kériolet kastély",
+            "ro": "Castelul Kériolet",
+            "en": "Kériolet Castle"
+          },
+          "coords": [
+            -3.91,
+            47.895
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wunderschöne neugotische Architektur.",
+            "hu": "Gyönyörű neogótikus építészet.",
+            "ro": "Arhitectură neogotică superbă.",
+            "en": "Beautiful neo-Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Lanriec",
+            "hu": "Le Lanriec",
+            "ro": "Le Lanriec",
+            "en": "Le Lanriec"
+          },
+          "coords": [
+            -3.905,
+            47.875
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Waldwege auf der anderen Hafenseite.",
+            "hu": "Erdei ösvények a kikötő túloldalán.",
+            "ro": "Poteci prin pădure pe cealaltă parte a portului.",
+            "en": "Forest paths on the other side of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafeneinfahrt",
+            "hu": "Kikötőbejárat",
+            "ro": "Intrarea în port",
+            "en": "Harbor Entrance"
+          },
+          "coords": [
+            -3.915,
+            47.871
+          ],
+          "category": "sunset",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einlaufenden Boote.",
+            "hu": "Figyelje a befutó hajókat.",
+            "ro": "Observați bărcile care intră în port.",
+            "en": "Watch the incoming boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie die Küste und das Hinterland. Nach der historischen Altstadt radeln Sie zum weißen Sandstrand von Sables Blancs. Nach einer langen Pause geht es bergauf zum märchenhaften Château de Kériolet. Der Rückweg führt über ruhige Wege in Lanriec zurück zum Hafen.",
+        "hu": "Kerékpárral fedezheti fel a partot és a hátországot. A történelmi óváros után a Sables Blancs fehér homokos strandjához tekerhet. Egy hosszú pihenő után felfelé vezet az út a mesebeli Kériolet kastélyhoz. A visszaút Lanriec csendes ösvényein keresztül vezet a kikötőhöz.",
+        "ro": "Cu bicicleta veți explora coasta și împrejurimile. După orașul vechi istoric, pedalați spre plaja cu nisip alb Sables Blancs. După o pauză lungă, drumul urcă spre castelul de basm Kériolet. Întoarcerea se face prin potecile liniștite din Lanriec înapoi în port.",
+        "en": "By bike, you'll explore the coast and the hinterland. After the historic old town, cycle to the white sandy beach of Sables Blancs. After a long break, head uphill to the fairytale Kériolet Castle. The return trip takes you through the quiet paths of Lanriec back to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêpe Complète",
+            "tip": "Herzhaft im Le Galion."
+          },
+          {
+            "name": "Bolée de Cidre",
+            "tip": "Erfrischung nach der Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêpe Complète",
+            "tip": "Sós palacsinta a Le Galion-ban."
+          },
+          {
+            "name": "Bolée de Cidre",
+            "tip": "Frissítő a túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêpe Complète",
+            "tip": "Clătită sărată la Le Galion."
+          },
+          {
+            "name": "Bolée de Cidre",
+            "tip": "Răcoritoare după tur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêpe Complète",
+            "tip": "Savory crepe at Le Galion."
+          },
+          {
+            "name": "Bolée de Cidre",
+            "tip": "Refreshment after the tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Anse du Cabellou",
+            "tip": "Versteckte Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anse du Cabellou",
+            "tip": "Rejtett öböl.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Anse du Cabellou",
+            "tip": "Golfuleț ascuns.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anse du Cabellou",
+            "tip": "Hidden cove.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché de Concarneau",
+            "tip": "Frische Produkte (Fr/Mo)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Concarneau-i piac",
+            "tip": "Friss termékek (péntek/hétfő)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Concarneau",
+            "tip": "Produse proaspete (Vi/Lu)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Concarneau Market",
+            "tip": "Fresh produce (Fri/Mon)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Steigung zum Schloss.",
+          "Nutzen Sie den Küstenradweg.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Sperren Sie Ihr Rad immer ab."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a kastélyhoz vezető emelkedőhöz.",
+          "Használja a parti kerékpárutat.",
+          "Figyeljen a gyalogosokra a sétányon.",
+          "Mindig zárja le a kerékpárt."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru panta spre castel.",
+          "Folosiți pista de biciclete de pe coastă.",
+          "Atenție la pietoni pe faleză.",
+          "Încuiați întotdeauna bicicleta."
+        ],
+        "en": [
+          "Rent an e-bike for the climb to the castle.",
+          "Use the coastal bike path.",
+          "Watch out for pedestrians on the promenade.",
+          "Always lock your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Kériolet",
+            "hu": "Kériolet kastély",
+            "ro": "Castelul Kériolet",
+            "en": "Kériolet Castle"
+          },
+          "coords": [
+            -3.91,
+            47.895
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Vermeiden Sie Warteschlangen durch frühes Erscheinen.",
+            "hu": "Kerülje el a sorban állást korai érkezéssel.",
+            "ro": "Evitați cozile ajungând devreme.",
+            "en": "Avoid queues by arriving early."
+          }
+        },
+        {
+          "name": {
+            "de": "Ville Close Parkplatz",
+            "hu": "Ville Close parkoló",
+            "ro": "Parcare Ville Close",
+            "en": "Ville Close Parking"
+          },
+          "coords": [
+            -3.919,
+            47.874
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz 'Place du Champ de Foire'.",
+            "hu": "Nagy parkoló a Place du Champ de Foire-on.",
+            "ro": "Parcare mare în Place du Champ de Foire.",
+            "en": "Large parking at Place du Champ de Foire."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Cabellou",
+            "hu": "Cabellou-fok",
+            "ro": "Pointe du Cabellou",
+            "en": "Pointe du Cabellou"
+          },
+          "coords": [
+            -3.9,
+            47.855
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das alte Fort am Meer.",
+            "hu": "Látogassa meg a régi erődöt a tengernél.",
+            "ro": "Vizitați vechiul fort de la malul mării.",
+            "en": "Visit the old fort by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Cabellou Strand",
+            "hu": "Le Cabellou strand",
+            "ro": "Plaja Le Cabellou",
+            "en": "Le Cabellou Beach"
+          },
+          "coords": [
+            -3.895,
+            47.858
+          ],
+          "category": "beach",
+          "arrive_at": "13:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für Familien mit Kindern.",
+            "hu": "Ideális kisgyermekes családoknak.",
+            "ro": "Ideal pentru familiile cu copii.",
+            "en": "Ideal for families with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinarium",
+            "hu": "Marinárium",
+            "ro": "Marinarium",
+            "en": "Marinarium"
+          },
+          "coords": [
+            -3.912,
+            47.872
+          ],
+          "category": "museum",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Letzter Einlass oft 1 Stunde vor Schluss.",
+            "hu": "Az utolsó belépés gyakran 1 órával zárás előtt.",
+            "ro": "Ultima intrare este adesea cu 1 oră înainte de închidere.",
+            "en": "Last entry often 1 hour before closing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die entlegeneren Schätze von Concarneau. Sie starten beim prachtvollen Château de Kériolet. Danach geht es ins Zentrum zur Ville Close. Den Nachmittag verbringen Sie auf der Halbinsel Cabellou, bekannt für ihre kleinen Buchten und das alte Fort. Zum Abschluss besuchen Sie das Marinarium.",
+        "hu": "Autóval Concarneau távolabbi kincseit is elérheti. A pompás Kériolet kastélynál kezd. Ezután a központba, a Ville Close-ba indul. A délutánt a Cabellou-félszigeten tölti, amely kis öbleiről és régi erődjéről ismert. Befejezésül látogasson el a Marináriumba.",
+        "ro": "Cu mașina puteți ajunge la comorile mai îndepărtate din Concarneau. Începeți la splendidul Castel Kériolet. Apoi mergeți în centru la Ville Close. După-amiaza o petreceți în peninsula Cabellou, cunoscută pentru micile sale golfuri și vechiul fort. La final, vizitați Marinarium.",
+        "en": "By car, you can reach the more remote treasures of Concarneau. Start at the magnificent Kériolet Castle. Then head to the center to the Ville Close. Spend the afternoon on the Cabellou peninsula, known for its small coves and old fort. To finish, visit the Marinarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cotriade",
+            "tip": "Bretonischer Fischeintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cotriade",
+            "tip": "Breton halragu."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotriade",
+            "tip": "Tocană de pește bretonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cotriade",
+            "tip": "Breton fish stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Fort du Cabellou",
+            "tip": "Historische Stille am Ozean.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cabellou erőd",
+            "tip": "Történelmi csend az óceánnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fort du Cabellou",
+            "tip": "Liniște istorică la ocean.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fort du Cabellou",
+            "tip": "Historical silence by the ocean.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Biscuiterie de Concarneau",
+            "tip": "Butterkekse zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Concarneau-i kekszbolt",
+            "tip": "Vajas kekszek ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biscuiterie de Concarneau",
+            "tip": "Biscuiți cu unt pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Concarneau Biscuit Shop",
+            "tip": "Butter cookies to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie außerhalb der Ville Close.",
+          "Die Straßen in Cabellou sind eng.",
+          "Nutzen Sie Park-Apps.",
+          "Fahren Sie vorsichtig bei Küstenwind."
+        ],
+        "hu": [
+          "Parkoljon a Ville Close-on kívül.",
+          "Cabellou utcái szűkek.",
+          "Használjon parkoló alkalmazásokat.",
+          "Vezessen óvatosan a parti szélben."
+        ],
+        "ro": [
+          "Parcați în afara Ville Close.",
+          "Străzile din Cabellou sunt înguste.",
+          "Folosiți aplicații de parcare.",
+          "Conduceți cu atenție pe vânt de coastă."
+        ],
+        "en": [
+          "Park outside the Ville Close.",
+          "The streets in Cabellou are narrow.",
+          "Use parking apps.",
+          "Drive carefully in coastal winds."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ville Close",
+            "hu": "Ville Close",
+            "ro": "Ville Close",
+            "en": "Ville Close"
+          },
+          "coords": [
+            -3.9188,
+            47.8725
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Buslinie 1 hält direkt gegenüber.",
+            "hu": "Az 1-es busz közvetlenül szemben áll meg.",
+            "ro": "Linia de autobuz 1 oprește chiar vizavi.",
+            "en": "Bus line 1 stops directly opposite."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenviertel",
+            "hu": "Kikötőnegyed",
+            "ro": "Cartierul portului",
+            "en": "Harbor Area"
+          },
+          "coords": [
+            -3.917,
+            47.8745
+          ],
+          "category": "square",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrum für Shopping und Cafés.",
+            "hu": "A vásárlás és kávézók központja.",
+            "ro": "Centrul pentru cumpărături și cafenele.",
+            "en": "Center for shopping and cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Marinarium",
+            "hu": "Marinárium",
+            "ro": "Marinarium",
+            "en": "Marinarium"
+          },
+          "coords": [
+            -3.912,
+            47.872
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Sables Blancs",
+            "hu": "Sables Blancs strand",
+            "ro": "Plaja Sables Blancs",
+            "en": "Sables Blancs Beach"
+          },
+          "coords": [
+            -3.925,
+            47.885
+          ],
+          "category": "beach",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Busshuttle im Sommer verfügbar.",
+            "hu": "Nyáron buszjárat közlekedik.",
+            "ro": "Navetă de autobuz disponibilă vara.",
+            "en": "Bus shuttle available in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Quai de l'Aiguillon",
+            "hu": "Quai de l'Aiguillon",
+            "ro": "Quai de l'Aiguillon",
+            "en": "Quai de l'Aiguillon"
+          },
+          "coords": [
+            -3.918,
+            47.875
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Guter Ort für ein Eis vor der Rückfahrt.",
+            "hu": "Jó hely egy fagyira a hazaindulás előtt.",
+            "ro": "Loc bun pentru o înghețată înainte de plecare.",
+            "en": "Good spot for ice cream before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Busnetz 'Coralie' verbindet die wichtigsten Punkte der Stadt. Sie starten in der Ville Close und bummeln dann durch das Hafenviertel. Danach bringt Sie der Bus zum Marinarium. Am Nachmittag genießen Sie die Sonne am Sables Blancs Strand, bevor Sie für einen Snack zurück ins Zentrum fahren.",
+        "hu": "A 'Coralie' buszhálózat összeköti a város főbb pontjait. A Ville Close-ban kezd, majd a kikötőnegyedben barangol. Ezután a busz elviszi a Marináriumba. Délután a Sables Blancs strandon élvezheti a napsütést, mielőtt visszatérne a központba egy kis harapnivalóra.",
+        "ro": "Rețeaua de autobuze 'Coralie' conectează principalele puncte ale orașului. Începeți în Ville Close și apoi vă plimbați prin zona portului. Ulterior, autobuzul vă duce la Marinarium. După-amiaza vă bucurați de soare pe plaja Sables Blancs, înainte de a reveni în centru pentru o gustare.",
+        "en": "The 'Coralie' bus network connects the city's main points. Start in the Ville Close and then stroll through the harbor district. Then the bus takes you to the Marinarium. In the afternoon, enjoy the sun at Sables Blancs beach before returning to the center for a snack."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Moules de Bretagne",
+            "tip": "Frische Miesmuscheln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bretani kagyló",
+            "tip": "Friss feketekagyló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Scoici de Bretania",
+            "tip": "Midii proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Breton Mussels",
+            "tip": "Fresh local mussels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Ville Close",
+            "tip": "Kleiner Garten in der Festung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ville Close kertje",
+            "tip": "Kis kert az erődön belül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Ville Close",
+            "tip": "O mică grădină în cetate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ville Close Garden",
+            "tip": "Small garden inside the fortress.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Vauban",
+            "tip": "Haupteinkaufsstraße in der Ville Close."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Vauban",
+            "tip": "A Ville Close fő bevásárlóutcája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Vauban",
+            "tip": "Principala stradă comercială din Ville Close."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Vauban",
+            "tip": "Main shopping street in the Ville Close."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket.",
+          "Achten Sie auf den Sommerfahrplan.",
+          "Die Busse fahren pünktlich.",
+          "Holen Sie sich einen Netzplan am Hafen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet.",
+          "Figyeljen a nyári menetrendre.",
+          "A buszok pontosan közlekednek.",
+          "Kérjen hálózati térképet a kikötőben."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi.",
+          "Atenție la programul de vară.",
+          "Autobuzele circulă punctual.",
+          "Luați o hartă a rețelei din port."
+        ],
+        "en": [
+          "Buy a day ticket.",
+          "Pay attention to the summer schedule.",
+          "Buses run punctually.",
+          "Get a network map at the harbor."
+        ]
+      }
+    }
+  }
+}

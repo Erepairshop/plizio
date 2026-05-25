@@ -1,0 +1,940 @@
+{
+  "city_id": "bonifacio",
+  "anchor": {
+    "name": "Bonifacio",
+    "coords": [
+      9.16,
+      41.3886
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kaffee am Kai.",
+            "hu": "Kávézzon a rakparton.",
+            "ro": "O cafea pe chei.",
+            "en": "Coffee on the quay."
+          }
+        },
+        {
+          "name": "Bastion de l'Étendard",
+          "coords": [
+            9.161,
+            41.388
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bester Panoramablick.",
+            "hu": "Legjobb panoráma.",
+            "ro": "Cea mai bună vedere.",
+            "en": "Best panorama point."
+          }
+        },
+        {
+          "name": "Église Sainte-Marie-Majeure",
+          "coords": [
+            9.157,
+            41.387
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ältestes Bauwerk.",
+            "hu": "A legősibb épület.",
+            "ro": "Cea mai veche clădire.",
+            "en": "Oldest building here."
+          }
+        },
+        {
+          "name": "Escalier du Roi d'Aragon",
+          "coords": [
+            9.156,
+            41.386
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vorsicht, steil!",
+            "hu": "Vigyázat, meredek!",
+            "ro": "Atenție, e abrupt!",
+            "en": "Watch out, steep!"
+          }
+        },
+        {
+          "name": "Église Saint-Dominique",
+          "coords": [
+            9.154,
+            41.387
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gotische Architektur.",
+            "hu": "Gótikus építészet.",
+            "ro": "Arhitectură gotică.",
+            "en": "Gothic architecture."
+          }
+        },
+        {
+          "name": "Cimetière Marin de Bonifacio",
+          "coords": [
+            9.152,
+            41.388
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stille am Abgrund.",
+            "hu": "Csend a szakadéknál.",
+            "ro": "Liniște pe faleză.",
+            "en": "Quiet by the cliffs."
+          }
+        },
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Souvenirs kaufen.",
+            "hu": "Vegyél ajándékot.",
+            "ro": "Cumpără suveniruri.",
+            "en": "Buy local souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den lebhaften Yachthafen und steigen zur imposanten Bastion de l'Étendard auf. Mittags tauchen Sie in die verwinkelten Gassen der Oberstadt ein und genießen die kühle Atmosphäre der Sainte-Marie-Majeure. Der Nachmittag gehört dem spektakulären Abstieg über die Treppe des Königs von Aragon direkt in die Klippen. Zum Abschluss erleben Sie die friedliche Stille des Seefahrerfriedhofs über dem Meer.",
+        "hu": "Reggel a nyüzsgő kikötőt fedezheti fel, majd felkapaszkodhat az impozáns Bastion de l'Étendard bástyához. Délben a felsőváros szűk utcácskáiban kalandozhat, megcsodálva a Sainte-Marie-Majeure templom hűvös nyugalmát. A délután a látványos Aragóniai király lépcsőjéé, amely közvetlenül a sziklába vájt úton vezet a tengerhez. A napot a tengerparti temető békés csendjével zárhatja a mészkősziklák peremén.",
+        "ro": "Dimineața explorați portul plin de viață și urcați la impunătorul Bastion de l'Étendard. La prânz vă pierdeți pe străzile înguste ale orașului de sus și vă bucurați de răcoarea bisericii Sainte-Marie-Majeure. După-amiaza este dedicată spectaculoasei Scări a Regelui Aragon, săpată direct în stâncă spre mare. Încheiați ziua cu liniștea profundă a Cimitirului Marin situat deasupra falezelor albe.",
+        "en": "Morning starts with the bustling marina before ascending to the imposing Bastion de l'Étendard. At midday, wander through the labyrinthine streets of the Upper Town and enjoy the cool interior of Sainte-Marie-Majeure. The afternoon features the breathtaking descent down the King of Aragon's Steps carved into the cliff. Finish your day with the serene silence of the Marine Cemetery overlooking the Mediterranean."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aubergines à la bonifacienne",
+            "tip": "Gefüllte Auberginen mit Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aubergines à la bonifacienne",
+            "tip": "Sajttal töltött padlizsán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aubergines à la bonifacienne",
+            "tip": "Vinete umplute cu brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aubergines à la bonifacienne",
+            "tip": "Stuffed eggplants with local cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Friedliche Atmosphäre am Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Békés hangulat a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Marin",
+            "tip": "Atmosferă liniștită deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marine Cemetery",
+            "tip": "Peaceful atmosphere above the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Boutique du Corail",
+            "tip": "Echter korsischer Korallenschmuck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korall bolt",
+            "tip": "Valódi korzikai korall ékszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique du Corail",
+            "tip": "Bijuterii din corali corsicani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coral Boutique",
+            "tip": "Authentic Corsican coral jewelry."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für die Treppen.",
+          "Reservieren Sie mittags einen Tisch in der Oberstadt.",
+          "Der Wind kann auf den Klippen sehr stark sein.",
+          "Nehmen Sie genügend Wasser mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a lépcsőzéshez.",
+          "Foglaljon asztalt ebédre a felsővárosban.",
+          "A sziklákon erős lehet a szél.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru scări.",
+          "Rezervați o masă pentru prânz în orașul vechi.",
+          "Vântul poate fi foarte puternic pe faleze.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Wear sturdy shoes for the steep stairs.",
+          "Book a table for lunch in the upper town.",
+          "Wind can be very strong on the cliffs.",
+          "Carry plenty of water with you."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "E-Bike empfohlen.",
+            "hu": "E-bike ajánlott.",
+            "ro": "E-bike recomandat.",
+            "en": "E-bike recommended."
+          }
+        },
+        {
+          "name": "Phare de Pertusato",
+          "coords": [
+            9.184,
+            41.368
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wilder Küstenweg.",
+            "hu": "Vad tengerparti út.",
+            "ro": "Drum de coastă sălbatic.",
+            "en": "Wild coastal path."
+          }
+        },
+        {
+          "name": "Citadelle de Bonifacio",
+          "coords": [
+            9.158,
+            41.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Rad schieben erlaubt.",
+            "hu": "Tolja a bringát.",
+            "ro": "Împingeți bicicleta.",
+            "en": "Walk your bike here."
+          }
+        },
+        {
+          "name": "Bastion de l'Étendard",
+          "coords": [
+            9.161,
+            41.388
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historischer Einblick.",
+            "hu": "Történelmi betekintés.",
+            "ro": "Perspectivă istorică.",
+            "en": "Historical insight."
+          }
+        },
+        {
+          "name": "Cimetière Marin de Bonifacio",
+          "coords": [
+            9.152,
+            41.388
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stille Pause.",
+            "hu": "Csendes pihenő.",
+            "ro": "Pauză de liniște.",
+            "en": "Quiet break."
+          }
+        },
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Rad abgeben.",
+            "hu": "Bringa leadása.",
+            "ro": "Predarea bicicletei.",
+            "en": "Return your bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Hafen und radeln Sie entlang der Klippen zum Leuchtturm von Pertusato für atemberaubende Ausblicke auf Sardinien. Mittags kehren Sie zur Zitadelle zurück und erkunden die historischen Befestigungen. Der Nachmittag bietet Zeit für das Bastion und den einzigartigen Seefahrerfriedhof, bevor Sie gemütlich zum Yachthafen zurückrollen.",
+        "hu": "Induljon a kikötőből, és biciklizzen a sziklák mentén a Pertusato világítótoronyhoz, ahonnan lélegzetelállító kilátás nyílik Szardíniára. Délben térjen vissza a fellegvárba, és fedezze fel a történelmi erődítményeket. A délután jut idő a bástyára és az egyedülálló tengerparti temetőre, mielőtt visszagurulna a jachtkikötőbe.",
+        "ro": "Porniți din port și pedalați de-a lungul falezelor până la farul Pertusato pentru vederi uluitoare către Sardinia. La prânz reveniți în citadelă pentru a explora fortificațiile istorice. După-amiaza oferă timp pentru bastion și cimitirul marin unic, înainte de a coborî lejer înapoi în port.",
+        "en": "Start at the port and cycle along the cliffs to the Pertusato lighthouse for stunning views of Sardinia. Return to the citadel by noon to explore the historic fortifications. The afternoon allows time for the Bastion and the unique Marine Cemetery before rolling back down to the marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Prisutu",
+            "tip": "Korsischer Rohschinken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prisutu",
+            "tip": "Korzikai nyers sonka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prisutu",
+            "tip": "Șuncă crudă corsicană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Prisutu",
+            "tip": "Corsican raw ham."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phare de Pertusato",
+            "tip": "Einsame Klippenlandschaft.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pertusato világítótorony",
+            "tip": "Magányos sziklás táj.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Pertusato",
+            "tip": "Peisaj solitar pe stânci.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pertusato Lighthouse",
+            "tip": "Lonely cliff landscape.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Huile d'Olive",
+            "tip": "Lokales Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Helyi olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Shop",
+            "tip": "Local olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Küstenstraße.",
+          "Achtung bei starkem Wind.",
+          "In der Altstadt ist Schieben Pflicht.",
+          "Tragen Sie einen Helm."
+        ],
+        "hu": [
+          "Használja a parti utat.",
+          "Vigyázat az erős széllel.",
+          "Az óvárosban kötelező tolni a gépet.",
+          "Viseljen bukósisakot."
+        ],
+        "ro": [
+          "Folosiți drumul de coastă.",
+          "Atenție la rafalele de vânt.",
+          "În orașul vechi este obligatoriu mersul pe lângă bicicletă.",
+          "Purtați cască."
+        ],
+        "en": [
+          "Use the coastal road.",
+          "Be careful with strong winds.",
+          "Pushing the bike is mandatory in the old town.",
+          "Always wear a helmet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parkhaus am Hafen.",
+            "hu": "Parkoló a kikötőben.",
+            "ro": "Parcare în port.",
+            "en": "Parking by the port."
+          }
+        },
+        {
+          "name": "Grotte de Sdragonato",
+          "coords": [
+            9.15,
+            41.39
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bootstour ab Hafen.",
+            "hu": "Hajótúra a kikötőből.",
+            "ro": "Tur cu barca din port.",
+            "en": "Boat tour from port."
+          }
+        },
+        {
+          "name": "Phare de Pertusato",
+          "coords": [
+            9.184,
+            41.368
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Zu Fuß zum Leuchtturm.",
+            "hu": "Gyalog a toronyhoz.",
+            "ro": "Pe jos până la far.",
+            "en": "Walk to the lighthouse."
+          }
+        },
+        {
+          "name": "Citadelle de Bonifacio",
+          "coords": [
+            9.158,
+            41.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Zentrale Festung.",
+            "hu": "Központi erőd.",
+            "ro": "Cetatea centrală.",
+            "en": "Central fortress."
+          }
+        },
+        {
+          "name": "Escalier du Roi d'Aragon",
+          "coords": [
+            9.156,
+            41.386
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ikonischer Abstieg.",
+            "hu": "Ikonikus lépcsősor.",
+            "ro": "Scara iconică.",
+            "en": "Iconic descent."
+          }
+        },
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Abendessen am Kai.",
+            "hu": "Vacsora a parton.",
+            "ro": "Cină pe chei.",
+            "en": "Dinner at the quay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für die weitere Umgebung. Starten Sie mit einer Bootstour zur Sdragonato-Grotte. Danach fahren Sie zum Parkplatz nahe Pertusato und wandern zum Leuchtturm. Den Nachmittag verbringen Sie in der Zitadelle und erklimmen die berühmte Treppe, bevor Sie den Tag entspannt im Hafen ausklingen lassen.",
+        "hu": "Használja az autót a távolabbi helyszínekhez. Kezdjen egy hajótúrával a Sdragonato-barlanghoz a kikötőből. Ezután hajtson a Pertusato melletti parkolóba, és sétáljon el a világítótoronyhoz. A délutánt a fellegvárban töltheti, megmászva a híres lépcsőt, majd lazítson a kikötőben.",
+        "ro": "Folosiți mașina pentru împrejurimi. Începeți cu o excursie cu barca la grota Sdragonato. Apoi conduceți spre parcarea de lângă Pertusato și mergeți pe jos până la far. După-amiaza o petreceți în citadelă, urcând faimoasa scară, înainte de a încheia ziua relaxat în port.",
+        "en": "Use the car to explore the wider area. Start with a boat trip to the Sdragonato cave from the harbor. Then drive to the parking area near Pertusato and hike to the lighthouse. Spend your afternoon in the Citadel and climb the famous steps before relaxing at the marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Langouste à la Parisienne",
+            "tip": "Frischer Hummer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Langouste",
+            "tip": "Friss homár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Langouste",
+            "tip": "Homar proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lobster",
+            "tip": "Fresh local lobster."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de Sutta Rocca",
+            "tip": "Kleiner Strand am Fels.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sutta Rocca strand",
+            "tip": "Kis strand a szikláknál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Sutta Rocca",
+            "tip": "Plajă mică sub stânci.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sutta Rocca Beach",
+            "tip": "Small beach under cliffs.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Produits corses",
+            "tip": "Käse und Schinken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Korzikai termékek",
+            "tip": "Sajt és sonka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse corsicane",
+            "tip": "Brânză și șuncă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Corsican Products",
+            "tip": "Cheese and ham shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in der Oberstadt ist schwierig.",
+          "Vermeiden Sie die Rushhour.",
+          "Die Straßen sind eng.",
+          "Nutzen Sie Parkplätze am Hafen."
+        ],
+        "hu": [
+          "A felsővárosban nehéz parkolni.",
+          "Kerülje a csúcsforgalmat.",
+          "Az utak szűkek.",
+          "Használja a kikötői parkolókat."
+        ],
+        "ro": [
+          "Parcarea în orașul de sus e dificilă.",
+          "Evitați orele de vârf.",
+          "Drumurile sunt înguste.",
+          "Folosiți parcările din port."
+        ],
+        "en": [
+          "Parking in the Upper Town is difficult.",
+          "Avoid rush hours.",
+          "Roads are narrow.",
+          "Use the harbor parking lots."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Petit Train Abfahrt.",
+            "hu": "Kisvonat indulás.",
+            "ro": "Plecare Petit Train.",
+            "en": "Petit Train departure."
+          }
+        },
+        {
+          "name": "Citadelle de Bonifacio",
+          "coords": [
+            9.158,
+            41.387
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zitadellen-Zug.",
+            "hu": "Vár-vonat.",
+            "ro": "Trenulețul cetății.",
+            "en": "Citadel shuttle train."
+          }
+        },
+        {
+          "name": "Église Sainte-Marie-Majeure",
+          "coords": [
+            9.157,
+            41.387
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Im Herzen der Altstadt.",
+            "hu": "Az óváros szívében.",
+            "ro": "În inima orașului vechi.",
+            "en": "In the heart of old town."
+          }
+        },
+        {
+          "name": "Cimetière Marin de Bonifacio",
+          "coords": [
+            9.152,
+            41.388
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang am Ende.",
+            "hu": "Séta a végén.",
+            "ro": "Plimbare la final.",
+            "en": "Walk at the end."
+          }
+        },
+        {
+          "name": "Port de Bonifacio",
+          "coords": [
+            9.165,
+            41.391
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Freizeit am Hafen.",
+            "hu": "Szabadidő a kikötőben.",
+            "ro": "Timp liber în port.",
+            "en": "Free time at the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den 'Petit Train', um bequem vom Hafen in die Zitadelle zu gelangen. Verbringen Sie den Vormittag mit der Erkundung der Festung und der Hauptkirche Sainte-Marie-Majeure. Nach einem Besuch des beeindruckenden Seefahrerfriedhofs bringt Sie der Zug oder ein kurzer Spaziergang zurück zum Hafen für einen entspannten Nachmittag am Wasser.",
+        "hu": "Vegye igénybe a 'Petit Train' kisvonatot, hogy kényelmesen feljusson a kikötőből a fellegvárba. Töltse a délelőttöt az erőd és a Sainte-Marie-Majeure főtemplom felfedezésével. A lenyűgöző tengerparti temető megtekintése után a vonat vagy egy rövid séta visszaviszi a kikötőbe egy pihentető délutánra a vízparton.",
+        "ro": "Folosiți „Petit Train” pentru a ajunge confortabil din port în citadelă. Petreceți dimineața explorând fortăreața și biserica principală Sainte-Marie-Majeure. După o vizită la impresionantul cimitir marin, trenulețul sau o scurtă plimbare vă va duce înapoi în port pentru o după-amiază relaxantă la malul apei.",
+        "en": "Use the 'Petit Train' to comfortably travel from the port up to the Citadel. Spend the morning exploring the fortress and the main church, Sainte-Marie-Majeure. After visiting the impressive Marine Cemetery, the train or a short walk will take you back to the port for a relaxing afternoon by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Canistrelli",
+            "tip": "Korsische Kekse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canistrelli",
+            "tip": "Korzikai keksz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canistrelli",
+            "tip": "Biscuiți corsicani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canistrelli",
+            "tip": "Corsican shortbread biscuits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Port de Bonifacio",
+            "tip": "Beobachten Sie die Yachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bonifacio kikötő",
+            "tip": "Nézze a jachtokat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Bonifacio",
+            "tip": "Priviți iahturile.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port de Bonifacio",
+            "tip": "Watch the yachts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Quai Jérôme Comparetti",
+            "tip": "Viele kleine Läden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Quai Jérôme Comparetti",
+            "tip": "Sok kis bolt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Quai Jérôme Comparetti",
+            "tip": "Multe magazine mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Quai Jérôme Comparetti",
+            "tip": "Many small shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Zug.",
+          "Die Züge fahren alle 20 Minuten.",
+          "Ideal bei Hitze.",
+          "Der Bahnhof ist am Hafenende."
+        ],
+        "hu": [
+          "Vegyen napijegyet a kisvonatra.",
+          "A vonatok 20 percenként járnak.",
+          "Ideális hőségben.",
+          "Az állomás a kikötő végén van."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru trenuleț.",
+          "Trenurile pleacă la fiecare 20 de minute.",
+          "Ideal pe caniculă.",
+          "Stația este la capătul portului."
+        ],
+        "en": [
+          "Buy a day ticket for the tourist train.",
+          "Trains run every 20 minutes.",
+          "Ideal during hot weather.",
+          "The station is at the end of the port."
+        ]
+      }
+    }
+  }
+}

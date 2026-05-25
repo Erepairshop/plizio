@@ -1,0 +1,1010 @@
+{
+  "city_id": "hyeres",
+  "anchor": {
+    "name": "Hyères - Place Massillon",
+    "coords": [
+      43.1205,
+      6.1286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Place Massillon",
+          "coords": [
+            43.1208,
+            6.1289
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühstücken Sie unter den bunten Markisen.",
+            "hu": "Reggelizz a színes napernyők alatt a téren.",
+            "ro": "Luați micul dejun sub umbrelele colorate.",
+            "en": "Have breakfast under the colorful awnings."
+          }
+        },
+        {
+          "name": "Tour des Templiers",
+          "coords": [
+            43.1211,
+            6.1285
+          ],
+          "category": "historical",
+          "arrive_at": "09:44",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
+            "hu": "Mássz fel a toronyba a pazar kilátásért.",
+            "ro": "Urcați în turn pentru o priveliște superbă.",
+            "en": "Climb the tower for a great city view."
+          }
+        },
+        {
+          "name": "Collégiale Saint-Paul",
+          "coords": [
+            43.1215,
+            6.1282
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Votivgaben in der Kirche.",
+            "hu": "Csodáld meg a templom fogadalmi ajándékait.",
+            "ro": "Admirați darurile votive din biserică.",
+            "en": "Admire the votive offerings inside the church."
+          }
+        },
+        {
+          "name": "Villa Noailles",
+          "coords": [
+            43.1245,
+            6.1265
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk der Moderne und des Designs.",
+            "hu": "A modernizmus és a design remekműve.",
+            "ro": "O capodoperă a modernismului și designului.",
+            "en": "A masterpiece of modernism and design."
+          }
+        },
+        {
+          "name": "Parc Saint-Bernard",
+          "coords": [
+            43.125,
+            6.127
+          ],
+          "category": "park",
+          "arrive_at": "13:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Duft der mediterranen Flora.",
+            "hu": "Élvezd a mediterrán flóra illatait a kertben.",
+            "ro": "Bucurați-vă de parfumul florei mediteraneene.",
+            "en": "Enjoy the scent of Mediterranean flora here."
+          }
+        },
+        {
+          "name": "Vieux Hyères Gastro",
+          "coords": [
+            43.121,
+            6.129
+          ],
+          "category": "gastro",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Tapenaden und lokale Oliven.",
+            "hu": "Kóstold meg a tapenádot és a helyi olajbogyót.",
+            "ro": "Gustați tapenada și măslinele locale.",
+            "en": "Taste local tapenade and olives."
+          }
+        },
+        {
+          "name": "Jardin Olbius Riquier",
+          "coords": [
+            43.111,
+            6.131
+          ],
+          "category": "park",
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Perfekt für einen ruhigen Abendspaziergang.",
+            "hu": "Tökéletes egy nyugodt esti sétához a pálmák közt.",
+            "ro": "Perfect pentru o plimbare liniștită de seară.",
+            "en": "Perfect for a quiet evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der mittelalterlichen Altstadt auf dem Place Massillon. Die verwinkelten Gassen führen Sie hinauf zur Villa Noailles, einem Zentrum für moderne Kunst. Der Nachmittag gehört der Ruhe in den hängenden Gärten des Parc Saint-Bernard. Beenden Sie die Tour im tropischen Jardin Olbius Riquier, wo Flamingos und Palmen eine exotische Atmosphäre schaffen.",
+        "hu": "Kezd a napot a középkori óvárosban, a Place Massillon nyüzsgésében. A kanyargós utcák felvezetnek a Villa Noailles modernista palotájába. A délutánt töltsd a Parc Saint-Bernard függőkertjeiben, élvezve a panorámát. Végül pihenj meg az egzotikus Jardin Olbius Riquier parkban, ahol pálmák és flamingók várnak a város szívében.",
+        "ro": "Începeți ziua în orașul vechi medieval, în animația din Place Massillon. Străzile șerpuite vă conduc spre Villa Noailles, un centru al artei moderne. După-amiaza este dedicată liniștii în grădinile suspendate din Parc Saint-Bernard. Încheiați turul în Jardin Olbius Riquier, unde palmierii și flamingo creează o atmosferă exotică în inima orașului.",
+        "en": "Start your day in the medieval old town at the bustling Place Massillon. Winding streets lead you up to Villa Noailles, a hub of modern art. Spend the afternoon in the hanging gardens of Parc Saint-Bernard, enjoying the panoramic views. Finally, relax in the exotic Jardin Olbius Riquier, where palms and flamingos await in the heart of the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Socca",
+            "tip": "Herzhafter Kichererbsenpfannkuchen vom Markt."
+          },
+          {
+            "name": "Le Jardin",
+            "tip": "Provenzalische Küche in einem charmanten Innenhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Socca",
+            "tip": "Ízletes csicseriborsó lepény a helyi piacról."
+          },
+          {
+            "name": "Le Jardin",
+            "tip": "Provence-i konyha egy bájos belső udvaron."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Socca",
+            "tip": "Clătită sărată din năut de la piața locală."
+          },
+          {
+            "name": "Le Jardin",
+            "tip": "Bucătărie provensală într-o curte interioară fermecătoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Socca",
+            "tip": "Savory chickpea pancake from the local market."
+          },
+          {
+            "name": "Le Jardin",
+            "tip": "Provençal cuisine in a charming courtyard setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Saint-Bernard",
+            "tip": "Blick über die Dächer bis zum Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Collégiale Saint-Paul",
+            "tip": "Stille in den historischen Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Saint-Bernard",
+            "tip": "Kilátás a háztetők felett a tengerig.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Collégiale Saint-Paul",
+            "tip": "Csend a történelmi falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Saint-Bernard",
+            "tip": "Vedere peste acoperișuri până la mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Collégiale Saint-Paul",
+            "tip": "Liniște între zidurile istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Saint-Bernard",
+            "tip": "View over the rooftops to the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Collégiale Saint-Paul",
+            "tip": "Quiet moments within historic walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché des Îles d'Or",
+            "tip": "Lokale Produkte und Kunsthandwerk."
+          },
+          {
+            "name": "Confiserie Fouque",
+            "tip": "Traditionelle provenzalische Süßigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché des Îles d'Or",
+            "tip": "Helyi termékek és kézműves áruk."
+          },
+          {
+            "name": "Confiserie Fouque",
+            "tip": "Hagyományos provence-i édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché des Îles d'Or",
+            "tip": "Produse locale și artizanat."
+          },
+          {
+            "name": "Confiserie Fouque",
+            "tip": "Dulciuri tradiționale provensale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché des Îles d'Or",
+            "tip": "Local produce and handicrafts."
+          },
+          {
+            "name": "Confiserie Fouque",
+            "tip": "Traditional Provençal sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die steilen Gassen der Altstadt.",
+          "Besuchen Sie den Markt am Samstagmorgen für die beste Atmosphäre.",
+          "Die Villa Noailles ist montags und dienstags oft geschlossen.",
+          "Nutzen Sie die kostenlosen Trinkwasserbrunnen in der Stadt."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt az óváros meredek utcáihoz.",
+          "Szombat reggel látogass ki a piacra a legjobb hangulatért.",
+          "A Villa Noailles hétfőn és kedden gyakran zárva tart.",
+          "Használd a város ingyenes ivóvízkútjait."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile abrupte ale orașului vechi.",
+          "Vizitați piața sâmbătă dimineața pentru cea mai bună atmosferă.",
+          "Villa Noailles este adesea închisă lunea și marțea.",
+          "Folosiți fântânile cu apă potabilă gratuită din oraș."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep streets of the old town.",
+          "Visit the market on Saturday morning for the best atmosphere.",
+          "Villa Noailles is often closed on Mondays and Tuesdays.",
+          "Make use of the free drinking water fountains in the city."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Port Saint-Pierre",
+          "coords": [
+            43.083,
+            6.158
+          ],
+          "category": "port",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad direkt am Hafen.",
+            "hu": "Bérelj kerékpárt közvetlenül a kikötőben.",
+            "ro": "Închiriați bicicleta direct din port.",
+            "en": "Rent your bike directly at the port."
+          }
+        },
+        {
+          "name": "Les Salins d'Hyères",
+          "coords": [
+            43.115,
+            6.195
+          ],
+          "category": "park",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie Flamingos in den Salzwiesen.",
+            "hu": "Figyeld meg a flamingókat a sós mocsarakban.",
+            "ro": "Observați flamingii în mlaștinile sărate.",
+            "en": "Spot flamingos in the salt marshes."
+          }
+        },
+        {
+          "name": "L'Almanarre Beach",
+          "coords": [
+            43.078,
+            6.13
+          ],
+          "category": "beach",
+          "arrive_at": "12:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Berühmt für Windsurfen und glasklares Wasser.",
+            "hu": "Híres szörfparadicsom kristálytiszta vízzel.",
+            "ro": "Faimoasă pentru windsurfing și apă cristalină.",
+            "en": "Famous for windsurfing and crystal-clear water."
+          }
+        },
+        {
+          "name": "Route du Sel",
+          "coords": [
+            43.055,
+            6.135
+          ],
+          "category": "park",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie auf der schmalen Straße zwischen den Meeren.",
+            "hu": "Tekerj a vékony földnyelven a két tenger között.",
+            "ro": "Mergeți pe drumul îngust dintre cele două mări.",
+            "en": "Cycle on the narrow road between the seas."
+          }
+        },
+        {
+          "name": "Village de Giens",
+          "coords": [
+            43.045,
+            6.138
+          ],
+          "category": "historical",
+          "arrive_at": "15:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein malerisches Dorf mit herrlicher Aussicht.",
+            "hu": "Festői falu lenyűgöző panorámával.",
+            "ro": "Un sat pitoresc cu o vedere uluitoare.",
+            "en": "A picturesque village with stunning views."
+          }
+        },
+        {
+          "name": "Port du Niel",
+          "coords": [
+            43.038,
+            6.128
+          ],
+          "category": "port",
+          "arrive_at": "17:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kleiner, versteckter Fischerhafen.",
+            "hu": "Egy apró, rejtett halászkikötő a sziklák alatt.",
+            "ro": "Un mic port pescăresc ascuns.",
+            "en": "A tiny, hidden fishing port below the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste auf zwei Rädern. Vom Hafen aus fahren Sie zu den Salzwiesen, wo seltene Vögel nisten. Die Route du Sel führt Sie entlang der Halbinsel Giens, umgeben von türkisblauem Wasser. Machen Sie eine Pause am Strand von L'Almanarre und beenden Sie die Tour im charmanten Dorf Giens mit Blick auf die Goldinseln.",
+        "hu": "Fedezd fel a partvidéket két keréken. A kikötőből indulva tekerj a sólepárlókhoz, ahol ritka madarakat láthatsz. A 'Só útja' a Giens-félsziget mentén vezet, türkizkék vízzel körülvéve. tarts szünetet L'Almanarre strandján, majd zárd a napot Giens bájos falujában, ahonnan rálátni az Arany-szigetekre.",
+        "ro": "Explorați coasta pe două roți. De la port, pedalați spre mlaștinile sărate, unde cuibăresc păsări rare. 'Drumul Sării' vă conduce de-a lungul peninsulei Giens, înconjurați de ape turcoaz. Faceți o pauză pe plaja L'Almanarre și încheiați ziua în fermecătorul sat Giens, cu vedere la Insulele de Aur.",
+        "en": "Explore the coastline on two wheels. Starting from the port, cycle to the salt marshes where rare birds nest. The 'Salt Route' leads you along the Giens peninsula, surrounded by turquoise water. Take a break at L'Almanarre beach and end your day in the charming village of Giens, overlooking the Golden Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fischsuppe",
+            "tip": "Frisch gefangener Fisch am Hafen von Niel."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Ein kühles Glas Wein mit Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halleves",
+            "tip": "Frissen fogott halból a Niel kikötőben."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Egy pohár hűvös bor tengeri kilátással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă de pește",
+            "tip": "Pește proaspăt prins în portul Niel."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "Un pahar de vin rece cu vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Soup",
+            "tip": "Made from freshly caught fish at Port du Niel."
+          },
+          {
+            "name": "Rosé de Provence",
+            "tip": "A chilled glass of wine with a sea view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Port du Niel",
+            "tip": "Abgelegene Bucht für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salins des Pesquiers",
+            "tip": "Stille Beobachtung der Natur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Port du Niel",
+            "tip": "Félreeső öböl a naplementéhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salins des Pesquiers",
+            "tip": "Csendes természetmegfigyelés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Port du Niel",
+            "tip": "Golf retras pentru apusul soarelui.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salins des Pesquiers",
+            "tip": "Observarea liniștită a naturii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Port du Niel",
+            "tip": "Secluded cove for the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Salins des Pesquiers",
+            "tip": "Quiet nature observation spot.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Direkt aus den Salinen von Hyères."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Közvetlenül a hyères-i lepárlókból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Direct de la salinele din Hyères."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fleur de Sel",
+            "tip": "Salt flower directly from Hyères salt works."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Route du Sel ist für Autos gesperrt, ideal für Radfahrer.",
+          "Achten Sie auf den Wind (Mistral), er kann das Treten erschweren.",
+          "Bringen Sie ausreichend Wasser und Sonnenschutz mit.",
+          "Ein Mountainbike ist für einige Küstenwege von Vorteil."
+        ],
+        "hu": [
+          "A Só útja le van zárva az autók előtt, ideális kerékpárosoknak.",
+          "Figyelj a szélre (Mistral), ami megnehezítheti a tekerést.",
+          "Vigyél magaddal elég vizet és naptejet.",
+          "A parti ösvényekhez egy mountain bike előnyösebb lehet."
+        ],
+        "ro": [
+          "Drumul Sării este închis pentru mașini, ideal pentru bicicliști.",
+          "Atenție la vânt (Mistral), care poate îngreuna pedalarea.",
+          "Aduceți suficientă apă și protecție solară.",
+          "O bicicletă montană este avantajoasă pentru unele poteci de coastă."
+        ],
+        "en": [
+          "The Salt Route is closed to cars, making it ideal for cyclists.",
+          "Watch out for the wind (Mistral), it can make pedaling harder.",
+          "Bring plenty of water and sunscreen.",
+          "A mountain bike is better for some of the coastal paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 42.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hyères Centre-Ville",
+          "coords": [
+            43.1205,
+            6.1286
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Gambetta.",
+            "hu": "Parkolj a Gambetta parkolóházban.",
+            "ro": "Parcați în parcarea Gambetta.",
+            "en": "Park in the Gambetta parking garage."
+          }
+        },
+        {
+          "name": "La Tour Fondue",
+          "coords": [
+            43.027,
+            6.155
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Ausgangspunkt für die Fähren nach Porquerolles.",
+            "hu": "A Porquerolles-ba tartó kompok indulási helye.",
+            "ro": "Punctul de plecare pentru feriboturile spre Porquerolles.",
+            "en": "Departure point for ferries to Porquerolles."
+          }
+        },
+        {
+          "name": "Plage de la Badine",
+          "coords": [
+            43.04,
+            6.145
+          ],
+          "category": "beach",
+          "arrive_at": "12:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Flaches, warmes Wasser, ideal zum Entspannen.",
+            "hu": "Sekély, meleg víz, ideális a pihenéshez.",
+            "ro": "Apă puțin adâncă și caldă, ideală pentru relaxare.",
+            "en": "Shallow, warm water, ideal for relaxing."
+          }
+        },
+        {
+          "name": "Bormes-les-Mimosas",
+          "coords": [
+            43.151,
+            6.342
+          ],
+          "category": "city",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 16.5,
+          "tip_5lang": {
+            "de": "Eines der schönsten Blumendörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb virágos faluja.",
+            "ro": "Unul dintre cele mai frumoase sate înflorite din Franța.",
+            "en": "One of the most beautiful floral villages in France."
+          }
+        },
+        {
+          "name": "Fort de Brégançon View",
+          "coords": [
+            43.093,
+            6.321
+          ],
+          "category": "historical",
+          "arrive_at": "18:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Blick auf die Sommerresidenz des Präsidenten.",
+            "hu": "Kilátás az elnöki nyári rezidenciára.",
+            "ro": "Vedere spre reședința de vară a președintelui.",
+            "en": "View of the presidential summer residence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Eleganz von Hyères mit der wilden Schönheit der Halbinsel Giens. Nach einem Stadtbummel fahren Sie zur Tour Fondue, dem Tor zu den Inseln. Genießen Sie ein langes Bad am Strand von Badine, bevor Sie das malerische Bormes-les-Mimosas besuchen. Den krönenden Abschluss bildet der Blick auf das majestätische Fort de Brégançon bei Sonnenuntergang.",
+        "hu": "Ez az autós túra ötvözi Hyères eleganciáját a Giens-félsziget vad szépségével. Városi séta után irány a Tour Fondue, a szigetek kapuja. Élvezd a hosszú fürdőzést a Badine strandon, majd látogass el a festői Bormes-les-Mimosas falujába. A napot a fenséges Fort de Brégançon látványa koronázza meg a naplementében.",
+        "ro": "Acest tur cu mașina combină eleganța orașului Hyères cu frumusețea sălbatică a peninsulei Giens. După o plimbare prin oraș, mergeți la Tour Fondue, poarta către insule. Bucurați-vă de o baie lungă pe plaja Badine, înainte de a vizita pitorescul Bormes-les-Mimosas. Ziua se încheie cu vederea maiestuosului Fort de Brégançon la apus.",
+        "en": "This car tour combines the elegance of Hyères with the wild beauty of the Giens peninsula. After a city stroll, head to Tour Fondue, the gateway to the islands. Enjoy a long swim at Badine beach before visiting the picturesque Bormes-les-Mimosas. The day is crowned by the view of the majestic Fort de Brégançon at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bouillabaisse",
+            "tip": "Probieren Sie den Klassiker in Le Lavandou."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouillabaisse",
+            "tip": "Kóstold meg a klasszikust Le Lavandou-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bouillabaisse",
+            "tip": "Gustați clasicul în Le Lavandou."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouillabaisse",
+            "tip": "Try the classic fish stew in nearby Le Lavandou."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plage de Cabasson",
+            "tip": "Ruhiger Strand nahe Brégançon.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plage de Cabasson",
+            "tip": "Csendes strand Brégançon közelében.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plage de Cabasson",
+            "tip": "Plajă liniștită lângă Brégançon.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plage de Cabasson",
+            "tip": "Quiet beach near Brégançon.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vins de Provence",
+            "tip": "Kaufen Sie direkt bei den Weingütern an der Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provence-i borok",
+            "tip": "Vásárolj közvetlenül az út menti borászatoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri de Provence",
+            "tip": "Cumpărați direct de la cramele de pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Provençal Wines",
+            "tip": "Buy directly from the wineries along the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze an den Stränden können im Sommer schnell voll sein.",
+          "Die Küstenstraße D559 bietet atemberaubende Ausblicke.",
+          "Buchen Sie Fährtickets nach Porquerolles im Voraus online.",
+          "Vermeiden Sie die Hauptverkehrszeiten um 17 Uhr."
+        ],
+        "hu": [
+          "A strandok parkolói nyáron gyorsan megtelnek.",
+          "A D559-es parti út lélegzetelállító kilátást nyújt.",
+          "Foglald le a Porquerolles kompjegyeket előre online.",
+          "Kerüld a délután 5 óra körüli csúcsforgalmat."
+        ],
+        "ro": [
+          "Parcările de la plaje se pot umple rapid în timpul verii.",
+          "Drumul de coastă D559 oferă priveliști uluitoare.",
+          "Rezervați biletele de feribot spre Porquerolles online, în avans.",
+          "Evitați orele de vârf în jurul orei 17:00."
+        ],
+        "en": [
+          "Beach parking lots can fill up quickly in summer.",
+          "The D559 coastal road offers breathtaking views.",
+          "Book Porquerolles ferry tickets online in advance.",
+          "Avoid peak traffic times around 5 PM."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place Louis Gautier",
+          "coords": [
+            43.12,
+            6.13
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Busknotenpunkt für alle Richtungen.",
+            "hu": "Központi buszcsomópont minden irányba.",
+            "ro": "Nod central de autobuze pentru toate direcțiile.",
+            "en": "Central bus hub for all directions."
+          }
+        },
+        {
+          "name": "Port Saint-Pierre",
+          "coords": [
+            43.083,
+            6.158
+          ],
+          "category": "port",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Linie 67 bringt Sie direkt zum Hafen.",
+            "hu": "A 67-es járat közvetlenül a kikötőbe visz.",
+            "ro": "Linia 67 vă duce direct la port.",
+            "en": "Line 67 takes you directly to the port."
+          }
+        },
+        {
+          "name": "Giens Village",
+          "coords": [
+            43.045,
+            6.138
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Bummeln Sie durch die engen Gassen des Dorfes.",
+            "hu": "Sétálj a falu szűk, hangulatos utcáin.",
+            "ro": "Plimbați-vă pe străzile înguste ale satului.",
+            "en": "Stroll through the narrow streets of the village."
+          }
+        },
+        {
+          "name": "Plage de la Capte",
+          "coords": [
+            43.065,
+            6.148
+          ],
+          "category": "beach",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Strand, ideal für Familien.",
+            "hu": "Csendes strand, ideális családoknak.",
+            "ro": "O plajă liniștită, ideală pentru familii.",
+            "en": "A quiet beach, ideal for families."
+          }
+        },
+        {
+          "name": "Vieux Hyères",
+          "coords": [
+            43.1205,
+            6.1286
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Kehren Sie für ein Abendessen ins Zentrum zurück.",
+            "hu": "Térj vissza a központba egy vacsorára.",
+            "ro": "Reveniți în centru pentru cină.",
+            "en": "Return to the center for dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Busnetz von Hyères. Fahren Sie zum Jachthafen Port Saint-Pierre und weiter zum malerischen Giens. Genießen Sie den Nachmittag am familienfreundlichen Strand von La Capte, bevor Sie mit dem Bus zurück in die Altstadt fahren, um den Tag bei einem provenzalischen Essen ausklingen zu lassen.",
+        "hu": "Használd ki Hyères kiváló buszhálózatát. Utazz a Port Saint-Pierre jachtkikötőhöz, majd tovább a festői Giens-be. Töltsd a délutánt a családbarát La Capte strandon, mielőtt visszabuszoznál az óvárosba, hogy egy provence-i vacsorával zárd a napot.",
+        "ro": "Profități de rețeaua excelentă de autobuze din Hyères. Mergeți la portul de iahturi Port Saint-Pierre și apoi la pitorescul Giens. Bucurați-vă de după-amiază pe plaja La Capte, ideală pentru familii, înainte de a reveni cu autobuzul în orașul vechi pentru o cină provensală.",
+        "en": "Take advantage of Hyères' excellent bus network. Travel to the Port Saint-Pierre marina and then on to picturesque Giens. Spend the afternoon at the family-friendly La Capte beach before taking the bus back to the old town to end the day with a Provençal dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glace à la lavande",
+            "tip": "Lavendeleis in den Gassen der Altstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula fagylalt",
+            "tip": "Levendulás fagyi az óváros utcáin."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată de lavandă",
+            "tip": "Înghețată de lavandă pe străzile orașului vechi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Ice Cream",
+            "tip": "Refreshing lavender ice cream in the old town."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Village de Giens",
+            "tip": "Panoramablick ohne Autolärm.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Giens falu",
+            "tip": "Panoráma autóforgalom nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Giens",
+            "tip": "Vedere panoramică fără zgomot de mașini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Giens Village",
+            "tip": "Panoramic view without car noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Provence-Stoffe",
+            "tip": "Farbenfrohe Textilien im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Provence-i textilek",
+            "tip": "Színes szövetek a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țesături provensale",
+            "tip": "Textile colorate în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Provençal Fabrics",
+            "tip": "Colorful textiles in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das 'Mistral' Busnetz.",
+          "Die Busse fahren im Sommer bis spät am Abend.",
+          "Laden Sie die offizielle Bus-App für Live-Abfahrten herunter.",
+          "An Markttagen können Busse Umleitungen fahren."
+        ],
+        "hu": [
+          "Vásárolj napijegyet a 'Mistral' buszhálózatra.",
+          "Nyáron a buszok késő estig közlekednek.",
+          "Töltsd le a hivatalos buszos appot a valós idejű indulásokhoz.",
+          "Piaci napokon a buszok útvonala módosulhat."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de autobuze 'Mistral'.",
+          "Autobuzele circulă până târziu în seară în timpul verii.",
+          "Descărcați aplicația oficială pentru plecări în timp real.",
+          "În zilele de piață, autobuzele pot avea rute deviate."
+        ],
+        "en": [
+          "Buy a day pass for the 'Mistral' bus network.",
+          "Buses run until late in the evening during summer.",
+          "Download the official bus app for real-time departures.",
+          "On market days, bus routes may be diverted."
+        ]
+      }
+    }
+  }
+}

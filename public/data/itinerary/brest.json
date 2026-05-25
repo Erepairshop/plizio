@@ -1,0 +1,1023 @@
+{
+  "city_id": "brest",
+  "anchor": {
+    "name": "Brest Centre",
+    "coords": [
+      -4.4861,
+      48.3904
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Liberté",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            -4.486,
+            48.3905
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blick auf das Rathaus.",
+            "hu": "Nézd meg a városházát.",
+            "ro": "Priviți primăria.",
+            "en": "Check out the city hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Dajot",
+            "hu": "Cours Dajot sétány",
+            "ro": "Cours Dajot",
+            "en": "Cours Dajot"
+          },
+          "coords": [
+            -4.483,
+            48.384
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bester Blick auf den Hafen.",
+            "hu": "A legjobb kilátás a kikötőre.",
+            "ro": "Cea mai bună vedere la port.",
+            "en": "Best view of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Brest",
+            "hu": "Bresti vár",
+            "ro": "Castelul din Brest",
+            "en": "Brest Castle"
+          },
+          "coords": [
+            -4.487,
+            48.382
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Marinemuseum ist ein Muss.",
+            "hu": "A Tengerészeti Múzeum kötelező.",
+            "ro": "Muzeul Marinei este obligatoriu.",
+            "en": "The Naval Museum is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Commerce - Mittagessen",
+            "hu": "Kereskedelmi kikötő - Ebéd",
+            "ro": "Portul de Comerț - Prânz",
+            "en": "Commercial Port - Lunch"
+          },
+          "coords": [
+            -4.482,
+            48.381
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Austern.",
+            "hu": "Kóstold meg a friss osztrigát.",
+            "ro": "Gustați stridiile proaspete.",
+            "en": "Try fresh oysters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Tanguy",
+            "hu": "Tanguy-torony",
+            "ro": "Turnul Tanguy",
+            "en": "Tanguy Tower"
+          },
+          "coords": [
+            -4.497,
+            48.384
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kostenloses Museum im Inneren.",
+            "hu": "Ingyenes múzeum a toronyban.",
+            "ro": "Muzeu gratuit în interior.",
+            "en": "Free museum inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Ateliers des Capucins",
+            "hu": "Capucins műhelyek",
+            "ro": "Atelierele Capucins",
+            "en": "Les Ateliers des Capucins"
+          },
+          "coords": [
+            -4.493,
+            48.391
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein riesiger Kulturraum.",
+            "hu": "Hatalmas kulturális tér.",
+            "ro": "Un spațiu cultural imens.",
+            "en": "A massive cultural space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Brest am Place de la Liberté, bevor Sie die prächtige Allee Cours Dajot entlang schlendern. Genießen Sie die frische Meeresbrise und den Blick auf die Militärschiffe.\n\nMittags erkunden Sie die Festung Château de Brest und lassen sich dann im geschäftigen Port de Commerce mit Meeresfrüchten verwöhnen.\n\nNachmittags überqueren Sie die Penfeld-Brücke zur geschichtsträchtigen Tour Tanguy im Viertel Recouvrance.\n\nDer Abend gehört den Ateliers des Capucins, einer ehemaligen Marinewerkstatt, die heute als pulsierendes Kulturzentrum dient.",
+        "hu": "A napod Brest szívében, a Szabadság téren indul, majd a fenséges Cours Dajot sétányon folytatódik. Élvezd a sós tengeri levegőt és a katonai hajók látványát.\n\nDélben fedezd fel a Bresti várat, majd kóstolj friss tenger gyümölcseit a nyüzsgő Kereskedelmi kikötőben.\n\nDélután kelj át a Penfeld folyó felett a történelmi Tanguy-toronyhoz Recouvrance negyedében.\n\nAz estét töltsd a Capucins műhelyekben, amely egy hajdani haditengerészeti gyárból alakult át lüktető kulturális központtá.",
+        "ro": "Ziua începe în inima Brestului, în Piața Libertății, înainte de a te plimba pe faimoasa promenadă Cours Dajot. Bucură-te de briza mării și de vederea navelor militare.\n\nLa prânz, explorează Castelul Brest și apoi răsfață-te cu fructe de mare în portul comercial plin de viață.\n\nDupă-amiaza, traversează râul Penfeld către Turnul Tanguy din cartierul istoric Recouvrance.\n\nSeara aparține Atelierelor Capucins, o fostă unitate navală transformată într-un centru cultural vibrant.",
+        "en": "Your day starts in the heart of Brest at Place de la Liberté, before strolling along the majestic Cours Dajot. Enjoy the fresh sea breeze and the view of the naval ships.\n\nAt midday, explore the historic Brest Castle and then indulge in seafood at the bustling Commercial Port.\n\nIn the afternoon, cross the Penfeld river to the historic Tanguy Tower in the Recouvrance district.\n\nEnd your day at Les Ateliers des Capucins, a former naval workshop turned into a vibrant cultural hub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Roi Gradlon",
+            "tip": "Probieren Sie die Galettes mit Buchweizen."
+          },
+          {
+            "name": "Le Crabe Marteau",
+            "tip": "Frischer Taschenkrebs, serviert mit einem Hammer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Roi Gradlon",
+            "tip": "Kóstold meg a sós hajdinás galette-et."
+          },
+          {
+            "name": "Le Crabe Marteau",
+            "tip": "Friss tarisznyarák, amit kalapáccsal törhetsz fel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Roi Gradlon",
+            "tip": "Încearcă galettes de hrișcă."
+          },
+          {
+            "name": "Le Crabe Marteau",
+            "tip": "Crab proaspăt servit cu un ciocan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Roi Gradlon",
+            "tip": "Try the savory buckwheat galettes."
+          },
+          {
+            "name": "Le Crabe Marteau",
+            "tip": "Fresh crab served with a hammer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin des Explorateurs",
+            "tip": "Ein ruhiger Garten mit Blick auf das Schloss.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Cours Dajot zum Sonnenuntergang",
+            "tip": "Romantisches Licht über dem Hafen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin des Explorateurs",
+            "tip": "Csendes kert kilátással a várra.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Cours Dajot naplementekor",
+            "tip": "Romantikus fények a kikötő felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin des Explorateurs",
+            "tip": "O grădină liniștită cu vedere la castel.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Cours Dajot la apus",
+            "tip": "Lumină romantică peste port.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin des Explorateurs",
+            "tip": "A quiet garden overlooking the castle.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Cours Dajot at sunset",
+            "tip": "Romantic light over the harbor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Jean Jaurès",
+            "tip": "Die Haupteinkaufsstraße der Stadt."
+          },
+          {
+            "name": "Capucins Concept Store",
+            "tip": "Lokales Design und Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Jean Jaurès",
+            "tip": "A város fő bevásárlóutcája."
+          },
+          {
+            "name": "Capucins Concept Store",
+            "tip": "Helyi dizájn és kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Jean Jaurès",
+            "tip": "Principala stradă comercială."
+          },
+          {
+            "name": "Capucins Concept Store",
+            "tip": "Design local și artizanat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Jean Jaurès",
+            "tip": "The main shopping street of the city."
+          },
+          {
+            "name": "Capucins Concept Store",
+            "tip": "Local design and crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Brest ist hügelig, tragen Sie bequeme Schuhe.",
+          "Das Wetter kann sich schnell ändern, Regenschutz mitnehmen.",
+          "Nutzen Sie die Seilbahn für einen tollen Ausblick.",
+          "Die meisten Museen schließen montags."
+        ],
+        "hu": [
+          "Brest dombos, viselj kényelmes cipőt.",
+          "Az időjárás gyorsan változhat, vigyél esőkabátot.",
+          "Használd a libegőt a nagyszerű kilátásért.",
+          "A legtöbb múzeum hétfőn zárva tart."
+        ],
+        "ro": [
+          "Brest este deluros, purtați pantofi confortabili.",
+          "Vremea se poate schimba rapid, luați o pelerină.",
+          "Folosiți telecabina pentru o vedere superbă.",
+          "Majoritatea muzeelor sunt închise lunea."
+        ],
+        "en": [
+          "Brest is hilly, wear comfortable shoes.",
+          "The weather changes quickly, bring a raincoat.",
+          "Use the cable car for a great aerial view.",
+          "Most museums are closed on Mondays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina du Château",
+            "hu": "Marina du Château",
+            "ro": "Marina du Château",
+            "en": "Marina du Château"
+          },
+          "coords": [
+            -4.485,
+            48.381
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Starten Sie am Yachthafen.",
+            "hu": "Indulj a jachtkikötőtől.",
+            "ro": "Începeți la portul de iahturi.",
+            "en": "Start at the yacht marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Océanopolis",
+            "hu": "Océanopolis",
+            "ro": "Océanopolis",
+            "en": "Océanopolis"
+          },
+          "coords": [
+            -4.437,
+            48.39
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Das größte Aquarium der Bretagne.",
+            "hu": "Bretagne legnagyobb akváriuma.",
+            "ro": "Cel mai mare acvariu din Bretania.",
+            "en": "Brittany's largest aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallon du Stang-Alar",
+            "hu": "Vallon du Stang-Alar",
+            "ro": "Vallon du Stang-Alar",
+            "en": "Vallon du Stang-Alar"
+          },
+          "coords": [
+            -4.444,
+            48.401
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Botanischer Garten.",
+            "hu": "Botanikus kert.",
+            "ro": "Grădina Botanică.",
+            "en": "Botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Moulin Blanc",
+            "hu": "Moulin Blanc strand",
+            "ro": "Plaja Moulin Blanc",
+            "en": "Moulin Blanc Beach"
+          },
+          "coords": [
+            -4.432,
+            48.394
+          ],
+          "category": "beach",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Perfekt für eine Pause.",
+            "hu": "Tökéletes hely egy pihenőre.",
+            "ro": "Perfect pentru o pauză.",
+            "en": "Perfect for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Plaisance",
+            "hu": "Kedvtelési kikötő",
+            "ro": "Port de Plaisance",
+            "en": "Port de Plaisance"
+          },
+          "coords": [
+            -4.44,
+            48.388
+          ],
+          "category": "port",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fischrestaurants am Hafen.",
+            "hu": "Haléttermek a parton.",
+            "ro": "Restaurante de pește.",
+            "en": "Fish restaurants by the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Küste von Brest bis zum beeindruckenden Océanopolis. Erleben Sie die Vielfalt des Meeres und radeln Sie anschließend durch den grünen Vallon du Stang-Alar.",
+        "hu": "Ez a kerékpártúra Brest partvonala mentén vezet a lenyűgöző Océanopolis-hoz. Fedezd fel a tenger élővilágát, majd tekerj át a zöldellő Vallon du Stang-Alar völgyén.",
+        "ro": "Acest tur cu bicicleta te poartă de-a lungul coastei Brestului până la impresionantul Océanopolis. Descoperă viața marină și apoi pedalează prin valea verde Stang-Alar.",
+        "en": "This bike tour takes you along the coast of Brest to the impressive Océanopolis. Discover marine life and then pedal through the lush Vallon du Stang-Alar."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Tour du Monde",
+            "tip": "Legendäre Bar am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Tour du Monde",
+            "tip": "Legendás bár a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Tour du Monde",
+            "tip": "Bar legendar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Tour du Monde",
+            "tip": "Legendary bar at the port."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vallon du Stang-Alar",
+            "tip": "Vogelzwitschern und Natur pur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallon du Stang-Alar",
+            "tip": "Madárcsicsergés és tiszta természet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vallon du Stang-Alar",
+            "tip": "Cântecul păsărilor și natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallon du Stang-Alar",
+            "tip": "Birdsong and pure nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Surf Shop Moulin Blanc",
+            "tip": "Ausrüstung für Wassersport."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Surf Shop Moulin Blanc",
+            "tip": "Vízi sport felszerelések."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Surf Shop Moulin Blanc",
+            "tip": "Echipament sportiv nautic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Surf Shop Moulin Blanc",
+            "tip": "Water sports gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege am Hafen.",
+          "Vermeiden Sie das Stadtzentrum zu Stoßzeiten."
+        ],
+        "hu": [
+          "Használd a kijelölt kerékpárutakat a kikötőben.",
+          "Kerüld a belvárost csúcsidőben."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete din port.",
+          "Evitați centrul orașului la orele de vârf."
+        ],
+        "en": [
+          "Use the designated bike lanes at the port.",
+          "Avoid the city center during rush hours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Océanopolis",
+            "hu": "Océanopolis",
+            "ro": "Océanopolis",
+            "en": "Océanopolis"
+          },
+          "coords": [
+            -4.437,
+            48.39
+          ],
+          "category": "museum",
+          "arrive_at": "09:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Planen Sie viel Zeit ein.",
+            "hu": "Sok időt szánj rá.",
+            "ro": "Rezervați mult timp.",
+            "en": "Plan plenty of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Commerce",
+            "hu": "Kereskedelmi kikötő",
+            "ro": "Port de Comerț",
+            "en": "Commercial Port"
+          },
+          "coords": [
+            -4.482,
+            48.381
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Einfaches Parken am Kai.",
+            "hu": "Könnyű parkolás a rakparton.",
+            "ro": "Parcare ușoară la chei.",
+            "en": "Easy parking on the quay."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Petit Minou",
+            "hu": "Petit Minou-fok",
+            "ro": "Pointe du Petit Minou",
+            "en": "Pointe du Petit Minou"
+          },
+          "coords": [
+            -4.615,
+            48.337
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Berühmter Leuchtturm.",
+            "hu": "Híres világítótorony.",
+            "ro": "Far celebru.",
+            "en": "Famous lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Sainte-Anne",
+            "hu": "Szent Anna-strand",
+            "ro": "Plaja Sainte-Anne",
+            "en": "Sainte-Anne Beach"
+          },
+          "coords": [
+            -4.55,
+            48.358
+          ],
+          "category": "beach",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ruhiger Strand für Familien.",
+            "hu": "Csendes családi strand.",
+            "ro": "Plajă liniștită.",
+            "en": "Quiet family beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Bertheaume",
+            "hu": "Bertheaume-erőd",
+            "ro": "Cetatea Bertheaume",
+            "en": "Fort de Bertheaume"
+          },
+          "coords": [
+            -4.697,
+            48.337
+          ],
+          "category": "historical",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Erőd a tengeren.",
+            "hu": "Erőd egy sziklaszigeten.",
+            "ro": "Cetate pe stâncă.",
+            "en": "Fort on a rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte rund um Brest. Nach dem Besuch von Océanopolis fahren Sie westwärts zum Leuchtturm Petit Minou und weiter zum Fort de Bertheaume.",
+        "hu": "Autóval elérheted a Brest környéki leglátványosabb kilátópontokat. Az Océanopolis után indulj nyugat felé a Petit Minou világítótoronyhoz, majd az impozáns Bertheaume-erődhöz.",
+        "ro": "Cu mașina poți ajunge la cele mai spectaculoase puncte de belvedere din jurul Brestului. După vizita la Océanopolis, mergi spre vest la farul Petit Minou și cetatea Bertheaume.",
+        "en": "By car, you can reach the most spectacular viewpoints around Brest. After visiting Océanopolis, drive west to the Petit Minou lighthouse and the impressive Fort de Bertheaume."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge du Minou",
+            "tip": "Rustikale Küche mit Aussicht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge du Minou",
+            "tip": "Rusztikus konyha panorámával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge du Minou",
+            "tip": "Bucătărie rustică cu vedere."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge du Minou",
+            "tip": "Rustic kitchen with a view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe du Petit Minou",
+            "tip": "Wilder Atlantik.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petit Minou-fok",
+            "tip": "Vad Atlanti-óceán.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe du Petit Minou",
+            "tip": "Atlantic sălbatic.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe du Petit Minou",
+            "tip": "Wild Atlantic coast.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E.Leclerc Brest",
+            "tip": "Großer Supermarkt für lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "E.Leclerc Brest",
+            "tip": "Nagy szupermarket helyi termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "E.Leclerc Brest",
+            "tip": "Supermarket mare pentru produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "E.Leclerc Brest",
+            "tip": "Large supermarket for local goods."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kostenlose Parkplätze am Petit Minou.",
+          "Achten Sie auf die engen Küstenstraßen."
+        ],
+        "hu": [
+          "Ingyenes parkoló a Petit Minou-nál.",
+          "Vigyázz a szűk parti utakon."
+        ],
+        "ro": [
+          "Parcare gratuită la Petit Minou.",
+          "Atenție la drumurile înguste de coastă."
+        ],
+        "en": [
+          "Free parking at Petit Minou.",
+          "Be careful on the narrow coastal roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Liberté",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            -4.486,
+            48.3905
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Verkehrsknotenpunkt.",
+            "hu": "Központi közlekedési csomópont.",
+            "ro": "Nod central de transport.",
+            "en": "Central transport hub."
+          }
+        },
+        {
+          "name": {
+            "de": "Téléphérique (Capucins)",
+            "hu": "Libegő (Capucins)",
+            "ro": "Telecabina (Capucins)",
+            "en": "Cable Car (Capucins)"
+          },
+          "coords": [
+            -4.493,
+            48.391
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss in der Luft.",
+            "hu": "Kelj át a folyó felett a levegőben.",
+            "ro": "Traversați râul prin aer.",
+            "en": "Cross the river in the air."
+          }
+        },
+        {
+          "name": {
+            "de": "Château (Tram A)",
+            "hu": "Vár (Villamos A)",
+            "ro": "Castel (Tram A)",
+            "en": "Castle (Tram A)"
+          },
+          "coords": [
+            -4.487,
+            48.382
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Tram.",
+            "hu": "Rövid séta a villamostól.",
+            "ro": "Scurtă plimbare de la tramvai.",
+            "en": "Short walk from the tram."
+          }
+        },
+        {
+          "name": {
+            "de": "Océanopolis (Bus 3)",
+            "hu": "Océanopolis (3-as busz)",
+            "ro": "Océanopolis (Bus 3)",
+            "en": "Océanopolis (Bus 3)"
+          },
+          "coords": [
+            -4.437,
+            48.39
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus vom Zentrum.",
+            "hu": "Szállj buszra a központban.",
+            "ro": "Luați autobuzul din centru.",
+            "en": "Take the bus from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Jean Jaurès",
+            "hu": "Rue Jean Jaurès",
+            "ro": "Rue Jean Jaurès",
+            "en": "Rue Jean Jaurès"
+          },
+          "coords": [
+            -4.481,
+            48.395
+          ],
+          "category": "shopping",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Haupteinkaufsmeile.",
+            "hu": "Fő bevásárlóutca.",
+            "ro": "Principala arteră comercială.",
+            "en": "Main shopping street."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das moderne Nahverkehrssystem von Brest. Fahren Sie mit der Tram und der Seilbahn, um das Schloss, das hippe Capucins-Viertel und schließlich das berühmte Aquarium zu besuchen.",
+        "hu": "Használd Brest modern tömegközlekedését. Villamosozz és libegőzz, hogy meglátogasd a várat, a trendi Capucins negyedet, végül pedig a híres akváriumot.",
+        "ro": "Folosiți sistemul modern de transport public din Brest. Mergeți cu tramvaiul și telecabina pentru a vizita castelul, cartierul hip Capucins și faimosul acvariu.",
+        "en": "Make use of Brest's modern public transport system. Ride the tram and the cable car to visit the castle, the trendy Capucins district, and finally the famous aquarium."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Off Block (Capucins)",
+            "tip": "Moderne Snacks in cooles Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Off Block (Capucins)",
+            "tip": "Modern snackek menő környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Off Block (Capucins)",
+            "tip": "Snack-uri moderne în mediu cool."
+          }
+        ],
+        "en": [
+          {
+            "name": "Off Block (Capucins)",
+            "tip": "Modern snacks in a cool setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Téléphérique Fahrt",
+            "tip": "Schweben über dem Penfeld.",
+            "emoji": "🚠"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Libegő utazás",
+            "tip": "Lebegés a Penfeld folyó felett.",
+            "emoji": "🚠"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Călătorie cu telecabina",
+            "tip": "Plutind peste Penfeld.",
+            "emoji": "🚠"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cable Car ride",
+            "tip": "Floating over the Penfeld river.",
+            "emoji": "🚠"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Coat-ar-Guéven",
+            "tip": "Einkaufszentrum an der Tramlinie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coat-ar-Guéven",
+            "tip": "Bevásárlóközpont a villamosvonalon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coat-ar-Guéven",
+            "tip": "Centru comercial lângă tramvai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coat-ar-Guéven",
+            "tip": "Shopping mall along the tram line."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine Tageskarte für Bus und Tram.",
+          "Die Seilbahn ist im Ticket enthalten.",
+          "Achten Sie auf die Fahrpläne am Wochenende."
+        ],
+        "hu": [
+          "Vegyél napijegyet a buszra és villamosra.",
+          "A libegő ára benne van a jegyben.",
+          "Figyelj a hétvégi menetrendre."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi.",
+          "Telecabina este inclusă în bilet.",
+          "Atenție la orarul de weekend."
+        ],
+        "en": [
+          "Buy a day pass for bus and tram.",
+          "The cable car is included in the ticket.",
+          "Check weekend schedules."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "city_id": "lourdes",
+  "anchor": {
+    "name": "Lourdes Centre-Ville",
+    "coords": [
+      -0.0489,
+      43.0942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Sanctuaire de Notre-Dame",
+          "coords": [
+            -0.0575,
+            43.0975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Früher Besuch vermeidet die größten Pilgergruppen.",
+            "hu": "Érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Vizitați devreme pentru a evita grupurile mari de pelerini.",
+            "en": "Arrive early to avoid the largest groups of pilgrims."
+          }
+        },
+        {
+          "name": "Grotte de Massabielle",
+          "coords": [
+            -0.0585,
+            43.0976
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stille bewahren und die spirituelle Atmosphäre genießen.",
+            "hu": "A barlangnál teljes csendet és tiszteletet kérnek.",
+            "ro": "Păstrați liniștea deplină în zona grotei.",
+            "en": "Maintain total silence and respect near the grotto."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame-du-Rosaire",
+          "coords": [
+            -0.0572,
+            43.0974
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Mosaike an der Fassade sind bei Sonnenlicht prachtvoll.",
+            "hu": "A homlokzat mozaikjai napsütésben a legszebbek.",
+            "ro": "Mozaicurile de pe fațadă sunt superbe în lumina soarelui.",
+            "en": "The facade mosaics are most stunning in the sunlight."
+          }
+        },
+        {
+          "name": "Musée de Cire",
+          "coords": [
+            -0.0495,
+            43.0955
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lebensgroße Wachsfiguren erzählen die Geschichte von Bernadette.",
+            "hu": "Életnagyságú viaszfigurák mutatják be Bernadette életét.",
+            "ro": "Figurile de ceară spun povestea vieții lui Bernadette.",
+            "en": "Life-size wax figures depict the story of Saint Bernadette."
+          }
+        },
+        {
+          "name": "Château Fort de Lourdes",
+          "coords": [
+            -0.0478,
+            43.0968
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Aufzug für einen einfachen Zugang zur Burg.",
+            "hu": "Használja a liftet a könnyebb feljutás érdekében.",
+            "ro": "Folosiți liftul pentru un acces mai ușor la castel.",
+            "en": "Use the elevator for easy access to the fortress."
+          }
+        },
+        {
+          "name": "Basilique Saint-Pie X",
+          "coords": [
+            -0.0545,
+            43.097
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eine beeindruckende unterirdische Basilika für 25.000 Menschen.",
+            "hu": "Lenyűgöző föld alatti bazilika, 25 ezer fő befogadására.",
+            "ro": "O bazilică subterană impresionantă pentru 25.000 de oameni.",
+            "en": "An impressive underground basilica seating 25,000 people."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im heiligen Bezirk, wo Sie die Grotte und die prächtigen Basiliken in aller Ruhe erkunden. Am Mittag schlendern Sie durch die Stadt zum Wachsfigurenmuseum, um mehr über die Erscheinungen zu erfahren. Nachmittags erklimmen Sie die Festung für einen Panoramablick über die Pyrenäen. Den Abend lassen Sie in der gigantischen unterirdischen Basilika Saint-Pie X ausklingen.",
+        "hu": "A napot a szentély körzetében kezdi, ahol a barlangot és a bazilikákat járhatja be. Délben a városközpont felé veszi az irányt a Viaszmúzeumba, hogy megismerje a látomások történetét. Délután a vár sziklájáról csodálhatja meg a Pireneusok vonulatait. Az estet a monumentális föld alatti Szent X. Piusz-bazilikában fejezheti be.",
+        "ro": "Ziua începe în zona sanctuarului, unde veți vizita grota și bazilicile în liniște. La prânz, mergeți spre centrul orașului la Muzeul de Ceară pentru a învăța despre apariții. După-amiaza, urcați la cetate pentru o panoramă superbă asupra Pirineilor. Seara se încheie în uriașa bazilică subterană Sfântul Pius al X-lea.",
+        "en": "Your day starts in the Sanctuary area, exploring the Grotto and the magnificent basilicas in peace. At midday, stroll through the town to the Wax Museum to learn about the apparitions. In the afternoon, climb the fortress for panoramic views of the Pyrenees. End your evening in the massive underground Basilica of Saint Pius X."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Garbure Bigourdane",
+            "tip": "Traditioneller Kohl- und Bohneneintopf im Le Carillon."
+          },
+          {
+            "name": "Gâteau à la Broche",
+            "tip": "Am Spieß gebackener Kuchen, lokal auf Märkten erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Garbure",
+            "tip": "Sűrű káposztás-babos leves kacsahússal a Le Carillonban."
+          },
+          {
+            "name": "Pyrénées sajt",
+            "tip": "Helyi juh- és kecskesajtok a piaci árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Garbure",
+            "tip": "Tocăniță tradițională de varză și fasole la Le Carillon."
+          },
+          {
+            "name": "Gâteau à la Broche",
+            "tip": "Prăjitură coaptă pe scuipat, specifică zonei montane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garbure",
+            "tip": "Hearty cabbage and bean stew at Le Carillon."
+          },
+          {
+            "name": "Pyrenean Cheese",
+            "tip": "Local sheep and goat cheeses from market stalls."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer des Gave de Pau",
+            "tip": "Ruhiger Spaziergang am Flussufer.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Le Calvaire",
+            "tip": "Ein bewaldeter Hügelweg oberhalb des Heiligtums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gave de Pau partja",
+            "tip": "Csendes séta a folyó mentén a szentély mögött.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kálvária-út",
+            "tip": "Erdei ösvény a szentély feletti dombon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Gave de Pau",
+            "tip": "Plimbare liniștită pe malul apei.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Calea Crucii (Calvaire)",
+            "tip": "Traseu împădurit deasupra sanctuarului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Gave de Pau",
+            "tip": "Peaceful walk along the river behind the sanctuary.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "The Calvary",
+            "tip": "A wooded hillside path above the sanctuary.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les Halles de Lourdes",
+            "tip": "Lokaler Markt für Käse und Delikatessen."
+          },
+          {
+            "name": "Andenkenläden",
+            "tip": "Kerzen und Wasserflaschen für das Lourdeswasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles de Lourdes",
+            "tip": "Helyi fedett piac gasztronómiai termékekkel."
+          },
+          {
+            "name": "Kegytárgyboltok",
+            "tip": "Gyertyák és palackok a lourdes-i víznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles",
+            "tip": "Piață locală pentru brânzeturi și delicatese."
+          },
+          {
+            "name": "Magazine de suveniruri",
+            "tip": "Lumânări și recipiente pentru apa de la Lourdes."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles de Lourdes",
+            "tip": "Indoor market for local food specialties."
+          },
+          {
+            "name": "Souvenir Shops",
+            "tip": "Candles and containers for Holy Water."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Achten Sie auf angemessene Kleidung in den Basiliken.",
+          "Füllen Sie Ihre Wasserflaschen direkt an den Brunnen im Heiligtum.",
+          "Die abendliche Lichterprozession (21:00 Uhr) ist ein Muss."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A bazilikákba csak illő öltözetben lépjen be.",
+          "A lourdes-i vizet a szentély kútjainál ingyen töltheti meg.",
+          "Az esti fáklyás körmenet (21:00) felejthetetlen élmény."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Respectați codul vestimentar în interiorul bazilicilor.",
+          "Umpleți recipientele cu apă direct de la izvoarele din sanctuar.",
+          "Procesiunea cu torțe de la ora 21:00 este obligatorie."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobbled streets.",
+          "Dress modestly when entering the basilicas.",
+          "Fill your bottles for free at the sanctuary fountains.",
+          "The evening torchlight procession (21:00) is a must-see."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Sanctuaire de Notre-Dame",
+          "coords": [
+            -0.0575,
+            43.0975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahrräder müssen vor dem heiligen Bezirk abgestellt werden.",
+            "hu": "A kerékpárokat a szentély bejárata előtt kell hagyni.",
+            "ro": "Bicicletele trebuie lăsate la intrarea în zona sfântă.",
+            "en": "Bicycles must be parked outside the sacred area."
+          }
+        },
+        {
+          "name": "Basilique de l'Immaculée Conception",
+          "coords": [
+            -0.0578,
+            43.0976
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die obere Basilika bietet einen tollen Blick auf den Platz.",
+            "hu": "A felső bazilikából remek kilátás nyílik a térre.",
+            "ro": "Bazilica superioară oferă o vedere frumoasă asupra pieței.",
+            "en": "The upper basilica offers great views over the square."
+          }
+        },
+        {
+          "name": "Château Fort de Lourdes",
+          "coords": [
+            -0.0478,
+            43.0968
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber mit dem E-Bike kein Problem.",
+            "hu": "Meredek emelkedő, de e-bike-kal könnyen leküzdhető.",
+            "ro": "Urcare abruptă, dar ușoară cu o bicicletă electrică.",
+            "en": "Steep climb, but easy with an e-bike."
+          }
+        },
+        {
+          "name": "Pic du Jer",
+          "coords": [
+            -0.0385,
+            43.0815
+          ],
+          "category": "natural features",
+          "arrive_at": "13:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahrt mit der Standseilbahn zum Gipfel für 360-Grad-Sicht.",
+            "hu": "Siklóval menjen fel a csúcsra a teljes panorámáért.",
+            "ro": "Urcați cu funicularul pentru o vedere de 360 de grade.",
+            "en": "Take the funicular to the summit for 360-degree views."
+          }
+        },
+        {
+          "name": "Lac de Lourdes",
+          "coords": [
+            -0.088,
+            43.109
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entspannender Abschluss am Seeufer, flacher Weg.",
+            "hu": "Pihentető befejezés a tóparton, sík úton.",
+            "ro": "Final relaxant pe malul lacului, pe un drum plat.",
+            "en": "Relaxing finish by the lake on a flat path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie erst das religiöse Zentrum und fahren dann zur Festung hinauf. Nach einem kräftigen Mittagessen führt der Weg zum Pic du Jer, wo Sie das Panorama genießen. Den Nachmittag verbringen Sie bei einer entspannten Fahrt zum malerischen See von Lourdes, etwas außerhalb der Stadt.",
+        "hu": "Kerékpárral előbb a vallási központot látogatja meg, majd felteker a várba. Egy kiadós ebéd után az út a Pic du Jer-hez vezet, ahol a panorámában gyönyörködhet. A délutánt egy könnyed tekeréssel zárja a város szélén található festői lourdes-i tónál.",
+        "ro": "Cu bicicleta, explorați centrul religios, apoi urcați la cetate. După un prânz copios, drumul duce la Pic du Jer pentru o panoramă deosebită. După-amiaza se încheie cu o plimbare relaxantă spre lacul Lourdes, situat la marginea orașului.",
+        "en": "By bike, first explore the religious center and then ride up to the fortress. After a hearty lunch, head to Pic du Jer to enjoy the panorama. Spend your afternoon with a relaxed ride to the scenic Lake Lourdes on the outskirts of town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Moderne Küche mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Modern konyha helyi alapanyagokkal a vár közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Bucătărie modernă cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Comptoir",
+            "tip": "Modern cuisine using regional products near the fort."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de Lourdes",
+            "tip": "Ruhiger See für eine Pause.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lourdes-i tó",
+            "tip": "Csendes pihenőhely a város szélén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Lourdes",
+            "tip": "Lac liniștit pentru o pauză relaxantă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Lourdes",
+            "tip": "Quiet lake perfect for a sunset break.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike-Souvenirs",
+            "tip": "Lokale Sportgeschäfte in der Avenue Peyramale."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Sajtok és pástétomok a piaci negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Delicii regionale pentru picnic la lac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Grab some cheese and pâté for a lakeside picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Hügel um Lourdes.",
+          "Nutzen Sie die 'Voie Verte' Radwege in der Umgebung.",
+          "Parken Sie Ihr Rad immer sicher mit einem Schloss.",
+          "Nehmen Sie ausreichend Wasser für den Pic du Jer mit."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a környékbeli dombokhoz.",
+          "Használja a 'Voie Verte' kerékpárutakat a környéken.",
+          "Mindig zárja le a kerékpárt, ha megáll.",
+          "Vigyen elég vizet a Pic du Jer túrához."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru dealurile din jur.",
+          "Folosiți pistele 'Voie Verte' din apropiere.",
+          "Asigurați întotdeauna bicicleta cu un antifurt.",
+          "Luați suficientă apă pentru urcarea la Pic du Jer."
+        ],
+        "en": [
+          "Rent an e-bike for the hills around Lourdes.",
+          "Use the 'Voie Verte' cycle paths in the area.",
+          "Always lock your bike securely when stopping.",
+          "Bring plenty of water for the Pic du Jer excursion."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Sanctuaire de Notre-Dame",
+          "coords": [
+            -0.0575,
+            43.0975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus 'Peyramale'.",
+            "hu": "Parkoljon a Peyramale mélygarázsban.",
+            "ro": "Parcați în parcarea subterană Peyramale.",
+            "en": "Park at the Peyramale underground car park."
+          }
+        },
+        {
+          "name": "Grotte de Massabielle",
+          "coords": [
+            -0.0585,
+            43.0976
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frühmorgens ist die spirituelle Energie am stärksten.",
+            "hu": "Kora reggel a legerősebb a spirituális élmény.",
+            "ro": "Energia spirituală este cea mai puternică dimineața devreme.",
+            "en": "Early morning offers the strongest spiritual experience."
+          }
+        },
+        {
+          "name": "Château Fort de Lourdes",
+          "coords": [
+            -0.0478,
+            43.0968
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Pyrenäen-Museum im Inneren.",
+            "hu": "Nézze meg a váron belüli Pireneusi Múzeumot is.",
+            "ro": "Vizitați și Muzeul Pirineilor din interiorul cetății.",
+            "en": "Don't miss the Pyrenean Museum inside the fortress."
+          }
+        },
+        {
+          "name": "Pic du Jer",
+          "coords": [
+            -0.0385,
+            43.0815
+          ],
+          "category": "natural features",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kostenloser Parkplatz an der Talstation der Seilbahn.",
+            "hu": "Ingyenes parkoló a sikló alsó állomásánál.",
+            "ro": "Parcare gratuită la stația de bază a funicularului.",
+            "en": "Free parking available at the funicular base station."
+          }
+        },
+        {
+          "name": "Lac de Lourdes",
+          "coords": [
+            -0.088,
+            43.109
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen Kaffee am See vor der Abfahrt.",
+            "hu": "Tökéletes hely egy kávéra a tóparton indulás előtt.",
+            "ro": "Loc perfect pentru o cafea pe malul lacului.",
+            "en": "Perfect spot for a coffee by the lake before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die wichtigsten Punkte von Lourdes. Nach dem Besuch des Heiligtums und der Grotte fahren Sie zur Festung hinauf. Am Nachmittag bringt Sie das Auto zur Seilbahn des Pic du Jer für eine spektakuläre Aussicht. Den Tag beschließen Sie am ruhigen See von Lourdes, der nur wenige Autominuten entfernt liegt.",
+        "hu": "Autóval kényelmesen érheti el Lourdes legfontosabb pontjait. A szentély és a barlang után a vár következik. Délután a Pic du Jer siklójához hajthat a látványos panorámáért. A napot a várostól pár percre lévő csendes lourdes-i tónál zárhatja, ahol nyugodt környezetben pihenhet meg.",
+        "ro": "Cu mașina, ajungeți ușor la cele mai importante puncte din Lourdes. După sanctuar și grotă, vizitați cetatea. După-amiaza mergeți la funicularul Pic du Jer pentru o priveliște spectaculoasă. Ziua se încheie la lacul Lourdes, situat la doar câteva minute de mers cu mașina.",
+        "en": "By car, you can comfortably reach Lourdes' key spots. After visiting the Sanctuary and Grotto, drive up to the fortress. In the afternoon, head to the Pic du Jer funicular for spectacular views. Conclude your day at the quiet Lake Lourdes, just a few minutes' drive from the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Embarcadère",
+            "tip": "Restaurant direkt am See von Lourdes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Embarcadère",
+            "tip": "Közvetlenül a tóparton található étterem."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Embarcadère",
+            "tip": "Restaurant situat chiar pe malul lacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Embarcadère",
+            "tip": "Scenic restaurant right on the shores of Lake Lourdes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pic du Jer Gipfel",
+            "tip": "Frische Bergluft und weite Sicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pic du Jer csúcs",
+            "tip": "Friss hegyi levegő és végtelen kilátás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Pic du Jer",
+            "tip": "Aer curat de munte și vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pic du Jer Summit",
+            "tip": "Fresh mountain air and vast horizons.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "E.Leclerc Lourdes",
+            "tip": "Großer Supermarkt für lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "E.Leclerc Lourdes",
+            "tip": "Nagyáruház helyi gasztro-ajándékokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "E.Leclerc",
+            "tip": "Hipermarket pentru specialități locale la prețuri bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "E.Leclerc Lourdes",
+            "tip": "Large supermarket for local food gifts and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie das Stadtzentrum während der Prozessionen.",
+          "Parkhäuser sind im Sommer oft voll, kommen Sie früh.",
+          "Die Fahrt zum Lac de Lourdes ist gut ausgeschildert.",
+          "Nutzen Sie den Wagen für Ausflüge in die nahen Hochpyrenäen."
+        ],
+        "hu": [
+          "Kerülje a belvárost a körmenetek idején.",
+          "A parkolóházak nyáron hamar megtelnek.",
+          "A tóhoz vezető út jól ki van táblázva.",
+          "Használja az autót kirándulásokhoz a közeli Magas-Pireneusokba."
+        ],
+        "ro": [
+          "Evitați centrul orașului în timpul procesiunilor.",
+          "Parcările se umplu repede vara, veniți devreme.",
+          "Drumul spre lac este bine semnalizat.",
+          "Folosiți mașina pentru excursii în Pirineii Înalți din apropiere."
+        ],
+        "en": [
+          "Avoid the town center during major processions.",
+          "Car parks fill up early in summer; arrive by 9 AM.",
+          "The road to the lake is well-signposted.",
+          "Use your car for excursions to the nearby High Pyrenees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Sanctuaire de Notre-Dame",
+          "coords": [
+            -0.0575,
+            43.0975
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der 'Citybus' hält direkt am Eingang des Heiligtums.",
+            "hu": "A Citybus közvetlenül a szentély bejáratánál áll meg.",
+            "ro": "Citybus oprește chiar la intrarea în sanctuar.",
+            "en": "The 'Citybus' stops right at the sanctuary entrance."
+          }
+        },
+        {
+          "name": "Basilique Notre-Dame-du-Rosaire",
+          "coords": [
+            -0.0572,
+            43.0974
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der drei Ebenen.",
+            "hu": "Csodálja meg a három szint építészetét.",
+            "ro": "Admirați arhitectura celor trei niveluri suprapuse.",
+            "en": "Admire the unique architecture of the three levels."
+          }
+        },
+        {
+          "name": "Musée de Cire",
+          "coords": [
+            -0.0495,
+            43.0955
+          ],
+          "category": "museums",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
+            "hu": "Csak rövid séta a legközelebbi buszmegállótól.",
+            "ro": "La doar câțiva pași de cea mai apropiată stație de autobuz.",
+            "en": "Just a short walk from the nearest bus stop."
+          }
+        },
+        {
+          "name": "Château Fort de Lourdes",
+          "coords": [
+            -0.0478,
+            43.0968
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hinter dem Museum geht es direkt zur Burg.",
+            "hu": "A múzeum mögött közvetlen út vezet a vár felé.",
+            "ro": "În spatele muzeului este drumul spre cetate.",
+            "en": "A direct path leads to the fortress from behind the museum."
+          }
+        },
+        {
+          "name": "Pic du Jer",
+          "coords": [
+            -0.0385,
+            43.0815
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Linie L2 bringt Sie direkt zur Talstation.",
+            "hu": "Az L2-es buszjárat közvetlenül a siklóhoz viszi.",
+            "ro": "Linia L2 vă duce direct la baza funicularului.",
+            "en": "Bus line L2 takes you directly to the funicular station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Lourdes, um die Highlights zu sehen. Vom religiösen Zentrum geht es zum Wachsfigurenmuseum und zur alten Festung. Am späten Nachmittag bringt Sie der Bus zum Pic du Jer, um den Tag mit einem Blick über die Gipfel der Pyrenäen abzuschließen.",
+        "hu": "Használja Lourdes hatékony buszhálózatát a látnivalók eléréséhez. A vallási központtól a Viaszmúzeumhoz, majd a várba látogat el. Késő délután busszal mehet a Pic du Jer-hez, hogy a napot a Pireneusok csúcsaira nyíló kilátással zárja.",
+        "ro": "Folosiți rețeaua eficientă de autobuze din Lourdes pentru a vedea atracțiile principale. De la centrul religios mergeți la Muzeul de Ceară și la cetate. După-amiaza târziu, autobuzul vă duce la Pic du Jer pentru a încheia ziua cu o vedere superbă.",
+        "en": "Use Lourdes' efficient bus network to reach all highlights. From the religious center, head to the Wax Museum and the old fortress. In the late afternoon, the bus will take you to Pic du Jer to end the day with a view over the Pyrenean peaks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Little de Lourdes",
+            "tip": "Gemütliches Bistro nahe dem Heiligtum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Little de Lourdes",
+            "tip": "Hangulatos bisztró a szentély közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Little de Lourdes",
+            "tip": "Bistro primitor aproape de sanctuar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Little de Lourdes",
+            "tip": "Cozy bistro with great service near the sanctuary."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Festung",
+            "tip": "Botanischer Garten mit Aussicht.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várkert",
+            "tip": "Botanikus kert kilátással a városra.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina cetății",
+            "tip": "Grădină botanică cu vedere spre oraș.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fortress Garden",
+            "tip": "Botanical garden inside the castle with views.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstände",
+            "tip": "Entlang der Avenue Monseigneur Schoepfer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kegytárgy árusok",
+            "tip": "A sugárút mentén számtalan kis üzlet található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de suveniruri",
+            "tip": "De-a lungul Avenue Monseigneur Schoepfer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Stalls",
+            "tip": "Many shops along Avenue Monseigneur Schoepfer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Citybus beim Fahrer.",
+          "Die Busse fahren im Sommer bis spät am Abend.",
+          "Die Haltestellen sind gut markiert.",
+          "In der Mittagszeit fahren manche Linien seltener."
+        ],
+        "hu": [
+          "Vegyen napijegyet a sofőrnél a Citybusra.",
+          "A buszok nyáron késő estig közlekednek.",
+          "A megállók jól láthatóan vannak jelölve.",
+          "Ebédidőben egyes járatok ritkábban közlekednek."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru Citybus de la șofer.",
+          "Autobuzele circulă până târziu în timpul verii.",
+          "Stațiile sunt bine marcate în tot orașul.",
+          "Unele linii circulă mai rar în timpul prânzului."
+        ],
+        "en": [
+          "Buy a day pass for the Citybus from the driver.",
+          "Buses run until late evening during the peak season.",
+          "Bus stops are clearly marked throughout the town.",
+          "Some lines run less frequently during lunch hours."
+        ]
+      }
+    }
+  }
+}

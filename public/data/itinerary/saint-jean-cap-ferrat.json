@@ -1,0 +1,974 @@
+{
+  "city_id": "saint-jean-cap-ferrat",
+  "anchor": {
+    "name": "Saint-Jean-Cap-Ferrat",
+    "coords": [
+      7.3325,
+      43.6892
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Promenade Maurice Rouvier",
+          "coords": [
+            7.3352,
+            43.6915
+          ],
+          "category": "park/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den flachen Küstenweg mit Blick auf Beaulieu-sur-Mer.",
+            "hu": "Élvezze a sima tengerparti sétányt és a kilátást Beaulieu-sur-Mer felé.",
+            "ro": "Bucurați-vă de poteca de coastă plană cu vedere spre Beaulieu-sur-Mer.",
+            "en": "Enjoy the flat coastal path with views towards Beaulieu-sur-Mer."
+          }
+        },
+        {
+          "name": "Villa Ephrussi de Rothschild",
+          "coords": [
+            7.3312,
+            43.6948
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Buchen Sie Tickets online, um die Warteschlange am Eingang zu umgehen.",
+            "hu": "Foglaljon jegyet online, hogy elkerülje a sorban állást a bejáratnál.",
+            "ro": "Rezervați bilete online pentru a evita coada de la intrare.",
+            "en": "Book tickets online to skip the queue at the entrance."
+          }
+        },
+        {
+          "name": "Jardins de la Villa Ephrussi",
+          "coords": [
+            7.3308,
+            43.6942
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die musikalischen Springbrunnen alle 20 Minuten.",
+            "hu": "Ne hagyja ki a zenélő szökőkutakat minden 20 percben.",
+            "ro": "Nu ratați fântânile muzicale care pornesc la fiecare 20 de minute.",
+            "en": "Don't miss the musical fountains performing every 20 minutes."
+          }
+        },
+        {
+          "name": "Port de Saint-Jean",
+          "coords": [
+            7.3335,
+            43.6888
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit frischen Meeresfrüchten am Hafen.",
+            "hu": "Tökéletes hely egy tengeri herkentyűs ebédhez a kikötőben.",
+            "ro": "Locul perfect pentru un prânz cu fructe de mare proaspete în port.",
+            "en": "Perfect spot for a fresh seafood lunch by the harbor."
+          }
+        },
+        {
+          "name": "Plage de Paloma",
+          "coords": [
+            7.3462,
+            43.6895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein geschützter Strand, ideal zum Schwimmen in kristallklarem Wasser.",
+            "hu": "Védett strand, ideális úszáshoz a kristálytiszta vízben.",
+            "ro": "O plajă protejată, ideală pentru înot în ape cristaline.",
+            "en": "A sheltered beach, ideal for swimming in crystal-clear water."
+          }
+        },
+        {
+          "name": "Chapelle Saint-Hospice",
+          "coords": [
+            7.3515,
+            43.6872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Bronzestatue der Jungfrau Maria daneben.",
+            "hu": "Csodálja meg mellette a Szűz Mária impozáns bronzszobrát.",
+            "ro": "Admirați statuia impunătoare de bronz a Fecioarei Maria de lângă.",
+            "en": "Admire the imposing bronze statue of the Virgin Mary next to it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem sanften Spaziergang entlang der Maurice Rouvier Promenade, die einen herrlichen Blick auf die Bucht bietet. Am Vormittag erkunden Sie die prächtige Villa Ephrussi de Rothschild und ihre neun thematischen Gärten.\n\nMittags genießen Sie die lebhafte Atmosphäre im Dorf Saint-Jean bei einem mediterranen Mittagessen am Hafen. Der Nachmittag gehört der Entspannung am berühmten Paloma Beach, gefolgt von einem Besuch der historischen Saint-Hospice Kapelle an der Spitze der Halbinsel.",
+        "hu": "Kezdje a napot egy kellemes sétával a Maurice Rouvier sétányon, ahonnan gyönyörű kilátás nyílik az öbölre. Délelőtt fedezze fel a pompás Villa Ephrussi de Rothschild épületét és annak kilenc tematikus kertjét.\n\nEbédre élvezze Saint-Jean falu hangulatát a kikötő melletti éttermek egyikében. A délutánt töltse pihenéssel a híres Paloma strandon, majd látogasson el a történelmi Saint-Hospice kápolnához a félsziget csúcsán.",
+        "ro": "Începeți ziua cu o plimbare ușoară pe faleza Maurice Rouvier, care oferă vederi superbe asupra golfului. Dimineața, explorați fastuoasa Villa Ephrussi de Rothschild și cele nouă grădini tematice ale sale.\n\nLa prânz, bucurați-vă de atmosfera din satul Saint-Jean cu un prânz mediteranean lângă port. După-amiaza este dedicată relaxării pe faimoasa plajă Paloma, urmată de o vizită la capela istorică Saint-Hospice.",
+        "en": "Start your day with a gentle stroll along the Maurice Rouvier promenade, offering stunning views of the bay. In the morning, explore the magnificent Villa Ephrussi de Rothschild and its nine themed gardens.\n\nAt lunch, enjoy the atmosphere of Saint-Jean village with a Mediterranean meal by the port. The afternoon is dedicated to relaxation at the famous Paloma Beach, followed by a visit to the historic Saint-Hospice chapel at the tip of the peninsula."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salade Niçoise",
+            "tip": "Probieren Sie die authentische Version im Restaurant Capitaine Cook."
+          },
+          {
+            "name": "Frischer Wolfsbarsch",
+            "tip": "In Salzkruste serviert in den Restaurants am Quai Lindbergh."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salade Niçoise",
+            "tip": "Kóstolja meg az autentikus változatot a Capitaine Cook étteremben."
+          },
+          {
+            "name": "Friss sügér",
+            "tip": "Sóburokban sütve a Quai Lindbergh éttermeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salade Niçoise",
+            "tip": "Gustați varianta autentică la restaurantul Capitaine Cook."
+          },
+          {
+            "name": "Biban de mare proaspăt",
+            "tip": "Servit în crustă de sare la restaurantele de pe Quai Lindbergh."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salade Niçoise",
+            "tip": "Try the authentic version at Capitaine Cook restaurant."
+          },
+          {
+            "name": "Fresh Sea Bass",
+            "tip": "Served in a salt crust at the restaurants on Quai Lindbergh."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "Ein versteckter Park oberhalb des Hafens.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pointe de Saint-Hospice",
+            "tip": "Wilder Pfad mit Meeresrauschen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "Egy rejtett park a kikötő felett.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pointe de Saint-Hospice",
+            "tip": "Vad ösvény a tenger morajlásával.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "Un parc ascuns deasupra portului.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pointe de Saint-Hospice",
+            "tip": "Potecă sălbatică cu sunetul mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "A hidden park above the harbor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Pointe de Saint-Hospice",
+            "tip": "Wild path with the sound of the waves.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Villa Ephrussi Boutique",
+            "tip": "Elegante Souvenirs und Kunstbücher."
+          },
+          {
+            "name": "Le Marché de Saint-Jean",
+            "tip": "Lokale Produkte am Dienstagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Ephrussi Boutique",
+            "tip": "Elegáns szuvenírek és művészeti könyvek."
+          },
+          {
+            "name": "Le Marché de Saint-Jean",
+            "tip": "Helyi termékek kedd délelőttönként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique Villa Ephrussi",
+            "tip": "Suveniruri elegante și cărți de artă."
+          },
+          {
+            "name": "Piața din Saint-Jean",
+            "tip": "Produse locale în diminețile de marți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Ephrussi Boutique",
+            "tip": "Elegant souvenirs and art books."
+          },
+          {
+            "name": "Saint-Jean Market",
+            "tip": "Local products on Tuesday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die Küstenpfade.",
+          "Die Villa Ephrussi ist mittags am vollsten, gehen Sie früh.",
+          "Nehmen Sie ausreichend Wasser für den Weg zur Kapelle mit.",
+          "Parken ist im Sommer sehr schwierig, nutzen Sie den Bus 15."
+        ],
+        "hu": [
+          "Viseljen kényelmes sétálócipőt a parti ösvényekhez.",
+          "A Villa Ephrussi délben a legzsúfoltabb, menjen korán.",
+          "Vigyen elég vizet a kápolnához vezető útra.",
+          "A parkolás nyáron nagyon nehéz, használja a 15-ös buszt."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili pentru potecile de coastă.",
+          "Vila Ephrussi este cea mai aglomerată la prânz, mergeți devreme.",
+          "Luați suficientă apă pentru drumul către capelă.",
+          "Parcarea este foarte dificilă vara, folosiți autobuzul 15."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the coastal paths.",
+          "Villa Ephrussi is busiest at midday, so go early.",
+          "Take plenty of water for the walk to the chapel.",
+          "Parking is very difficult in summer; use bus line 15."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Port de Saint-Jean",
+          "coords": [
+            7.3335,
+            43.6888
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie Ihr Fahrrad direkt im Dorf.",
+            "hu": "Bérelje ki a kerékpárt közvetlenül a faluban.",
+            "ro": "Închiriați bicicleta direct din sat.",
+            "en": "Rent your bike directly in the village."
+          }
+        },
+        {
+          "name": "Villa Ephrussi de Rothschild",
+          "coords": [
+            7.3312,
+            43.6948
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Es gibt Fahrradständer am Haupteingang.",
+            "hu": "Vannak kerékpártárolók a főbejáratnál.",
+            "ro": "Există rastele de biciclete la intrarea principală.",
+            "en": "There are bike racks at the main entrance."
+          }
+        },
+        {
+          "name": "Phare du Cap Ferrat",
+          "coords": [
+            7.3292,
+            43.6785
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt auf der wenig befahrenen Straße zum Leuchtturm.",
+            "hu": "Élvezze a biciklizést a világítótoronyhoz vezető csendes úton.",
+            "ro": "Bucurați-vă de plimbarea pe drumul puțin circulat către far.",
+            "en": "Enjoy the ride on the quiet road leading to the lighthouse."
+          }
+        },
+        {
+          "name": "Plage de Paloma",
+          "coords": [
+            7.3462,
+            43.6895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad sicher ab, bevor Sie zum Strand gehen.",
+            "hu": "Zárja le biztonságosan a biciklit, mielőtt lemegy a strandra.",
+            "ro": "Încuiați bine bicicleta înainte de a merge la plajă.",
+            "en": "Lock your bike securely before heading down to the beach."
+          }
+        },
+        {
+          "name": "Chapelle Saint-Hospice",
+          "coords": [
+            7.3515,
+            43.6872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die Auffahrt zur Kapelle ist kurz, aber etwas steil.",
+            "hu": "Az emelkedő a kápolnához rövid, de kissé meredek.",
+            "ro": "Urcarea către capelă este scurtă, dar puțin abruptă.",
+            "en": "The climb to the chapel is short but a bit steep."
+          }
+        },
+        {
+          "name": "Cimetière Belge",
+          "coords": [
+            7.3485,
+            43.6885
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein geschichtsträchtiger, friedlicher Ort mit Meerblick.",
+            "hu": "Történelmi, békés hely kilátással a tengerre.",
+            "ro": "Un loc istoric și liniștit cu vedere la mare.",
+            "en": "A historic, peaceful spot with sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Halbinsel mit dem Fahrrad, beginnend am Hafen von Saint-Jean. Radeln Sie hinauf zur Villa Ephrussi und folgen Sie dann der malerischen Küstenstraße zum südlichen Leuchtturm.\n\nNach einer erholsamen Pause am Paloma Beach führt der Weg zur historischen Saint-Hospice Kapelle. Diese Tour kombiniert architektonische Highlights mit der natürlichen Schönheit der wilden Küstenabschnitte.",
+        "hu": "Fedezze fel a félszigetet kerékpárral, Saint-Jean kikötőjéből indulva. Tekerjen fel a Villa Ephrussihoz, majd kövesse a festői parti utat a déli világítótoronyig.\n\nEgy pihentető palomai strandolás után az út a történelmi Saint-Hospice kápolnához vezet. Ez a túra ötvözi az építészeti remekműveket a vad tengerparti szakaszok természetes szépségével.",
+        "ro": "Descoperiți peninsula cu bicicleta, pornind din portul Saint-Jean. Pedalați până la Villa Ephrussi, apoi urmați drumul de coastă pitoresc către farul sudic.\n\nDupă o pauză relaxantă la plaja Paloma, traseul duce la capela istorică Saint-Hospice. Acest tur combină punctele de atracție arhitecturale cu frumusețea naturală a zonelor de coastă sălbatice.",
+        "en": "Explore the peninsula by bike, starting from the port of Saint-Jean. Cycle up to Villa Ephrussi and then follow the scenic coastal road to the southern lighthouse.\n\nAfter a relaxing break at Paloma Beach, the route leads to the historic Saint-Hospice chapel. This tour combines architectural highlights with the natural beauty of the wild coastal sections."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Socca",
+            "tip": "Herzhafter Kichererbsenfladen, idealer Snack für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Socca",
+            "tip": "Kiadós csicseriborsó lepény, ideális snack kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Socca",
+            "tip": "Clătită sărată de năut, gustarea ideală pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Socca",
+            "tip": "Hearty chickpea pancake, an ideal snack for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phare du Cap Ferrat",
+            "tip": "Ruhiger Panoramablick auf das offene Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Phare du Cap Ferrat",
+            "tip": "Csendes panoráma a nyílt tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Phare du Cap Ferrat",
+            "tip": "Panoramă liniștită spre marea deschisă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Phare du Cap Ferrat",
+            "tip": "Quiet panoramic view of the open sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "In kleinen Feinkostläden im Dorf erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "A falu kis csemegeüzleteiben kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Disponibil în micile magazine de delicatese din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Available in small delicatessen shops in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng, achten Sie auf Autos.",
+          "Ein E-Bike ist wegen der Steigungen sehr zu empfehlen.",
+          "Meiden Sie die Hauptverkehrszeiten am späten Nachmittag.",
+          "Tragen Sie auch beim Radfahren Sonnenschutz."
+        ],
+        "hu": [
+          "Az utak szűkek, figyeljen az autókra.",
+          "Az emelkedők miatt az elektromos kerékpár erősen ajánlott.",
+          "Kerülje a késő délutáni csúcsforgalmat.",
+          "Kerékpározás közben is használjon naptejet."
+        ],
+        "ro": [
+          "Drumurile sunt înguste, atenție la mașini.",
+          "O bicicletă electrică este recomandată din cauza pantelor.",
+          "Evitați orele de vârf de la sfârșitul după-amiezii.",
+          "Folosiți protecție solară chiar și când mergeți cu bicicleta."
+        ],
+        "en": [
+          "The roads are narrow, so watch out for cars.",
+          "An e-bike is highly recommended due to the inclines.",
+          "Avoid late afternoon rush hours.",
+          "Wear sunscreen even while cycling."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Villa Ephrussi de Rothschild",
+          "coords": [
+            7.3312,
+            43.6948
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze stehen direkt an der Villa zur Verfügung.",
+            "hu": "Ingyenes parkoló áll rendelkezésre közvetlenül a villánál.",
+            "ro": "Parcare gratuită disponibilă direct la vilă.",
+            "en": "Free parking is available directly at the villa."
+          }
+        },
+        {
+          "name": "Port de Saint-Jean",
+          "coords": [
+            7.3335,
+            43.6888
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Petit Port'.",
+            "hu": "Használja a 'Petit Port' parkolóházat.",
+            "ro": "Folosiți parcarea supraetajată 'Petit Port'.",
+            "en": "Use the 'Petit Port' parking garage."
+          }
+        },
+        {
+          "name": "Chapelle Saint-Hospice",
+          "coords": [
+            7.3515,
+            43.6872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es gibt nur wenige Parkplätze an der Kapelle, kommen Sie pünktlich.",
+            "hu": "Kevés parkolóhely van a kápolnánál, érkezzen időben.",
+            "ro": "Sunt puține locuri de parcare la capelă, veniți la timp.",
+            "en": "There are few parking spots at the chapel, so arrive on time."
+          }
+        },
+        {
+          "name": "Phare du Cap Ferrat",
+          "coords": [
+            7.3292,
+            43.6785
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie an der Straße und gehen Sie den letzten Weg zu Fuß.",
+            "hu": "Parkoljon az úton, és tegye meg gyalog az utolsó szakaszt.",
+            "ro": "Parcați pe marginea drumului și parcurgeți ultima parte pe jos.",
+            "en": "Park on the road and walk the final section."
+          }
+        },
+        {
+          "name": "Plage de Paloma",
+          "coords": [
+            7.3462,
+            43.6895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Valet-Service am Paloma Beach ist im Sommer hilfreich.",
+            "hu": "A Paloma Beach valet parkolása nyáron nagyon hasznos.",
+            "ro": "Serviciul de valet de la Paloma Beach este util vara.",
+            "en": "Paloma Beach valet parking is helpful in summer."
+          }
+        },
+        {
+          "name": "Èze Village (Nearby Trip)",
+          "coords": [
+            7.362,
+            43.7275
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ein mittelalterliches Dorf auf einem Felsen mit Panoramablick.",
+            "hu": "Középkori falu egy sziklán, panorámás kilátással.",
+            "ro": "Un sat medieval pe o stâncă cu vedere panoramică.",
+            "en": "A medieval village on a rock with panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem alle Ecken der Halbinsel. Beginnen Sie früh bei der Villa Ephrussi, um einen Parkplatz zu sichern. Erkunden Sie danach den Hafen und die Kapelle Saint-Hospice am östlichen Ende.\n\nNach dem Strandbesuch am Paloma Beach ermöglicht das Auto einen schnellen Abstecher in das nahegelegene Bergdorf Èze, das einen atemberaubenden Blick über die gesamte Riviera bietet.",
+        "hu": "Autóval kényelmesen elérheti a félsziget összes pontját. Kezdjen korán a Villa Ephrussinál, hogy biztosítson parkolóhelyet. Ezután fedezze fel a kikötőt és a Saint-Hospice kápolnát a keleti oldalon.\n\nA palomai strandolás után az autó lehetővé teszi, hogy gyorsan átugorjon a közeli Èze hegyi falujába, ahonnan lélegzetelállító kilátás nyílik az egész Riviérára.",
+        "ro": "Cu mașina puteți ajunge confortabil în toate colțurile peninsulei. Începeți devreme la Villa Ephrussi pentru a vă asigura un loc de parcare. Apoi, explorați portul și capela Saint-Hospice din extremitatea estică.\n\nDupă vizita la plaja Paloma, mașina vă permite o excursie rapidă în satul montan apropiat Èze, care oferă o priveliște uluitoare asupra întregii Riviere.",
+        "en": "By car, you can comfortably reach all corners of the peninsula. Start early at Villa Ephrussi to secure a parking spot. Then explore the harbor and the Saint-Hospice chapel at the eastern end.\n\nAfter visiting Paloma Beach, the car allows for a quick side trip to the nearby mountain village of Èze, offering breathtaking views over the entire Riviera."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pissaladière",
+            "tip": "Zwiebelkuchen mit Sardellen, idealer Snack zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pissaladière",
+            "tip": "Hagymás lepény szardellával, ideális elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pissaladière",
+            "tip": "Plăcintă cu ceapă și anșoa, gustarea ideală la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pissaladière",
+            "tip": "Onion tart with anchovies, an ideal take-away snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Botanique d'Èze",
+            "tip": "Panoramablick über die Küste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Botanique d'Èze",
+            "tip": "Panorámás kilátás a partvidékre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Botanique d'Èze",
+            "tip": "Vedere panoramică asupra coastei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Botanique d'Èze",
+            "tip": "Panoramic view over the coast.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fragonard Parfümerie (Èze)",
+            "tip": "Besuchen Sie die Fabrik und den Shop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fragonard parfüméria (Èze)",
+            "tip": "Látogassa meg a gyárat és a boltot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parfumeria Fragonard (Èze)",
+            "tip": "Vizitați fabrica și magazinul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragonard Perfumery (Èze)",
+            "tip": "Visit the factory and the shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkgebühren sind im Sommer sehr hoch.",
+          "Enge Kurven auf der Basse Corniche erfordern Vorsicht.",
+          "Viele Parkplätze akzeptieren nur Kreditkarten.",
+          "Ein kleiner Wagen ist auf der Halbinsel vorteilhaft."
+        ],
+        "hu": [
+          "A parkolási díjak nyáron nagyon magasak.",
+          "A Basse Corniche éles kanyarjai óvatosságot igényelnek.",
+          "Sok parkolóautomata csak bankkártyát fogad el.",
+          "Egy kisautó előnyösebb a félszigeten."
+        ],
+        "ro": [
+          "Taxele de parcare sunt foarte mari vara.",
+          "Curbele strânse de pe Basse Corniche necesită atenție.",
+          "Multe automate de parcare acceptă doar carduri.",
+          "O mașină mică este avantajoasă pe peninsulă."
+        ],
+        "en": [
+          "Parking fees are very high in summer.",
+          "Sharp curves on the Basse Corniche require caution.",
+          "Many parking meters only accept credit cards.",
+          "A small car is advantageous on the peninsula."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Villa Ephrussi de Rothschild",
+          "coords": [
+            7.3312,
+            43.6948
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus 15 ab Nizza oder Beaulieu.",
+            "hu": "Használja a 15-ös buszt Nizzából vagy Beaulieu-ből.",
+            "ro": "Folosiți autobuzul 15 din Nisa sau Beaulieu.",
+            "en": "Use bus line 15 from Nice or Beaulieu."
+          }
+        },
+        {
+          "name": "Port de Saint-Jean",
+          "coords": [
+            7.3335,
+            43.6888
+          ],
+          "category": "gastro",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die Haltestelle 'Saint-Jean-Village' liegt direkt am Zentrum.",
+            "hu": "A 'Saint-Jean-Village' megálló közvetlenül a központban van.",
+            "ro": "Stația 'Saint-Jean-Village' este chiar în centru.",
+            "en": "The 'Saint-Jean-Village' stop is right in the center."
+          }
+        },
+        {
+          "name": "Plage de Paloma",
+          "coords": [
+            7.3462,
+            43.6895
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vom Dorf aus ist es ein kurzer Spaziergang zum Strand.",
+            "hu": "A falutól egy rövid séta a strand.",
+            "ro": "Din sat este o scurtă plimbare până la plajă.",
+            "en": "It's a short walk from the village to the beach."
+          }
+        },
+        {
+          "name": "Chapelle Saint-Hospice",
+          "coords": [
+            7.3515,
+            43.6872
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der Wanderpfad 'Point Saint-Hospice' beginnt am Paloma Beach.",
+            "hu": "A 'Point Saint-Hospice' gyalogút a Paloma strandnál kezdődik.",
+            "ro": "Traseul 'Point Saint-Hospice' începe de la plaja Paloma.",
+            "en": "The 'Point Saint-Hospice' hiking path starts at Paloma Beach."
+          }
+        },
+        {
+          "name": "Cimetière Belge",
+          "coords": [
+            7.3485,
+            43.6885
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger Abschluss vor der Rückfahrt mit dem Bus.",
+            "hu": "Csendes lezárás a visszabuszozás előtt.",
+            "ro": "Un final liniștit înainte de întoarcerea cu autobuzul.",
+            "en": "A quiet finish before taking the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Bus 15 ist der beste Weg, um Cap Ferrat ohne Parkplatzsorgen zu erkunden. Er bringt Sie direkt zur Villa Ephrussi und ins Zentrum von Saint-Jean.\n\nNach dem Mittagessen im Hafen spazieren Sie zum Paloma Beach und weiter zur Kapelle. Das gut ausgebaute Busnetz verbindet die Halbinsel ideal mit Nizza und Villefranche.",
+        "hu": "A 15-ös busz a legjobb módja Cap Ferrat felfedezésének parkolási gondok nélkül. Közvetlenül a Villa Ephrussihoz és Saint-Jean központjába visz.\n\nA kikötői ebéd után sétáljon el a Paloma strandra, majd tovább a kápolnához. A jól kiépített buszhálózat ideálisan összeköti a félszigetet Nizzával és Villefranche-sal.",
+        "ro": "Autobuzul 15 este cea mai bună modalitate de a explora Cap Ferrat fără grija parcării. Vă lasă chiar la Villa Ephrussi și în centrul localității Saint-Jean.\n\nDupă prânzul în port, mergeți pe jos la plaja Paloma și mai departe la capelă. Rețeaua de autobuze conectează ideal peninsula de Nisa și Villefranche.",
+        "en": "Bus line 15 is the best way to explore Cap Ferrat without parking worries. It takes you directly to Villa Ephrussi and the center of Saint-Jean.\n\nAfter lunch in the port, walk to Paloma Beach and then on to the chapel. The well-established bus network ideally connects the peninsula with Nice and Villefranche."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Glace Artisanale",
+            "tip": "Hausgemachtes Eis am Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glace Artisanale",
+            "tip": "Élvezze a kézműves fagyit a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Glace Artisanale",
+            "tip": "Savurați o înghețată artizanală în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Glace Artisanale",
+            "tip": "Enjoy artisan ice cream at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade Maurice Rouvier",
+            "tip": "Ruhiger Weg zurück nach Beaulieu.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Promenade Maurice Rouvier",
+            "tip": "Csendes út vissza Beaulieu-be.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenade Maurice Rouvier",
+            "tip": "Drum liniștit înapoi spre Beaulieu.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Maurice Rouvier",
+            "tip": "Quiet path back to Beaulieu.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Postkarten",
+            "tip": "Im Tabac im Dorfzentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi képeslapok",
+            "tip": "A falu központjában lévő dohányboltban kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi locale",
+            "tip": "Disponibile la tutungeria din centrul satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Postcards",
+            "tip": "Available at the 'tabac' in the village center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Validieren Sie Ihr Ticket beim Einsteigen in den Bus.",
+          "Die Busse fahren im Sommer etwa alle 20 Minuten.",
+          "Laden Sie die 'Lignes d'Azur' App für Echtzeit-Infos herunter.",
+          "Die letzte Verbindung am Abend ist oft früher als erwartet."
+        ],
+        "hu": [
+          "Érvényesítse a jegyét felszálláskor.",
+          "A buszok nyáron körülbelül 20 percenként járnak.",
+          "Töltse le a 'Lignes d'Azur' alkalmazást a valós idejű infókért.",
+          "Az esti utolsó járat gyakran korábban indul a vártnál."
+        ],
+        "ro": [
+          "Validați biletul la urcarea în autobuz.",
+          "Autobuzele circulă aproximativ la fiecare 20 de minute vara.",
+          "Descărcați aplicația 'Lignes d'Azur' pentru info în timp real.",
+          "Ultima cursă de seară este adesea mai devreme decât vă așteptați."
+        ],
+        "en": [
+          "Validate your ticket upon boarding the bus.",
+          "Buses run approximately every 20 minutes in summer.",
+          "Download the 'Lignes d'Azur' app for real-time info.",
+          "The last evening connection is often earlier than expected."
+        ]
+      }
+    }
+  }
+}

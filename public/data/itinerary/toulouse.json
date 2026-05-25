@@ -1,0 +1,1094 @@
+{
+  "city_id": "toulouse",
+  "anchor": {
+    "name": "Place du Capitole",
+    "coords": [
+      1.4442,
+      43.6047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place du Capitole",
+          "coords": [
+            1.4442,
+            43.6047
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Festsaal im ersten Stock, wenn keine Zeremonie stattfindet.",
+            "hu": "Látogasson el az emeleti díszterembe, ha épp nincs hivatalos ceremónia.",
+            "ro": "Vizitați sala de recepție de la etaj dacă nu are loc o ceremonie oficială.",
+            "en": "Visit the reception hall on the first floor if no official ceremony is taking place."
+          }
+        },
+        {
+          "name": "Basilique Saint-Sernin",
+          "coords": [
+            1.4421,
+            43.6083
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser UNESCO-Welterbestätte.",
+            "hu": "Csodálja meg az UNESCO világörökség részét képező román kori építészetet.",
+            "ro": "Admirați arhitectura romanică a acestui sit inclus în patrimoniul UNESCO.",
+            "en": "Admire the Romanesque architecture of this UNESCO World Heritage site."
+          }
+        },
+        {
+          "name": "Couvent des Jacobins",
+          "coords": [
+            1.4402,
+            43.6033
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die Palme der Jakobiner ist eine einzigartige gotische Säulenstruktur.",
+            "hu": "A Jakobinusok pálmája egy egyedülálló gótikus oszlopszerkezet.",
+            "ro": "Palmierul Iacobinilor este o structură de coloane gotice unică.",
+            "en": "The Palm of the Jacobins is a unique Gothic column structure."
+          }
+        },
+        {
+          "name": "Quai de la Daurade",
+          "coords": [
+            1.4385,
+            43.6025
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für ein Picknick oder ein Mittagessen mit Blick auf den Pont Neuf.",
+            "hu": "Ideális egy piknikhez vagy ebédhez, kilátással a Pont Neuf hídra.",
+            "ro": "Ideal pentru un picnic sau un prânz cu vedere la Pont Neuf.",
+            "en": "Ideal for a picnic or lunch with a view of the Pont Neuf."
+          }
+        },
+        {
+          "name": "Musée des Augustins",
+          "coords": [
+            1.4465,
+            43.601
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Kloster des Museums bietet eine Oase der Ruhe inmitten der Stadt.",
+            "hu": "A múzeum kerengője a nyugalom oázisát kínálja a város közepén.",
+            "ro": "Claustrul muzeului oferă o oază de liniște în mijlocul orașului.",
+            "en": "The museum's cloister offers an oasis of calm in the middle of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Toulouse auf dem Place du Capitole, wo die rosa Backsteinfassade im Sonnenlicht leuchtet. Ein kurzer Spaziergang führt Sie zur majestätischen Basilika Saint-Sernin, einem Meisterwerk der Romanik.\n\nZum Mittagessen schlendern Sie zum Ufer der Garonne am Quai de la Daurade. Genießen Sie die entspannte Atmosphäre und die Aussicht auf den Fluss, während Sie lokale Spezialitäten probieren.\n\nAm Nachmittag erkunden Sie das Viertel der Jakobiner mit seiner beeindruckenden Kirche und tauchen dann in die Kunstgeschichte im Musée des Augustins ein, das in einem ehemaligen Kloster untergebracht ist.\n\nBeenden Sie den Tag mit einem Spaziergang über den Pont Neuf, während die untergehende Sonne die Stadt in ein warmes, rötliches Licht taucht, das Toulouse seinen Namen gab.",
+        "hu": "Kezdje a reggelt Toulouse szívében, a Place du Capitole téren, ahol a rózsaszín téglafalak ragyognak a napsütésben. Egy rövid séta elvezeti a fenséges Saint-Sernin-bazilikához, a román stílus remekművéhez.\n\nEbédidőben sétáljon le a Garonne partjára, a Quai de la Daurade-hoz. Élvezze a nyugodt légkört és a folyóra nyíló kilátást, miközben helyi különlegességeket kóstol.\n\nDélután fedezze fel a Jakobinusok negyedét és lenyűgöző templomukat, majd merüljön el a művészettörténetben a Musée des Augustins falai között, amely egy egykori kolostorban kapott helyet.\n\nA napot zárja egy sétával a Pont Neuf hídon, miközben a lemenő nap meleg, vöröses fénybe vonja a várost, amelyről Toulouse a nevét kapta.",
+        "ro": "Începeți dimineața în inima orașului Toulouse, în Place du Capitole, unde fațadele de cărămidă roz strălucesc în lumina soarelui. O scurtă plimbare vă va duce la maiestuoasa Bazilică Saint-Sernin, o capodoperă a stilului romanic.\n\nLa prânz, mergeți spre malul Garonnei, la Quai de la Daurade. Bucurați-vă de atmosfera relaxată și de priveliștea fluviului în timp ce gustați specialități locale.\n\nDupă-amiaza, explorați cartierul Iacobinilor cu biserica sa impresionantă, apoi scufundați-vă în istoria artei la Musée des Augustins, găzduit într-o fostă mănăstire.\n\nÎncheiați ziua cu o plimbare pe Pont Neuf, în timp ce soarele la apus scaldă orașul într-o lumină caldă, roșiatică, cea care i-a dat numele de Orașul Roz.",
+        "en": "Start your morning in the heart of Toulouse at Place du Capitole, where the pink brick facades glow in the sunlight. A short walk leads you to the majestic Basilica of Saint-Sernin, a masterpiece of Romanesque art.\n\nAt lunchtime, stroll down to the banks of the Garonne at Quai de la Daurade. Enjoy the relaxed atmosphere and the river view while tasting local specialties.\n\nIn the afternoon, explore the Jacobins quarter and its impressive church, then immerse yourself in art history at the Musée des Augustins, housed in a former monastery.\n\nEnd the day with a walk across the Pont Neuf, as the setting sun bathes the city in the warm, reddish light that gave Toulouse its famous nickname."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cassoulet Toulousain",
+            "tip": "Der herzhafte Klassiker mit weißen Bohnen und Fleisch."
+          },
+          {
+            "name": "Saucisse de Toulouse",
+            "tip": "Die traditionelle Bratwurst, oft mit handgemachtem Senf serviert."
+          },
+          {
+            "name": "Le Bibent",
+            "tip": "Ein historisches Restaurant direkt am Place du Capitole."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toulouse-i Cassoulet",
+            "tip": "Kiadós klasszikus fehérbabbal és különböző húsokkal."
+          },
+          {
+            "name": "Toulouse-i kolbász",
+            "tip": "Hagyományos sült kolbász, gyakran kézműves mustárral."
+          },
+          {
+            "name": "Le Bibent",
+            "tip": "Történelmi étterem közvetlenül a Place du Capitole téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cassoulet de Toulouse",
+            "tip": "Clasicul consistent cu fasole albă și diverse tipuri de carne."
+          },
+          {
+            "name": "Cârnați de Toulouse",
+            "tip": "Cârnați tradiționali, adesea serviți cu muștar artizanal."
+          },
+          {
+            "name": "Le Bibent",
+            "tip": "Un restaurant istoric situat chiar în Place du Capitole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toulouse Cassoulet",
+            "tip": "The hearty classic with white beans and various meats."
+          },
+          {
+            "name": "Toulouse Sausage",
+            "tip": "Traditional grilled sausage, often served with artisanal mustard."
+          },
+          {
+            "name": "Le Bibent",
+            "tip": "A historic restaurant located right on Place du Capitole."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Japonais",
+            "tip": "Ein friedlicher Zen-Garten im Viertel Compans-Caffarelli.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de la Daurade",
+            "tip": "Der beste Ort für den Sonnenuntergang am Fluss.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prairie des Filtres",
+            "tip": "Ein großer Park am gegenüberliegenden Ufer für Ruhepausen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Japán kert",
+            "tip": "Békés zen kert a Compans-Caffarelli negyedben.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de la Daurade",
+            "tip": "A legjobb hely a naplemente megtekintéséhez a folyóparton.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prairie des Filtres",
+            "tip": "Hatalmas park a szemközti parton a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Japoneză",
+            "tip": "O grădină zen liniștită în cartierul Compans-Caffarelli.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de la Daurade",
+            "tip": "Cel mai bun loc pentru apusul de soare pe malul apei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prairie des Filtres",
+            "tip": "Un parc mare pe malul opus pentru momente de relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Japanese Garden",
+            "tip": "A peaceful Zen garden in the Compans-Caffarelli district.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Quai de la Daurade",
+            "tip": "The best spot for watching the sunset by the river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Prairie des Filtres",
+            "tip": "A large park on the opposite bank for quiet breaks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Die beste Markthalle für lokale Delikatessen und Käse."
+          },
+          {
+            "name": "Rue Alsace-Lorraine",
+            "tip": "Die Haupteinkaufsstraße mit vielen bekannten Marken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "A legjobb vásárcsarnok helyi finomságokhoz és sajtokhoz."
+          },
+          {
+            "name": "Rue Alsace-Lorraine",
+            "tip": "A fő bevásárlóutca számos ismert márkával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "Cea mai bună hală pentru delicatese locale și brânzeturi."
+          },
+          {
+            "name": "Rue Alsace-Lorraine",
+            "tip": "Principala stradă comercială cu multe branduri cunoscute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Victor Hugo",
+            "tip": "The best market hall for local delicacies and cheeses."
+          },
+          {
+            "name": "Rue Alsace-Lorraine",
+            "tip": "The main shopping street with many well-known brands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt viele Kopfsteinpflastergassen hat.",
+          "Die meisten Sehenswürdigkeiten im Zentrum sind in 15-20 Minuten zu Fuß erreichbar.",
+          "Achten Sie auf die kleinen Details an den Fassaden der Patrizierhäuser.",
+          "Nutzen Sie die kostenlosen Shuttle-Busse in der Innenstadt, wenn die Füße müde werden."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az óvárosban sok a macskaköves utca.",
+          "A központ legtöbb látnivalója 15-20 perces sétával elérhető egymástól.",
+          "Figyeljen a patrícius házak homlokzatán található apró részletekre.",
+          "Használja az ingyenes belvárosi buszjáratokat, ha elfáradt a sétában."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă, deoarece centrul vechi are multe străzi pavate.",
+          "Majoritatea obiectivelor din centru sunt accesibile în 15-20 de minute de mers pe jos.",
+          "Fiți atenți la micile detalii de pe fațadele caselor boierești.",
+          "Folosiți microbuzele gratuite din centru dacă vă dor picioarele."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has many cobblestone streets.",
+          "Most sights in the center are within a 15-20 minute walk of each other.",
+          "Pay attention to the small details on the facades of the mansion houses.",
+          "Use the free city center shuttle buses if your feet get tired."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Canal du Midi",
+          "coords": [
+            1.455,
+            43.61
+          ],
+          "category": "park",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie unter den schattigen Platanen entlang des Kanals.",
+            "hu": "Tekerjen az árnyas platánfák alatt a csatorna mentén.",
+            "ro": "Mergeți cu bicicleta sub platanii umbroși de-a lungul canalului.",
+            "en": "Ride under the shady plane trees along the canal."
+          }
+        },
+        {
+          "name": "Halle de la Machine",
+          "coords": [
+            1.474,
+            43.588
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Fahrt auf dem riesigen Minotaurus.",
+            "hu": "Ne hagyja ki az utazást a hatalmas Minótaurosz hátán.",
+            "ro": "Nu ratați o plimbare pe spatele uriașului Minotaur.",
+            "en": "Don't miss a ride on the back of the giant Minotaur."
+          }
+        },
+        {
+          "name": "Jardin des Plantes",
+          "coords": [
+            1.451,
+            43.593
+          ],
+          "category": "park",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein perfekter Ort für eine Pause abseits des Straßenverkehrs.",
+            "hu": "Tökéletes hely egy pihenőhöz, távol az utcai forgalomtól.",
+            "ro": "Un loc perfect pentru o pauză departe de traficul rutier.",
+            "en": "A perfect place for a break away from road traffic."
+          }
+        },
+        {
+          "name": "Pont Neuf",
+          "coords": [
+            1.437,
+            43.6
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Garonne von der Brücke.",
+            "hu": "Élvezze a Garonne-ra nyíló panorámát a hídról.",
+            "ro": "Bucurați-vă de panorama asupra Garonnei de pe pod.",
+            "en": "Enjoy the panoramic view of the Garonne from the bridge."
+          }
+        },
+        {
+          "name": "Port de l'Embouchure",
+          "coords": [
+            1.415,
+            43.611
+          ],
+          "category": "sunset",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Hier treffen drei Kanäle aufeinander – ein technisches Wunderwerk.",
+            "hu": "Itt találkozik három csatorna – egy igazi mérnöki csoda.",
+            "ro": "Aici se întâlnesc trei canale – o minune inginerească.",
+            "en": "This is where three canals meet – an engineering marvel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Toulouse auf zwei Rädern, beginnend mit einer entspannten Fahrt entlang des Canal du Midi, einer UNESCO-Weltkulturerbestätte. Die Wege sind flach und von alten Bäumen gesäumt.\n\nFahren Sie weiter zur Halle de la Machine, wo mechanische Giganten zum Leben erweckt werden. Ein faszinierendes Erlebnis für Technikbegeisterte.\n\nNach einer Mittagspause im Grünen des Jardin des Plantes führt Sie der Weg zurück ins Zentrum über den historischen Pont Neuf.\n\nBeenden Sie Ihre Tour am Port de l'Embouchure, wo Sie das Zusammentreffen der Kanäle bewundern können, während die Sonne langsam untergeht.",
+        "hu": "Fedezze fel Toulouse-t két keréken, kezdve egy pihentető tekeréssel az UNESCO világörökség részét képező Canal du Midi mentén. Az utak síkak és öreg fák szegélyezik őket.\n\nFolytassa útját a Halle de la Machine-hoz, ahol mechanikus óriások kelnek életre. Lenyűgöző élmény a technika szerelmeseinek.\n\nA Jardin des Plantes zöldjében töltött ebédszünet után az út visszavezet a központba a történelmi Pont Neuf hídon keresztül.\n\nTúráját a Port de l'Embouchure-nál zárja, ahol megcsodálhatja a csatornák találkozását a lemenő nap fényében.",
+        "ro": "Explorați Toulouse pe două roți, începând cu o plimbare relaxantă de-a lungul Canal du Midi, sit aflat în patrimoniul UNESCO. Traseele sunt plate și mărginite de copaci bătrâni.\n\nContinuați spre Halle de la Machine, unde giganți mecanici prind viață. O experiență fascinantă pentru pasionații de tehnologie.\n\nDupă o pauză de prânz în verdeața din Jardin des Plantes, drumul vă duce înapoi în centru peste istoricul Pont Neuf.\n\nÎncheiați turul la Port de l'Embouchure, unde puteți admira confluența canalelor în lumina blândă a apusului.",
+        "en": "Explore Toulouse on two wheels, starting with a relaxed ride along the Canal du Midi, a UNESCO World Heritage site. The paths are flat and lined with ancient trees.\n\nContinue to the Halle de la Machine, where mechanical giants are brought to life. A fascinating experience for technology enthusiasts.\n\nAfter a lunch break in the greenery of the Jardin des Plantes, the route takes you back to the center over the historic Pont Neuf.\n\nEnd your tour at Port de l'Embouchure, where you can admire the meeting of the canals as the sun slowly sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Foodtrucks am Kanal",
+            "tip": "Schnelle und leckere Snacks direkt am Wasser."
+          },
+          {
+            "name": "Boulangerie Saint Aubin",
+            "tip": "Perfekt für ein Baguette oder Gebäck zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Foodtruck-ok a csatornánál",
+            "tip": "Gyors és finom falatok közvetlenül a vízparton."
+          },
+          {
+            "name": "Boulangerie Saint Aubin",
+            "tip": "Tökéletes egy bagetthez vagy süteményhez útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Foodtruck-uri pe canal",
+            "tip": "Gustări rapide și gustoase chiar lângă apă."
+          },
+          {
+            "name": "Boulangerie Saint Aubin",
+            "tip": "Perfect pentru o baghetă sau un foietaj între opriri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal-side Foodtrucks",
+            "tip": "Quick and tasty snacks right by the water."
+          },
+          {
+            "name": "Boulangerie Saint Aubin",
+            "tip": "Perfect for a baguette or pastry on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal de Brienne",
+            "tip": "Ruhiger als der Hauptkanal und sehr malerisch.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ile du Ramier",
+            "tip": "Eine grüne Insel in der Garonne zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal de Brienne",
+            "tip": "Csendesebb a főcsatornánál és nagyon festői.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ile du Ramier",
+            "tip": "Zöld sziget a Garonne-on a kikapcsolódáshoz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canal de Brienne",
+            "tip": "Mai liniștit decât canalul principal și foarte pitoresc.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ile du Ramier",
+            "tip": "O insulă verde pe Garonne pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal de Brienne",
+            "tip": "Quieter than the main canal and very picturesque.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Ile du Ramier",
+            "tip": "A green island in the Garonne for relaxing.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "VélôToulouse Stationen",
+            "tip": "Überall in der Stadt für einfaches Ausleihen."
+          },
+          {
+            "name": "Cyclable Toulouse",
+            "tip": "Fachgeschäft für Radfahrer in der Innenstadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "VélôToulouse állomások",
+            "tip": "Városszerte megtalálhatók a könnyű bérléshez."
+          },
+          {
+            "name": "Cyclable Toulouse",
+            "tip": "Szaküzlet kerékpárosoknak a belvárosban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stații VélôToulouse",
+            "tip": "Peste tot în oraș pentru închiriere ușoară."
+          },
+          {
+            "name": "Cyclable Toulouse",
+            "tip": "Magazin specializat pentru bicicliști în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "VélôToulouse Stations",
+            "tip": "Found throughout the city for easy rental."
+          },
+          {
+            "name": "Cyclable Toulouse",
+            "tip": "Specialist shop for cyclists in the city center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie das VélôToulouse-System, es ist günstig und praktisch.",
+          "Die Uferwege können am Wochenende belebt sein, fahren Sie vorsichtig.",
+          "Schließen Sie Ihr Fahrrad immer gut ab, wenn Sie Sehenswürdigkeiten besuchen.",
+          "Kombinieren Sie die Fahrt mit dem Canal du Midi für die beste Erfahrung."
+        ],
+        "hu": [
+          "Használja a VélôToulouse rendszert, olcsó és praktikus.",
+          "A vízparti utak hétvégén zsúfoltak lehetnek, tekerjen óvatosan.",
+          "Mindig zárja le jól a biciklijét, amikor bemegy egy látnivalóhoz.",
+          "Kombinálja az utat a Canal du Midi-vel a legjobb élmény érdekében."
+        ],
+        "ro": [
+          "Folosiți sistemul VélôToulouse, este ieftin și practic.",
+          "Traseele de pe mal pot fi aglomerate în weekend, mergeți cu atenție.",
+          "Încuiați întotdeauna bine bicicleta când vizitați obiectivele.",
+          "Combinați plimbarea cu Canal du Midi pentru cea mai bună experiență."
+        ],
+        "en": [
+          "Use the VélôToulouse system, it's cheap and practical.",
+          "The river paths can be busy on weekends, ride carefully.",
+          "Always lock your bike securely when visiting sights.",
+          "Combine the ride with the Canal du Midi for the best experience."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place du Capitole",
+          "coords": [
+            1.4442,
+            43.6047
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus direkt unter dem Platz.",
+            "hu": "Használja a közvetlenül a tér alatt található mélygarázst.",
+            "ro": "Folosiți parcarea subterană chiar de sub piață.",
+            "en": "Use the underground car park directly under the square."
+          }
+        },
+        {
+          "name": "Aeroscopia Museum",
+          "coords": [
+            1.36,
+            43.655
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Concorde und den Airbus A380 aus nächster Nähe.",
+            "hu": "Csodálja meg a Concorde-ot és az Airbus A380-ast egészen közelről.",
+            "ro": "Admirați Concorde și Airbus A380 de aproape.",
+            "en": "Marvel at the Concorde and the Airbus A380 from up close."
+          }
+        },
+        {
+          "name": "Cité de l'Espace",
+          "coords": [
+            1.493,
+            43.5866
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Planen Sie genügend Zeit für die interaktiven Ausstellungen ein.",
+            "hu": "Szánjon elég időt az interaktív kiállításokra.",
+            "ro": "Alocați suficient timp pentru expozițiile interactive.",
+            "en": "Plan enough time for the interactive exhibits."
+          }
+        },
+        {
+          "name": "Vieille-Toulouse",
+          "coords": [
+            1.443,
+            43.526
+          ],
+          "category": "panorama",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bester Ausblick auf das Garonne-Tal und die Stadt.",
+            "hu": "A legjobb kilátás a Garonne-völgyre és a városra.",
+            "ro": "Cea mai bună vedere asupra văii Garonnei și a orașului.",
+            "en": "Best view over the Garonne valley and the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die technologische Seite von Toulouse mit dem Auto. Nach einem kurzen Stopp im Zentrum fahren Sie zum Aeroscopia Museum in Blagnac, dem Herz der europäischen Luftfahrt.\n\nAm Nachmittag tauchen Sie in die Tiefen des Weltraums in der Cité de l'Espace ein, wo Sie echte Raketen und Raumkapseln sehen können.\n\nZum Abschluss des Tages bietet eine kurze Fahrt nach Vieille-Toulouse einen atemberaubenden Panoramablick über die gesamte Region, bevor Sie zurück in die Stadt fahren.",
+        "hu": "Fedezze fel Toulouse technológiai oldalát autóval. A központi rövid megálló után irány Blagnac és az Aeroscopia múzeum, az európai repülés szíve.\n\nDélután merüljön el a világűr rejtelmeiben a Cité de l'Espace-ban, ahol valódi rakétákat és űrkapszulákat láthat.\n\nA nap zárásaként egy rövid autózás Vieille-Toulouse-ba lenyűgöző panorámát kínál az egész régióra, mielőtt visszatérne a városba.",
+        "ro": "Descoperiți latura tehnologică a orașului Toulouse cu mașina. După o scurtă oprire în centru, mergeți la Muzeul Aeroscopia din Blagnac, inima aviației europene.\n\nDupă-amiaza, scufundați-vă în adâncurile spațiului la Cité de l'Espace, unde puteți vedea rachete și capsule spațiale reale.\n\nLa finalul zilei, o scurtă plimbare cu mașina până la Vieille-Toulouse oferă o panoramă uluitoare asupra întregii regiuni înainte de a reveni în oraș.",
+        "en": "Discover the technological side of Toulouse by car. After a short stop in the center, head to the Aeroscopia Museum in Blagnac, the heart of European aviation.\n\nIn the afternoon, dive into the depths of space at the Cité de l'Espace, where you can see real rockets and space capsules.\n\nTo end the day, a short drive to Vieille-Toulouse offers a breathtaking panoramic view of the entire region before heading back to the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Berühmt für sein Steak und die geheime Sauce."
+          },
+          {
+            "name": "Chez Emile",
+            "tip": "Traditionelle Küche im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Híres a steakjéről és a titkos mártásáról."
+          },
+          {
+            "name": "Chez Emile",
+            "tip": "Hagyományos konyha a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Faimos pentru friptura sa și sosul secret."
+          },
+          {
+            "name": "Chez Emile",
+            "tip": "Bucătărie tradițională în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Entrecôte",
+            "tip": "Famous for its steak and secret sauce."
+          },
+          {
+            "name": "Chez Emile",
+            "tip": "Traditional cuisine in the heart of the city."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vieille-Toulouse",
+            "tip": "Ein ruhiges Dorf auf einem Hügel mit Weitblick.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Domaine de Candie",
+            "tip": "Ein Weingut in Stadtnähe für eine entspannte Pause.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vieille-Toulouse",
+            "tip": "Csendes falu a dombtetőn, messze ellátni innen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Domaine de Candie",
+            "tip": "Borászat a város közelében egy pihentető szünethez.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vieille-Toulouse",
+            "tip": "Un sat liniștit pe deal cu vedere largă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Domaine de Candie",
+            "tip": "O podgorie aproape de oraș pentru o pauză relaxantă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vieille-Toulouse",
+            "tip": "A quiet hilltop village with far-reaching views.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Domaine de Candie",
+            "tip": "A winery near the city for a relaxed break.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Centre Commercial Blagnac",
+            "tip": "Großes Einkaufszentrum in der Nähe des Flughafens."
+          },
+          {
+            "name": "Le Village de Marques",
+            "tip": "Outlet-Shopping etwa 20 Minuten außerhalb."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Centre Commercial Blagnac",
+            "tip": "Nagy bevásárlóközpont a repülőtér közelében."
+          },
+          {
+            "name": "Le Village de Marques",
+            "tip": "Outlet vásárlás kb. 20 percre a várostól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centre Commercial Blagnac",
+            "tip": "Centru comercial mare lângă aeroport."
+          },
+          {
+            "name": "Le Village de Marques",
+            "tip": "Shopping outlet la aproximativ 20 de minute distanță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Centre Commercial Blagnac",
+            "tip": "Large shopping center near the airport."
+          },
+          {
+            "name": "Le Village de Marques",
+            "tip": "Outlet shopping about 20 minutes outside the city."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vermeiden Sie die Stoßzeiten auf der Ringstraße (Périphérique).",
+          "Parken Sie im Zentrum in den Tiefgaragen (Capitole, Victor Hugo).",
+          "Ein Mietwagen ist ideal, um die Museen am Stadtrand zu besuchen.",
+          "Achten Sie auf die Umweltplakette (Crit'Air) für die Innenstadt."
+        ],
+        "hu": [
+          "Kerülje a csúcsforgalmat a körgyűrűn (Périphérique).",
+          "A központban parkoljon mélygarázsokban (Capitole, Victor Hugo).",
+          "A bérautó ideális a külvárosi múzeumok felkereséséhez.",
+          "Figyeljen a környezetvédelmi matricára (Crit'Air) a belvárosban."
+        ],
+        "ro": [
+          "Evitați orele de vârf pe centură (Périphérique).",
+          "Parcați în centru în parcările subterane (Capitole, Victor Hugo).",
+          "O mașină închiriată este ideală pentru a vizita muzeele de la periferie.",
+          "Atenție la vigneta ecologică (Crit'Air) pentru centrul orașului."
+        ],
+        "en": [
+          "Avoid rush hours on the ring road (Périphérique).",
+          "Park in the city center underground garages (Capitole, Victor Hugo).",
+          "A rental car is ideal for visiting the museums on the outskirts.",
+          "Be aware of the environmental badge (Crit'Air) for the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Place du Capitole",
+          "coords": [
+            1.4442,
+            43.6047
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Metrostation Capitole (Linie A) ist direkt am Platz.",
+            "hu": "A Capitole metrómegálló (A vonal) közvetlenül a térnél van.",
+            "ro": "Stația de metrou Capitole (Linia A) este chiar lângă piață.",
+            "en": "Capitole metro station (Line A) is right by the square."
+          }
+        },
+        {
+          "name": "Saint-Cyprien",
+          "coords": [
+            1.432,
+            43.598
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein charmantes Viertel mit einem tollen Wochenmarkt.",
+            "hu": "Bájos negyed kiváló heti piaccal.",
+            "ro": "Un cartier fermecător cu o piață săptămânală grozavă.",
+            "en": "A charming neighborhood with a great weekly market."
+          }
+        },
+        {
+          "name": "Les Abattoirs",
+          "coords": [
+            1.43,
+            43.601
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Museum für moderne Kunst in einem ehemaligen Schlachthof.",
+            "hu": "Modern művészeti múzeum egy egykori vágóhíd épületében.",
+            "ro": "Muzeu de artă modernă într-un fost abator.",
+            "en": "Modern art museum in a former slaughterhouse."
+          }
+        },
+        {
+          "name": "Cité de l'Espace",
+          "coords": [
+            1.493,
+            43.5866
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus L1 ab dem Stadtzentrum.",
+            "hu": "Szálljon fel az L1-es buszra a városközpontban.",
+            "ro": "Luați autobuzul L1 din centrul orașului.",
+            "en": "Take the L1 bus from the city center."
+          }
+        },
+        {
+          "name": "Jardin Royal",
+          "coords": [
+            1.449,
+            43.596
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Der älteste öffentliche Garten von Toulouse.",
+            "hu": "Toulouse legrégebbi nyilvános kertje.",
+            "ro": "Cea mai veche grădină publică din Toulouse.",
+            "en": "The oldest public garden in Toulouse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Metronetz von Toulouse, um den Tag zu beginnen. Vom Capitole fahren Sie über den Fluss nach Saint-Cyprien, einem lebendigen Viertel mit viel Charakter.\n\nBesuchen Sie das Museum 'Les Abattoirs' für moderne Kunst, bevor Sie mit dem Bus zur Cité de l'Espace fahren, um die Weltraumstadt zu erkunden.\n\nAm späten Nachmittag kehren Sie ins Grüne zurück und entspannen im Jardin Royal, einem der schönsten Parks der Stadt, der leicht mit der Metro erreichbar ist.\n\nEin Tag voller Kontraste, ermöglicht durch das gut ausgebaute öffentliche Verkehrsnetz.",
+        "hu": "Használja Toulouse hatékony metróhálózatát a nap kezdéséhez. A Capitole-tól utazzon át a folyón Saint-Cyprien-be, ebbe a karakteres, élettel teli negyedbe.\n\nLátogasson el a modern művészeteket bemutató 'Les Abattoirs' múzeumba, majd busszal irány a Cité de l'Espace, hogy felfedezze az űrvárost.\n\nKéső délután térjen vissza a természetbe és pihenjen a Jardin Royal parkban, amely a város egyik legszebb kertje és metróval könnyen megközelíthető.\n\nKontrasztokkal teli nap, amelyet a kiváló tömegközlekedés tesz lehetővé.",
+        "ro": "Folosiți rețeaua eficientă de metrou din Toulouse pentru a începe ziua. De la Capitole, treceți râul spre Saint-Cyprien, un cartier plin de viață și caracter.\n\nVizitați muzeul de artă modernă 'Les Abattoirs' înainte de a lua autobuzul către Cité de l'Espace pentru a explora orașul spațial.\n\nTârziu după-amiaza, reveniți în natură și relaxați-vă în Jardin Royal, unul dintre cele mai frumoase parcuri ale orașului, ușor accesibil cu metroul.\n\nO zi plină de contraste, posibilă datorită rețelei excelente de transport public.",
+        "en": "Use Toulouse's efficient metro network to start your day. From Capitole, head across the river to Saint-Cyprien, a lively neighborhood with plenty of character.\n\nVisit the 'Les Abattoirs' museum for modern art before taking the bus to the Cité de l'Espace to explore the space city.\n\nIn the late afternoon, return to the greenery and relax in the Jardin Royal, one of the city's most beautiful parks, easily accessible by metro.\n\nA day full of contrasts, made possible by the well-developed public transport network."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Cyprien",
+            "tip": "Probieren Sie den regionalen 'Fenetra'-Kuchen."
+          },
+          {
+            "name": "Le Florida",
+            "tip": "Ein schickes Café am Place du Capitole."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Cyprien",
+            "tip": "Kóstolja meg a helyi 'Fenetra' süteményt."
+          },
+          {
+            "name": "Le Florida",
+            "tip": "Elegáns kávéház a Place du Capitole téren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Cyprien",
+            "tip": "Încercați prăjitura regională 'Fenetra'."
+          },
+          {
+            "name": "Le Florida",
+            "tip": "O cafenea elegantă în Place du Capitole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Cyprien",
+            "tip": "Try the regional 'Fenetra' cake."
+          },
+          {
+            "name": "Le Florida",
+            "tip": "An elegant café on Place du Capitole."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Royal",
+            "tip": "Eine Oase der Ruhe mit einem malerischen Ententeich.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cloître des Jacobins",
+            "tip": "Der Kreuzgang bietet absolute Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin Royal",
+            "tip": "A nyugalom oázisa festői kacsatóval.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cloître des Jacobins",
+            "tip": "A kolostorkerengő abszolút csendet kínál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin Royal",
+            "tip": "O oază de liniște cu un lac pitoresc cu rațe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cloître des Jacobins",
+            "tip": "Claustrul oferă o liniște absolută.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin Royal",
+            "tip": "An oasis of calm with a picturesque duck pond.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cloître des Jacobins",
+            "tip": "The cloister offers absolute silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Les boutiques de l'espace",
+            "tip": "Originelle Souvenirs rund um das Thema Weltraum."
+          },
+          {
+            "name": "Marché Saint-Cyprien",
+            "tip": "Ein authentischer lokaler Markt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les boutiques de l'espace",
+            "tip": "Eredeti szuvenírek az űrhajózás témakörében."
+          },
+          {
+            "name": "Marché Saint-Cyprien",
+            "tip": "Autentikus helyi piac."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les boutiques de l'espace",
+            "tip": "Suveniruri originale legate de spațiu."
+          },
+          {
+            "name": "Marché Saint-Cyprien",
+            "tip": "O piață locală autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les boutiques de l'espace",
+            "tip": "Original space-themed souvenirs."
+          },
+          {
+            "name": "Marché Saint-Cyprien",
+            "tip": "An authentic local market."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das Tisséo-Netz (Metro, Tram, Bus).",
+          "Die Metrolinien sind fahrerlos und sehr pünktlich.",
+          "Nutzen Sie die App 'Tisséo' für Echtzeit-Fahrpläne.",
+          "Die Linie A und B decken fast alle wichtigen Punkte im Zentrum ab."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a Tisséo hálózatra (metró, villamos, busz).",
+          "A metróvonalak automata vezérlésűek és nagyon pontosak.",
+          "Használja a 'Tisséo' alkalmazást a valós idejű menetrendekhez.",
+          "Az A és B metróvonalak szinte minden fontos pontot érintenek a központban."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua Tisséo (metrou, tramvai, autobuz).",
+          "Liniile de metrou sunt automate și foarte punctuale.",
+          "Folosiți aplicația 'Tisséo' pentru orare în timp real.",
+          "Liniile A și B acoperă aproape toate punctele importante din centru."
+        ],
+        "en": [
+          "Buy a day ticket for the Tisséo network (metro, tram, bus).",
+          "The metro lines are driverless and very punctual.",
+          "Use the 'Tisséo' app for real-time schedules.",
+          "Lines A and B cover almost all important points in the center."
+        ]
+      }
+    }
+  }
+}

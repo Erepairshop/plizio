@@ -1,0 +1,959 @@
+{
+  "city_id": "sainte-maxime",
+  "anchor": {
+    "name": "Sainte-Maxime",
+    "coords": [
+      6.6383,
+      43.3094
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Sainte-Maxime",
+            "hu": "Sainte-Maxime kikötője",
+            "ro": "Portul Sainte-Maxime",
+            "en": "Port of Sainte-Maxime"
+          },
+          "coords": [
+            6.641,
+            43.3085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fischerboote beobachten.",
+            "hu": "Halászhajók megfigyelése.",
+            "ro": "Observați bărcile.",
+            "en": "Watch the boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Carrée",
+            "hu": "Tour Carrée",
+            "ro": "Tour Carrée",
+            "en": "Tour Carrée"
+          },
+          "coords": [
+            6.6395,
+            43.308
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Museum besuchen.",
+            "hu": "Múzeumlátogatás.",
+            "ro": "Vizitați muzeul.",
+            "en": "Visit the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Maxime",
+            "hu": "Szent Maxime templom",
+            "ro": "Biserica Sainte-Maxime",
+            "en": "Sainte-Maxime Church"
+          },
+          "coords": [
+            6.6375,
+            43.3085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Altar bewundern.",
+            "hu": "Az oltár megtekintése.",
+            "ro": "Admirați altarul.",
+            "en": "Admire the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché Couvert",
+            "hu": "Fedett piac",
+            "ro": "Piața acoperită",
+            "en": "Marché Couvert"
+          },
+          "coords": [
+            6.6365,
+            43.3095
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frische Köstlichkeiten.",
+            "hu": "Friss finomságok.",
+            "ro": "Delicii proaspete.",
+            "en": "Fresh delicacies."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade Simon Lorière",
+            "hu": "Promenade Simon Lorière",
+            "ro": "Promenade Simon Lorière",
+            "en": "Promenade Simon Lorière"
+          },
+          "coords": [
+            6.6435,
+            43.3065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick auf St-Tropez.",
+            "hu": "Kilátás St-Tropez-ra.",
+            "ro": "Vedere spre St-Tropez.",
+            "en": "View of St-Tropez."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Botanique des Myrtes",
+            "hu": "Myrtes botanikus kert",
+            "ro": "Grădina Botanică des Myrtes",
+            "en": "Jardin Botanique des Myrtes"
+          },
+          "coords": [
+            6.655,
+            43.3045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Exotische Pflanzen.",
+            "hu": "Egzotikus növények.",
+            "ro": "Plante exotice.",
+            "en": "Exotic plants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Sainte-Maxime zu Fuß. Starten Sie am Hafen und besichtigen Sie den Tour Carrée. Nach der Kirche erkunden Sie den Marché Couvert. Mittags schlendern Sie entlang der Promenade mit Blick auf Saint-Tropez, bevor Sie den Tag im botanischen Garten Jardin des Myrtes ausklingen lassen.",
+        "hu": "Fedezze fel Sainte-Maxime-ot gyalog. Kezdje a kikötőnél, és nézze meg a Tour Carrée toronyt. A templom után irány a piac. Délben sétáljon a sétányon, élvezve a kilátást Saint-Tropez-ra, majd zárja a napot a Jardin des Myrtes kertben.",
+        "ro": "Experimentați Sainte-Maxime pe jos. Începeți în port și vizitați Tour Carrée. După biserică, explorați piața acoperită. La prânz, plimbați-vă pe faleză cu vedere spre Saint-Tropez, apoi încheiați ziua în grădină botanică Jardin des Myrtes.",
+        "en": "Experience Sainte-Maxime on foot. Start at the harbor and visit the Tour Carrée. After the church, explore the Marché Couvert. At midday, stroll along the promenade with a view of Saint-Tropez, before ending your day in the Jardin des Myrtes botanical garden."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Belle Aurore",
+            "tip": "Kulinarik am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Belle Aurore",
+            "tip": "Gasztronómia a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Belle Aurore",
+            "tip": "Culinarie la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Belle Aurore",
+            "tip": "Fine dining by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pointe des Sardinaux",
+            "tip": "Natur pur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pointe des Sardinaux",
+            "tip": "Tiszta természet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pointe des Sardinaux",
+            "tip": "Natură pură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pointe des Sardinaux",
+            "tip": "Pure nature.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Altstadt-Boutiquen",
+            "tip": "Lokale Mode."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi butikok",
+            "tip": "Helyi divat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buticuri orașul vechi",
+            "tip": "Modă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Boutiques",
+            "tip": "Local fashion."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Markt am Vormittag.",
+          "Bequeme Schuhe."
+        ],
+        "hu": [
+          "Piaclátogatás délelőtt.",
+          "Kényelmes cipő."
+        ],
+        "ro": [
+          "Piața dimineața.",
+          "Încălțăminte confortabilă."
+        ],
+        "en": [
+          "Market in the morning.",
+          "Comfortable shoes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Sainte-Maxime",
+            "hu": "Sainte-Maxime kikötője",
+            "ro": "Portul Sainte-Maxime",
+            "en": "Port of Sainte-Maxime"
+          },
+          "coords": [
+            6.641,
+            43.3085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Startpunkt.",
+            "hu": "Kiindulópont.",
+            "ro": "Punct de plecare.",
+            "en": "Starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade Simon Lorière",
+            "hu": "Promenade Simon Lorière",
+            "ro": "Promenade Simon Lorière",
+            "en": "Promenade Simon Lorière"
+          },
+          "coords": [
+            6.6435,
+            43.3065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radweg am Meer.",
+            "hu": "Parti kerékpárút.",
+            "ro": "Pistă lângă mare.",
+            "en": "Coastal bike path."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Botanique des Myrtes",
+            "hu": "Myrtes botanikus kert",
+            "ro": "Grădina Botanică des Myrtes",
+            "en": "Jardin Botanique des Myrtes"
+          },
+          "coords": [
+            6.655,
+            43.3045
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Pause im Garten.",
+            "hu": "Pihenő a kertben.",
+            "ro": "Pauză în grădină.",
+            "en": "Break in the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Nartelle",
+            "hu": "La Nartelle strand",
+            "ro": "Plaja La Nartelle",
+            "en": "La Nartelle Beach"
+          },
+          "coords": [
+            6.675,
+            43.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schöner Badestrand.",
+            "hu": "Szép strand.",
+            "ro": "Plajă frumoasă.",
+            "en": "Nice beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Carrée",
+            "hu": "Tour Carrée",
+            "ro": "Tour Carrée",
+            "en": "Tour Carrée"
+          },
+          "coords": [
+            6.6395,
+            43.308
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Letzter Halt.",
+            "hu": "Utolsó állomás.",
+            "ro": "Ultima oprire.",
+            "en": "Last stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Sainte-Maxime mit dem Rad. Fahren Sie vom Hafen über die Promenade bis zum Jardin des Myrtes. Weiter geht es zur herrlichen Plage de la Nartelle für einen Nachmittag in der Sonne. Auf dem Rückweg halten Sie beim Tour Carrée.",
+        "hu": "Fedezze fel Sainte-Maxime-ot biciklivel. Tekerjen a kikötőből a sétányon át a Jardin des Myrtes kertig. Folytassa az utat a La Nartelle strandig, majd visszafelé álljon meg a Tour Carrée toronynál.",
+        "ro": "Descoperiți Sainte-Maxime cu bicicleta. Pedalați din port pe faleză până la Jardin des Myrtes. Continuați spre plaja La Nartelle, iar la întoarcere opriți-vă la Tour Carrée.",
+        "en": "Discover Sainte-Maxime by bike. Ride from the harbor along the promenade to Jardin des Myrtes. Continue to the magnificent La Nartelle beach, and on the way back, stop at Tour Carrée."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Club La Nartelle",
+            "tip": "Essen im Sand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Club La Nartelle",
+            "tip": "Ebéd a homokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Club La Nartelle",
+            "tip": "Mâncare pe nisip."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Club La Nartelle",
+            "tip": "Dining in the sand."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenade",
+            "tip": "Meeresbrise.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány",
+            "tip": "Tengeri szellő.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza",
+            "tip": "Briză marină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade",
+            "tip": "Sea breeze.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "City-Bikes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Biciklikölcsönző",
+            "tip": "Városi bringák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete",
+            "tip": "Biciclete de oraș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental",
+            "tip": "City bikes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Küstenwege nutzen.",
+          "Hauptstraße meiden."
+        ],
+        "hu": [
+          "Használja a parti utakat.",
+          "Kerülje a főutat."
+        ],
+        "ro": [
+          "Utilizați pistele de coastă.",
+          "Evitați drumul principal."
+        ],
+        "en": [
+          "Use coastal paths.",
+          "Avoid the main road."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Carrée",
+            "hu": "Tour Carrée",
+            "ro": "Tour Carrée",
+            "en": "Tour Carrée"
+          },
+          "coords": [
+            6.6395,
+            43.308
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Start mit Parkplatz.",
+            "hu": "Indulás parkolóval.",
+            "ro": "Start cu parcare.",
+            "en": "Start with parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Nartelle",
+            "hu": "La Nartelle strand",
+            "ro": "Plaja La Nartelle",
+            "en": "La Nartelle Beach"
+          },
+          "coords": [
+            6.675,
+            43.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Öffentlicher Parkplatz.",
+            "hu": "Nyilvános parkoló.",
+            "ro": "Parcare publică.",
+            "en": "Public parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Beauvallon",
+            "hu": "Beauvallon",
+            "ro": "Beauvallon",
+            "en": "Beauvallon"
+          },
+          "coords": [
+            6.61,
+            43.29
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Schöner Blick.",
+            "hu": "Szép kilátás.",
+            "ro": "Vedere frumoasă.",
+            "en": "Beautiful view."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Grimaud",
+            "hu": "Port Grimaud",
+            "ro": "Port Grimaud",
+            "en": "Port Grimaud"
+          },
+          "coords": [
+            6.58,
+            43.27
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Venedig der Provence.",
+            "hu": "Provence Velencéje.",
+            "ro": "Veneția Provence-ului.",
+            "en": "Venice of Provence."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Sainte-Maxime",
+            "hu": "Sainte-Maxime kikötője",
+            "ro": "Portul Sainte-Maxime",
+            "en": "Port of Sainte-Maxime"
+          },
+          "coords": [
+            6.641,
+            43.3085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Abendessen am Hafen.",
+            "hu": "Vacsora a kikötőben.",
+            "ro": "Cină în port.",
+            "en": "Dinner at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sainte-Maxime und Umgebung mit dem Auto. Starten Sie beim Tour Carrée und fahren Sie zur Plage La Nartelle. Ein Abstecher nach Beauvallon bietet Ausblicke, bevor Sie das pittoreske Port Grimaud besuchen. Den Tag beenden Sie am Hafen von Sainte-Maxime.",
+        "hu": "Fedezze fel Sainte-Maxime-ot és környékét autóval. Kezdje a Tour Carrée toronynál, majd irány a La Nartelle strand. Beauvallon szép kilátást nyújt, mielőtt Port Grimaud-ba látogatna. A napot a kikötőben zárja.",
+        "ro": "Explorați Sainte-Maxime și împrejurimile cu mașina. Începeți la Tour Carrée spre plaja La Nartelle. O oprire la Beauvallon oferă priveliști, apoi vizitați Port Grimaud. Încheiați ziua în portul Sainte-Maxime.",
+        "en": "Explore Sainte-Maxime and surroundings by car. Start at Tour Carrée and drive to La Nartelle beach. A detour to Beauvallon offers views before visiting picturesque Port Grimaud. End your day at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Le Gruppi",
+            "tip": "Frischer Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Le Gruppi",
+            "tip": "Friss hal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Le Gruppi",
+            "tip": "Pește proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Le Gruppi",
+            "tip": "Fresh fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Beauvallon Hügel",
+            "tip": "Ruhiger Ausblick.",
+            "emoji": "⛰️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beauvallon dombok",
+            "tip": "Csendes kilátás.",
+            "emoji": "⛰️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Beauvallon",
+            "tip": "Vedere liniștită.",
+            "emoji": "⛰️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beauvallon Hills",
+            "tip": "Quiet view.",
+            "emoji": "⛰️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Grimaud Märkte",
+            "tip": "Lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grimaud-i piacok",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețele Grimaud",
+            "tip": "Produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grimaud Markets",
+            "tip": "Local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Hauptparkplätze nutzen.",
+          "Küstenstraße genießen."
+        ],
+        "hu": [
+          "Használja a főparkolókat.",
+          "Élvezze a parti utat."
+        ],
+        "ro": [
+          "Utilizați parcările.",
+          "Bucurați-vă de drumul de coastă."
+        ],
+        "en": [
+          "Use main parking lots.",
+          "Enjoy the coastal road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Sainte-Maxime",
+            "hu": "Sainte-Maxime kikötője",
+            "ro": "Portul Sainte-Maxime",
+            "en": "Port of Sainte-Maxime"
+          },
+          "coords": [
+            6.641,
+            43.3085
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Halt.",
+            "hu": "Központi megálló.",
+            "ro": "Oprire centrală.",
+            "en": "Central stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché Couvert",
+            "hu": "Fedett piac",
+            "ro": "Piața acoperită",
+            "en": "Marché Couvert"
+          },
+          "coords": [
+            6.6365,
+            43.3095
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg.",
+            "hu": "Rövid séta.",
+            "ro": "Scurtă plimbare.",
+            "en": "Short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Nartelle",
+            "hu": "La Nartelle strand",
+            "ro": "Plaja La Nartelle",
+            "en": "La Nartelle Beach"
+          },
+          "coords": [
+            6.675,
+            43.325
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Shuttle-Bus nehmen.",
+            "hu": "Használja az ingajáratot.",
+            "ro": "Luați autobuzul.",
+            "en": "Take the shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade Simon Lorière",
+            "hu": "Promenade Simon Lorière",
+            "ro": "Promenade Simon Lorière",
+            "en": "Promenade Simon Lorière"
+          },
+          "coords": [
+            6.6435,
+            43.3065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Stadtzentrum.",
+            "hu": "Városközpont.",
+            "ro": "Centrul orașului.",
+            "en": "City center."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Phonographe",
+            "hu": "Fonográf Múzeum",
+            "ro": "Muzeul Fonografului",
+            "en": "Museum of the Phonograph"
+          },
+          "coords": [
+            6.65,
+            43.315
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einzigartige Sammlung.",
+            "hu": "Egyedi gyűjtemény.",
+            "ro": "Colecție unică.",
+            "en": "Unique collection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Sainte-Maxime mit Öffentlichen. Starten Sie am Hafen und besuchen Sie den Markt. Ein Shuttle-Bus bringt Sie zur Plage La Nartelle. Nachmittags schlendern Sie über die Promenade und besuchen das Phonographenmuseum.",
+        "hu": "Fedezze fel Sainte-Maxime-ot tömegközlekedéssel. Induljon a kikötőből a piacra. Az ingajárat elviszi a La Nartelle strandra, délután pedig sétáljon a sétányon és látogassa meg a Fonográf Múzeumot.",
+        "ro": "Descoperiți Sainte-Maxime cu transportul public. Mergeți din port la piață. Autobuzul de transfer vă duce la plaja La Nartelle, apoi plimbați-vă pe faleză și vizitați Muzeul Fonografului.",
+        "en": "Explore Sainte-Maxime by public transport. Go from the harbor to the market. The shuttle takes you to La Nartelle beach, then stroll along the promenade and visit the Phonograph Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistrot de Louis",
+            "tip": "Gemütliches Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistrot de Louis",
+            "tip": "Hangulatos hely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistrot de Louis",
+            "tip": "Ambiantă plăcută."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistrot de Louis",
+            "tip": "Cozy place."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrkirche",
+            "tip": "Ruhepol.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániatemplom",
+            "tip": "A nyugalom szigete.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica parohială",
+            "tip": "Loc de liniște.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Church",
+            "tip": "Quiet spot.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fedett piac",
+            "tip": "Helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața acoperită",
+            "tip": "Vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marché Couvert",
+            "tip": "Local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bateaux Verts nutzen.",
+          "Busfahrplan prüfen."
+        ],
+        "hu": [
+          "Használja a hajókat.",
+          "Ellenőrizze a buszt."
+        ],
+        "ro": [
+          "Utilizați bărcile.",
+          "Verificați autobuzul."
+        ],
+        "en": [
+          "Use the boats.",
+          "Check the bus."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,974 @@
+{
+  "city_id": "propriano",
+  "anchor": {
+    "name": "Propriano",
+    "coords": [
+      8.9078,
+      41.6753
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            8.905,
+            41.676
+          ],
+          "category": "promenades",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Einlaufen der Fähren aus Marseille.",
+            "hu": "Figyelje meg a Marseille-ből érkező kompok kikötését.",
+            "ro": "Observați sosirea feriboturilor din Marsilia.",
+            "en": "Watch the ferries from Marseille arrive."
+          }
+        },
+        {
+          "name": "Église Notre-Dame de la Miséricorde",
+          "coords": [
+            8.902,
+            41.6745
+          ],
+          "category": "churches",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Kirche überragt das Dorf und bietet Ruhe.",
+            "hu": "A templom a falu fölé magasodik és nyugalmat áraszt.",
+            "ro": "Biserica domină satul și oferă liniște.",
+            "en": "The church overlooks the village and offers peace."
+          }
+        },
+        {
+          "name": "Plage de Mancinu",
+          "coords": [
+            8.9,
+            41.678
+          ],
+          "category": "beach",
+          "arrive_at": "11:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ideal für ein schnelles Bad direkt im Ort.",
+            "hu": "Ideális egy gyors mártózáshoz közvetlenül a faluban.",
+            "ro": "Ideal pentru o baie rapidă chiar în sat.",
+            "en": "Ideal for a quick swim right in town."
+          }
+        },
+        {
+          "name": "La Marine de Propriano",
+          "coords": [
+            8.9035,
+            41.6765
+          ],
+          "category": "squares",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das historische Viertel am Wasser.",
+            "hu": "A történelmi negyed a vízparton.",
+            "ro": "Cartierul istoric de lângă apă.",
+            "en": "The historic district by the water."
+          }
+        },
+        {
+          "name": "Monument aux Morts",
+          "coords": [
+            8.906,
+            41.674
+          ],
+          "category": "monuments",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein Ort des Gedenkens mit Blick auf die Stadt.",
+            "hu": "Az emlékezés helye, kilátással a városra.",
+            "ro": "Un loc de comemorare cu vedere spre oraș.",
+            "en": "A place of remembrance with a view of the city."
+          }
+        },
+        {
+          "name": "Phare de Scoglio Longo",
+          "coords": [
+            8.9015,
+            41.6795
+          ],
+          "category": "lighthouses",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für das späte Nachmittagslicht.",
+            "hu": "Tökéletes a késő délutáni fényekhez.",
+            "ro": "Perfect pentru lumina de după-amiază târzie.",
+            "en": "Perfect for late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie den korsischen Charme beim Spaziergang am Yachthafen. Nach einem Besuch der imposanten Kirche lädt der Stadtstrand von Mancinu zum Entspannen ein. Den Tag lassen Sie bei einem Bummel durch die Marine und einem Besuch des Leuchtturms ausklingen, wenn die Sonne tief über dem Golf von Valinco steht.",
+        "hu": "Élvezze a korzikai bájt a jachtkikötőben tett séta során. Az impozáns templom meglátogatása után a Mancinu városi strand pihenésre csábít. A napot a tengerparti negyedben tett sétával és a világítótorony meglátogatásával zárja, amikor a nap alacsonyan jár a Valinco-öböl felett.",
+        "ro": "Bucurați-vă de farmecul corsican la o plimbare prin portul de iahturi. După o vizită la biserica impunătoare, plaja orașului Mancinu vă invită la relaxare. Încheiați ziua cu o plimbare prin Marine și o vizită la far, când soarele este jos deasupra Golfului Valinco.",
+        "en": "Enjoy Corsican charm while strolling at the marina. After visiting the imposing church, the town beach of Mancinu invites you to relax. End the day with a stroll through the Marine and a visit to the lighthouse when the sun is low over the Gulf of Valinco."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Terra Cotta",
+            "tip": "Frischer Fisch und Meerblick am Hafen."
+          },
+          {
+            "name": "Figatellu",
+            "tip": "Typisch korsische Wurstspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Terra Cotta",
+            "tip": "Friss hal és tengeri kilátás a kikötőben."
+          },
+          {
+            "name": "Figatellu",
+            "tip": "Tipikus korzikai kolbászkülönlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Terra Cotta",
+            "tip": "Pește proaspăt și vedere la mare în port."
+          },
+          {
+            "name": "Figatellu",
+            "tip": "Specialitate tipică de cârnați corsicani."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Terra Cotta",
+            "tip": "Fresh fish and sea view at the harbor."
+          },
+          {
+            "name": "Figatellu",
+            "tip": "Typical Corsican sausage specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm-Mole",
+            "tip": "Meeresrauschen ohne Trubel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Blick über die Dächer Proprianos.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Világítótorony gát",
+            "tip": "Tengerzúgás tömeg nélkül.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Templom előtti tér",
+            "tip": "Kilátás Propriano tetőire.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul farului",
+            "tip": "Sunetul mării fără aglomerație.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Piața din fața bisericii",
+            "tip": "Vedere peste acoperișurile din Propriano.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lighthouse Pier",
+            "tip": "Sound of the sea without the crowds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church Square",
+            "tip": "View over the roofs of Propriano.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "U Cantu",
+            "tip": "Korsischer Honig und Käse."
+          },
+          {
+            "name": "Korallenschmuck",
+            "tip": "Handgefertigt in der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "U Cantu",
+            "tip": "Korzikai méz és sajt."
+          },
+          {
+            "name": "Korall ékszerek",
+            "tip": "Kézzel készített termékek a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "U Cantu",
+            "tip": "Miere și brânză corsicană."
+          },
+          {
+            "name": "Bijuterii din coral",
+            "tip": "Lucrate manual în regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "U Cantu",
+            "tip": "Corsican honey and cheese."
+          },
+          {
+            "name": "Coral Jewelry",
+            "tip": "Handmade in the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Korsika ist mittags sehr heiß, suchen Sie Schatten.",
+          "Die Preise am Hafen sind höher als in den Seitenstraßen.",
+          "Parken ist im Sommer sehr schwierig.",
+          "Nehmen Sie Badesachen immer mit."
+        ],
+        "hu": [
+          "Korzika délben nagyon forró, keressen árnyékot.",
+          "A kikötői árak magasabbak, mint a mellékutcákban.",
+          "A parkolás nyáron nagyon nehéz.",
+          "Mindig legyen önnél fürdőruha."
+        ],
+        "ro": [
+          "Corsica este foarte fierbinte la amiază, căutați umbră.",
+          "Prețurile în port sunt mai mari decât pe străzile lăturalnice.",
+          "Parcarea este foarte dificilă vara.",
+          "Aveți întotdeauna costumul de baie la voi."
+        ],
+        "en": [
+          "Corsica is very hot at midday, seek shade.",
+          "Prices at the harbor are higher than in the side streets.",
+          "Parking is very difficult in summer.",
+          "Always take your swimwear with you."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            8.905,
+            41.676
+          ],
+          "category": "promenades",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Start am Yachthafen.",
+            "hu": "Indulás a jachtkikötőtől.",
+            "ro": "Start la portul de iahturi.",
+            "en": "Start at the marina."
+          }
+        },
+        {
+          "name": "Plage de l'Arena Bianca",
+          "coords": [
+            8.885,
+            41.688
+          ],
+          "category": "beach",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Etwas ruhiger als die Stadtstrände.",
+            "hu": "Valamivel csendesebb, mint a városi strandok.",
+            "ro": "Ceva mai liniștit decât plajele orașului.",
+            "en": "A bit quieter than the town beaches."
+          }
+        },
+        {
+          "name": "Phare de Scoglio Longo",
+          "coords": [
+            8.9015,
+            41.6795
+          ],
+          "category": "lighthouses",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Toller Blick auf die Küstenlinie.",
+            "hu": "Nagyszerű kilátás a partvonalra.",
+            "ro": "Vedere minunată asupra liniei de coastă.",
+            "en": "Great view of the coastline."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            8.902,
+            41.6745
+          ],
+          "category": "churches",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ruhiger Rückzugsort.",
+            "hu": "Csendes menedék.",
+            "ro": "Refugiu liniștit.",
+            "en": "Quiet retreat."
+          }
+        },
+        {
+          "name": "Plage du Lido",
+          "coords": [
+            8.915,
+            41.668
+          ],
+          "category": "beach",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Langer Sandstrand südlich des Ortes.",
+            "hu": "Hosszú homokos strand a falutól délre.",
+            "ro": "Plajă lungă cu nisip la sud de sat.",
+            "en": "Long sandy beach south of the town."
+          }
+        },
+        {
+          "name": "La Marine",
+          "coords": [
+            8.9035,
+            41.6765
+          ],
+          "category": "squares",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Abschluss am Wasser.",
+            "hu": "Zárás a vízparton.",
+            "ro": "Final pe malul apei.",
+            "en": "Conclusion by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Küste Proprianos auf zwei Rädern. Von den nördlichen Stränden wie Arena Bianca bis zum weiten Lido im Süden bietet das Fahrrad die perfekte Freiheit, um die schönsten Badebuchten des Golfs von Valinco an einem Tag zu erleben.",
+        "hu": "Fedezze fel Propriano partvidékét két keréken. Az északi strandoktól, mint az Arena Bianca, a déli tágas Lido-ig, a kerékpár tökéletes szabadságot nyújt, hogy egy nap alatt megismerje a Valinco-öböl legszebb fürdőhelyeit.",
+        "ro": "Explorați coasta din Propriano pe două roți. De la plajele nordice precum Arena Bianca până la vastul Lido în sud, bicicleta oferă libertatea perfectă pentru a experimenta cele mai frumoase golfuri de scăldat din Valinco într-o singură zi.",
+        "en": "Explore Propriano's coastline on two wheels. From the northern beaches like Arena Bianca to the vast Lido in the south, the bike offers the perfect freedom to experience the most beautiful swimming bays of the Gulf of Valinco in one day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticceria Fieschi",
+            "tip": "Canistrelli-Kekse als Energie für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticceria Fieschi",
+            "tip": "Canistrelli sütemény energiaforrásnak az úthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticceria Fieschi",
+            "tip": "Biscuiți Canistrelli pentru energie în timpul drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticceria Fieschi",
+            "tip": "Canistrelli biscuits for energy on the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Arena Bianca",
+            "tip": "Frühmorgens sehr friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arena Bianca",
+            "tip": "Kora reggel nagyon békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Arena Bianca",
+            "tip": "Foarte liniștit dimineața devreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Arena Bianca",
+            "tip": "Very peaceful early in the morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Strand-Boutiquen",
+            "tip": "Modische Strandbekleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strand butikok",
+            "tip": "Divatos strandruházat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique-uri de plajă",
+            "tip": "Îmbrăcăminte de plajă la modă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Boutiques",
+            "tip": "Fashionable beachwear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Wind am Nachmittag.",
+          "Die Küstenstraße kann eng sein.",
+          "Ketten Sie das Rad immer an.",
+          "Sonnencreme ist ein Muss."
+        ],
+        "hu": [
+          "Ügyeljen a délutáni szélre.",
+          "A part menti út szűk lehet.",
+          "Mindig láncolja le a kerékpárt.",
+          "A naptej kötelező."
+        ],
+        "ro": [
+          "Atenție la vântul de după-amiază.",
+          "Șoseaua de coastă poate fi îngustă.",
+          "Legați întotdeauna bicicleta.",
+          "Crema solară este obligatorie."
+        ],
+        "en": [
+          "Watch out for the wind in the afternoon.",
+          "The coastal road can be narrow.",
+          "Always lock your bike.",
+          "Sunscreen is a must."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 20.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Phare de Scoglio Longo",
+          "coords": [
+            8.9015,
+            41.6795
+          ],
+          "category": "lighthouses",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Guter Fotostopp am Morgen.",
+            "hu": "Jó fotómegálló reggel.",
+            "ro": "O oprire bună pentru fotografii dimineața.",
+            "en": "Good photo stop in the morning."
+          }
+        },
+        {
+          "name": "Plage de l'Arena Bianca",
+          "coords": [
+            8.885,
+            41.688
+          ],
+          "category": "beach",
+          "arrive_at": "10:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Großer Parkplatz in der Nähe.",
+            "hu": "Nagy parkoló a közelben.",
+            "ro": "Parcare mare în apropiere.",
+            "en": "Large parking lot nearby."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            8.902,
+            41.6745
+          ],
+          "category": "churches",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Parken Sie unterhalb der Kirche.",
+            "hu": "Parkoljon a templom alatt.",
+            "ro": "Parcați sub biserică.",
+            "en": "Park below the church."
+          }
+        },
+        {
+          "name": "Plage du Lido",
+          "coords": [
+            8.915,
+            41.668
+          ],
+          "category": "beach",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Perfekt für den Nachmittag.",
+            "hu": "Tökéletes délutáni program.",
+            "ro": "Perfect pentru după-amiază.",
+            "en": "Perfect for the afternoon."
+          }
+        },
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            8.905,
+            41.676
+          ],
+          "category": "promenades",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Abendstimmung am Yachthafen.",
+            "hu": "Esti hangulat a jachtkikötőben.",
+            "ro": "Atmosferă de seară la portul de iahturi.",
+            "en": "Evening atmosphere at the marina."
+          }
+        },
+        {
+          "name": "La Marine",
+          "coords": [
+            8.9035,
+            41.6765
+          ],
+          "category": "squares",
+          "arrive_at": "18:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Abschlussessen am Wasser.",
+            "hu": "Záró vacsora a vízparton.",
+            "ro": "Cină de final pe malul apei.",
+            "en": "Farewell dinner by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die schönsten Strände rund um Propriano. Starten Sie beim Leuchtturm und verbringen Sie den Tag an den Stränden Arena Bianca und Lido, bevor Sie den Abend bei einem feinen Essen am Hafen ausklingen lassen.",
+        "hu": "Autóval kényelmesen elérheti Propriano környékének legszebb strandjait. Kezdjen a világítótoronynál, és töltse a napot az Arena Bianca és a Lido strandokon, majd fejezze be az estét egy finom vacsorával a kikötőben.",
+        "ro": "Cu mașina puteți ajunge confortabil la cele mai frumoase plaje din jurul Propriano. Începeți la far și petreceți ziua pe plajele Arena Bianca și Lido, înainte de a încheia seara cu o cină rafinată în port.",
+        "en": "By car, you can comfortably reach the most beautiful beaches around Propriano. Start at the lighthouse and spend the day at Arena Bianca and Lido beaches before ending the evening with a fine dinner at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant L'Oasis",
+            "tip": "Korsische Klassiker in moderner Form."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant L'Oasis",
+            "tip": "Korzikai klasszikusok modern formában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant L'Oasis",
+            "tip": "Clasici corsicani în formă modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant L'Oasis",
+            "tip": "Corsican classics in a modern form."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Belvedere de Valinco",
+            "tip": "Panoramablick über den Golf.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belvedere de Valinco",
+            "tip": "Panorámás kilátás az öbölre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere de Valinco",
+            "tip": "Vedere panoramică peste golf.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Belvedere de Valinco",
+            "tip": "Panoramic view over the gulf.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marché Local",
+            "tip": "Am frühen Morgen im Stadtzentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Kora reggel a városközpontban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Locală",
+            "tip": "Dimineața devreme în centrul orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Early morning in the town center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind in der Hochsaison rar.",
+          "Nutzen Sie die bewachten Parkplätze am Hafen.",
+          "Fahren Sie vorsichtig auf den kurvigen Straßen.",
+          "Die Hitze im Auto kann extrem sein."
+        ],
+        "hu": [
+          "A parkolóhelyek ritkák a főszezonban.",
+          "Használja az őrzött parkolókat a kikötőben.",
+          "Vezessen óvatosan a kanyargós utakon.",
+          "Az autóban a hőség extrém lehet."
+        ],
+        "ro": [
+          "Locurile de parcare sunt rare în sezonul de vârf.",
+          "Folosiți parcările păzite din port.",
+          "Conduceți cu atenție pe drumurile virajate.",
+          "Căldura din mașină poate fi extremă."
+        ],
+        "en": [
+          "Parking spaces are rare in high season.",
+          "Use the guarded parking lots at the harbor.",
+          "Drive carefully on the winding roads.",
+          "The heat in the car can be extreme."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Port de Plaisance",
+          "coords": [
+            8.905,
+            41.676
+          ],
+          "category": "promenades",
+          "arrive_at": "09:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct central de sosire.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": "Église Notre-Dame",
+          "coords": [
+            8.902,
+            41.6745
+          ],
+          "category": "churches",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Kurzer Aufstieg zu Fuß.",
+            "hu": "Rövid gyalogos emelkedő.",
+            "ro": "Scurtă urcare pe jos.",
+            "en": "Short walk uphill."
+          }
+        },
+        {
+          "name": "Plage de Mancinu",
+          "coords": [
+            8.9,
+            41.678
+          ],
+          "category": "beach",
+          "arrive_at": "11:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Leicht zu Fuß erreichbar.",
+            "hu": "Könnyen elérhető gyalogosan.",
+            "ro": "Ușor accesibil pe jos.",
+            "en": "Easily accessible on foot."
+          }
+        },
+        {
+          "name": "La Marine",
+          "coords": [
+            8.9035,
+            41.6765
+          ],
+          "category": "squares",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Herz des Ortes.",
+            "hu": "A hely szíve.",
+            "ro": "Inima localității.",
+            "en": "Heart of the town."
+          }
+        },
+        {
+          "name": "Phare de Scoglio Longo",
+          "coords": [
+            8.9015,
+            41.6795
+          ],
+          "category": "lighthouses",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Schöner Spaziergang an der Mole.",
+            "hu": "Szép séta a gáton.",
+            "ro": "O plimbare frumoasă pe dig.",
+            "en": "Nice walk along the pier."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Propriano ist gut mit dem Bus von Ajaccio oder Bonifacio erreichbar. Da die wichtigsten Sehenswürdigkeiten und der Strand Mancinu zentral liegen, können Sie den Ort hervorragend ohne eigenes Fahrzeug genießen. Das maritime Flair ist überall spürbar.",
+        "hu": "Propriano jól elérhető busszal Ajaccio-ból vagy Bonifacio-ból. Mivel a legfontosabb látnivalók és a Mancinu strand központi helyen találhatók, saját jármű nélkül is kiválóan élvezheti a várost. A tengeri hangulat mindenhol érezhető.",
+        "ro": "Propriano este ușor accesibil cu autobuzul din Ajaccio sau Bonifacio. Deoarece cele mai importante obiective și plaja Mancinu sunt situate central, vă puteți bucura de localitate excelent fără un vehicul propriu. Atmosfera maritimă se simte peste tot.",
+        "en": "Propriano is easily accessible by bus from Ajaccio or Bonifacio. Since the main sights and Mancinu beach are centrally located, you can enjoy the town perfectly without your own vehicle. The maritime flair can be felt everywhere."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Arbousier",
+            "tip": "Gute lokale Küche unweit der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Arbousier",
+            "tip": "Jó helyi konyha a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Arbousier",
+            "tip": "Bucătărie locală bună nu departe de stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Arbousier",
+            "tip": "Good local cuisine not far from the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenecke",
+            "tip": "Bänke mit Blick auf die Boote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötő sarok",
+            "tip": "Padok kilátással a hajókra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțul portului",
+            "tip": "Bănci cu vedere la bărci.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Corner",
+            "tip": "Benches with a view of the boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir-Kiosk",
+            "tip": "Korsische Messer und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenír kioszk",
+            "tip": "Korzikai kések és textilek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc de suveniruri",
+            "tip": "Cuțite și textile corsicane."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Kiosk",
+            "tip": "Corsican knives and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse fahren unregelmäßig, Plan prüfen.",
+          "Fahrkarten gibt es oft im Tabakladen.",
+          "Propriano ist zu Fuß sehr gut machbar.",
+          "Trinkwasserbrunnen suchen."
+        ],
+        "hu": [
+          "A buszok rendszertelenül járnak, ellenőrizze a tervet.",
+          "Jegyet gyakran a trafikban lehet venni.",
+          "Propriano gyalogosan nagyon jól bejárható.",
+          "Keressen ivóvízkutakat."
+        ],
+        "ro": [
+          "Autobuzele circulă neregulat, verificați orarul.",
+          "Biletele se găsesc adesea la tutungerie.",
+          "Propriano este foarte ușor de parcurs pe jos.",
+          "Căutați cișmele cu apă potabilă."
+        ],
+        "en": [
+          "Buses run irregularly, check the schedule.",
+          "Tickets are often available at tobacco shops.",
+          "Propriano is very walkable on foot.",
+          "Look for drinking water fountains."
+        ]
+      }
+    }
+  }
+}

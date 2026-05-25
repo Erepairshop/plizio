@@ -1,0 +1,886 @@
+{
+  "city_id": "obernai",
+  "anchor": {
+    "name": "Place du Marché",
+    "coords": [
+      7.4811,
+      48.4625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place du Marché",
+          "coords": [
+            7.4819,
+            48.4616
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Markt am Donnerstagmorgen.",
+            "hu": "Csütörtök délelőttönként nagy piac van a téren.",
+            "ro": "Vizitați piața locală în diminețile de joi.",
+            "en": "Visit the local market on Thursday mornings."
+          }
+        },
+        {
+          "name": "Le Kappelturm",
+          "coords": [
+            7.4815,
+            48.4614
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt mit Glockenturm.",
+            "hu": "A város jelképe, egykor őrtoronyként szolgált.",
+            "ro": "Simbolul orașului, fost turn de veghe.",
+            "en": "The symbol of the town, formerly a watchtower."
+          }
+        },
+        {
+          "name": "Puits à Six Seaux",
+          "coords": [
+            7.4812,
+            48.4615
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein prächtiger Renaissance-Brunnen aus 1579.",
+            "hu": "Pompás reneszánsz kút 1579-ből.",
+            "ro": "O fântână renascentistă superbă din 1579.",
+            "en": "A magnificent Renaissance well from 1579."
+          }
+        },
+        {
+          "name": "Église Saints-Pierre-et-Paul",
+          "coords": [
+            7.4795,
+            48.4632
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotischen Glasfenster.",
+            "hu": "Csodálja meg a neogótikus üvegablakokat.",
+            "ro": "Admirați vitraliile neo-gotice impresionante.",
+            "en": "Admire the impressive neo-Gothic stained glass."
+          }
+        },
+        {
+          "name": "Les Remparts",
+          "coords": [
+            7.483,
+            48.46
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der alten Stadtmauer.",
+            "hu": "Séta a régi várfal mentén, árnyas fák alatt.",
+            "ro": "Plimbare relaxantă de-a lungul vechilor ziduri.",
+            "en": "Relaxing walk along the old city walls."
+          }
+        },
+        {
+          "name": "Rue du Général de Gaulle",
+          "coords": [
+            7.481,
+            48.462
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie elsässische Spezialitäten hier.",
+            "hu": "Kóstolja meg az elzászi specialitásokat itt.",
+            "ro": "Gustați specialitățile alsaciene în această zonă.",
+            "en": "Taste the Alsatian specialties in this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Obernai auf dem lebhaften Marktplatz. Bewundern Sie den Kappelturm und den Renaissance-Brunnen. Nach einem Besuch der imposanten Kirche spazieren Sie entlang der Stadtmauern, um die Ruhe zu genießen. Den Abschluss bildet ein kulinarisches Erlebnis in der Altstadt.",
+        "hu": "Kezdje a napot Obernai szívében, a nyüzsgő piactéren. Csodálja meg a Kappelturm-ot és a reneszánsz kutat. A lenyűgöző templom megtekintése után sétáljon a városfalak mentén, élvezve a nyugalmat. A napot egy kulináris élménnyel zárja az óvárosban.",
+        "ro": "Începeți ziua în inima orașului Obernai, în piața centrală animată. Admirați Turnul Kappel și fântâna renascentistă. După vizitarea bisericii impunătoare, plimbați-vă de-a lungul zidurilor cetății pentru liniște. Încheiați ziua cu o experiență culinară în centrul vechi.",
+        "en": "Start your day in the heart of Obernai at the lively market square. Admire the Kappelturm and the Renaissance well. After visiting the imposing church, walk along the city walls to enjoy the peace. Conclude the day with a culinary experience in the old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Choucroute Garnie",
+            "tip": "Das elsässische Nationalgericht im Restaurant La Cloche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Choucroute Garnie",
+            "tip": "A nemzeti elzászi káposztás étel a La Cloche étteremben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Choucroute Garnie",
+            "tip": "Mâncarea națională alsaciană la restaurantul La Cloche."
+          }
+        ],
+        "en": [
+          {
+            "name": "Choucroute Garnie",
+            "tip": "The national Alsatian cabbage dish at La Cloche restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mémorial de l'ADEIF",
+            "tip": "Panoramablick über die elsässische Ebene.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "ADEIF emlékmű",
+            "tip": "Panorámás kilátás az elzászi síkságra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Memorialul ADEIF",
+            "tip": "Vedere panoramică asupra câmpiei alsaciene.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "ADEIF Memorial",
+            "tip": "Panoramic view over the Alsatian plain.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vin d'Alsace",
+            "tip": "Lokale Weine direkt beim Winzer in der Altstadt kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elzászi bor",
+            "tip": "Vásároljon helyi borokat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Alsacia",
+            "tip": "Cumpărați vinuri locale direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alsace Wine",
+            "tip": "Buy local wines directly from producers in the old town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Parken Sie auf dem großen Parkplatz 'Remparts'.",
+          "Besuchen Sie die Stadt während der Weihnachtszeit.",
+          "Reservieren Sie Restaurants im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Parkoljon a nagy 'Remparts' parkolóban.",
+          "Látogasson el ide adventi időszakban is.",
+          "Érdemes előre asztalt foglalni az éttermekben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Parcați în parcarea mare 'Remparts'.",
+          "Vizitați orașul în perioada Crăciunului.",
+          "Rezervați masa la restaurant în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Park at the large 'Remparts' parking lot.",
+          "Visit the town during the Christmas season.",
+          "Book restaurants in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Obernai Centre",
+          "coords": [
+            7.4811,
+            48.4625
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie am Marktplatz.",
+            "hu": "Kezdje a túrát a piactéren.",
+            "ro": "Începeți turul din piața centrală.",
+            "en": "Start your tour at the market square."
+          }
+        },
+        {
+          "name": "Schenkenberg Weinberg",
+          "coords": [
+            7.475,
+            48.468
+          ],
+          "category": "park",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt durch die Weinberge mit Aussicht.",
+            "hu": "Biciklizés a szőlőültetvények között.",
+            "ro": "Plimbare prin podgorii cu vedere frumoasă.",
+            "en": "Ride through the vineyards with great views."
+          }
+        },
+        {
+          "name": "Bernardswiller",
+          "coords": [
+            7.465,
+            48.452
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein charmantes Nachbardorf erkunden.",
+            "hu": "Fedezze fel a bájos szomszédos falut.",
+            "ro": "Explorați un sat vecin fermecător.",
+            "en": "Explore a charming neighboring village."
+          }
+        },
+        {
+          "name": "Ottrott Castles",
+          "coords": [
+            7.42,
+            48.46
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ruinen der Burgen Rathsamhausen.",
+            "hu": "Rathsamhausen várromok megtekintése.",
+            "ro": "Ruinele castelului Rathsamhausen.",
+            "en": "View the ruins of Rathsamhausen castle."
+          }
+        },
+        {
+          "name": "Obernai Park",
+          "coords": [
+            7.485,
+            48.465
+          ],
+          "category": "park",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entspannung nach der Tour im Stadtpark.",
+            "hu": "Pihenés a túra után a városi parkban.",
+            "ro": "Relaxare în parcul orașului după tur.",
+            "en": "Relax in the city park after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch die wunderschönen Weinberge rund um Obernai. Sie besuchen charmante Dörfer wie Bernardswiller und sehen die Burgruinen von Ottrott. Die Strecke bietet spektakuläre Ausblicke auf die Vogesen und die elsässische Ebene.",
+        "hu": "Ez a kerékpártúra Obernai gyönyörű szőlőültetvényein vezet keresztül. Meglátogatja a bájos Bernardswiller falut és az ottrotti várromokat. Az útvonal látványos kilátást nyújt a Vogézekre és az elzászi síkságra.",
+        "ro": "Acest tur cu bicicleta vă poartă prin podgoriile superbe din jurul orașului Obernai. Veți vizita satul Bernardswiller și ruinele castelelor din Ottrott. Traseul oferă vederi spectaculoase spre Munții Vosgi și câmpia Alsaciei.",
+        "en": "This bike tour takes you through the beautiful vineyards around Obernai. You will visit the charming village of Bernardswiller and the castle ruins of Ottrott. The route offers spectacular views of the Vosges Mountains and the Alsatian plain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tarte Flambée",
+            "tip": "Dünner Flammkuchen im L'Osmose."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarte Flambée",
+            "tip": "Vékony tésztás lepény az L'Osmose-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarte Flambée",
+            "tip": "Plăcintă tradițională subțire la L'Osmose."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarte Flambée",
+            "tip": "Thin-crust Alsatian pizza at L'Osmose."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sentier Viticole",
+            "tip": "Ruhiger Weg durch die Reben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borút ösvény",
+            "tip": "Csendes ösvény a tőkék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca vinului",
+            "tip": "Drum liniștit printre vii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyard Path",
+            "tip": "Quiet path through the vines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Patisserie",
+            "tip": "Elsässischer Kougelhopf zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cukrászda",
+            "tip": "Vásároljon elzászi kuglófot elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patiserie",
+            "tip": "Cumpărați cozonac Kougelhopf tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pastry Shop",
+            "tip": "Buy traditional Alsatian Kougelhopf to go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes für die Hügel.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Wege sind gut markiert.",
+          "Vorsicht in den engen Dorfstraßen."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a dombokhoz.",
+          "Vigyen magával elegendő vizet.",
+          "Az útvonalak jól ki vannak táblázva.",
+          "Vigyázzon a falvak szűk utcáin."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice pentru dealuri.",
+          "Luați suficientă apă cu voi.",
+          "Traseele sunt bine marcate.",
+          "Atenție pe străzile înguste din sate."
+        ],
+        "en": [
+          "Rent e-bikes for the hills.",
+          "Take plenty of water with you.",
+          "The paths are well marked.",
+          "Be careful in the narrow village streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Obernai Centre",
+          "coords": [
+            7.4811,
+            48.4625
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Frühstück in der Altstadt.",
+            "hu": "Reggeli az óvárosban.",
+            "ro": "Mic dejun în centrul vechi.",
+            "en": "Breakfast in the old town."
+          }
+        },
+        {
+          "name": "Mont Sainte-Odile",
+          "coords": [
+            7.4042,
+            48.4372
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Wichtiger Wallfahrtsort mit Kloster.",
+            "hu": "Fontos zarándokhely kolostorral.",
+            "ro": "Loc de pelerinaj important cu mănăstire.",
+            "en": "Important pilgrimage site with a monastery."
+          }
+        },
+        {
+          "name": "Mur Païen",
+          "coords": [
+            7.4,
+            48.44
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Rätselhafte prähistorische Mauer.",
+            "hu": "Rejtélyes őskori falmaradvány.",
+            "ro": "Zid preistoric misterios.",
+            "en": "Mysterious prehistoric wall."
+          }
+        },
+        {
+          "name": "Barr",
+          "coords": [
+            7.449,
+            48.408
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Besuch der Weinhauptstadt des Bas-Rhin.",
+            "hu": "Látogatás Alsó-Rajna borfővárosában.",
+            "ro": "Vizită în capitala vinului din Bas-Rhin.",
+            "en": "Visit the wine capital of Bas-Rhin."
+          }
+        },
+        {
+          "name": "Obernai Shopping",
+          "coords": [
+            7.482,
+            48.461
+          ],
+          "category": "shopping",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Letzte Souvenirs kaufen.",
+            "hu": "Utolsó szuvenírek beszerzése.",
+            "ro": "Cumpărați ultimele suveniruri.",
+            "en": "Buy your last souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autoroute kombiniert den Charme von Obernai mit der Spiritualität des Mont Sainte-Odile. Genießen Sie die Aussicht vom Gipfel, erkunden Sie die mysteriöse Heidenmauer und beenden Sie den Tag im benachbarten Weinstädtchen Barr.",
+        "hu": "Ez az autós útvonal Obernai báját ötvözi a Mont Sainte-Odile szakralitásával. Élvezze a kilátást a csúcsról, fedezze fel a titokzatos Pogány-falat, és zárja a napot a szomszédos borvárosban, Barrban.",
+        "ro": "Acest traseu auto combină farmecul orașului Obernai cu spiritualitatea de la Mont Sainte-Odile. Bucurați-vă de priveliște, explorați misteriosul Zid Păgân și încheiați ziua în orașul vecin, Barr.",
+        "en": "This car route combines the charm of Obernai with the spirituality of Mont Sainte-Odile. Enjoy the views from the summit, explore the mysterious Pagan Wall, and end the day in the neighboring wine town of Barr."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Alsatian Wines",
+            "tip": "Weinprobe in Barr oder Obernai."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elzászi borok",
+            "tip": "Borkóstolás Barrban vagy Obernaiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri alsaciene",
+            "tip": "Degustare de vinuri în Barr sau Obernai."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alsatian Wines",
+            "tip": "Wine tasting in Barr or Obernai."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ruhe auf dem Mont Sainte-Odile.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "Nyugalom a Mont Sainte-Odile tetején.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Liniște pe muntele Sainte-Odile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Peace and quiet atop Mont Sainte-Odile.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pottery",
+            "tip": "Traditionelle Keramik aus Betschdorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerámia",
+            "tip": "Hagyományos elzászi kerámiák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică",
+            "tip": "Ceramică tradițională alsaciană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pottery",
+            "tip": "Traditional Alsatian pottery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatz am Mont Sainte-Odile ist oft voll.",
+          "Fahren Sie vorsichtig auf den Bergstraßen.",
+          "Achten Sie auf Wanderer.",
+          "Besuchen Sie Barr für weniger Touristen."
+        ],
+        "hu": [
+          "A Mont Sainte-Odile parkolója hamar megtelik.",
+          "Vezessen óvatosan a hegyi utakon.",
+          "Figyeljen a túrázókra az utakon.",
+          "Barr kevésbé zsúfolt, mint Obernai."
+        ],
+        "ro": [
+          "Parcarea de la Mont Sainte-Odile se umple repede.",
+          "Conduceți cu atenție pe drumurile montane.",
+          "Atenție la drumeți pe drum.",
+          "Vizitați Barr pentru mai puțini turiști."
+        ],
+        "en": [
+          "Parking at Mont Sainte-Odile fills up quickly.",
+          "Drive carefully on the mountain roads.",
+          "Watch out for hikers on the road.",
+          "Visit Barr for a less touristy feel."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare d'Obernai",
+          "coords": [
+            7.487,
+            48.461
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Bahnhof ist nah am Zentrum.",
+            "hu": "Az állomás közel van a központhoz.",
+            "ro": "Gara este foarte aproape de centru.",
+            "en": "The station is very close to the center."
+          }
+        },
+        {
+          "name": "Place du Marché",
+          "coords": [
+            7.4819,
+            48.4616
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt erkunden.",
+            "hu": "Fedezze fel a város szívét.",
+            "ro": "Explorați inima orașului.",
+            "en": "Explore the heart of the city."
+          }
+        },
+        {
+          "name": "Sélestat (Zug)",
+          "coords": [
+            7.445,
+            48.259
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Besuch der Humanistischen Bibliothek.",
+            "hu": "Látogatás a Humanista Könyvtárban.",
+            "ro": "Vizitați Biblioteca Umanistă.",
+            "en": "Visit the Humanist Library."
+          }
+        },
+        {
+          "name": "Obernai Remparts",
+          "coords": [
+            7.483,
+            48.46
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Spaziergang vor der Abfahrt.",
+            "hu": "Séta a vonat indulása előtt.",
+            "ro": "O plimbare înainte de plecare.",
+            "en": "A walk before departure."
+          }
+        },
+        {
+          "name": "Gare d'Obernai",
+          "coords": [
+            7.487,
+            48.461
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem TER-Zug.",
+            "hu": "Visszautazás a TER vonattal.",
+            "ro": "Întoarcerea cu trenul TER.",
+            "en": "Return journey by TER train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug erreichen Sie Obernai bequem. Nach der Besichtigung der Altstadt bietet sich ein kurzer Ausflug ins nahe Sélestat an. Genießen Sie die elsässische Architektur und Kultur stressfrei ohne Auto.",
+        "hu": "Vonattal kényelmesen elérhető Obernai. Az óváros megtekintése után egy rövid kirándulás tehető a közeli Sélestat-ba. Élvezze az elzászi építészetet és kultúrát autó nélkül, stresszmentesen.",
+        "ro": "Obernai este ușor accesibil cu trenul. După vizitarea centrului vechi, puteți face o scurtă excursie în orașul vecin Sélestat. Bucurați-vă de arhitectura și cultura alsaciană fără grija mașinii.",
+        "en": "Obernai is easily accessible by train. After visiting the old town, a short excursion to nearby Sélestat is possible. Enjoy Alsatian architecture and culture stress-free without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pretzel",
+            "tip": "Frische Brezeln in der Bäckerei kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perec",
+            "tip": "Friss perec a helyi pékségből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pretzel",
+            "tip": "Cumpărați covrigi proaspeți de la brutărie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pretzel",
+            "tip": "Buy fresh pretzels from a local bakery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ehn-Ufer",
+            "tip": "Ruhiger Weg am Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ehn-part",
+            "tip": "Csendes ösvény a folyó mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Ehn",
+            "tip": "Drum liniștit pe lângă râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ehn Riverbank",
+            "tip": "Quiet path along the river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pain d'épices",
+            "tip": "Gewürzbrot-Spezialitäten aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézeskalács",
+            "tip": "Helyi fűszeres kenyér és mézeskalács."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Turtă dulce",
+            "tip": "Specialități locale de turtă dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gingerbread",
+            "tip": "Local spicy bread and gingerbread specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Fluo-Tickets.",
+          "Züge fahren regelmäßig nach Straßburg.",
+          "Bahnhof ist barrierefrei.",
+          "Fahrplan online prüfen."
+        ],
+        "hu": [
+          "Használja a Fluo-jegyeket.",
+          "A vonatok rendszeresen járnak Strasbourg felé.",
+          "Az állomás akadálymentesített.",
+          "Ellenőrizze a menetrendet online."
+        ],
+        "ro": [
+          "Folosiți biletele Fluo.",
+          "Trenurile circulă regulat spre Strasbourg.",
+          "Gara este accesibilă.",
+          "Verificați orarul online."
+        ],
+        "en": [
+          "Use the Fluo region tickets.",
+          "Trains run regularly to Strasbourg.",
+          "The station is accessible.",
+          "Check the timetable online."
+        ]
+      }
+    }
+  }
+}

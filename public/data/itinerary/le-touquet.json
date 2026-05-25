@@ -1,0 +1,1044 @@
+{
+  "city_id": "le-touquet",
+  "anchor": {
+    "name": "Le Touquet-Paris-Plage",
+    "coords": [
+      50.5236,
+      1.5853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marché Couvert",
+            "hu": "Fedett piac",
+            "ro": "Piața acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            50.5255,
+            1.5862
+          ],
+          "category": "shopping",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Fisch.",
+            "hu": "Kóstolja meg a helyi halakat.",
+            "ro": "Gustați peștele local.",
+            "en": "Try the local fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Saint-Jean",
+            "hu": "Rue Saint-Jean",
+            "ro": "Rue Saint-Jean",
+            "en": "Rue Saint-Jean"
+          },
+          "coords": [
+            50.5238,
+            1.5841
+          ],
+          "category": "shopping",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ideal für Souvenirs.",
+            "hu": "Ideális ajándéktárgyakhoz.",
+            "ro": "Ideal pentru suveniruri.",
+            "en": "Ideal for souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Jeanne d'Arc",
+            "hu": "Jeanne d'Arc templom",
+            "ro": "Biserica Jeanne d'Arc",
+            "en": "Jeanne d'Arc Church"
+          },
+          "coords": [
+            50.5221,
+            1.5885
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Glasmalereien.",
+            "hu": "Figyelje meg az üvegablakokat.",
+            "ro": "Admirați vitraliile.",
+            "en": "Admire the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Villen",
+            "hu": "Történelmi villák",
+            "ro": "Vile istorice",
+            "en": "Historic Villas"
+          },
+          "coords": [
+            50.5185,
+            1.5952
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Architektur.",
+            "hu": "Gyönyörű építészet.",
+            "ro": "Arhitectură superbă.",
+            "en": "Beautiful architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            50.5242,
+            1.5845
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Frische Meeresfrüchte genießen.",
+            "hu": "Élvezze a friss tenger gyümölcseit.",
+            "ro": "Savurați fructe de mare proaspete.",
+            "en": "Enjoy fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Le Touquet",
+            "hu": "Le Touquet strand",
+            "ro": "Plaja Le Touquet",
+            "en": "Le Touquet Beach"
+          },
+          "coords": [
+            50.5265,
+            1.5782
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Langer Sandstrand.",
+            "hu": "Hosszú homokos part.",
+            "ro": "Plajă lungă cu nisip.",
+            "en": "Long sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Le Touquet",
+            "hu": "Le Touquet világítótorony",
+            "ro": "Farul din Le Touquet",
+            "en": "Le Touquet Lighthouse"
+          },
+          "coords": [
+            50.5302,
+            1.5888
+          ],
+          "category": "historical",
+          "arrive_at": "18:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tolle Aussicht von oben.",
+            "hu": "Nagyszerű kilátás fentről.",
+            "ro": "O vedere excelentă de sus.",
+            "en": "Great view from the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem lebhaften überdachten Markt und schlendern Sie dann durch die Rue Saint-Jean zum Einkaufen. Mittags erkunden Sie die prächtigen historischen Villen im Waldviertel.\n\nNach einem köstlichen Mittagessen mit Meeresfrüchten verbringen Sie den Nachmittag am weitläufigen Sandstrand. Zum Abschluss genießen Sie die Aussicht vom majestätischen Leuchtturm bei Sonnenuntergang.",
+        "hu": "Kezdje a napot a nyüzsgő fedett piacon, majd sétáljon végig a Rue Saint-Jean bevásárlóutcán. Délben fedezze fel az erdős negyed pompás történelmi villáit.\n\nEgy finom tengeri ebéd után töltse a délutánt a végtelen homokos strandon. Végezetül élvezze a kilátást a fenséges világítótoronyból a naplementében.",
+        "ro": "Începeți ziua la piața acoperită plină de viață, apoi plimbați-vă pe strada comercială Rue Saint-Jean. La prânz, explorați vilele istorice magnifice din cartierul împădurit.\n\nDupă un prânz delicios cu fructe de mare, petreceți după-amiaza pe plaja întinsă cu nisip. În final, bucurați-vă de priveliștea de la farul maiestuos la apus.",
+        "en": "Start your day at the lively covered market, then stroll down the Rue Saint-Jean for some shopping. At midday, explore the magnificent historic villas in the forested district.\n\nAfter a delicious seafood lunch, spend the afternoon on the vast sandy beach. Finally, enjoy the view from the majestic lighthouse at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Paris",
+            "tip": "Klassische französische Brasserie."
+          },
+          {
+            "name": "Meeresfrüchteplatte",
+            "tip": "Frisch aus dem Ärmelkanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Paris",
+            "tip": "Klasszikus francia brasserie."
+          },
+          {
+            "name": "Tenger gyümölcsei tál",
+            "tip": "Frissen a Csatornából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Paris",
+            "tip": "Braserie franceză clasică."
+          },
+          {
+            "name": "Platou cu fructe de mare",
+            "tip": "Proaspăt din Canalul Mânecii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Paris",
+            "tip": "Classic French brasserie."
+          },
+          {
+            "name": "Seafood Platter",
+            "tip": "Fresh from the Channel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünenpfad",
+            "tip": "Ruhiger Spaziergang in der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dűne ösvény",
+            "tip": "Csendes séta a természetben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul dunelor",
+            "tip": "Plimbare liniștită în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dune Path",
+            "tip": "Quiet walk in nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Saint-Jean",
+            "tip": "Boutiquen und Markenläden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Saint-Jean",
+            "tip": "Butikok és márkás üzletek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Saint-Jean",
+            "tip": "Buticuri și magazine de marcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Saint-Jean",
+            "tip": "Boutiques and brand stores."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für den Strand sind wichtig.",
+          "Reservieren Sie Restaurants im Voraus."
+        ],
+        "hu": [
+          "Kényelmes cipő a strandra elengedhetetlen.",
+          "Foglaljon asztalt éttermekbe előre."
+        ],
+        "ro": [
+          "Pantofii confortabili pentru plajă sunt esențiali.",
+          "Rezervați restaurantele în avans."
+        ],
+        "en": [
+          "Comfortable shoes for the beach are essential.",
+          "Book restaurants in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare du Touquet",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            50.5302,
+            1.5888
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bester Startpunkt.",
+            "hu": "Legjobb kezdőpont.",
+            "ro": "Cel mai bun punct de plecare.",
+            "en": "Best starting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie de Canche Park",
+            "hu": "Baie de Canche park",
+            "ro": "Parcul Baie de Canche",
+            "en": "Baie de Canche Park"
+          },
+          "coords": [
+            50.5385,
+            1.5955
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ideal zum Radfahren.",
+            "hu": "Ideális kerékpározáshoz.",
+            "ro": "Ideal pentru ciclism.",
+            "en": "Ideal for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodrom",
+            "hu": "Lóversenypálya",
+            "ro": "Hipodrom",
+            "en": "Hippodrome"
+          },
+          "coords": [
+            50.5182,
+            1.6052
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Elegante Anlage.",
+            "hu": "Elegáns létesítmény.",
+            "ro": "Complex elegant.",
+            "en": "Elegant facility."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldvillen-Tour",
+            "hu": "Erdei villák túra",
+            "ro": "Turul vilelor din pădure",
+            "en": "Forest Villas Tour"
+          },
+          "coords": [
+            50.5195,
+            1.5925
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schattige Wege.",
+            "hu": "Árnyas utak.",
+            "ro": "Poteci umbrite.",
+            "en": "Shady paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada pe plajă",
+            "en": "Beach Promenade"
+          },
+          "coords": [
+            50.5252,
+            1.5795
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Frische Brise.",
+            "hu": "Friss szellő.",
+            "ro": "Briză proaspătă.",
+            "en": "Fresh breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum - Kaffee",
+            "hu": "Központ - Kávé",
+            "ro": "Centru - Cafea",
+            "en": "Center - Coffee"
+          },
+          "coords": [
+            50.5241,
+            1.5842
+          ],
+          "category": "gastro",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang.",
+            "hu": "Hangulatos befejezés.",
+            "ro": "Final relaxant.",
+            "en": "Cozy finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Le Touquet auf zwei Rädern, angefangen beim historischen Leuchtturm bis zum weiten Naturpark Baie de Canche. Radeln Sie vorbei am eleganten Hippodrom und durch die schattigen Alleen mit prachtvollen Waldvillen.\n\nGenießen Sie die Fahrt entlang der Meerespromenade, bevor Sie den Tag in einem gemütlichen Café im Stadtzentrum ausklingen lassen.",
+        "hu": "Fedezze fel Le Touquet-t két keréken, a történelmi világítótoronytól kezdve a Baie de Canche hatalmas natúrparkjáig. Kerekezzen el az elegáns lóversenypálya mellett és a pompás erdei villák árnyas fasorai között.\n\nÉlvezze a biciklizést a tengerparti sétányon, mielőtt a napot egy hangulatos belvárosi kávézóban zárná.",
+        "ro": "Explorați Le Touquet pe două roți, începând de la farul istoric până la vastul parc natural Baie de Canche. Pedalați pe lângă hipodromul elegant și prin aleile umbrite cu vile superbe de pădure.\n\nBucurați-vă de plimbarea pe faleza mării înainte de a încheia ziua într-o cafenea primitoare din centrul orașului.",
+        "en": "Explore Le Touquet on two wheels, starting from the historic lighthouse to the vast Baie de Canche nature park. Cycle past the elegant hippodrome and through the shady avenues with magnificent forest villas.\n\nEnjoy the ride along the seaside promenade before ending the day in a cozy café in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chez Perard",
+            "tip": "Berühmte Fischsuppe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chez Perard",
+            "tip": "Híres halleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chez Perard",
+            "tip": "Celebră supă de pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chez Perard",
+            "tip": "Famous fish soup."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Baie de Canche",
+            "tip": "Vogelbeobachtung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baie de Canche",
+            "tip": "Madármegfigyelés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baie de Canche",
+            "tip": "Observarea păsărilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Baie de Canche",
+            "tip": "Bird watching.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih",
+            "tip": "Mieten Sie ein Touquet-Bike."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Béreljen Touquet-biciklit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete",
+            "tip": "Închiriați o bicicletă Touquet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental",
+            "tip": "Rent a Touquet bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege.",
+          "Ein Schloss ist unerlässlich."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat.",
+          "A lakat elengedhetetlen."
+        ],
+        "ro": [
+          "Folosiți pistele de biciclete marcate.",
+          "Un lacăt este esențial."
+        ],
+        "en": [
+          "Use the marked cycle paths.",
+          "A lock is essential."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 28.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Baie de Canche",
+            "hu": "Baie de Canche",
+            "ro": "Baie de Canche",
+            "en": "Baie de Canche"
+          },
+          "coords": [
+            50.5385,
+            1.5955
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vorhanden.",
+            "hu": "Nagy parkoló áll rendelkezésre.",
+            "ro": "Parcare mare disponibilă.",
+            "en": "Large parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Étaples Fischerhafen",
+            "hu": "Étaples halászkikötő",
+            "ro": "Portul de pescuit Étaples",
+            "en": "Étaples Fishing Port"
+          },
+          "coords": [
+            50.5185,
+            1.6382
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Authentisches Flair.",
+            "hu": "Autentikus hangulat.",
+            "ro": "Atmosferă autentică.",
+            "en": "Authentic flair."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Étaples",
+            "hu": "Ebéd Étaples-ben",
+            "ro": "Prânz în Étaples",
+            "en": "Lunch in Étaples"
+          },
+          "coords": [
+            50.5192,
+            1.6415
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frischester Fisch.",
+            "hu": "Legfrissebb hal.",
+            "ro": "Pește foarte proaspăt.",
+            "en": "Freshest fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Touquet",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            50.5302,
+            1.5888
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Simbolul orașului.",
+            "en": "Landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Avenue du Golf Villen",
+            "hu": "Avenue du Golf villák",
+            "ro": "Vilele Avenue du Golf",
+            "en": "Avenue du Golf Villas"
+          },
+          "coords": [
+            50.5125,
+            1.6152
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Prachtvolle Anwesen.",
+            "hu": "Pompás birtokok.",
+            "ro": "Domenii magnifice.",
+            "en": "Magnificent estates."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Touquet",
+            "hu": "Le Touquet strand",
+            "ro": "Plaja Le Touquet",
+            "en": "Le Touquet Beach"
+          },
+          "coords": [
+            50.5265,
+            1.5782
+          ],
+          "category": "beach",
+          "arrive_at": "16:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss.",
+            "hu": "Tökéletes befejezés.",
+            "ro": "Final perfect.",
+            "en": "Perfect finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Baie de Canche und den benachbarten Fischerhafen Étaples, wo Sie authentisches maritimes Flair genießen können. Nach einem frischen Fisch-Mittagessen kehren Sie nach Le Touquet zurück.\n\nBesuchen Sie den Leuchtturm und fahren Sie durch die exklusiven Villenviertel am Golfplatz. Den späten Nachmittag verbringen Sie entspannt am weiten Sandstrand von Paris-Plage.",
+        "hu": "Autóval kényelmesen elérheti a Baie de Canche-t és a szomszédos Étaples halászkikötőt, ahol autentikus tengeri hangulatot élvezhet. Egy friss halas ebéd után térjen vissza Le Touquet-ba.\n\nLátogasson el a világítótoronyhoz, és autózzon át a golfpálya melletti exkluzív villanegyedeken. A késő délutánt töltse pihenéssel a Paris-Plage hatalmas homokos strandján.",
+        "ro": "Cu mașina puteți ajunge ușor la Baie de Canche și la portul pescăresc vecin Étaples, unde vă puteți bucura de o atmosferă maritimă autentică. După un prânz cu pește proaspăt, reveniți în Le Touquet.\n\nVizitați farul și conduceți prin cartierele exclusiviste de vile de lângă terenul de golf. Petreceți după-amiaza târziu relaxându-vă pe plaja întinsă cu nisip din Paris-Plage.",
+        "en": "By car, you can easily reach the Baie de Canche and the neighboring fishing port of Étaples, where you can enjoy authentic maritime flair. After a fresh fish lunch, return to Le Touquet.\n\nVisit the lighthouse and drive through the exclusive villa districts by the golf course. Spend the late afternoon relaxing on the vast sandy beach of Paris-Plage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aux Pêcheurs d'Étaples",
+            "tip": "Direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aux Pêcheurs d'Étaples",
+            "tip": "Közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aux Pêcheurs d'Étaples",
+            "tip": "Chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aux Pêcheurs d'Étaples",
+            "tip": "Right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Golfplatz Wald",
+            "tip": "Ruhige Waldlage.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Golfpálya erdő",
+            "tip": "Csendes erdei környezet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de lângă golf",
+            "tip": "Locație liniștită în pădure.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Golf Course Forest",
+            "tip": "Quiet forest location.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Étaples Fischmarkt",
+            "tip": "Frischester Fang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Étaples halpiac",
+            "tip": "Legfrissebb fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește Étaples",
+            "tip": "Captură foarte proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Étaples Fish Market",
+            "tip": "Freshest catch."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist oft gebührenpflichtig.",
+          "Achten Sie auf Einbahnstraßen."
+        ],
+        "hu": [
+          "A központban a parkolás gyakran fizetős.",
+          "Ügyeljen az egyirányú utcákra."
+        ],
+        "ro": [
+          "Parcarea în centru este adesea cu plată.",
+          "Atenție la străzile cu sens unic."
+        ],
+        "en": [
+          "Parking in the center is often paid.",
+          "Watch out for one-way streets."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Étaples-Le Touquet",
+            "hu": "Étaples-Le Touquet vasútállomás",
+            "ro": "Gara Étaples-Le Touquet",
+            "en": "Étaples-Le Touquet Station"
+          },
+          "coords": [
+            50.5185,
+            1.6425
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle-Bus.",
+            "hu": "Használja az ingajáratot.",
+            "ro": "Folosiți autobuzul navetă.",
+            "en": "Use the shuttle bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché Couvert",
+            "hu": "Fedett piac",
+            "ro": "Piața acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            50.5255,
+            1.5862
+          ],
+          "category": "shopping",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Zentraler Busstopp.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stație centrală de autobuz.",
+            "en": "Central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue Saint-Jean",
+            "hu": "Rue Saint-Jean",
+            "ro": "Rue Saint-Jean",
+            "en": "Rue Saint-Jean"
+          },
+          "coords": [
+            50.5238,
+            1.5841
+          ],
+          "category": "shopping",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fußläufig erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Touquet",
+            "hu": "Le Touquet strand",
+            "ro": "Plaja Le Touquet",
+            "en": "Le Touquet Beach"
+          },
+          "coords": [
+            50.5265,
+            1.5782
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bus hält nah am Meer.",
+            "hu": "A busz a tenger közelében áll meg.",
+            "ro": "Autobuzul oprește aproape de mare.",
+            "en": "Bus stops near the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Touquet",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            50.5302,
+            1.5888
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang zurück.",
+            "hu": "Szép séta visszafelé.",
+            "ro": "O plimbare frumoasă înapoi.",
+            "en": "Nice walk back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie bequem mit dem Zug an und nutzen Sie den Shuttle-Bus ins Zentrum von Le Touquet. Besuchen Sie den überdachten Markt und die berühmte Rue Saint-Jean, bevor Sie einen langen Nachmittag am Strand verbringen.\n\nDer Leuchtturm ist ein Muss vor der Rückfahrt zum Bahnhof. Die lokalen Busse verbinden die wichtigsten Punkte der Stadt effizient.",
+        "hu": "Érkezzen kényelmesen vonattal, és használja az ingajáratot Le Touquet központjába. Látogasson el a fedett piacra és a híres Rue Saint-Jean-ra, mielőtt egy hosszú délutánt töltene a strandon.\n\nA világítótorony kötelező látnivaló a vasútállomásra való visszatérés előtt. A helyi buszok hatékonyan kötik össze a város főbb pontjait.",
+        "ro": "Sosiți confortabil cu trenul și folosiți autobuzul navetă către centrul orașului Le Touquet. Vizitați piața acoperită și celebra Rue Saint-Jean înainte de a petrece o după-amiază lungă pe plajă.\n\nFarul este un obiectiv obligatoriu înainte de întoarcerea la gară. Autobuzele locale conectează eficient principalele puncte ale orașului.",
+        "en": "Arrive comfortably by train and use the shuttle bus to the center of Le Touquet. Visit the covered market and the famous Rue Saint-Jean before spending a long afternoon on the beach.\n\nThe lighthouse is a must-see before returning to the station. Local buses efficiently connect the city's main points."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Matisse",
+            "tip": "Beliebtes Bistro im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Matisse",
+            "tip": "Népszerű bisztró a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Matisse",
+            "tip": "Bistrou popular în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Matisse",
+            "tip": "Popular bistro in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandkörbe",
+            "tip": "Entspannung pur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strandkosarak",
+            "tip": "Tiszta relaxáció.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coșuri de plajă",
+            "tip": "Relaxare pură.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Cabins",
+            "tip": "Pure relaxation.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Regionale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Regionális termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Square",
+            "tip": "Regional products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Shuttle-Fahrplan.",
+          "Fahrkarten beim Fahrer erhältlich."
+        ],
+        "hu": [
+          "Ellenőrizze az ingajárat menetrendjét.",
+          "Jegyek a sofőrnél kaphatók."
+        ],
+        "ro": [
+          "Verificați programul navetei.",
+          "Biletele se pot cumpăra de la șofer."
+        ],
+        "en": [
+          "Check the shuttle schedule.",
+          "Tickets available from the driver."
+        ]
+      }
+    }
+  }
+}

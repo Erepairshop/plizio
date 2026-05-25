@@ -1,0 +1,956 @@
+{
+  "city_id": "cahors",
+  "anchor": {
+    "name": "Cahors City Center",
+    "coords": [
+      1.4407,
+      44.4477
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Pont Valentré",
+          "coords": [
+            1.4319,
+            44.4445
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie den kleinen Teufel, der in den Turm eingemauert ist.",
+            "hu": "Keresd meg a torony falába épített apró ördögfigurát.",
+            "ro": "Căutați micul diavol sculptat în piatra turnului central.",
+            "en": "Look for the small devil figure carved into the central tower."
+          }
+        },
+        {
+          "name": "Les Jardins Secrets",
+          "coords": [
+            1.4385,
+            44.4462
+          ],
+          "category": "park",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Folgen Sie den Schildern durch die Gassen zu den versteckten Oasen.",
+            "hu": "Kövesd a táblákat a sikátorokon át a rejtett oázisokhoz.",
+            "ro": "Urmați indicatoarele prin străduțe pentru a găsi oazele ascunse.",
+            "en": "Follow the signs through the alleys to find the hidden garden oases."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Étienne",
+          "coords": [
+            1.443,
+            44.4475
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesigen Kuppeln und den spätgotischen Kreuzgang.",
+            "hu": "Csodáld meg a hatalmas kupolákat és a késő gótikus kolostort.",
+            "ro": "Admirați cupolele imense și claustrul în stil gotic târziu.",
+            "en": "Admire the massive domes and the late Gothic cloister."
+          }
+        },
+        {
+          "name": "Marché de Cahors",
+          "coords": [
+            1.4425,
+            44.447
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Malbec-Wein und lokalen Ziegenkäse.",
+            "hu": "Kóstold meg a híres malbec bort és a helyi kecskesajtot.",
+            "ro": "Gustați celebrul vin Malbec și brânza locală de capră.",
+            "en": "Taste the famous Malbec wine and local goat cheese."
+          }
+        },
+        {
+          "name": "Musée Henri-Martin",
+          "coords": [
+            1.441,
+            44.45
+          ],
+          "category": "museum",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die neoimpressionistischen Werke von Henri Martin.",
+            "hu": "Fedezd fel Henri Martin neoimpresszionista alkotásait.",
+            "ro": "Descoperiți lucrările neo-impresioniste ale lui Henri Martin.",
+            "en": "Discover the neo-impressionist works of Henri Martin."
+          }
+        },
+        {
+          "name": "Mont Saint-Cyr Lookout",
+          "coords": [
+            1.448,
+            44.437
+          ],
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Der beste Ort für ein Panoramafoto der Stadtschleife.",
+            "hu": "A legjobb hely egy panorámafotóhoz a város kanyarulatáról.",
+            "ro": "Cel mai bun loc pentru o fotografie panoramică a buclei râului.",
+            "en": "The best spot for a panoramic photo of the city loop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt an der majestätischen Pont Valentré, einem Meisterwerk mittelalterlicher Verteidigungsarchitektur. Danach schlendern Sie durch die versteckten Gärten der Altstadt zur Kathedrale Saint-Étienne. Mittags genießen Sie die lebhafte Atmosphäre des Marktes mit regionalen Köstlichkeiten. Den Nachmittag widmen Sie der Kunst im Musée Henri-Martin, bevor Sie den Tag mit einem spektakulären Blick vom Mont Saint-Cyr über die Lot-Schleife ausklingen lassen.",
+        "hu": "A napod a fenséges Valentré-hídnál indul, amely a középkori védelmi építészet remekműve. Ezután az óváros rejtett kertjein keresztül sétálsz el a Saint-Étienne székesegyházhoz. Ebédidőben élvezd a piac pezsgő hangulatát és a helyi finomságokat. A délutánt Henri Martin művészetének szentelheted a múzeumban, majd a napot a Mont Saint-Cyr kilátójánál zárod, ahonnan lenyűgöző panoráma nyílik a Lot folyó kanyarulatára.",
+        "ro": "Ziua începe la maiestuosul Pont Valentré, o capodoperă a arhitecturii medievale de apărare. Apoi, vă plimbați prin grădinile ascunse ale centrului vechi până la Catedrala Saint-Étienne. La prânz, bucurați-vă de atmosfera vibrantă a pieței cu delicatese regionale. Dedicați după-amiaza artei la Muzeul Henri-Martin, înainte de a încheia ziua cu o priveliște spectaculoasă de pe Mont Saint-Cyr asupra buclei râului Lot.",
+        "en": "Your day starts at the majestic Pont Valentré, a masterpiece of medieval defensive architecture. Then, stroll through the hidden gardens of the old town to Saint-Étienne Cathedral. At lunchtime, enjoy the lively atmosphere of the market with regional delicacies. Dedicate the afternoon to art at the Musée Henri-Martin, before ending the day with a spectacular view from Mont Saint-Cyr over the Lot river loop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vin de Cahors (Malbec)",
+            "tip": "Der tiefrote 'Black Wine' der Region."
+          },
+          {
+            "name": "Le Marché",
+            "tip": "Frische Trüffel und Gänseleber direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cahors-i bor (Malbec)",
+            "tip": "A régió mélyvörös 'fekete bora'."
+          },
+          {
+            "name": "Le Marché",
+            "tip": "Friss szarvasgomba és libamáj közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Cahors (Malbec)",
+            "tip": "Celebrul 'vin negru' intens al regiunii."
+          },
+          {
+            "name": "Le Marché",
+            "tip": "Trufe proaspete și foie gras direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cahors Wine (Malbec)",
+            "tip": "The deep red 'Black Wine' of the region."
+          },
+          {
+            "name": "Le Marché",
+            "tip": "Fresh truffles and foie gras directly from producers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardins Secrets",
+            "tip": "Kleine grüne Oasen versteckt in der Altstadt.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mont Saint-Cyr",
+            "tip": "Ruhiger Aussichtspunkt hoch über dem Fluss.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rejtett kertek",
+            "tip": "Apró zöld oázisok az óvárosban elrejtve.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mont Saint-Cyr",
+            "tip": "Csendes kilátóhely magasan a folyó felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile ascunse",
+            "tip": "Mici oaze verzi ascunse în orașul vechi.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mont Saint-Cyr",
+            "tip": "Punct de observație liniștit deasupra râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Secret Gardens",
+            "tip": "Small green oases hidden in the old town.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Mont Saint-Cyr",
+            "tip": "Quiet viewpoint high above the river.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Halles de Cahors",
+            "tip": "Überdachter Markt für lokale Gourmetprodukte."
+          },
+          {
+            "name": "Rue Nationale",
+            "tip": "Haupteinkaufsstraße mit lokalem Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halles de Cahors",
+            "tip": "Fedett piac helyi kézműves élelmiszerekkel."
+          },
+          {
+            "name": "Rue Nationale",
+            "tip": "Fő bevásárlóutca helyi kézműves termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Halles de Cahors",
+            "tip": "Piață acoperită pentru produse gourmet locale."
+          },
+          {
+            "name": "Rue Nationale",
+            "tip": "Strada principală cu produse artizanale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Halles de Cahors",
+            "tip": "Covered market for local gourmet products."
+          },
+          {
+            "name": "Rue Nationale",
+            "tip": "Main shopping street with local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Cahors ist sehr fußgängerfreundlich, tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Markttage sind Mittwoch und Samstag Vormittag.",
+          "Der Aufstieg zum Mont Saint-Cyr ist steil, nehmen Sie ausreichend Wasser mit.",
+          "Die 'Jardins Secrets' sind über die ganze Stadt verteilt, suchen Sie nach den goldenen Blättern am Boden."
+        ],
+        "hu": [
+          "Cahors gyalogosan jól bejárható, viselj kényelmes cipőt a macskakövek miatt.",
+          "A piaci napok szerda és szombat délelőtt vannak.",
+          "A Mont Saint-Cyr-re vezető út meredek, vigyél magaddal elég vizet.",
+          "A 'rejtett kertek' az egész városban elszórva találhatók, keresd az arany leveleket a földön."
+        ],
+        "ro": [
+          "Cahors este ușor de explorat la pas, purtați încălțăminte comodă pentru pavaj.",
+          "Zilele de piață sunt miercuri și sâmbătă dimineața.",
+          "Urcarea spre Mont Saint-Cyr este abruptă, luați apă suficientă.",
+          "Grădinile ascunse sunt răspândite prin oraș, căutați frunzele aurii de pe jos."
+        ],
+        "en": [
+          "Cahors is very pedestrian-friendly, wear comfortable shoes for the cobblestones.",
+          "Market days are Wednesday and Saturday mornings.",
+          "The climb to Mont Saint-Cyr is steep, bring plenty of water.",
+          "The 'Secret Gardens' are scattered throughout the city, look for the golden leaves on the ground."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Pont Valentré",
+          "coords": [
+            1.4319,
+            44.4445
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Startpunkt am Fluss.",
+            "hu": "Tökéletes kiindulópont a folyóparton.",
+            "ro": "Punct de plecare perfect pe malul râului.",
+            "en": "Perfect starting point on the riverbank."
+          }
+        },
+        {
+          "name": "Fontaine des Chartreux",
+          "coords": [
+            1.429,
+            44.4435
+          ],
+          "category": "park",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein heiliger Ort der Kelten.",
+            "hu": "Szent hely volt a kelták számára.",
+            "ro": "Un loc sacru pentru celți.",
+            "en": "A sacred place for the Celts."
+          }
+        },
+        {
+          "name": "Lot Riverbanks Path",
+          "coords": [
+            1.445,
+            44.455
+          ],
+          "category": "park",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Flache und schattige Wege.",
+            "hu": "Lapos és árnyékos ösvények.",
+            "ro": "Trasee plate și umbrite.",
+            "en": "Flat and shaded paths."
+          }
+        },
+        {
+          "name": "Halles de Cahors",
+          "coords": [
+            1.4425,
+            44.447
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Decken Sie sich mit Proviant ein.",
+            "hu": "Itt feltöltheted az útravaló készleteidet.",
+            "ro": "Faceți plinul cu provizii locale.",
+            "en": "Stock up on local supplies here."
+          }
+        },
+        {
+          "name": "Mont Saint-Cyr Panorama",
+          "coords": [
+            1.448,
+            44.437
+          ],
+          "category": "sunset",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein harter Aufstieg, der sich lohnt.",
+            "hu": "Kemény emelkedő, de megéri.",
+            "ro": "O urcare grea, dar merită.",
+            "en": "A tough climb, but well worth it."
+          }
+        },
+        {
+          "name": "Old Town Loop",
+          "coords": [
+            1.4415,
+            44.448
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ruhiges Ausrollen durch Gassen.",
+            "hu": "Csendes gurulás a sikátorokon át.",
+            "ro": "O plimbare relaxantă prin străduțe.",
+            "en": "Quiet cycling through the alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Cahors und seine Umgebung auf zwei Rädern. Starten Sie an der Pont Valentré und folgen Sie dem Lot-Ufer zur Fontaine des Chartreux. Eine ausgiebige Tour entlang des Flusses führt Sie schließlich zurück ins Zentrum zum Markt. Die größte Herausforderung ist die Fahrt zum Mont Saint-Cyr, die Sie mit dem besten Panorama der Stadt belohnt. Den Abschluss bildet eine entspannte Runde durch die Gassen der historischen Altstadt.",
+        "hu": "Fedezd fel Cahors-t és környékét két keréken. Kezdj a Valentré-hídnál, majd kövesd a Lot partját a Chartreux-forrásig. Egy hosszabb folyóparti tekerés után térj vissza a központba a piachoz. A legnagyobb kihívás a Mont Saint-Cyr-re való feljutás, ami a város legjobb panorámájával jutalmaz meg. A napot egy pihentető kör zárja az óváros történelmi sikátoraiban.",
+        "ro": "Explorați Cahors și împrejurimile pe două roți. Începeți la Pont Valentré și urmați malul râului Lot până la Fontaine des Chartreux. Un tur lung de-a lungul râului vă va aduce înapoi în centru, la piață. Cea mai mare provocare este urcarea la Mont Saint-Cyr, care vă recompensează cu cea mai bună panoramă a orașului. Încheiați cu o tură relaxantă prin străduțele centrului istoric.",
+        "en": "Explore Cahors and its surroundings on two wheels. Start at Pont Valentré and follow the Lot banks to the Fontaine des Chartreux. A long riverside ride eventually brings you back to the center and the market. The biggest challenge is the ride up to Mont Saint-Cyr, which rewards you with the best panorama in town. Finish with a relaxed loop through the alleys of the historic old town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'O à la Bouche",
+            "tip": "Moderne Küche mit regionalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'O à la Bouche",
+            "tip": "Modern konyha helyi alapanyagokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'O à la Bouche",
+            "tip": "Bucătărie modernă cu produse regionale."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'O à la Bouche",
+            "tip": "Modern cuisine with regional products."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lot-Uferweg",
+            "tip": "Ruhiges Radeln am Wasser.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lot-parti út",
+            "tip": "Csendes biciklizés a víz mellett.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Lot",
+            "tip": "Ciclism liniștit pe lângă apă.",
+            "emoji": "🚴‍♂️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lot River Path",
+            "tip": "Quiet cycling by the water.",
+            "emoji": "🚴‍♂️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Maison du Malbec",
+            "tip": "Große Auswahl an lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Maison du Malbec",
+            "tip": "Helyi borok széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Maison du Malbec",
+            "tip": "O selecție largă de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Maison du Malbec",
+            "tip": "Wide selection of local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes für den Aufstieg zum Mont Saint-Cyr.",
+          "Die Radwege entlang des Lot sind gut markiert.",
+          "Vermeiden Sie die Mittagsstunden im Hochsommer.",
+          "In der Altstadt ist das Radfahren erlaubt, aber nehmen Sie Rücksicht auf Fußgänger."
+        ],
+        "hu": [
+          "Bérelj elektromos kerékpárt a Mont Saint-Cyr megmászásához.",
+          "A Lot menti kerékpárutak jól jelzettek.",
+          "Nyáron kerüld a déli órákat a hőség miatt.",
+          "Az óvárosban szabad biciklizni, de figyelj a gyalogosokra."
+        ],
+        "ro": [
+          "Închiriați biciclete electrice pentru urcarea la Mont Saint-Cyr.",
+          "Pistele de biciclete de-a lungul râului Lot sunt bine marcate.",
+          "Evitați orele prânzului în plină vară.",
+          "Ciclismul este permis în orașul vechi, dar aveți grijă la pietoni."
+        ],
+        "en": [
+          "Rent e-bikes for the climb to Mont Saint-Cyr.",
+          "The bike paths along the Lot are well marked.",
+          "Avoid the midday hours in midsummer.",
+          "Cycling is allowed in the old town, but be mindful of pedestrians."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 75.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Pont Valentré",
+          "coords": [
+            1.4319,
+            44.4445
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie am nahen P+R Parkplatz.",
+            "hu": "Parkolj a közeli P+R parkolóban.",
+            "ro": "Parcați la parcarea P+R din apropiere.",
+            "en": "Park at the nearby P+R parking lot."
+          }
+        },
+        {
+          "name": "Cahors Vieille Ville",
+          "coords": [
+            1.442,
+            44.4475
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kathedrale und den Markt.",
+            "hu": "Látogasd meg a katedrálist és a piacot.",
+            "ro": "Vizitați catedrala și piața.",
+            "en": "Visit the cathedral and the market."
+          }
+        },
+        {
+          "name": "Mont Saint-Cyr Viewpoint",
+          "coords": [
+            1.448,
+            44.437
+          ],
+          "category": "sunset",
+          "arrive_at": "12:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bequem mit dem Auto erreichbar.",
+            "hu": "Autóval könnyen megközelíthető.",
+            "ro": "Accesibil ușor cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        },
+        {
+          "name": "Saint-Cirq-Lapopie",
+          "coords": [
+            1.6705,
+            44.4645
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 30.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": "Grotte du Pech Merle",
+          "coords": [
+            1.6435,
+            44.5075
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Reservierung der Höhlentour vorab nötig.",
+            "hu": "A barlangtúrára előzetes foglalás szükséges.",
+            "ro": "Rezervarea este necesară în avans pentru peșteră.",
+            "en": "Pre-booking is essential for the cave tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Cahors mit den Schätzen des Lot-Tals. Nach der Pont Valentré und der Altstadt genießen Sie den Komfort, zum Mont Saint-Cyr hochzufahren. Dann verlassen Sie die Stadt für einen Ausflug nach Saint-Cirq-Lapopie, einem mittelalterlichen Juwel auf einem Felsen. Den krönenden Abschluss bildet die prähistorische Grotte du Pech Merle mit ihren echten Höhlenmalereien.",
+        "hu": "Ez az autós túra Cahors legfontosabb látnivalóit ötvözi a Lot-völgy kincseivel. A Valentré-híd és az óváros után élvezd a kényelmet, hogy autóval mehetsz fel a Mont Saint-Cyr-re. Ezután elhagyod a várost egy kirándulásra Saint-Cirq-Lapopie-ba, amely egy sziklára épült középkori ékszerdoboz. A napot a Pech Merle barlang őskori barlangrajzai zárják.",
+        "ro": "Acest tur cu mașina combină punctele forte ale orașului Cahors cu comorile Văii Lotului. După Pont Valentré și centrul vechi, bucurați-vă de confortul de a urca cu mașina la Mont Saint-Cyr. Apoi părăsiți orașul pentru o excursie la Saint-Cirq-Lapopie, o bijuterie medievală cocoțată pe o stâncă. Încheiați ziua la peștera preistorică Pech Merle, cu picturile sale rupestre autentice.",
+        "en": "This car tour combines the highlights of Cahors with the treasures of the Lot Valley. After Pont Valentré and the old town, enjoy the convenience of driving up to Mont Saint-Cyr. Then, leave the city for an excursion to Saint-Cirq-Lapopie, a medieval gem perched on a cliff. Finish the day at the prehistoric Pech Merle cave with its authentic cave paintings."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "L'Auberge du Sombral",
+            "tip": "Traditionelle Küche in Saint-Cirq-Lapopie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Auberge du Sombral",
+            "tip": "Hagyományos konyha Saint-Cirq-Lapopie-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Auberge du Sombral",
+            "tip": "Bucătărie tradițională în Saint-Cirq-Lapopie."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Auberge du Sombral",
+            "tip": "Traditional cuisine in Saint-Cirq-Lapopie."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bouziès-Treidelpfad",
+            "tip": "Wandern Sie am Felsen entlang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bouziès vontatóút",
+            "tip": "Sétálj a sziklába vájt út mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul Bouziès",
+            "tip": "Plimbare pe poteca săpată în stâncă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bouziès Towpath",
+            "tip": "Walk along the path carved into the rock.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ateliers d'Art",
+            "tip": "Kunsthandwerk in Saint-Cirq-Lapopie."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ateliers d'Art",
+            "tip": "Kézműves műhelyek Saint-Cirq-Lapopie-ban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ateliers d'Art",
+            "tip": "Ateliere de artizanat în Saint-Cirq-Lapopie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ateliers d'Art",
+            "tip": "Craft workshops in Saint-Cirq-Lapopie."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Lot-Tal sind kurvenreich und eng, fahren Sie vorsichtig.",
+          "In Saint-Cirq-Lapopie gibt es große Parkplätze oberhalb des Dorfes.",
+          "Buchen Sie Pech Merle Wochen im Voraus online.",
+          "Tanken Sie in Cahors, im Tal gibt es weniger Tankstellen."
+        ],
+        "hu": [
+          "A Lot-völgy útjai kanyargósak és szűkek, vezess óvatosan.",
+          "Saint-Cirq-Lapopie-ban nagy parkolók vannak a falu felett.",
+          "Foglald le a Pech Merle jegyeket hetekkel előre online.",
+          "Tankolj Cahors-ban, a völgyben kevesebb a benzinkút."
+        ],
+        "ro": [
+          "Drumurile din Valea Lotului sunt sinuoase și înguste, conduceți cu atenție.",
+          "În Saint-Cirq-Lapopie există parcări mari deasupra satului.",
+          "Rezervați biletele pentru Pech Merle cu săptămâni înainte online.",
+          "Alimentați în Cahors, sunt puține benzinării în vale."
+        ],
+        "en": [
+          "The roads in the Lot Valley are winding and narrow, drive carefully.",
+          "In Saint-Cirq-Lapopie, there are large parking lots above the village.",
+          "Book Pech Merle tickets weeks in advance online.",
+          "Fuel up in Cahors, as there are fewer gas stations in the valley."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Cahors",
+          "coords": [
+            1.4335,
+            44.4485
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für Busse.",
+            "hu": "A buszok központi csomópontja.",
+            "ro": "Nod central pentru autobuze.",
+            "en": "Central hub for buses."
+          }
+        },
+        {
+          "name": "Pont Valentré (Bus Navette)",
+          "coords": [
+            1.4319,
+            44.4445
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kostenlosen Shuttle 'Navette'.",
+            "hu": "Használd az ingyenes 'Navette' buszt.",
+            "ro": "Folosiți naveta gratuită.",
+            "en": "Use the free 'Navette' shuttle."
+          }
+        },
+        {
+          "name": "Cathédrale / Mairie",
+          "coords": [
+            1.4425,
+            44.4475
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Mitten im Herzen der Altstadt.",
+            "hu": "Az óváros szívében.",
+            "ro": "Chiar în inima orașului vechi.",
+            "en": "Right in the heart of the old town."
+          }
+        },
+        {
+          "name": "Musée Henri-Martin",
+          "coords": [
+            1.441,
+            44.45
+          ],
+          "category": "museum",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nahe der Haltestelle Gambetta.",
+            "hu": "A Gambetta megálló közelében.",
+            "ro": "Aproape de stația Gambetta.",
+            "en": "Near the Gambetta stop."
+          }
+        },
+        {
+          "name": "Mont Saint-Cyr (Bus Ligne 1)",
+          "coords": [
+            1.448,
+            44.437
+          ],
+          "category": "sunset",
+          "arrive_at": "15:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für die Rückfahrt.",
+            "hu": "Ellenőrizd a visszautat a menetrendben.",
+            "ro": "Verificați orarul pentru întoarcere.",
+            "en": "Check the timetable for the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Cahors, um die Stadt stressfrei zu erkunden. Vom Bahnhof bringt Sie der kostenlose Shuttle zur Pont Valentré. Danach geht es weiter ins Zentrum zur Kathedrale und zum Museum. Der Höhepunkt ist die Busfahrt zum Mont Saint-Cyr, die Ihnen den anstrengenden Aufstieg erspart und Ihnen Zeit gibt, das Panorama in aller Ruhe zu genießen.",
+        "hu": "Használd Cahors hatékony buszhálózatát a város stresszmentes felfedezéséhez. A vasútállomástól ingyenes járat visz a Valentré-hídhoz. Ezután folytasd utadat a központba, a katedrálishoz és a múzeumhoz. A nap fénypontja a buszos utazás a Mont Saint-Cyr-re, amivel megspórolod a fárasztó hegymenetet, és több időd marad a panoráma élvezetére.",
+        "ro": "Folosiți sistemul eficient de autobuze din Cahors pentru a explora orașul fără stres. De la gară, naveta gratuită vă duce la Pont Valentré. Apoi continuați spre centru, la catedrală și muzeu. Punctul culminant este călătoria cu autobuzul spre Mont Saint-Cyr, care vă scutește de urcarea obositoare și vă oferă timp să vă bucurați de panoramă în liniște.",
+        "en": "Use Cahors' efficient bus system to explore the city stress-free. From the train station, the free shuttle takes you to Pont Valentré. Then continue to the center to the cathedral and the museum. The highlight is the bus ride to Mont Saint-Cyr, which saves you the tiring climb and leaves more time to enjoy the panorama in peace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boulangerie Cariel",
+            "tip": "Hervorragende Quiche und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boulangerie Cariel",
+            "tip": "Kiváló quiche és sütemények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boulangerie Cariel",
+            "tip": "Quiche și produse de patiserie excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boulangerie Cariel",
+            "tip": "Excellent quiche and pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc Tassart",
+            "tip": "Ein kleiner ruhiger Park am Museum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc Tassart",
+            "tip": "Egy kis csendes park a múzeumnál.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc Tassart",
+            "tip": "Un mic parc liniștit lângă muzeu.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc Tassart",
+            "tip": "A small quiet park near the museum.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Echoppe des Saveurs",
+            "tip": "Regionale Spezialitäten zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Echoppe des Saveurs",
+            "tip": "Vigyél haza helyi különlegességeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "L'Echoppe des Saveurs",
+            "tip": "Specialități regionale pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Echoppe des Saveurs",
+            "tip": "Regional specialties to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die 'Navette gratuite' verbindet die wichtigsten Parkplätze mit dem Zentrum.",
+          "Laden Sie die App des Verkehrsverbundes Evidence herunter.",
+          "Am Sonntag verkehren deutlich weniger Busse.",
+          "Die Haltestelle 'Gambetta' ist der zentrale Umsteigepunkt."
+        ],
+        "hu": [
+          "A 'Navette gratuite' ingyenes járat összeköti a parkolókat a központtal.",
+          "Töltsd le az Evidence közlekedési társaság alkalmazását.",
+          "Vasárnap jelentősen kevesebb busz közlekedik.",
+          "A 'Gambetta' megálló a központi átszállási pont."
+        ],
+        "ro": [
+          "Naveta gratuită conectează principalele parcări de centru.",
+          "Descărcați aplicația Evidence pentru transportul local.",
+          "Duminica circulă mult mai puține autobuze.",
+          "Stația 'Gambetta' este principalul punct de transfer."
+        ],
+        "en": [
+          "The 'Navette gratuite' (free shuttle) connects the main parking lots with the center.",
+          "Download the Evidence transport app for schedules.",
+          "Significantly fewer buses run on Sundays.",
+          "The 'Gambetta' stop is the central transfer point."
+        ]
+      }
+    }
+  }
+}

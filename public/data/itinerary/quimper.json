@@ -1,0 +1,920 @@
+{
+  "city_id": "quimper",
+  "anchor": {
+    "name": "Cathédrale Saint-Corentin",
+    "coords": [
+      47.9961,
+      -4.0978
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Place Terre au Duc",
+          "coords": [
+            47.9965,
+            -4.105
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fachwerkhäuser am Platz.",
+            "hu": "Csodálja meg a tér gerendavázas házait.",
+            "ro": "Admirați casele cu bârne de lemn din piață.",
+            "en": "Admire the timber-framed houses in the square."
+          }
+        },
+        {
+          "name": "Cathédrale Saint-Corentin",
+          "coords": [
+            47.996,
+            -4.1025
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Achten Sie auf das leicht schiefe Kirchenschiff.",
+            "hu": "Figyelje meg a templomhajó enyhe ferdeségét.",
+            "ro": "Observați nava ușor înclinată a catedralei.",
+            "en": "Notice the slightly leaning nave of the church."
+          }
+        },
+        {
+          "name": "Musée des Beaux-Arts",
+          "coords": [
+            47.9963,
+            -4.102
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Sektion über bretonische Legenden.",
+            "hu": "Nézze meg a breton legendákat bemutató szekciót.",
+            "ro": "Vizitați secțiunea despre legendele bretone.",
+            "en": "Visit the section on Breton legends."
+          }
+        },
+        {
+          "name": "Vieux Quimper",
+          "coords": [
+            47.995,
+            -4.103
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den gepflasterten Gassen.",
+            "hu": "Vesszen el a macskaköves sikátorokban.",
+            "ro": "Pierdeți-vă pe străduțele pietruite.",
+            "en": "Get lost in the cobbled narrow streets."
+          }
+        },
+        {
+          "name": "Crêperie du Quartier",
+          "coords": [
+            47.994,
+            -4.104
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestellen Sie eine Galette mit salziger Butter.",
+            "hu": "Rendeljen egy sós vajas galette-et.",
+            "ro": "Comandați o galette cu unt sărat.",
+            "en": "Order a galette with salty butter."
+          }
+        },
+        {
+          "name": "Mont Frugy",
+          "coords": [
+            47.993,
+            -4.102
+          ],
+          "category": "park",
+          "arrive_at": "16:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Stadt.",
+            "hu": "Élvezze a városra nyíló panorámát.",
+            "ro": "Bucurați-vă de panorama asupra orașului.",
+            "en": "Enjoy the panoramic view over the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir das mittelalterliche Viertel mit seinen malerischen Fachwerkhäusern. Mittags bewundern wir die beeindruckende Architektur der Kathedrale und die Kunstschätze im Museum. Am Nachmittag schlendern wir durch die historischen Gassen und genießen lokale Spezialitäten. Der Abend endet mit einem entspannten Spaziergang auf den Mont Frugy für den besten Ausblick.",
+        "hu": "A reggelt a középkori negyed felfedezésével kezdjük, festői gerendavázas házak között. Napközben a katedrális lenyűgöző építészetét és a múzeum műkincseit csodáljuk meg. Délután a történelmi sikátorokban kalandozunk és helyi finomságokat kóstolunk. Az estét a Mont Frugy-n zárjuk, ahonnan a legjobb kilátás nyílik a városra.",
+        "ro": "Dimineața explorăm cartierul medieval cu casele sale pitorești din lemn. La prânz admirăm arhitectura impresionantă a catedralei și comorile de artă din muzeu. După-amiaza ne plimbăm pe străduțele istorice și degustăm specialități locale. Seara se încheie cu o plimbare relaxantă pe Mont Frugy pentru cea mai bună vedere asupra orașului.",
+        "en": "Morning starts by exploring the medieval quarter with its picturesque timber-framed houses. At midday, we admire the impressive cathedral architecture and art treasures in the museum. In the afternoon, we wander through historical alleys and taste local specialties. The evening ends with a relaxed walk up Mont Frugy for the best view over the city."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Galette Bretonne",
+            "tip": "Herzhafter Buchweizenpfannkuchen."
+          },
+          {
+            "name": "Cidre de Cornouaille",
+            "tip": "Traditioneller Apfelwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galette Bretonne",
+            "tip": "Hajdinából készült sós palacsinta."
+          },
+          {
+            "name": "Cidre de Cornouaille",
+            "tip": "Hagyományos helyi almabor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galette Bretonne",
+            "tip": "Clătită sărată din hrișcă."
+          },
+          {
+            "name": "Cidre de Cornouaille",
+            "tip": "Cidru tradițional din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galette Bretonne",
+            "tip": "Savory buckwheat pancake."
+          },
+          {
+            "name": "Cidre de Cornouaille",
+            "tip": "Traditional local apple cider."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mont Frugy",
+            "tip": "Ruhiger Hügel mit Aussicht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Retraite",
+            "tip": "Versteckter exotischer Garten.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mont Frugy",
+            "tip": "Csendes domb kilátással.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Retraite",
+            "tip": "Rejtett egzotikus kert.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mont Frugy",
+            "tip": "Deal liniștit cu vedere.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Retraite",
+            "tip": "Grădină exotică ascunsă.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mont Frugy",
+            "tip": "Quiet hill with a view.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Jardin de la Retraite",
+            "tip": "Hidden exotic garden.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Henriot-Quimper",
+            "tip": "Berühmte handbemalte Keramik."
+          },
+          {
+            "name": "Les Halles",
+            "tip": "Lokaler Markt für frische Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Henriot-Quimper",
+            "tip": "Híres kézzel festett kerámia."
+          },
+          {
+            "name": "Les Halles",
+            "tip": "Helyi piac friss termékekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Henriot-Quimper",
+            "tip": "Ceramică celebră pictată manual."
+          },
+          {
+            "name": "Les Halles",
+            "tip": "Piață locală pentru produse proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Henriot-Quimper",
+            "tip": "Famous hand-painted ceramics."
+          },
+          {
+            "name": "Les Halles",
+            "tip": "Local market for fresh produce."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Quimper ist sehr fußgängerfreundlich.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die meisten Museen sind montags geschlossen.",
+          "Probieren Sie unbedingt Kouign-Amann beim Bäcker."
+        ],
+        "hu": [
+          "Quimper remekül bejárható gyalogosan.",
+          "Viseljen kényelmes cipőt a macskakövek miatt.",
+          "A legtöbb múzeum hétfőn zárva tart.",
+          "Mindenképpen kóstolja meg a Kouign-Amann süteményt."
+        ],
+        "ro": [
+          "Quimper este foarte ușor de parcurs pe jos.",
+          "Purtați încălțăminte comodă pentru pavaj.",
+          "Majoritatea muzeelor sunt închise lunea.",
+          "Nu ratați prăjitura Kouign-Amann de la brutărie."
+        ],
+        "en": [
+          "Quimper is very pedestrian friendly.",
+          "Wear comfortable shoes for the cobblestones.",
+          "Most museums are closed on Mondays.",
+          "Be sure to try Kouign-Amann at a bakery."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Odet River Banks",
+          "coords": [
+            47.994,
+            -4.11
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der blumigen Ufer.",
+            "hu": "Kerékpározzon a virágos folyópart mentén.",
+            "ro": "Mergeți cu bicicleta pe malul înflorit.",
+            "en": "Cycle along the flowery river banks."
+          }
+        },
+        {
+          "name": "Quartier Locmaria",
+          "coords": [
+            47.99,
+            -4.105
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das älteste Viertel der Stadt.",
+            "hu": "Látogassa meg a város legősibb negyedét.",
+            "ro": "Vizitați cel mai vechi cartier al orașului.",
+            "en": "Visit the oldest district of the city."
+          }
+        },
+        {
+          "name": "Musée de la Faïence",
+          "coords": [
+            47.991,
+            -4.106
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Keramik.",
+            "hu": "Fedezze fel a kerámia történetét.",
+            "ro": "Descoperiți istoria ceramicii.",
+            "en": "Discover the history of ceramics."
+          }
+        },
+        {
+          "name": "Jardin du Prieuré",
+          "coords": [
+            47.989,
+            -4.104
+          ],
+          "category": "park",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein mittelalterlicher Garten zur Entspannung.",
+            "hu": "Középkori stílusú kert a pihenéshez.",
+            "ro": "O grădină medievală pentru relaxare.",
+            "en": "A medieval-style garden for relaxation."
+          }
+        },
+        {
+          "name": "Vieux Quimper Center",
+          "coords": [
+            47.996,
+            -4.103
+          ],
+          "category": "square",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schließen Sie die Tour im Herzen der Stadt ab.",
+            "hu": "Zárja a túrát a város szívében.",
+            "ro": "Încheiați turul în inima orașului.",
+            "en": "Finish the tour in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt entlang der malerischen Odet-Ufer, die für ihre Blumenpracht bekannt sind. Wir radeln zum historischen Locmaria-Viertel, um das Keramikmuseum und die alten Gärten zu erkunden. Der Weg führt uns durch ruhige Parkanlagen und endet wieder im lebhaften Stadtzentrum.",
+        "hu": "A kerékpártúra a festői Odet partján indul, amely virágpompájáról híres. Eltekerünk a történelmi Locmaria negyedbe, hogy felfedezzük a kerámiamúzeumot és a régi kerteket. Utunk csendes parkokon át vezet, majd a nyüzsgő városközpontban ér véget.",
+        "ro": "Turul cu bicicleta începe pe malurile pitorești ale râului Odet, faimoase pentru flori. Pedalam spre cartierul istoric Locmaria pentru a explora muzeul ceramicii și grădinile vechi. Drumul ne poartă prin parcuri liniștite și se termină în centrul animat al orașului.",
+        "en": "The bike tour starts along the picturesque Odet banks, famous for their flowers. We cycle to the historical Locmaria district to explore the pottery museum and the old gardens. Our path leads through quiet parks and ends back in the lively city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Prieuré",
+            "tip": "Hübsche Terrasse im Locmaria-Viertel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Prieuré",
+            "tip": "Hangulatos terasz a Locmaria negyedben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Prieuré",
+            "tip": "Terasă frumoasă în cartierul Locmaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Prieuré",
+            "tip": "Lovely terrace in the Locmaria district."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Odet Ufer",
+            "tip": "Ruhiger Weg am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Odet partja",
+            "tip": "Nyugodt út a víz mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Odet",
+            "tip": "Drum liniștit pe lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Odet Banks",
+            "tip": "Quiet path by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Faïencerie d'Art",
+            "tip": "Künstlerische Keramik in Locmaria."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Faïencerie d'Art",
+            "tip": "Művészi kerámiák Locmariában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faïencerie d'Art",
+            "tip": "Ceramică artistică în Locmaria."
+          }
+        ],
+        "en": [
+          {
+            "name": "Faïencerie d'Art",
+            "tip": "Artistic ceramics in Locmaria."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt viele Fahrradwege entlang der Flüsse.",
+          "Achten Sie auf Fußgänger in der Altstadt.",
+          "Mieten Sie ein Fahrrad in der Nähe des Bahnhofs.",
+          "Die Strecke nach Locmaria ist flach und einfach."
+        ],
+        "hu": [
+          "Sok kerékpárút van a folyók mentén.",
+          "Ügyeljen a gyalogosokra az óvárosban.",
+          "Béreljen biciklit a vasútállomás közelében.",
+          "A Locmariába vezető út sík és könnyű."
+        ],
+        "ro": [
+          "Există multe piste de biciclete de-a lungul râurilor.",
+          "Atenție la pietoni în centrul vechi.",
+          "Închiriați o bicicletă lângă gară.",
+          "Traseul spre Locmaria este plat și ușor."
+        ],
+        "en": [
+          "There are many bike paths along the rivers.",
+          "Watch out for pedestrians in the old town.",
+          "Rent a bike near the train station.",
+          "The route to Locmaria is flat and easy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 35.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Quimper Locmaria",
+          "coords": [
+            47.99,
+            -4.105
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die romanische Kirche.",
+            "hu": "Nézze meg a román stílusú templomot.",
+            "ro": "Vizitați biserica romanică.",
+            "en": "Visit the Romanesque church."
+          }
+        },
+        {
+          "name": "Locronan Village",
+          "coords": [
+            48.098,
+            -4.208
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 15.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": "Sainte-Anne-la-Palud",
+          "coords": [
+            48.125,
+            -4.26
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Ein riesiger Sandstrand in der Nähe.",
+            "hu": "Hatalmas homokos strand a közelben.",
+            "ro": "O plajă imensă de nisip în apropiere.",
+            "en": "A huge sandy beach nearby."
+          }
+        },
+        {
+          "name": "Quimper Cathédrale",
+          "coords": [
+            47.996,
+            -4.102
+          ],
+          "category": "cathedral",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Stadtzentrum für die Besichtigung.",
+            "hu": "Visszatérés a városközpontba a látogatáshoz.",
+            "ro": "Revenire în centrul orașului pentru vizită.",
+            "en": "Return to the city center for the visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir zuerst das Locmaria-Viertel und fahren dann in das historische Dorf Locronan, das wie ein Filmset wirkt. Nach einem Abstecher zum weiten Strand von Sainte-Anne-la-Palud kehren wir für einen Abendspaziergang nach Quimper zurück.",
+        "hu": "Autóval először a Locmaria negyedet fedezzük fel, majd elhajtunk Locronan történelmi falujába, amely olyan, mint egy filmdíszlet. Egy kitérő után Sainte-Anne-la-Palud tágas strandjához, visszatérünk Quimperbe egy esti sétára.",
+        "ro": "Cu mașina explorăm mai întâi cartierul Locmaria, apoi mergem în satul istoric Locronan, care arată ca un decor de film. După o vizită la plaja întinsă din Sainte-Anne-la-Palud, ne întoarcem în Quimper pentru o plimbare de seară.",
+        "en": "By car, we first explore the Locmaria district and then drive to the historical village of Locronan, which feels like a movie set. After a trip to the wide beach of Sainte-Anne-la-Palud, we return to Quimper for an evening stroll."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kouign-Amann Locronan",
+            "tip": "Die beste Version dieses Kuchens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Locronani Kouign-Amann",
+            "tip": "E sütemény legjobb változata."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kouign-Amann Locronan",
+            "tip": "Cea mai bună versiune a acestei prăjituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Locronan Kouign-Amann",
+            "tip": "The best version of this cake."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sainte-Anne Strand",
+            "tip": "Meeresbrise und weite Sicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sainte-Anne strand",
+            "tip": "Tengeri szellő és tágas kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Sainte-Anne",
+            "tip": "Briză marină și vedere largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sainte-Anne Beach",
+            "tip": "Sea breeze and wide views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Locronan Weberei",
+            "tip": "Traditionelle Leinenstoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Locronani szövőműhely",
+            "tip": "Hagyományos vászontermékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țesătoria Locronan",
+            "tip": "Țesături tradiționale de in."
+          }
+        ],
+        "en": [
+          {
+            "name": "Locronan Weaving",
+            "tip": "Traditional linen fabrics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Quimper auf den großen Parkplätzen am Rand.",
+          "Locronan ist eine Fußgängerzone, Parken davor möglich.",
+          "Die Straßen an der Küste sind sehr malerisch.",
+          "Vermeiden Sie die Rushhour im Stadtzentrum."
+        ],
+        "hu": [
+          "Quimperben parkoljon a széleken lévő nagy parkolókban.",
+          "Locronan gyalogos övezet, parkolás előtte lehetséges.",
+          "A tengerparti utak nagyon festőiek.",
+          "Kerülje a csúcsforgalmat a városközpontban."
+        ],
+        "ro": [
+          "În Quimper parcați în marile parcări de la periferie.",
+          "Locronan este zonă pietonală, parcarea este posibilă la intrare.",
+          "Drumurile de coastă sunt foarte pitorești.",
+          "Evitați orele de vârf în centrul orașului."
+        ],
+        "en": [
+          "In Quimper, park in the large lots on the outskirts.",
+          "Locronan is a pedestrian zone, parking is available outside.",
+          "The coastal roads are very scenic.",
+          "Avoid rush hour in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Gare de Quimper",
+          "coords": [
+            47.995,
+            -4.092
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für alle Buslinien.",
+            "hu": "Központi csomópont minden buszjáratnak.",
+            "ro": "Nod central pentru toate liniile de autobuz.",
+            "en": "Central hub for all bus lines."
+          }
+        },
+        {
+          "name": "Cathédrale / Center",
+          "coords": [
+            47.996,
+            -4.102
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Linie A oder B zum Zentrum.",
+            "hu": "Vigye az A vagy B vonalat a központba.",
+            "ro": "Luați linia A sau B spre centru.",
+            "en": "Take line A or B to the center."
+          }
+        },
+        {
+          "name": "Musée Breton",
+          "coords": [
+            47.995,
+            -4.102
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Kathedrale gelegen.",
+            "hu": "Közvetlenül a katedrális mellett található.",
+            "ro": "Situat chiar lângă catedrală.",
+            "en": "Located right next to the cathedral."
+          }
+        },
+        {
+          "name": "Locmaria (Bus 2)",
+          "coords": [
+            47.99,
+            -4.105
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Linie 2 verbindet das Zentrum mit Locmaria.",
+            "hu": "A 2-es busz köti össze a központot Locmariával.",
+            "ro": "Linia 2 leagă centrul de Locmaria.",
+            "en": "Line 2 connects the center with Locmaria."
+          }
+        },
+        {
+          "name": "Les Halles Market",
+          "coords": [
+            47.997,
+            -4.104
+          ],
+          "category": "gastro",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein Paradies für Feinschmecker.",
+            "hu": "Az ínyencek paradicsoma.",
+            "ro": "Un paradis pentru gurmanzi.",
+            "en": "A paradise for food lovers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem effizienten Bussystem von Quimper erreichen wir bequem alle wichtigen Sehenswürdigkeiten. Vom Bahnhof geht es zum Zentrum für Kultur und Geschichte, dann weiter in das traditionelle Locmaria-Viertel. Den Tag lassen wir auf dem lokalen Markt ausklingen, wo wir regionale Produkte entdecken.",
+        "hu": "Quimper hatékony buszhálózatával kényelmesen elérjük az összes fontos látnivalót. A vasútállomástól a kulturális és történelmi központba megyünk, majd tovább a hagyományos Locmaria negyedbe. A napot a helyi piacon zárjuk, ahol regionális termékeket fedezünk fel.",
+        "ro": "Cu sistemul eficient de autobuz din Quimper, ajungem ușor la toate obiectivele importante. De la gară mergem spre centrul cultural și istoric, apoi mai departe în cartierul tradițional Locmaria. Încheiem ziua la piața locală, unde descoperim produse regionale.",
+        "en": "With Quimper's efficient bus system, we easily reach all major sights. From the station, we head to the cultural and historical center, then on to the traditional Locmaria district. We end the day at the local market, discovering regional products."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Halles St-François",
+            "tip": "Frische Meeresfrüchte und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Halles St-François",
+            "tip": "Friss tenger gyümölcsei és sajtok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Halles St-François",
+            "tip": "Fructe de mare proaspete și brânzeturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Halles St-François",
+            "tip": "Fresh seafood and cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "Ein ruhiger Ort nahe dem Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "Csendes hely a központ közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "Un loc liniștit lângă centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de la Paix",
+            "tip": "A quiet spot near the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Kéréon",
+            "tip": "Hübsche Geschäfte in der Fußgängerzone."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Kéréon",
+            "tip": "Szép üzletek a sétálóutcában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Kéréon",
+            "tip": "Magazine frumoase în zona pietonală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Kéréon",
+            "tip": "Lovely shops in the pedestrian zone."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket (Ticket Journée).",
+          "Die Busse fahren regelmäßig ab dem Bahnhof.",
+          "Laden Sie die QUB-App für Fahrpläne herunter.",
+          "Sonntags gibt es einen eingeschränkten Fahrplan."
+        ],
+        "hu": [
+          "Vásároljon napijegyet (Ticket Journée).",
+          "A buszok rendszeresen indulnak a vasútállomástól.",
+          "Töltse le a QUB alkalmazást a menetrendekhez.",
+          "Vasárnaponként korlátozott a menetrend."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi (Ticket Journée).",
+          "Autobuzele pleacă regulat de la gară.",
+          "Descărcați aplicația QUB pentru orare.",
+          "Duminica programul este redus."
+        ],
+        "en": [
+          "Buy a day ticket (Ticket Journée).",
+          "Buses run regularly from the train station.",
+          "Download the QUB app for schedules.",
+          "On Sundays, there is a limited schedule."
+        ]
+      }
+    }
+  }
+}

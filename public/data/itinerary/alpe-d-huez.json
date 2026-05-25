@@ -1,0 +1,1220 @@
+{
+  "city_id": "alpe-d-huez",
+  "anchor": {
+    "name": "L'Alpe d'Huez",
+    "coords": [
+      6.0683,
+      45.0908
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "id": "eglise-notre-dame",
+          "name": {
+            "de": "Église Notre-Dame-des-Neiges",
+            "hu": "Havas Boldogasszony-templom",
+            "ro": "Biserica Notre-Dame-des-Neiges",
+            "en": "Church of Notre-Dame-des-Neiges"
+          },
+          "coords": [
+            6.0655,
+            45.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Orgel in Form einer Hand.",
+            "hu": "Csodálja meg a különleges, kéz alakú orgonát.",
+            "ro": "Admirați orga unică în formă de mână.",
+            "en": "Admire the unique organ shaped like a hand."
+          }
+        },
+        {
+          "id": "musee-d-huez",
+          "name": {
+            "de": "Musée d'Huez et de l'Oisans",
+            "hu": "Huez és Oisans Múzeum",
+            "ro": "Muzeul Huez și Oisans",
+            "en": "Museum of Huez and Oisans"
+          },
+          "coords": [
+            6.0685,
+            45.0915
+          ],
+          "category": "museums",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Bergbaugeschichte.",
+            "hu": "Ismerje meg a helyi bányászat történetét.",
+            "ro": "Aflați mai multe despre istoria mineritului local.",
+            "en": "Learn about the local mining history."
+          }
+        },
+        {
+          "id": "palais-des-sports",
+          "name": {
+            "de": "Palais des Sports",
+            "hu": "Sport- és Kongresszusi Palota",
+            "ro": "Palatul Sporturilor",
+            "en": "Palais des Sports"
+          },
+          "coords": [
+            6.071,
+            45.0925
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für Indoor-Aktivitäten bei schlechtem Wetter.",
+            "hu": "Ideális benti programokhoz rossz idő esetén.",
+            "ro": "Ideal pentru activități de interior pe vreme rea.",
+            "en": "Ideal for indoor activities during bad weather."
+          }
+        },
+        {
+          "id": "monument-aux-morts",
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            6.0695,
+            45.0905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort des Gedenkens im Dorfzentrum.",
+            "hu": "Csendes emlékhely a falu központjában.",
+            "ro": "Un loc liniștit de reculegere în centrul satului.",
+            "en": "A quiet place of remembrance in the village center."
+          }
+        },
+        {
+          "id": "site-brandes",
+          "name": {
+            "de": "Archäologische Stätte von Brandes",
+            "hu": "Brandes régészeti lelőhely",
+            "ro": "Situl Arheologic Brandes",
+            "en": "Archaeological Site of Brandes"
+          },
+          "coords": [
+            6.085,
+            45.095
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die höchstgelegene mittelalterliche Siedlung Europas.",
+            "hu": "Európa legmagasabban fekvő középkori települése.",
+            "ro": "Cea mai înaltă așezare medievală din Europa.",
+            "en": "The highest medieval settlement in Europe."
+          }
+        },
+        {
+          "id": "route-21-virages",
+          "name": {
+            "de": "Route des 21 Virages",
+            "hu": "A 21 kanyar útja",
+            "ro": "Drumul celor 21 de curbe",
+            "en": "Route of the 21 Bends"
+          },
+          "coords": [
+            6.063,
+            45.09
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der legendäre Aufstieg der Tour de France.",
+            "hu": "A Tour de France legendás emelkedője.",
+            "ro": "Ascensiunea legendară din Tour de France.",
+            "en": "The legendary climb of the Tour de France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der architektonisch einzigartigen Kirche Notre-Dame-des-Neiges, bevor Sie im lokalen Museum tief in die Geschichte der Oisans-Region eintauchen. Mittags erkunden Sie das Sportzentrum und genießen die alpine Atmosphäre.\n\nAm Nachmittag spazieren Sie zur historischen Ausgrabungsstätte Brandes, wo einst Bergleute in extremer Höhe lebten. Beenden Sie den Tag mit einem Blick auf die berühmten 21 Kehren, die Radsportgeschichte geschrieben haben.",
+        "hu": "Kezdje a napot a különleges építészetű Havas Boldogasszony-templomban, majd merüljön el az Oisans régió történelmében a helyi múzeumban. Délben fedezze fel a sportközpontot és élvezze az alpesi hangulatot.\n\nDélután sétáljon el a Brandes régészeti lelőhelyhez, ahol egykor bányászok éltek extrém magasságban. A napot a Tour de France legendás 21 kanyarjának látványával zárja, amely sporttörténelmet írt.",
+        "ro": "Începeți ziua la biserica Notre-Dame-des-Neiges, cu o arhitectură unică, înainte de a explora istoria regiunii Oisans la muzeul local. La prânz, descoperiți centrul sportiv și bucurați-vă de atmosfera alpină.\n\nDupă-amiaza, mergeți la situl arheologic Brandes, unde minerii trăiau odinioară la înălțimi extreme. Încheiați ziua cu o privire asupra celor 21 de curbe celebre care au scris istoria ciclismului.",
+        "en": "Start your day at the architecturally unique Church of Notre-Dame-des-Neiges before diving into the history of the Oisans region at the local museum. At noon, explore the sports complex and enjoy the alpine atmosphere.\n\nIn the afternoon, walk to the Brandes archaeological site, where miners once lived at extreme altitudes. End the day with a view of the famous 21 bends that have made cycling history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Probieren Sie es im 'Au P'tit Creux' für ein authentisches Erlebnis."
+          },
+          {
+            "name": "Génépi",
+            "tip": "Ein lokaler Kräuterlikör, perfekt als Digestif."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Kóstolja meg az 'Au P'tit Creux' étteremben az autentikus élményért."
+          },
+          {
+            "name": "Génépi",
+            "tip": "Helyi gyógynövénylikőr, kiváló emésztést segítő ital."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Încercați-l la 'Au P'tit Creux' pentru o experiență autentică."
+          },
+          {
+            "name": "Génépi",
+            "tip": "Un lichior local de plante, perfect ca digestiv."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fondue Savoyarde",
+            "tip": "Try it at 'Au P'tit Creux' for an authentic experience."
+          },
+          {
+            "name": "Génépi",
+            "tip": "A local herbal liqueur, perfect as a digestif."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hochebene von Brandes",
+            "tip": "Ein friedlicher Ort mit weitem Blick über das Tal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirchplatz",
+            "tip": "Abends herrscht hier eine besinnliche Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brandes-fennsík",
+            "tip": "Békés hely tágas kilátással a völgyre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Templom tér",
+            "tip": "Este áhítatos nyugalom honol itt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Brandes",
+            "tip": "Un loc liniștit cu o vedere largă asupra văii.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Piața Bisericii",
+            "tip": "Seara aici domnește o liniște deplină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brandes Plateau",
+            "tip": "A peaceful spot with wide views over the valley.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church Square",
+            "tip": "In the evening, a contemplative silence prevails here.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "L'Alpe d'Huez Markt",
+            "tip": "Jeden Freitagmorgen mit lokalen Käsesorten."
+          },
+          {
+            "name": "Souvenirs du Tour",
+            "tip": "Radtrikots und Andenken an die 21 Kehren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "L'Alpe d'Huez piac",
+            "tip": "Minden péntek reggel, helyi sajtokkal."
+          },
+          {
+            "name": "Souvenirs du Tour",
+            "tip": "Kerékpáros mezek és emlékek a 21 kanyarról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața L'Alpe d'Huez",
+            "tip": "În fiecare vineri dimineață, cu brânzeturi locale."
+          },
+          {
+            "name": "Souvenirs du Tour",
+            "tip": "Tricouri de ciclism și amintiri cu cele 21 de curbe."
+          }
+        ],
+        "en": [
+          {
+            "name": "L'Alpe d'Huez Market",
+            "tip": "Every Friday morning, featuring local cheeses."
+          },
+          {
+            "name": "Souvenirs du Tour",
+            "tip": "Cycling jerseys and souvenirs of the 21 bends."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe, da die Wege oft steil sind.",
+          "Die Sonne ist in dieser Höhe sehr stark, nutzen Sie Sonnenschutz.",
+          "Die Kirche ist meist bis 18 Uhr geöffnet.",
+          "Nutzen Sie die kostenlosen Pendelbusse innerhalb des Resorts."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt, mert az utak gyakran meredekek.",
+          "A nap ebben a magasságban nagyon erős, használjon fényvédőt.",
+          "A templom általában délután 6-ig van nyitva.",
+          "Használja az üdülőhelyen belüli ingyenes transzferbuszokat."
+        ],
+        "ro": [
+          "Purtați încălțăminte de drumeție confortabilă, deoarece potecile sunt adesea abrupte.",
+          "Soarele este foarte puternic la această altitudine, folosiți protecție solară.",
+          "Biserica este de obicei deschisă până la ora 18:00.",
+          "Folosiți autobuzele gratuite de transfer din cadrul stațiunii."
+        ],
+        "en": [
+          "Wear comfortable hiking boots as the paths are often steep.",
+          "The sun is very strong at this altitude, use sunscreen.",
+          "The church is usually open until 6 PM.",
+          "Use the free shuttle buses within the resort."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "route-21-virages",
+          "name": {
+            "de": "Route des 21 Virages",
+            "hu": "A 21 kanyar útja",
+            "ro": "Drumul celor 21 de curbe",
+            "en": "Route of the 21 Bends"
+          },
+          "coords": [
+            6.063,
+            45.09
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Jede Kehre ist einem Tour-Sieger gewidmet.",
+            "hu": "Minden kanyart egy-egy Tour-győztesnek szenteltek.",
+            "ro": "Fiecare curbă este dedicată unui câștigător de etapă.",
+            "en": "Each bend is dedicated to a Tour winner."
+          }
+        },
+        {
+          "id": "eglise-notre-dame",
+          "name": {
+            "de": "Église Notre-Dame-des-Neiges",
+            "hu": "Havas Boldogasszony-templom",
+            "ro": "Biserica Notre-Dame-des-Neiges",
+            "en": "Church of Notre-Dame-des-Neiges"
+          },
+          "coords": [
+            6.0655,
+            45.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad sicher am Eingang ab.",
+            "hu": "Parkolja le biztonságosan a kerékpárját a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță la intrare.",
+            "en": "Park your bike safely at the entrance."
+          }
+        },
+        {
+          "id": "lac-blanc",
+          "name": {
+            "de": "Lac Blanc",
+            "hu": "Lac Blanc (Fehér-tó)",
+            "ro": "Lac Blanc",
+            "en": "Lac Blanc"
+          },
+          "coords": [
+            6.095,
+            45.115
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Anstrengender Aufstieg, aber die Aussicht lohnt sich.",
+            "hu": "Fárasztó emelkedő, de a kilátás megéri.",
+            "ro": "Urcare solicitantă, dar priveliștea merită.",
+            "en": "Strenuous climb, but the view is worth it."
+          }
+        },
+        {
+          "id": "gorges-de-sarenne",
+          "name": {
+            "de": "Gorges de Sarenne",
+            "hu": "Sarenne-szurdok",
+            "ro": "Cheile Sarenne",
+            "en": "Sarenne Gorge"
+          },
+          "coords": [
+            6.115,
+            45.085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Abfahrt durch wilde Natur.",
+            "hu": "Gyönyörű lejtő a vad természeten keresztül.",
+            "ro": "O coborâre superbă prin natura sălbatică.",
+            "en": "Beautiful descent through wild nature."
+          }
+        },
+        {
+          "id": "site-brandes",
+          "name": {
+            "de": "Site Archéologique de Brandes",
+            "hu": "Brandes régészeti lelőhely",
+            "ro": "Situl Arheologic Brandes",
+            "en": "Archaeological Site of Brandes"
+          },
+          "coords": [
+            6.085,
+            45.095
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Rückkehr ins Zentrum.",
+            "hu": "Rövid megálló a központba való visszatérés előtt.",
+            "ro": "O scurtă oprire înainte de întoarcerea în centru.",
+            "en": "A short stop before returning to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Für Radsportbegeisterte beginnt der Tag mit den legendären 21 Kehren. Nach einer kurzen Besinnung in der Bergkirche führt die Route hinauf zum Lac Blanc, einem kristallklaren Bergsee.\n\nDie Mittagspause verbringen Sie am Seeufer, bevor Sie durch die beeindruckende Sarenne-Schlucht abfahren. Ein kurzer Halt an der mittelalterlichen Fundstätte Brandes rundet Ihre sportliche Tour durch die Alpen ab.",
+        "hu": "A kerékpározás szerelmeseinek a nap a legendás 21 kanyarral kezdődik. A hegyi templomban tett rövid látogatás után az út a Lac Blanc-hoz, egy kristálytiszta tengerszemhez vezet.\n\nAebédszünetet a tóparton töltse, majd ereszkedjen le a lenyűgöző Sarenne-szurdokon keresztül. Egy rövid megálló a középkori Brandes lelőhelyén zárja az alpesi sporttúrát.",
+        "ro": "Pentru pasionații de ciclism, ziua începe cu cele 21 de curbe legendare. După o scurtă vizită la biserica de munte, traseul urcă spre Lac Blanc, un lac montan de cristal.\n\nPetreceți pauza de prânz pe malul lacului înainte de a coborî prin impresionantele Chei Sarenne. O scurtă oprire la situl medieval Brandes completează turul sportiv prin Alpi.",
+        "en": "For cycling enthusiasts, the day starts with the legendary 21 bends. After a brief visit to the mountain church, the route climbs to Lac Blanc, a crystal-clear mountain lake.\n\nSpend your lunch break by the lakeshore before descending through the impressive Sarenne Gorge. A short stop at the medieval site of Brandes rounds off your sporting tour through the Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Barre Énergétique Alpine",
+            "tip": "Hausgemachte Energieriegel in den lokalen Bäckereien."
+          },
+          {
+            "name": "Tarte aux Myrtilles",
+            "tip": "Frischer Heidelbeerkuchen als Belohnung nach dem Aufstieg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Alpesi energiaszelet",
+            "tip": "Helyi pékségekben kapható házi készítésű energiaszelet."
+          },
+          {
+            "name": "Tarte aux Myrtilles",
+            "tip": "Friss áfonyás pite jutalomként a felfelé menet után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baton energetic alpin",
+            "tip": "Batoane energetice de casă în brutăriile locale."
+          },
+          {
+            "name": "Tarte aux Myrtilles",
+            "tip": "Tartă cu afine proaspătă ca recompensă după urcare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Alpine Energy Bar",
+            "tip": "Homemade energy bars in local bakeries."
+          },
+          {
+            "name": "Tarte aux Myrtilles",
+            "tip": "Fresh blueberry tart as a reward after the climb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sarenne-Pass",
+            "tip": "Viel ruhiger als der Hauptanstieg nach Huez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lac Blanc Ufer",
+            "tip": "Perfekt für eine stille Pause am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sarenne-hágó",
+            "tip": "Sokkal csendesebb, mint a fő emelkedő Huez felé.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lac Blanc partja",
+            "tip": "Tökéletes egy csendes pihenőhöz a víznél.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasul Sarenne",
+            "tip": "Mult mai liniștit decât urcarea principală spre Huez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Malul Lac Blanc",
+            "tip": "Perfect pentru o pauză liniștită lângă apă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sarenne Pass",
+            "tip": "Much quieter than the main climb to Huez.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Lac Blanc Shore",
+            "tip": "Perfect for a quiet break by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cycles Et Sports",
+            "tip": "Alles für den Profi-Radsportler."
+          },
+          {
+            "name": "L'Alpe de Fromage",
+            "tip": "Käse direkt vom Erzeuger für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cycles Et Sports",
+            "tip": "Minden, amire egy profi kerékpárosnak szüksége lehet."
+          },
+          {
+            "name": "L'Alpe de Fromage",
+            "tip": "Sajt közvetlenül a termelőtől a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cycles Et Sports",
+            "tip": "Totul pentru ciclistul profesionist."
+          },
+          {
+            "name": "L'Alpe de Fromage",
+            "tip": "Brânză direct de la producător pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycles Et Sports",
+            "tip": "Everything for the professional cyclist."
+          },
+          {
+            "name": "L'Alpe de Fromage",
+            "tip": "Cheese directly from the producer for the picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt durch die Sarenne-Schlucht.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Brunnen unterwegs.",
+          "E-Bikes können im Zentrum gemietet werden.",
+          "Achten Sie auf das Wetter, Gewitter ziehen schnell auf."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Sarenne-szurdokon való leereszkedés előtt.",
+          "Vigyen magával elegendő vizet, útközben kevés a kút.",
+          "Elektromos kerékpárok bérelhetők a központban.",
+          "Ügyeljen az időjárásra, a viharok gyorsan lecsaphatnak."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea prin Cheile Sarenne.",
+          "Luați suficientă apă, sunt puține fântâni pe drum.",
+          "Bicicletele electrice pot fi închiriate în centru.",
+          "Fiți atenți la vreme, furtunile apar rapid."
+        ],
+        "en": [
+          "Check your brakes before the descent through the Sarenne Gorge.",
+          "Take enough water, there are few fountains along the way.",
+          "E-bikes can be rented in the center.",
+          "Pay attention to the weather, thunderstorms roll in quickly."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "pic-blanc",
+          "name": {
+            "de": "Pic Blanc (3330m)",
+            "hu": "Pic Blanc (3330m)",
+            "ro": "Pic Blanc (3330m)",
+            "en": "Pic Blanc (3330m)"
+          },
+          "coords": [
+            6.125,
+            45.123
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "09:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der Seilbahn zum Gipfel.",
+            "hu": "Menjen fel felvonóval a csúcsra.",
+            "ro": "Luați telecabina până la vârf.",
+            "en": "Take the cable car to the summit."
+          }
+        },
+        {
+          "id": "grotte-de-glace",
+          "name": {
+            "de": "Grotte de Glace",
+            "hu": "Jégbarlang",
+            "ro": "Peștera de Gheață",
+            "en": "Ice Cave"
+          },
+          "coords": [
+            6.115,
+            45.118
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Eisskulpturen im Gletscher.",
+            "hu": "Csodálja meg a jégszobrokat a gleccserben.",
+            "ro": "Admirați sculpturile în gheață din ghețar.",
+            "en": "Admire the ice sculptures inside the glacier."
+          }
+        },
+        {
+          "id": "lac-blanc",
+          "name": {
+            "de": "Lac Blanc",
+            "hu": "Lac Blanc",
+            "ro": "Lac Blanc",
+            "en": "Lac Blanc"
+          },
+          "coords": [
+            6.095,
+            45.115
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie an der Station DMC 1800.",
+            "hu": "Parkoljon a DMC 1800 állomásnál.",
+            "ro": "Parcați la stația DMC 1800.",
+            "en": "Park at the DMC 1800 station."
+          }
+        },
+        {
+          "id": "gorges-de-sarenne",
+          "name": {
+            "de": "Gorges de Sarenne",
+            "hu": "Sarenne-szurdok",
+            "ro": "Cheile Sarenne",
+            "en": "Sarenne Gorge"
+          },
+          "coords": [
+            6.115,
+            45.085
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Die schmale Straße erfordert volle Konzentration.",
+            "hu": "A keskeny út teljes koncentrációt igényel.",
+            "ro": "Drumul îngust necesită concentrare maximă.",
+            "en": "The narrow road requires full concentration."
+          }
+        },
+        {
+          "id": "eglise-notre-dame",
+          "name": {
+            "de": "Église Notre-Dame-des-Neiges",
+            "hu": "Havas Boldogasszony-templom",
+            "ro": "Biserica Notre-Dame-des-Neiges",
+            "en": "Church of Notre-Dame-des-Neiges"
+          },
+          "coords": [
+            6.0655,
+            45.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Dorfzentrum.",
+            "hu": "Parkoljon a falu központjában.",
+            "ro": "Parcați în centrul satului.",
+            "en": "Park in the village center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die spektakulärsten Aussichtspunkte. Starten Sie mit der Auffahrt zum Pic Blanc auf über 3300 Metern für ein 360-Grad-Panorama. Direkt daneben wartet die magische Eishöhle im Gletscher.\n\nMittags entspannen Sie am Lac Blanc, bevor Sie die abenteuerliche Fahrt durch die Sarenne-Schlucht antreten. Zum Abschluss des Tages besuchen Sie die moderne Kirche im Ortskern von Alpe d'Huez.",
+        "hu": "Autóval a leglátványosabb kilátópontokat is elérheti. Kezdje a Pic Blanc felé vezető úttal 3300 méter felett a 360 fokos panorámáért. Közvetlenül mellette várja a gleccserben kialakított mágikus jégbarlang.\n\nDélben lazítson a Lac Blanc-nál, majd induljon el a kalandos úton a Sarenne-szurdokon keresztül. A nap zárásaként látogasson el Alpe d'Huez központjának modern templomába.",
+        "ro": "Cu mașina puteți ajunge la cele mai spectaculoase puncte de belvedere. Începeți cu urcarea la Pic Blanc, la peste 3300 de metri, pentru o panoramă de 360 de grade. Chiar lângă se află magica peșteră de gheață din ghețar.\n\nLa prânz, relaxați-vă la Lac Blanc înainte de a porni pe drumul aventuros prin Cheile Sarenne. La finalul zilei, vizitați biserica modernă din centrul stațiunii Alpe d'Huez.",
+        "en": "By car, you can reach the most spectacular viewpoints. Start with the ascent to Pic Blanc at over 3300 meters for a 360-degree panorama. Right next to it awaits the magical ice cave inside the glacier.\n\nAt noon, relax at Lac Blanc before embarking on the adventurous drive through the Sarenne Gorge. To end the day, visit the modern church in the heart of Alpe d'Huez."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crozets de Savoie",
+            "tip": "Kleine quadratische Nudeln, oft mit Käse überbacken."
+          },
+          {
+            "name": "Le Signal Restaurant",
+            "tip": "Panorama-Restaurant mit hervorragender Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crozets de Savoie",
+            "tip": "Kicsi, kocka alakú tészta, gyakran sajttal sütve."
+          },
+          {
+            "name": "Le Signal Restaurant",
+            "tip": "Panorámás étterem kiváló konyhával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crozets de Savoie",
+            "tip": "Paste mici pătrate, adesea gratinate cu brânză."
+          },
+          {
+            "name": "Restaurantul Le Signal",
+            "tip": "Restaurant panoramic cu bucătărie excelentă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crozets de Savoie",
+            "tip": "Small square pasta, often baked with cheese."
+          },
+          {
+            "name": "Le Signal Restaurant",
+            "tip": "Panoramic restaurant with excellent cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pic Blanc Gipfel",
+            "tip": "Über den Wolken die Stille genießen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac Blanc",
+            "tip": "Frühmorgens fast menschenleer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pic Blanc csúcs",
+            "tip": "A felhők felett élvezze a csendet.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac Blanc",
+            "tip": "Kora reggel szinte teljesen néptelen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Pic Blanc",
+            "tip": "Bucurați-vă de liniște deasupra norilor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac Blanc",
+            "tip": "Aproape pustiu dis-de-dimineață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pic Blanc Summit",
+            "tip": "Enjoy the silence above the clouds.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac Blanc",
+            "tip": "Almost deserted early in the morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sherpa Supermarché",
+            "tip": "Lokale Produkte wie Honig und Wurstwaren."
+          },
+          {
+            "name": "La Boite à Skis",
+            "tip": "Hochwertige Outdoor-Bekleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sherpa Supermarché",
+            "tip": "Helyi termékek, mint méz és felvágottak."
+          },
+          {
+            "name": "La Boite à Skis",
+            "tip": "Kiváló minőségű outdoor ruházat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sherpa Supermarché",
+            "tip": "Produse locale, cum ar fi miere și mezeluri."
+          },
+          {
+            "name": "La Boite à Skis",
+            "tip": "Îmbrăcăminte outdoor de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sherpa Supermarché",
+            "tip": "Local products like honey and cured meats."
+          },
+          {
+            "name": "La Boite à Skis",
+            "tip": "High-quality outdoor apparel."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Pic Blanc erfordert gute Fahrkenntnisse.",
+          "Parken Sie im Sommer vorzugsweise in den Parkhäusern.",
+          "Ein Allradantrieb ist für Nebenstrecken empfehlenswert.",
+          "Informieren Sie sich über Sperrungen wegen Sportveranstaltungen."
+        ],
+        "hu": [
+          "A Pic Blanc felé vezető út jó vezetési képességeket igényel.",
+          "Nyáron lehetőleg a parkolóházakban parkoljon.",
+          "A mellékutakhoz összkerekes meghajtás ajánlott.",
+          "Tájékozódjon a sportrendezvények miatti útlezárásokról."
+        ],
+        "ro": [
+          "Drumul spre Pic Blanc necesită bune abilități de conducere.",
+          "Vara, parcați de preferință în parcările etajate.",
+          "Tracțiunea integrală este recomandată pentru drumurile secundare.",
+          "Informați-vă despre închiderile de drumuri cauzate de evenimente sportive."
+        ],
+        "en": [
+          "The road to Pic Blanc requires good driving skills.",
+          "In summer, prefer parking in the multi-story car parks.",
+          "Four-wheel drive is recommended for secondary routes.",
+          "Check for road closures due to sporting events."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "id": "eglise-notre-dame",
+          "name": {
+            "de": "Église Notre-Dame-des-Neiges",
+            "hu": "Havas Boldogasszony-templom",
+            "ro": "Biserica Notre-Dame-des-Neiges",
+            "en": "Church of Notre-Dame-des-Neiges"
+          },
+          "coords": [
+            6.0655,
+            45.0935
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Haltestelle 'Office de Tourisme' nutzen.",
+            "hu": "Használja az 'Office de Tourisme' megállót.",
+            "ro": "Folosiți stația 'Office de Tourisme'.",
+            "en": "Use the 'Office de Tourisme' stop."
+          }
+        },
+        {
+          "id": "palais-des-sports",
+          "name": {
+            "de": "Palais des Sports",
+            "hu": "Sport- és Kongresszusi Palota",
+            "ro": "Palatul Sporturilor",
+            "en": "Palais des Sports"
+          },
+          "coords": [
+            6.071,
+            45.0925
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt der Pendelbusse.",
+            "hu": "A transzferbuszok központi csomópontja.",
+            "ro": "Nod central pentru autobuzele de transfer.",
+            "en": "Central hub for shuttle buses."
+          }
+        },
+        {
+          "id": "musee-d-huez",
+          "name": {
+            "de": "Musée d'Huez et de l'Oisans",
+            "hu": "Huez és Oisans Múzeum",
+            "ro": "Muzeul Huez și Oisans",
+            "en": "Museum of Huez and Oisans"
+          },
+          "coords": [
+            6.0685,
+            45.0915
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eintritt oft im 'Pass Alpe' enthalten.",
+            "hu": "A belépő gyakran benne van a 'Pass Alpe' kártyában.",
+            "ro": "Intrarea este adesea inclusă în 'Pass Alpe'.",
+            "en": "Admission is often included in the 'Pass Alpe'."
+          }
+        },
+        {
+          "id": "pic-blanc",
+          "name": {
+            "de": "Pic Blanc Seilbahn",
+            "hu": "Pic Blanc felvonó",
+            "ro": "Telecabina Pic Blanc",
+            "en": "Pic Blanc Cable Car"
+          },
+          "coords": [
+            6.125,
+            45.123
+          ],
+          "category": "natural features (caves, viewpoints)",
+          "arrive_at": "13:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Telecentre-Bahn verbindet die Ortsteile.",
+            "hu": "A Telecentre felvonó összeköti a falu részeit.",
+            "ro": "Telecabina Telecentre leagă cartierele.",
+            "en": "The Telecentre lift connects the village districts."
+          }
+        },
+        {
+          "id": "monument-aux-morts",
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            6.0695,
+            45.0905
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestelle 'Place de Cognet'.",
+            "hu": "A 'Place de Cognet' megálló közelében.",
+            "ro": "Lângă stația 'Place de Cognet'.",
+            "en": "Near the 'Place de Cognet' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die effizienten Pendelbusse und Seilbahnen von Alpe d'Huez. Beginnen Sie bei der modernen Kirche und fahren Sie zum Sportpalast. Ein Besuch im Museum gibt Ihnen Einblicke in die traditionelle Lebensweise der Bergbevölkerung.\n\nNachmittags bringt Sie die Seilbahn bequem Richtung Pic Blanc für unvergessliche Aussichten. Die Tour endet am zentralen Ehrenmal, von wo aus Sie alle Ortsteile wieder leicht erreichen können.",
+        "hu": "Használja ki Alpe d'Huez hatékony transzferbuszait és felvonóit. Kezdje a modern templomnál, majd utazzon a Sportpalotához. A múzeumlátogatás bepillantást enged a hegyi lakosság hagyományos életmódjába.\n\nDélután a felvonó kényelmesen repíti a Pic Blanc felé a felejthetetlen kilátásért. A túra a központi emlékműnél ér véget, ahonnan minden falurész könnyen elérhető.",
+        "ro": "Profități de autobuzele și telecabinele eficiente din Alpe d'Huez. Începeți de la biserica modernă și mergeți la Palatul Sporturilor. O vizită la muzeu vă va oferi o imagine asupra stilului de viață tradițional al populației montane.\n\nDupă-amiaza, telecabina vă duce confortabil spre Pic Blanc pentru vederi de neuitat. Turul se încheie la monumentul central, de unde puteți ajunge ușor în toate zonele stațiunii.",
+        "en": "Take advantage of Alpe d'Huez's efficient shuttle buses and cable cars. Start at the modern church and travel to the Palais des Sports. A museum visit gives you insight into the traditional lifestyle of the mountain people.\n\nIn the afternoon, the cable car takes you comfortably towards Pic Blanc for unforgettable views. The tour ends at the central memorial, from where all village districts are easily accessible."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Raclette",
+            "tip": "Probieren Sie es im 'La Cremaillere' nahe der Bushaltestelle."
+          },
+          {
+            "name": "Vin Chaud",
+            "tip": "Wärmender Glühwein, ideal nach einer Bergtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Raclette",
+            "tip": "Kóstolja meg a 'La Cremaillere' étteremben a buszmegálló közelében."
+          },
+          {
+            "name": "Vin Chaud",
+            "tip": "Melegítő forralt bor, ideális egy hegyi túra után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Raclette",
+            "tip": "Încercați-l la 'La Cremaillere' lângă stația de autobuz."
+          },
+          {
+            "name": "Vin Chaud",
+            "tip": "Vin fiert reconfortant, ideal după o tură pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Raclette",
+            "tip": "Try it at 'La Cremaillere' near the bus stop."
+          },
+          {
+            "name": "Vin Chaud",
+            "tip": "Warming mulled wine, ideal after a mountain tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "DMC-Mittelstation",
+            "tip": "Ruhiger Aussichtspunkt abseits des Trubels.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sitzbänke am Palais",
+            "tip": "Ideal zum Beobachten des Treibens im Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "DMC középállomás",
+            "tip": "Csendes kilátópont a tömegtől távol.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Padok a palotánál",
+            "tip": "Ideális a falu nyüzsgésének megfigyeléséhez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stația intermediară DMC",
+            "tip": "Punct de belvedere liniștit, departe de aglomerație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Bănci la Palat",
+            "tip": "Ideal pentru a observa agitația din stațiune.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "DMC Middle Station",
+            "tip": "Quiet viewpoint away from the crowds.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Benches at the Palais",
+            "tip": "Ideal for watching the village life go by.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Marchande",
+            "tip": "Überdachtes Einkaufszentrum im Zentrum."
+          },
+          {
+            "name": "La Boulangerie de l'Alpe",
+            "tip": "Traditionelles Gebäck und Brot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galerie Marchande",
+            "tip": "Fedett bevásárlóközpont a központban."
+          },
+          {
+            "name": "La Boulangerie de l'Alpe",
+            "tip": "Hagyományos sütemények és kenyerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galerie Marchande",
+            "tip": "Centru comercial acoperit în centru."
+          },
+          {
+            "name": "La Boulangerie de l'Alpe",
+            "tip": "Patiserie și pâine tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Galerie Marchande",
+            "tip": "Covered shopping arcade in the center."
+          },
+          {
+            "name": "La Boulangerie de l'Alpe",
+            "tip": "Traditional pastries and bread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Pendelbusse (Navettes) sind innerhalb des Resorts kostenlos.",
+          "Achten Sie auf die Fahrpläne der Seilbahnen für die Rückfahrt.",
+          "Ein 'Pass Alpe' lohnt sich für mehrere Fahrten am Tag.",
+          "Die Busse fahren im 15-Minuten-Takt."
+        ],
+        "hu": [
+          "A transzferbuszok (navettes) az üdülőhelyen belül ingyenesek.",
+          "Ügyeljen a felvonók menetrendjére a visszatéréshez.",
+          "A 'Pass Alpe' megéri, ha többször utazik egy nap.",
+          "A buszok 15 percenként közlekednek."
+        ],
+        "ro": [
+          "Autobuzele de transfer (navettes) sunt gratuite în interiorul stațiunii.",
+          "Atenție la orarul telecabinelor pentru drumul de întoarcere.",
+          "Un 'Pass Alpe' merită dacă faceți mai multe călătorii pe zi.",
+          "Autobuzele circulă la fiecare 15 minute."
+        ],
+        "en": [
+          "The shuttle buses (navettes) are free within the resort.",
+          "Check the cable car schedules for your return journey.",
+          "A 'Pass Alpe' is worth it for multiple trips a day.",
+          "Buses run every 15 minutes."
+        ]
+      }
+    }
+  }
+}

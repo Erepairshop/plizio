@@ -1,0 +1,1144 @@
+{
+  "city_id": "courchevel",
+  "anchor": {
+    "name": "Courchevel",
+    "coords": [
+      6.6347,
+      45.4154
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Praz",
+            "hu": "Le Praz",
+            "ro": "Le Praz",
+            "en": "Le Praz"
+          },
+          "coords": [
+            6.621,
+            45.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in diesem traditionellen Bergdorf vor dem großen Ansturm.",
+            "hu": "Élvezze a nyugalmat ebben a hagyományos hegyi faluban a reggeli órákban.",
+            "ro": "Bucurați-vă de liniștea acestui sat montan tradițional înainte de aglomerație.",
+            "en": "Enjoy the tranquility of this traditional mountain village before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Tremplins du Praz",
+            "hu": "Praz sísáncok",
+            "ro": "Trambulinele du Praz",
+            "en": "Tremplins du Praz"
+          },
+          "coords": [
+            6.623,
+            45.432
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die olympischen Sprungschanzen von 1992 sind auch im Sommer beeindruckend zu sehen.",
+            "hu": "Az 1992-es olimpiai sísáncok nyáron is lenyűgöző látványt nyújtanak.",
+            "ro": "Trambulinele olimpice din 1992 sunt impresionante chiar și pe timp de vară.",
+            "en": "The 1992 Olympic ski jumps are impressive to see even during the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Bon",
+            "hu": "Saint-Bon templom",
+            "ro": "Biserica Saint-Bon",
+            "en": "Église Saint-Bon"
+          },
+          "coords": [
+            6.638,
+            45.434
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Eine wunderschöne Barockkirche im ältesten Teil der Gemeinde Courchevel.",
+            "hu": "Egy gyönyörű barokk templom Courchevel község legrégebbi részén.",
+            "ro": "O frumoasă biserică barocă în cea mai veche parte a comunei Courchevel.",
+            "en": "A beautiful Baroque church in the oldest part of the Courchevel municipality."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Rosière",
+            "hu": "Rosière-tó",
+            "ro": "Lacul de la Rosière",
+            "en": "Lac de la Rosière"
+          },
+          "coords": [
+            6.666,
+            45.413
+          ],
+          "category": "natural features",
+          "arrive_at": "13:07",
+          "stay_min": 120,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der türkisfarbene See ist ideal für ein Picknick oder eine Grillpause im Freien.",
+            "hu": "A türkizkék tó ideális egy szabadtéri piknikhez vagy grillezéshez.",
+            "ro": "Lacul turcoaz este ideal pentru un picnic sau o pauză de grătar în aer liber.",
+            "en": "The turquoise lake is ideal for an outdoor picnic or a barbecue break."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum de Courchevel",
+            "hu": "Courchevel Fórum",
+            "ro": "Forum de Courchevel",
+            "en": "Forum de Courchevel"
+          },
+          "coords": [
+            6.633,
+            45.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 56,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein Zentrum für Sport und Kultur mit einer Eislaufbahn und vielen Geschäften.",
+            "hu": "Sport- és kulturális központ jégpályával és számos üzlettel.",
+            "ro": "Un centru pentru sport și cultură, cu un patinoar și multe magazine.",
+            "en": "A hub for sports and culture with an ice rink and many shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de l'Assomption",
+            "hu": "Nagyboldogasszony-kápolna",
+            "ro": "Capela Notre-Dame de l'Assomption",
+            "en": "Chapelle Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            6.634,
+            45.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese Kápolna in 1850 bietet einen friedlichen Rückzugsort inmitten des Luxus.",
+            "hu": "Ez az 1850-es magasságban található kápolna békés menedéket nyújt a luxus közepette.",
+            "ro": "Această capelă de la cota 1850 oferă un refugiu liniștit în mijlocul luxului.",
+            "en": "This chapel at 1850 altitude offers a peaceful retreat amidst the luxury."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Le Praz, wo Sie den Geist der Olympischen Spiele an den gewaltigen Sprungschanzen spüren können. Wandern Sie hinunter zum historischen Herz von Saint-Bon, um die barocke Architektur zu bewundern.\n\nAm Mittag führt Sie der Weg zum atemberaubenden Lac de la Rosière. Die natürliche Schönheit des türkisblauen Wassers bietet die perfekte Kulisse für eine entspannte Mittagspause in den Bergen.\n\nDer Nachmittag steht im Zeichen von Courchevel 1850. Besuchen Sie das Forum für Unterhaltung und Kultur, bevor Sie die luxuriösen Boutiquen der Umgebung erkunden.\n\nBeenden Sie den Tag mit einem Moment der Stille in der Chapelle Notre-Dame, während die Sonne hinter den majestätischen Gipfeln der Savoyer Alpen versinkt.",
+        "hu": "Kezdje a napot a festői Le Praz-ban, ahol az olimpiai sísáncok tövében érezheti a sporttörténelem szelét. Sétáljon le Saint-Bon történelmi szívébe, hogy megcsodálja a barokk építészetet.\n\nDélben az útja a lélegzetelállító Rosière-tóhoz vezet. A türkizkék víz természetes szépsége tökéletes hátteret biztosít egy pihentető hegyi ebédszünethez.\n\nA délután Courchevel 1850 felfedezéséről szól. Látogasson el a Fórumba szórakozásért és kultúráért, majd fedezze fel a környék luxusboltjait.\n\nA napot a Nagyboldogasszony-kápolna csendjében zárja, miközben a nap lassan nyugovóra tér a Savoyai-Alpok fenséges csúcsai mögött.",
+        "ro": "Începeți ziua în pitorescul Le Praz, unde puteți simți spiritul olimpic lângă trambulinele masive. Coborâți spre inima istorică din Saint-Bon pentru a admira arhitectura barocă.\n\nLa prânz, drumul vă duce la uimitorul Lac de la Rosière. Frumusețea naturală a apei turcoaz oferă cadrul perfect pentru o pauză de prânz relaxantă la munte.\n\nDupă-amiaza este dedicată explorării Courchevel 1850. Vizitați Forumul pentru divertisment și cultură, înainte de a explora buticurile de lux din zonă.\n\nÎncheiați ziua cu un moment de liniște la Capela Notre-Dame, în timp ce soarele apune după vârfurile maiestuoase ale Alpilor Savoiei.",
+        "en": "Start your day in picturesque Le Praz, where you can feel the Olympic spirit by the massive ski jumps. Walk down to the historical heart of Saint-Bon to admire the Baroque architecture.\n\nAt midday, your path leads to the breathtaking Lac de la Rosière. The natural beauty of the turquoise water provides the perfect backdrop for a relaxing mountain lunch break.\n\nThe afternoon is dedicated to exploring Courchevel 1850. Visit the Forum for entertainment and culture, then explore the surrounding luxury boutiques.\n\nEnd the day with a moment of silence at the Chapelle Notre-Dame, as the sun sets behind the majestic peaks of the Savoy Alps."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Genépi",
+            "tip": "Probieren Sie das traditionelle Fondue Savoyarde in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Ein herzhaftes lokales Gericht mit Kartoffeln, Reblochon-Käse und Speck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Genépi",
+            "tip": "Kóstolja meg a hagyományos sajtfondüt barátságos környezetben."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Kiadós helyi étel burgonyával, Reblochon sajttal és szalonnával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Genépi",
+            "tip": "Încercați tradiționalul fondue savoyard într-o atmosferă primitoare."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Un preparat local consistent cu cartofi, brânză Reblochon și slănină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Genépi",
+            "tip": "Try the traditional Savoyard fondue in a cozy atmosphere."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "A hearty local dish with potatoes, Reblochon cheese, and bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac de la Rosière",
+            "tip": "Ein ruhiger Ort am Wasser, umgeben von Tannen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint-Bon-Tarentaise",
+            "tip": "Das ursprüngliche Dorf bietet abseits der Pisten viel Ruhe.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rosière-tó",
+            "tip": "Csendes vízparti hely fenyőfákkal körülvéve.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint-Bon-Tarentaise",
+            "tip": "Az eredeti falu nagy nyugalmat áraszt a pályáktól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul de la Rosière",
+            "tip": "Un loc liniștit lângă apă, înconjurat de brazi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint-Bon-Tarentaise",
+            "tip": "Satul original oferă multă liniște departe de pârtii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac de la Rosière",
+            "tip": "A quiet spot by the water, surrounded by fir trees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Saint-Bon-Tarentaise",
+            "tip": "The original village offers plenty of peace away from the slopes.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Courchevel 1850 Boutiques",
+            "tip": "Luxusmarken und hochwertige Skimode."
+          },
+          {
+            "name": "La Coopérative Laitière",
+            "tip": "Bester lokaler Beaufort-Käse direkt aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Courchevel 1850 butikok",
+            "tip": "Luxusmárkák és prémium síruházat."
+          },
+          {
+            "name": "La Coopérative Laitière",
+            "tip": "A legjobb helyi Beaufort sajt közvetlenül a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutiques Courchevel 1850",
+            "tip": "Branduri de lux și modă de schi premium."
+          },
+          {
+            "name": "La Coopérative Laitière",
+            "tip": "Cea mai bună brânză locală Beaufort direct din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Courchevel 1850 Boutiques",
+            "tip": "Luxury brands and high-end ski fashion."
+          },
+          {
+            "name": "La Coopérative Laitière",
+            "tip": "Best local Beaufort cheese directly from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Wanderschuhe, da die Wege steil sein können.",
+          "Nutzen Sie die kostenlosen Pendelbusse zwischen den Dorfebenen.",
+          "Bringen Sie Wasser und Sonnenschutz mit, die Höhensonne ist stark.",
+          "Einige Wanderwege sind im Winter Skipisten, prüfen Sie die Saison."
+        ],
+        "hu": [
+          "Viseljen erős túracipőt, mert az ösvények meredekek lehetnek.",
+          "Használja az ingyenes buszjáratokat a falvak különböző szintjei között.",
+          "Vigyen magával vizet és fényvédőt, a hegyi nap erős.",
+          "Néhány túraútvonal télen sípálya, ellenőrizze a szezont."
+        ],
+        "ro": [
+          "Purtați încălțăminte de drumeție solidă, deoarece potecile pot fi abrupte.",
+          "Folosiți autobuzele gratuite de transfer între nivelurile stațiunii.",
+          "Aduceți apă și protecție solară, soarele de munte este puternic.",
+          "Unele trasee de drumeție sunt pârtii de schi iarna, verificați sezonul."
+        ],
+        "en": [
+          "Wear sturdy hiking boots as the paths can be steep.",
+          "Use the free shuttle buses between the different village levels.",
+          "Bring water and sunscreen, the mountain sun is strong.",
+          "Some hiking trails are ski slopes in winter, check the season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Bon",
+            "hu": "Saint-Bon",
+            "ro": "Saint-Bon",
+            "en": "Saint-Bon"
+          },
+          "coords": [
+            6.638,
+            45.434
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am tiefsten Punkt für eine sportliche Herausforderung bergauf.",
+            "hu": "Kezdjen a legmélyebb ponton egy sportos hegyi kihíváshoz.",
+            "ro": "Începeți de la cel mai jos punct pentru o provocare sportivă la deal.",
+            "en": "Start at the lowest point for a sporty uphill challenge."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Praz",
+            "hu": "Le Praz",
+            "ro": "Le Praz",
+            "en": "Le Praz"
+          },
+          "coords": [
+            6.621,
+            45.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause am See in Le Praz, bevor es weitergeht.",
+            "hu": "Tartson egy rövid szünetet a Le Praz-i tónál a folytatás előtt.",
+            "ro": "Faceți o scurtă pauză lângă lacul din Le Praz înainte de a continua.",
+            "en": "Take a short break by the lake in Le Praz before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Tremplins du Praz",
+            "hu": "Praz sísáncok",
+            "ro": "Trambulinele du Praz",
+            "en": "Tremplins du Praz"
+          },
+          "coords": [
+            6.623,
+            45.432
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Biken Sie an den Giganten vorbei, die die Springer in die Luft katapultieren.",
+            "hu": "Tekerjen el az óriási sáncok mellett, amelyek a magasba repítik az ugrókat.",
+            "ro": "Mergeți cu bicicleta pe lângă giganții care îi catapultează pe săritori în aer.",
+            "en": "Bike past the giants that catapult jumpers into the air."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum de Courchevel",
+            "hu": "Courchevel Fórum",
+            "ro": "Forum de Courchevel",
+            "en": "Forum de Courchevel"
+          },
+          "coords": [
+            6.633,
+            45.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Der Anstieg nach 1850 ist anstrengend, aber die Infrastruktur am Forum lohnt sich.",
+            "hu": "Az 1850-re vezető emelkedő fárasztó, de a Fórum szolgáltatásai megérik.",
+            "ro": "Urcarea spre 1850 este obositoare, dar facilitățile de la Forum merită efortul.",
+            "en": "The climb to 1850 is tiring, but the facilities at the Forum are worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Altiport de Courchevel",
+            "hu": "Courchevel Altiport",
+            "ro": "L'Altiport de Courchevel",
+            "en": "L'Altiport de Courchevel"
+          },
+          "coords": [
+            6.635,
+            45.397
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie Flugzeuge auf einer der gefährlichsten Landebahnen der Welt.",
+            "hu": "Figyelje a repülőket a világ egyik legveszélyesebb kifutópályáján.",
+            "ro": "Urmăriți avioanele pe una dintre cele mai periculoase piste din lume.",
+            "en": "Watch planes on one of the most dangerous runways in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Rosière",
+            "hu": "Rosière-tó",
+            "ro": "Lacul de la Rosière",
+            "en": "Lac de la Rosière"
+          },
+          "coords": [
+            6.666,
+            45.413
+          ],
+          "category": "natural features",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss am See, bevor es nur noch bergab geht.",
+            "hu": "Pihentető befejezés a tónál, mielőtt megkezdené a hosszú lejtmenetet.",
+            "ro": "Un final relaxant la lac înainte de a începe coborârea lungă.",
+            "en": "A relaxing end at the lake before starting the long downhill ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bereiten Sie sich auf eine sportliche Tour durch die verschiedenen Ebenen von Courchevel vor. Sie starten im ruhigen Saint-Bon und erklimmen die Serpentinen nach Le Praz, wo die olympischen Sprungschanzen thronen.\n\nDer anstrengendste Teil folgt am späten Vormittag mit dem Aufstieg nach Courchevel 1850. Belohnen Sie sich mit einer Pause am Forum, dem pulsierenden Herz des Resorts.\n\nNach dem Mittagessen radeln Sie zum legendären Altiport. Die Aussicht auf die extrem geneigte Landebahn ist ein highlight für jeden Technik- und Bergbegeisterten.\n\nZum Abschluss genießen Sie die frische Brise am Lac de la Rosière. Die anschließende Abfahrt zurück ins Tal ist der perfekte Lohn für Ihre Mühen.",
+        "hu": "Készüljön fel egy sportos túrára Courchevel különböző szintjein keresztül. A csendes Saint-Bonból indulva küzdje le a szerpentineket Le Praz-ig, ahol az olimpiai sísáncok tornyosulnak.\n\nA legnehezebb rész délelőtt következik a Courchevel 1850-re való felkapaszkodással. Jutalmazza meg magát egy pihenővel a Fórumban, a resort lüktető szívében.\n\nEbéd után tekerjen el a legendás Altiportig. Az extrém lejtésű kifutópályára nyíló kilátás minden technika- és hegybarát számára felejthetetlen élmény.\n\nBefejezésül élvezze a friss szellőt a Rosière-tónál. Az ezt követő gurulás vissza a völgybe tökéletes jutalom a befektetett energiáért.",
+        "ro": "Pregătiți-vă pentru un tur sportiv prin diferitele niveluri ale stațiunii Courchevel. Pornind din liniștitul Saint-Bon, cuceriți serpentinele până la Le Praz, unde tronează trambulinele olimpice.\n\nCea mai grea parte urmează la sfârșitul dimineții, cu urcarea spre Courchevel 1850. Recompensați-vă cu o pauză la Forum, inima vibrantă a stațiunii.\n\nDupă prânz, pedalați până la legendarul Altiport. Vederea pistei extrem de înclinate este un punct culminant pentru orice pasionat de tehnologie și munte.\n\nLa final, bucurați-vă de briza proaspătă la Lacul de la Rosière. Coborârea ulterioară înapoi în vale este recompensa perfectă pentru eforturile depuse.",
+        "en": "Prepare for a sporty tour through the different levels of Courchevel. Starting in quiet Saint-Bon, tackle the serpentines up to Le Praz, where the Olympic ski jumps tower.\n\nThe hardest part follows in the late morning with the climb to Courchevel 1850. Reward yourself with a break at the Forum, the vibrant heart of the resort.\n\nAfter lunch, cycle to the legendary Altiport. The view of the extremely sloped runway is a highlight for every tech and mountain enthusiast.\n\nFinally, enjoy the fresh breeze at Lac de la Rosière. The subsequent downhill ride back to the valley is the perfect reward for your efforts."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistro du Praz",
+            "tip": "Ideal für eine kräftige Stärkung mit lokalen Produkten."
+          },
+          {
+            "name": "Crozets",
+            "tip": "Kleine, quadratische Buchweizennudeln aus Savoyen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistro du Praz",
+            "tip": "Ideális egy kiadós étkezéshez helyi alapanyagokból."
+          },
+          {
+            "name": "Crozets",
+            "tip": "Kicsi, négyszögletű hajdina tészta Savoya régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistro du Praz",
+            "tip": "Ideal pentru o masă consistentă cu produse locale."
+          },
+          {
+            "name": "Crozets",
+            "tip": "Paste mici, pătrate, din hrișcă, specifice Savoiei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistro du Praz",
+            "tip": "Ideal for a hearty meal with local products."
+          },
+          {
+            "name": "Crozets",
+            "tip": "Small, square buckwheat pasta from Savoy."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege bei La Rosière",
+            "tip": "Schatten und Ruhe abseits der befestigten Straßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Rosière erdei ösvények",
+            "tip": "Árnyék és nyugalom a kövezett utaktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci forestiere lângă La Rosière",
+            "tip": "Umbră și liniște departe de drumurile pavate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths near La Rosière",
+            "tip": "Shadow and peace away from the paved roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ski-Service Le Praz",
+            "tip": "Ausrüstung und Karten für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ski-Service Le Praz",
+            "tip": "Felszerelés és térképek a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ski-Service Le Praz",
+            "tip": "Echipament și hărți pentru turul dumneavoastră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ski-Service Le Praz",
+            "tip": "Equipment and maps for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike wird dringend empfohlen, wenn Sie kein Profi sind.",
+          "Prüfen Sie Ihre Bremsen vor den langen Abfahrten.",
+          "Die Hauptstraße kann viel Verkehr haben, nutzen Sie Nebenwege.",
+          "Achten Sie auf Wanderer auf den gemeinsamen Wegen."
+        ],
+        "hu": [
+          "Az e-bike használata erősen ajánlott, ha nem profi sportoló.",
+          "Ellenőrizze a fékeket a hosszú lejtmenetek előtt.",
+          "A főúton nagy lehet a forgalom, használja a mellékutakat.",
+          "Figyeljen a gyalogosokra a közös használatú ösvényeken."
+        ],
+        "ro": [
+          "Se recomandă insistent o bicicletă electrică dacă nu sunteți profesionist.",
+          "Verificați frânele înainte de coborârile lungi.",
+          "Drumul principal poate fi aglomerat, folosiți rute secundare.",
+          "Aveți grijă la excursioniști pe traseele comune."
+        ],
+        "en": [
+          "An e-bike is strongly recommended unless you are a pro.",
+          "Check your brakes before the long descents.",
+          "The main road can have a lot of traffic, use side paths.",
+          "Watch out for hikers on shared paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 25.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Bon",
+            "hu": "Saint-Bon",
+            "ro": "Saint-Bon",
+            "en": "Saint-Bon"
+          },
+          "coords": [
+            6.638,
+            45.434
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang des Dorfes und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Parkoljon a falu bejáratánál, és fedezze fel a szűk utcákat gyalog.",
+            "ro": "Parcați la intrarea în sat și explorați străduțele pe jos.",
+            "en": "Park at the entrance of the village and explore the alleys on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Praz",
+            "hu": "Le Praz",
+            "ro": "Le Praz",
+            "en": "Le Praz"
+          },
+          "coords": [
+            6.621,
+            45.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein idyllischer Stopp am See, bevor es in die höheren Lagen geht.",
+            "hu": "Idilli megálló a tónál, mielőtt magasabb szintekre indulna.",
+            "ro": "O oprire idilică lângă lac înainte de a merge la altitudini mai mari.",
+            "en": "An idyllic stop by the lake before heading to higher altitudes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommet de la Saulire",
+            "hu": "Saulire-csúcs",
+            "ro": "Vârful Saulire",
+            "en": "Sommet de la Saulire"
+          },
+          "coords": [
+            6.608,
+            45.385
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis 1850 und nehmen Sie die Gondel für das beste Panorama.",
+            "hu": "Autózzon 1850-ig, majd váltson libegőre a legjobb panorámáért.",
+            "ro": "Conduceți până la 1850 și luați telegondola pentru cea mai bună panoramă.",
+            "en": "Drive to 1850 and take the gondola for the best panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Altiport de Courchevel",
+            "hu": "Courchevel Altiport",
+            "ro": "L'Altiport de Courchevel",
+            "en": "L'Altiport de Courchevel"
+          },
+          "coords": [
+            6.635,
+            45.397
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein Muss für Luftfahrtfans; es gibt einen Parkplatz direkt daneben.",
+            "hu": "Repülésrajongóknak kötelező; közvetlenül mellette van parkoló.",
+            "ro": "Obligatoriu pentru fanii aviației; există o parcare chiar lângă.",
+            "en": "A must for aviation fans; there is a parking lot right next to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Rosière",
+            "hu": "Rosière-tó",
+            "ro": "Lacul de la Rosière",
+            "en": "Lac de la Rosière"
+          },
+          "coords": [
+            6.666,
+            45.413
+          ],
+          "category": "natural features",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Der Parkplatz ist nah am See, ideal für einen kurzen Spaziergang.",
+            "hu": "A parkoló közel van a tóhoz, ideális egy rövid sétához.",
+            "ro": "Parcarea este aproape de lac, ideală pentru o scurtă plimbare.",
+            "en": "The parking lot is close to the lake, ideal for a short walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum de Courchevel",
+            "hu": "Courchevel Fórum",
+            "ro": "Forum de Courchevel",
+            "en": "Forum de Courchevel"
+          },
+          "coords": [
+            6.633,
+            45.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Parkhaus 'Le Forum' für direkten Zugang zum Zentrum.",
+            "hu": "Használja a 'Le Forum' parkolóházat a központ közvetlen eléréséhez.",
+            "ro": "Folosiți parcarea 'Le Forum' pentru acces direct în centru.",
+            "en": "Use the 'Le Forum' parking garage for direct access to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de l'Assomption",
+            "hu": "Nagyboldogasszony-kápolna",
+            "ro": "Capela Notre-Dame de l'Assomption",
+            "en": "Chapelle Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            6.634,
+            45.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang vor der Rückfahrt ins Tal.",
+            "hu": "Csendes befejezés a völgybe való visszatérés előtt.",
+            "ro": "Un final liniștit înainte de întoarcerea în vale.",
+            "en": "A peaceful conclusion before driving back down to the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die steilen Hänge von Courchevel mühelos überwinden. Beginnen Sie in der Talsohle in Saint-Bon und arbeiten Sie sich über Le Praz nach oben, wo Sie die olympische Geschichte bewundern können.\n\nDas absolute Highlight des Mittags ist der Ausflug zum Sommet de la Saulire. Parken Sie in 1850 und lassen Sie sich von der Gondel auf über 2700 Meter tragen, um ein unvergleichliches Alpenpanorama zu genießen.\n\nAm Nachmittag besuchen Sie den Altiport und den malerischen Lac de la Rosière. Die gut ausgebauten Bergstraßen bieten spektakuläre Ausblicke auf das Tarentaise-Tal.\n\nLassen Sie den Tag im luxuriösen Courchevel 1850 ausklingen, besuchen Sie das Forum und die kleine Chapelle Notre-Dame, bevor Sie die Panoramafahrt zurück ins Tal antreten.",
+        "hu": "Autóval könnyedén leküzdheti Courchevel meredek lejtőit. Kezdje a völgy alján, Saint-Bonban, majd haladjon felfelé Le Praz-ig, ahol megcsodálhatja az olimpiai történelmet.\n\nA dél környéki időszak fénypontja a Saulire-csúcs meglátogatása. Parkoljon 1850-ben, és hagyja, hogy a libegő 2700 méter fölé repítse a páratlan alpesi panorámáért.\n\nDélután látogasson el az Altiportra és a festői Rosière-tóhoz. A jól kiépített hegyi utak látványos kilátást nyújtanak a Tarentaise-völgyre.\n\nZárja a napot a luxus Courchevel 1850-ben, látogasson el a Fórumba és a kis Nagyboldogasszony-kápolnába, mielőtt megkezdené a panorámás ereszkedést a völgybe.",
+        "ro": "Cu mașina puteți depăși fără efort pantele abrupte din Courchevel. Începeți din valea Saint-Bon și urcați prin Le Praz, unde puteți admira istoria olimpică.\n\nPunctul culminant al prânzului este excursia pe Vârful Saulire. Parcați la 1850 și lăsați telegondola să vă poarte la peste 2700 de metri pentru o panoramă alpină de neegalat.\n\nDupă-amiaza, vizitați Altiportul și pitorescul Lac de la Rosière. Drumurile montane bine întreținute oferă vederi spectacoase asupra văii Tarentaise.\n\nÎncheiați ziua în luxosul Courchevel 1850, vizitați Forumul și mica Capelă Notre-Dame, înainte de a porni pe drumul panoramic înapoi spre vale.",
+        "en": "By car, you can effortlessly overcome the steep slopes of Courchevel. Start at the bottom in Saint-Bon and work your way up through Le Praz, where you can admire Olympic history.\n\nThe absolute highlight of the midday is the excursion to Sommet de la Saulire. Park in 1850 and let the gondola carry you above 2700 meters for an unparalleled Alpine panorama.\n\nIn the afternoon, visit the Altiport and the picturesque Lac de la Rosière. The well-maintained mountain roads offer spectacular views of the Tarentaise Valley.\n\nEnd the day in luxurious Courchevel 1850, visit the Forum and the small Chapelle Notre-Dame, before taking the scenic drive back down to the valley."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Saulire",
+            "tip": "Exzellente Küche mit Trüffelspezialitäten auf 1850 m Höhe."
+          },
+          {
+            "name": "Le Chabichou",
+            "tip": "Ein Gourmet-Erlebnis der Extraklasse für Feinschmecker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Saulire",
+            "tip": "Kiváló konyha szarvasgomba különlegességekkel 1850 m magasságban."
+          },
+          {
+            "name": "Le Chabichou",
+            "tip": "Extra kategóriás ínyenc élmény az igényeseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Saulire",
+            "tip": "Bucătărie excelentă cu specialități de trufe la 1850 m altitudine."
+          },
+          {
+            "name": "Le Chabichou",
+            "tip": "O experiență gastronomică de top pentru cunoscători."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Saulire",
+            "tip": "Excellent cuisine with truffle specialties at 1850m altitude."
+          },
+          {
+            "name": "Le Chabichou",
+            "tip": "A top-class gourmet experience for foodies."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkte an der Straße nach 1650",
+            "tip": "Perfekt für einen schnellen Fotostopp mit Weitblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópontok az 1650 felé vezető úton",
+            "tip": "Tökéletes egy gyors fotómegállóhoz pazar kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de belvedere pe drumul spre 1650",
+            "tip": "Perfect pentru o oprire foto rapidă cu vedere largă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewpoints on the road to 1650",
+            "tip": "Perfect for a quick photo stop with a broad view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Shopping Center 1850",
+            "tip": "Hier finden Sie alles von Souvenirs bis zu Designerkleidung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "1850-es bevásárlóközpont",
+            "tip": "Itt mindent megtalál a szuvenírektől a márkás ruhákig."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial 1850",
+            "tip": "Aici găsiți totul, de la suveniruri la haine de designer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shopping Center 1850",
+            "tip": "Here you can find everything from souvenirs to designer clothes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In 1850 sind Parkplätze teuer; nutzen Sie die Parkhäuser.",
+          "Die Straßen sind gut ausgebaut, aber im Winter ist Winterausrüstung Pflicht.",
+          "Fahren Sie defensiv, die Kurven können unübersichtlich sein.",
+          "Tanken Sie im Tal, oben sind die Preise deutlich höher."
+        ],
+        "hu": [
+          "1850-ben a parkolás drága; használja a parkolóházakat.",
+          "Az utak jól kiépítettek, de télen a téli felszerelés kötelező.",
+          "Vezessen óvatosan, a kanyarok beláthatatlanok lehetnek.",
+          "Tankoljon a völgyben, fent az árak jóval magasabbak."
+        ],
+        "ro": [
+          "Parcarea la 1850 este scumpă; folosiți parcările etajate.",
+          "Drumurile sunt bune, dar iarna echipamentul de iarnă este obligatoriu.",
+          "Conduceți defensiv, curbele pot fi lipsite de vizibilitate.",
+          "Alimentați în vale, sus prețurile sunt mult mai mari."
+        ],
+        "en": [
+          "Parking at 1850 is expensive; use the parking garages.",
+          "The roads are well-maintained, but winter gear is mandatory in winter.",
+          "Drive defensively, the curves can be blind.",
+          "Refuel in the valley, as prices are significantly higher at the top."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Praz",
+            "hu": "Le Praz",
+            "ro": "Le Praz",
+            "en": "Le Praz"
+          },
+          "coords": [
+            6.621,
+            45.431
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Gondel 'Le Praz' für eine schnelle Verbindung nach 1850.",
+            "hu": "Szálljon fel a 'Le Praz' libegőre a gyors összeköttetésért 1850-nel.",
+            "ro": "Luați telegondola 'Le Praz' pentru o conexiune rapidă spre 1850.",
+            "en": "Take the 'Le Praz' gondola for a quick connection to 1850."
+          }
+        },
+        {
+          "name": {
+            "de": "Forum de Courchevel",
+            "hu": "Courchevel Fórum",
+            "ro": "Forum de Courchevel",
+            "en": "Forum de Courchevel"
+          },
+          "coords": [
+            6.633,
+            45.415
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Das Forum ist der zentrale Knotenpunkt für alle Buslinien und Lifte.",
+            "hu": "A Fórum a központi csomópont minden buszjárat és libegő számára.",
+            "ro": "Forumul este nodul central pentru toate liniile de autobuz și lifturi.",
+            "en": "The Forum is the central hub for all bus lines and lifts."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommet de la Saulire",
+            "hu": "Saulire-csúcs",
+            "ro": "Vârful Saulire",
+            "en": "Sommet de la Saulire"
+          },
+          "coords": [
+            6.608,
+            45.385
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Auffahrt mit dem Saulire Express bietet atemberaubende Aussichten.",
+            "hu": "A Saulire Expressszel való feljutás lélegzetelállító kilátást kínál.",
+            "ro": "Urcarea cu Saulire Express oferă vederi uluitoare.",
+            "en": "The ascent with the Saulire Express offers breathtaking views."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Altiport de Courchevel",
+            "hu": "Courchevel Altiport",
+            "ro": "L'Altiport de Courchevel",
+            "en": "L'Altiport de Courchevel"
+          },
+          "coords": [
+            6.635,
+            45.397
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kostenlosen Shuttle-Bus Richtung Altiport.",
+            "hu": "Használja az Altiport felé tartó ingyenes buszjáratot.",
+            "ro": "Folosiți autobuzul de transfer gratuit către Altiport.",
+            "en": "Use the free shuttle bus towards Altiport."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de l'Assomption",
+            "hu": "Nagyboldogasszony-kápolna",
+            "ro": "Capela Notre-Dame de l'Assomption",
+            "en": "Chapelle Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            6.634,
+            45.416
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "In der Nähe der Haltestelle 'Croisette' gelegen.",
+            "hu": "A 'Croisette' megálló közelében található.",
+            "ro": "Situată în apropierea stației 'Croisette'.",
+            "en": "Located near the 'Croisette' stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Courchevel mit dem erstklassigen Lift- und Bussystem. Starten Sie in Le Praz und lassen Sie sich von der modernen Gondel direkt in das Herz von 1850 katapultieren.\n\nAm Mittag erreichen Sie mit dem Saulire Express den höchsten Punkt Ihrer Reise. Auf über 2700 Metern fühlen Sie sich dem Himmel ein Stück näher und genießen die Freiheit der Berge.\n\nDer Nachmittag führt Sie mit dem kostenlosen Shuttle-Bus zum Altiport, wo Sie die faszinierende Welt der Gebirgsluftfahrt erleben können.\n\nBeenden Sie Ihre Tour in Courchevel 1850 mit einem Besuch der Chapelle Notre-Dame und schlendern Sie durch die luxuriösen Arkaden, bevor Sie bequem mit dem Bus oder Lift wieder ins Tal fahren.",
+        "hu": "Fedezze fel Courchevelt az elsőosztályú libegő- és buszhálózat segítségével. Kezdjen Le Praz-ban, és hagyja, hogy a modern libegő közvetlenül 1850 szívébe repítse.\n\nDélben a Saulire Express segítségével eléri utazása legmagasabb pontját. 2700 méter felett egy kicsit közelebb érezheti magát az éghez, és élvezheti a hegyek szabadságát.\n\nA délután folyamán az ingyenes buszjárat elviszi az Altiportra, ahol megtapasztalhatja a hegyi repülés lenyűgöző világát.\n\nZárja túráját Courchevel 1850-ben a Nagyboldogasszony-kápolna meglátogatásával, és barangoljon a luxus árkádok alatt, mielőtt kényelmesen visszatérne a völgybe busszal vagy libegővel.",
+        "ro": "Descoperiți Courchevel cu sistemul de lifturi și autobuze de primă clasă. Începeți în Le Praz și lăsați telegondola modernă să vă catapulteze direct în inima cotei 1850.\n\nLa prânz, ajungeți la cel mai înalt punct al călătoriei dumneavoastră cu Saulire Express. La peste 2700 de metri, vă veți simți un pic mai aproape de cer și vă veți bucura de libertatea munților.\n\nDupă-amiaza vă duce cu autobuzul de transfer gratuit la Altiport, unde puteți experimenta lumea fascinantă a aviației montane.\n\nÎncheiați-vă turul în Courchevel 1850 cu o vizită la Capela Notre-Dame și plimbați-vă prin arcadele de lux înainte de a vă întoarce confortabil în vale cu autobuzul sau liftul.",
+        "en": "Discover Courchevel with the world-class lift and bus system. Start in Le Praz and let the modern gondola catapult you directly into the heart of 1850.\n\nAt midday, reach the highest point of your journey with the Saulire Express. Above 2700 meters, you feel a bit closer to the sky and enjoy the freedom of the mountains.\n\nThe afternoon takes you by free shuttle bus to the Altiport, where you can experience the fascinating world of mountain aviation.\n\nEnd your tour in Courchevel 1850 with a visit to the Chapelle Notre-Dame and stroll through the luxury arcades before comfortably returning to the valley by bus or lift."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Les Pierres Plates",
+            "tip": "Panoramarestaurant am Gipfel der Saulire."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Pierres Plates",
+            "tip": "Panoráma étterem a Saulire-csúcs tetején."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Pierres Plates",
+            "tip": "Restaurant panoramic pe vârful Saulire."
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Pierres Plates",
+            "tip": "Panoramic restaurant at the top of Saulire."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saulire Panorama",
+            "tip": "Ein ruhiger Moment über den Wolken.",
+            "emoji": "🏔️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saulire panoráma",
+            "tip": "Csendes pillanat a felhők felett.",
+            "emoji": "🏔️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Saulire",
+            "tip": "Un moment de liniște deasupra norilor.",
+            "emoji": "🏔️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saulire Panorama",
+            "tip": "A quiet moment above the clouds.",
+            "emoji": "🏔️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "La Croisette",
+            "tip": "Zentrales Einkaufszentrum mit vielen Sportgeschäften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Croisette",
+            "tip": "Központi bevásárlóközpont számos sportbolttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Croisette",
+            "tip": "Centru comercial central cu multe magazine de sport."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Croisette",
+            "tip": "Central shopping mall with many sports shops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Holen Sie sich einen Pistenplan für die Orientierung der Lifte.",
+          "Die Shuttle-Busse sind kostenlos und fahren sehr regelmäßig.",
+          "Achten Sie auf die Betriebszeiten der letzten Gondel ins Tal.",
+          "Tragen Sie Zwiebelprinzip-Kleidung, oben ist es deutlich kühler."
+        ],
+        "hu": [
+          "Szerezzen be egy pályaszállási térképet a libegők tájékozódásához.",
+          "A buszjáratok ingyenesek és nagyon rendszeresen járnak.",
+          "Ügyeljen az utolsó völgybe tartó libegő üzemidejére.",
+          "Öltözzön rétegesen, fent jóval hűvösebb van."
+        ],
+        "ro": [
+          "Obțineți o hartă a pârtiilor pentru orientarea lifturilor.",
+          "Autobuzele de transfer sunt gratuite și circulă foarte regulat.",
+          "Aveți grijă la orele de funcționare ale ultimei telegondole spre vale.",
+          "Îmbrăcați-vă în straturi, sus este mult mai răcoare."
+        ],
+        "en": [
+          "Get a piste map for orientation of the lifts.",
+          "The shuttle buses are free and run very regularly.",
+          "Pay attention to the operating hours of the last gondola to the valley.",
+          "Dress in layers, it's significantly cooler at the top."
+        ]
+      }
+    }
+  }
+}

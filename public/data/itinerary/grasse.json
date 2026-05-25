@@ -1,0 +1,1101 @@
+{
+  "city_id": "grasse",
+  "anchor": {
+    "name": "Grasse Centre",
+    "coords": [
+      6.9244,
+      43.6588
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Aires",
+            "hu": "Place des Aires",
+            "ro": "Place des Aires",
+            "en": "Place des Aires"
+          },
+          "coords": [
+            6.9238,
+            43.6601
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ockerfarbenen Fassaden und den Blumenmarkt am Morgen.",
+            "hu": "Csodáld meg a sárgás homlokzatokat és a reggeli virágpiacot.",
+            "ro": "Admirați fațadele ocru și piața de flori de dimineață.",
+            "en": "Admire the ochre facades and the flower market in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-du-Puy",
+            "hu": "Notre-Dame-du-Puy székesegyház",
+            "ro": "Catedrala Notre-Dame-du-Puy",
+            "en": "Notre-Dame-du-Puy Cathedral"
+          },
+          "coords": [
+            6.9239,
+            43.6583
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie im Inneren nach den drei Gemälden von Rubens.",
+            "hu": "Keresd meg a belső térben Rubens három festményét.",
+            "ro": "Căutați cele trei picturi de Rubens în interior.",
+            "en": "Look for the three paintings by Rubens inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parfumerie Fragonard - Historische Fabrik",
+            "hu": "Fragonard Parfüméria - Történelmi gyár",
+            "ro": "Parfumerie Fragonard - Fabrica Istorică",
+            "en": "Fragonard Perfumery - Historic Factory"
+          },
+          "coords": [
+            6.923,
+            43.6575
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die geführten Touren sind kostenlos und sehr informativ.",
+            "hu": "A vezetett túrák ingyenesek és nagyon informatívak.",
+            "ro": "Tururile ghidate sunt gratuite și foarte informative.",
+            "en": "The guided tours are free and very informative."
+          }
+        },
+        {
+          "name": {
+            "de": "Provenzalisches Mittagessen",
+            "hu": "Provence-i ebéd",
+            "ro": "Prânz provensal",
+            "en": "Provencal Lunch"
+          },
+          "coords": [
+            6.9225,
+            43.6578
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie Lou Fassum, das traditionelle Kohlgericht aus Grasse.",
+            "hu": "Kóstold meg a Lou Fassumot, Grasse hagyományos töltött káposztáját.",
+            "ro": "Gustați Lou Fassum, mâncarea tradițională de varză din Grasse.",
+            "en": "Taste Lou Fassum, the traditional cabbage dish of Grasse."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationales Parfümmuseum (MIP)",
+            "hu": "Nemzetközi Parfümmúzeum",
+            "ro": "Muzeul Internațional al Parfumului",
+            "en": "International Perfume Museum"
+          },
+          "coords": [
+            6.9219,
+            43.6581
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die 4000-jährige Geschichte des Parfüms.",
+            "hu": "Fedezd fel a parfümkészítés 4000 éves történelmét.",
+            "ro": "Descoperiți istoria de 4000 de ani a parfumului.",
+            "en": "Discover the 4000-year history of perfume."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Musée Fragonard",
+            "hu": "Villa Musée Fragonard",
+            "ro": "Villa Musée Fragonard",
+            "en": "Villa Musée Fragonard"
+          },
+          "coords": [
+            6.9225,
+            43.6565
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Treppenhaus-Fresken.",
+            "hu": "Csodáld meg a lépcsőház gyönyörű freskóit.",
+            "ro": "Admirați frescele superbe din casa scării.",
+            "en": "Admire the beautiful staircase frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt-Shopping",
+            "hu": "Óvárosi vásárlás",
+            "ro": "Cumpărături în centrul vechi",
+            "en": "Old Town Shopping"
+          },
+          "coords": [
+            6.9235,
+            43.6592
+          ],
+          "category": "shopping",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Holen Sie sich handgemachte Seifen und lokale Lavendelprodukte.",
+            "hu": "Vegyél kézműves szappanokat és helyi levendulatermékeket.",
+            "ro": "Luați săpunuri artizanale și produse locale cu lavandă.",
+            "en": "Pick up handmade soaps and local lavender products."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der charmanten Place des Aires, wo der Duft frischer Blumen die Luft erfüllt. Ein kurzer Spaziergang führt Sie zur Kathedrale, einem architektonischen Juwel mit versteckten Kunstschätzen. Mittags tauchen Sie in die Welt der Parfümherstellung bei Fragonard ein, gefolgt von einem herzhaften provenzalischen Essen in den engen Gassen der Altstadt. Der Nachmittag ist der tiefen Geschichte der Düfte im MIP und der eleganten Villa Fragonard gewidmet. Den Abschluss bildet ein Bummel durch die Kunsthandwerksläden, während die Abendsonne die ockerfarbenen Mauern in warmes Licht taucht.",
+        "hu": "Kezdje a napot a bájos Place des Aires téren, ahol a friss virágok illata tölti be a levegőt. Egy rövid séta vezet a székesegyházhoz, amely rejtett művészeti kincseket őriz. Délben merüljön el a parfümkészítés világában a Fragonard gyárában, majd fogyasszon el egy bőséges provence-i ebédet az óváros szűk utcáin. A délután az illatok mély történelmének és az elegáns Villa Fragonard felfedezésének ideje. A napot az iparművészeti boltok közötti böngészés zárja, miközben az esti nap meleg fénybe vonja az ódon falakat.",
+        "ro": "Începeți ziua în fermecătoarea Place des Aires, unde parfumul florilor proaspete umple aerul. O scurtă plimbare vă duce la catedrală, o bijuterie arhitecturală cu comori artistice ascunse. La prânz, scufundați-vă în lumea fabricării parfumurilor la Fragonard, urmat de o masă provensală copioasă pe străzile înguste ale centrului vechi. După-amiaza este dedicată istoriei profunde a aromelor la MIP și elegantei Villa Fragonard. Încheiați cu o plimbare prin magazinele de artizanat, în timp ce soarele serii scaldă zidurile ocru într-o lumină caldă.",
+        "en": "Start your day at the charming Place des Aires, where the scent of fresh flowers fills the air. A short stroll leads to the cathedral, an architectural gem housing hidden art treasures. At midday, dive into the world of perfume making at Fragonard, followed by a hearty Provencal lunch in the narrow alleys of the old town. The afternoon is dedicated to the deep history of scents at the MIP and the elegant Villa Fragonard. Finish with a wander through boutique craft shops as the evening sun bathes the ochre walls in warm light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fougassette",
+            "tip": "Traditionelles Brot mit Orangenblütenwasser bei Boulangerie Venturini."
+          },
+          {
+            "name": "Lou Fassum",
+            "tip": "Gefüllter Kohl nach Grasse-Art, eine lokale Spezialität."
+          },
+          {
+            "name": "Daube Provençale",
+            "tip": "Langsam geschmortes Rindfleisch in Rotwein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fougassette",
+            "tip": "Hagyományos narancsvirágvizes kenyér a Boulangerie Venturini-nél."
+          },
+          {
+            "name": "Lou Fassum",
+            "tip": "Grasse-i stílusú töltött káposzta, helyi specialitás."
+          },
+          {
+            "name": "Daube Provençale",
+            "tip": "Vörösborban lassan párolt marhahús."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fougassette",
+            "tip": "Pâine tradițională cu apă de flori de portocal la Boulangerie Venturini."
+          },
+          {
+            "name": "Lou Fassum",
+            "tip": "Varză umplută în stil Grasse, o specialitate locală."
+          },
+          {
+            "name": "Daube Provençale",
+            "tip": "Carne de vită gătită lent în vin roșu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fougassette",
+            "tip": "Traditional orange blossom water bread at Boulangerie Venturini."
+          },
+          {
+            "name": "Lou Fassum",
+            "tip": "Grasse-style stuffed cabbage, a local specialty."
+          },
+          {
+            "name": "Daube Provençale",
+            "tip": "Slow-cooked beef stew in red wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Princesse Pauline",
+            "tip": "Ein ruhiger Park mit Panoramablick auf die Stadt und das Meer.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panorama der Kathedrale",
+            "tip": "Blick über das Tal von der Rückseite der Kathedrale.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Fragonard Gärten",
+            "tip": "Ein friedlicher Ort zum Entspannen zwischen historischen Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin de la Princesse Pauline",
+            "tip": "Csendes park panorámás kilátással a városra és a tengerre.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Székesegyház panoráma",
+            "tip": "Kilátás a völgyre a székesegyház hátuljától.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Fragonard kertje",
+            "tip": "Békés hely a pihenésre a történelmi falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de la Princesse Pauline",
+            "tip": "Un parc liniștit cu vedere panoramică asupra orașului și mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Panorama Catedralei",
+            "tip": "Vedere peste vale din spatele catedralei.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădinile Villa Fragonard",
+            "tip": "Un loc liniștit pentru relaxare între ziduri istorice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de la Princesse Pauline",
+            "tip": "A quiet park with panoramic views of the city and the sea.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Cathedral Panorama",
+            "tip": "View over the valley from the back of the cathedral.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Villa Fragonard Gardens",
+            "tip": "A peaceful spot to relax between historic walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Exklusive Parfüms und wunderschön gestaltete Seifen."
+          },
+          {
+            "name": "Molinard",
+            "tip": "Individuelle Parfüm-Workshops und klassische Düfte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Exkluzív parfümök és gyönyörűen csomagolt szappanok."
+          },
+          {
+            "name": "Molinard",
+            "tip": "Egyedi parfümkészítő műhelyek és klasszikus illatok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Parfumuri exclusive și săpunuri frumos ambalate."
+          },
+          {
+            "name": "Molinard",
+            "tip": "Ateliere de parfumuri personalizate și arome clasice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fragonard Boutique",
+            "tip": "Exclusive perfumes and beautifully designed soaps."
+          },
+          {
+            "name": "Molinard",
+            "tip": "Custom perfume workshops and classic scents."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Altstadt viele steile Treppen hat.",
+          "Buchen Sie Parfüm-Workshops mindestens eine Woche im Voraus.",
+          "Besuchen Sie die Stadt im Mai für den Duft der Centifolia-Rosen.",
+          "Die meisten Museen sind in der Mittagspause zwischen 12:00 und 14:00 Uhr geöffnet, prüfen Sie dies aber lokal."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az óvárosban sok a meredek lépcső.",
+          "Foglalja le a parfümműhelyeket legalább egy héttel előre.",
+          "Látogasson el májusban a Centifolia rózsák illatáért.",
+          "A legtöbb múzeum nyitva van az ebédszünet alatt is, de érdemes helyben ellenőrizni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă, deoarece centrul vechi are multe scări abrupte.",
+          "Rezervați atelierele de parfumuri cu cel puțin o săptămână înainte.",
+          "Vizitați în luna mai pentru parfumul trandafirilor Centifolia.",
+          "Majoritatea muzeelor sunt deschise în timpul pauzei de prânz, dar verificați local."
+        ],
+        "en": [
+          "Wear comfortable shoes as the old town has many steep stairs.",
+          "Book perfume workshops at least a week in advance.",
+          "Visit in May for the scent of Centifolia roses.",
+          "Most museums stay open during lunch hours, but check locally."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grasse Zentrum",
+            "hu": "Grasse központ",
+            "ro": "Centrul Grasse",
+            "en": "Grasse Center"
+          },
+          "coords": [
+            6.9244,
+            43.6588
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie am Hauptplatz.",
+            "hu": "Kezdjen a főtéren.",
+            "ro": "Începeți în piața principală.",
+            "en": "Start at the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Parfumerie Molinard",
+            "hu": "Molinard Parfüméria",
+            "ro": "Parfumerie Molinard",
+            "en": "Molinard Perfumery"
+          },
+          "coords": [
+            6.9215,
+            43.6555
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude aus der Zeit Napoleons III.",
+            "hu": "Pompás épület III. Napóleon idejéből.",
+            "ro": "O clădire splendidă din epoca lui Napoleon al III-lea.",
+            "en": "A magnificent building from the Napoleon III era."
+          }
+        },
+        {
+          "name": {
+            "de": "Parfumerie Galimard",
+            "hu": "Galimard Parfüméria",
+            "ro": "Parfumerie Galimard",
+            "en": "Galimard Perfumery"
+          },
+          "coords": [
+            6.9365,
+            43.6425
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das älteste Parfümhaus von Grasse.",
+            "hu": "Látogassa meg Grasse legrégebbi parfümházát.",
+            "ro": "Vizitați cea mai veche casă de parfumuri din Grasse.",
+            "en": "Visit the oldest perfume house in Grasse."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause in Mouans-Sartoux",
+            "hu": "Ebédszünet Mouans-Sartoux-ban",
+            "ro": "Pauză de prânz în Mouans-Sartoux",
+            "en": "Lunch in Mouans-Sartoux"
+          },
+          "coords": [
+            6.9715,
+            43.6195
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein hübsches Dorf mit tollen Cafés.",
+            "hu": "Csinos falu remek kávézókkal.",
+            "ro": "Un sat drăguț cu cafenele grozave.",
+            "en": "A pretty village with great cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten des Parfümmuseums",
+            "hu": "A Parfümmúzeum kertjei",
+            "ro": "Grădinile Muzeului Parfumului",
+            "en": "Gardens of the Perfume Museum"
+          },
+          "coords": [
+            6.9755,
+            43.6155
+          ],
+          "category": "park",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Riechen Sie an den Pflanzen, die für Parfüms verwendet werden.",
+            "hu": "Szagolja meg a parfümökhöz használt növényeket.",
+            "ro": "Mirosiți plantele folosite pentru parfumuri.",
+            "en": "Smell the plants used for perfumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Grasse",
+            "hu": "Visszatérés Grasse-ba",
+            "ro": "Întoarcere în Grasse",
+            "en": "Return to Grasse"
+          },
+          "coords": [
+            6.9244,
+            43.6588
+          ],
+          "category": "historical",
+          "arrive_at": "17:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der Rückweg ist bergauf, nutzen Sie die E-Bike-Unterstützung.",
+            "hu": "Visszafelé emelkedő van, használja az e-bike rásegítést.",
+            "ro": "Drumul de întoarcere este în pantă, folosiți asistența e-bike.",
+            "en": "The way back is uphill, use the e-bike assistance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Grasse mit dem Fahrrad. Von der Molinard-Fabrik führt der Weg bergab zur historischen Galimard-Parfümerie. Weiter geht es in das malerische Mouans-Sartoux für ein entspanntes Mittagessen. Der Höhepunkt sind die Gärten des Parfümmuseums, ein Sinneserlebnis unter freiem Himmel. Der Rückweg erfordert etwas Kondition oder ein E-Bike, belohnt aber mit tollen Ausblicken.",
+        "hu": "Fedezze fel Grasse környékét kerékpárral. A Molinard gyárától az út lefelé vezet a történelmi Galimard parfümériához. Folytassa útját a festői Mouans-Sartoux-ba egy pihentető ebédre. A fénypont a Parfümmúzeum kertje, amely szabadtéri érzékszervi élményt nyújt. A visszaút némi kondíciót vagy e-bike-ot igényel, de nagyszerű kilátással jutalmaz.",
+        "ro": "Explorați împrejurimile orașului Grasse cu bicicleta. De la fabrica Molinard, drumul coboară spre istorica parfumerie Galimard. Continuați spre pitorescul Mouans-Sartoux pentru un prânz relaxat. Punctul culminant sunt grădinile muzeului parfumului, o experiență senzorială în aer liber. Drumul de întoarcere necesită puțină condiție fizică sau un e-bike, dar recompensează cu priveliști grozave.",
+        "en": "Explore the surroundings of Grasse by bike. From the Molinard factory, the path leads downhill to the historic Galimard perfumery. Continue to picturesque Mouans-Sartoux for a relaxed lunch. The highlight is the gardens of the perfume museum, an open-air sensory experience. The way back requires some fitness or an e-bike, but rewards with great views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistro du Château",
+            "tip": "In Mouans-Sartoux, perfekt für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistro du Château",
+            "tip": "Mouans-Sartoux-ban, tökéletes kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistro du Château",
+            "tip": "În Mouans-Sartoux, perfect pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistro du Château",
+            "tip": "In Mouans-Sartoux, perfect for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canal de la Siagne",
+            "tip": "Ein schattiger Weg entlang des Kanals.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Canal de la Siagne",
+            "tip": "Árnyékos ösvény a csatorna mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canal de la Siagne",
+            "tip": "O potecă umbrită de-a lungul canalului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canal de la Siagne",
+            "tip": "A shaded path along the canal.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Molinard Boutique",
+            "tip": "Düfte in ikonischen Flakons."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Molinard Boutique",
+            "tip": "Illatok ikonikus üvegekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Molinard Boutique",
+            "tip": "Parfumuri în flacoane iconice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Molinard Boutique",
+            "tip": "Scents in iconic bottles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike, da Grasse sehr hügelig ist.",
+          "Vermeiden Sie die Hauptstraßen und nutzen Sie Nebenwege."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot, mert Grasse nagyon dombos.",
+          "Kerülje a főutakat és használjon mellékutakat."
+        ],
+        "ro": [
+          "Închiriați un e-bike, deoarece Grasse este foarte deluros.",
+          "Evitați drumurile principale și folosiți căile secundare."
+        ],
+        "en": [
+          "Rent an e-bike as Grasse is very hilly.",
+          "Avoid main roads and use side paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 32.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grasse Altstadt",
+            "hu": "Grasse óváros",
+            "ro": "Centrul vechi Grasse",
+            "en": "Grasse Old Town"
+          },
+          "coords": [
+            6.9244,
+            43.6588
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Honoré Cresp.",
+            "hu": "Parkoljon a Honoré Cresp parkolóházban.",
+            "ro": "Parcați în parcarea Honoré Cresp.",
+            "en": "Park in the Honoré Cresp parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Gourdon (Adlernest-Dorf)",
+            "hu": "Gourdon (sasfészek falu)",
+            "ro": "Gourdon (sat cuib de vulturi)",
+            "en": "Gourdon (Eagle's Nest Village)"
+          },
+          "coords": [
+            6.9785,
+            43.7205
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Eines der schönsten Dörfer Frankreichs.",
+            "hu": "Franciaország egyik legszebb faluja.",
+            "ro": "Unul dintre cele mai frumoase sate din Franța.",
+            "en": "One of the most beautiful villages in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Aussicht",
+            "hu": "Ebéd kilátással",
+            "ro": "Prânz cu vedere",
+            "en": "Lunch with a View"
+          },
+          "coords": [
+            6.979,
+            43.72
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Côte d'Azur.",
+            "hu": "Élvezze a kilátást a Riviérára.",
+            "ro": "Bucurați-vă de vederea spre Coasta de Azur.",
+            "en": "Enjoy the view of the Côte d'Azur."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorges du Loup",
+            "hu": "Gorges du Loup (Loup-szurdok)",
+            "ro": "Gorges du Loup",
+            "en": "Gorges du Loup"
+          },
+          "coords": [
+            6.9955,
+            43.7155
+          ],
+          "category": "park",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Saut du Loup Wasserfall.",
+            "hu": "Látogassa meg a Saut du Loup vízesést.",
+            "ro": "Vizitați cascada Saut du Loup.",
+            "en": "Visit the Saut du Loup waterfall."
+          }
+        },
+        {
+          "name": {
+            "de": "Confiserie Florian",
+            "hu": "Confiserie Florian",
+            "ro": "Confiserie Florian",
+            "en": "Confiserie Florian"
+          },
+          "coords": [
+            7.0315,
+            43.7015
+          ],
+          "category": "shopping",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die kandierten Blumen.",
+            "hu": "Kóstolja meg a kandírozott virágokat.",
+            "ro": "Gustați florile zaharate.",
+            "en": "Taste the candied flowers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Eleganz von Grasse mit der wilden Natur der Voralpen. Nach einem Stadtbummel fahren Sie hinauf nach Gourdon, das spektakulär auf einem Felsen thront. Nach dem Mittagessen erkunden Sie die Gorges du Loup mit ihren Wasserfällen. Den süßen Abschluss bildet die Confiserie Florian in Pont-du-Loup.",
+        "hu": "Ez az autós túra Grasse eleganciáját ötvözi az Alpok előhegyeinek vad természetével. Városnézés után hajtson fel Gourdonba, amely látványosan trónol egy sziklán. Ebéd után fedezze fel a Gorges du Loup szurdokot és vízeséseit. A napot a pont-du-loupi Confiserie Florian édességei zárják.",
+        "ro": "Acest tur auto combină eleganța orașului Grasse cu natura sălbatică a prealpilor. După o plimbare prin oraș, urcați spre Gourdon, cocoțat spectaculos pe o stâncă. După prânz, explorați Gorges du Loup cu cascadele sale. Finalul dulce este la Confiserie Florian din Pont-du-Loup.",
+        "en": "This car tour combines the elegance of Grasse with the wild nature of the Pre-Alps. After a city stroll, drive up to Gourdon, spectacularly perched on a rock. After lunch, explore the Gorges du Loup and its waterfalls. The sweet finish is at Confiserie Florian in Pont-du-Loup."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "In Gourdon, mit atemberaubender Terrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "Gourdonban, lélegzetelállító terasszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "În Gourdon, cu o terasă uluitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Nid d'Aigle",
+            "tip": "In Gourdon, with a breathtaking terrace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Saut du Loup",
+            "tip": "Das Geräusch des fließenden Wassers entspannt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Saut du Loup",
+            "tip": "A folyó víz hangja megnyugtat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Saut du Loup",
+            "tip": "Sunetul apei curgătoare relaxează.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Saut du Loup",
+            "tip": "The sound of flowing water is relaxing.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kandierte Rosenblätter",
+            "tip": "Eine Spezialität der Confiserie Florian."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kandírozott rózsaszirom",
+            "tip": "A Confiserie Florian specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Petale de trandafir zaharate",
+            "tip": "O specialitate a Confiserie Florian."
+          }
+        ],
+        "en": [
+          {
+            "name": "Candied Rose Petals",
+            "tip": "A specialty of Confiserie Florian."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen nach Gourdon sind kurvig, fahren Sie vorsichtig.",
+          "Parken in Gourdon kann im Sommer schwierig sein."
+        ],
+        "hu": [
+          "A Gourdonba vezető utak kanyargósak, vezessen óvatosan.",
+          "A parkolás Gourdonban nyáron nehéz lehet."
+        ],
+        "ro": [
+          "Drumurile spre Gourdon sunt virajate, conduceți cu atenție.",
+          "Parcarea în Gourdon poate fi dificilă vara."
+        ],
+        "en": [
+          "The roads to Gourdon are winding, drive carefully.",
+          "Parking in Gourdon can be difficult in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grasse Bahnhof",
+            "hu": "Grasse vasútállomás",
+            "ro": "Gara Grasse",
+            "en": "Grasse Train Station"
+          },
+          "coords": [
+            6.9315,
+            43.6525
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Shuttlebus (Navette) ins Zentrum.",
+            "hu": "Szálljon fel a központba menő ingajáratra.",
+            "ro": "Luați autobuzul navetă spre centru.",
+            "en": "Take the shuttle bus (navette) to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Honoré Cresp",
+            "hu": "Cours Honoré Cresp",
+            "ro": "Cours Honoré Cresp",
+            "en": "Cours Honoré Cresp"
+          },
+          "coords": [
+            6.9245,
+            43.6585
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der zentrale Punkt für alle Buslinien.",
+            "hu": "Minden buszjárat központi pontja.",
+            "ro": "Punctul central pentru toate liniile de autobuz.",
+            "en": "The central point for all bus lines."
+          }
+        },
+        {
+          "name": {
+            "de": "MIP - Parfümmuseum",
+            "hu": "MIP - Parfümmúzeum",
+            "ro": "MIP - Muzeul Parfumului",
+            "en": "MIP - Perfume Museum"
+          },
+          "coords": [
+            6.9219,
+            43.6581
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în centrul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            6.9235,
+            43.6595
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie kleine Bistros in den Gassen.",
+            "hu": "Fedezzen fel kis bisztrókat a sikátorokban.",
+            "ro": "Descoperiți bistrouri mici pe străduțe.",
+            "en": "Discover small bistros in the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Fragonard & Gärten",
+            "hu": "Villa Fragonard és kertek",
+            "ro": "Villa Fragonard și grădinile",
+            "en": "Villa Fragonard & Gardens"
+          },
+          "coords": [
+            6.9225,
+            43.6565
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Nachmittag im Grünen.",
+            "hu": "Pihentető délután a zöldben.",
+            "ro": "O după-amiază relaxantă în natură.",
+            "en": "A relaxing afternoon in the greenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das effiziente Bussystem von Grasse. Vom Bahnhof gelangen Sie schnell ins Herz der Stadt. Besuchen Sie das renommierte MIP-Museum und genießen Sie lokale Spezialitäten in der Altstadt. Den Nachmittag verbringen Sie entspannt in den Gärten der Villa Fragonard, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+        "hu": "Használja Grasse hatékony buszhálózatát. A vasútállomástól gyorsan bejuthat a város szívébe. Látogassa meg a neves MIP múzeumot, és élvezze a helyi specialitásokat az óvárosban. A délutánt töltse pihentetően a Villa Fragonard kertjében, mielőtt busszal visszatérne az állomásra.",
+        "ro": "Utilizați sistemul eficient de autobuze din Grasse. De la gară ajungeți rapid în inima orașului. Vizitați renumitul muzeu MIP și savurați specialități locale în centrul vechi. Petreceți după-amiaza relaxându-vă în grădinile Villa Fragonard, înainte de a lua autobuzul înapoi spre gară.",
+        "en": "Use the efficient bus system of Grasse. From the train station, you quickly reach the heart of the city. Visit the renowned MIP museum and enjoy local specialties in the old town. Spend a relaxing afternoon in the gardens of Villa Fragonard before taking the bus back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crêperie du Cours",
+            "tip": "Günstig und gut am Cours Honoré Cresp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crêperie du Cours",
+            "tip": "Olcsó és jó a Cours Honoré Cresp-nél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crêperie du Cours",
+            "tip": "Ieftin și bun la Cours Honoré Cresp."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crêperie du Cours",
+            "tip": "Cheap and good at Cours Honoré Cresp."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin de la Villa Fragonard",
+            "tip": "Ein ruhiger Rückzugsort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jardin de la Villa Fragonard",
+            "tip": "Csendes menedék.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jardin de la Villa Fragonard",
+            "tip": "Un refugiu liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Jardin de la Villa Fragonard",
+            "tip": "A quiet retreat.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Parfümerie-Outlet",
+            "tip": "Oft günstigere Preise in Fabriknähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parfüméria outlet",
+            "tip": "Gyakran kedvezőbb árak a gyárak közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Outlet de parfumerie",
+            "tip": "Adesea prețuri mai bune lângă fabrici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perfumery Outlet",
+            "tip": "Often better prices near the factories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für das 'Sillages' Busnetz.",
+          "Die Busse verkehren regelmäßig zwischen Bahnhof und Zentrum."
+        ],
+        "hu": [
+          "Vegyen napijegyet a 'Sillages' buszhálózatra.",
+          "A buszok rendszeresen járnak az állomás és a központ között."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru rețeaua de autobuze 'Sillages'.",
+          "Autobuzele circulă regulat între gară și centru."
+        ],
+        "en": [
+          "Buy a day ticket for the 'Sillages' bus network.",
+          "Buses run regularly between the station and the center."
+        ]
+      }
+    }
+  }
+}

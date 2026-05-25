@@ -1,0 +1,1094 @@
+{
+  "city_id": "bayonne",
+  "anchor": {
+    "name": "Bayonne Centre",
+    "coords": [
+      -1.4748,
+      43.4929
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Les Halles de Bayonne",
+          "coords": [
+            -1.4762,
+            43.4921
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Bayonne-Schinken direkt am Marktstand.",
+            "hu": "Kóstolja meg a híres bayonne-i sonkát közvetlenül a piaci árusoknál.",
+            "ro": "Gustați faimoasa șuncă de Bayonne direct la standurile din piață.",
+            "en": "Taste the famous Bayonne ham directly at the market stalls."
+          }
+        },
+        {
+          "name": "Cathédrale Sainte-Marie",
+          "coords": [
+            -1.4774,
+            43.4908
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Glasmalereien und die imposanten Türme.",
+            "hu": "Csodálja meg a gótikus üvegablakokat és az impozáns tornyokat.",
+            "ro": "Admirați vitraliile gotice și turnurile impresionante.",
+            "en": "Admire the Gothic stained glass windows and the imposing towers."
+          }
+        },
+        {
+          "name": "Cloître de la Cathédrale",
+          "coords": [
+            -1.4771,
+            43.4905
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einer der größten Kreuzgänge Frankreichs, perfekt für eine kühle Pause.",
+            "hu": "Franciaország egyik legnagyobb kolostora, tökéletes egy hűsítő pihenőhöz.",
+            "ro": "Unul dintre cele mai mari claustre din Franța, perfect pentru o pauză răcoroasă.",
+            "en": "One of the largest cloisters in France, perfect for a cool break."
+          }
+        },
+        {
+          "name": "Musée Basque",
+          "coords": [
+            -1.4735,
+            43.4912
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche baskische Kultur und Geschichte in diesem alten Speicher.",
+            "hu": "Fedezze fel a gazdag baszk kultúrát és történelmet ebben a régi magtárban.",
+            "ro": "Descoperiți bogata cultură și istorie bască în acest vechi depozit.",
+            "en": "Discover the rich Basque culture and history in this old storehouse."
+          }
+        },
+        {
+          "name": "Jardin Botanique de Bayonne",
+          "coords": [
+            -1.4795,
+            43.4915
+          ],
+          "category": "park",
+          "arrive_at": "15:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein japanisch inspirierter Garten auf den alten Stadtmauern.",
+            "hu": "Japán stílusú kert a régi városfalak tetején.",
+            "ro": "O grădină de inspirație japoneză pe vechile ziduri ale orașului.",
+            "en": "A Japanese-inspired garden located on the old city fortifications."
+          }
+        },
+        {
+          "name": "Quais de la Nive",
+          "coords": [
+            -1.4755,
+            43.4918
+          ],
+          "category": "historical",
+          "arrive_at": "17:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die bunten Fachwerkhäuser spiegeln sich wunderschön im Wasser.",
+            "hu": "A színes favázas házak gyönyörűen tükröződnek a vízben.",
+            "ro": "Casele colorate din lemn se reflectă superb în apă.",
+            "en": "The colorful half-timbered houses reflect beautifully in the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie in das Markttreiben von Les Halles ein, bevor Sie die majestätische Kathedrale besuchen. Mittags erkunden Sie die schattigen Gänge des Kreuzgangs und tauchen im Baskischen Museum tief in die lokale Identität ein. Der Nachmittag gehört der Ruhe im Botanischen Garten. Den Abend lassen Sie an den malerischen Ufern der Nive ausklingen, umgeben von typisch baskischer Architektur.",
+        "hu": "Reggel merüljön el a Les Halles piaci forgatagában, majd látogasson el a fenséges katedrálishoz. Délben fedezze fel a kolostor árnyas folyosóit, és merüljön el a baszk identitásban a Baszk Múzeumban. A délután a pihenésé a Botanikus Kertben. Az estét a Nive folyó festői partján zárja, tipikus baszk építészettel körülvéve.",
+        "ro": "Dimineața, scufundați-vă în agitația pieței Les Halles înainte de a vizita catedrala maiestuoasă. La prânz, explorați coridoarele umbroase ale claustrului și aprofundați identitatea bască la Muzeul Basc. După-amiaza este dedicată liniștii în Grădina Botanică. Seara se încheie pe malurile pitorești ale râului Nive, înconjurat de arhitectura tipic bască.",
+        "en": "Morning begins with the vibrant market life at Les Halles before visiting the majestic cathedral. At midday, explore the shaded cloister and dive deep into Basque identity at the Basque Museum. The afternoon is for tranquility in the Botanical Garden. End your evening on the picturesque banks of the Nive, surrounded by typical Basque architecture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Aubard",
+            "tip": "Traditioneller Bayonne-Schinken und baskische Wurstwaren."
+          },
+          {
+            "name": "L'Atelier du Chocolat",
+            "tip": "Bayonne ist die Schokoladenhauptstadt Frankreichs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aubard",
+            "tip": "Hagyományos bayonne-i sonka és baszk felvágottak."
+          },
+          {
+            "name": "L'Atelier du Chocolat",
+            "tip": "Bayonne Franciaország csokoládéfővárosa."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aubard",
+            "tip": "Șuncă tradițională de Bayonne și mezeluri basce."
+          },
+          {
+            "name": "L'Atelier du Chocolat",
+            "tip": "Bayonne este capitala ciocolatei în Franța."
+          }
+        ],
+        "en": [
+          {
+            "name": "Aubard",
+            "tip": "Traditional Bayonne ham and Basque charcuterie."
+          },
+          {
+            "name": "L'Atelier du Chocolat",
+            "tip": "Bayonne is the chocolate capital of France."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Jardin Botanique",
+            "tip": "Stille Oase über der Stadt.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Naturraum am Stadtrand.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanikus Kert",
+            "tip": "Csendes oázis a város felett.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Természetközeli terület a város szélén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Botanică",
+            "tip": "Oază de liniște deasupra orașului.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Spațiu natural la marginea orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanical Garden",
+            "tip": "Quiet oasis above the city.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Natural space on the outskirts.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue Port-Neuf",
+            "tip": "Die Straße der Schokoladenmacher."
+          },
+          {
+            "name": "Lartigue 1910",
+            "tip": "Traditionelle baskische Textilien und Streifenstoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue Port-Neuf",
+            "tip": "A csokoládékészítők utcája."
+          },
+          {
+            "name": "Lartigue 1910",
+            "tip": "Hagyományos baszk textíliák és csíkos anyagok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue Port-Neuf",
+            "tip": "Strada ciocolatierilor."
+          },
+          {
+            "name": "Lartigue 1910",
+            "tip": "Textile tradiționale basce și țesături cu dungi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue Port-Neuf",
+            "tip": "The street of chocolate makers."
+          },
+          {
+            "name": "Lartigue 1910",
+            "tip": "Traditional Basque textiles and striped linens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bayonne lässt sich am besten zu Fuß erkunden, da das Zentrum kompakt ist.",
+          "Probieren Sie 'Chocolat chaud' in einem der Cafés in der Rue Port-Neuf.",
+          "Die Parkplätze am Stadtrand sind oft günstiger, nutzen Sie den Shuttle.",
+          "Achten Sie auf die roten und grünen Fensterläden, die typisch baskisch sind."
+        ],
+        "hu": [
+          "Bayonne gyalogosan fedezhető fel a legjobban, mivel a központ kompakt.",
+          "Kóstolja meg a 'Chocolat chaud'-t a Rue Port-Neuf egyik kávézójában.",
+          "A város szélén lévő parkolók olcsóbbak, használja az ingajáratot.",
+          "Figyelje a piros és zöld zsalugátereket, amelyek tipikus baszk stílusúak."
+        ],
+        "ro": [
+          "Bayonne este cel mai bine explorat pe jos, deoarece centrul este compact.",
+          "Încercați 'Chocolat chaud' la una dintre cafenelele de pe Rue Port-Neuf.",
+          "Parcările de la marginea orașului sunt adesea mai ieftine, folosiți naveta.",
+          "Observați obloanele roșii și verzi, care sunt tipic basce."
+        ],
+        "en": [
+          "Bayonne is best explored on foot as the center is very compact.",
+          "Try a 'Chocolat chaud' at one of the cafes in Rue Port-Neuf.",
+          "Parking on the outskirts is often cheaper; use the shuttle bus.",
+          "Look for the red and green shutters, which are classically Basque."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bords de l'Adour",
+          "coords": [
+            -1.4722,
+            43.4965
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den breiten Radweg entlang des großen Flusses.",
+            "hu": "Élvezze a széles kerékpárutat a nagy folyó mentén.",
+            "ro": "Bucurați-vă de pista largă de biciclete de-a lungul râului mare.",
+            "en": "Enjoy the wide cycle path along the big river."
+          }
+        },
+        {
+          "name": "Citadelle de Bayonne",
+          "coords": [
+            -1.4745,
+            43.4998
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Vaubans Meisterwerk, heute noch militärisch genutzt, aber von außen beeindruckend.",
+            "hu": "Vauban mesterműve, ma is katonai célokat szolgál, de kívülről lenyűgöző.",
+            "ro": "Capodopera lui Vauban, încă folosită în scopuri militare, dar impresionantă din exterior.",
+            "en": "Vauban's masterpiece, still used by the military but impressive from the outside."
+          }
+        },
+        {
+          "name": "Petit Bayonne",
+          "coords": [
+            -1.4715,
+            43.4915
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die engen Gassen sind ideal, um das Fahrrad kurz zu schieben und Tapas zu essen.",
+            "hu": "A szűk utcák ideálisak a kerékpár rövid tolásához és tapasozáshoz.",
+            "ro": "Străduțele înguste sunt ideale pentru a împinge bicicleta și a mânca tapas.",
+            "en": "The narrow streets are ideal for walking your bike and eating tapas."
+          }
+        },
+        {
+          "name": "Plaine d'Ansot",
+          "coords": [
+            -1.4655,
+            43.4812
+          ],
+          "category": "park",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein geschütztes Feuchtgebiet mit Radwegen mitten in der Natur.",
+            "hu": "Védett mocsaras terület kerékpárutakkal a természet lágy ölén.",
+            "ro": "O zonă umedă protejată cu piste de biciclete în mijlocul naturii.",
+            "en": "A protected wetland with cycle paths right in the middle of nature."
+          }
+        },
+        {
+          "name": "Place de la Liberté",
+          "coords": [
+            -1.4748,
+            43.4929
+          ],
+          "category": "square",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Der zentrale Platz vor dem Rathaus, perfekt für ein kühles Getränk zum Abschluss.",
+            "hu": "A központi tér a városháza előtt, tökéletes egy hűsítő italhoz a végén.",
+            "ro": "Piața centrală din fața primăriei, perfectă pentru o băutură rece la final.",
+            "en": "The central square in front of the town hall, perfect for a cool drink to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie zuerst die Ufer des Adour und die mächtige Zitadelle im Norden. Mittags radeln Sie durch das lebendige Petit Bayonne für eine kulinarische Pause. Der Nachmittag führt Sie in das ökologische Reservat Plaine d'Ansot, bevor Sie Ihre Tour auf dem prächtigen Place de la Liberté beenden.",
+        "hu": "Kerékpárral először az Adour partját és az északi hatalmas citadellát fedezheti fel. Délben tekerjen át a pezsgő Petit Bayonne-on egy gasztronómiai szünetre. A délután a Plaine d'Ansot ökológiai rezervátumba vezet, mielőtt a túrát a pompás Place de la Liberté-n zárná.",
+        "ro": "Cu bicicleta, explorați mai întâi malurile râului Adour și citadela masivă din nord. La prânz, pedalați prin vibrantul Petit Bayonne pentru o pauză culinară. După-amiaza vă duce în rezervația ecologică Plaine d'Ansot înainte de a încheia turul în superba Place de la Liberté.",
+        "en": "By bike, first explore the banks of the Adour and the massive citadel to the north. At midday, cycle through vibrant Petit Bayonne for a culinary break. The afternoon leads you to the Plaine d'Ansot ecological reserve before ending your tour at the magnificent Place de la Liberté."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette de la Halle",
+            "tip": "Schneller Snack für Radfahrer."
+          },
+          {
+            "name": "Txotx",
+            "tip": "Authentische baskische Cider-Haus Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buvette de la Halle",
+            "tip": "Gyors snack kerékpárosoknak."
+          },
+          {
+            "name": "Txotx",
+            "tip": "Eredeti baszk cider-ház hangulat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvette de la Halle",
+            "tip": "Gustare rapidă pentru bicicliști."
+          },
+          {
+            "name": "Txotx",
+            "tip": "Atmosferă autentică de cidrărie bască."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette de la Halle",
+            "tip": "Quick snack for cyclists."
+          },
+          {
+            "name": "Txotx",
+            "tip": "Authentic Basque cider house atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pont Grenet",
+            "tip": "Panoramablick auf den Adour.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Vogelbeobachtung im Moor.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pont Grenet",
+            "tip": "Panoráma az Adour folyóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Madármegfigyelés a mocsárban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podul Grenet",
+            "tip": "Vedere panoramică asupra râului Adour.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Observarea păsărilor în mlaștină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grenet Bridge",
+            "tip": "Panoramic view of the Adour river.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaine d'Ansot",
+            "tip": "Birdwatching in the wetlands.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vélos en Ville",
+            "tip": "Fahrradverleih und lokales Zubehör."
+          },
+          {
+            "name": "Pariès",
+            "tip": "Baskische Makronen und Mouchous."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vélos en Ville",
+            "tip": "Kerékpárkölcsönző és helyi kiegészítők."
+          },
+          {
+            "name": "Pariès",
+            "tip": "Baszk makronok és Mouchous édességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vélos en Ville",
+            "tip": "Închirieri de biciclete și accesorii locale."
+          },
+          {
+            "name": "Pariès",
+            "tip": "Macarons basci și dulciuri Mouchous."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vélos en Ville",
+            "tip": "Bike rentals and local accessories."
+          },
+          {
+            "name": "Pariès",
+            "tip": "Basque macarons and Mouchous sweets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bayonne ist sehr fahrradfreundlich mit vielen markierten Wegen.",
+          "Nutzen Sie das 'Vélopop' Leihsystem für kurze Strecken.",
+          "Meiden Sie die steilen Gassen rund um die Kathedrale mit dem Rad.",
+          "Der Weg nach Anglet ist fast komplett flach und am Fluss entlang."
+        ],
+        "hu": [
+          "Bayonne nagyon kerékpárosbarát, sok jelzett úttal.",
+          "Használja a 'Vélopop' bérlési rendszert rövid távokra.",
+          "Kerülje a katedrális körüli meredek utcákat kerékpárral.",
+          "Az Anglet felé vezető út szinte teljesen sík és a folyó mentén halad."
+        ],
+        "ro": [
+          "Bayonne este foarte prietenos cu bicicliștii, având multe trasee marcate.",
+          "Utilizați sistemul de închirieri 'Vélopop' pentru distanțe scurte.",
+          "Evitați străduțele abrupte din jurul catedralei cu bicicleta.",
+          "Drumul spre Anglet este aproape complet plat și de-a lungul râului."
+        ],
+        "en": [
+          "Bayonne is very bike-friendly with many marked paths.",
+          "Use the 'Vélopop' rental system for short trips.",
+          "Avoid the steep streets around the cathedral while cycling.",
+          "The path to Anglet is almost completely flat and follows the river."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 28.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Vieux Bayonne",
+          "coords": [
+            -1.4774,
+            43.4908
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Glain und nehmen Sie den kostenlosen Shuttle.",
+            "hu": "Parkoljon a Glain parkolóházban, és használja az ingyenes buszt.",
+            "ro": "Parcați în parcarea Glain și luați naveta gratuită.",
+            "en": "Park at Glain parking and take the free shuttle bus."
+          }
+        },
+        {
+          "name": "Chambre d'Amour (Anglet)",
+          "coords": [
+            -1.5325,
+            43.4985
+          ],
+          "category": "beach",
+          "arrive_at": "11:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Strand direkt vor den Toren Bayonnes.",
+            "hu": "Gyönyörű strand közvetlenül Bayonne kapujában.",
+            "ro": "Plajă superbă chiar la porțile orașului Bayonne.",
+            "en": "Beautiful beach right at the gateway to Bayonne."
+          }
+        },
+        {
+          "name": "Phare de Biarritz",
+          "coords": [
+            -1.5512,
+            43.4938
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Vom Leuchtturm hat man den besten Blick auf die baskische Küste.",
+            "hu": "A világítótoronyból nyílik a legjobb kilátás a baszk partvidékre.",
+            "ro": "De la far aveți cea mai bună vedere asupra coastei basce.",
+            "en": "The lighthouse offers the best view of the Basque coast."
+          }
+        },
+        {
+          "name": "Rocher de la Vierge (Biarritz)",
+          "coords": [
+            -1.5685,
+            43.4835
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen auf einem Felsen im Meer, über eine Eiffel-Brücke erreichbar.",
+            "hu": "Egy jelkép a tengerben lévő sziklán, egy Eiffel-hídon keresztül érhető el.",
+            "ro": "Un simbol pe o stâncă în mare, accesibil printr-un pod construit de Eiffel.",
+            "en": "A landmark on a rock in the sea, accessible via an Eiffel-designed bridge."
+          }
+        },
+        {
+          "name": "Petit Bayonne (Dîner)",
+          "coords": [
+            -1.4725,
+            43.4912
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Abends herrscht hier die beste Atmosphäre für Tapas und Wein.",
+            "hu": "Este itt van a legjobb hangulat a tapasozáshoz és borozáshoz.",
+            "ro": "Seara, aici este cea mai bună atmosferă pentru tapas și vin.",
+            "en": "In the evening, this area has the best atmosphere for tapas and wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das historische Bayonne mit der wilden Atlantikküste. Nach einem Vormittag in der Altstadt fahren Sie zu den Stränden von Anglet für eine ausgiebige Meerespause. Der Nachmittag führt Sie zum Leuchtturm und dem berühmten Jungfrauenfelsen in Biarritz. Zum Abschluss kehren Sie für ein typisches Abendessen nach Bayonne zurück.",
+        "hu": "Autóval összekötheti a történelmi Bayonne-t a vad Atlanti-parttal. Az óvárosi délelőtt után hajtson Anglet strandjaihoz egy kiadós tengerparti pihenőre. A délután a biarritzi világítótoronyhoz és a híres Szűzanya-sziklához vezet. Végül térjen vissza Bayonne-ba egy tipikus vacsorára.",
+        "ro": "Cu mașina, combinați Bayonne-ul istoric cu coasta sălbatică a Atlanticului. După o dimineață în centrul vechi, conduceți spre plajele din Anglet pentru o pauză lungă la mare. După-amiaza vă duce la farul și faimoasa Stâncă a Fecioarei din Biarritz. La final, reveniți în Bayonne pentru o cină tipică.",
+        "en": "By car, combine historic Bayonne with the wild Atlantic coast. After a morning in the old town, drive to the beaches of Anglet for an extended seaside break. The afternoon leads you to the lighthouse and the famous Virgin's Rock in Biarritz. To finish, return to Bayonne for a typical dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Chistera",
+            "tip": "Legendäres Restaurant für baskische Spezialitäten."
+          },
+          {
+            "name": "Kostaldea (Anglet)",
+            "tip": "Tapas mit Blick auf den Ozean."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Chistera",
+            "tip": "Legendás étterem baszk specialitásokkal."
+          },
+          {
+            "name": "Kostaldea (Anglet)",
+            "tip": "Tapas kilátással az óceánra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Chistera",
+            "tip": "Restaurant legendar pentru specialități basce."
+          },
+          {
+            "name": "Kostaldea (Anglet)",
+            "tip": "Tapas cu vedere la ocean."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Chistera",
+            "tip": "Legendary restaurant for Basque specialties."
+          },
+          {
+            "name": "Kostaldea (Anglet)",
+            "tip": "Tapas with an ocean view."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phare de Biarritz",
+            "tip": "Sonnenuntergang über dem Atlantik.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac de Chiberta",
+            "tip": "Ruhiger See im Pinienwald.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Phare de Biarritz",
+            "tip": "Naplemente az Atlanti-óceán felett.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac de Chiberta",
+            "tip": "Csendes tó a fenyőerdőben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Biarritz",
+            "tip": "Apus de soare peste Atlantic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lac de Chiberta",
+            "tip": "Lac liniștit în pădurea de pini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Biarritz Lighthouse",
+            "tip": "Sunset over the Atlantic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Chiberta Lake",
+            "tip": "Quiet lake in the pine forest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "BAB2 Shopping Center",
+            "tip": "Großes Einkaufszentrum zwischen Bayonne und Anglet."
+          },
+          {
+            "name": "Jean-Vier",
+            "tip": "Hochwertige baskische Leinenstoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "BAB2 Shopping Center",
+            "tip": "Nagy bevásárlóközpont Bayonne és Anglet között."
+          },
+          {
+            "name": "Jean-Vier",
+            "tip": "Kiváló minőségű baszk vászonanyagok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "BAB2 Shopping Center",
+            "tip": "Centru comercial mare între Bayonne și Anglet."
+          },
+          {
+            "name": "Jean-Vier",
+            "tip": "Țesături de in basce de înaltă calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "BAB2 Shopping Center",
+            "tip": "Large shopping mall between Bayonne and Anglet."
+          },
+          {
+            "name": "Jean-Vier",
+            "tip": "High-quality Basque linens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum von Bayonne ist schwierig, nutzen Sie die P+R Parkplätze.",
+          "Die Küstenstraße nach Biarritz ist mittags oft stauanfällig.",
+          "Achten Sie auf die Surfer in Anglet – ein tolles Schauspiel.",
+          "In Frankreich ist das Parken an Sonn- und Feiertagen oft kostenlos."
+        ],
+        "hu": [
+          "A parkolás Bayonne központjában nehéz, használja a P+R parkolókat.",
+          "A Biarritz felé vezető parti út délben gyakran forgalmas.",
+          "Figyelje a szörfösöket Angletben – remek látvány.",
+          "Franciaországban a parkolás vasárnap és ünnepnapokon gyakran ingyenes."
+        ],
+        "ro": [
+          "Parcarea în centrul Bayonne este dificilă, folosiți parcările P+R.",
+          "Drumul de coastă spre Biarritz este adesea aglomerat la prânz.",
+          "Urmăriți surferii în Anglet – un spectacol grozav.",
+          "În Franța, parcarea este adesea gratuită duminica și de sărbătorile legale."
+        ],
+        "en": [
+          "Parking in central Bayonne is difficult; use the P+R car parks.",
+          "The coastal road to Biarritz is often congested at midday.",
+          "Watch the surfers in Anglet – it's a great spectacle.",
+          "In France, parking is often free on Sundays and public holidays."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Arènes de Bayonne",
+          "coords": [
+            -1.4875,
+            43.4932
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Stierkampfarena im neomaurischen Stil ist ein architektonisches Highlight.",
+            "hu": "A neomór stílusú bikaviadal-aréna építészeti különlegesség.",
+            "ro": "Arena de lupte cu tauri în stil neomaur este un punct forte arhitectural.",
+            "en": "The Neo-Moorish style bullring is an architectural highlight."
+          }
+        },
+        {
+          "name": "Mairie de Bayonne",
+          "coords": [
+            -1.4745,
+            43.4935
+          ],
+          "category": "square",
+          "arrive_at": "10:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Zentraler Umsteigepunkt der Buslinien direkt am Rathaus.",
+            "hu": "A buszvonalak központi átszállóhelye közvetlenül a városháza mellett.",
+            "ro": "Punct central de transfer pentru liniile de autobuz, chiar lângă primărie.",
+            "en": "Central transfer point for bus lines right by the town hall."
+          }
+        },
+        {
+          "name": "Musée Bonnat-Helleu",
+          "coords": [
+            -1.4718,
+            43.4918
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein bedeutendes Kunstmuseum mit Werken von Rubens bis Degas.",
+            "hu": "Jelentős művészeti múzeum Rubenstől Degas-ig terjedő művekkel.",
+            "ro": "Un muzeu de artă important cu lucrări de la Rubens la Degas.",
+            "en": "A significant art museum with works ranging from Rubens to Degas."
+          }
+        },
+        {
+          "name": "Grand Bayonne Shopping",
+          "coords": [
+            -1.4765,
+            43.4912
+          ],
+          "category": "shopping",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Mittagspause für lokales Shopping in der Fußgängerzone.",
+            "hu": "Használja ki a déli szünetet helyi vásárlásra a sétálóutcában.",
+            "ro": "Profitați de pauza de prânz pentru cumpărături locale în zona pietonală.",
+            "en": "Use the midday break for local shopping in the pedestrian zone."
+          }
+        },
+        {
+          "name": "Saint-Esprit Viaduct",
+          "coords": [
+            -1.4705,
+            43.4942
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Adour für den besten Blick auf die Stadtsilhouette.",
+            "hu": "Keljen át az Adour folyón a legjobb kilátásért a város sziluettjére.",
+            "ro": "Traversați râul Adour pentru cea mai bună vedere asupra siluetei orașului.",
+            "en": "Cross the Adour river for the best view of the city skyline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem modernen Bussystem 'Tram'Bus' erreichen Sie mühelos die Arena im Westen. Danach kehren Sie zum Rathaus zurück, um die Kunstsammlungen des Musée Bonnat-Helleu zu bewundern. Der Nachmittag steht im Zeichen des Shoppings im Grand Bayonne, bevor Sie den Tag mit einem Spaziergang über das Saint-Esprit-Viadukt beenden.",
+        "hu": "A modern 'Tram'Bus' rendszerrel könnyen elérheti a nyugati arénát. Ezután térjen vissza a városházához, hogy megcsodálja a Musée Bonnat-Helleu művészeti gyűjteményeit. A délután a vásárlásé a Grand Bayonne negyedben, majd zárja a napot egy sétával a Saint-Esprit viadukton.",
+        "ro": "Cu sistemul modern 'Tram'Bus', ajungeți fără efort la arena din vest. Apoi reveniți la primărie pentru a admira colecțiile de artă de la Musée Bonnat-Helleu. După-amiaza este dedicată cumpărăturilor în Grand Bayonne, înainte de a încheia ziua cu o plimbare pe viaductul Saint-Esprit.",
+        "en": "With the modern 'Tram'Bus' system, easily reach the bullring in the west. Then return to the town hall to admire the art collections of the Musée Bonnat-Helleu. The afternoon is dedicated to shopping in Grand Bayonne, before ending the day with a walk across the Saint-Esprit viaduct."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Bistrot Sainte Cluche",
+            "tip": "Beliebtes Bistro bei Einheimischen."
+          },
+          {
+            "name": "Patisserie Lionel Raux",
+            "tip": "Hervorragendes Gebäck und baskische Kuchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Bistrot Sainte Cluche",
+            "tip": "A helyiek körében népszerű bisztró."
+          },
+          {
+            "name": "Patisserie Lionel Raux",
+            "tip": "Kiváló sütemények és baszk torták."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Bistrot Sainte Cluche",
+            "tip": "Bistrou popular printre localnici."
+          },
+          {
+            "name": "Patisserie Lionel Raux",
+            "tip": "Patiserie excelentă și prăjituri basce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Bistrot Sainte Cluche",
+            "tip": "A bistro popular with the locals."
+          },
+          {
+            "name": "Patisserie Lionel Raux",
+            "tip": "Excellent pastries and Basque cakes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Square Lormand",
+            "tip": "Ein kleiner Park mitten im Zentrum.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de Lesseps",
+            "tip": "Ruhiger Spaziergang auf der rechten Adourseite.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Square Lormand",
+            "tip": "Egy kis park a központ közepén.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de Lesseps",
+            "tip": "Csendes séta az Adour jobb partján.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Square Lormand",
+            "tip": "Un mic parc chiar în centru.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de Lesseps",
+            "tip": "Plimbare liniștită pe malul drept al râului Adour.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square Lormand",
+            "tip": "A small park right in the center.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Quai de Lesseps",
+            "tip": "Quiet walk on the right bank of the Adour.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue d'Espagne",
+            "tip": "Viele kleine Handwerksläden und Boutiquen."
+          },
+          {
+            "name": "Chocolat Daranatz",
+            "tip": "Historischer Schokoladenladen seit 1890."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue d'Espagne",
+            "tip": "Sok kis kézműves bolt és butik."
+          },
+          {
+            "name": "Chocolat Daranatz",
+            "tip": "Történelmi csokoládébolt 1890 óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue d'Espagne",
+            "tip": "Multe magazine de artizanat și buticuri mici."
+          },
+          {
+            "name": "Chocolat Daranatz",
+            "tip": "Ciocolaterie istorică din 1890."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue d'Espagne",
+            "tip": "Many small craft shops and boutiques."
+          },
+          {
+            "name": "Chocolat Daranatz",
+            "tip": "Historic chocolate shop since 1890."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das 'Tram'Bus' (Linien T1 und T2) ist sehr effizient und elektrisch.",
+          "Kaufen Sie ein Tagesticket für die gesamte Region 'Chronoplus'.",
+          "Die kostenlose E-Navette (Shuttle) fährt kreisförmig durch die Altstadt.",
+          "Abends fahren die Busse seltener, prüfen Sie die Fahrpläne online."
+        ],
+        "hu": [
+          "A 'Tram'Bus' (T1 és T2 vonal) nagyon hatékony és elektromos.",
+          "Vásároljon napijegyet a teljes 'Chronoplus' régióra.",
+          "Az ingyenes elektromos ingajárat (Navette) körjáratban közlekedik az óvárosban.",
+          "Este a buszok ritkábban járnak, ellenőrizze a menetrendet online."
+        ],
+        "ro": [
+          "Sistemul 'Tram'Bus' (liniile T1 și T2) este foarte eficient și electric.",
+          "Cumpărați un bilet de o zi pentru întreaga regiune 'Chronoplus'.",
+          "Naveta electrică gratuită circulă circular prin centrul vechi.",
+          "Seara, autobuzele circulă mai rar, verificați orarele online."
+        ],
+        "en": [
+          "The 'Tram'Bus' (lines T1 and T2) is very efficient and electric.",
+          "Buy a day ticket for the entire 'Chronoplus' region.",
+          "The free electric shuttle (Navette) runs in a circle through the old town.",
+          "In the evening, buses run less frequently; check the schedules online."
+        ]
+      }
+    }
+  }
+}

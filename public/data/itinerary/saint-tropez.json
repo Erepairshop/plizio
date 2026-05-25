@@ -1,0 +1,1100 @@
+{
+  "city_id": "saint-tropez",
+  "anchor": {
+    "name": "Saint-Tropez Port",
+    "coords": [
+      6.6406,
+      43.2675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Port",
+            "hu": "Vieux Port - Régi kikötő",
+            "ro": "Vieux Port",
+            "en": "Vieux Port"
+          },
+          "coords": [
+            6.6385,
+            43.2715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee am Hafen, bevor der große Ansturm kommt.",
+            "hu": "Igyon meg egy kávét a kikötőben, mielőtt megérkezik a tömeg.",
+            "ro": "Savurați o cafea în port înainte să apară aglomerația.",
+            "en": "Have a coffee by the harbor before the main crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'Annonciade",
+            "hu": "Musée de l'Annonciade",
+            "ro": "Musée de l'Annonciade",
+            "en": "Musée de l'Annonciade"
+          },
+          "coords": [
+            6.6378,
+            43.2711
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Meisterwerke des Pointillismus und Fauvismus.",
+            "hu": "Fedezze fel a pointillizmus és a fauvizmus remekműveit.",
+            "ro": "Descoperiți capodopere ale pointillismului și fauvismului.",
+            "en": "Discover masterpieces of Pointillism and Fauvism."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Szeplőtelen Fogantatás templom",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            6.6402,
+            43.2718
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonische ockergelbe Fassade und den Glockenturm.",
+            "hu": "Csodálja meg az ikonikus okkersárga homlokzatot és a harangtornyot.",
+            "ro": "Admirați fațada iconică ocru și clopotnița.",
+            "en": "Admire the iconic ochre-yellow facade and bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Saint-Tropez",
+            "hu": "Szent Tropez-i Citadella",
+            "ro": "Citadela din Saint-Tropez",
+            "en": "Citadel of Saint-Tropez"
+          },
+          "coords": [
+            6.644,
+            43.2725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Panoramablick über die Bucht ist von hier oben am besten.",
+            "hu": "A panoráma az öbölre innen a legszebb.",
+            "ro": "Panorama asupra golfului este cea mai frumoasă de aici de sus.",
+            "en": "The panoramic view over the bay is best from up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Lices",
+            "hu": "Place des Lices",
+            "ro": "Place des Lices",
+            "en": "Place des Lices"
+          },
+          "coords": [
+            6.64,
+            43.27
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Einheimischen beim Boule-Spiel unter Platanen.",
+            "hu": "Figyelje meg a helyieket pétanque-ozás közben a platánok alatt.",
+            "ro": "Observați localnicii jucând petanque sub platani.",
+            "en": "Watch the locals playing boules under the plane trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Gendarmerie & Kino Museum",
+            "hu": "Csendőrség és Mozi Múzeum",
+            "ro": "Muzeul Jandarmeriei și al Cinematografiei",
+            "en": "Gendarmerie & Cinema Museum"
+          },
+          "coords": [
+            6.635,
+            43.2705
+          ],
+          "category": "museums",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Fans von Louis de Funès und Brigitte Bardot.",
+            "hu": "Kihagyhatatlan Louis de Funès és Brigitte Bardot rajongóinak.",
+            "ro": "Obligatoriu pentru fanii lui Louis de Funès și Brigitte Bardot.",
+            "en": "A must for fans of Louis de Funès and Brigitte Bardot."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Saint-Tropez",
+            "hu": "Szent Tropez-i világítótorony",
+            "ro": "Farul din Saint-Tropez",
+            "en": "Saint-Tropez Lighthouse"
+          },
+          "coords": [
+            6.6365,
+            43.2745
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos vom Hafen bei Sonnenuntergang.",
+            "hu": "Tökéletes hely fotózni a kikötőt naplementekor.",
+            "ro": "Loc perfect pentru fotografii cu portul la apus.",
+            "en": "Perfect spot for photos of the harbor at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am Vieux Port, wo luxuriöse Yachten auf Fischerboote treffen. Nach einem Besuch im Annonciade-Museum schlendern Sie durch die Gassen zur markanten ockergelben Kirche.\n\nMittags erklimmen Sie die Zitadelle für einen atemberaubenden Blick über die Côte d'Azur. Es ist der perfekte Ort, um die Geschichte der Verteidigung der Stadt zu verstehen.\n\nDer Nachmittag gehört der Place des Lices, dem lebendigen Herzen des Dorfes, gefolgt von einer nostalgischen Tour durch das Gendarmerie-Museum, das den berühmten Filmen gewidmet ist.\n\nZum Ausklang spazieren Sie zur Mole und dem Leuchtturm, um das goldene Licht auf dem Wasser zu genießen, bevor Sie in eines der exzellenten Restaurants am Hafen einkehren.",
+        "hu": "Reggelét kezdje a Vieux Port-ban, ahol a luxusjachtok és a halászhajók találkoznak. Az Annonciade Múzeum megtekintése után sétáljon át a hangulatos utcákon az ikonikus okkersárga templomhoz.\n\nDélben másszon fel a Citadellához, ahonnan lélegzetelállító kilátás nyílik a Côte d'Azur-re. Ez a legjobb hely, hogy megértse a város védelmi múltját.\n\nA délután a Place des Lices-é, a falu lüktető szívéé, majd tegyen egy nosztalgikus túrát a Csendőrség Múzeumban, amelyet a híres filmeknek szenteltek.\n\nBefejezésül sétáljon el a gáthoz és a világítótoronyhoz, hogy élvezze az arany fényeket a vízen, mielőtt beülne egy kiváló kikötői étterembe.",
+        "ro": "Dimineața începe la Vieux Port, unde iahturile de lux se întâlnesc cu bărcile de pescuit. După o vizită la Muzeul Annonciade, plimbați-vă prin străduțele înguste până la biserica ocru iconică.\n\nLa prânz, urcați la Citadelă pentru o vedere uluitoare asupra Côte d'Azur. Este locul perfect pentru a înțelege istoria defensivă a orașului.\n\nDupă-amiaza aparține de Place des Lices, inima vibrantă a satului, urmată de un tur nostalgic prin Muzeul Jandarmeriei, dedicat celebrelor filme.\n\nLa final, plimbați-vă până la dig și far pentru a vă bucura de lumina aurie pe apă, înainte de a lua cina la unul dintre restaurantele excelente din port.",
+        "en": "Your morning starts at the Vieux Port, where luxury yachts meet fishing boats. After visiting the Annonciade Museum, stroll through narrow alleys to the iconic ochre-yellow church.\n\nAt midday, climb to the Citadel for a breathtaking view over the Côte d'Azur. It is the perfect spot to understand the town's defensive history.\n\nAfternoon belongs to Place des Lices, the vibrant heart of the village, followed by a nostalgic tour through the Gendarmerie Museum, dedicated to the famous films.\n\nTo wrap up, walk to the pier and the lighthouse to enjoy the golden light on the water before heading to one of the excellent harbor restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Tarte Tropézienne",
+            "tip": "Die berühmte Creme-Torte, erfunden von Alexandre Micka."
+          },
+          {
+            "name": "Le Girelier",
+            "tip": "Frische Meeresfrüchte und Bouillabaisse direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Tarte Tropézienne",
+            "tip": "A híres krémes sütemény, melyet Alexandre Micka alkotott meg."
+          },
+          {
+            "name": "Le Girelier",
+            "tip": "Friss tenger gyümölcsei és bouillabaisse közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Tarte Tropézienne",
+            "tip": "Celebrul desert cu cremă, inventat de Alexandre Micka."
+          },
+          {
+            "name": "Le Girelier",
+            "tip": "Fructe de mare proaspete și bouillabaisse direct în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Tarte Tropézienne",
+            "tip": "The famous cream-filled pastry, invented by Alexandre Micka."
+          },
+          {
+            "name": "Le Girelier",
+            "tip": "Fresh seafood and bouillabaisse right on the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Ruhiger Küstenpfad abseits der Yachten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapelle Sainte-Anne",
+            "tip": "Friedliche Kapelle auf dem Hügel mit Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Csendes part menti ösvény távol a jachtoktól.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapelle Sainte-Anne",
+            "tip": "Békés kápolna a dombtetőn, szép kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Traseu de coastă liniștit, departe de iahturi.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapelle Sainte-Anne",
+            "tip": "Capelă liniștită pe deal, cu o priveliște superbă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sentier du Littoral",
+            "tip": "Quiet coastal path away from the yachts.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Chapelle Sainte-Anne",
+            "tip": "Peaceful chapel on the hill with a view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marche de Place des Lices",
+            "tip": "Markt am Di & Sa (Mode, Antiquitäten, Olivenöl)."
+          },
+          {
+            "name": "Rondini",
+            "tip": "Die echten, handgefertigten Saint-Tropez Sandalen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marche de Place des Lices",
+            "tip": "Piac Kedd & Szo (divat, régiségek, olívaolaj)."
+          },
+          {
+            "name": "Rondini",
+            "tip": "Az eredeti, kézzel készült Saint-Tropez szandálok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marche de Place des Lices",
+            "tip": "Piață în Ma & Sâ (modă, antichități, ulei de măsline)."
+          },
+          {
+            "name": "Rondini",
+            "tip": "Adevăratele sandale Saint-Tropez lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marche de Place des Lices",
+            "tip": "Market on Tue & Sat (fashion, antiques, olive oil)."
+          },
+          {
+            "name": "Rondini",
+            "tip": "The real, handmade Saint-Tropez sandals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Besuchen Sie den Markt am frühen Dienstagmorgen.",
+          "Die Zitadelle bietet den besten Schatten an heißen Tagen.",
+          "Reservieren Sie Restaurants am Hafen unbedingt im Voraus."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogassa meg a piacot korán kedd reggel.",
+          "A Citadella nyújtja a legjobb árnyékot a forró napokon.",
+          "A kikötői éttermekbe mindenképpen foglaljon előre asztalt."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru străzile pietruite.",
+          "Vizitați piața devreme marți dimineața.",
+          "Citadela oferă cea mai bună umbră în zilele toride.",
+          "Rezervați mesele la restaurantele din port neapărat în avans."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the market early on Tuesday mornings.",
+          "The Citadel offers the best shade on hot days.",
+          "Make sure to book harbor restaurants well in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Port",
+            "hu": "Régi kikötő",
+            "ro": "Vieux Port",
+            "en": "Vieux Port"
+          },
+          "coords": [
+            6.6385,
+            43.2715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Start am Hafen.",
+            "hu": "Kezdés a kikötőben.",
+            "ro": "Start în port.",
+            "en": "Start at the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle",
+            "hu": "Citadella",
+            "ro": "Citadela",
+            "en": "Citadel"
+          },
+          "coords": [
+            6.644,
+            43.2725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Anstieg.",
+            "hu": "Rövid emelkedő.",
+            "ro": "Urcare scurtă.",
+            "en": "Short climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Szent Anna kápolna",
+            "ro": "Chapelle Sainte-Anne",
+            "en": "Sainte-Anne Chapel"
+          },
+          "coords": [
+            6.637,
+            43.257
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blick über die Weinberge.",
+            "hu": "Kilátás a szőlőültetvényekre.",
+            "ro": "Vedere peste podgorii.",
+            "en": "View over the vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pampelonne",
+            "hu": "Pampelonne strand",
+            "ro": "Plaja Pampelonne",
+            "en": "Pampelonne Beach"
+          },
+          "coords": [
+            6.663,
+            43.22
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:44",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Baden und Mittagspause.",
+            "hu": "Fürdés és ebédszünet.",
+            "ro": "Baie și pauză de prânz.",
+            "en": "Swimming and lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Lices",
+            "hu": "Place des Lices",
+            "ro": "Place des Lices",
+            "en": "Place des Lices"
+          },
+          "coords": [
+            6.64,
+            43.27
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum.",
+            "hu": "Visszatérés a központba.",
+            "ro": "Revenire în centru.",
+            "en": "Return to center."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Saint-Tropez",
+            "hu": "Világítótorony",
+            "ro": "Farul",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            6.6365,
+            43.2745
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss am Meer.",
+            "hu": "Zárás a tengerparton.",
+            "ro": "Final pe malul mării.",
+            "en": "Closing by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Saint-Tropez und seine Umgebung mit dem Fahrrad. Starten Sie im Hafen und radeln Sie zur Zitadelle.\n\nFahren Sie hinauf zur Chapelle Sainte-Anne für einen weiten Blick, bevor Sie zur berühmten Plage de Pampelonne hinunterrollen.\n\nGenießen Sie den Nachmittag am Strand und radeln Sie dann entspannt durch die Weinberge zurück ins Dorf.\n\nBeenden Sie Ihre Tour am Leuchtturm, wenn die Sonne tiefer steht und die Bucht in goldenes Licht taucht.",
+        "hu": "Fedezze fel Saint-Tropez-t és környékét kerékpárral. Kezdjen a kikötőben, majd tekerjen fel a Citadellához.\n\nIrány a Szent Anna kápolna a dombtetőn, ahonnan pazar a kilátás, majd guruljon le a híres Pampelonne strandra.\n\nÉlvezze a délutánt a tengerparton, majd tekerjen vissza kényelmesen a szőlőültetvények között a faluba.\n\nZárja a túrát a világítótoronynál, amikor a nap már alacsonyabban jár és aranyba vonja az öblöt.",
+        "ro": "Explorați Saint-Tropez și împrejurimile sale cu bicicleta. Începeți din port și pedalați până la Citadelă.\n\nMergeți până la Capela Sainte-Anne pentru o vedere panoramică, înainte de a coborî spre celebra plajă Pampelonne.\n\nBucurați-vă de după-amiază pe plajă și apoi pedalați relaxat înapoi în sat prin podgorii.\n\nÎncheiați turul la far, când soarele coboară și scaldă golful în lumină aurie.",
+        "en": "Explore Saint-Tropez and its surroundings by bike. Start at the harbor and cycle up to the Citadel.\n\nHead up to Chapelle Sainte-Anne for wide views before rolling down to the famous Pampelonne Beach.\n\nEnjoy the afternoon at the beach and then cycle back relaxed through the vineyards to the village.\n\nFinish your tour at the lighthouse as the sun dips lower and bathes the bay in golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Club 55",
+            "tip": "Legendärer Beach Club an der Plage de Pampelonne."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Club 55",
+            "tip": "Legendás beach club a Pampelonne strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Club 55",
+            "tip": "Legendat beach club pe plaja Pampelonne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Club 55",
+            "tip": "Legendary beach club on Pampelonne Beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Ramatuelle",
+            "tip": "Ruhige Radwege durch die Reben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ramatuelle szőlői",
+            "tip": "Csendes kerékpárutak a tőkék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Ramatuelle",
+            "tip": "Trasee de bicicletă liniștite prin vii.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards of Ramatuelle",
+            "tip": "Quiet bike paths through the vines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Epicerie du Port",
+            "tip": "Lokale Delikatessen für ein Picknick am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Epicerie du Port",
+            "tip": "Helyi finomságok egy tengerparti piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Epicerie du Port",
+            "tip": "Delicii locale pentru un picnic pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Epicerie du Port",
+            "tip": "Local delicacies for a beach picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für den Anstieg zur Kapelle.",
+          "Vermeiden Sie die Hauptstraßen zur Mittagszeit.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a kápolnához való feljutáshoz.",
+          "Kerülje a főutakat a déli csúcsforgalomban.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru urcarea la capelă.",
+          "Evitați drumurile principale la ora prânzului.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Rent an e-bike for the climb to the chapel.",
+          "Avoid main roads during midday peak traffic.",
+          "Carry plenty of water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 22.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Port",
+            "hu": "Vieux Port",
+            "ro": "Vieux Port",
+            "en": "Vieux Port"
+          },
+          "coords": [
+            6.6385,
+            43.2715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Früh parken am Place des Lices.",
+            "hu": "Parkoljon le korán a Place des Lices-nél.",
+            "ro": "Parcați devreme la Place des Lices.",
+            "en": "Park early at Place des Lices."
+          }
+        },
+        {
+          "name": {
+            "de": "Gendarmerie Museum",
+            "hu": "Csendőrség Múzeum",
+            "ro": "Muzeul Jandarmeriei",
+            "en": "Gendarmerie Museum"
+          },
+          "coords": [
+            6.635,
+            43.2705
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kinogeschichte pur.",
+            "hu": "Tiszta mozitörténelem.",
+            "ro": "Istorie pură a cinematografiei.",
+            "en": "Pure cinema history."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne",
+            "hu": "Szent Anna kápolna",
+            "ro": "Capela Sf. Ana",
+            "en": "Sainte-Anne Chapel"
+          },
+          "coords": [
+            6.637,
+            43.257
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Einfache Anfahrt mit dem Auto.",
+            "hu": "Könnyen megközelíthető autóval.",
+            "ro": "Acces ușor cu mașina.",
+            "en": "Easy access by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramatuelle (Dorf)",
+            "hu": "Ramatuelle (falu)",
+            "ro": "Ramatuelle (sat)",
+            "en": "Ramatuelle (village)"
+          },
+          "coords": [
+            6.611,
+            43.2155
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Mittelalterliches Dorf nahebei.",
+            "hu": "Közeli középkori falu.",
+            "ro": "Sat medieval în apropiere.",
+            "en": "Nearby medieval village."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pampelonne",
+            "hu": "Pampelonne strand",
+            "ro": "Plaja Pampelonne",
+            "en": "Pampelonne Beach"
+          },
+          "coords": [
+            6.663,
+            43.22
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Große Parkplätze vorhanden.",
+            "hu": "Nagy parkolók állnak rendelkezésre.",
+            "ro": "Parcări mari disponibile.",
+            "en": "Large parking lots available."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Saint-Tropez",
+            "hu": "Szent Tropez-i Citadella",
+            "ro": "Citadela din Saint-Tropez",
+            "en": "Citadel of Saint-Tropez"
+          },
+          "coords": [
+            6.644,
+            43.2725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Sonnenuntergang über der Bucht.",
+            "hu": "Naplemente az öböl felett.",
+            "ro": "Apus peste golf.",
+            "en": "Sunset over the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die versteckten Juwelen um Saint-Tropez. Beginnen Sie im Zentrum und besuchen Sie das Gendarmerie-Museum.\n\nFahren Sie hinauf zur Chapelle Sainte-Anne und dann weiter in das malerische Bergdorf Ramatuelle für ein entspanntes Mittagessen.\n\nDen Nachmittag verbringen Sie am weitläufigen Strand von Pampelonne, der mit dem Auto leicht erreichbar ist.\n\nKehren Sie zum Abendessen nach Saint-Tropez zurück und genießen Sie den Sonnenuntergang an der Zitadelle, bevor Sie die Stadt verlassen.",
+        "hu": "Autóval Saint-Tropez rejtettebb kincseit is elérheti. Kezdjen a központban a Csendőrség Múzeummal.\n\nHajtson fel a Szent Anna kápolnához, majd tovább a festői Ramatuelle hegyi falujába egy kellemes ebédre.\n\nA délutánt töltse a tágas Pampelonne strandon, amely autóval könnyen megközelíthető.\n\nEstére térjen vissza Saint-Tropez-ba, és élvezze a naplementét a Citadellánál, mielőtt befejezné a napot.",
+        "ro": "Cu mașina puteți ajunge și la bijuteriile ascunse din jurul Saint-Tropez. Începeți în centru cu Muzeul Jandarmeriei.\n\nUrcați la Capela Sainte-Anne și apoi continuați spre satul pitoresc de munte Ramatuelle pentru un prânz relaxat.\n\nPetreceți după-amiaza pe plaja extinsă Pampelonne, ușor accesibilă cu mașina.\n\nReveniți în Saint-Tropez pentru cină și bucurați-vă de apus la Citadelă înainte de a părăsi orașul.",
+        "en": "By car, you can also reach the hidden gems around Saint-Tropez. Start in the center visiting the Gendarmerie Museum.\n\nDrive up to Chapelle Sainte-Anne and then further to the picturesque hill village of Ramatuelle for a relaxed lunch.\n\nSpend the afternoon at the expansive Pampelonne Beach, easily reachable by car.\n\nReturn to Saint-Tropez for the evening and enjoy the sunset at the Citadel before heading out."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Auberge de l'Oustalet",
+            "tip": "Traditionelle provenzalische Küche in Ramatuelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Auberge de l'Oustalet",
+            "tip": "Hagyományos provence-i konyha Ramatuelle-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Auberge de l'Oustalet",
+            "tip": "Bucătărie tradițională provensală în Ramatuelle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Auberge de l'Oustalet",
+            "tip": "Traditional Provençal cuisine in Ramatuelle."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Phare de Camarat",
+            "tip": "Abgelegener Leuchtturm mit wilder Natur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Phare de Camarat",
+            "tip": "Félreeső világítótorony vad természettel.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Camarat",
+            "tip": "Far izolat cu natură sălbatică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Phare de Camarat",
+            "tip": "Remote lighthouse with wild nature.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cave Cooperative de Ramatuelle",
+            "tip": "Kaufen Sie lokalen Rosé direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cave Cooperative de Ramatuelle",
+            "tip": "Vásároljon helyi rozét közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cave Cooperative de Ramatuelle",
+            "tip": "Cumpărați rosé local direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cave Cooperative de Ramatuelle",
+            "tip": "Buy local rosé directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Saint-Tropez ist im Sommer teuer und schwierig.",
+          "Nutzen Sie den Parkplatz 'Parking des Lices'.",
+          "Vermeiden Sie die D98A während der Stoßzeiten."
+        ],
+        "hu": [
+          "A parkolás Saint-Tropez-ban nyáron drága és nehéz.",
+          "Használja a 'Parking des Lices' parkolót.",
+          "Kerülje a D98A utat a csúcsidőszakokban."
+        ],
+        "ro": [
+          "Parcarea în Saint-Tropez este scumpă și dificilă vara.",
+          "Utilizați parcarea 'Parking des Lices'.",
+          "Evitați drumul D98A în orele de vârf."
+        ],
+        "en": [
+          "Parking in Saint-Tropez is expensive and difficult in summer.",
+          "Use the 'Parking des Lices' parking lot.",
+          "Avoid the D98A during peak hours."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vieux Port",
+            "hu": "Vieux Port",
+            "ro": "Vieux Port",
+            "en": "Vieux Port"
+          },
+          "coords": [
+            6.6385,
+            43.2715
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt der Fähren.",
+            "hu": "A kompok központi érkezési pontja.",
+            "ro": "Punctul central de sosire a feriboturilor.",
+            "en": "Central arrival point for ferries."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'Annonciade",
+            "hu": "Annonciade Múzeum",
+            "ro": "Musée de l'Annonciade",
+            "en": "Annonciade Museum"
+          },
+          "coords": [
+            6.6378,
+            43.2711
+          ],
+          "category": "museums",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte vom Hafen.",
+            "hu": "Pár lépésre a kikötőtől.",
+            "ro": "La doar câțiva pași de port.",
+            "en": "Just a few steps from the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Lices",
+            "hu": "Place des Lices",
+            "ro": "Place des Lices",
+            "en": "Place des Lices"
+          },
+          "coords": [
+            6.64,
+            43.27
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bus-Hub für Strandbusse.",
+            "hu": "Strandbuszok csomópontja.",
+            "ro": "Nod pentru autobuzele spre plajă.",
+            "en": "Bus hub for beach shuttles."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pampelonne",
+            "hu": "Pampelonne strand",
+            "ro": "Plaja Pampelonne",
+            "en": "Pampelonne Beach"
+          },
+          "coords": [
+            6.663,
+            43.22
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:33",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Shuttle 'Navette des Plages'.",
+            "hu": "Használja a 'Navette des Plages' járatot.",
+            "ro": "Luați naveta 'Navette des Plages'.",
+            "en": "Take the 'Navette des Plages' shuttle."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Saint-Tropez",
+            "hu": "Citadella",
+            "ro": "Citadela",
+            "en": "Citadel"
+          },
+          "coords": [
+            6.644,
+            43.2725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus zu Fuß erreichbar.",
+            "hu": "A központból gyalogosan elérhető.",
+            "ro": "Accesibilă pe jos din centru.",
+            "en": "Walkable from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die öffentlichen Verkehrsmittel und Boote in Saint-Tropez. Starten Sie am Hafen, wo viele Besucher per Fähre aus Nizza oder Cannes ankommen.\n\nNach dem Museumsbesuch nehmen Sie den Shuttle-Bus zur berühmten Plage de Pampelonne, um den Mittag entspannt am Meer zu verbringen.\n\nAm Nachmittag kehren Sie ins Dorf zurück, bummeln über den Markt an der Place des Lices und besuchen die geschichtsträchtige Zitadelle.\n\nDer Tag endet wieder am Hafen, dem perfekten Ort, um auf die nächste Fähre zu warten oder in einem Bistro zu entspannen.",
+        "hu": "Használja Saint-Tropez tömegközlekedését és hajóit. Kezdjen a kikötőben, ahová sok látogató érkezik komppal Nizzából vagy Cannes-ból.\n\nA múzeumlátogatás után szálljon fel a transzferbuszra a híres Pampelonne strandra, hogy a délutánt a tengerparton töltse.\n\nDélután térjen vissza a faluba, barangoljon a Place des Lices piacán, és látogasson el a történelmi Citadellához.\n\nA nap ismét a kikötőben ér véget, amely tökéletes hely a következő kompra várni vagy egy bisztróban lazítani.",
+        "ro": "Utilizați transportul public și ambarcațiunile în Saint-Tropez. Începeți în port, unde mulți vizitatori sosesc cu feribotul din Nisa sau Cannes.\n\nDupă vizitarea muzeului, luați autobuzul navetă către celebra plajă Pampelonne pentru a petrece amiaza relaxat la malul mării.\n\nDupă-amiaza reveniți în sat, plimbați-vă prin piața din Place des Lices și vizitați Citadela plină de istorie.\n\nZiua se încheie din nou în port, locul perfect pentru a aștepta următorul feribot sau pentru a vă relaxa la un bistro.",
+        "en": "Use Saint-Tropez's public transport and boats. Start at the harbor, where many visitors arrive by ferry from Nice or Cannes.\n\nAfter visiting the museum, take the shuttle bus to the famous Pampelonne Beach to spend midday relaxed by the sea.\n\nIn the afternoon, return to the village, stroll through the market at Place des Lices, and visit the historical Citadel.\n\nThe day ends back at the harbor, the perfect spot to wait for the next ferry or relax in a bistro."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Senequier",
+            "tip": "Das berühmte rote Café am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Senequier",
+            "tip": "A híres piros kávézó a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Senequier",
+            "tip": "Celebra cafenea roșie din port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Senequier",
+            "tip": "The famous red cafe on the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Friedhof am Meer mit schöner Aussicht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Tengerparti temető szép kilátással.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Cimitirul marin cu o vedere frumoasă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cimetière Marin",
+            "tip": "Marine cemetery with a beautiful view.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "K-Jacques",
+            "tip": "Traditionelle Sandalen-Manufaktur."
+          }
+        ],
+        "hu": [
+          {
+            "name": "K-Jacques",
+            "tip": "Hagyományos szandálmanufaktúra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "K-Jacques",
+            "tip": "Manufactură tradițională de sandale."
+          }
+        ],
+        "en": [
+          {
+            "name": "K-Jacques",
+            "tip": "Traditional sandal manufacturer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Fährtickets vorab online.",
+          "Die Navette des Plages fährt im Sommer alle 20 Min.",
+          "Laden Sie die App 'Zou!' für Buspläne."
+        ],
+        "hu": [
+          "Vásárolja meg a kompjegyet előre online.",
+          "A strandbusz nyáron 20 percenként jár.",
+          "Töltse le a 'Zou!' alkalmazást a buszmenetrendekhez."
+        ],
+        "ro": [
+          "Cumpărați biletele de feribot online în avans.",
+          "Naveta spre plajă circulă la fiecare 20 min vara.",
+          "Descărcați aplicația 'Zou!' pentru orarul autobuzelor."
+        ],
+        "en": [
+          "Buy ferry tickets online in advance.",
+          "The beach shuttle runs every 20 min in summer.",
+          "Download the 'Zou!' app for bus schedules."
+        ]
+      }
+    }
+  }
+}

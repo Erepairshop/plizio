@@ -1,0 +1,984 @@
+{
+  "city_id": "chamonix",
+  "anchor": {
+    "name": "Chamonix-Mont-Blanc",
+    "coords": [
+      6.8694,
+      45.9237
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue Balmat-Paccard",
+            "hu": "Balmat-Paccard emlékmű",
+            "ro": "Statuia Balmat-Paccard",
+            "en": "Balmat-Paccard Statue"
+          },
+          "coords": [
+            6.8688,
+            45.9232
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bester Startpunkt für Fotos mit dem Mont-Blanc im Hintergrund.",
+            "hu": "Tökéletes fotópont, háttérben a Mont-Blanc csúcsával.",
+            "ro": "Cel mai bun loc pentru poze cu vederi spre Mont-Blanc.",
+            "en": "Perfect spot for photos with Mont Blanc in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Szent Mihály templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            6.8692,
+            45.9239
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Innenausstattung dieser Bergkirche.",
+            "hu": "Csodálja meg a hegyi templom barokk belső díszítését.",
+            "ro": "Admirați interiorul baroc al acestei biserici de munte.",
+            "en": "Admire the baroque interior of this mountain church."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Alpin",
+            "hu": "Alpok Múzeum",
+            "ro": "Muzeul Alpin",
+            "en": "Alpine Museum"
+          },
+          "coords": [
+            6.8712,
+            45.9242
+          ],
+          "category": "museum",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die Erstbesteigung des Mont-Blanc.",
+            "hu": "Ismerje meg a Mont-Blanc első megmászásának történetét.",
+            "ro": "Aflați totul despre prima ascensiune pe Mont-Blanc.",
+            "en": "Learn all about the first ascent of Mont Blanc."
+          }
+        },
+        {
+          "name": {
+            "de": "Aiguille du Midi (Basisstation)",
+            "hu": "Aiguille du Midi (alsó állomás)",
+            "ro": "Aiguille du Midi (stația de bază)",
+            "en": "Aiguille du Midi (Base Station)"
+          },
+          "coords": [
+            6.8705,
+            45.9185
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kaufen Sie Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Vegyen jegyet előre, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Cumpărați bilete în avans pentru a evita cozile lungi.",
+            "en": "Buy tickets in advance to avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Mer de Glace (Bahnhof Montenvers)",
+            "hu": "Mer de Glace (Montenvers vasútállomás)",
+            "ro": "Mer de Glace (Gara Montenvers)",
+            "en": "Mer de Glace (Montenvers Station)"
+          },
+          "coords": [
+            6.8762,
+            45.9235
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Eishöhle, die jedes Jahr neu gegraben wird.",
+            "hu": "Látogassa meg a jégbarlangot, amit minden évben újra vájnak.",
+            "ro": "Vizitați peștera de gheață care este săpată din nou anual.",
+            "en": "Visit the ice cave which is re-carved every year."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen des Tals, wo die Pioniere des Alpinismus thronen. Der Vormittag gehört dem spirituellen und kulturellen Erbe: die Barockkirche und das Alpenmuseum erwarten uns. Am Nachmittag lockt die Höhe, die Welt der Seilbahnen und das ewige Eis. Der Abend klingt im Schatten des leuchtenden Mont-Blanc in einem gemütlichen lokalen Gasthaus aus.",
+        "hu": "Reggel a völgy szívében kezdünk, ahol a hegymászás úttörői tekintenek ránk. A délelőtt a spirituális és kulturális örökségé: a barokk templom és az Alpok történetét bemutató múzeum vár. Délután a magasba vágyunk, a felvonók világa és a jég birodalma tárul fel. Az este a fénylő Mont-Blanc árnyékában, egy hangulatos helyi fogadóban ér véget.",
+        "ro": "Dimineața începe în inima văii, unde statuile pionierilor alpinismului ne întâmpină. Continuăm cu moștenirea spirituală și culturală: biserica barocă și Muzeul Alpin. După-amiaza este dedicată înălțimilor, telefericelor și regatului ghețurilor eterne. Seara se încheie sub privirea masivului Mont-Blanc, savurând preparate locale într-o atmosferă montană autentică.",
+        "en": "Morning begins in the heart of the valley, greeted by the pioneers of mountaineering. The forenoon is dedicated to spiritual and cultural heritage: the Baroque church and the Alpine Museum. In the afternoon, we head for the heights, exploring cable cars and the kingdom of ice. The evening winds down in the shadow of Mont-Blanc, enjoying local specialties in a cozy alpine inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Calèche",
+            "tip": "Traditionelles Fondue in alpinem Ambiente."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Herzhafter Kartoffelauflauf mit Reblochon-Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Calèche",
+            "tip": "Tradicionális fondue alpesi környezetben."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Kiadós rakott burgonya Reblochon sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Calèche",
+            "tip": "Fondue tradițional într-un decor alpin."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Cartofi gratinați cu brânză Reblochon."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Calèche",
+            "tip": "Traditional fondue in an alpine setting."
+          },
+          {
+            "name": "Tartiflette",
+            "tip": "Hearty potato bake with Reblochon cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parc de Merlet",
+            "tip": "Wildtiere beobachten mit Panoramablick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parc de Merlet",
+            "tip": "Vadvilág megfigyelése panorámával.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc de Merlet",
+            "tip": "Observarea faunei cu vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parc de Merlet",
+            "tip": "Wildlife spotting with panoramic views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Rue du Docteur Paccard",
+            "tip": "Beste Meile für Outdoor-Ausrüstung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rue du Docteur Paccard",
+            "tip": "A legjobb hely túrafelszerelésekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rue du Docteur Paccard",
+            "tip": "Cea mai bună stradă pentru echipament montan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rue du Docteur Paccard",
+            "tip": "Best mile for outdoor gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie auch im Sommer feste Wanderschuhe.",
+          "Die Wetterbedingungen am Gipfel ändern sich extrem schnell.",
+          "Nutzen Sie die kostenlosen Shuttlebusse im Tal.",
+          "Sonnencreme ist wegen der Reflexion am Gletscher Pflicht."
+        ],
+        "hu": [
+          "Viseljen erős túracipőt még nyáron is.",
+          "Az időjárás a csúcson rendkívül gyorsan változik.",
+          "Használja az ingyenes völgyi buszjáratokat.",
+          "A naptej kötelező a gleccser fényvisszaverése miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte de drumeție solidă chiar și vara.",
+          "Vremea pe vârf se schimbă extrem de repede.",
+          "Folosiți autobuzele locale gratuite din vale.",
+          "Crema solară este obligatorie din cauza reflexiei ghețarului."
+        ],
+        "en": [
+          "Wear sturdy hiking shoes even in summer.",
+          "Weather conditions at the summit change extremely fast.",
+          "Use the free valley shuttle buses.",
+          "Sunscreen is mandatory due to glacier reflection."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chamonix Zentrum",
+            "hu": "Chamonix központ",
+            "ro": "Centrul Chamonix",
+            "en": "Chamonix Center"
+          },
+          "coords": [
+            6.8694,
+            45.9237
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie hier Ihr E-Bike für entspanntes Fahren.",
+            "hu": "Béreljen e-bike-ot a kényelmesebb haladáshoz.",
+            "ro": "Închiriați o bicicletă electrică pentru confort.",
+            "en": "Rent an e-bike here for relaxed riding."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Praz de Chamonix",
+            "hu": "Les Praz falu",
+            "ro": "Satul Les Praz",
+            "en": "Les Praz Village"
+          },
+          "coords": [
+            6.8851,
+            45.9395
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Charmantes Dorf mit Blick auf die Drus.",
+            "hu": "Bájos falu kilátással a Drus csúcsaira.",
+            "ro": "Sat fermecător cu vedere spre vârfurile Drus.",
+            "en": "Charming village with views of the Drus."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois du Bouchet",
+            "hu": "Bois du Bouchet erdő",
+            "ro": "Pădurea Bois du Bouchet",
+            "en": "Bois du Bouchet Forest"
+          },
+          "coords": [
+            6.8795,
+            45.9298
+          ],
+          "category": "forest",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Flache Wege entlang des Flusses Arve.",
+            "hu": "Lapos utak az Arve folyó mentén.",
+            "ro": "Trasee plate de-a lungul râului Arve.",
+            "en": "Flat paths along the Arve river."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Brévent (Basis)",
+            "hu": "Le Brévent (alsó állomás)",
+            "ro": "Le Brévent (bază)",
+            "en": "Le Brévent (Base)"
+          },
+          "coords": [
+            6.8612,
+            45.9245
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, nutzen Sie die Motorunterstützung.",
+            "hu": "Meredek emelkedő, használja a rásegítést.",
+            "ro": "Urcare abruptă, folosiți asistența electrică.",
+            "en": "Steep climb, use the electric assistance."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bossons Gletscherblick",
+            "hu": "Les Bossons gleccserkilátó",
+            "ro": "Vedere ghețar Les Bossons",
+            "en": "Les Bossons Glacier View"
+          },
+          "coords": [
+            6.8455,
+            45.9125
+          ],
+          "category": "natural features",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Hier stürzte 1966 ein Flugzeug ab, Reste sind sichtbar.",
+            "hu": "Itt zuhant le egy repülő 1966-ban, roncsok láthatók.",
+            "ro": "Aici s-a prăbușit un avion în 1966, resturile sunt vizibile.",
+            "en": "A plane crashed here in 1966, wreckage is visible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir die flachen Talwege und malerischen Dörfer. Wir folgen der Arve durch kühle Wälder und genießen die gewaltige Kulisse der Granitnadeln. Ein Abstecher zu den Gletscherausläufern zeigt die Kraft der Natur. Der Tag verbindet sportliche Aktivität mit unvergleichlichen Bergpanoramen.",
+        "hu": "Kerékpárral fedezzük fel a völgy sík útjait és a festői falvakat. Az Arve folyót követjük hűvös erdőkön át, élvezve a gránittűk látványát. Egy kitérő a gleccserek lábához megmutatja a természet erejét. Ez a nap ötvözi a sportot és a páratlan hegyi panorámát.",
+        "ro": "Cu bicicleta explorăm traseele plate din vale și satele pitorești. Urmăm râul Arve prin păduri răcoroase, admirând acele de granit. O abatere spre picioarele ghețarilor dezvăluie forța naturii. Ziua îmbină activitatea sportivă cu panorame montane de neegalat.",
+        "en": "By bike, we explore the flat valley paths and picturesque villages. We follow the Arve through cool forests, enjoying the massive backdrop of granite needles. A detour to the glacier snouts shows the power of nature. The day combines athletic activity with incomparable mountain panoramas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buvette du Glacier",
+            "tip": "Snack mit direktem Blick auf das Eis."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buvette du Glacier",
+            "tip": "Falatozó közvetlen kilátással a jégre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buvette du Glacier",
+            "tip": "Gustare cu vedere directă la gheață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buvette du Glacier",
+            "tip": "Snack with direct view of the ice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Lac des Gaillands",
+            "tip": "Ruhiger See ideal für eine Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lac des Gaillands",
+            "tip": "Nyugodt tó, ideális egy pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lac des Gaillands",
+            "tip": "Lac liniștit, ideal pentru o pauză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lac des Gaillands",
+            "tip": "Quiet lake ideal for a break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Local Market",
+            "tip": "Samstags lokaler Käse und Salami."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Szombatonként helyi sajtok és szalámik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Brânzeturi și salamuri locale sâmbăta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Local cheese and salami on Saturdays."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten VTT-Wege.",
+          "Helme sind in den Alpen dringend empfohlen.",
+          "E-Bikes sind für die Anstiege sehr hilfreich.",
+          "Achten Sie auf Wanderer auf geteilten Wegen."
+        ],
+        "hu": [
+          "Használja a kijelölt VTT (MTB) útvonalakat.",
+          "A bukósisak viselése erősen ajánlott az Alpokban.",
+          "Az e-bike-ok sokat segítenek az emelkedőkön.",
+          "Figyeljen a gyalogosokra a közös utakon."
+        ],
+        "ro": [
+          "Folosiți traseele marcate pentru VTT.",
+          "Căștile sunt recomandate insistent în Alpi.",
+          "Bicicletele electrice sunt utile pentru urcări.",
+          "Atenție la drumeți pe traseele comune."
+        ],
+        "en": [
+          "Use the marked VTT (MTB) paths.",
+          "Helmets are strongly recommended in the Alps.",
+          "E-bikes are very helpful for the climbs.",
+          "Watch out for hikers on shared paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue Balmat-Paccard",
+            "hu": "Balmat-Paccard emlékmű",
+            "ro": "Statuia Balmat-Paccard",
+            "en": "Balmat-Paccard Statue"
+          },
+          "coords": [
+            6.8688,
+            45.9232
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Parkhaus Place du Mont-Blanc.",
+            "hu": "Parkoljon a Place du Mont-Blanc parkolóházban.",
+            "ro": "Parcați în parcarea Place du Mont-Blanc.",
+            "en": "Park in the Place du Mont-Blanc parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "Mer de Glace (Zahnradbahn)",
+            "hu": "Mer de Glace (fogaskerekű)",
+            "ro": "Mer de Glace (tren cu cremalieră)",
+            "en": "Mer de Glace (Rack Railway)"
+          },
+          "coords": [
+            6.8762,
+            45.9235
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die rote Bahn ist eine Ikone des Tals.",
+            "hu": "A piros kisvonat a völgy egyik jelképe.",
+            "ro": "Trenul roșu este un simbol al văii.",
+            "en": "The red train is an icon of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Houches (Tramway-Start)",
+            "hu": "Les Houches (villamos start)",
+            "ro": "Les Houches (start tramvai)",
+            "en": "Les Houches (Tramway Start)"
+          },
+          "coords": [
+            6.7885,
+            45.8952
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Die höchste Zahnradbahn Frankreichs.",
+            "hu": "Franciaország legmagasabb fogaskerekű vasútja.",
+            "ro": "Cel mai înalt tren cu cremalieră din Franța.",
+            "en": "The highest rack railway in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Brévent (Aussichtspunkt)",
+            "hu": "Le Brévent kilátó",
+            "ro": "Belvedere Le Brévent",
+            "en": "Le Brévent Viewpoint"
+          },
+          "coords": [
+            6.8612,
+            45.9245
+          ],
+          "category": "natural features",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bester Frontalblick auf das Mont-Blanc-Massiv.",
+            "hu": "A legjobb szemből nyíló kilátás a Mont-Blanc-ra.",
+            "ro": "Cea mai bună vedere frontală spre masivul Mont-Blanc.",
+            "en": "Best frontal view of the Mont Blanc massif."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Gaillands",
+            "hu": "Gaillands-tó",
+            "ro": "Lacul Gaillands",
+            "en": "Lac des Gaillands"
+          },
+          "coords": [
+            6.8525,
+            45.9155
+          ],
+          "category": "lake",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um den Tag entspannt zu beenden.",
+            "hu": "Kellemes hely a nap nyugodt lezárásához.",
+            "ro": "Un loc frumos pentru a încheia ziua relaxat.",
+            "en": "A beautiful place to end the day relaxed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen wir mühelos die entlegeneren Schätze des Tals. Wir kombinieren historische Bergbahnen mit spektakulären Aussichtspunkten. Der Tag führt uns vom lebhaften Zentrum zu den ruhigen Seen der Umgebung. Die Flexibilität erlaubt es, die gewaltigen Dimensionen des Massivs aus verschiedenen Winkeln zu erleben.",
+        "hu": "Autóval könnyedén elérjük a völgy távolabbi kincseit is. A történelmi hegyi vasutakat kombináljuk látványos kilátópontokkal. A nap a nyüzsgő központtól a környék nyugodt tavaihoz vezet. A rugalmasság lehetővé teszi, hogy a masszívum hatalmas méreteit több szögből is megtapasztaljuk.",
+        "ro": "Cu mașina ajungem ușor la comorile mai îndepărtate ale văii. Combinăm trenurile montane istorice cu puncte de belvedere spectaculoase. Ziua ne poartă de la centrul plin de viață la lacurile liniștite din jur. Flexibilitatea ne permite să experimentăm dimensiunile uriașe ale masivului din unghiuri diferite.",
+        "en": "By car, we effortlessly reach the more distant treasures of the valley. We combine historic mountain railways with spectacular viewpoints. The day leads us from the lively center to the quiet lakes of the surroundings. Flexibility allows us to experience the massive dimensions of the massif from different angles."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Le Panoramique",
+            "tip": "Essen auf 1913m Höhe in Montenvers."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Le Panoramique",
+            "tip": "Étkezés 1913 méter magasan Montenvers-ben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Le Panoramique",
+            "tip": "Masă la 1913m altitudine în Montenvers."
+          }
+        ],
+        "en": [
+          {
+            "name": "Le Panoramique",
+            "tip": "Dining at 1913m altitude in Montenvers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Les Chavants",
+            "tip": "Ruhiger Picknickplatz in Les Houches.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Les Chavants",
+            "tip": "Nyugodt piknikezőhely Les Houches-ban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Les Chavants",
+            "tip": "Loc de picnic liniștit în Les Houches.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Les Chavants",
+            "tip": "Quiet picnic spot in Les Houches.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Payot Librairie",
+            "tip": "Wunderschöne Alpinismus-Bücher."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Payot könyvesbolt",
+            "tip": "Gyönyörű hegymászó könyvek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Librăria Payot",
+            "tip": "Cărți superbe despre alpinism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Payot Bookstore",
+            "tip": "Beautiful mountaineering books."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Zentrum knapp und teuer.",
+          "Nutzen Sie die Park-and-Ride-Plätze am Stadtrand.",
+          "Die Straßen im Tal sind gut ausgebaut.",
+          "Achten Sie auf die Abfahrtszeiten der Bergbahnen."
+        ],
+        "hu": [
+          "A parkolóhelyek a központban szűkösek és drágák.",
+          "Használja a város szélén található P+R parkolókat.",
+          "A völgy útjai jól kiépítettek.",
+          "Ügyeljen a hegyi vasutak indulási idejére."
+        ],
+        "ro": [
+          "Locurile de parcare în centru sunt puține și scumpe.",
+          "Folosiți parcările P+R de la marginea orașului.",
+          "Drumurile din vale sunt bine întreținute.",
+          "Atenție la orele de plecare ale trenurilor montane."
+        ],
+        "en": [
+          "Parking in the center is scarce and expensive.",
+          "Use the P+R parking lots on the outskirts of town.",
+          "The valley roads are well-developed.",
+          "Pay attention to the departure times of mountain railways."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chamonix Centre",
+            "hu": "Chamonix központ",
+            "ro": "Centrul Chamonix",
+            "en": "Chamonix Centre"
+          },
+          "coords": [
+            6.8694,
+            45.9237
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Holen Sie Ihre Carte d'Hôte für kostenlose Fahrten.",
+            "hu": "Kérje el a Carte d'Hôte kártyát az ingyen utazáshoz.",
+            "ro": "Luați cardul Carte d'Hôte pentru transport gratuit.",
+            "en": "Get your Carte d'Hôte for free transit."
+          }
+        },
+        {
+          "name": {
+            "de": "Aiguille du Midi",
+            "hu": "Aiguille du Midi",
+            "ro": "Aiguille du Midi",
+            "en": "Aiguille du Midi"
+          },
+          "coords": [
+            6.8705,
+            45.9185
+          ],
+          "category": "natural features",
+          "arrive_at": "09:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der höchste Punkt, den man per Seilbahn erreicht.",
+            "hu": "A legmagasabb pont, ami felvonóval elérhető.",
+            "ro": "Cel mai înalt punct accesibil cu telecabina.",
+            "en": "The highest point accessible by cable car."
+          }
+        },
+        {
+          "name": {
+            "de": "Mer de Glace",
+            "hu": "Mer de Glace",
+            "ro": "Mer de Glace",
+            "en": "Mer de Glace"
+          },
+          "coords": [
+            6.8762,
+            45.9235
+          ],
+          "category": "natural features",
+          "arrive_at": "12:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erreichbar mit dem Montenvers-Zug ab Bahnhof Chamonix.",
+            "hu": "A Montenvers-vonattal érhető el Chamonix állomásról.",
+            "ro": "Accesibil cu trenul Montenvers din gara Chamonix.",
+            "en": "Accessible by the Montenvers train from Chamonix station."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Blanc (Via Flégère)",
+            "hu": "Lac Blanc (Flégère-en át)",
+            "ro": "Lac Blanc (prin Flégère)",
+            "en": "Lac Blanc (Via Flégère)"
+          },
+          "coords": [
+            6.8905,
+            45.9592
+          ],
+          "category": "lake",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus nach Les Praz zur Flégère-Bahn.",
+            "hu": "Menjen busszal Les Praz-ba a Flégère-felvonóhoz.",
+            "ro": "Luați autobuzul spre Les Praz pentru telecabina Flégère.",
+            "en": "Take the bus to Les Praz for the Flégère lift."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Michel",
+            "hu": "Szent Mihály templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            6.8692,
+            45.9239
+          ],
+          "category": "churches",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang im spirituellen Zentrum.",
+            "hu": "Csendes lezárás a spirituális központban.",
+            "ro": "Un final liniștit în centrul spiritual.",
+            "en": "A quiet end in the spiritual center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank des exzellenten öffentlichen Verkehrsnetzes erleben wir die Highlights stressfrei. Der Mont-Blanc Express und die lokalen Busse bringen uns zu den berühmtesten Liften und Aussichtspunkten. Wir tauchen tief in die alpine Welt ein, ohne uns um Parkplätze sorgen zu müssen. Ein Tag voller Gipfelerlebnisse und bequemer Mobilität.",
+        "hu": "A kiváló tömegközlekedési hálózatnak köszönhetően stresszmentesen látogatjuk meg a főbb látnivalókat. A Mont-Blanc Express és a helyi buszok elvisznek a leghíresebb felvonókhoz és kilátókhoz. Mélyen elmerülünk az alpesi világban anélkül, hogy parkolás miatt aggódnánk. Csúcsélményekkel teli nap kényelmesen.",
+        "ro": "Datorită rețelei excelente de transport public, vizităm punctele de atracție fără stres. Mont-Blanc Express și autobuzele locale ne duc la cele mai faimoase telecabine și puncte de belvedere. Ne cufundăm în lumea alpină fără grija parcării. O zi plină de experiențe la înălțime și mobilitate confortabilă.",
+        "en": "Thanks to the excellent public transport network, we experience the highlights stress-free. The Mont Blanc Express and local buses take us to the most famous lifts and viewpoints. We dive deep into the alpine world without having to worry about parking. A day full of summit experiences and convenient mobility."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Chambre Neuf",
+            "tip": "Beliebtester Après-Ski Spot direkt am Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Chambre Neuf",
+            "tip": "Népszerű après-ski hely közvetlenül az állomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chambre Neuf",
+            "tip": "Loc popular de après-ski chiar lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Chambre Neuf",
+            "tip": "Popular après-ski spot right by the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vallon de Bérard",
+            "tip": "Unberührtes Naturschutzgebiet per Zug.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vallon de Bérard",
+            "tip": "Érintetlen természetvédelmi terület vonattal.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vallon de Bérard",
+            "tip": "Rezervație naturală intactă accesibilă cu trenul.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vallon de Bérard",
+            "tip": "Pristine nature reserve accessible by train.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "O'Shop",
+            "tip": "Lokale Souvenirs und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "O'Shop",
+            "tip": "Helyi szuvenírek és különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "O'Shop",
+            "tip": "Suveniruri și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "O'Shop",
+            "tip": "Local souvenirs and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Carte d'Hôte erhalten Sie bei Ihrem Gastgeber.",
+          "Laden Sie die 'Chamonix'-App für Live-Busdaten.",
+          "Züge fahren stündlich durch das gesamte Tal.",
+          "In der Hochsaison können Busse sehr voll sein."
+        ],
+        "hu": [
+          "A Carte d'Hôte kártyát a szállásadójától kapja meg.",
+          "Töltse le a 'Chamonix' appot az élő buszadatokhoz.",
+          "A vonatok óránként járnak az egész völgyben.",
+          "Főszezonban a buszok nagyon zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Obțineți cardul Carte d'Hôte de la gazdă.",
+          "Descărcați aplicația 'Chamonix' pentru date live despre autobuze.",
+          "Trenurile circulă la fiecare oră prin întreaga vale.",
+          "În plin sezon, autobuzele pot fi foarte aglomerate."
+        ],
+        "en": [
+          "Get your Carte d'Hôte from your accommodation provider.",
+          "Download the 'Chamonix' app for live bus data.",
+          "Trains run hourly through the entire valley.",
+          "In high season, buses can be very crowded."
+        ]
+      }
+    }
+  }
+}
