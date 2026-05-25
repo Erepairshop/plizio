@@ -508,9 +508,16 @@ const HU_CITY_AS_PARENT = new Set([
   "szentendre", "tihany", "pannonhalma", "holloko",
 ]);
 
+// region-* parent prefix → country (Serbian autonomous regions in serbiaPoi.ts)
+const REGION_PREFIX_TO_COUNTRY: Record<string, string> = {
+  "region-vojvodina": "serbia",
+  "region-sumadija": "serbia",
+};
+
 export function getCountryId(id: string) {
   if (!id) return "germany";
   if (HU_CITY_AS_PARENT.has(id)) return "hungary";
+  if (REGION_PREFIX_TO_COUNTRY[id]) return REGION_PREFIX_TO_COUNTRY[id];
   // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
   const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
   if (huMatch) return "hungary";
