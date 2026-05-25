@@ -564,6 +564,7 @@ import * as _src_poiExtraFinlandLifeV2 from "./poiExtraFinlandLifeV2";
 import * as _src_poiExtraFinlandNatureV2 from "./poiExtraFinlandNatureV2";
 import * as _src_poiExtraFinlandReliefV2 from "./poiExtraFinlandReliefV2";
 import * as _src_poiExtraFrV1 from "./poiExtraFrV1";
+import * as _src_poiExtraFrV2 from "./poiExtraFrV2";
 import * as _src_poiExtraFranceCities_lite from "./poiExtraFranceCities.lite";
 import * as _src_poiExtraFranceCities from "./poiExtraFranceCities";
 import * as _src_poiExtraFranceCitiesV2 from "./poiExtraFranceCitiesV2";
@@ -2321,6 +2322,7 @@ const _raw: any[] = [
   ...((_src_poiExtraFinlandNatureV2 as any).finlandNatureV2 as any[]),
   ...((_src_poiExtraFinlandReliefV2 as any).finlandReliefV2 as any[]),
   ...((_src_poiExtraFrV1 as any).poiExtraFrV1 as any[]),
+  ...((_src_poiExtraFrV2 as any).poiExtraFrV2 as any[]),
   ...((_src_poiExtraFranceCities_lite as any).poiExtraFranceCities as any[]),
   ...((_src_poiExtraFranceCities as any).poiExtraFranceCities as any[]),
   ...((_src_poiExtraFranceCitiesV2 as any).franceCitiesV2 as any[]),

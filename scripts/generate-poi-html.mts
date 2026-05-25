@@ -311,6 +311,47 @@ function isAdSenseEligible(poi: POI, lang: Lang): boolean {
 const ADSENSE_HEAD = `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9658871334491770" crossorigin="anonymous"></script>
 <meta name="google-adsense-account" content="ca-pub-9658871334491770">`;
 
+// Content richness inspector — used to hide game-CTA + eyebrow + AdSense on thin pages
+// and to mark truly empty pages noindex (kept crawlable via follow). PlizioGo POIs are
+// always considered rich.
+function pageRichness(poi: POI, lang: Lang): {
+  descChars: number; factsCount: number;
+  hasSights: boolean; hasYearly: boolean; hasNews: boolean; hasPlizioGo: boolean;
+  isWeak: boolean; isEmpty: boolean;
+} {
+  const hasPlizioGo = PLIZIOGO_SET.has(poi.id);
+  const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+  const descShort = poi.description as Record<string, string> | undefined;
+  const descChars = (descAdv?.[lang] || descShort?.[lang] || "").length;
+  const facts = (poi as { factsAdvanced?: Record<string, string[]>; facts?: Record<string, string[]> });
+  const factsCount = (facts.factsAdvanced?.[lang] || facts.facts?.[lang] || []).length;
+  const sightsByLang = (poi as { sights?: Record<string, unknown[]> }).sights;
+  const hasSights = !!(sightsByLang && Array.isArray(sightsByLang[lang]) && (sightsByLang[lang] as unknown[]).length > 0);
+  // yearly highlights + news come from external JSON; richness check via fields existing on POI side
+  // We approximate via descAdv presence + facts richness for the rendered output.
+  const hasYearly = !!(poi as { yearly_highlights?: unknown }).yearly_highlights;
+  const hasNews = !!(poi as { news_feed?: unknown }).news_feed;
+  // Weak = no PlizioGo AND short desc AND few facts AND no sights
+  const isWeak = !hasPlizioGo && descChars < 500 && factsCount < 4 && !hasSights;
+  // Empty = weak AND no yearly AND no news (truly nothing distinguishing)
+  const isEmpty = isWeak && !hasYearly && !hasNews && descChars < 250;
+  return { descChars, factsCount, hasSights, hasYearly, hasNews, hasPlizioGo, isWeak, isEmpty };
+}
+
+// Smart meta-description truncation: cut at the last sentence boundary within 160 chars
+// instead of mid-word. Avoids "Nepál " hanging-fragment shown in Google snippet.
+function smartMetaDesc(text: string, fallback: string, max = 160): string {
+  const src = (text || fallback || "").trim();
+  if (src.length <= max) return src;
+  const slice = src.slice(0, max);
+  // Prefer sentence boundary (. ! ?) within last 60 chars; fall back to last space.
+  const sentenceEnd = Math.max(slice.lastIndexOf(". "), slice.lastIndexOf("! "), slice.lastIndexOf("? "));
+  if (sentenceEnd >= max - 80) return src.slice(0, sentenceEnd + 1).trim();
+  const lastSpace = slice.lastIndexOf(" ");
+  if (lastSpace > max - 30) return src.slice(0, lastSpace).trim() + "…";
+  return slice.trim() + "…";
+}
+
 function getPoiAlternates(poi: POI): Record<string, string> {
   // FR POIs get an extra fr alternate; DE POIs get an extra tr (Turkish residents).
   const extra: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
@@ -483,7 +524,8 @@ function structuredData(
   schemas.push(place);
 
   // ----- ItemList of Sights (TouristAttraction) -----
-  const sightsObj = (poi as { sights?: Record<string, Array<{ name: string; text?: string; category?: string }>> }).sights;
+  const sightsObj = (poi as { sights?: Record<string, Array<{ name: string; text?: string; category?: string }>> }).sights
+    || sidecarSightsFor(poi);
   const sightsForLang = sightsObj?.[lang] || sightsObj?.de || sightsObj?.en;
   if (sightsForLang && sightsForLang.length > 0) {
     schemas.push({
@@ -555,6 +597,24 @@ function loadItinerary(poiId: string, poiTier: number = 2): any | null {
   } catch {}
   _itinCache.set(poiId, data);
   return data;
+}
+
+// FR TOP100 sights sidecar — for top FR tier-1 POIs not in JSON-line TS files
+// (poiExtraFrV1.ts uses multi-line object format, can't safely auto-merge).
+let _frTop100Sights: Record<string, any> | null = null;
+function loadFrTop100Sights(): Record<string, any> {
+  if (_frTop100Sights !== null) return _frTop100Sights;
+  const p = path.resolve(process.cwd(), "public/data/fr-top100-sights.json");
+  try {
+    _frTop100Sights = fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf-8")) : {};
+  } catch { _frTop100Sights = {}; }
+  return _frTop100Sights!;
+}
+function sidecarSightsFor(poi: POI): any | null {
+  const s = (poi as { sights?: any }).sights;
+  if (s && typeof s === "object" && (s.de || s.en || s.hu || s.ro)) return null; // already has
+  const sc = loadFrTop100Sights()[poi.id];
+  return sc || null;
 }
 
 // Landmark practical-info loader (644 landmark POIs with opening hours, fees, etc.).
@@ -854,7 +914,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
   const title = buildPoiTitle(name, poi, lang);
-  const metaDesc = (descText || `${name} — ${T(poi.type, lang)}`).slice(0, 160);
+  const metaDesc = smartMetaDesc(descText, `${name} — ${T(poi.type, lang)}`);
+  const richness = pageRichness(poi, lang);
 
   const breadcrumbHome = `<a href="/${lang}/">${I("home", lang)}</a>`;
   const breadcrumbCountry = `<a href="${buildCountryPath(lang, countryId)}">${countrySlugFor(lang, countryId).replace(/-/g, " ")}</a>`;
@@ -1003,7 +1064,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       : escapeHtml(s.name);
     return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
   };
-  const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights;
+  const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights
+    || (sidecarSightsFor(poi) as Record<string, SightItem[]> | null);
   const sightsArr = (getLocalized(sightsObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];
   const sightsHtml = sightsArr.length > 0
     ? `<section class="plz-sights"><h2>${I("sightsInTown", lang)} ${name} (${sightsArr.length})</h2>${sightsArr.map((s) => renderSightCard(s, false)).join("")}</section>`
@@ -1068,17 +1130,27 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         fr: "Faits marquants de 2026",
         tr: "2026'nın öne çıkan olayları",
       };
-      const cards = yhItems.map((ev) => {
+      // Sort by date desc (newest first), then take last 6 visible + hidden rest
+      const sorted = [...yhItems].sort((a: any, b: any) => String(b.date || "").localeCompare(String(a.date || "")));
+      const renderCard = (ev: any) => {
         const t = ev.title?.[lang] || ev.title?.en || ev.title?.de || "";
         const s = ev.summary?.[lang] || ev.summary?.en || ev.summary?.de || "";
         const d = (ev.date || "").slice(0, 10);
-        // Skip link if source_url isn't a real URL (early extractor stored titles in this field).
         const isHttp = typeof ev.source_url === "string" && /^https?:\/\//i.test(ev.source_url);
         const linkOpen = isHttp ? `<a href="${escapeHtml(ev.source_url!)}" target="_blank" rel="noopener nofollow" class="plz-yh-link">` : "";
         const linkClose = isHttp ? "</a>" : "";
         return `<article class="plz-yh-card">${linkOpen}<div class="plz-yh-meta">${d ? `<time class="plz-yh-date" datetime="${escapeHtml(ev.date || "")}">${escapeHtml(d)}</time>` : ""}</div><h3 class="plz-yh-title">${escapeHtml(t)}</h3><p class="plz-yh-summary">${escapeHtml(s)}</p>${linkClose}</article>`;
-      }).join("");
-      yearlyHtml = `<section class="plz-yh"><h2>⭐ ${escapeHtml(heading[lang] || heading.en || "Highlights of 2026")}</h2>${cards}</section>`;
+      };
+      const VISIBLE = 6;
+      const visible = sorted.slice(0, VISIBLE).map(renderCard).join("");
+      const hidden = sorted.slice(VISIBLE).map(renderCard).join("");
+      const moreLabel: Partial<Record<Lang, string>> = { de: "Mehr anzeigen", hu: "Tovább", ro: "Mai mult", en: "Show more", fr: "Voir plus", tr: "Daha fazla" };
+      const lessLabel: Partial<Record<Lang, string>> = { de: "Weniger", hu: "Kevesebb", ro: "Mai puțin", en: "Show less", fr: "Voir moins", tr: "Daha az" };
+      const moreBtn = hidden ? `<button class="plz-yh-more" type="button" aria-expanded="false" data-more="${escapeHtml(moreLabel[lang] || moreLabel.en!)}" data-less="${escapeHtml(lessLabel[lang] || lessLabel.en!)}">${escapeHtml(moreLabel[lang] || moreLabel.en!)} (+${sorted.length - VISIBLE}) ▼</button>` : "";
+      const hiddenBlock = hidden ? `<div class="plz-yh-hidden" hidden>${hidden}</div>` : "";
+      const headTxt = escapeHtml(heading[lang] || heading.en || "Highlights of 2026");
+      yearlyHtml = `<details class="plz-yh-collapse" open><summary class="plz-yh-summary-row"><h2>⭐ ${headTxt} <span class="plz-yh-count">${sorted.length}</span></h2><span class="plz-yh-arrow">▼</span></summary><div class="plz-yh-body">${visible}${hiddenBlock}${moreBtn}</div></details>
+<script>(function(){var bs=document.querySelectorAll('.plz-yh-more');bs.forEach(function(b){b.addEventListener('click',function(){var p=b.parentElement,h=p.querySelector('.plz-yh-hidden');if(!h)return;var o=h.hasAttribute('hidden');if(o){h.removeAttribute('hidden');b.textContent=b.dataset.less+' ▲';b.setAttribute('aria-expanded','true')}else{h.setAttribute('hidden','');b.textContent=b.dataset.more+' (+${sorted.length - VISIBLE}) ▼';b.setAttribute('aria-expanded','false')}})})})();</script>`;
     }
   } catch {}
 
@@ -1147,6 +1219,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
+${richness.isEmpty ? `<meta name="robots" content="noindex,follow"/>` : ""}
 <link rel="canonical" href="${url}"/>
 ${hreflangLinks}
 <link rel="alternate" hreflang="x-default" href="${alternates.en}"/>
@@ -1155,7 +1228,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${url}"/>
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
-${isAdSenseEligible(poi, lang) ? ADSENSE_HEAD : ""}
+${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
 <link rel="stylesheet" href="/poi-static/poi.css?v=20260524i"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
   { name: I("home", lang), url: `/${lang}/` },
@@ -1179,7 +1252,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   <nav class="plz-breadcrumb">
     ${breadcrumbHome}<span>›</span>${breadcrumbCountry}${breadcrumbState ? `<span>›</span>${breadcrumbState}` : ""}<span>›</span><span>${escapeHtml(name)}</span>
   </nav>
-  <div class="plz-title-row">${coaHtml}<div><p class="plz-eyebrow">${PLIZIOGO_SET.has(poi.id) ? "PlizioGo" : "Plizio Visual Lab"}</p><h1>${escapeHtml(name)}</h1></div></div>
+  <div class="plz-title-row">${coaHtml}<div>${richness.hasPlizioGo ? `<p class="plz-eyebrow">PlizioGo</p>` : (!richness.isWeak ? `<p class="plz-eyebrow">Plizio Visual Lab</p>` : "")}<h1>${escapeHtml(name)}</h1></div></div>
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
   ${audioHtml}
   <div class="plz-hero-grid">
@@ -1192,7 +1265,7 @@ ${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, count
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
   ${didYouKnowHtml}
-  ${gameCtaHtml}
+  ${richness.isWeak ? "" : gameCtaHtml}
   ${faqHtml}
   ${sightsHtml}
   ${nearbyHtml}

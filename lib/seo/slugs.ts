@@ -260,6 +260,23 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
   "new-zealand":  { de: "neuseeland", hu: "uj-zeland", ro: "noua-zeelanda", en: "new-zealand" },
   fiji:           { de: "fidschi", hu: "fidzsi", ro: "fiji", en: "fiji" },
   "papua-new-guinea": { de: "papua-neuguinea", hu: "papua-uj-guinea", ro: "papua-noua-guinee", en: "papua-new-guinea" },
+  // Missing countries (caused 2850 POIs to mis-route into /deutschland/ via getCountryId fallback)
+  russia:               { de: "russland", hu: "oroszorszag", ro: "rusia", en: "russia" },
+  samoa:                { de: "samoa", hu: "szamoa", ro: "samoa", en: "samoa" },
+  "saint-lucia":        { de: "st-lucia", hu: "saint-lucia", ro: "saint-lucia", en: "saint-lucia" },
+  "solomon-islands":    { de: "salomonen", hu: "salamon-szigetek", ro: "insulele-solomon", en: "solomon-islands" },
+  tonga:                { de: "tonga", hu: "tonga", ro: "tonga", en: "tonga" },
+  barbados:             { de: "barbados", hu: "barbados", ro: "barbados", en: "barbados" },
+  vanuatu:              { de: "vanuatu", hu: "vanuatu", ro: "vanuatu", en: "vanuatu" },
+  "french-guiana":      { de: "franzoesisch-guayana", hu: "francia-guyana", ro: "guyana-franceza", en: "french-guiana" },
+  kiribati:             { de: "kiribati", hu: "kiribati", ro: "kiribati", en: "kiribati" },
+  nauru:                { de: "nauru", hu: "nauru", ro: "nauru", en: "nauru" },
+  tuvalu:               { de: "tuvalu", hu: "tuvalu", ro: "tuvalu", en: "tuvalu" },
+  palau:                { de: "palau", hu: "palau", ro: "palau", en: "palau" },
+  "marshall-islands":   { de: "marshallinseln", hu: "marshall-szigetek", ro: "insulele-marshall", en: "marshall-islands" },
+  micronesia:           { de: "mikronesien", hu: "mikronezia", ro: "micronezia", en: "micronesia" },
+  grenada:              { de: "grenada", hu: "grenada", ro: "grenada", en: "grenada" },
+  "saint-vincent":      { de: "st-vincent", hu: "saint-vincent", ro: "saint-vincent", en: "saint-vincent" },
 };
 
 export const STATE_SLUGS: Record<string, Partial<Record<Lang, string>> & { de: string; hu: string; ro: string; en: string }> = {
@@ -444,6 +461,12 @@ const ISO2_TO_COUNTRY: Record<string, string> = {
   ZW: "zimbabwe",
   // Oceania
   AU: "australia", NZ: "new-zealand", FJ: "fiji", PG: "papua-new-guinea",
+  // Missing — caused mis-routing into /deutschland/ via silent fallback
+  RU: "russia",
+  WS: "samoa", LC: "saint-lucia", SB: "solomon-islands", TO: "tonga",
+  BB: "barbados", VU: "vanuatu", GF: "french-guiana",
+  KI: "kiribati", NR: "nauru", TV: "tuvalu", PW: "palau",
+  MH: "marshall-islands", FM: "micronesia", GD: "grenada", VC: "saint-vincent",
 };
 
 // Compact (one-word) country-id alias -> kanonikus dashed slug
@@ -500,7 +523,20 @@ export function getCountryId(id: string) {
   if (aliasDirect) return aliasDirect;
   // Strip "XX-YY" prefix to get ISO2
   const iso2 = id.includes("-") ? id.split("-")[0].toUpperCase() : id.toUpperCase();
-  return ISO2_TO_COUNTRY[iso2] ?? "germany";
+  const mapped = ISO2_TO_COUNTRY[iso2];
+  if (mapped) return mapped;
+  _warnUnknownParent(id);
+  return "germany";
+}
+
+// Audit: track unknown parents so build logs surface data errors (visegrad, esztergom etc.)
+const _warnedParents = new Set<string>();
+function _warnUnknownParent(id: string) {
+  if (_warnedParents.has(id)) return;
+  _warnedParents.add(id);
+  if (typeof process !== "undefined" && process.stdout && process.stdout.write) {
+    process.stdout.write(`[slugs] WARN: unknown parent "${id}" → fallback to /germany/ (data error or new ISO2)\n`);
+  }
 }
 
 export function countrySlugFor(lang: Lang, countryId: string = "germany") {
