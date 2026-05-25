@@ -1045,26 +1045,10 @@
     "museum_tickets": null,
     "parking_real_time": null,
     "language_tips": {
-      "de": [
-        "Dobar dan (do-bar dahn) — Guten Tag",
-        "Hvala (hva-lah) — Danke",
-        "Molim (mo-lim) — Bitte"
-      ],
-      "hu": [
-        "Dobar dan (do-bar dán) — Jó napot",
-        "Hvala (hvá-la) — Köszönöm",
-        "Molim (mó-lim) — Kérem"
-      ],
-      "ro": [
-        "Dobar dan (do-bar dan) — Bună ziua",
-        "Hvala (hva-la) — Mulțumesc",
-        "Molim (mo-lim) — Vă rog"
-      ],
-      "en": [
-        "Dobar dan (DOH-bar dahn) — Good day",
-        "Hvala (HVAH-lah) — Thank you",
-        "Molim (MOH-leem) — Please"
-      ]
+      "de": null,
+      "hu": null,
+      "ro": null,
+      "en": null
     },
     "best_time_to_visit": {
       "de": "Mai, Juni und September für Sonnenuntergang an der Meeresorgel ohne Menschenmassen; Juli-August sehr voll.",

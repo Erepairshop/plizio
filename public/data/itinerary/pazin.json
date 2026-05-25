@@ -1189,30 +1189,10 @@
       ]
     },
     "language_tips": {
-      "de": [
-        {
-          "label": "Wikipedia Pazin",
-          "url": "https://en.wikipedia.org/wiki/Pazin"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Wikipédia Pazin",
-          "url": "https://en.wikipedia.org/wiki/Pazin"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Wikipedia Pazin",
-          "url": "https://en.wikipedia.org/wiki/Pazin"
-        }
-      ],
-      "en": [
-        {
-          "label": "Wikipedia Pazin",
-          "url": "https://en.wikipedia.org/wiki/Pazin"
-        }
-      ]
+      "de": "Wikipedia Pazin",
+      "hu": "Wikipédia Pazin",
+      "ro": "Wikipedia Pazin",
+      "en": "Wikipedia Pazin"
     },
     "best_time": {
       "de": [
@@ -1241,30 +1221,10 @@
       ]
     },
     "neighborhood_warnings": {
-      "de": [
-        {
-          "label": "Pazin Sicherheit",
-          "url": "https://www.istra.hr/en/destinations/pazin"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Pazin biztonság",
-          "url": "https://www.istra.hr/en/destinations/pazin"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Siguranță Pazin",
-          "url": "https://www.istra.hr/en/destinations/pazin"
-        }
-      ],
-      "en": [
-        {
-          "label": "Pazin safety (Istria TB)",
-          "url": "https://www.istra.hr/en/destinations/pazin"
-        }
-      ]
+      "de": "Pazin Sicherheit",
+      "hu": "Pazin biztonság",
+      "ro": "Siguranță Pazin",
+      "en": "Pazin safety (Istria TB)"
     },
     "tourism_office": {
       "de": [

@@ -1240,30 +1240,10 @@
       ]
     },
     "language_tips": {
-      "de": [
-        {
-          "label": "Wikipedia Hum",
-          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Wikipédia Hum",
-          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Wikipedia Hum",
-          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
-        }
-      ],
-      "en": [
-        {
-          "label": "Wikipedia Hum",
-          "url": "https://en.wikipedia.org/wiki/Hum,_Istria_County"
-        }
-      ]
+      "de": "Wikipedia Hum",
+      "hu": "Wikipédia Hum",
+      "ro": "Wikipedia Hum",
+      "en": "Wikipedia Hum"
     },
     "best_time": {
       "de": [
@@ -1292,30 +1272,10 @@
       ]
     },
     "neighborhood_warnings": {
-      "de": [
-        {
-          "label": "Hum Sicherheit (Istra TZ)",
-          "url": "https://www.istra.hr/en/destinations/hum"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Hum biztonság",
-          "url": "https://www.istra.hr/en/destinations/hum"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Siguranță Hum",
-          "url": "https://www.istra.hr/en/destinations/hum"
-        }
-      ],
-      "en": [
-        {
-          "label": "Hum safety (Istra TB)",
-          "url": "https://www.istra.hr/en/destinations/hum"
-        }
-      ]
+      "de": "Hum Sicherheit (Istra TZ)",
+      "hu": "Hum biztonság",
+      "ro": "Siguranță Hum",
+      "en": "Hum safety (Istra TB)"
     },
     "tourism_office": {
       "de": [

@@ -1212,30 +1212,10 @@
       ]
     },
     "language_tips": {
-      "de": [
-        {
-          "label": "Wikipedia Lastovo",
-          "url": "https://en.wikipedia.org/wiki/Lastovo"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Wikipédia Lastovo",
-          "url": "https://en.wikipedia.org/wiki/Lastovo"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Wikipedia Lastovo",
-          "url": "https://en.wikipedia.org/wiki/Lastovo"
-        }
-      ],
-      "en": [
-        {
-          "label": "Wikipedia Lastovo",
-          "url": "https://en.wikipedia.org/wiki/Lastovo"
-        }
-      ]
+      "de": "Wikipedia Lastovo",
+      "hu": "Wikipédia Lastovo",
+      "ro": "Wikipedia Lastovo",
+      "en": "Wikipedia Lastovo"
     },
     "best_time": {
       "de": [
@@ -1264,30 +1244,10 @@
       ]
     },
     "neighborhood_warnings": {
-      "de": [
-        {
-          "label": "Lastovo TZ Sicherheit",
-          "url": "https://www.tz-lastovo.hr/"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Lastovo biztonsági infó",
-          "url": "https://www.tz-lastovo.hr/"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Informații siguranță Lastovo",
-          "url": "https://www.tz-lastovo.hr/"
-        }
-      ],
-      "en": [
-        {
-          "label": "Lastovo safety info (TZ)",
-          "url": "https://www.tz-lastovo.hr/"
-        }
-      ]
+      "de": "Lastovo TZ Sicherheit",
+      "hu": "Lastovo biztonsági infó",
+      "ro": "Informații siguranță Lastovo",
+      "en": "Lastovo safety info (TZ)"
     },
     "tourism_office": {
       "de": [

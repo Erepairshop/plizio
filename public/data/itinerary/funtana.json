@@ -1123,30 +1123,10 @@
       ]
     },
     "language_tips": {
-      "de": [
-        {
-          "label": "Wikipedia Funtana (HR/IT)",
-          "url": "https://en.wikipedia.org/wiki/Funtana"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Wikipédia Funtana",
-          "url": "https://en.wikipedia.org/wiki/Funtana"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Wikipedia Funtana",
-          "url": "https://en.wikipedia.org/wiki/Funtana"
-        }
-      ],
-      "en": [
-        {
-          "label": "Wikipedia Funtana (HR/IT bilingual)",
-          "url": "https://en.wikipedia.org/wiki/Funtana"
-        }
-      ]
+      "de": "Wikipedia Funtana (HR/IT)",
+      "hu": "Wikipédia Funtana",
+      "ro": "Wikipedia Funtana",
+      "en": "Wikipedia Funtana (HR/IT bilingual)"
     },
     "best_time": {
       "de": [
@@ -1175,30 +1155,10 @@
       ]
     },
     "neighborhood_warnings": {
-      "de": [
-        {
-          "label": "Funtana Sicherheit",
-          "url": "https://www.istra.hr/en/destinations/funtana"
-        }
-      ],
-      "hu": [
-        {
-          "label": "Funtana biztonság",
-          "url": "https://www.istra.hr/en/destinations/funtana"
-        }
-      ],
-      "ro": [
-        {
-          "label": "Siguranță Funtana",
-          "url": "https://www.istra.hr/en/destinations/funtana"
-        }
-      ],
-      "en": [
-        {
-          "label": "Funtana safety (Istria TB)",
-          "url": "https://www.istra.hr/en/destinations/funtana"
-        }
-      ]
+      "de": "Funtana Sicherheit",
+      "hu": "Funtana biztonság",
+      "ro": "Siguranță Funtana",
+      "en": "Funtana safety (Istria TB)"
     },
     "tourism_office": {
       "de": [

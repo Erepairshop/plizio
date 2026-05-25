@@ -599,10 +599,22 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   const modeLabels: Record<string, string> = { walk: C.modeWalk, bike: C.modeBike, car: C.modeCar, transit: C.modeTransit };
   const unitLabels: Record<string, string> = { walk: C.unitWalk, bike: C.unitBike, car: C.unitCar, transit: C.unitTransit };
 
+  // Normalize [lat, lon] from coords — auto-detect [lon, lat] vs [lat, lon] heuristically.
+  // Europe: lat 30-72, lon -25..45 → if coords[0] < coords[1] and coords[0] < 30, swap.
+  // Plizio standard is [lon, lat]; Lyon early JSON was [lat, lon]; auto-detect handles both.
+  function toLatLon(c: any): [number, number] {
+    if (!Array.isArray(c) || c.length !== 2) return [0, 0];
+    let [a, b] = c as [number, number];
+    // If first value looks like lon (|a| < 30 or smaller than b), assume [lon, lat]
+    if (Math.abs(a) < 30 && Math.abs(b) > 25) return [b, a];
+    // Else assume [lat, lon]
+    return [a, b];
+  }
+
   function renderStopCard(s: any, i: number, prevCoords: [number, number] | null, mode: string): string {
     const tip = (s.tip_5lang || {})[lang] || "";
     const tm = TRAVEL_MODE[mode] || "driving";
-    const [lat, lon] = s.coords;
+    const [lat, lon] = toLatLon(s.coords);
     const gmaps = prevCoords
       ? `https://www.google.com/maps/dir/?api=1&origin=${prevCoords[0]},${prevCoords[1]}&destination=${lat},${lon}&travelmode=${tm}`
       : `https://www.google.com/maps/dir/?api=1&destination=${lat},${lon}&travelmode=${tm}`;
@@ -676,7 +688,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
         const stopWithTip = { ...s, tip_5lang: v.stop_tips_by_name[s.name] || s.tip_5lang };
         const hopHtml = i > 0 && s.hop_from_prev_min ? `<div class="plz-itin-hop"><strong>${modeLabels[m].split(" ")[0]} ${s.hop_from_prev_min}'</strong>${s.hop_from_prev_km} km</div>` : "";
         const card = renderStopCard(stopWithTip, i, prev, m);
-        prev = s.coords;
+        prev = toLatLon(s.coords);
         return hopHtml + card;
       }).join("");
       const gastro = renderExtras(v.gastro_picks, "gastro");
