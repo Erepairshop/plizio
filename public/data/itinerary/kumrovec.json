@@ -1,0 +1,908 @@
+{
+  "city_id": "kumrovec",
+  "anchor": {
+    "name": "Kumrovec",
+    "coords": [
+      15.7167,
+      46.075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Freilichtmuseum Staro Selo",
+          "coords": [
+            15.7165,
+            46.0745
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Webstube.",
+            "hu": "Nézze meg a szövőműhelyt.",
+            "ro": "Vizitați atelierul de țesut.",
+            "en": "Visit the weaving workshop."
+          }
+        },
+        {
+          "name": "Geburtshaus von Josip Broz Tito",
+          "coords": [
+            15.7168,
+            46.0752
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Statue davor.",
+            "hu": "Figyelje meg az előtte álló szobrot.",
+            "ro": "Observați statuia din față.",
+            "en": "Note the statue in front."
+          }
+        },
+        {
+          "name": "Alte Schule",
+          "coords": [
+            15.7175,
+            46.0755
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Authentisches Klassenzimmer.",
+            "hu": "Eredeti berendezésű tanterem.",
+            "ro": "Sală de clasă autentică.",
+            "en": "Authentic classroom setup."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Rochus",
+          "coords": [
+            15.7185,
+            46.076
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schöner Blick auf das Dorf.",
+            "hu": "Szép kilátás a falura.",
+            "ro": "Vedere frumoasă spre sat.",
+            "en": "Nice view of the village."
+          }
+        },
+        {
+          "name": "Park Kumrovec",
+          "coords": [
+            15.72,
+            46.074
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ideal für ein kurzes Picknick.",
+            "hu": "Ideális egy rövid piknikhez.",
+            "ro": "Ideal pentru un scurt picnic.",
+            "en": "Ideal for a short picnic."
+          }
+        },
+        {
+          "name": "Gastro Pause - Vila Zelenjak",
+          "coords": [
+            15.722,
+            46.052
+          ],
+          "category": "gastro",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Zagorski Štrukli.",
+            "hu": "Kóstolja meg a stájer rétest.",
+            "ro": "Gustați Zagorski Štrukli.",
+            "en": "Try the Zagorski Štrukli."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens tauchen Sie im Freilichtmuseum Staro Selo in das ländliche Leben des 19. Jahrhunderts ein. Mittags besuchen Sie das Geburtshaus von Tito und die alte Dorfschule. Nachmittags spazieren Sie zur Rochuskirche und genießen die Ruhe im Park. Der Abend klingt kulinarisch mit regionalen Spezialitäten in der Nähe des Zelenjak-Denkmals aus.",
+        "hu": "Reggel a Staro Selo skanzenben visszarepülhet a 19. századi vidéki életbe. Délben Tito szülőházát és a régi népiskolát látogathatja meg. Délután tegyen egy sétát a Szent Rókus-templomhoz, majd pihenjen meg a község parkjában. Az estét a Zelenjak környékén töltheti el, megkóstolva a helyi zagorjei ételeket.",
+        "ro": "Dimineața, în muzeul satului Staro Selo, vă întoarceți în viața rurală a secolului XIX. La prânz, vizitați casa natală a lui Tito și vechea școală a satului. După-amiaza, plimbați-vă până la biserica Sf. Rochus și relaxați-vă în parcul local. Seara se încheie cu specialități regionale delicioase în zona Zelenjak.",
+        "en": "In the morning, immerse yourself in 19th-century rural life at the Staro Selo museum. At noon, visit Tito's birthplace and the old village school. In the afternoon, walk up to St. Roch's Church and enjoy the peace of Kumrovec Park. The evening concludes with regional culinary delights near the Zelenjak monument."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zagorski Štrukli",
+            "tip": "Traditionelles Gebäck mit Käsefüllung."
+          },
+          {
+            "name": "Gostionica Kod Starog",
+            "tip": "Rustikales Ambiente im Museumsbereich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zagorski Štrukli",
+            "tip": "Hagyományos túrós tésztaétel."
+          },
+          {
+            "name": "Gostionica Kod Starog",
+            "tip": "Rusztikus vendéglő a skanzen területén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zagorski Štrukli",
+            "tip": "Plăcinte tradiționale cu brânză."
+          },
+          {
+            "name": "Gostionica Kod Starog",
+            "tip": "Ambiantă rustică în zona muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagorski Štrukli",
+            "tip": "Traditional dough filled with cheese."
+          },
+          {
+            "name": "Gostionica Kod Starog",
+            "tip": "Rustic inn located within the museum area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zelenjak Denkmal",
+            "tip": "Ruhiger Ort am Fluss Sutla.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Park Kumrovec",
+            "tip": "Schattige Bänke unter alten Bäumen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zelenjak emlékmű",
+            "tip": "Csendes hely a Szutla-folyó partján.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kumrovec Park",
+            "tip": "Árnyas padok az öreg fák alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Monumentul Zelenjak",
+            "tip": "Loc liniștit pe malul râului Sutla.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Parcul Kumrovec",
+            "tip": "Bănci umbroase sub arbori bătrâni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zelenjak Monument",
+            "tip": "Quiet spot by the Sutla river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kumrovec Park",
+            "tip": "Shady benches under old trees.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Staro Selo",
+            "tip": "Handgefertigte Keramik und Weidenkörbe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staro Selo ajándékbolt",
+            "tip": "Kézzel készített kerámiák és kosarak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Staro Selo",
+            "tip": "Ceramică lucrată manual și coșuri de nuiele."
+          }
+        ],
+        "en": [
+          {
+            "name": "Staro Selo Souvenir Shop",
+            "tip": "Handmade ceramics and wicker baskets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Museum.",
+          "Die Wege sind meist flach und leicht zu begehen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a skanzen macskaköves útjaihoz.",
+          "Az útvonal nagy része sík és könnyen bejárható."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru drumurile pietruite din muzeu.",
+          "Traseul este în mare parte plat și ușor de parcurs."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone paths in the museum.",
+          "The paths are mostly flat and easy to walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Staro Selo",
+          "coords": [
+            15.7165,
+            46.0745
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkplatz für Räder am Eingang.",
+            "hu": "Kerékpártároló a bejáratnál.",
+            "ro": "Parcare pentru biciclete la intrare.",
+            "en": "Bike parking at the entrance."
+          }
+        },
+        {
+          "name": "Denkmal für die kroatische Hymne",
+          "coords": [
+            15.724,
+            46.049
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Schöne Fahrt entlang der Sutla.",
+            "hu": "Szép út a Szutla mentén.",
+            "ro": "Drum frumos de-a lungul Sutlei.",
+            "en": "Beautiful ride along the Sutla."
+          }
+        },
+        {
+          "name": "Park Kumrovec",
+          "coords": [
+            15.72,
+            46.074
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Pause im Grünen.",
+            "hu": "Rövid pihenő a zöldben.",
+            "ro": "Scurtă pauză în verdeață.",
+            "en": "Short break in the greenery."
+          }
+        },
+        {
+          "name": "Galerie Kumrovec",
+          "coords": [
+            15.717,
+            46.076
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lokale Kunstwerke bestaunen.",
+            "hu": "Helyi műalkotások megtekintése.",
+            "ro": "Admirați opere de artă locale.",
+            "en": "Admire local artworks."
+          }
+        },
+        {
+          "name": "Alte Schule",
+          "coords": [
+            15.7175,
+            46.0755
+          ],
+          "category": "museums",
+          "arrive_at": "14:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interessante Zeitgeschichte.",
+            "hu": "Érdekes kortörténet.",
+            "ro": "Istorie contemporană interesantă.",
+            "en": "Interesting contemporary history."
+          }
+        },
+        {
+          "name": "Gastro - Villa Zelenjak",
+          "coords": [
+            15.722,
+            46.052
+          ],
+          "category": "gastro",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stärkung nach der tour.",
+            "hu": "Felfrissülés a túra után.",
+            "ro": "Reîmprospătare după tur.",
+            "en": "Refreshment after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Museum Staro Selo und radeln Sie dann südwärts zum Zelenjak-Denkmal durch das malerische Sutla-Tal. Mittags kehren Sie ins Dorfzentrum zurück, um die Galerie und die alte Schule zu besichtigen. Den Abschluss bildet eine entspannte Mahlzeit in einer traditionellen Gaststätte.",
+        "hu": "Kezdjen a Staro Selo múzeumnál, majd tekerjen délre a Zelenjak emlékműhöz a festői Szutla-völgyön keresztül. Délben térjen vissza a faluközpontba, hogy megnézze a galériát és a régi iskolát. A napot egy nyugodt ebéddel zárhatja egy hagyományos étteremben.",
+        "ro": "Începeți la muzeul Staro Selo, apoi pedalați spre sud către monumentul Zelenjak prin valea pitorească a Sutlei. La prânz, reveniți în centrul satului pentru a vizita galeria și vechea școală. Încheiați ziua cu o masă relaxată într-un restaurant tradițional.",
+        "en": "Start at the Staro Selo museum, then cycle south to the Zelenjak monument through the picturesque Sutla Valley. At noon, return to the village center to visit the gallery and the old school. Finish the day with a relaxed meal in a traditional inn."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zagorje-Platte",
+            "tip": "Verschiedene Fleischsorten und Beilagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zagorjei tál",
+            "tip": "Válogatott húsok és köretek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou Zagorje",
+            "tip": "Selecție de cărnuri și garnituri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagorje Platter",
+            "tip": "Assorted meats and side dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Sutla",
+            "tip": "Ruhiger Weg direkt am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szutla-part",
+            "tip": "Csendes út közvetlenül a víz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Sutlei",
+            "tip": "Drum liniștit direct pe apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sutla Riverbank",
+            "tip": "Quiet path right by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfmarkt",
+            "tip": "Frisches Obst von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi piac",
+            "tip": "Friss gyümölcsök helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața satului",
+            "tip": "Fructe proaspete de la fermieri locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Market",
+            "tip": "Fresh fruit from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Route entlang des Flusses ist weitgehend flach.",
+          "Achten Sie auf Wanderer in den Parkzonen."
+        ],
+        "hu": [
+          "A folyó menti útvonal nagyrészt sík.",
+          "Figyeljen a gyalogosokra a parkos övezetekben."
+        ],
+        "ro": [
+          "Traseul de-a lungul râului este în mare parte plat.",
+          "Atenție la pietoni în zonele de parcuri."
+        ],
+        "en": [
+          "The route along the river is mostly flat.",
+          "Watch out for hikers in the park zones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Staro Selo & Tito Haus",
+          "coords": [
+            15.7165,
+            46.0745
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz in der Nähe.",
+            "hu": "Nagy parkoló a közelben.",
+            "ro": "Parcare mare în apropiere.",
+            "en": "Large parking lot nearby."
+          }
+        },
+        {
+          "name": "Denkmal für die kroatische Hymne",
+          "coords": [
+            15.724,
+            46.049
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am Denkmal.",
+            "hu": "Rövid megálló az emlékműnél.",
+            "ro": "Scurtă oprire la monument.",
+            "en": "Short stop at the monument."
+          }
+        },
+        {
+          "name": "Schloss Veliki Tabor",
+          "coords": [
+            15.651,
+            46.154
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Nur 20 Min. Fahrt von Kumrovec.",
+            "hu": "Csak 20 perc autóval Kumrovectől.",
+            "ro": "Doar 20 min cu mașina de Kumrovec.",
+            "en": "Only 20 min drive from Kumrovec."
+          }
+        },
+        {
+          "name": "Herrenhaus Broz",
+          "coords": [
+            15.717,
+            46.074
+          ],
+          "category": "famous residences",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Blick auf die Architektur.",
+            "hu": "Építészeti érdekesség.",
+            "ro": "Punct de interes arhitectural.",
+            "en": "Architectural point of interest."
+          }
+        },
+        {
+          "name": "Gastro - Gostionica",
+          "coords": [
+            15.718,
+            46.073
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Reichhaltige Portionen.",
+            "hu": "Bőséges adagok.",
+            "ro": "Porții generoase.",
+            "en": "Hearty portions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für einen Ausflug zum nahegelegenen Schloss Veliki Tabor nach der Besichtigung von Kumrovec. Vormittags erkunden Sie das Museumsdorf und das Tito-Haus. Nachmittags bewundern Sie das Herrenhaus der Familie Broz und genießen ein Abendessen im Ort.",
+        "hu": "Használja az autót egy kiránduláshoz a közeli Veliki Tabor várhoz Kumrovec megtekintése után. Délelőtt fedezze fel a múzeumfalut és Tito szülőházát. Délután csodálja meg a Broz-család udvarházát, majd vacsorázzon a községben.",
+        "ro": "Folosiți mașina pentru o excursie la castelul Veliki Tabor din apropiere după vizitarea Kumrovec. Dimineața explorați satul muzeu și casa lui Tito. După-amiaza admirați conacul familiei Broz și bucurați-vă de o cină în localitate.",
+        "en": "Use your car for a trip to nearby Veliki Tabor castle after visiting Kumrovec. In the morning, explore the museum village and Tito's house. In the afternoon, admire the Broz family manor and enjoy dinner in town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Wildgerichte",
+            "tip": "Spezialität der Region Zagorje."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadhús ételek",
+            "tip": "A Zagorje vidék specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Preparate din vânat",
+            "tip": "Specialitate a regiunii Zagorje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Game dishes",
+            "tip": "Specialty of the Zagorje region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schlossgarten Tabor",
+            "tip": "Panoramablick auf die Hügel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tabor várkert",
+            "tip": "Panorámás kilátás a dombokra.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina castelului Tabor",
+            "tip": "Vedere panoramică asupra dealurilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tabor Castle Garden",
+            "tip": "Panoramic view of the hills.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Wein",
+            "tip": "Verkauf ab Hof in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi bor",
+            "tip": "Vásárlás közvetlenül a gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de casă",
+            "tip": "Vânzare direct de la fermieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade wine",
+            "tip": "Buy directly from local farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie direkt am Museumseingang.",
+          "Kombinieren Sie Kumrovec mit Veliki Tabor."
+        ],
+        "hu": [
+          "Parkoljon közvetlenül a múzeum bejáratánál.",
+          "Kombinálja Kumrovecet Veliki Tabor várával."
+        ],
+        "ro": [
+          "Parcați direct la intrarea în muzeu.",
+          "Combinați Kumrovec cu castelul Veliki Tabor."
+        ],
+        "en": [
+          "Park directly at the museum entrance.",
+          "Combine Kumrovec with Veliki Tabor castle."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Staro Selo",
+          "coords": [
+            15.7165,
+            46.0745
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Busstop Kumrovec-Centar.",
+            "hu": "Kumrovec-központ buszmegálló.",
+            "ro": "Stație de autobuz Kumrovec-Centar.",
+            "en": "Kumrovec-Centar bus stop."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Rochus",
+          "coords": [
+            15.7185,
+            46.076
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Zentrum.",
+            "hu": "Rövid séta a központtól.",
+            "ro": "Scurtă plimbare din centru.",
+            "en": "Short walk from the center."
+          }
+        },
+        {
+          "name": "Galerie Kumrovec",
+          "coords": [
+            15.717,
+            46.076
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wechselnde Ausstellungen.",
+            "hu": "Változó kiállítások.",
+            "ro": "Expoziții temporare.",
+            "en": "Changing exhibitions."
+          }
+        },
+        {
+          "name": "Park Kumrovec",
+          "coords": [
+            15.72,
+            46.074
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Picknick im Schatten.",
+            "hu": "Piknik az árnyékban.",
+            "ro": "Picnic la umbră.",
+            "en": "Picnic in the shade."
+          }
+        },
+        {
+          "name": "Gastro - Bistro",
+          "coords": [
+            15.718,
+            46.073
+          ],
+          "category": "gastro",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Letzte Stärkung vor der Abfahrt.",
+            "hu": "Utolsó frissítő az indulás előtt.",
+            "ro": "Ultima gustare înainte de plecare.",
+            "en": "Last refreshment before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kumrovec ist gut mit dem Bus von Zagreb oder Zabok erreichbar. Vormittags steht das Freilichtmuseum im Fokus. Mittags besuchen Sie die Rochuskirche und die Galerie. Der Nachmittag gehört dem Park, bevor Sie den Bus für die Rückreise nehmen.",
+        "hu": "Kumrovec busszal jól megközelíthető Zágrábból vagy Zabokból. Délelőtt a skanzen a fő látnivaló. Délben a Szent Rókus-templomot és a galériát látogathatja meg. A délutánt töltse a parkban a hazautazás előtt.",
+        "ro": "Kumrovec este ușor accesibil cu autobuzul din Zagreb sau Zabok. Dimineața, muzeul satului este atracția principală. La prânz, vizitați biserica Sf. Rochus și galeria. După-amiaza aparține parcului, înainte de a lua autobuzul spre casă.",
+        "en": "Kumrovec is easily accessible by bus from Zagreb or Zabok. In the morning, focus on the open-air museum. At noon, visit St. Roch's Church and the gallery. Spend the afternoon in the park before catching your bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Heimische Suppen",
+            "tip": "Frisch zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi levesek",
+            "tip": "Frissen készítve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supe locale",
+            "tip": "Preparate proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local soups",
+            "tip": "Freshly prepared."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ruhiger Blick über die Dächer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom előtti tér",
+            "tip": "Csendes kilátás a háztetőkre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii",
+            "tip": "Vedere liniștită peste acoperișuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "Quiet view over the rooftops.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Museumsshop",
+            "tip": "Bücher über die Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi bolt",
+            "tip": "Könyvek a vidékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Cărți despre regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Shop",
+            "tip": "Books about the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus.",
+          "Fahrkarten gibt es beim Fahrer."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet.",
+          "Jegyet a sofőrnél lehet venni."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans.",
+          "Biletele se pot cumpăra de la șofer."
+        ],
+        "en": [
+          "Check the bus schedule in advance.",
+          "Tickets can be bought from the driver."
+        ]
+      }
+    }
+  }
+}

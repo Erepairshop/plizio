@@ -1,0 +1,959 @@
+{
+  "city_id": "buje",
+  "anchor": {
+    "name": "Buje",
+    "coords": [
+      13.6594,
+      45.4106
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Die Altstadt von Buje",
+            "hu": "Buje óvárosa",
+            "ro": "Orașul vechi Buje",
+            "en": "Buje Old Town"
+          },
+          "coords": [
+            13.658,
+            45.411
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie am zentralen Platz mit einem Kaffee.",
+            "hu": "Kezdjen a főtéren egy jó kávéval.",
+            "ro": "Începeți în piața centrală cu o cafea.",
+            "en": "Start with a coffee in the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Hl. Servulus",
+            "hu": "Szent Servulus-székesegyház",
+            "ro": "Catedrala Sfântul Servulus",
+            "en": "Cathedral of St. Servulus"
+          },
+          "coords": [
+            13.6585,
+            45.4105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prachtvolle Barockorgel.",
+            "hu": "Csodálja meg a pompás barokk orgonát.",
+            "ro": "Admirați orga barocă magnifică.",
+            "en": "Admire the magnificent baroque organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm von Buje",
+            "hu": "Bujei harangtorony",
+            "ro": "Turnul cu clopotniță din Buje",
+            "en": "Buje Bell Tower"
+          },
+          "coords": [
+            13.6588,
+            45.4102
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einer der höchsten Türme Istriens mit Weitblick.",
+            "hu": "Isztria egyik legmagasabb tornya, pazar kilátással.",
+            "ro": "Unul dintre cele mai înalte turnuri din Istria.",
+            "en": "One of the tallest towers in Istria with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            13.6575,
+            45.4115
+          ],
+          "category": "museums",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das traditionelle istrische Leben.",
+            "hu": "Merüljön el a hagyományos isztriai életmódban.",
+            "ro": "Descoperiți viața tradițională istriană.",
+            "en": "Dive into traditional Istrian life."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei bástya",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            13.6565,
+            45.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Teil der alten Stadtbefestigung.",
+            "hu": "A régi városfalrendszer része.",
+            "ro": "Parte a vechii fortificații a orașului.",
+            "en": "Part of the old city fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes der Barmherzigkeit",
+            "hu": "Irgalmas Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of the Mother of Mercy"
+          },
+          "coords": [
+            13.662,
+            45.4085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beachtenswerte Kunstwerke im Innenraum.",
+            "hu": "Figyelemre méltó műalkotások a belső térben.",
+            "ro": "Opere de artă remarcabile în interior.",
+            "en": "Notable artworks in the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Buje, die 'Wächterin Istriens', thront majestätisch auf einem Hügel. Unser Rundgang beginnt in der mittelalterlichen Altstadt, führt zur Kathedrale des Hl. Servulus und hinauf auf den Glockenturm. Nach einem Besuch im Ethnographischen Museum erkunden wir die venezianischen Verteidigungsanlagen. Die Tour endet an der prächtigen Wallfahrtskirche am Fuße des Altstadthügels.",
+        "hu": "Buje, 'Isztria őrzője', fenségesen trónol a dombtetőn. Sétánk a középkori óvárosban kezdődik, érintve a Szent Servulus-székesegyházat és a harangtornyot. A Néprajzi Múzeum kincsei után a velencei bástyát keressük fel. A napot az Irgalmas Boldogasszony templom megtekintésével zárjuk az óváros lábánál.",
+        "ro": "Buje, 'păzitorul Istriei', tronează maiestuos pe un deal. Turul nostru începe în orașul vechi medieval, trece pe la Catedrala Sf. Servulus și urcă în turnul cu clopotniță. După o vizită la Muzeul Etnografic, explorăm fortificațiile venețiene. Turul se încheie la superba biserică de pelerinaj de la poalele dealului.",
+        "en": "Buje, the 'Sentinel of Istria', sits majestically on a hill. Our walk begins in the medieval old town, leads to the Cathedral of St. Servulus, and up the bell tower. After a visit to the Ethnographic Museum, we explore the Venetian fortifications. The tour ends at the magnificent pilgrimage church at the foot of the old town hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buje Bier",
+            "tip": "Probieren Sie das lokale Craft-Bier von San Servolo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bujei sör",
+            "tip": "Kóstolja meg a San Servolo helyi kézműves sörét."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Berea Buje",
+            "tip": "Încercați berea artizanală locală San Servolo."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buje Beer",
+            "tip": "Try the local San Servolo craft beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtmauer-Promenade",
+            "tip": "Stiller Weg mit Blick auf die Olivenhaine.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfal-sétány",
+            "tip": "Csendes út kilátással az olajfaligetekre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada zidului cetății",
+            "tip": "Drum liniștit cu vedere spre livezile de măslini.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Wall Promenade",
+            "tip": "Quiet path with a view of olive groves.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffel-Spezialitäten",
+            "tip": "Buje liegt am Rande der Trüffelregion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgomba",
+            "tip": "Buje a szarvasgomba-régió peremén fekszik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități cu trufe",
+            "tip": "Buje se află la marginea regiunii trufelor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Specialties",
+            "tip": "Buje is located at the edge of the truffle region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buje hat viele steile Gassen, stellen Sie sich auf Treppen ein.",
+          "Der Glockenturm bietet bei klarem Wetter Sicht bis zu den Alpen."
+        ],
+        "hu": [
+          "Buje utcái meredekek, készüljön sok lépcsőre.",
+          "Tiszta időben a harangtoronyból az Alpokig is ellátni."
+        ],
+        "ro": [
+          "Buje are multe străduțe abrupte, pregătiți-vă pentru trepte.",
+          "Turnul cu clopotniță oferă vedere până la Alpi în zilele senine."
+        ],
+        "en": [
+          "Buje has many steep alleys, so be prepared for stairs.",
+          "On clear days, the bell tower offers views as far as the Alps."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Die Altstadt von Buje",
+            "hu": "Buje óvárosa",
+            "ro": "Orașul vechi Buje",
+            "en": "Buje Old Town"
+          },
+          "coords": [
+            13.658,
+            45.411
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am oberen Platz.",
+            "hu": "Kezdje a túrát a felső téren.",
+            "ro": "Începeți turul în piața de sus.",
+            "en": "Start your tour in the upper square."
+          }
+        },
+        {
+          "name": {
+            "de": "Buje Weinstraßen",
+            "hu": "Bujei borutak",
+            "ro": "Drumurile vinului din Buje",
+            "en": "Buje Wine Roads"
+          },
+          "coords": [
+            13.68,
+            45.43
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die sanften Weinberge.",
+            "hu": "Tekerjen a lankás szőlőültetvények között.",
+            "ro": "Pedalați printre podgoriile line.",
+            "en": "Cycle through the gentle vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Momjan",
+            "hu": "Momjani vár",
+            "ro": "Castelul Momjan",
+            "en": "Momjan Castle"
+          },
+          "coords": [
+            13.7115,
+            45.4435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beeindruckende Ruine auf einem Felsvorsprung.",
+            "hu": "Lenyűgöző várrom egy sziklakiszögellésen.",
+            "ro": "Ruine impresionante pe o proeminență stâncoasă.",
+            "en": "Impressive ruins on a rocky outcrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei bástya",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            13.6565,
+            45.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Schöner Rückweg nach Buje über Feldwege.",
+            "hu": "Szép visszavezető út Bujéba mezei utakon.",
+            "ro": "Drum frumos de întoarcere spre Buje pe poteci.",
+            "en": "Nice way back to Buje via field paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes der Barmherzigkeit",
+            "hu": "Irgalmas Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of the Mother of Mercy"
+          },
+          "coords": [
+            13.662,
+            45.4085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss im unteren Teil der Stadt.",
+            "hu": "Pihentető befejezés a város alsó részén.",
+            "ro": "Încheiere relaxată în partea de jos a orașului.",
+            "en": "Relaxed ending in the lower part of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt uns durch das Herz des istrischen Weinlandes. Von der Altstadt Buje radeln wir hinaus zu den berühmten Weinstraßen und weiter zum malerischen Schloss Momjan. Die Route bietet anspruchsvolle Anstiege, wird aber mit grandiosen Panoramablicken belohnt. Auf dem Rückweg genießen wir die typische Hügellandschaft und die historische Architektur Bujes.",
+        "hu": "Ez a kerékpártúra az isztriai borvidék szívébe vezet. Buje óvárosából indulva a híres borutakon tekerünk egészen a festői momjani várig. Az útvonal tartogat emelkedőket, de a panoráma mindenért kárpótol. Visszafelé élvezzük a jellegzetes domvidéket és Buje történelmi építészetét.",
+        "ro": "Această tură cu bicicleta ne poartă prin inima regiunii viticole istriene. Din orașul vechi Buje pedalăm spre faimoasele drumuri ale vinului și mai departe spre pitorescul castel Momjan. Traseul oferă urcări provocatoare, dar este răsplătit cu panorame grandioase. La întoarcere ne bucurăm de peisajul deluros tipic și de arhitectura istorică a orașului Buje.",
+        "en": "This bike tour takes us through the heart of Istrian wine country. From Buje's old town, we cycle out to the famous wine roads and on to the picturesque Momjan Castle. The route offers challenging climbs but rewards you with magnificent panoramic views. On the way back, we enjoy the typical hilly landscape and historical architecture of Buje."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Momjan Malvasia",
+            "tip": "Verpassen Sie nicht den Muskatwein in Momjan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Momjani Malvazija",
+            "tip": "Ne hagyja ki a momjani muskotályt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Momjan Malvasia",
+            "tip": "Nu ratați vinul muscat în Momjan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Momjan Malvasia",
+            "tip": "Don't miss the Muscat wine in Momjan."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schloss Momjan Ruine",
+            "tip": "Ein mystischer Ort zum Innehalten.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Momjani várrom",
+            "tip": "Misztikus hely az elcsendesedéshez.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele castelului Momjan",
+            "tip": "Un loc mistic pentru reculegere.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Momjan Castle Ruins",
+            "tip": "A mystical place to pause and reflect.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut Kozlović",
+            "tip": "Prämierte Weine direkt beim Erzeuger kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozlović borászat",
+            "tip": "Díjnyertes borok közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Kozlović",
+            "tip": "Cumpărați vinuri premiate direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozlović Winery",
+            "tip": "Buy award-winning wines directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Region ist Teil der Parenzana-Radstrecke.",
+          "Planen Sie Zeit für Weinproben ein, aber fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A régió a Parenzana kerékpárút része.",
+          "Tervezzen időt borkóstolóra, de tekerjen óvatosan."
+        ],
+        "ro": [
+          "Regiunea face parte din traseul de biciclete Parenzana.",
+          "Rezervați timp pentru degustări de vin, dar pedalați cu atenție."
+        ],
+        "en": [
+          "The region is part of the Parenzana bike trail.",
+          "Plan time for wine tastings, but cycle carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 30.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale des Hl. Servulus",
+            "hu": "Szent Servulus-székesegyház",
+            "ro": "Catedrala Sfântul Servulus",
+            "en": "Cathedral of St. Servulus"
+          },
+          "coords": [
+            13.6585,
+            45.4105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkplatz an der Stadtmauer nutzen.",
+            "hu": "Használja a városfal melletti parkolót.",
+            "ro": "Folosiți parcarea de lângă zidul cetății.",
+            "en": "Use the parking lot by the city wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographisches Museum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            13.6575,
+            45.4115
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kompakte Ausstellung im Herzen der Altstadt.",
+            "hu": "Kompakt kiállítás az óváros szívében.",
+            "ro": "Expoziție compactă în inima orașului vechi.",
+            "en": "Compact exhibition in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Momjan",
+            "hu": "Momjani vár",
+            "ro": "Castelul Momjan",
+            "en": "Momjan Castle"
+          },
+          "coords": [
+            13.7115,
+            45.4435
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt durch die Weinberge nach Momjan.",
+            "hu": "Rövid autózás Momjanba a szőlők között.",
+            "ro": "Drum scurt prin podgorii spre Momjan.",
+            "en": "Short drive through the vineyards to Momjan."
+          }
+        },
+        {
+          "name": {
+            "de": "Buje Weinstraßen",
+            "hu": "Bujei borutak",
+            "ro": "Drumurile vinului din Buje",
+            "en": "Buje Wine Roads"
+          },
+          "coords": [
+            13.68,
+            45.43
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuch eines renommierten Weinguts.",
+            "hu": "Látogatás egy neves borászatnál.",
+            "ro": "Vizită la o cramă renumită.",
+            "en": "Visit to a renowned winery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes der Barmherzigkeit",
+            "hu": "Irgalmas Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of the Mother of Mercy"
+          },
+          "coords": [
+            13.662,
+            45.4085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Gute Erreichbarkeit am Fuße Bujes.",
+            "hu": "Könnyen megközelíthető Buje lábánál.",
+            "ro": "Acces ușor la poalele orașului Buje.",
+            "en": "Easily accessible at the foot of Buje."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht es, sowohl die Kulturdenkmäler Bujes als auch die malerische Umgebung mühelos zu erkunden. Wir starten in der Oberstadt mit Kathedrale und Museum, fahren dann hinaus zum Schloss Momjan und kehren über die Panoramastraßen der Weinregion zurück. Ein perfekter Tag für Genießer von Geschichte und istrischer Lebensart.",
+        "hu": "Az autó lehetővé teszi, hogy Buje kulturális emlékeit és festői környékét is könnyedén felfedezzük. A felsővárosban kezdünk a székesegyházzal és múzeummal, majd a momjani várhoz autózunk. A borvidék panorámaútjain térünk vissza, lezárva a napot. Tökéletes program a történelem és az isztriai életmód kedvelőinek.",
+        "ro": "Mașina ne permite să explorăm fără efort atât monumentele culturale din Buje, cât și împrejurimile pitorești. Începem în orașul de sus cu catedrala și muzeul, apoi conducem spre castelul Momjan și ne întoarcem pe drumurile panoramice ale regiunii viticole. O zi perfectă pentru iubitorii de istorie și de stil de viață istrian.",
+        "en": "The car makes it easy to explore both Buje's cultural monuments and its picturesque surroundings. We start in the upper town with the cathedral and museum, then drive out to Momjan Castle and return via the scenic roads of the wine region. A perfect day for lovers of history and the Istrian way of life."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Staroštit",
+            "tip": "Traditionelle Jota und Wildgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staroštit",
+            "tip": "Hagyományos jota (bableves) és vadételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Staroštit",
+            "tip": "Jota tradițională și preparate din vânat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Staroštit",
+            "tip": "Traditional 'jota' stew and wild game dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Buje",
+            "tip": "Blick über die Hügel bis zur Adria.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bujei kilátópont",
+            "tip": "Kilátás a dombokon át az Adriáig.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Buje",
+            "tip": "Vedere peste dealuri până la Adriatica.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Buje Viewpoint",
+            "tip": "View over the hills to the Adriatic Sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hiesiges Olivenöl",
+            "tip": "Besuchen Sie die Ölmühle Basiaco."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Látogassa meg a Basiaco olajütőt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Vizitați moara de ulei Basiaco."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Visit the Basiaco oil mill."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie am Ortseingang, die Altstadt ist eng.",
+          "Die Straßen nach Momjan sind schmal, fahren Sie vorausschauend."
+        ],
+        "hu": [
+          "Parkoljon a város szélén, az óváros szűk.",
+          "A Momjanba vezető utak keskenyek, vezessen elővigyázatosan."
+        ],
+        "ro": [
+          "Parcați la intrarea în localitate, orașul vechi este strâmt.",
+          "Drumurile spre Momjan sunt înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "Park at the entrance to the town; the old town is narrow.",
+          "The roads to Momjan are narrow, so drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Buje",
+            "hu": "Bujei buszpályaudvar",
+            "ro": "Autogara Buje",
+            "en": "Buje Bus Station"
+          },
+          "coords": [
+            13.665,
+            45.405
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Knotenpunkt für Busse aus Umag und Pazin.",
+            "hu": "Csomópont az Umag és Pazin felől érkező buszoknak.",
+            "ro": "Nod rutier pentru autobuzele din Umag și Pazin.",
+            "en": "Hub for buses from Umag and Pazin."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes der Barmherzigkeit",
+            "hu": "Irgalmas Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of the Mother of Mercy"
+          },
+          "coords": [
+            13.662,
+            45.4085
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Direkt am Weg vom Bahnhof in die Altstadt.",
+            "hu": "Közvetlenül a pályaudvartól az óvárosba vezető úton.",
+            "ro": "Chiar pe drumul de la gară spre orașul vechi.",
+            "en": "Right on the way from the station to the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Altstadt von Buje",
+            "hu": "Buje óvárosa",
+            "ro": "Orașul vechi Buje",
+            "en": "Buje Old Town"
+          },
+          "coords": [
+            13.658,
+            45.411
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mittagspause in einem der Cafés am Platz.",
+            "hu": "Ebédszünet a tér egyik kávézójában.",
+            "ro": "Pauză de prânz la una dintre cafenelele din piață.",
+            "en": "Lunch break at one of the cafes in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale des Hl. Servulus",
+            "hu": "Szent Servulus-székesegyház",
+            "ro": "Catedrala Sfântul Servulus",
+            "en": "Cathedral of St. Servulus"
+          },
+          "coords": [
+            13.6585,
+            45.4105
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Punkt der Oberstadt.",
+            "hu": "A felsőváros központi pontja.",
+            "ro": "Punctul central al orașului de sus.",
+            "en": "Central point of the upper town."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Turm",
+            "hu": "Velencei bástya",
+            "ro": "Turnul Venețian",
+            "en": "Venetian Tower"
+          },
+          "coords": [
+            13.6565,
+            45.4125
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Schatten der alten Mauern.",
+            "hu": "Élvezze a régi falak árnyékát.",
+            "ro": "Bucurați-vă de umbra vechilor ziduri.",
+            "en": "Enjoy the shade of the old walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Buje ist gut in das istrische Busnetz integriert. Vom Busbahnhof aus steigen wir den Hügel hinauf, besuchen die Kirche der Barmherzigkeit und tauchen in die Gassen der Altstadt ein. Nach einer ausführlichen Erkundung der Kathedrale und des venezianischen Turms genießen wir das Treiben auf dem Hauptplatz, bevor es zurück zum Bahnhof geht.",
+        "hu": "Buje jól kapcsolódik az isztriai buszhálózathoz. A pályaudvartól felfelé haladunk a dombon, érintve az Irgalmas Boldogasszony templomot, majd elmerülünk az óváros utcáiban. A székesegyház és a velencei bástya megtekintése után a főtér nyüzsgését élvezzük, mielőtt visszatérnénk a buszunkhoz.",
+        "ro": "Buje este bine integrat în rețeaua de autobuze istriană. De la autogară urcăm dealul, vizităm biserica Milei și ne pierdem pe străduțele orașului vechi. După o explorare amănunțită a catedralei și a turnului venețian, ne bucurăm de atmosfera din piața principală înainte de a ne întoarce la gară.",
+        "en": "Buje is well integrated into the Istrian bus network. From the bus station, we climb the hill, visit the Church of Mercy, and dive into the alleys of the old town. After exploring the cathedral and the Venetian tower, we enjoy the bustle of the main square before heading back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Hausgemachte Pasta mit Trüffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malvasia trattoria",
+            "tip": "Házias tészta szarvasgombával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Paste de casă cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Malvasia",
+            "tip": "Homemade pasta with truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ruhiges Plätzchen hinter der Kathedrale.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Csendes zug a székesegyház mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Un loc liniștit în spatele catedralei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "A quiet spot behind the cathedral.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Vinothek",
+            "tip": "Große Auswahl an Weinen aus der Region Buje."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi vinotéka",
+            "tip": "Széles választék a bujei régió boraiból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinoteca locală",
+            "tip": "O selecție largă de vinuri din regiunea Buje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Vinotheque",
+            "tip": "Large selection of wines from the Buje region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse verkehren regelmäßig nach Umag und Novigrad.",
+          "Der Fußweg vom Bahnhof in die Oberstadt dauert etwa 15 Minuten."
+        ],
+        "hu": [
+          "A buszok rendszeresen járnak Umagba és Novigradba.",
+          "A gyalogút a pályaudvartól a felsővárosba kb. 15 perc."
+        ],
+        "ro": [
+          "Autobuzele circulă regulat spre Umag și Novigrad.",
+          "Drumul pe jos de la gară spre orașul de sus durează aproximativ 15 minute."
+        ],
+        "en": [
+          "Buses run regularly to Umag and Novigrad.",
+          "The walk from the station to the upper town takes about 15 minutes."
+        ]
+      }
+    }
+  }
+}

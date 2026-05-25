@@ -1,0 +1,944 @@
+{
+  "city_id": "dugi-otok-sali",
+  "anchor": {
+    "name": "Dugi otok (Sali)",
+    "coords": [
+      15.1583,
+      43.9417
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen von Sali",
+          "coords": [
+            15.1583,
+            43.9417
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bunte Treiben der Fischerboote.",
+            "hu": "Figyelje a halászhajók színes forgatagát.",
+            "ro": "Urmăriți agitația colorată a bărcilor de pescuit.",
+            "en": "Watch the colorful bustle of the fishing boats."
+          }
+        },
+        {
+          "name": "Bibliothek und Lesesaal",
+          "coords": [
+            15.1588,
+            43.9412
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kühler Rückzugsort mit Meerblick.",
+            "hu": "Hűvös pihenőhely kilátással a tengerre.",
+            "ro": "Un refugiu răcoros cu vedere la mare.",
+            "en": "A cool retreat with a sea view."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Marien",
+          "coords": [
+            15.1575,
+            43.9405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den prächtigen Altar und die alten Inschriften.",
+            "hu": "Tekintse meg a pompás oltárt és a régi feliratokat.",
+            "ro": "Vizitați altarul magnific și inscripțiile vechi.",
+            "en": "See the magnificent altar and ancient inscriptions."
+          }
+        },
+        {
+          "name": "Denkmal der Tovareća mužika",
+          "coords": [
+            15.159,
+            43.9415
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Symbol der humorvollen Esel-Musik-Tradition.",
+            "hu": "A humoros szamárzene hagyományának jelképe.",
+            "ro": "Simbolul tradiției umoristice a muzicii de măgari.",
+            "en": "The symbol of the humorous donkey music tradition."
+          }
+        },
+        {
+          "name": "Salisko polje (Sali-Feld)",
+          "coords": [
+            15.15,
+            43.935
+          ],
+          "category": "natural features",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spaziergang durch Jahrhunderte alte Olivenhaine.",
+            "hu": "Séta az évszázados olajfaligetekben.",
+            "ro": "Plimbare prin livezi de măslini vechi de secole.",
+            "en": "Walk through centuries-old olive groves."
+          }
+        },
+        {
+          "name": "Strand Linčarnica",
+          "coords": [
+            15.165,
+            43.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser bis zum Abend.",
+            "hu": "Élvezze a kristálytiszta vizet egészen estig.",
+            "ro": "Bucurați-vă de apa cristalină până seara.",
+            "en": "Enjoy the crystal clear water until evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sali empfängt Sie mit maritimem Charme am Hafen. Nach kulturellen Einblicken in der Bibliothek und der Marienkirche tauchen Sie ein in die Legende der Eselmusik. Der Nachmittag gehört der Natur: erst die Stille des Sali-Feldes, dann Sonne und Meer am Strand Linčarnica.",
+        "hu": "Sali tengerparti bájjal fogadja a kikötőben. A könyvtárban és a Mária-templomban tett kulturális látogatás után elmerülhetünk a szamárzene legendájában. A délután a természeté: előbb a Sali-mező csendje, majd napfény és tenger a Linčarnica strandon.",
+        "ro": "Sali vă întâmpină cu farmec maritim în port. După incursiunile culturale de la bibliotecă și biserica Sf. Maria, pătrundeți în legenda muzicii de măgari. După-amiaza aparține naturii: mai întâi liniștea câmpului Sali, apoi soare și mare pe plaja Linčarnica.",
+        "en": "Sali welcomes you with maritime charm at the port. After cultural insights at the library and St. Mary's Church, dive into the legend of the donkey music. The afternoon belongs to nature: first the silence of the Sali field, then sun and sea at Linčarnica beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Mardešić",
+            "tip": "Besuchen Sie den Laden der lokalen Fischkonservenfabrik."
+          },
+          {
+            "name": "Konoba Marin",
+            "tip": "Frischer Fisch und Tintenfischrisotto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mardešić",
+            "tip": "Látogassa meg a helyi halkonzervgyár mintaboltját."
+          },
+          {
+            "name": "Konoba Marin",
+            "tip": "Friss hal és tintahalas rizottó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mardešić",
+            "tip": "Vizitați magazinul fabricii locale de conserve de pește."
+          },
+          {
+            "name": "Konoba Marin",
+            "tip": "Pește proaspăt și risotto cu sepie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mardešić",
+            "tip": "Visit the shop of the local fish cannery."
+          },
+          {
+            "name": "Konoba Marin",
+            "tip": "Fresh fish and squid risotto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade",
+            "tip": "Abendlicher Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Unter den Olivenbäumen",
+            "tip": "Mittagsschlaf im Sali-Feld.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti sétány",
+            "tip": "Esti séta naplementekor.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Az olajfák alatt",
+            "tip": "Déli szieszta a Sali-mezőn.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de pe țărm",
+            "tip": "Plimbare de seară la apus.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Sub măslini",
+            "tip": "Somn de prânz în câmpul Sali.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Promenade",
+            "tip": "Evening walk at sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Under the Olives",
+            "tip": "Midday nap in Sali field.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sali Souvenirs",
+            "tip": "Handgefertigte Keramik."
+          },
+          {
+            "name": "Olivenöl von Sali",
+            "tip": "Direkt bei den Bauern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sali szuvenírek",
+            "tip": "Kézzel készített kerámiák."
+          },
+          {
+            "name": "Sali olívaolaj",
+            "tip": "Vásároljon közvetlenül a gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Sali",
+            "tip": "Ceramică lucrată manual."
+          },
+          {
+            "name": "Ulei de măsline Sali",
+            "tip": "Cumpărați direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sali Souvenirs",
+            "tip": "Handmade ceramics."
+          },
+          {
+            "name": "Sali Olive Oil",
+            "tip": "Buy directly from the farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sali ist der größte Ort auf der Insel und sehr lebendig.",
+          "Die Tovareća mužika tritt oft bei Festen im August auf.",
+          "Badeschuhe sind am Strand Linčarnica wegen der Felsen ratsam.",
+          "Besorgen Sie sich Wasser in Sali, bevor Sie zum Sali-Feld aufbrechen."
+        ],
+        "hu": [
+          "Sali a sziget legnagyobb települése és igen élénk.",
+          "A Tovareća mužika (szamárzene) gyakran fellép az augusztusi fesztiválokon.",
+          "A Linčarnica strandon a sziklák miatt javasolt a vízi cipő használata.",
+          "Szerezzen be vizet Saliban, mielőtt elindulna a Sali-mező felé."
+        ],
+        "ro": [
+          "Sali este cea mai mare localitate de pe insulă și foarte plină de viață.",
+          "Muzica de măgari (Tovareća mužika) poate fi auzită la festivalurile din august.",
+          "Se recomandă încălțăminte de apă pe plaja Linčarnica din cauza stâncilor.",
+          "Luați apă din Sali înainte de a pleca spre câmpul Sali."
+        ],
+        "en": [
+          "Sali is the largest town on the island and very lively.",
+          "The Tovareća mužika often performs at festivals in August.",
+          "Water shoes are advisable at Linčarnica beach due to the rocks.",
+          "Get water in Sali before heading out to the Sali field."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen von Sali",
+          "coords": [
+            15.1583,
+            43.9417
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Startort für die Tour.",
+            "hu": "Tökéletes kiindulópont a túrához.",
+            "ro": "Locul perfect de start pentru tur.",
+            "en": "Perfect starting point for the tour."
+          }
+        },
+        {
+          "name": "Naturpark Telašćica",
+          "coords": [
+            15.12,
+            43.89
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zu den beeindruckenden Klippen.",
+            "hu": "Kerekezzen a lenyűgöző sziklafalakhoz.",
+            "ro": "Mergeți cu bicicleta până la falezele impresionante.",
+            "en": "Cycle to the impressive cliffs."
+          }
+        },
+        {
+          "name": "Salisko polje (Sali-Feld)",
+          "coords": [
+            15.15,
+            43.935
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Schattige Wege unter Olivenbäumen.",
+            "hu": "Árnyas utak az olajfák alatt.",
+            "ro": "Drumuri umbrite sub măslini.",
+            "en": "Shady paths under olive trees."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Marien",
+          "coords": [
+            15.1575,
+            43.9405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Kulturstopp im Ort.",
+            "hu": "Rövid kulturális pihenő a településen.",
+            "ro": "Scurtă oprire culturală în localitate.",
+            "en": "Short cultural stop in the village."
+          }
+        },
+        {
+          "name": "Strand Linčarnica",
+          "coords": [
+            15.165,
+            43.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfrischung nach der Fahrt.",
+            "hu": "Felfrissülés a tekerés után.",
+            "ro": "Reîmprospătare după drum.",
+            "en": "Refreshment after the ride."
+          }
+        },
+        {
+          "name": "Hafen von Sali",
+          "coords": [
+            15.1583,
+            43.9417
+          ],
+          "category": "port",
+          "arrive_at": "17:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Rückkehr zum Ausgangspunkt.",
+            "hu": "Visszatérés a kiindulóponthoz.",
+            "ro": "Întoarcerea la punctul de plecare.",
+            "en": "Return to the starting point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie in den Süden zum Telašćica-Naturpark, wo Sie die majestätischen Klippen bewundern. Auf dem Rückweg genießen Sie die Ruhe der Olivenhaine und kühlen sich am Strand ab.",
+        "hu": "Ez a kerékpártúra délre, a Telašćica Natúrparkba vezet, ahol megcsodálhatja a fenséges sziklákat. Visszafelé élvezze az olajfaligetek nyugalmát, majd hűsöljön a tengerparton.",
+        "ro": "Acest tur cu bicicleta vă duce spre sud, în parcul natural Telašćica, unde admirați falezele maiestuoase. La întoarcere, savurați liniștea livezilor și vă răcoriți pe plajă.",
+        "en": "This bike tour takes you south to the Telašćica Nature Park, where you admire the majestic cliffs. On the way back, enjoy the peace of the olive groves and cool off at the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick am Salzsee",
+            "tip": "Nehmen Sie Proviant für den Naturpark mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a sóstónál",
+            "tip": "Vigyen magával élelmet a natúrparkba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic la lacul sărat",
+            "tip": "Luați provizii pentru parcul natural."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic at the salt lake",
+            "tip": "Take supplies with you for the nature park."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mir-See",
+            "tip": "Ein ruhiger Ort im Naturpark.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mir-tó",
+            "tip": "Csendes hely a natúrparkban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Mir",
+            "tip": "Un loc liniștit în parcul natural.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lake Mir",
+            "tip": "A quiet spot in the nature park.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Telašćica",
+            "tip": "Postkarten und lokale Kräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Telašćica szuvenírbolt",
+            "tip": "Képeslapok és helyi gyógynövények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin suveniruri",
+            "tip": "Vederi și ierburi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Telašćica souvenir shop",
+            "tip": "Postcards and local herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg zum Naturpark hat einige Steigungen.",
+          "Im Naturpark gibt es ausgewiesene Radwege.",
+          "Helmpflicht beachten und ausreichend Sonnenschutz verwenden."
+        ],
+        "hu": [
+          "A natúrparkhoz vezető úton vannak emelkedők.",
+          "A natúrparkban kijelölt kerékpárutak találhatók.",
+          "Használjon naptejet és viseljen bukósisakot."
+        ],
+        "ro": [
+          "Drumul spre parcul natural are câteva pante.",
+          "În parcul natural există trasee marcate pentru biciclete.",
+          "Folosiți protecție solară și purtați cască."
+        ],
+        "en": [
+          "The path to the nature park has some inclines.",
+          "There are designated bike trails in the nature park.",
+          "Use sunscreen and wear a helmet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 20.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Sali",
+          "coords": [
+            15.1583,
+            43.9417
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Frühstück mit Blick auf die Jachten.",
+            "hu": "Reggeli kilátással a jachtokra.",
+            "ro": "Mic dejun cu vedere la iahturi.",
+            "en": "Breakfast with a view of the yachts."
+          }
+        },
+        {
+          "name": "Naturpark Telašćica",
+          "coords": [
+            15.12,
+            43.89
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Parkplatz am Salzsee Mir.",
+            "hu": "Hajtson el a Mir-sóstó melletti parkolóig.",
+            "ro": "Conduceți până la parcarea de lângă lacul Mir.",
+            "en": "Drive to the parking lot near Lake Mir."
+          }
+        },
+        {
+          "name": "Salisko polje (Sali-Feld)",
+          "coords": [
+            15.15,
+            43.935
+          ],
+          "category": "natural features",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rand und gehen Sie ein Stück zu Fuß.",
+            "hu": "Parkoljon a szélén, és sétáljon egy kicsit.",
+            "ro": "Parcați la margine și mergeți puțin pe jos.",
+            "en": "Park at the edge and walk a bit."
+          }
+        },
+        {
+          "name": "Strand Linčarnica",
+          "coords": [
+            15.165,
+            43.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Naher Parkplatz vorhanden.",
+            "hu": "Közeli parkoló rendelkezésre áll.",
+            "ro": "Parcare disponibilă în apropiere.",
+            "en": "Nearby parking available."
+          }
+        },
+        {
+          "name": "Kirche St. Rochus",
+          "coords": [
+            15.1585,
+            43.942
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "18:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Halt vor dem Abendessen.",
+            "hu": "Rövid megálló vacsora előtt.",
+            "ro": "Scurtă oprire înainte de cină.",
+            "en": "Short stop before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die spektakulären Klippen von Telašćica. Danach erkunden Sie die uralten Olivenbäume von Sali und genießen einen langen Strandnachmittag.",
+        "hu": "Autóval könnyedén elérheti Telašćica látványos sziklafalait. Ezt követően felfedezheti Sali ősi olajfáit, majd élvezheti a hosszú délutánt a strandon.",
+        "ro": "Cu mașina ajungeți fără efort la falezele spectaculoase din Telašćica. Ulterior, explorați măslinii străvechi din Sali și vă bucurați de o după-amiază lungă pe plajă.",
+        "en": "By car, you can effortlessly reach the spectacular cliffs of Telašćica. Afterwards, explore the ancient olive trees of Sali and enjoy a long afternoon at the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Trapula",
+            "tip": "Hervorragende Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Trapula",
+            "tip": "Kiváló tenger gyümölcsei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Trapula",
+            "tip": "Fructe de mare excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Trapula",
+            "tip": "Excellent seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Telašćica",
+            "tip": "Blick auf die Kornaten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Telašćica kilátópont",
+            "tip": "Kilátás a Kornati-szigetekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere",
+            "tip": "Vedere spre insulele Kornati.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Telašćica Viewpoint",
+            "tip": "View of the Kornati islands.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Kaufen Sie Plavac Mali direkt vom Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Vásároljon Plavac Malit közvetlenül a borásztól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Cumpărați Plavac Mali direct de la cramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine",
+            "tip": "Buy Plavac Mali directly from the winemaker."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Für den Naturpark fällt eine Eintrittsgebühr an.",
+          "Die Straßen zum Park sind gut ausgebaut, aber eng.",
+          "Parken in Sali kann in der Hochsaison schwierig sein."
+        ],
+        "hu": [
+          "A natúrparkba belépődíjat kell fizetni.",
+          "A parkhoz vezető utak jól kiépítettek, de keskenyek.",
+          "Saliban a parkolás nehézkes lehet a főszezonban."
+        ],
+        "ro": [
+          "Pentru parcul natural se percepe taxă de intrare.",
+          "Drumurile spre parc sunt bune, dar înguste.",
+          "Parcarea în Sali poate fi dificilă în plin sezon."
+        ],
+        "en": [
+          "An entrance fee is required for the nature park.",
+          "Roads to the park are well-maintained but narrow.",
+          "Parking in Sali can be difficult in high season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Sali",
+          "coords": [
+            15.1583,
+            43.9417
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentrum der lokalen Bootsverbindungen.",
+            "hu": "A helyi hajójáratok központja.",
+            "ro": "Centrul conexiunilor navale locale.",
+            "en": "Center of local boat connections."
+          }
+        },
+        {
+          "name": "Bibliothek und Lesesaal",
+          "coords": [
+            15.1588,
+            43.9412
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Direkt am Hafen gelegen.",
+            "hu": "Közvetlenül a kikötőben található.",
+            "ro": "Situată chiar în port.",
+            "en": "Located directly in the port."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Marien",
+          "coords": [
+            15.1575,
+            43.9405
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Hafen.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "Scurtă plimbare din port.",
+            "en": "Short walk from the port."
+          }
+        },
+        {
+          "name": "Salisko polje (Sali-Feld)",
+          "coords": [
+            15.15,
+            43.935
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Ort aus leicht zu erreichen.",
+            "hu": "A faluból könnyen elérhető.",
+            "ro": "Ușor de ajuns din localitate.",
+            "en": "Easily reachable from the village."
+          }
+        },
+        {
+          "name": "Strand Linčarnica",
+          "coords": [
+            15.165,
+            43.938
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss vor der Abfahrt.",
+            "hu": "Tökéletes lezárás indulás előtt.",
+            "ro": "Final perfect înainte de plecare.",
+            "en": "Perfect conclusion before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Bootsverbindungen nach Sali, um diesen charmanten Ort zu erkunden. Alle wichtigen Sehenswürdigkeiten sind vom Hafen aus gut erreichbar.",
+        "hu": "Használja ki a Saliba tartó hajójáratokat a bájos település felfedezéséhez. Minden fontos látnivaló jól elérhető a kikötőből.",
+        "ro": "Folosiți cursele navale spre Sali pentru a explora această localitate fermecătoare. Toate atracțiile importante sunt ușor accesibile din port.",
+        "en": "Take advantage of the boat connections to Sali to explore this charming village. All major sights are easily accessible from the port."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pekara Sali",
+            "tip": "Probieren Sie lokales Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pekara Sali",
+            "tip": "Kóstolja meg a helyi péksüteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pekara Sali",
+            "tip": "Gustați produsele de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pekara Sali",
+            "tip": "Try local pastries."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferbank",
+            "tip": "Blick auf das offene Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti pad",
+            "tip": "Kilátás a nyílt tengerre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banca de pe țărm",
+            "tip": "Vedere spre marea deschisă.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Bench",
+            "tip": "View of the open sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt",
+            "tip": "Frühmorgens frischen Fang kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Halpiac",
+            "tip": "Vásároljon friss fogást kora reggel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește",
+            "tip": "Cumpărați pește proaspăt dimineața devreme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fish Market",
+            "tip": "Buy fresh catch early in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Rückfahrzeiten der Schnellboote nach Zadar.",
+          "Tickets am Kiosk oder online kaufen.",
+          "Im Hafen gibt es WLAN-Hotspots."
+        ],
+        "hu": [
+          "Ellenőrizze a Zadarba tartó gyorshajók menetrendjét.",
+          "Vásároljon jegyet a kioszkban vagy online.",
+          "A kikötőben ingyenes WiFi pontok találhatók."
+        ],
+        "ro": [
+          "Verificați orele de întoarcere ale barcelor rapide spre Zadar.",
+          "Cumpărați bilete de la chioșc sau online.",
+          "În port există hotspot-uri WiFi."
+        ],
+        "en": [
+          "Check the return times of the fast boats to Zadar.",
+          "Buy tickets at the kiosk or online.",
+          "There are Wi-Fi hotspots in the port."
+        ]
+      }
+    }
+  }
+}

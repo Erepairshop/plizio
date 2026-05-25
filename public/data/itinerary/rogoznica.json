@@ -1,0 +1,611 @@
+{
+  "city_id": "rogoznica",
+  "anchor": {
+    "name": "Rogoznica",
+    "coords": [
+      15.9658,
+      43.5267
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Rogoznica",
+            "hu": "Rogoznica óvárosa",
+            "ro": "Orașul vechi Rogoznica",
+            "en": "Rogoznica Old Town"
+          },
+          "coords": [
+            15.9685,
+            43.5255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Frühstücken Sie in einer der kleinen Gassen am Morgen.",
+            "hu": "Reggelizzünk az egyik kis sikátorban.",
+            "ro": "Luați micul dejun pe una dintre străduțele înguste.",
+            "en": "Have breakfast in one of the small narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybevétele templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            15.9692,
+            43.5248
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Achten Sie auf die Steinmetzarbeiten am Turm.",
+            "hu": "Figyeljük meg a torony kőfaragványait.",
+            "ro": "Admirați sculpturile în piatră de pe turn.",
+            "en": "Observe the stonework on the tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Frapa",
+            "hu": "Marina Frapa",
+            "ro": "Marina Frapa",
+            "en": "Marina Frapa"
+          },
+          "coords": [
+            15.9615,
+            43.5295
+          ],
+          "category": "port",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Besuchen Sie die Unterwasserbar im Yachthafen.",
+            "hu": "Látogassuk meg a kikötő víz alatti bárját.",
+            "ro": "Vizitați barul subacvatic din port.",
+            "en": "Visit the underwater bar in the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Miline",
+            "hu": "Miline strand",
+            "ro": "Plaja Miline",
+            "en": "Miline Beach"
+          },
+          "coords": [
+            15.9635,
+            43.5312
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Perfekt für Familien durch das flache Wasser.",
+            "hu": "A sekély víz miatt ideális családoknak.",
+            "ro": "Perfect pentru familii datorită apei puțin adânci.",
+            "en": "Perfect for families due to the shallow water."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenaugen-See",
+            "hu": "Sárkány-szem tó",
+            "ro": "Lacul Ochiul Dragonului",
+            "en": "Dragon's Eye Lake"
+          },
+          "coords": [
+            15.9595,
+            43.5305
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Springen Sie von den Klippen in das salzige Wasser.",
+            "hu": "Ugorjunk a sziklákról a sós vízbe.",
+            "ro": "Săriți de pe stânci în apa sărată.",
+            "en": "Jump from the cliffs into the salty water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kap Gradina",
+            "hu": "Gradina-fok",
+            "ro": "Capul Gradina",
+            "en": "Cape Gradina"
+          },
+          "coords": [
+            15.9555,
+            43.5285
+          ],
+          "category": "natural features",
+          "arrive_at": "17:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Genießen Sie den Sonnenuntergang an der kleinen Kapelle.",
+            "hu": "Élvezzük a naplementét a kis kápolnánál.",
+            "ro": "Bucurați-vă de apus la mica capelă.",
+            "en": "Enjoy the sunset by the small chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die charmanten Gassen der Altstadt auf der Insel. Mittags schlendern Sie durch die luxuriöse Marina Frapa, eine der schönsten an der Adria. Nachmittags entspannen Sie am Strand Miline und besuchen das Naturphänomen des Drachenaugen-Sees. Den Abend lassen Sie bei einem romantischen Spaziergang zum Kap Gradina ausklingen.",
+        "hu": "A reggelt a szigeten fekvő óváros hangulatos utcáin kezdjük. Délben a Marina Frapa luxusjachtjai között sétálunk, ami az Adria egyik legszebb kikötője. Délután a Miline strandon pihenünk, majd megnézzük a Sárkány-szem tó természeti csodáját. Az estét egy romantikus sétával zárjuk a Gradina-fokhoz.",
+        "ro": "Dimineața explorați străduțele fermecătoare ale orașului vechi de pe insulă. La prânz vă plimbați prin luxoasa Marina Frapa, una dintre cele mai frumoase porturi de la Adriatică. După-amiaza vă relaxați pe plaja Miline și vizitați fenomenul natural al Lacului Ochiul Dragonului. Încheiați seara cu o plimbare romantică spre Capul Gradina.",
+        "en": "Start your morning in the charming streets of the old town on the island. At noon, stroll through the luxurious Marina Frapa, one of the most beautiful marinas on the Adriatic. In the afternoon, relax at Miline Beach and visit the natural phenomenon of Dragon's Eye Lake. Finish the evening with a romantic walk to Cape Gradina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rogoznička Popara",
+            "tip": "Fischeintopf im Restaurant Antonijo"
+          },
+          {
+            "name": "Pršut & Käse",
+            "tip": "Lokale Delikatessen in der Konoba Škoj"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rogoznicai Popara",
+            "tip": "Halragu az Antonijo étteremben"
+          },
+          {
+            "name": "Pršut és sajt",
+            "tip": "Helyi finomságok a Konoba Škoj-ban"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Popara de Rogoznica",
+            "tip": "Tocăniță de pește la restaurantul Antonijo"
+          },
+          {
+            "name": "Pršut și brânză",
+            "tip": "Delicii locale la Konoba Škoj"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rogoznica Popara",
+            "tip": "Fish stew at Restaurant Antonijo"
+          },
+          {
+            "name": "Pršut & Cheese",
+            "tip": "Local delicacies at Konoba Škoj"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle Gospa od Kapelice",
+            "tip": "Stiller Ort direkt am Meer",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lavendel-Labyrinth",
+            "tip": "Duftende Entspannung im Grünen",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gospa od Kapelice kápolna",
+            "tip": "Csendes hely közvetlenül a tengernél",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Levendula-labirintus",
+            "tip": "Illatos kikapcsolódás a zöldben",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Gospa od Kapelice",
+            "tip": "Loc liniștit direct la mare",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Labirintul de lavandă",
+            "tip": "Relaxare parfumată în natură",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gospa od Kapelice Chapel",
+            "tip": "Quiet spot right by the sea",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Lavender Labyrinth",
+            "tip": "Fragrant relaxation in the greenery",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Olivenöl"
+          },
+          {
+            "name": "Marina Shop",
+            "tip": "Exklusive Segelbekleidung"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök és olívaolaj"
+          },
+          {
+            "name": "Marina Shop",
+            "tip": "Exkluzív vitorlás ruházat"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete și ulei de măsline"
+          },
+          {
+            "name": "Marina Shop",
+            "tip": "Îmbrăcăminte exclusivă de navigație"
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and olive oil"
+          },
+          {
+            "name": "Marina Shop",
+            "tip": "Exclusive sailing apparel"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Rogoznica ist eine Insel, die durch einen Damm verbunden ist.",
+          "Tragen Sie Badeschuhe für den Drachenaugen-See.",
+          "Die Marina Frapa bietet kostenloses WLAN für Besucher.",
+          "Schatten ist am Kap Gradina rar, bringen Sie einen Hut mit."
+        ],
+        "hu": [
+          "Rogoznica egy sziget, amelyet töltés köt össze a szárazfölddel.",
+          "Viseljünk úszócipőt a Sárkány-szem tónál.",
+          "A Marina Frapa ingyenes Wi-Fi-t kínál a látogatóknak.",
+          "A Gradina-fokon kevés az árnyék, hozzunk kalapot."
+        ],
+        "ro": [
+          "Rogoznica este o insulă legată printr-un dig de uscat.",
+          "Purtați încălțăminte de apă pentru Lacul Ochiul Dragonului.",
+          "Marina Frapa oferă Wi-Fi gratuit pentru vizitatori.",
+          "Umbra este rară la Capul Gradina, aduceți o pălărie."
+        ],
+        "en": [
+          "Rogoznica is an island connected by a causeway.",
+          "Wear water shoes for the Dragon's Eye Lake.",
+          "Marina Frapa offers free Wi-Fi for visitors.",
+          "Shade is scarce at Cape Gradina, bring a hat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Frapa",
+            "hu": "Marina Frapa",
+            "ro": "Marina Frapa",
+            "en": "Marina Frapa"
+          },
+          "coords": [
+            15.9615,
+            43.5295
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Starten Sie Ihre Tour am gläsernen Drachen.",
+            "hu": "Kezdjük a túrát az üvegsárkánynál.",
+            "ro": "Începeți turul la dragonul de sticlă.",
+            "en": "Start your tour at the glass dragon."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenaugen-See",
+            "hu": "Sárkány-szem tó",
+            "ro": "Lacul Ochiul Dragonului",
+            "en": "Dragon's Eye Lake"
+          },
+          "coords": [
+            15.9595,
+            43.5305
+          ],
+          "category": "natural features",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der Radweg führt direkt am Ufer entlang.",
+            "hu": "A kerékpárút közvetlenül a part mentén halad.",
+            "ro": "Pista de biciclete trece direct pe mal.",
+            "en": "The bike path runs directly along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavendel-Labyrinth",
+            "hu": "Levendula-labirintus",
+            "ro": "Labirintul de lavandă",
+            "en": "Lavender Labyrinth"
+          },
+          "coords": [
+            15.9525,
+            43.5352
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein verstecktes Juwel abseits der Hauptwege.",
+            "hu": "Egy rejtett kincs a főutaktól távol.",
+            "ro": "O bijuterie ascunsă departe de drumurile principale.",
+            "en": "A hidden gem away from the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von der Kapelle",
+            "hu": "Szent Szűz kápolna",
+            "ro": "Biserica Maicii Domnului de la Capelă",
+            "en": "Church of Our Lady of the Chapel"
+          },
+          "coords": [
+            15.9558,
+            43.5288
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Wunderschöne Aussicht auf die offene See.",
+            "hu": "Gyönyörű kilátás a nyílt tengerre.",
+            "ro": "O priveliște minunată asupra mării deschise.",
+            "en": "Beautiful view of the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Miline",
+            "hu": "Miline strand",
+            "ro": "Plaja Miline",
+            "en": "Miline Beach"
+          },
+          "coords": [
+            15.9635,
+            43.5312
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Hier gibt es gute Fahrradständer.",
+            "hu": "Itt jó kerékpártárolók találhatók.",
+            "ro": "Există suporturi bune pentru biciclete aici.",
+            "en": "There are good bike racks here."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Rogoznica",
+            "hu": "Rogoznica óvárosa",
+            "ro": "Orașul vechi Rogoznica",
+            "en": "Rogoznica Old Town"
+          },
+          "coords": [
+            15.9685,
+            43.5255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Schieben Sie das Rad in den engen Gassen.",
+            "hu": "A szűk utcákban toljuk a kerékpárt.",
+            "ro": "Împingeți bicicleta pe străzile înguste.",
+            "en": "Push your bike in the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kap Gradina",
+            "hu": "Gradina-fok",
+            "ro": "Capul Gradina",
+            "en": "Cape Gradina"
+          },
+          "coords": [
+            15.9555,
+            43.5285
+          ],
+          "category": "natural features",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Bester Platz für das Abschlussfoto.",
+            "hu": "A legjobb hely a zárófotóhoz.",
+            "ro": "Cel mai bun loc pentru fotografia de final.",
+            "en": "Best spot for the final photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der malerischen Küste von Rogoznica. Sie beginnen an der Marina, umrunden den Drachenaugen-See und radeln zum Lavendel-Labyrinth. Nach einer langen Badepause am Strand Miline erkunden Sie die historische Altstadt und beenden den Tag am Kap Gradina.",
+        "hu": "Ez a kerékpártúra Rogoznica festői partvidékén vezet végig. A kikötőben kezdünk, megkerüljük a Sárkány-szem tavat, majd eltekerünk a levendula-labirintushoz. Egy hosszú strandolás után a Miline parton, felfedezzük a történelmi óvárost, és a napot a Gradina-foknál zárjuk.",
+        "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei pitorești din Rogoznica. Începeți la marină, ocoliți Lacul Ochiul Dragonului și pedalați spre Labirintul de lavandă. După o pauză lungă de baie pe plaja Miline, explorați centrul istoric și încheiați ziua la Capul Gradina.",
+        "en": "This bike tour takes you along the picturesque coast of Rogoznica. Start at the marina, circle the Dragon's Eye Lake, and cycle to the Lavender Labyrinth. After a long swimming break at Miline Beach, explore the historical old town and end the day at Cape Gradina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Tintenfisch",
+            "tip": "Frisch gefangen in der Konoba Mario"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett tintahal",
+            "tip": "Frissen fogva a Konoba Mario-ban"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamar la grătar",
+            "tip": "Proaspăt prins la Konoba Mario"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Squid",
+            "tip": "Freshly caught at Konoba Mario"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinienwald am Kap",
+            "tip": "Kühler Schatten für Pausen",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyőerdő a foknál",
+            "tip": "Hűvös árnyék a pihenéshez",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini de la cap",
+            "tip": "Umbră răcoroasă pentru pauze",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine forest at the cape",
+            "tip": "Cool shade for breaks",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Honig",
+            "tip": "Verkauf an den Straßenständen"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háziméz",
+            "tip": "Vásárlás az útmenti árusoknál"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de casă",
+            "tip": "Vânzare la standurile stradale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Honey",
+            "tip": "Sale at roadside stalls"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege am Ufer sind meist flach und gut befahrbar.",
+          "Vorsicht bei starkem Wind (Bura) auf den offenen Abschnitten.",
+          "Mieten Sie E-Bikes für die Hügel im Hinterland.",
+          "Fahrradhelme sind für Kinder unter 16 Jahren Pflicht."
+        ],
+        "hu": [
+          "A parti utak többnyire síkok és jól járhatók.",
+          "Vigyázzunk az erős szélre (Bura) a nyitott szakaszokon.",
+          "Béreljünk e-bike-ot a háttérben lévő dombokhoz.",
+          "A kerékpáros sisak 16 év alatti gyermekeknek kötelező."
+        ],
+        "ro": [
+          "Drumurile de pe mal sunt în mare parte plate și ușor de parcurs.",
+          "Atenție la vântul puternic (Bura) pe secțiunile deschise.",
+          "Închiriați e-bike-uri pentru dealurile din interior.",
+          "Căștile de bicicletă sunt obligatorii pentru copiii sub 16 ani."
+        ],
+        "en": [
+          "The shore paths are mostly flat and easy to ride.",
+          "Be careful of strong winds (Bura) on open sections.",
+          "Rent e-bikes for the hills in the hinterland.",
+          "Bicycle helmets are mandatory for children under 16."
+        ]
+      }
+    }
+  }
+}

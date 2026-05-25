@@ -1,0 +1,836 @@
+{
+  "city_id": "krka-lozovac",
+  "anchor": {
+    "name": "Krka NP (Lozovac)",
+    "coords": [
+      15.9667,
+      43.7967
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Aussichtspunkt Lozovac",
+          "coords": [
+            15.967,
+            43.797
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bester Blick auf den Canyon.",
+            "hu": "Legjobb kilátás a kanyonra.",
+            "ro": "Cea mai bună vedere asupra canionului.",
+            "en": "Best view over the canyon."
+          }
+        },
+        {
+          "name": "Skradinski buk Wasserfall",
+          "coords": [
+            15.965,
+            43.805
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Früh kommen für Fotos.",
+            "hu": "Érkezz korán a fotók miatt.",
+            "ro": "Vino devreme pentru poze.",
+            "en": "Arrive early for photos."
+          }
+        },
+        {
+          "name": "Ethno-Dorf Krka",
+          "coords": [
+            15.967,
+            43.806
+          ],
+          "category": "museums",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wassermühlen in Betrieb.",
+            "hu": "Működő vízimalmok.",
+            "ro": "Mori de apă în funcțiune.",
+            "en": "Watermills in operation."
+          }
+        },
+        {
+          "name": "Gastro-Pause",
+          "coords": [
+            15.968,
+            43.804
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie lokalen Schinken.",
+            "hu": "Kóstolja meg a helyi sonkát.",
+            "ro": "Gustați șunca locală.",
+            "en": "Try the local ham."
+          }
+        },
+        {
+          "name": "Lozovac Rückweg",
+          "coords": [
+            15.9667,
+            43.7967
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Shuttle-Bus ist inklusive.",
+            "hu": "A transzferbusz ingyenes.",
+            "ro": "Autobuzul de transfer este inclus.",
+            "en": "Shuttle bus is included."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Aussichtspunkt Lozovac, um das gewaltige Panorama des Krka-Canyons zu erfassen. Ein kurzer Abstieg führt Sie zum Skradinski buk, dem prächtigsten Wasserfall des Parks. Mittags erkunden Sie die traditionellen Handwerke im Ethno-Dorf. Nach einer Pause mit lokalen Köstlichkeiten kehren Sie entspannt zum Haupteingang zurück.",
+        "hu": "Kezdje a napot a lozovaci kilátónál, ahonnan belátni az egész Krka-kanyont. Egy rövid séta vezet a Skradinski bukhoz, a park leglátványosabb vízeséséhez. Délben fedezze fel a vízimalmokat az etnofaluban. Egy finom helyi ebéd után kényelmesen térjen vissza a bejárathoz a park fái alatt.",
+        "ro": "Începeți ziua la punctul de belvedere Lozovac pentru o panoramă superbă asupra canionului. O scurtă coborâre vă duce la Skradinski buk, cea mai mare cascadă a parcului. La prânz, vizitați satul etno pentru a vedea meșteșugurile vechi. După o pauză gastronomică, reveniți relaxat spre intrarea principală.",
+        "en": "Start your day at the Lozovac viewpoint to capture the vast panorama of the Krka canyon. A short walk leads you to Skradinski buk, the park's most magnificent waterfall. At midday, explore traditional crafts in the ethno-village. After a break with local delicacies, return relaxed to the main entrance."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Lozovac",
+            "tip": "Pršut und Peka-Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Lozovac",
+            "tip": "Pršut sonka és sült húsok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Lozovac",
+            "tip": "Pršut și preparate la peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Lozovac",
+            "tip": "Pršut ham and peka dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldpfad Lozovac",
+            "tip": "Vogelgezwitscher abseits der Massen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lozovac erdei ösvény",
+            "tip": "Madárcsicsergés a tömegtől távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca prin pădure",
+            "tip": "Cântecul păsărilor departe de mulțime.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest path Lozovac",
+            "tip": "Birdsong away from the crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "NP Souvenirshop",
+            "tip": "Honig und Lavendelprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "NP ajándékbolt",
+            "tip": "Méz és levendula termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "NP magazin suveniruri",
+            "tip": "Miere și produse cu lavandă."
+          }
+        ],
+        "en": [
+          {
+            "name": "NP Souvenir Shop",
+            "tip": "Honey and lavender products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk.",
+          "Nutzen Sie den Shuttle-Bus."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt.",
+          "Használja az ingyenes buszt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă.",
+          "Folosiți autobuzul parcului."
+        ],
+        "en": [
+          "Wear comfortable walking shoes.",
+          "Use the free shuttle bus."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Skradin Eingang",
+          "coords": [
+            15.922,
+            43.818
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radweg beginnt am Fluss.",
+            "hu": "A kerékpárút a folyó mellett indul.",
+            "ro": "Traseul începe pe malul râului.",
+            "en": "Trail starts by the river."
+          }
+        },
+        {
+          "name": "Skradinski buk",
+          "coords": [
+            15.965,
+            43.805
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Räder am Eingang parken.",
+            "hu": "Kerékpártárolók a bejáratnál.",
+            "ro": "Parcați bicicletele la intrare.",
+            "en": "Park bikes at the entrance."
+          }
+        },
+        {
+          "name": "Insel Visovac (Ufer)",
+          "coords": [
+            15.989,
+            43.856
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bootstransfer zur Insel.",
+            "hu": "Hajó visz át a szigetre.",
+            "ro": "Barca vă duce pe insulă.",
+            "en": "Boat transfer to the island."
+          }
+        },
+        {
+          "name": "Kloster Krka",
+          "coords": [
+            15.992,
+            43.896
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Alte Handschriften sehen.",
+            "hu": "Régi kéziratok a könyvtárban.",
+            "ro": "Vedeți manuscrisele vechi.",
+            "en": "See the ancient manuscripts."
+          }
+        },
+        {
+          "name": "Rückfahrt Skradin",
+          "coords": [
+            15.922,
+            43.818
+          ],
+          "category": "port",
+          "arrive_at": "15:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Abfahrt mit dem Rad.",
+            "hu": "Visszaút kerékpáron.",
+            "ro": "Retur pe bicicletă.",
+            "en": "Return by bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen von Skradin aus entlang der Krka zum Wasserfall Skradinski buk. Genießen Sie die frische Brise am Flussufer. Weiter nördlich erreichen Sie den Anleger zur Insel Visovac, einer Oase der Ruhe. Besuchen Sie das orthodoxe Kloster Krka, bevor Sie die malerische Strecke zurück nach Skradin antreten.",
+        "hu": "Bringázzon reggel Skradinból a folyóparton a Skradinski buk vízesésig. Élvezze a vízparti szellőt az úton. Északabbra érve csónakázzon át a Visovac-szigetre, a csend szigetére. Látogassa meg a Krka kolostort, majd a festői útvonalon tekerjen vissza Skradinba.",
+        "ro": "Pedalați dimineața de la Skradin pe malul râului Krka până la cascada Skradinski buk. Bucurați-vă de briza apei pe traseu. Mergând spre nord, ajungeți la debarcaderul pentru insula Visovac. Vizitați mănăstirea Krka înainte de a reveni pe traseul pitoresc spre Skradin.",
+        "en": "Cycle in the morning from Skradin along the Krka river to Skradinski buk waterfall. Enjoy the fresh river breeze on the way. Further north, reach the pier for Visovac Island, an oasis of peace. Visit the Krka Monastery before heading back on the scenic route to Skradin."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Cantinetta Skradin",
+            "tip": "Berühmtes Skradin-Risotto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cantinetta Skradin",
+            "tip": "Híres skradini rizottó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cantinetta Skradin",
+            "tip": "Celebrul risotto din Skradin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cantinetta Skradin",
+            "tip": "Famous Skradin risotto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Visovac Ufer",
+            "tip": "Stille unter Trauerweiden.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Visovac part",
+            "tip": "Csend a fűzfák alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Visovac",
+            "tip": "Liniște sub sălcii plângătoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Visovac Shore",
+            "tip": "Silence under willow trees.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Skradin Markt",
+            "tip": "Hausgemachter Käse und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skradini piac",
+            "tip": "Házi sajt és bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Skradin",
+            "tip": "Brânză de casă și vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skradin Market",
+            "tip": "Homemade cheese and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ausreichend Wasser mitnehmen.",
+          "Steigungen sind moderat."
+        ],
+        "hu": [
+          "Vigyen elég vizet.",
+          "Az emelkedők mérsékeltek."
+        ],
+        "ro": [
+          "Luați suficientă apă.",
+          "Pantele sunt moderate."
+        ],
+        "en": [
+          "Take plenty of water.",
+          "Climbs are moderate."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 45.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Skradinski buk",
+          "coords": [
+            15.965,
+            43.805
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parkplatz Lozovac nutzen.",
+            "hu": "Parkoljon Lozovacnál.",
+            "ro": "Folosiți parcarea Lozovac.",
+            "en": "Use Lozovac parking."
+          }
+        },
+        {
+          "name": "Visovac Aussichtspunkt",
+          "coords": [
+            15.985,
+            43.85
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Perfekt für Panoramafotos.",
+            "hu": "Tökéletes panorámaképekhez.",
+            "ro": "Perfect pentru poze panoramice.",
+            "en": "Perfect for panorama photos."
+          }
+        },
+        {
+          "name": "Roški slap Wasserfall",
+          "coords": [
+            15.975,
+            43.905
+          ],
+          "category": "natural features",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Halsband-Wasserfälle sehen.",
+            "hu": "Nézze meg az ezüst nyakláncot.",
+            "ro": "Vedeți cascadele guler.",
+            "en": "See the necklace waterfalls."
+          }
+        },
+        {
+          "name": "Kloster Krka",
+          "coords": [
+            15.992,
+            43.896
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Führung durch die Katakomben.",
+            "hu": "Vezetés a katakombákban.",
+            "ro": "Tur prin catacombe.",
+            "en": "Tour through the catacombs."
+          }
+        },
+        {
+          "name": "Römisches Lager Burnum",
+          "coords": [
+            16.018,
+            44.019
+          ],
+          "category": "landmark",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Einzige römische Bögen.",
+            "hu": "Az egyetlen épen maradt ívek.",
+            "ro": "Singurele arcade romane.",
+            "en": "The only Roman arches."
+          }
+        },
+        {
+          "name": "Manojlovac Wasserfall",
+          "coords": [
+            16.024,
+            44.015
+          ],
+          "category": "natural features",
+          "arrive_at": "16:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Höchster Wasserfall der Krka.",
+            "hu": "A Krka legmagasabb vízesése.",
+            "ro": "Cea mai înaltă cascadă.",
+            "en": "Highest Krka waterfall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die gesamte Vielfalt des Krka-Nationalparks. Starten Sie im Süden bei den großen Kaskaden und fahren Sie dann zum berühmten Aussichtspunkt auf die Insel Visovac. Der Roški slap bietet idyllische Mühlen. Besuchen Sie das historische Kloster und die römischen Ruinen von Burnum im Norden, bevor Sie den Tag am Manojlovac-Wasserfall beenden.",
+        "hu": "Autóval a Krka Nemzeti Park teljes arcát megismerheti. Kezdje délen a nagy vízeséseknél, majd hajtson a Visovac-szigetre néző panorámaúthoz. A Roški slap malmai után látogassa meg az északi kolostort és a római Burnum romjait. A napot a monumentális Manojlovac-vízesésnél zárja.",
+        "ro": "Cu mașina descoperiți întreaga diversitate a parcului național Krka. Începeți în sud la marile cascade, apoi mergeți la punctul de belvedere spre insula Visovac. Roški slap oferă mori idilice. Vizitați mănăstirea istorică și ruinele romane Burnum din nord, înainte de a încheia ziua la cascada Manojlovac.",
+        "en": "By car, you can discover the entire variety of Krka National Park. Start in the south at the large cascades and then drive to the famous viewpoint overlooking Visovac Island. Roški slap offers idyllic mills. Visit the historic monastery and the Roman ruins of Burnum in the north before ending the day at Manojlovac waterfall."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Roški slap",
+            "tip": "Forelle direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Roški slap",
+            "tip": "Pisztráng a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Roški slap",
+            "tip": "Păstrăv chiar pe apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Roški slap",
+            "tip": "Trout right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Manojlovac",
+            "tip": "Fast keine Touristen hier.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Manojlovac kilátó",
+            "tip": "Itt szinte nincs turista.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Manojlovac",
+            "tip": "Aproape fără turiști aici.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Manojlovac Viewpoint",
+            "tip": "Almost no tourists here.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt Drniš",
+            "tip": "Hausgemachte Schnäpse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drniš kistermelői piac",
+            "tip": "Házi pálinkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Drniš",
+            "tip": "Rachiu de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drniš Farmer's Market",
+            "tip": "Homemade brandies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tankstellen sind selten.",
+          "Straßen im Norden sind eng."
+        ],
+        "hu": [
+          "Kevés a benzinkút.",
+          "Északon szűkek az utak."
+        ],
+        "ro": [
+          "Benzinăriile sunt rare.",
+          "Drumurile din nord sunt înguste."
+        ],
+        "en": [
+          "Gas stations are rare.",
+          "Roads in the north are narrow."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 15.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Lozovac Busstop",
+          "coords": [
+            15.966,
+            43.796
+          ],
+          "category": "transportation",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkbus fährt alle 30 Min.",
+            "hu": "A parkbusz 30 percenként jár.",
+            "ro": "Autobuzul circulă la 30 min.",
+            "en": "Park bus runs every 30 min."
+          }
+        },
+        {
+          "name": "Skradinski buk",
+          "coords": [
+            15.965,
+            43.805
+          ],
+          "category": "natural features",
+          "arrive_at": "09:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Hinterer Rundweg ist ruhiger.",
+            "hu": "A hátsó útvonal csendesebb.",
+            "ro": "Traseul din spate e mai liniștit.",
+            "en": "Back trail is quieter."
+          }
+        },
+        {
+          "name": "Skradin Bootshafen",
+          "coords": [
+            15.922,
+            43.818
+          ],
+          "category": "port",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Boot ist im Ticket enthalten.",
+            "hu": "A hajó benne van a jegyben.",
+            "ro": "Barca e inclusă în bilet.",
+            "en": "Boat is included in ticket."
+          }
+        },
+        {
+          "name": "Lozovac Rückfahrt",
+          "coords": [
+            15.966,
+            43.796
+          ],
+          "category": "transportation",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bus nach Šibenik möglich.",
+            "hu": "Busz Šibenik felé elérhető.",
+            "ro": "Autobuz spre Šibenik disponibil.",
+            "en": "Bus to Šibenik available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das bequeme System aus Shuttle-Bussen und Booten. Starten Sie in Lozovac mit dem Bus zum Wasserfall. Nach der Erkundung der Wege nehmen Sie das Boot nach Skradin. Genießen Sie die Fahrt auf dem Fluss Krka. In Skradin können Sie entspannt essen und dann mit dem Linienbus oder Taxi zurückkehren.",
+        "hu": "Használja ki a park transzferbuszait és hajóit. Induljon Lozovacból busszal a vízesésekhez. A sétautak bejárása után szálljon hajóra Skradin felé. Élvezze a hajózást a Krka folyón. Skradinban ebédeljen meg, majd menetrend szerinti busszal vagy taxival térjen vissza.",
+        "ro": "Folosiți sistemul de autobuze și bărci al parcului. Plecați din Lozovac cu autobuzul spre cascadă. După explorarea potecilor, luați barca spre Skradin. Bucurați-vă de plimbarea pe râul Krka. În Skradin puteți mânca liniștit, apoi reveniți cu autobuzul de linie.",
+        "en": "Use the convenient system of shuttle buses and boats. Start in Lozovac with the bus to the waterfall. After exploring the trails, take the boat to Skradin. Enjoy the boat trip on the Krka River. In Skradin, have a relaxed meal and then return by regular bus or taxi."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Dalmatino Skradin",
+            "tip": "Lokale Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Dalmatino Skradin",
+            "tip": "Helyi tenger gyümölcsei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Dalmatino Skradin",
+            "tip": "Fructe de mare locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Dalmatino Skradin",
+            "tip": "Local seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oberer See Krka",
+            "tip": "Blick vom Bootsdeck.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső-tó Krka",
+            "tip": "Kilátás a hajó fedélzetéről.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul superior Krka",
+            "tip": "Vedere de pe puntea bărcii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper Lake Krka",
+            "tip": "View from the boat deck.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Stände in Skradin",
+            "tip": "Olivenöl und Liköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Skradini árusok",
+            "tip": "Olívaolaj és likőrök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe în Skradin",
+            "tip": "Ulei de măsline și lichioruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Skradin Stalls",
+            "tip": "Olive oil and liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bootsfahrpläne prüfen.",
+          "Tickets online vorbuchen."
+        ],
+        "hu": [
+          "Ellenőrizze a hajómenetrendet.",
+          "Foglaljon jegyet előre online."
+        ],
+        "ro": [
+          "Verificați orarul bărcilor.",
+          "Rezervați bilete online."
+        ],
+        "en": [
+          "Check boat schedules.",
+          "Pre-book tickets online."
+        ]
+      }
+    }
+  }
+}

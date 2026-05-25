@@ -1,0 +1,991 @@
+{
+  "city_id": "mlini",
+  "anchor": {
+    "name": "Mlini",
+    "coords": [
+      18.1731,
+      42.6306
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mlini Hafen",
+            "hu": "Mlini kikötő",
+            "ro": "Portul Mlini",
+            "en": "Mlini Harbor"
+          },
+          "coords": [
+            18.1735,
+            42.631
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schauen Sie den Fischerbooten zu.",
+            "hu": "Nézze meg a halászhajókat.",
+            "ro": "Priviți bărcile pescărești.",
+            "en": "Watch the fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Wassermühlen",
+            "hu": "Régi vízimalmok",
+            "ro": "Vechile mori de apă",
+            "en": "Old Water Mills"
+          },
+          "coords": [
+            18.1745,
+            42.6305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Namensgeber des Ortes (Mlini = Mühlen).",
+            "hu": "A hely névadói (Mlini = malmok).",
+            "ro": "Sursa numelui localității (Mlini = mori).",
+            "en": "Namesake of the town (Mlini = mills)."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Zavrelje",
+            "hu": "Zavrelje-patak",
+            "ro": "Râul Zavrelje",
+            "en": "Zavrelje Stream"
+          },
+          "coords": [
+            18.175,
+            42.63
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kühles Süßwasser trifft auf Meer.",
+            "hu": "Hűvös édesvíz találkozása a tengerrel.",
+            "ro": "Apa dulce rece se întâlnește cu marea.",
+            "en": "Cool freshwater meets the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Hilarius",
+            "hu": "Szent Hiláriusz templom",
+            "ro": "Biserica Sf. Ilarie",
+            "en": "Church of St. Hilary"
+          },
+          "coords": [
+            18.1725,
+            42.6295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historische Kirche nahe am Ufer.",
+            "hu": "Történelmi templom a part közelében.",
+            "ro": "Biserică istorică aproape de mal.",
+            "en": "Historical church near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de țărm",
+            "en": "Seafront Promenade"
+          },
+          "coords": [
+            18.17,
+            42.6285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schattiger Weg unter Pinien.",
+            "hu": "Árnyas út a fenyők alatt.",
+            "ro": "Drum umbrit sub pini.",
+            "en": "Shaded path under pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Mlini Strand",
+            "hu": "Mlini strand",
+            "ro": "Plaja Mlini",
+            "en": "Mlini Beach"
+          },
+          "coords": [
+            18.168,
+            42.628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser zum Baden.",
+            "hu": "Kristálytiszta víz a fürdéshez.",
+            "ro": "Apă cristalină pentru înot.",
+            "en": "Crystal clear water for swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mlini ist ein malerisches Fischerdorf mit einer einzigartigen Atmosphäre. Starten Sie am Hafen, bewundern Sie die namensgebenden Wassermühlen und spazieren Sie entlang der grünen Promenade zum Strand. Eine perfekte Mischung aus Natur, Geschichte und Entspannung an der Adria.",
+        "hu": "Mlini egy festői halászfalu egyedülálló hangulattal. Kezdjen a kikötőben, csodálja meg a névadó vízimalmokat, majd sétáljon végig a zöldellő sétányon a strandig. A természet, a történelem és az adriai pihenés tökéletes elegye.",
+        "ro": "Mlini este un sat pitoresc de pescari cu o atmosferă unică. Începeți la port, admirați morile de apă care dau numele locului și plimbați-vă pe promenada verde spre plajă. Un amestec perfect de natură, istorie și relaxare la Adriatică.",
+        "en": "Mlini is a picturesque fishing village with a unique atmosphere. Start at the harbor, admire the namesake water mills, and walk along the green promenade to the beach. A perfect blend of nature, history, and Adriatic relaxation."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Marinero",
+            "tip": "Probieren Sie Meeresfrüchte-Risotto."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marinero Konoba",
+            "tip": "Kóstolja meg a tenger gyümölcsei rizottót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Marinero",
+            "tip": "Încercați risotto cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Marinero",
+            "tip": "Try the seafood risotto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer Zavrelje",
+            "tip": "Ruhiger Platz im Schatten der Bäume.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zavrelje-part",
+            "tip": "Csendes pont a fák árnyékában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Zavrelje",
+            "tip": "Loc liniștit la umbra copacilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zavrelje Riverbank",
+            "tip": "Quiet spot in the shade of trees.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Marktstand",
+            "tip": "Hausgemachte Marmeladen und Liköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piaci stand",
+            "tip": "Házi lekvárok és likőrök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de piață local",
+            "tip": "Gemuri și lichioruri de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market Stand",
+            "tip": "Homemade jams and liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg entlang der Küste ist flach und sehr angenehm.",
+          "Die Mühlen sind teilweise in Restaurants integriert.",
+          "Badeschuhe sind für den Kiesstrand empfehlenswert.",
+          "Besuchen Sie den Ort am späten Nachmittag für das beste Licht."
+        ],
+        "hu": [
+          "A parti út sík és nagyon kellemes sétára.",
+          "A malmok egy része éttermekbe van beépítve.",
+          "Vízicipő ajánlott a kavicsos strandhoz.",
+          "Látogasson el ide késő délután a legszebb fényekért."
+        ],
+        "ro": [
+          "Drumul de-a lungul coastei este plat și foarte plăcut.",
+          "Morile sunt parțial integrate în restaurante.",
+          "Încălțămintea de apă este recomandată pentru plaja cu pietriș.",
+          "Vizitați locul după-amiaza târziu pentru cea mai bună lumină."
+        ],
+        "en": [
+          "The coastal path is flat and very pleasant for walking.",
+          "Some mills are integrated into restaurants.",
+          "Water shoes are recommended for the pebble beach.",
+          "Visit in the late afternoon for the best light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "13:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de țărm",
+            "en": "Seafront Promenade"
+          },
+          "coords": [
+            18.17,
+            42.6285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt am Wasser.",
+            "hu": "Élvezze a gurulást a víz mellett.",
+            "ro": "Bucurați-vă de plimbarea pe lângă apă.",
+            "en": "Enjoy the ride by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mlini Hafen",
+            "hu": "Mlini kikötő",
+            "ro": "Portul Mlini",
+            "en": "Mlini Harbor"
+          },
+          "coords": [
+            18.1735,
+            42.631
+          ],
+          "category": "port",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Pause im Fischerdorf.",
+            "hu": "Rövid pihenő a halászfaluban.",
+            "ro": "Scurtă pauză în satul de pescari.",
+            "en": "Short break in the fishing village."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Rochus-Kapelle",
+            "hu": "Szent Rókus kápolna",
+            "ro": "Capela Sf. Rochus",
+            "en": "St. Roch Chapel"
+          },
+          "coords": [
+            18.176,
+            42.632
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kleine Kapelle am Hügel.",
+            "hu": "Kis kápolna a dombon.",
+            "ro": "Capelă mică pe deal.",
+            "en": "Small chapel on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupari (Ruinen)",
+            "hu": "Kupari (romok)",
+            "ro": "Kupari (ruine)",
+            "en": "Kupari (ruins)"
+          },
+          "coords": [
+            18.188,
+            42.623
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ehemaliges Luxusresort, jetzt Lost Place.",
+            "hu": "Egykori luxusüdülő, ma szellemváros.",
+            "ro": "Fost complex de lux, acum loc abandonat.",
+            "en": "Former luxury resort, now a lost place."
+          }
+        },
+        {
+          "name": {
+            "de": "Mlini Strand",
+            "hu": "Mlini strand",
+            "ro": "Plaja Mlini",
+            "en": "Mlini Beach"
+          },
+          "coords": [
+            18.168,
+            42.628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannung nach der Tour.",
+            "hu": "Pihenés a túra után.",
+            "ro": "Relaxare după tur.",
+            "en": "Relaxation after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der Župa Dubrovačka Riviera. Starten Sie in Mlini und erkunden Sie die Küste in Richtung Kupari, um die beeindruckenden Hotelruinen zu sehen. Eine abwechslungsreiche Tour zwischen moderner Geschichte und natürlicher Schönheit.",
+        "hu": "Tekerjen végig a dubrovniki riviérán. Kezdje Mliniben, és fedezze fel a partot Kupari irányába, hogy láthassa a lenyűgöző hotelfalakat. Változatos túra a modern történelem és a természeti szépség között.",
+        "ro": "Pedalați de-a lungul rivierei Župa Dubrovačka. Începeți în Mlini și explorați coasta spre Kupari pentru a vedea ruinele impresionante ale hotelurilor. Un tur variat între istoria modernă și frumusețea naturală.",
+        "en": "Cycle along the Župa Dubrovačka Riviera. Start in Mlini and explore the coast towards Kupari to see the impressive hotel ruins. A varied tour between modern history and natural beauty."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Bar Gusar",
+            "tip": "Erfrischende Cocktails am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gusar Beach Bar",
+            "tip": "Frissítő koktélok a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Bar Gusar",
+            "tip": "Cocktailuri răcoritoare pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gusar Beach Bar",
+            "tip": "Refreshing cocktails on the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Srebreno Bucht",
+            "tip": "Ruhigerer Strandabschnitt am Morgen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Srebreno-öböl",
+            "tip": "Csendesebb strandrész reggelente.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Srebreno",
+            "tip": "Secțiune de plajă mai liniștită dimineața.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Srebreno Bay",
+            "tip": "Quieter stretch of beach in the morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Einkaufszentrum für alle Bedürfnisse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Bevásárlóközpont minden igényre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Centru comercial pentru toate nevoile."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Shopping mall for all your needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Der Weg ist größtenteils flach und gut ausgebaut.",
+          "Bringen Sie ein Schloss für die Besichtigung von Kupari mit.",
+          "Fahren Sie defensiv in der Nähe der Strände."
+        ],
+        "hu": [
+          "Figyeljen a gyalogosokra a sétányon.",
+          "Az út nagy része sík és jól kiépített.",
+          "Hozzon lakatot Kupari megtekintéséhez.",
+          "Vezessen óvatosan a strandok közelében."
+        ],
+        "ro": [
+          "Atenție la pietoni pe promenadă.",
+          "Drumul este în mare parte plat și bine amenajat.",
+          "Aduceți un lacăt pentru vizitarea complexului Kupari.",
+          "Conduceți defensiv în apropierea plajelor."
+        ],
+        "en": [
+          "Watch out for pedestrians on the promenade.",
+          "The path is mostly flat and well-maintained.",
+          "Bring a lock for visiting Kupari.",
+          "Ride defensively near the beaches."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mlini Hafen",
+            "hu": "Mlini kikötő",
+            "ro": "Portul Mlini",
+            "en": "Mlini Harbor"
+          },
+          "coords": [
+            18.1735,
+            42.631
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie beim Hotel Astarea.",
+            "hu": "Parkoljon az Astarea Hotelnél.",
+            "ro": "Parcați lângă Hotel Astarea.",
+            "en": "Park near Hotel Astarea."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Wassermühlen",
+            "hu": "Régi vízimalmok",
+            "ro": "Vechile mori de apă",
+            "en": "Old Water Mills"
+          },
+          "coords": [
+            18.1745,
+            42.6305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Suchen Sie die versteckten Mühlräder.",
+            "hu": "Keresse meg a rejtett malomkerekeket.",
+            "ro": "Căutați roțile de moară ascunse.",
+            "en": "Look for the hidden mill wheels."
+          }
+        },
+        {
+          "name": {
+            "de": "Kupari Strand",
+            "hu": "Kupari strand",
+            "ro": "Plaja Kupari",
+            "en": "Kupari Beach"
+          },
+          "coords": [
+            18.188,
+            42.623
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Großer Kiesstrand mit historischer Kulisse.",
+            "hu": "Nagy kavicsos strand történelmi díszlettel.",
+            "ro": "Plajă mare cu pietriș și decor istoric.",
+            "en": "Large pebble beach with a historical backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Freiheit",
+            "hu": "Szabadság emlékmű",
+            "ro": "Monumentul Libertății",
+            "en": "Freedom Monument"
+          },
+          "coords": [
+            18.171,
+            42.6315
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ehrt die Gefallenen des Heimatkrieges.",
+            "hu": "A honvédő háború áldozatainak emlékműve.",
+            "ro": "Omagiază eroii căzuți în războiul de independență.",
+            "en": "Honors those fallen in the Homeland War."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Srebreno",
+            "hu": "Srebreno sétány",
+            "ro": "Promenada Srebreno",
+            "en": "Srebreno Promenade"
+          },
+          "coords": [
+            18.182,
+            42.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Moderner Küstenabschnitt.",
+            "hu": "Modern parti szakasz.",
+            "ro": "Secțiune de coastă modernă.",
+            "en": "Modern coastal section."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Mlini und das benachbarte Srebreno und Kupari bequem mit dem Auto. Diese Tour zeigt Ihnen die malerischen Seiten von Mlini und die dramatischen Kontraste in Kupari. Ein Tag voller Entdeckungen entlang der Riviera von Župa.",
+        "hu": "Fedezze fel Mlinit, a szomszédos Srebrenót és Kuparit kényelmesen, autóval. Ez a túra megmutatja Mlini festői oldalát és Kupari drámai kontrasztjait. Felfedezésekkel teli nap a Zsupai riviérán.",
+        "ro": "Descoperiți Mlini și zonele învecinate Srebreno și Kupari confortabil cu mașina. Acest tur vă arată părțile pitorești din Mlini și contrastele dramatice din Kupari. O zi plină de descoperiri de-a lungul rivierei Župa.",
+        "en": "Discover Mlini and neighboring Srebreno and Kupari comfortably by car. This tour shows you the picturesque sides of Mlini and the dramatic contrasts in Kupari. A day full of discoveries along the Župa Riviera."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Puntizela",
+            "tip": "Hervorragende Pizza und lokale Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Puntizela Étterem",
+            "tip": "Kiváló pizza és helyi húsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Puntizela",
+            "tip": "Pizza excelentă și mâncăruri locale din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Puntizela Restaurant",
+            "tip": "Excellent pizza and local meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche des Hl. Hilarius",
+            "tip": "Stiller Ort für innehalten.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Hiláriusz templom",
+            "tip": "Csendes pont az elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Ilarie",
+            "tip": "Loc liniștit pentru reculegere.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of St. Hilary",
+            "tip": "Quiet place for contemplation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sub City Einkaufszentrum",
+            "tip": "Große Auswahl an kroatischen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sub City bevásárlóközpont",
+            "tip": "Horvát termékek széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul comercial Sub City",
+            "tip": "O gamă largă de produse croate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Wide selection of Croatian products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison kann die Parkplatzsuche schwierig sein.",
+          "Nutzen Sie die Tiefgarage im Sub City Mall für entspanntes Parken.",
+          "Fahren Sie vorsichtig auf den engen Seitenstraßen.",
+          "Kombinieren Sie den Trip mit einem Besuch von Cavtat."
+        ],
+        "hu": [
+          "Főszezonban a parkolás nehézkes lehet.",
+          "Használja a Sub City Mall mélygarázsát a nyugodt parkoláshoz.",
+          "Vezessen óvatosan a szűk mellékutcákban.",
+          "Kombinálja az utat Cavtat meglátogatásával."
+        ],
+        "ro": [
+          "În plin sezon, găsirea unui loc de parcare poate fi dificilă.",
+          "Folosiți parcarea subterană de la Sub City Mall pentru confort.",
+          "Conduceți cu atenție pe străzile secundare înguste.",
+          "Combinați excursia cu o vizită în Cavtat."
+        ],
+        "en": [
+          "Parking can be difficult during peak season.",
+          "Use the Sub City Mall underground parking for stress-free parking.",
+          "Drive carefully on narrow side streets.",
+          "Combine the trip with a visit to Cavtat."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Mlini",
+            "hu": "Mlini buszmegálló",
+            "ro": "Stația de autobuz Mlini",
+            "en": "Mlini Bus Stop"
+          },
+          "coords": [
+            18.172,
+            42.6325
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Linie 10 ab Dubrovnik.",
+            "hu": "10-es busz Dubrovnikból.",
+            "ro": "Linia 10 din Dubrovnik.",
+            "en": "Bus line 10 from Dubrovnik."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Wassermühlen",
+            "hu": "Régi vízimalmok",
+            "ro": "Vechile mori de apă",
+            "en": "Old Water Mills"
+          },
+          "coords": [
+            18.1745,
+            42.6305
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vom Bus aus bergab laufen.",
+            "hu": "A busztól lefelé kell sétálni.",
+            "ro": "Mergeți la vale de la autobuz.",
+            "en": "Walk downhill from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mlini Hafen",
+            "hu": "Mlini kikötő",
+            "ro": "Portul Mlini",
+            "en": "Mlini Harbor"
+          },
+          "coords": [
+            18.1735,
+            42.631
+          ],
+          "category": "port",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentrum des Geschehens.",
+            "hu": "A falu központja.",
+            "ro": "Centrul activității.",
+            "en": "The heart of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Promenada de țărm",
+            "en": "Seafront Promenade"
+          },
+          "coords": [
+            18.17,
+            42.6285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Flacher Spaziergang am Meer.",
+            "hu": "Lapos tengerparti séta.",
+            "ro": "Plimbare plată pe lângă mare.",
+            "en": "Flat walk along the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mlini Strand",
+            "hu": "Mlini strand",
+            "ro": "Plaja Mlini",
+            "en": "Mlini Beach"
+          },
+          "coords": [
+            18.168,
+            42.628
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzte Entspannung vor dem Bus.",
+            "hu": "Utolsó pihenő a busz előtt.",
+            "ro": "Ultima relaxare înainte de autobuz.",
+            "en": "Final relaxation before the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mlini ist perfekt an das Busnetz von Dubrovnik angeschlossen. Die Linie 10 bringt Sie direkt ins Herz des Ortes. Verbringen Sie einen entspannten Tag am Wasser, ohne sich um Parkplätze kümmern zu müssen. Ein idealer Ausflug für alle, die das Auto stehen lassen wollen.",
+        "hu": "Mlini tökéletesen kapcsolódik a dubrovniki buszhálózathoz. A 10-es járat közvetlenül a falu szívébe viszi. Töltsön el egy nyugodt napot a víznél, anélkül, hogy a parkolás miatt aggódna. Ideális kirándulás autómenteseknek.",
+        "ro": "Mlini este perfect conectat la rețeaua de autobuze din Dubrovnik. Linia 10 vă duce direct în inima localității. Petreceți o zi relaxată la apă, fără a vă face griji pentru parcare. O excursie ideală pentru cei care vor să lase mașina în urmă.",
+        "en": "Mlini is perfectly connected to the Dubrovnik bus network. Line 10 takes you directly to the heart of the village. Spend a relaxed day by the water without worrying about parking. An ideal excursion for those who want to leave the car behind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro G",
+            "tip": "Schnelle und leckere Gerichte nahe der Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro G",
+            "tip": "Gyors és ízletes ételek a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro G",
+            "tip": "Mâncăruri rapide și gustoase lângă stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro G",
+            "tip": "Quick and tasty dishes near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Promenadenbank",
+            "tip": "Setzen Sie sich unter die alten Bäume.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sétány menti pad",
+            "tip": "Üljön le a vén fák alá.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bancă pe promenadă",
+            "tip": "Așezați-vă sub copacii bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Promenade Bench",
+            "tip": "Sit down under the old trees.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk im Hafen",
+            "tip": "Postkarten und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői kioszk",
+            "tip": "Képeslapok és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în port",
+            "tip": "Vederi și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Postcards and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse fahren regelmäßig (alle 30-60 Min).",
+          "Die Haltestelle in Richtung Dubrovnik liegt auf der anderen Straßenseite.",
+          "Das Ticket kostet ca. 3 Euro pro Fahrt.",
+          "Boots-Taxis nach Dubrovnik fahren auch ab dem Hafen."
+        ],
+        "hu": [
+          "A buszok rendszeresen járnak (30-60 percenként).",
+          "A Dubrovnik felé tartó megálló az út túloldalán van.",
+          "A jegy ára kb. 3 euró utanként.",
+          "Vízi taxik is indulnak Dubrovnikba a kikötőből."
+        ],
+        "ro": [
+          "Autobuzele circulă regulat (la fiecare 30-60 min).",
+          "Stația spre Dubrovnik este pe partea opusă a drumului.",
+          "Biletul costă aproximativ 3 euro pe călătorie.",
+          "Taxiurile pe apă spre Dubrovnik pleacă tot din port."
+        ],
+        "en": [
+          "Buses run regularly (every 30-60 min).",
+          "The stop towards Dubrovnik is on the other side of the road.",
+          "The ticket costs about 3 Euros per ride.",
+          "Water taxis to Dubrovnik also depart from the harbor."
+        ]
+      }
+    }
+  }
+}

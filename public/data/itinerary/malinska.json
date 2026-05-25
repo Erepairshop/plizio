@@ -1,0 +1,998 @@
+{
+  "city_id": "malinska",
+  "anchor": {
+    "name": "Malinska (Krk)",
+    "coords": [
+      14.53,
+      45.1247
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Malinska",
+            "hu": "Malinska kikötő",
+            "ro": "Portul Malinska",
+            "en": "Malinska Port"
+          },
+          "coords": [
+            14.5295,
+            45.1265
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frischer Kaffee am Morgen.",
+            "hu": "Reggeli kávé a parton.",
+            "ro": "Cafea de dimineață în port.",
+            "en": "Morning coffee by the docks."
+          }
+        },
+        {
+          "name": {
+            "de": "DUBoak Interpretationszentrum",
+            "hu": "DUBoak Látogatóközpont",
+            "ro": "Centrul de Interpretare DUBoak",
+            "en": "DUBoak Interpretation Centre"
+          },
+          "coords": [
+            14.531,
+            45.1255
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Interaktive Seefahrtsgeschichte.",
+            "hu": "Interaktív hajózási kiállítás.",
+            "ro": "Istorie maritimă interactivă.",
+            "en": "Interactive maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Apollinaris",
+            "hu": "Szt. Apollinár-templom",
+            "ro": "Biserica Sf. Apolinarie",
+            "en": "Church of St. Apollinaris"
+          },
+          "coords": [
+            14.535,
+            45.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wunderschöner Glockenturm.",
+            "hu": "Gyönyörű harangtorony.",
+            "ro": "Turn de clopotniță superb.",
+            "en": "Beautiful bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Malinska",
+            "hu": "Ebéd Malinskában",
+            "ro": "Prânz în Malinska",
+            "en": "Lunch in Malinska"
+          },
+          "coords": [
+            14.528,
+            14.528
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Surlice Nudeln.",
+            "hu": "Kóstolja meg a surlice tésztát.",
+            "ro": "Încercați pastele surlice.",
+            "en": "Try local surlice pasta."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Rova",
+            "hu": "Rova strand",
+            "ro": "Plaja Rova",
+            "en": "Rova Beach"
+          },
+          "coords": [
+            14.518,
+            45.12
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Klares Wasser, ideal für Familien.",
+            "hu": "Tiszta víz, családbarát.",
+            "ro": "Apă limpede, ideală pentru familii.",
+            "en": "Clear water, family friendly."
+          }
+        },
+        {
+          "name": {
+            "de": "Haludovo Palasthotel",
+            "hu": "Haludovo palotaszálló",
+            "ro": "Hotelul Haludovo",
+            "en": "Haludovo Palace Hotel"
+          },
+          "coords": [
+            14.52,
+            45.132
+          ],
+          "category": "famous residences",
+          "arrive_at": "18:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verlassene Glamour-Fotospots.",
+            "hu": "Elhagyatott luxus fotóhelyszín.",
+            "ro": "Locuri foto în ruine de lux.",
+            "en": "Abandoned luxury photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am lebhaften Hafen und im DUBoak-Zentrum. Nach dem Besuch der St. Apollinaris Kirche genießen Sie lokale Meeresfrüchte. Der Nachmittag gehört der Entspannung am Rova Strand, gefolgt von einer Erkundung des faszinierenden Haludovo Komplexes.",
+        "hu": "Kezdje a napot a nyüzsgő kikötőben és a DUBoak központban. A Szt. Apollinár-templom megtekintése után ebédeljen helyi tengeri ételeket. A délutánt töltse a Rova strandon, majd fedezze fel a Haludovo komplexum kísérteties romjait.",
+        "ro": "Începeți ziua în portul vibrant și la centrul DUBoak. După vizitarea bisericii Sf. Apolinarie, savurați fructe de mare locale. După-amiaza este pentru relaxare pe plaja Rova, urmată de o explorare a fascinantului complex Haludovo.",
+        "en": "Start your day at the lively harbor and DUBoak center. After visiting St. Apollinaris church, enjoy local seafood. Spend the afternoon relaxing at Rova beach, followed by an exploration of the fascinating abandoned Haludovo complex."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Bracera",
+            "tip": "Frischer Fisch direkt am Meer."
+          },
+          {
+            "name": "Primorska Koliba",
+            "tip": "Traditionelle Krk-Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Bracera",
+            "tip": "Friss hal a tengerparton."
+          },
+          {
+            "name": "Primorska Koliba",
+            "tip": "Hagyományos Krk konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Bracera",
+            "tip": "Pește proaspăt pe malul mării."
+          },
+          {
+            "name": "Primorska Koliba",
+            "tip": "Bucătărie tradițională din Krk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Bracera",
+            "tip": "Fresh fish right by the sea."
+          },
+          {
+            "name": "Primorska Koliba",
+            "tip": "Traditional Krk cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rova Küste",
+            "tip": "Ruhiger Spaziergang am Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rova part",
+            "tip": "Csendes esti séta.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Rova",
+            "tip": "Plimbare liniștită de seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rova Coast",
+            "tip": "Quiet evening walk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Malinska Markt",
+            "tip": "Lokales Olivenöl und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malinska piac",
+            "tip": "Helyi olívaolaj és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Malinska",
+            "tip": "Ulei de măsline și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Malinska Market",
+            "tip": "Local olive oil and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Küstenwege.",
+          "Buchen Sie Restaurants in der Hochsaison vor."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parti utakhoz.",
+          "Főszezonban foglaljon asztalt az éttermekben."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru potecile de coastă.",
+          "Rezervați masă la restaurant în sezonul de vârf."
+        ],
+        "en": [
+          "Wear comfortable shoes for coastal paths.",
+          "Book restaurants in advance during high season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Paradiesweg",
+            "hu": "Paradicsom-út",
+            "ro": "Calea Paradisului",
+            "en": "Paradise Way"
+          },
+          "coords": [
+            14.52,
+            45.138
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Schatten unter Pinien.",
+            "hu": "Gyönyörű árnyas út fenyők alatt.",
+            "ro": "Umbră minunată sub pini.",
+            "en": "Beautiful shade under pines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Porat",
+            "hu": "Porati kolostor",
+            "ro": "Mănăstirea Porat",
+            "en": "Porat Monastery"
+          },
+          "coords": [
+            14.492,
+            45.122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Museum der Glagoliza besuchen.",
+            "hu": "Nézze meg a glagolita múzeumot.",
+            "ro": "Vizitați muzeul glagolitic.",
+            "en": "Visit the Glagolitic museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Porat",
+            "hu": "Ebéd Poratban",
+            "ro": "Prânz în Porat",
+            "en": "Lunch in Porat"
+          },
+          "coords": [
+            14.49,
+            45.123
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Garnelen sind hier exzellent.",
+            "hu": "A garnéla kiváló itt.",
+            "ro": "Creveții sunt excelenți aici.",
+            "en": "Shrimp is excellent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Cickini",
+            "hu": "Cickini régészeti lelőhely",
+            "ro": "Situl arheologic Cickini",
+            "en": "Cickini Archaeological Site"
+          },
+          "coords": [
+            14.538,
+            45.115
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Spätantike Kirchenruinen im Wald.",
+            "hu": "Késő antik templomromok az erdőben.",
+            "ro": "Ruine de biserică din antichitatea târzie.",
+            "en": "Late antique church ruins in the woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Rova",
+            "hu": "Rova strand",
+            "ro": "Plaja Rova",
+            "en": "Rova Beach"
+          },
+          "coords": [
+            14.518,
+            45.12
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannung nach der Fahrt.",
+            "hu": "Pihenés a tekerés után.",
+            "ro": "Relaxare după plimbare.",
+            "en": "Relaxation after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang des Paradieswegs nach Porat zum historischen Kloster. Nach einem Meeresfrüchte-Mittagessen geht es landeinwärts zur Cickini-Stätte, bevor Sie den Tag am Strand Rova ausklingen lassen.",
+        "hu": "Tekerjen a Paradicsom-úton Poratig a történelmi kolostorhoz. Egy tengeri ebéd után induljon a szárazföld felé a Cickini lelőhelyhez, majd zárja a napot a Rova strandon.",
+        "ro": "Pedalați pe Calea Paradisului până la Porat, la mănăstirea istorică. După un prânz cu fructe de mare, mergeți spre interior la situl Cickini, înainte de a încheia ziua pe plaja Rova.",
+        "en": "Cycle along Paradise Way to Porat and its historical monastery. After a seafood lunch, head inland to the Cickini site before finishing your day at Rova beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Porat",
+            "tip": "Frische Muscheln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Porat",
+            "tip": "Friss kagylók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Porat",
+            "tip": "Scoici proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Porat",
+            "tip": "Fresh mussels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldwege bei Cickini",
+            "tip": "Absolut ruhig im Grünen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cickini erdei utak",
+            "tip": "Teljes nyugalom a zöldben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci de pădure la Cickini",
+            "tip": "Liniște totală în verdeață.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest paths near Cickini",
+            "tip": "Total quiet in the greenery.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in Malinska",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malinskai szuvenírek",
+            "tip": "Kézzel készített kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Malinska",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs in Malinska",
+            "tip": "Handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Wege nach Cickini sind teilweise schottrig."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet.",
+          "A Cickini felé vezető utak néhol kavicsosak."
+        ],
+        "ro": [
+          "Luați suficientă apă.",
+          "Drumurile spre Cickini sunt parțial cu pietriș."
+        ],
+        "en": [
+          "Take plenty of water.",
+          "The paths to Cickini are partly gravel."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Apollinaris",
+            "hu": "Szt. Apollinár-templom",
+            "ro": "Biserica Sf. Apolinarie",
+            "en": "Church of St. Apollinaris"
+          },
+          "coords": [
+            14.535,
+            45.12
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Gute Parkmöglichkeiten vorhanden.",
+            "hu": "Jó parkolási lehetőség.",
+            "ro": "Parcare disponibilă.",
+            "en": "Good parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Porat",
+            "hu": "Porati kolostor",
+            "ro": "Mănăstirea Porat",
+            "en": "Porat Monastery"
+          },
+          "coords": [
+            14.492,
+            45.122
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ruhiger Klostergarten.",
+            "hu": "Csendes kolostorkert.",
+            "ro": "Grădină mănăstirească liniștită.",
+            "en": "Quiet monastery garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Cickini",
+            "hu": "Cickini régészeti lelőhely",
+            "ro": "Situl arheologic Cickini",
+            "en": "Cickini Archaeological Site"
+          },
+          "coords": [
+            14.538,
+            45.115
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Malinska",
+            "hu": "Ebéd Malinskában",
+            "ro": "Prânz în Malinska",
+            "en": "Lunch in Malinska"
+          },
+          "coords": [
+            14.529,
+            45.126
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Zentrumsnah parken.",
+            "hu": "Parkoljon a központ közelében.",
+            "ro": "Parcați aproape de centru.",
+            "en": "Park near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Rova",
+            "hu": "Rova strand",
+            "ro": "Plaja Rova",
+            "en": "Rova Beach"
+          },
+          "coords": [
+            14.518,
+            45.12
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Sonnenschirm mieten.",
+            "hu": "Béreljen napernyőt.",
+            "ro": "Închiriați o umbrelă.",
+            "en": "Rent a sunshade."
+          }
+        },
+        {
+          "name": {
+            "de": "Glavotok (Ausflug)",
+            "hu": "Glavotok (kirándulás)",
+            "ro": "Glavotok (excursie)",
+            "en": "Glavotok (excursion)"
+          },
+          "coords": [
+            14.44,
+            45.093
+          ],
+          "category": "historical",
+          "arrive_at": "18:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Kirche am Ende der Welt.",
+            "hu": "Templom a világ végén.",
+            "ro": "Biserica de la capătul lumii.",
+            "en": "Church at the end of the world."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto besuchen Sie die historischen Highlights von Malinska und Porat bequem. Nach einem entspannten Nachmittag am Rova Strand fahren Sie zum abgelegenen Glavotok, um die Einsamkeit am Meer zu genießen.",
+        "hu": "Autóval kényelmesen látogathatja Malinska és Porat történelmi helyszíneit. Egy pihentető délután után a Rova strandon autózzon el a távoli Glavotokba, hogy élvezze a tengerparti magányt.",
+        "ro": "Cu mașina, vizitați confortabil atracțiile istorice din Malinska și Porat. După o după-amiază relaxantă pe plaja Rova, conduceți până la Glavotok pentru a vă bucura de singurătatea de la malul mării.",
+        "en": "By car, comfortably visit the historical highlights of Malinska and Porat. After a relaxing afternoon at Rova beach, drive to secluded Glavotok to enjoy seaside solitude."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Vala",
+            "tip": "Moderne kroatische Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Vala",
+            "tip": "Modern horvát konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Vala",
+            "tip": "Bucătărie croată modernă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Vala",
+            "tip": "Modern Croatian cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Glavotok",
+            "tip": "Stille am Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Glavotoki kolostor",
+            "tip": "Csend a tengerparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Glavotok",
+            "tip": "Liniște la mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Glavotok Monastery",
+            "tip": "Silence by the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Krk",
+            "tip": "Lokaler Wein und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krk Szupermarket",
+            "tip": "Helyi bor és sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Krk",
+            "tip": "Vin și brânză locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket Krk",
+            "tip": "Local wine and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren im Zentrum beachten.",
+          "Enge Straßen in Porat vorsichtig befahren."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási díjakra a központban.",
+          "Vezessen óvatosan Porat szűk utcáin."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare în centru.",
+          "Conduceți cu atenție pe străzile înguste din Porat."
+        ],
+        "en": [
+          "Watch out for parking fees in the center.",
+          "Drive carefully on narrow streets in Porat."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Malinska",
+            "hu": "Malinska kikötő",
+            "ro": "Portul Malinska",
+            "en": "Malinska Port"
+          },
+          "coords": [
+            14.5295,
+            45.1265
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Busstopp.",
+            "hu": "Központi buszmegálló.",
+            "ro": "Stație centrală de autobuz.",
+            "en": "Central bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "DUBoak Interpretationszentrum",
+            "hu": "DUBoak Látogatóközpont",
+            "ro": "Centrul de Interpretare DUBoak",
+            "en": "DUBoak Interpretation Centre"
+          },
+          "coords": [
+            14.531,
+            45.1255
+          ],
+          "category": "museums",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bus.",
+            "hu": "Rövid séta a busztól.",
+            "ro": "Scurtă plimbare de la autobuz.",
+            "en": "Short walk from the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Porat (Busfahrt)",
+            "hu": "Porat (buszozás)",
+            "ro": "Porat (cu autobuzul)",
+            "en": "Porat (bus ride)"
+          },
+          "coords": [
+            14.492,
+            45.122
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Fahrplan vorab prüfen.",
+            "hu": "Ellenőrizze a menetrendet.",
+            "ro": "Verificați mersul autobuzelor.",
+            "en": "Check the schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Malinska",
+            "hu": "Ebéd Malinskában",
+            "ro": "Prânz în Malinska",
+            "en": "Lunch in Malinska"
+          },
+          "coords": [
+            14.528,
+            45.127
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Hafen.",
+            "hu": "Visszaút a kikötőbe.",
+            "ro": "Retur în port.",
+            "en": "Return to the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Rova",
+            "hu": "Rova strand",
+            "ro": "Plaja Rova",
+            "en": "Rova Beach"
+          },
+          "coords": [
+            14.518,
+            45.12
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "15 min Fußweg vom Bus.",
+            "hu": "15 perc séta a busztól.",
+            "ro": "15 min de mers de la autobuz.",
+            "en": "15 min walk from the bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Inselbus, um zwischen Malinska Zentrum und Porat zu pendeln. Besuchen Sie das DUBoak-Zentrum und das Kloster Porat, bevor Sie den Nachmittag am familienfreundlichen Rova Strand genießen.",
+        "hu": "Használja a szigeti buszt a Malinska központ és Porat közötti közlekedéshez. Látogassa meg a DUBoak központot és a porati kolostort, majd töltse a délutánt a családbarát Rova strandon.",
+        "ro": "Folosiți autobuzul insular pentru a face naveta între centrul Malinska și Porat. Vizitați centrul DUBoak și mănăstirea Porat înainte de a vă bucura de după-amiază pe plaja Rova.",
+        "en": "Use the island bus to commute between Malinska center and Porat. Visit the DUBoak center and Porat monastery before enjoying the afternoon at family-friendly Rova beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Matteo",
+            "tip": "Günstig und gut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Matteo",
+            "tip": "Olcsó és jó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Matteo",
+            "tip": "Ieftin și bun."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Matteo",
+            "tip": "Affordable and good."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Apollinaris",
+            "tip": "Ruhiger Rückzugsort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szt. Apollinár-templom",
+            "tip": "Csendes menedék.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Apolinarie",
+            "tip": "Refugiu liniștit.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Apollinaris Church",
+            "tip": "Quiet retreat.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Krk Shop",
+            "tip": "Lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krk Bolt",
+            "tip": "Helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Krk",
+            "tip": "Produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krk Shop",
+            "tip": "Local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Arriva-App für Fahrpläne nutzen.",
+          "Kleingeld für Tickets bereithalten."
+        ],
+        "hu": [
+          "Használja az Arriva appot a menetrendhez.",
+          "Legyen aprópénze a jegyhez."
+        ],
+        "ro": [
+          "Folosiți aplicația Arriva pentru orar.",
+          "Aveți bani mărunți pentru bilete."
+        ],
+        "en": [
+          "Use Arriva app for schedules.",
+          "Have small change ready for tickets."
+        ]
+      }
+    }
+  }
+}

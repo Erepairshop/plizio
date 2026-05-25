@@ -1,0 +1,1096 @@
+{
+  "city_id": "samobor",
+  "anchor": {
+    "name": "Samobor",
+    "coords": [
+      15.7117,
+      45.8
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "König-Tomislav-Platz",
+            "hu": "III. Tomiszláv király tér",
+            "ro": "Piața Regele Tomislav",
+            "en": "King Tomislav Square"
+          },
+          "coords": [
+            15.7112,
+            45.8018
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmte Samoborska kremšnita.",
+            "hu": "Kóstolja meg a híres samobori krémes süteményt.",
+            "ro": "Gustați faimoasa prăjitură Samoborska kremšnita.",
+            "en": "Try the famous Samoborska kremšnita cream cake."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samobor",
+            "hu": "Samobori Városi Múzeum",
+            "ro": "Muzeul Orașului Samobor",
+            "en": "Samobor City Museum"
+          },
+          "coords": [
+            15.7102,
+            45.8021
+          ],
+          "category": "museums",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum befindet sich in einem Barockschloss.",
+            "hu": "A múzeum egy barokk kastélyban található.",
+            "ro": "Muzeul este situat într-un castel baroc.",
+            "en": "The museum is located in a Baroque castle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Anastasia",
+            "hu": "Szent Anasztázia-templom",
+            "ro": "Biserica Sfânta Anastasia",
+            "en": "Church of Saint Anastasia"
+          },
+          "coords": [
+            15.7085,
+            45.8015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine der schönsten Barockkirchen der Region.",
+            "hu": "A régió egyik legszebb barokk temploma.",
+            "ro": "Una dintre cele mai frumoase biserici baroce din regiune.",
+            "en": "One of the most beautiful Baroque churches in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            15.7095,
+            45.801
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestellen Sie Muštarda zu Ihrem Fleischgericht.",
+            "hu": "Rendeljen Muštardát a húsétel mellé.",
+            "ro": "Comandă Muštarda alături de preparatul din carne.",
+            "en": "Order Muštarda mustard with your meat dish."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Samobor",
+            "hu": "Samobori várrom",
+            "ro": "Ruinele Cetății Samobor",
+            "en": "Samobor Castle Ruins"
+          },
+          "coords": [
+            15.7032,
+            45.8035
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Aufstieg bietet tolle Fotomotive der Ruinen.",
+            "hu": "A felmenetel remek fotótémákat kínál a romokról.",
+            "ro": "Urcarea oferă oportunități foto deosebite cu ruinele.",
+            "en": "The climb offers great photo opportunities of the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark Anindol",
+            "hu": "Anindol erdőpark",
+            "ro": "Parcul Forestier Anindol",
+            "en": "Anindol Forest Park"
+          },
+          "coords": [
+            15.7055,
+            45.8012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Spazierweg durch den dichten Wald.",
+            "hu": "Csendes sétaút a sűrű erdőn keresztül.",
+            "ro": "O potecă liniștită de plimbare prin pădurea deasă.",
+            "en": "A quiet walking path through the dense forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Anna",
+            "hu": "Szent Anna-kápolna",
+            "ro": "Capela Sfânta Ana",
+            "en": "Chapel of Saint Anna"
+          },
+          "coords": [
+            15.7065,
+            45.7995
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein friedlicher Abschluss des Tages im Wald.",
+            "hu": "A nap békés lezárása az erdőben.",
+            "ro": "Un final de zi liniștit în mijlocul pădurii.",
+            "en": "A peaceful end to the day in the forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens genießen Sie den Charme des Hauptplatzes bei einem Kaffee und dem berühmten Kuchenspezialität, bevor Sie in die Geschichte im Barockschloss eintauchen. Mittags erkunden Sie die barocke Pracht der Anastasia-Kirche und genießen die lokale Gastronomie. Nachmittags führt Sie ein schöner Waldweg hinauf zur geheimnisvollen Burgruine. Den Abend lassen Sie entspannt im Anindol-Park ausklingen.",
+        "hu": "Reggel élvezze a főtér báját egy kávé és a híres krémes mellett, majd merüljön el a történelemben a barokk kastélyban. Délben fedezze fel a Szent Anasztázia-templom pompáját és kóstolja meg a helyi gasztronómiát. Délután egy szép erdei út vezet fel a titokzatos várromhoz. Az estét töltse pihentetően az Anindol erdőparkban, távol a város zajától.",
+        "ro": "Dimineața, bucurați-vă de farmecul pieței centrale cu o cafea și faimoasa prăjitură, înainte de a pătrunde în istorie la castelul baroc. La prânz, explorați splendoarea barocă a bisericii Anastasia și savurați gastronomia locală. După-amiaza, o potecă frumoasă prin pădure vă conduce spre ruinele misterioase ale cetății. Seara se încheie relaxant în parcul forestier Anindol.",
+        "en": "In the morning, enjoy the charm of the main square with a coffee and the famous cream cake before diving into history at the Baroque castle. At noon, explore the Baroque splendor of Anastasia Church and enjoy local gastronomy. In the afternoon, a beautiful forest path leads you up to the mysterious castle ruins. Spend the evening relaxing in the Anindol Forest Park."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kremšnita im U Prolazu",
+            "tip": "Die authentischste Sahnetorte der Stadt."
+          },
+          {
+            "name": "Gablanc im Gabreku 1929",
+            "tip": "Traditionelle Fleischgerichte seit Generationen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krémes az U Prolazuban",
+            "tip": "A város legautentikusabb krémes süteménye."
+          },
+          {
+            "name": "Gabreku 1929",
+            "tip": "Hagyományos húsételek generációk óta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kremšnita la U Prolazu",
+            "tip": "Cea mai autentică prăjitură cu cremă din oraș."
+          },
+          {
+            "name": "Gabreku 1929",
+            "tip": "Preparate tradiționale din carne de generații."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kremšnita at U Prolazu",
+            "tip": "The most authentic cream cake in town."
+          },
+          {
+            "name": "Gabreku 1929",
+            "tip": "Traditional meat dishes for generations."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldpark Anindol",
+            "tip": "Vogelgezwitscher und frische Waldluft.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Aussichtspunkt Tepec",
+            "tip": "Blick über die Dächer von Samobor.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Anindol erdőpark",
+            "tip": "Madárcsicsergés és friss erdei levegő.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tepec kilátó",
+            "tip": "Kilátás Samobor háztetőire.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Anindol",
+            "tip": "Cântecul păsărilor și aer curat de pădure.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Punctul Tepec",
+            "tip": "Vedere peste acoperișurile din Samobor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Anindol Forest Park",
+            "tip": "Birdsong and fresh forest air.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Tepec Viewpoint",
+            "tip": "View over the roofs of Samobor.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bermet & Muštarda Filipec",
+            "tip": "Hausgemachter Likörwein und scharfer Senf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bermet & Muštarda Filipec",
+            "tip": "Házi likőrbor és csípős mustár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bermet & Muštarda Filipec",
+            "tip": "Vin licoros de casă și muștar iute."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bermet & Muštarda Filipec",
+            "tip": "Homemade liqueur wine and spicy mustard."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Samobor ist am Wochenende sehr belebt, besuchen Sie es unter der Woche für Ruhe.",
+          "Bequeme Schuhe sind für den Weg zur Burgruine unerlässlich.",
+          "Probieren Sie den Bermet, einen lokalen Kräuterwein.",
+          "Die Stadt ist berühmt für ihr Kunsthandwerk, besonders Glas."
+        ],
+        "hu": [
+          "Samobor hétvégén nagyon zsúfolt, a nyugalomért látogasson el hétköznap.",
+          "Kényelmes cipő elengedhetetlen a várromhoz vezető úthoz.",
+          "Kóstolja meg a Bermetet, a helyi gyógynövényes bort.",
+          "A város híres kézművesiparáról, különösen az üvegről."
+        ],
+        "ro": [
+          "Samobor este foarte aglomerat în weekend, vizitați în timpul săptămânii pentru liniște.",
+          "Încălțămintea comodă este esențială pentru drumul spre ruine.",
+          "Gustați Bermet, un vin local cu ierburi.",
+          "Orașul este faimos pentru meșteșugurile sale, în special sticlăria."
+        ],
+        "en": [
+          "Samobor is very busy on weekends; visit during the week for peace.",
+          "Comfortable shoes are essential for the path to the castle ruins.",
+          "Try Bermet, a local herbal wine.",
+          "The town is famous for its handicrafts, especially glass."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "König-Tomislav-Platz",
+            "hu": "III. Tomiszláv király tér",
+            "ro": "Piața Regele Tomislav",
+            "en": "King Tomislav Square"
+          },
+          "coords": [
+            15.7112,
+            45.8018
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem schnellen Espresso.",
+            "hu": "Kezdjen egy gyors eszpresszóval.",
+            "ro": "Începeți cu un espresso rapid.",
+            "en": "Start with a quick espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samobor",
+            "hu": "Samobori Városi Múzeum",
+            "ro": "Muzeul Orașului Samobor",
+            "en": "Samobor City Museum"
+          },
+          "coords": [
+            15.7102,
+            45.8021
+          ],
+          "category": "museums",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad im Hof sicher ab.",
+            "hu": "Parkolja le biciklijét biztonságosan az udvaron.",
+            "ro": "Parcați bicicleta în siguranță în curte.",
+            "en": "Park your bike safely in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark Anindol (Radweg)",
+            "hu": "Anindol erdőpark (bicikliút)",
+            "ro": "Parcul Anindol (pistă biciclete)",
+            "en": "Anindol Forest Park (bike path)"
+          },
+          "coords": [
+            15.7055,
+            45.8012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kühle Luft unter den Bäumen.",
+            "hu": "Élvezze a hűvös levegőt a fák alatt.",
+            "ro": "Bucurați-vă de aerul răcoros sub copaci.",
+            "en": "Enjoy the cool air under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Tepec",
+            "hu": "Tepec kilátó",
+            "ro": "Punctul Tepec",
+            "en": "Tepec Viewpoint"
+          },
+          "coords": [
+            15.7025,
+            45.7985
+          ],
+          "category": "natural features",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein steiler Anstieg, aber der Blick lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "O urcare abruptă, dar vederea merită.",
+            "en": "A steep climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgruine Samobor",
+            "hu": "Samobori várrom",
+            "ro": "Ruinele Cetății Samobor",
+            "en": "Samobor Castle Ruins"
+          },
+          "coords": [
+            15.7032,
+            45.8035
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Vorsicht beim Abstieg mit dem Rad.",
+            "hu": "Vigyázat a leereszkedésnél biciklivel.",
+            "ro": "Atenție la coborâre cu bicicleta.",
+            "en": "Careful on the descent with the bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen am Bach",
+            "hu": "Késői ebéd a pataknál",
+            "ro": "Prânz târziu lângă râu",
+            "en": "Late lunch by the stream"
+          },
+          "coords": [
+            15.7088,
+            45.8025
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Forelle ist hier eine lokale Spezialität.",
+            "hu": "A pisztráng itt helyi specialitás.",
+            "ro": "Păstrăvul este o specialitate locală aici.",
+            "en": "Trout is a local specialty here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour kombiniert städtisches Flair mit den grünen Hügeln um Samobor. Nach einem kurzen Stopp im Zentrum radeln Sie durch den dichten Anindol-Wald hinauf zum Tepec-Hügel. Der Blick über die Region ist die Anstrengung wert. Vorbei an der alten Burgruine geht es bergab zurück ins Tal, wo ein herzhaftes Mittagessen am plätschernden Bach auf Sie wartet.",
+        "hu": "Ez a biciklitúra ötvözi a városi hangulatot Samobor zöld dombjaival. Egy rövid központi megálló után az Anindol erdőn keresztül teker fel a Tepec-dombra. A környékre nyíló kilátás megéri a fáradtságot. Az öreg várrom mellett elhaladva guruljon vissza a völgybe, ahol a csobogó patak partján kiadós ebéd várja.",
+        "ro": "Acest tur cu bicicleta combină atmosfera urbană cu dealurile verzi din jurul Samoborului. După o scurtă oprire în centru, pedalați prin pădurea Anindol până pe dealul Tepec. Vederea asupra regiunii merită efortul. Trecând pe lângă vechea cetate, coborâți înapoi în vale, unde vă așteaptă un prânz copios lângă pârâul susurând.",
+        "en": "This bike tour combines urban flair with the green hills around Samobor. After a short stop in the center, cycle through the dense Anindol forest up to Tepec Hill. The view over the region is worth the effort. Passing by the old castle ruins, roll back down into the valley where a hearty lunch by the babbling stream awaits."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Samoborska klet",
+            "tip": "Rustikales Ambiente und Wildgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samoborska klet",
+            "tip": "Rusztikus környezet és vadételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Samoborska klet",
+            "tip": "Ambianță rustică și preparate din vânat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samoborska klet",
+            "tip": "Rustic ambiance and game dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bach Gradna",
+            "tip": "Ruhiges Plätschern direkt im Stadtzentrum.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradna-patak",
+            "tip": "Nyugodt csobogás közvetlenül a városközpontban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Râul Gradna",
+            "tip": "Susur liniștit chiar în centrul orașului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradna Stream",
+            "tip": "Calm babbling right in the city center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lebkuchen-Handwerk Arko",
+            "tip": "Traditionelle Licitar-Herzen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Arko mézeskalács",
+            "tip": "Hagyományos licitár szívek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artesanat Arko",
+            "tip": "Inimi tradiționale din turtă dulce (Licitar)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Arko Gingerbread",
+            "tip": "Traditional Licitar hearts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Mountainbike, da einige Wege im Wald steil sind.",
+          "Achten Sie auf Wanderer im Anindol-Park.",
+          "Füllen Sie Ihre Wasserflasche an den öffentlichen Brunnen auf.",
+          "Der Radweg entlang des Baches ist flach und entspannend."
+        ],
+        "hu": [
+          "Béreljen hegyi kerékpárt, mert az erdei utak néhol meredekek.",
+          "Ügyeljen a túrázókra az Anindol parkban.",
+          "Töltse meg kulacsát a nyilvános kutaknál.",
+          "A patak menti kerékpárút sík és pihentető."
+        ],
+        "ro": [
+          "Închiriați o bicicletă montană, deoarece unele poteci din pădure sunt abrupte.",
+          "Atenție la drumeți în parcul Anindol.",
+          "Umpleți sticla de apă la fântânile publice.",
+          "Pista de biciclete de-a lungul râului este plată și relaxantă."
+        ],
+        "en": [
+          "Rent a mountain bike as some paths in the forest are steep.",
+          "Watch out for hikers in Anindol Park.",
+          "Refill your water bottle at the public fountains.",
+          "The bike path along the stream is flat and relaxing."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grgos-Höhle",
+            "hu": "Grgos-barlang",
+            "ro": "Peștera Grgos",
+            "en": "Grgos Cave"
+          },
+          "coords": [
+            15.6582,
+            45.8205
+          ],
+          "category": "natural features",
+          "arrive_at": "09:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Eine der schönsten Höhlen Kroatiens, Jacke mitnehmen.",
+            "hu": "Horvátország egyik legszebb barlangja, vigyen kabátot.",
+            "ro": "Una dintre cele mai frumoase peșteri din Croația, luați o jachetă.",
+            "en": "One of Croatia's most beautiful caves; bring a jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "König-Tomislav-Platz",
+            "hu": "III. Tomiszláv király tér",
+            "ro": "Piața Regele Tomislav",
+            "en": "King Tomislav Square"
+          },
+          "coords": [
+            15.7112,
+            45.8018
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz hinter dem Museum.",
+            "hu": "Parkoljon a múzeum mögötti nagy parkolóban.",
+            "ro": "Parcați în parcarea mare din spatele muzeului.",
+            "en": "Park in the large parking lot behind the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Gourmet-Mittagessen",
+            "hu": "Gourmet ebéd",
+            "ro": "Prânz gourmet",
+            "en": "Gourmet Lunch"
+          },
+          "coords": [
+            15.7092,
+            45.8005
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 95,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesmenü mit lokalen Zutaten.",
+            "hu": "Kérdezze a napi menüt helyi alapanyagokból.",
+            "ro": "Întrebați de meniul zilei cu ingrediente locale.",
+            "en": "Ask for the daily menu with local ingredients."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Anastasia",
+            "hu": "Szent Anasztázia-templom",
+            "ro": "Biserica Sfânta Anastasia",
+            "en": "Church of Saint Anastasia"
+          },
+          "coords": [
+            15.7085,
+            45.8015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die vergoldeten Altäre.",
+            "hu": "Csodálja meg az aranyozott oltárokat.",
+            "ro": "Admirați altarele aurite.",
+            "en": "Admire the gilded altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Tepec",
+            "hu": "Tepec kilátó",
+            "ro": "Punctul Tepec",
+            "en": "Tepec Viewpoint"
+          },
+          "coords": [
+            15.7025,
+            45.7985
+          ],
+          "category": "natural features",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus sind es nur wenige Minuten zu Fuß.",
+            "hu": "A parkolótól csak pár perc gyalog.",
+            "ro": "De la parcare sunt doar câteva minute de mers pe jos.",
+            "en": "It is only a few minutes' walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samobor",
+            "hu": "Samobori Városi Múzeum",
+            "ro": "Muzeul Orașului Samobor",
+            "en": "Samobor City Museum"
+          },
+          "coords": [
+            15.7102,
+            45.8021
+          ],
+          "category": "museums",
+          "arrive_at": "16:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schöner Abschluss im Museumsgarten.",
+            "hu": "Szép lezárás a múzeumkertben.",
+            "ro": "Un final frumos în grădina muzeului.",
+            "en": "A nice ending in the museum garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie auch die spektakuläre Grgos-Höhle etwas außerhalb der Stadt. Danach kehren Sie ins Zentrum zurück, um den historischen Kern zu genießen. Mittags verwöhnen Sie sich mit der exzellenten lokalen Küche. Der Nachmittag steht im Zeichen der barocken Anastasia-Kirche und einer kurzen Fahrt zum Aussichtspunkt Tepec, bevor Sie den Tag mit Kultur im Stadtmuseum abrunden.",
+        "hu": "Autóval a városon kívüli látványos Grgos-barlangot is elérheti. Ezután térjen vissza a centrumba, hogy élvezze a történelmi magot. Délben kényeztesse magát a kiváló helyi konyhával. A délután a barokk Anasztázia-templomról és egy rövid autózásról szól a Tepec kilátóhoz, mielőtt a napot kultúrával zárná a Városi Múzeumban.",
+        "ro": "Cu mașina puteți ajunge și la spectaculoasa peșteră Grgos, situată puțin în afara orașului. Apoi reveniți în centru pentru a vă bucura de nucleul istoric. La prânz, răsfățați-vă cu excelenta bucătărie locală. După-amiaza este dedicată bisericii baroce Anastasia și unei scurte călătorii la punctul de belvedere Tepec, înainte de a încheia ziua cu cultură la Muzeul Orașului.",
+        "en": "By car, you can also reach the spectacular Grgos Cave just outside the city. Then return to the center to enjoy the historical core. At noon, pamper yourself with excellent local cuisine. The afternoon is dedicated to the Baroque Anastasia Church and a short drive to the Tepec viewpoint before rounding off the day with culture at the City Museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kod špilje",
+            "tip": "Direkt bei der Grgos-Höhle gelegen, hervorragendes Wild."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kod špilje",
+            "tip": "Közvetlenül a Grgos-barlangnál, kiváló vadételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kod špilje",
+            "tip": "Situat chiar lângă peșteră, vânat excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kod špilje",
+            "tip": "Located right by the cave, excellent game."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldkapelle St. Anna",
+            "tip": "Ein Ort der Stille oberhalb der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Anna erdei kápolna",
+            "tip": "A csend helye a város felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sf. Ana",
+            "tip": "Un loc de liniște deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Anna Chapel",
+            "tip": "A place of silence above the city.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kristallschleiferei Tuk",
+            "tip": "Echter Samobor-Kristall."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tuk kristálycsiszoló",
+            "tip": "Valódi samobori kristály."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Atelierul de cristal Tuk",
+            "tip": "Cristal veritabil de Samobor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tuk Crystal Shop",
+            "tip": "Real Samobor crystal."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist kostenpflichtig, halten Sie Kleingeld bereit.",
+          "Die Straßen zur Höhle sind schmal, aber gut ausgebaut.",
+          "Kombinieren Sie den Besuch der Höhle mit einem Mittagessen vor Ort.",
+          "Der Parkplatz Tepec ist oft belegt, kommen Sie früh."
+        ],
+        "hu": [
+          "A parkolás a központban fizetős, legyen Önnél aprópénz.",
+          "A barlanghoz vezető utak szűkek, de jól karbantartottak.",
+          "Kösse össze a barlanglátogatást egy helyi ebéddel.",
+          "A Tepec parkoló gyakran tele van, érkezzen korán."
+        ],
+        "ro": [
+          "Parcarea în centru este cu plată, pregătiți mărunțiș.",
+          "Drumurile spre peșteră sunt înguste, dar bine întreținute.",
+          "Combinați vizita la peșteră cu un prânz la fața locului.",
+          "Parcarea Tepec este adesea plină, veniți devreme."
+        ],
+        "en": [
+          "Parking in the center is paid; keep small change ready.",
+          "The roads to the cave are narrow but well-maintained.",
+          "Combine the cave visit with a local lunch on-site.",
+          "Tepec parking is often full; arrive early."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Samobor",
+            "hu": "Samobor autóbusz-állomás",
+            "ro": "Autogara Samobor",
+            "en": "Samobor Bus Station"
+          },
+          "coords": [
+            15.7175,
+            45.8035
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier kommen Busse aus Zagreb im 20-Minuten-Takt an.",
+            "hu": "Ide Zágrábból 20 percenként érkeznek buszok.",
+            "ro": "Autobuzele din Zagreb sosesc aici la fiecare 20 de minute.",
+            "en": "Buses from Zagreb arrive here every 20 minutes."
+          }
+        },
+        {
+          "name": {
+            "de": "König-Tomislav-Platz",
+            "hu": "III. Tomiszláv király tér",
+            "ro": "Piața Regele Tomislav",
+            "en": "King Tomislav Square"
+          },
+          "coords": [
+            15.7112,
+            45.8018
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Bahnhof sind es 10 Minuten Fußweg.",
+            "hu": "Az állomástól 10 perc séta.",
+            "ro": "De la autogară sunt 10 minute de mers pe jos.",
+            "en": "It is a 10-minute walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Anastasia",
+            "hu": "Szent Anasztázia-templom",
+            "ro": "Biserica Sfânta Anastasia",
+            "en": "Church of Saint Anastasia"
+          },
+          "coords": [
+            15.7085,
+            45.8015
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Reflexion.",
+            "hu": "Nyugodt hely az elmélkedésre.",
+            "ro": "Un loc liniștit pentru reflecție.",
+            "en": "A quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldpark Anindol",
+            "hu": "Anindol erdőpark",
+            "ro": "Parcul Forestier Anindol",
+            "en": "Anindol Forest Park"
+          },
+          "coords": [
+            15.7055,
+            45.8012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie die gut markierten Wanderwege.",
+            "hu": "Használja a jól jelzett túraútvonalakat.",
+            "ro": "Folosiți traseele de drumeție bine marcate.",
+            "en": "Use the well-marked hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Samobor",
+            "hu": "Samobori Városi Múzeum",
+            "ro": "Muzeul Orașului Samobor",
+            "en": "Samobor City Museum"
+          },
+          "coords": [
+            15.7102,
+            45.8021
+          ],
+          "category": "museums",
+          "arrive_at": "14:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die Glasmachertradition.",
+            "hu": "Tájékozódjon az üvegkészítés hagyományairól.",
+            "ro": "Informați-vă despre tradiția sticlăriei.",
+            "en": "Learn about the glassmaking tradition."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Samobor ist ideal mit dem Bus von Zagreb aus erreichbar. Vom Busbahnhof spazieren Sie direkt zum belebten Hauptplatz. Nach der Besichtigung der Anastasia-Kirche bietet der Anindol-Park eine grüne Oase direkt am Stadtzentrum. Den kulturellen Abschluss bildet das Stadtmuseum, bevor es zu Fuß zurück zum Busbahnhof geht.",
+        "hu": "Samobor ideálisan elérhető busszal Zágrábból. Az autóbusz-állomástól közvetlenül a nyüzsgő főtérre sétálhat. Az Anasztázia-templom megtekintése után az Anindol park kínál zöld oázist a városközpont mellett. A kulturális zárást a Városi Múzeum jelenti, mielőtt gyalog visszatérne az állomásra.",
+        "ro": "Samobor este ideal accesibil cu autobuzul din Zagreb. De la autogară mergeți direct spre piața centrală plină de viață. După vizitarea bisericii Anastasia, parcul Anindol oferă o oază verde chiar lângă centrul orașului. Finalul cultural este marcat de Muzeul Orașului, înainte de a reveni pe jos la autogară.",
+        "en": "Samobor is ideally accessible by bus from Zagreb. From the bus station, walk directly to the bustling main square. After visiting Anastasia Church, Anindol Park offers a green oasis right next to the city center. The cultural conclusion is the City Museum before walking back to the station."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konditorei Livadić",
+            "tip": "Historisches Café am Hauptplatz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Livadić cukrászda",
+            "tip": "Történelmi kávézó a főtéren."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetăria Livadić",
+            "tip": "Cafenea istorică în piața centrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Livadić Pastry Shop",
+            "tip": "Historical café on the main square."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumsgarten",
+            "tip": "Ein versteckter Park hinter dem Barockbau.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumkert",
+            "tip": "Egy rejtett park a barokk épület mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina muzeului",
+            "tip": "Un parc ascuns în spatele clădirii baroce.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Garden",
+            "tip": "A hidden park behind the Baroque building.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Samobor-Souvenirshop",
+            "tip": "Lokale Weine und Kräuterschnäpse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Samobor ajándékbolt",
+            "tip": "Helyi borok és gyógynövényes pálinkák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Samobor",
+            "tip": "Vinuri locale și rachiuri cu ierburi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Samobor Souvenir Shop",
+            "tip": "Local wines and herbal brandies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Ihr Busticket direkt beim Fahrer.",
+          "Die Busse der Linie 151/153 sind die schnellsten.",
+          "Alle Sehenswürdigkeiten sind vom Zentrum aus gut zu Fuß erreichbar.",
+          "Prüfen Sie den Fahrplan für die Rückfahrt nach Zagreb."
+        ],
+        "hu": [
+          "Vásárolja meg jegyét közvetlenül a sofőrnél.",
+          "A 151/153-as vonal buszai a leggyorsabbak.",
+          "Minden látnivaló jól elérhető gyalog a központból.",
+          "Ellenőrizze a menetrendet a Zágrábba való visszatéréshez."
+        ],
+        "ro": [
+          "Cumpărați biletul direct de la șofer.",
+          "Autobuzele liniilor 151/153 sunt cele mai rapide.",
+          "Toate atracțiile sunt ușor accesibile pe jos din centru.",
+          "Verificați orarul pentru întoarcerea spre Zagreb."
+        ],
+        "en": [
+          "Buy your bus ticket directly from the driver.",
+          "Buses on lines 151/153 are the fastest.",
+          "All sights are easily accessible on foot from the center.",
+          "Check the timetable for the return trip to Zagreb."
+        ]
+      }
+    }
+  }
+}

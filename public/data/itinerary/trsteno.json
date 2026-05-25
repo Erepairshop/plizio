@@ -1,0 +1,968 @@
+{
+  "city_id": "trsteno",
+  "anchor": {
+    "name": "Trsteno (arboretum)",
+    "coords": [
+      17.9425,
+      42.7194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Riesen-Platanen",
+            "hu": "Óriás platánfák",
+            "ro": "Platanii giganți",
+            "en": "Giant Plane Trees"
+          },
+          "coords": [
+            17.9431,
+            42.7198
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese Bäume sind über 500 Jahre alt.",
+            "hu": "Ezek a fák több mint 500 évesek.",
+            "ro": "Acești copaci au peste 500 de ani.",
+            "en": "These trees are over 500 years old."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Trsteno",
+            "hu": "Trstenói Arborétum",
+            "ro": "Arboretumul din Trsteno",
+            "en": "Trsteno Arboretum"
+          },
+          "coords": [
+            17.9425,
+            42.7194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Drehort für Highgarden in Game of Thrones.",
+            "hu": "Trónok harca forgatási helyszín (Égikert).",
+            "ro": "Locație de filmare pentru Game of Thrones.",
+            "en": "Filming location for Game of Thrones."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Gučetić-Gozze",
+            "hu": "Gučetić-Gozze villa",
+            "ro": "Vila Gučetić-Gozze",
+            "en": "Villa Gučetić-Gozze"
+          },
+          "coords": [
+            17.9422,
+            42.7192
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prächtige Renaissance-Architektur.",
+            "hu": "Pompás reneszánsz építészet.",
+            "ro": "Arhitectură renascentistă splendidă.",
+            "en": "Splendid Renaissance architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Neptunbrunnen",
+            "hu": "Neptun-kút",
+            "ro": "Fântâna lui Neptun",
+            "en": "Neptune Fountain"
+          },
+          "coords": [
+            17.9418,
+            42.7188
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "13:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Barocker Brunnen mit Goldfischen.",
+            "hu": "Barokk kút aranyhalakkal.",
+            "ro": "Fântână barocă cu pești aurii.",
+            "en": "Baroque fountain with goldfish."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspavillon",
+            "hu": "Kilátópavilon",
+            "ro": "Pavilion de belvedere",
+            "en": "Viewing Pavilion"
+          },
+          "coords": [
+            17.9405,
+            42.7185
+          ],
+          "category": "natural features",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bester Blick auf die Adria.",
+            "hu": "A legjobb kilátás az Adriára.",
+            "ro": "Cea mai bună vedere la Marea Adriatică.",
+            "en": "Best view of the Adriatic sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Trsteno",
+            "hu": "Trstenói kikötő",
+            "ro": "Portul Trsteno",
+            "en": "Trsteno Harbor"
+          },
+          "coords": [
+            17.9395,
+            42.7175
+          ],
+          "category": "port",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kleiner Hafen zum Abkühlen.",
+            "hu": "Apró kikötő, ideális felfrissüléshez.",
+            "ro": "Port mic pentru răcorire.",
+            "en": "Small harbor for cooling off."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie unter den 500 Jahre alten Platanen am Eingang. Erkunden Sie das Arboretum mit der Renaissance-Villa und dem Neptunbrunnen. Genießen Sie den Panoramablick vom Pavillon und steigen Sie zum Hafen hinab. Ein ruhiger Tag zwischen Botanik und Adria-Brise.",
+        "hu": "Kezdje a napot az 500 éves óriás platánok árnyékában. Fedezze fel a reneszánsz villát és a Neptun-kutat az Arborétumban. Csodálja meg a panorámát a kilátópavilonból, majd sétáljon le a kikötőbe. Tökéletes harmónia a természet és a történelem között.",
+        "ro": "Începeți sub platanii de 500 de ani de la intrare. Explorați Arboretumul cu vila renascentistă și fântâna lui Neptun. Bucurați-vă de panorama de la pavilion și coborâți spre port. O zi liniștită între botanică și briza Adriaticii.",
+        "en": "Start under the 500-year-old giant plane trees. Explore the Arboretum with its Renaissance villa and Neptune's fountain. Enjoy the panoramic view from the pavilion and descend to the small harbor. A peaceful day blending botany and history."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Trsteno",
+            "tip": "Probieren Sie frischen Fisch und hausgemachtes Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Trsteno",
+            "tip": "Kóstolja meg a friss halat és a házi olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Trsteno",
+            "tip": "Încercați peștele proaspăt și uleiul de măsline de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Trsteno",
+            "tip": "Try fresh fish and homemade olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspavillon",
+            "tip": "Perfekter Ort für Meditation mit Meeresrauschen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátópavilon",
+            "tip": "Tökéletes hely meditációhoz a tenger morajlásával.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pavilion de belvedere",
+            "tip": "Loc perfect pentru meditație cu sunetul mării.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Viewing Pavilion",
+            "tip": "Perfect spot for meditation with sea sounds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honigstand",
+            "tip": "Kaufen Sie Salbeihonig direkt von den Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi mézárus",
+            "tip": "Vásároljon zsályamézet közvetlenül a helyiektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de miere locală",
+            "tip": "Cumpărați miere de salvie direct de la localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey Stand",
+            "tip": "Buy sage honey directly from locals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kieswege.",
+          "Bringen Sie Wasser mit, da es im Arboretum keine Kioske gibt.",
+          "Die Parkgebühren am Eingang sind begrenzt.",
+          "Besuchen Sie den Garten am frühen Vormittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kavicsos utakhoz.",
+          "Hozzon vizet, mert az arborétumban nincs büfé.",
+          "A bejáratnál a parkolóhelyek száma korlátozott.",
+          "Érdemes korán délelőtt érkezni."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru aleile cu pietriș.",
+          "Aduceți apă, deoarece nu există chioșcuri în arboretum.",
+          "Locurile de parcare la intrare sunt limitate.",
+          "Vizitați grădina dimineața devreme."
+        ],
+        "en": [
+          "Wear comfortable shoes for the gravel paths.",
+          "Bring water as there are no kiosks inside the arboretum.",
+          "Parking spaces at the entrance are limited.",
+          "Visit the garden in the early morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Riesen-Platanen",
+            "hu": "Óriás platánfák",
+            "ro": "Platanii giganți",
+            "en": "Giant Plane Trees"
+          },
+          "coords": [
+            17.9431,
+            42.7198
+          ],
+          "category": "natural features",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schattenplatz für die Fahrräder.",
+            "hu": "Árnyékos hely a kerékpároknak.",
+            "ro": "Loc umbros pentru biciclete.",
+            "en": "Shaded spot for bikes."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Aquädukt",
+            "hu": "Történelmi akvadukt",
+            "ro": "Apeduct istoric",
+            "en": "Historical Aqueduct"
+          },
+          "coords": [
+            17.941,
+            42.7195
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Versorgte früher den Garten mit Wasser.",
+            "hu": "Régen ez látta el vízzel a kertet.",
+            "ro": "Alimenta grădina cu apă în trecut.",
+            "en": "Used to supply the garden with water."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Trsteno",
+            "hu": "Trstenói Arborétum",
+            "ro": "Arboretumul din Trsteno",
+            "en": "Trsteno Arboretum"
+          },
+          "coords": [
+            17.9425,
+            42.7194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahrräder am Eingang abschließen.",
+            "hu": "A bringákat a bejáratnál kell hagyni.",
+            "ro": "Încuiați bicicletele la intrare.",
+            "en": "Lock bikes at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Vitus",
+            "hu": "Szent Vid templom",
+            "ro": "Biserica Sf. Vitus",
+            "en": "Church of St. Vitus"
+          },
+          "coords": [
+            17.944,
+            42.7205
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kleine Dorfkirche mit schöner Aussicht.",
+            "hu": "Kis falusi templom szép kilátással.",
+            "ro": "Biserică mică de sat cu vedere frumoasă.",
+            "en": "Small village church with nice views."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenweg nach Brsečine",
+            "hu": "Parti út Brsečine felé",
+            "ro": "Drum de coastă spre Brsečine",
+            "en": "Coastal road to Brsečine"
+          },
+          "coords": [
+            17.915,
+            42.725
+          ],
+          "category": "natural features",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Panoramastrecke oberhalb der Klippen.",
+            "hu": "Panorámás útvonal a sziklák felett.",
+            "ro": "Traseu panoramic deasupra stâncilor.",
+            "en": "Panoramic route above the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Trsteno und die Umgebung mit dem Rad. Nach dem Besuch des Arboretums radeln Sie entlang der Küstenstraße für atemberaubende Ausblicke auf die Elafiti-Inseln. Eine sportliche Art, die Flora und Fauna der Region zu erleben.",
+        "hu": "Fedezze fel Trstenót és környékét két keréken. Az Arborétum után tekerjen a parti úton a lélegzetelállító kilátásért az Elafiti-szigetekre. Sportos módja a régió flórájának megismerésének.",
+        "ro": "Explorați Trsteno și împrejurimile pe bicicletă. După vizitarea Arboretumului, pedalați pe drumul de coastă pentru vederi uluitoare spre insulele Elafiti. Un mod sportiv de a experimenta flora regiunii.",
+        "en": "Explore Trsteno and its surroundings by bike. After visiting the Arboretum, cycle along the coastal road for breathtaking views of the Elafiti islands. A sporty way to experience the local flora."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei an der Hauptstraße",
+            "tip": "Frischer Burek für den kleinen Hunger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a főúton",
+            "tip": "Friss burek a gyors éhségcsillapításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria de pe drumul principal",
+            "tip": "Burek proaspăt pentru o gustare rapidă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on main road",
+            "tip": "Fresh burek for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hl. Vitus Vorplatz",
+            "tip": "Ruhiger Platz fernab der Touristenströme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Vid előtér",
+            "tip": "Csendes pont távol a turisták tömegétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esplanada Sf. Vitus",
+            "tip": "Loc liniștit departe de mulțimea de turiști.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Vitus Courtyard",
+            "tip": "Quiet spot away from the tourist crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl ab Hof",
+            "tip": "Fragen Sie Einheimische nach direktem Verkauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj háztól",
+            "tip": "Kérdezze a helyieket a közvetlen árusításról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de la fermieri",
+            "tip": "Întrebați localnicii despre vânzarea directă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil from locals",
+            "tip": "Ask locals about direct farm sales."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße (D8) ist stark befahren, Vorsicht geboten.",
+          "Nutzen Sie Bergübersetzungen für die steilen Abschnitte.",
+          "Im Arboretum ist Radfahren verboten.",
+          "Sonnenschutz ist auf dem Rad essenziell."
+        ],
+        "hu": [
+          "A főút (D8) forgalmas, legyen nagyon óvatos.",
+          "Használja a váltót a meredek szakaszokon.",
+          "Az arborétum területén tilos kerékpározni.",
+          "A fényvédő használata elengedhetetlen tekerés közben."
+        ],
+        "ro": [
+          "Drumul principal (D8) este aglomerat, fiți atenți.",
+          "Folosiți vitezele mici pentru secțiunile abrupte.",
+          "Bicicletele sunt interzise în interiorul arboretumului.",
+          "Protecția solară este esențială pe bicicletă."
+        ],
+        "en": [
+          "The main road (D8) is busy, be very careful.",
+          "Use low gears for the steep sections.",
+          "Cycling is prohibited inside the arboretum.",
+          "Sun protection is essential while riding."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arboretum von Trsteno",
+            "hu": "Trstenói Arborétum",
+            "ro": "Arboretumul din Trsteno",
+            "en": "Trsteno Arboretum"
+          },
+          "coords": [
+            17.9425,
+            42.7194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am offiziellen Parkplatz.",
+            "hu": "Parkoljon a kijelölt parkolóhelyen.",
+            "ro": "Parcați în parcarea oficială.",
+            "en": "Park at the official parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Gučetić-Gozze",
+            "hu": "Gučetić-Gozze villa",
+            "ro": "Vila Gučetić-Gozze",
+            "en": "Villa Gučetić-Gozze"
+          },
+          "coords": [
+            17.9422,
+            42.7192
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Blick in die Adelsgeschichte.",
+            "hu": "Bepillantás a nemesi múltba.",
+            "ro": "O privire în istoria nobiliară.",
+            "en": "A glimpse into noble history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Trsteno",
+            "hu": "Trstenói kikötő",
+            "ro": "Portul Trsteno",
+            "en": "Trsteno Harbor"
+          },
+          "coords": [
+            17.9395,
+            42.7175
+          ],
+          "category": "port",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steile Zufahrt, besser oben parken.",
+            "hu": "Meredek lejáró, jobb fent parkolni.",
+            "ro": "Acces abrupt, mai bine parcați sus.",
+            "en": "Steep access, better to park above."
+          }
+        },
+        {
+          "name": {
+            "de": "Brsečine Strand",
+            "hu": "Brsečine strand",
+            "ro": "Plaja Brsečine",
+            "en": "Brsečine Beach"
+          },
+          "coords": [
+            17.912,
+            42.724
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Geheimtipp für ruhiges Baden.",
+            "hu": "Titkos tipp nyugodt fürdőzéshez.",
+            "ro": "Pont secret pentru înot liniștit.",
+            "en": "Secret tip for quiet swimming."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verborgenen Ecken um Trsteno. Nach der botanischen Tour im Arboretum fahren wir zum benachbarten Strand von Brsečine, der für sein kristallklares Wasser und seine Ruhe bekannt ist. Ein entspannter Tag ohne Zeitdruck.",
+        "hu": "Autóval kényelmesen elérheti Trsteno rejtett zugait is. Az arborétumi botanikai túra után átugrunk a szomszédos Brsečine strandra, amely kristálytiszta vizéről és nyugalmáról ismert. Kényelmes nap időprés nélkül.",
+        "ro": "Cu mașina puteți ajunge ușor la colțurile ascunse din jurul Trsteno. După turul botanic în Arboretum, mergem la plaja vecină Brsečine, cunoscută pentru apa cristalină și liniște. O zi relaxată fără presiunea timpului.",
+        "en": "By car, you can easily reach the hidden corners around Trsteno. After the botanical tour in the Arboretum, we drive to the nearby Brsečine beach, known for its crystal-clear water and tranquility. A relaxed day without time pressure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Orsan",
+            "tip": "Gehobene Küche direkt am Meer in Zaton (nahebei)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Orsan Étterem",
+            "tip": "Minőségi konyha közvetlenül a tengerparton Zatonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Orsan",
+            "tip": "Bucătărie rafinată direct pe malul mării în Zaton."
+          }
+        ],
+        "en": [
+          {
+            "name": "Orsan Restaurant",
+            "tip": "Upscale dining right on the waterfront in Zaton."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brsečine Bucht",
+            "tip": "Abgelegener Kiesstrand für totale Entspannung.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Brsečine-öböl",
+            "tip": "Elszigetelt kavicsos strand a teljes kikapcsolódáshoz.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Brsečine",
+            "tip": "Plajă retrasă cu pietriș pentru relaxare totală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Brsečine Bay",
+            "tip": "Secluded pebble beach for total relaxation.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt in Orašac",
+            "tip": "Für Vorräte und lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket Orašacban",
+            "tip": "Készletek és helyi rágcsálnivalók beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket în Orašac",
+            "tip": "Pentru provizii și gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket in Orašac",
+            "tip": "For supplies and local snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Trsteno nicht auf der Fahrbahn der Hauptstraße.",
+          "Die Straße zum Hafen von Trsteno ist extrem eng.",
+          "Kombinieren Sie den Besuch mit einem Trip nach Ston (30 Min Fahrt).",
+          "Halten Sie Kleingeld für Parkautomaten bereit."
+        ],
+        "hu": [
+          "Trstenóban ne parkoljon a főút úttestén.",
+          "A trstenói kikötőbe vezető út rendkívül szűk.",
+          "Kombinálja a látogatást egy kirándulással Stonba (30 perc autóval).",
+          "Legyen Önnél aprópénz a parkolóautomatákhoz."
+        ],
+        "ro": [
+          "Nu parcați pe carosabilul drumului principal în Trsteno.",
+          "Drumul spre portul Trsteno este extrem de îngust.",
+          "Combinați vizita cu o excursie la Ston (30 min de condus).",
+          "Aveți mărunțiș pentru automatele de parcare."
+        ],
+        "en": [
+          "Don't park on the roadway of the main road in Trsteno.",
+          "The road to Trsteno harbor is extremely narrow.",
+          "Combine the visit with a trip to Ston (30 min drive).",
+          "Have small change ready for parking meters."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Trsteno",
+            "hu": "Trsteno buszmegálló",
+            "ro": "Stația de autobuz Trsteno",
+            "en": "Trsteno Bus Stop"
+          },
+          "coords": [
+            17.9435,
+            42.7202
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Buslinie 12 oder 15 ab Dubrovnik.",
+            "hu": "12-es vagy 15-ös busz Dubrovnikból.",
+            "ro": "Linia 12 sau 15 din Dubrovnik.",
+            "en": "Bus line 12 or 15 from Dubrovnik."
+          }
+        },
+        {
+          "name": {
+            "de": "Riesen-Platanen",
+            "hu": "Óriás platánfák",
+            "ro": "Platanii giganți",
+            "en": "Giant Plane Trees"
+          },
+          "coords": [
+            17.9431,
+            42.7198
+          ],
+          "category": "natural features",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt neben der Haltestelle.",
+            "hu": "Közvetlenül a megálló mellett.",
+            "ro": "Chiar lângă stație.",
+            "en": "Right next to the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum von Trsteno",
+            "hu": "Trstenói Arborétum",
+            "ro": "Arboretumul din Trsteno",
+            "en": "Trsteno Arboretum"
+          },
+          "coords": [
+            17.9425,
+            42.7194
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Haupteingang ist gut markiert.",
+            "hu": "A főbejárat jól jelzett.",
+            "ro": "Intrarea principală este bine marcată.",
+            "en": "Main entrance is well marked."
+          }
+        },
+        {
+          "name": {
+            "de": "Neptunbrunnen",
+            "hu": "Neptun-kút",
+            "ro": "Fântâna lui Neptun",
+            "en": "Neptune Fountain"
+          },
+          "coords": [
+            17.9418,
+            42.7188
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für Fotos.",
+            "hu": "Tökéletes fotóhelyszín.",
+            "ro": "Perfect pentru fotografii.",
+            "en": "Perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspavillon",
+            "hu": "Kilátópavilon",
+            "ro": "Pavilion de belvedere",
+            "en": "Viewing Pavilion"
+          },
+          "coords": [
+            17.9405,
+            42.7185
+          ],
+          "category": "natural features",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Halt vor der Rückreise.",
+            "hu": "Utolsó állomás a visszautazás előtt.",
+            "ro": "Ultima oprire înainte de întoarcere.",
+            "en": "Last stop before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Trsteno ist von Dubrovnik aus leicht mit dem Überlandbus erreichbar. Genießen Sie die Fahrt entlang der Küste und verbringen Sie einen entspannten Vormittag im weltberühmten Arboretum. Da die Busse seltener fahren, bleibt genug Zeit, die Botanik in vollen Zügen zu genießen.",
+        "hu": "Trsteno könnyen elérhető Dubrovnikból távolsági busszal. Élvezze a tengerparti utat, és töltsön el egy nyugodt délelőttöt a világhírű Arborétumban. Mivel a buszok ritkábban járnak, bőven marad idő a botanika teljes kiélvezésére.",
+        "ro": "Trsteno este ușor accesibil din Dubrovnik cu autobuzul interurban. Bucurați-vă de călătoria de-a lungul coastei și petreceți o dimineață relaxată în faimosul Arboretum. Deoarece autobuzele circulă mai rar, aveți timp suficient pentru a vă bucura de botanică.",
+        "en": "Trsteno is easily reachable from Dubrovnik by intercity bus. Enjoy the coastal ride and spend a relaxed morning in the world-famous Arboretum. Since buses run less frequently, there's plenty of time to fully enjoy the botany."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick im Garten",
+            "tip": "Bringen Sie Snacks mit, da Gastro-Optionen begrenzt sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik a kertben",
+            "tip": "Hozzon magával harapnivalót, mert a helyi étkezési lehetőségek szűkösek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pique-nique în grădină",
+            "tip": "Aduceți gustări, deoarece opțiunile gastronomice sunt limitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Garden Picnic",
+            "tip": "Bring snacks as local dining options are limited."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Brunnen-Areal",
+            "tip": "Das Plätschern wirkt sehr beruhigend.",
+            "emoji": "⛲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kút környéke",
+            "tip": "A víz csobogása nagyon nyugtató hatású.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona fântânii",
+            "tip": "Susurul apei este foarte calmant.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fountain Area",
+            "tip": "The sound of splashing water is very soothing.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs am Eingang",
+            "tip": "Postkarten und kleine Gartenführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek a bejáratnál",
+            "tip": "Képeslapok és kis kertvezetők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la intrare",
+            "tip": "Vederi și mici ghiduri de grădină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs at entrance",
+            "tip": "Postcards and small garden guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan (Libertas) für die Rückfahrt genau.",
+          "Kaufen Sie Tickets beim Fahrer oder am Kiosk in Dubrovnik.",
+          "Die Haltestelle ist direkt an der Hauptstraße.",
+          "In der Nebensaison fahren weniger Busse."
+        ],
+        "hu": [
+          "Pontosan ellenőrizze a buszmenetrendet (Libertas) a visszaúthoz.",
+          "Vegyen jegyet a sofőrnél vagy a dubrovniki kioszkokban.",
+          "A megálló közvetlenül a főút mellett van.",
+          "Szezonon kívül ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor (Libertas) pentru retur.",
+          "Cumpărați bilete de la șofer sau de la chioșcurile din Dubrovnik.",
+          "Stația este chiar pe drumul principal.",
+          "În extrasezon autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Check the bus schedule (Libertas) carefully for the return trip.",
+          "Buy tickets from the driver or at kiosks in Dubrovnik.",
+          "The stop is right on the main road.",
+          "Buses run less frequently in the off-season."
+        ]
+      }
+    }
+  }
+}

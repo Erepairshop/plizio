@@ -1,0 +1,988 @@
+{
+  "city_id": "funtana",
+  "anchor": {
+    "name": "Funtana",
+    "coords": [
+      13.6022,
+      45.1789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Funtana",
+            "hu": "Funtana Kastély",
+            "ro": "Castelul Funtana",
+            "en": "Funtana Castle"
+          },
+          "coords": [
+            13.6031,
+            45.1741
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dicken Steinmauern aus dem 17. Jahrhundert.",
+            "hu": "Csodálja meg a 17. századi vastag kőfalakat.",
+            "ro": "Admirați zidurile groase de piatră din secolul al XVII-lea.",
+            "en": "Admire the thick stone walls dating back to the 17th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche des Heiligen Bernhard",
+            "hu": "Szent Bernát-plébániatemplom",
+            "ro": "Biserica Parohială Sfântul Bernard",
+            "en": "Parish Church of Saint Bernard"
+          },
+          "coords": [
+            13.6036,
+            45.1736
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf die wertvolle barocke Innenausstattung.",
+            "hu": "Figyelje meg az értékes barokk belső díszítést.",
+            "ro": "Observați decorul interior baroc valoros.",
+            "en": "Note the valuable Baroque interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Süßwasserquellen von Funtana",
+            "hu": "Funtana édesvízi forrásai",
+            "ro": "Izvoarele de apă dulce din Funtana",
+            "en": "Freshwater Springs of Funtana"
+          },
+          "coords": [
+            13.6001,
+            45.1721
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hier entspringen die Quellen, die dem Ort seinen Namen gaben.",
+            "hu": "Itt törnek fel a források, amelyekről a település a nevét kapta.",
+            "ro": "Aici țâșnesc izvoarele care au dat numele așezării.",
+            "en": "Here flow the springs that gave the town its name."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Funtana",
+            "hu": "Funtana kikötő",
+            "ro": "Marina Funtana",
+            "en": "Funtana Marina"
+          },
+          "coords": [
+            13.5952,
+            45.1752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Mittagessen mit Blick auf die Yachten.",
+            "hu": "Tökéletes hely egy ebédhez a jachtokra néző kilátással.",
+            "ro": "Locul perfect pentru un prânz cu vedere la iahturi.",
+            "en": "Perfect spot for a lunch with a view of the yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Lucia",
+            "hu": "Szent Lúcia-templom",
+            "ro": "Biserica Sfânta Lucia",
+            "en": "Church of Saint Lucia"
+          },
+          "coords": [
+            13.6055,
+            45.1685
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Kleine, charmante Kirche am Rande des alten Kerns.",
+            "hu": "Kicsi, bájos templom az óváros szélén.",
+            "ro": "O mică biserică fermecătoare la marginea centrului vechi.",
+            "en": "Small, charming church on the edge of the old core."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Funtana",
+            "hu": "Funtana Szoborpark",
+            "ro": "Parcul de Sculpturi Funtana",
+            "en": "Funtana Sculpture Park"
+          },
+          "coords": [
+            13.6102,
+            45.1652
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werke des berühmten Bildhauers Dušan Džamonja.",
+            "hu": "Fedezze fel Dušan Džamonja híres szobrászművész alkotásait.",
+            "ro": "Descoperiți lucrările celebrului sculptor Dušan Džamonja.",
+            "en": "Explore the works of the famous sculptor Dušan Džamonja."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum am Kastell und der Bernhard-Kirche. Danach spazieren Sie zu den namensgebenden Süßwasserquellen.\n\nZum Mittagessen bietet die Marina Funtana eine maritime Kulisse mit frischem Fisch und Blick auf das tiefblaue Meer.\n\nDer Nachmittag steht im Zeichen der Kunst und Spiritualität. Besuchen Sie die Lucia-Kirche, bevor Sie den weitläufigen Skulpturenpark erkunden.\n\nLassen Sie den Tag bei einem Glas istrischen Malvasia in einer der Tavernen an der Uferpromenade entspannt ausklingen.",
+        "hu": "Kezdje a reggelt a történelmi központban a várnál és a Szent Bernát-templomnál. Ezután sétáljon el a névadó édesvízi forrásokhoz.\n\nEbédre a Funtana kikötő tengeri díszletet kínál friss halakkal és kilátással a mélykék tengerre.\n\nA délután a művészet és a spiritualitás jegyében telik. Látogassa meg a Szent Lúcia-templomot, mielőtt felfedezné a tágas szoborparkot.\n\nZárja a napot egy pohár isztriai malvaziával a tengerparti sétány egyik tavernájában, élvezve a nyugodt hangulatot.",
+        "ro": "Începeți dimineața în centrul istoric la castel și la biserica Sfântul Bernard. Apoi, mergeți pe jos până la izvoarele de apă dulce care dau numele localității.\n\nPentru prânz, Marina Funtana oferă un cadru maritim cu pește proaspăt și vedere la marea de un albastru profund.\n\nDupă-amiaza este dedicată artei și spiritualității. Vizitați biserica Sfânta Lucia înainte de a explora vastul parc de sculpturi.\n\nÎncheiați ziua relaxat cu un pahar de Malvazija istriană într-una dintre tavernele de pe faleză.",
+        "en": "Start your morning in the historical center at the castle and St. Bernard's church. Then, walk to the namesake freshwater springs.\n\nFor lunch, Marina Funtana offers a maritime setting with fresh fish and views of the deep blue sea.\n\nPost-midday is dedicated to art and spirituality. Visit St. Lucia's church before exploring the expansive sculpture park.\n\nConclude your day with a glass of Istrian Malvasia in one of the taverns on the waterfront promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Bare",
+            "tip": "Traditionelle istrische Gerichte in gemütlicher Atmosphäre."
+          },
+          {
+            "name": "Fischspezialitäten",
+            "tip": "Probieren Sie gegrillte Calamari oder frische Brasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Bare",
+            "tip": "Hagyományos isztriai ételek hangulatos környezetben."
+          },
+          {
+            "name": "Tengeri finomságok",
+            "tip": "Kóstolja meg a grillezett tintahalat vagy a friss süllőt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Bare",
+            "tip": "Mâncăruri tradiționale istriene într-o atmosferă primitoare."
+          },
+          {
+            "name": "Specialități din pește",
+            "tip": "Încercați calamari la grătar sau plătică proaspătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Bare",
+            "tip": "Traditional Istrian dishes in a cozy atmosphere."
+          },
+          {
+            "name": "Seafood specialties",
+            "tip": "Try grilled calamari or fresh sea bream."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Süßwasserquellen",
+            "tip": "Ein schattiger, ruhiger Ort zum Innehalten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marina Sonnenuntergang",
+            "tip": "Beobachten Sie das Lichtspiel auf den Masten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Édesvízi források",
+            "tip": "Árnyékos, csendes hely a pihenéshez.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kikötői naplemente",
+            "tip": "Figyelje a fények játékát az árbocokon.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvoarele de apă dulce",
+            "tip": "Un loc umbros și liniștit pentru meditație.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Apus în Marină",
+            "tip": "Priviți jocul luminilor pe catarge.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Freshwater Springs",
+            "tip": "A shaded, quiet spot to pause.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Marina Sunset",
+            "tip": "Watch the light play on the masts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl ab Hof",
+            "tip": "Kaufen Sie erstklassiges lokales Olivenöl direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj a termelőtől",
+            "tip": "Vásároljon prémium helyi olívaolajat közvetlenül a gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați ulei de măsline de calitate direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy premium local olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Reservieren Sie in der Hochsaison einen Tisch in den Konobas.",
+          "Die Quellen sind besonders an heißen Tagen erfrischend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Főszezonban foglaljon asztalt a konobákban.",
+          "A források különösen frissítőek a forró napokon."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Rezervați o masă la konoba în plin sezon.",
+          "Izvoarele sunt deosebit de răcoritoare în zilele toride."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Book a table in the konobas during high season.",
+          "The springs are especially refreshing on hot days."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Funtana",
+            "hu": "Funtana Kastély",
+            "ro": "Castelul Funtana",
+            "en": "Funtana Castle"
+          },
+          "coords": [
+            13.6031,
+            45.1741
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Startpunkt im historischen Zentrum.",
+            "hu": "Kiindulópont a történelmi központban.",
+            "ro": "Punct de plecare în centrul istoric.",
+            "en": "Starting point in the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Funtana",
+            "hu": "Funtana Szoborpark",
+            "ro": "Parcul de Sculpturi Funtana",
+            "en": "Funtana Sculpture Park"
+          },
+          "coords": [
+            13.6102,
+            45.1652
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Weitläufiges Gelände, ideal mit dem Rad zu erreichen.",
+            "hu": "Tágas terület, kerékpárral ideális megközelíteni.",
+            "ro": "Teren vast, ideal de parcurs cu bicicleta.",
+            "en": "Spacious grounds, ideal to reach by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinopark Funtana",
+            "hu": "Dinopark Funtana",
+            "ro": "Dinopark Funtana",
+            "en": "Dinopark Funtana"
+          },
+          "coords": [
+            13.6051,
+            45.1681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer Spaß für Familien mit lebensgroßen Modellen.",
+            "hu": "Nagy élmény családoknak az élethű modellekkel.",
+            "ro": "Distracție mare pentru familii cu modele în mărime naturală.",
+            "en": "Great fun for families with life-sized models."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Funtana",
+            "hu": "Funtana kikötő",
+            "ro": "Marina Funtana",
+            "en": "Funtana Marina"
+          },
+          "coords": [
+            13.5952,
+            45.1752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurze Pause am Wasser.",
+            "hu": "Rövid szünet a víznél.",
+            "ro": "Scurtă pauză lângă apă.",
+            "en": "Short break by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Süßwasserquellen",
+            "hu": "Édesvízi források",
+            "ro": "Izvoarele de apă dulce",
+            "en": "Freshwater Springs"
+          },
+          "coords": [
+            13.6001,
+            45.1721
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzte Station zum Erfrischen.",
+            "hu": "Utolsó állomás a felfrissüléshez.",
+            "ro": "Ultima oprire pentru răcorire.",
+            "en": "Final stop to refresh."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Funtana auf zwei Rädern. Vom Kastell geht es zum beeindruckenden Skulpturenpark und weiter zum aufregenden Dinopark.\n\nNach dem Abenteuer im Dinopark radeln Sie entspannt zur Marina für eine kühle Erfrischung.\n\nDie Route führt vorbei an Olivenhainen und durch schattige Küstenabschnitte, ideal für warme Sommertage.\n\nDen Abschluss bildet ein Besuch bei den Quellen, bevor Sie das Fahrrad zurückgeben.",
+        "hu": "Fedezze fel Funtanát két keréken. A kastélytól indulva tekerjen a lenyűgöző szoborparkhoz, majd a kalandos Dinoparkhoz.\n\nA dinó-kaland után guruljon le a kikötőbe egy hűsítő italra.\n\nAz útvonal olajfaligetek mellett és árnyas tengerparti szakaszokon vezet keresztül, ami ideális a meleg nyári napokon.\n\nA napot a forrásoknál zárhatja, mielőtt leadná a békelt kerékpárt.",
+        "ro": "Explorați Funtana pe două roți. De la castel, porniți spre impresionantul parc de sculpturi și apoi spre captivantul Dinopark.\n\nDupă aventura cu dinozauri, pedalați relaxat spre marină pentru o băutură răcoritoare.\n\nTraseul trece pe lângă livezi de măslini și prin secțiuni de coastă umbrite, ideal pentru zilele calde de vară.\n\nÎncheiați turul cu o vizită la izvoare înainte de a returna bicicleta.",
+        "en": "Explore Funtana on two wheels. From the castle, ride to the impressive sculpture park and then to the exciting Dinopark.\n\nAfter the dino adventure, pedal down to the marina for a cool refreshment.\n\nThe route takes you past olive groves and through shaded coastal sections, ideal for warm summer days.\n\nWrap up at the springs before returning your bicycle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Schnelle Snacks und kühle Getränke direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Gyors harapnivalók és hűsítő italok közvetlenül a víznél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Gustări rapide și băuturi reci chiar lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Quick snacks and cool drinks right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstentrail",
+            "tip": "Ruhige Wege zwischen Funtana und Vrsar.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Partmenti ösvény",
+            "tip": "Csendes utak Funtana és Vrsar között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul de coastă",
+            "tip": "Poteci liniștite între Funtana și Vrsar.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Trail",
+            "tip": "Quiet paths between Funtana and Vrsar.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bike Verleih",
+            "tip": "Lokale Shops bieten Karten und Equipment."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "A helyi üzletek térképeket és felszerelést is kínálnak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere biciclete",
+            "tip": "Magazinele locale oferă hărți și echipament."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike Rental",
+            "tip": "Local shops offer maps and equipment."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die markierten Radwege entlang der Küste.",
+          "Nehmen Sie ausreichend Wasser für die Dinopark-Tour mit.",
+          "Die Wege sind meist flach und auch für Kinder geeignet."
+        ],
+        "hu": [
+          "Használja a kijelölt kerékpárutakat a part mentén.",
+          "Vigyen magával elég vizet a Dinopark-látogatáshoz.",
+          "Az utak többnyire síkak, gyerekeknek is alkalmasak."
+        ],
+        "ro": [
+          "Utilizați pistele de biciclete marcate de-a lungul coastei.",
+          "Luați suficientă apă pentru vizita la Dinopark.",
+          "Traseele sunt în mare parte plate și potrivite pentru copii."
+        ],
+        "en": [
+          "Use the marked bike paths along the coast.",
+          "Bring enough water for the Dinopark tour.",
+          "The paths are mostly flat and suitable for children."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Funtana",
+            "hu": "Funtana Kastély",
+            "ro": "Castelul Funtana",
+            "en": "Funtana Castle"
+          },
+          "coords": [
+            13.6031,
+            45.1741
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt im Dorfzentrum vorhanden.",
+            "hu": "Parkoló közvetlenül a falu központjában.",
+            "ro": "Parcare disponibilă chiar în centrul satului.",
+            "en": "Parking available right in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau vom Berge Karmel",
+            "hu": "Kármel-hegyi Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului de pe Muntele Carmel",
+            "en": "Church of Our Lady of Mount Carmel"
+          },
+          "coords": [
+            13.608,
+            45.182
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Kirche etwas außerhalb.",
+            "hu": "Látogassa meg a történelmi templomot kissé kijjebb.",
+            "ro": "Vizitați biserica istorică situată puțin în exterior.",
+            "en": "Visit the historical church located slightly outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinopark Funtana",
+            "hu": "Dinopark Funtana",
+            "ro": "Dinopark Funtana",
+            "en": "Dinopark Funtana"
+          },
+          "coords": [
+            13.6051,
+            45.1681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz vor dem Eingang.",
+            "hu": "Nagy parkoló a bejárat előtt.",
+            "ro": "Parcare mare în fața intrării.",
+            "en": "Large parking lot in front of the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Funtana",
+            "hu": "Funtana kikötő",
+            "ro": "Marina Funtana",
+            "en": "Funtana Marina"
+          },
+          "coords": [
+            13.5952,
+            45.1752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Idealer Stopp für ein spätes Mittagessen.",
+            "hu": "Ideális megálló egy késői ebédhez.",
+            "ro": "Oprire ideală pentru un prânz târziu.",
+            "en": "Ideal stop for a late lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Funtana",
+            "hu": "Funtana Szoborpark",
+            "ro": "Parcul de Sculpturi Funtana",
+            "en": "Funtana Sculpture Park"
+          },
+          "coords": [
+            13.6102,
+            45.1652
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Einzigartige Kunst unter freiem Himmel.",
+            "hu": "Egyedülálló művészet a szabad ég alatt.",
+            "ro": "Artă unică în aer liber.",
+            "en": "Unique art in the open air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verstreuten Highlights von Funtana. Beginnen Sie im Kern und fahren Sie dann zur abgeschiedenen Karmel-Kirche.\n\nDer Dinopark bietet Unterhaltung für Stunden, bevor Sie am Nachmittag die Marina ansteuern.\n\nDurch die Flexibilität des Autos können Sie auch lokale Weingüter in der Umgebung leicht besuchen.\n\nBeenden Sie Ihre Tour beim Skulpturenpark, der besonders im späten Licht beeindruckend wirkt.",
+        "hu": "Autóval kényelmesen elérheti Funtana szétszórt látnivalóit. Kezdjen a központban, majd hajtson ki az eldugott Kármel-templomhoz.\n\nA Dinopark órákig tartó szórakozást nyújt, mielőtt délután a kikötő felé venné az irányt.\n\nAz autó rugalmasságának köszönhetően a környező helyi borászatokat is könnyen meglátogathatja.\n\nZárja a túrát a szoborparknál, amely különösen a késő délutáni fényekben nyújt lenyűgöző látványt.",
+        "ro": "Cu mașina, puteți ajunge confortabil la punctele de atracție dispersate din Funtana. Începeți din centru și apoi mergeți spre biserica Carmel situată mai retras.\n\nDinopark oferă distracție pentru câteva ore, înainte de a vă îndrepta spre marină după-amiaza.\n\nDatorită flexibilității mașinii, puteți vizita ușor și cramele locale din împrejurimi.\n\nÎncheiați turul la parcul de sculpturi, care este impresionant mai ales în lumina de după-amiază târzie.",
+        "en": "By car, you can comfortably reach Funtana's scattered highlights. Start in the core and then drive out to the secluded Carmel Church.\n\nDinopark offers entertainment for hours before heading to the marina in the afternoon.\n\nThanks to the car's flexibility, you can also easily visit local wineries in the area.\n\nFinish your tour at the sculpture park, which is particularly impressive in the late afternoon light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba More",
+            "tip": "Direkt an der Straße, bekannt für istrische Pasta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba More",
+            "tip": "Közvetlenül az út mentén, híres az isztriai tésztáiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba More",
+            "tip": "Chiar la drum, renumită pentru pastele istriene."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba More",
+            "tip": "Right by the road, famous for Istrian pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Skulpturenpark",
+            "tip": "Großflächiges Areal mit viel Platz zum Durchatmen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szoborpark",
+            "tip": "Hatalmas terület, ahol bőven van hely a kikapcsolódásra.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de Sculpturi",
+            "tip": "Zonă vastă cu mult spațiu pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sculpture Park",
+            "tip": "Large area with plenty of space to breathe.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalprodukte",
+            "tip": "Wein und Honig direkt von den umliegenden Bauernhöfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Bor és méz közvetlenül a környező gazdaságokból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Vin și miere direct de la fermele din împrejurimi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Products",
+            "tip": "Wine and honey directly from the surrounding farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Parkgebühren in Strandnähe.",
+          "Besuchen Sie den Dinopark am Vormittag, um Hitze zu vermeiden.",
+          "Kombinieren Sie die Tour mit einem Ausflug ins nahe Vrsar."
+        ],
+        "hu": [
+          "Ügyeljen a parkolási díjakra a strandok közelében.",
+          "Látogassa meg a Dinoparkot délelőtt a hőség elkerülése végett.",
+          "Kombinálja a túrát egy kirándulással a közeli Vrsarba."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare în apropierea plajei.",
+          "Vizitați Dinopark dimineața pentru a evita căldura.",
+          "Combinați turul cu o excursie în Vrsar, aflat în apropiere."
+        ],
+        "en": [
+          "Pay attention to parking fees near the beaches.",
+          "Visit Dinopark in the morning to avoid the heat.",
+          "Combine the tour with a trip to nearby Vrsar."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastell Funtana",
+            "hu": "Funtana Kastély",
+            "ro": "Castelul Funtana",
+            "en": "Funtana Castle"
+          },
+          "coords": [
+            13.6031,
+            45.1741
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Busstopp im Dorfzentrum.",
+            "hu": "Buszmegálló a falu központjában.",
+            "ro": "Stație de autobuz în centrul satului.",
+            "en": "Bus stop in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Funtana",
+            "hu": "Funtana kikötő",
+            "ro": "Marina Funtana",
+            "en": "Funtana Marina"
+          },
+          "coords": [
+            13.5952,
+            45.1752
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Leicht vom Zentrum zu Fuß oder per Bummelzug erreichbar.",
+            "hu": "A központból gyalog vagy kisvonattal is könnyen elérhető.",
+            "ro": "Ușor de ajuns din centru pe jos sau cu trenulețul turistic.",
+            "en": "Easily accessible from the center on foot or by tourist train."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinopark Funtana",
+            "hu": "Dinopark Funtana",
+            "ro": "Dinopark Funtana",
+            "en": "Dinopark Funtana"
+          },
+          "coords": [
+            13.6051,
+            45.1681
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beliebte Haltestelle für Ausflugsbusse.",
+            "hu": "Népszerű megálló a kirándulóbuszok számára.",
+            "ro": "Stație populară pentru autobuzele de excursie.",
+            "en": "Popular stop for excursion buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenpark Funtana",
+            "hu": "Funtana Szoborpark",
+            "ro": "Parcul de Sculpturi Funtana",
+            "en": "Funtana Sculpture Park"
+          },
+          "coords": [
+            13.6102,
+            45.1652
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückfahrt.",
+            "hu": "Utolsó megálló a visszaút előtt.",
+            "ro": "Ultima oprire înainte de întoarcere.",
+            "en": "Last stop before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den regionalen Busverkehr oder die beliebten touristischen Bummelzüge. Starten Sie im historischen Kern.\n\nMittags bietet die Marina eine entspannte Pause, bevor Sie mit dem nächsten Anschluss zum Dinopark fahren.\n\nDer Skulpturenpark ist ebenfalls gut angebunden und bildet den krönenden Abschluss.\n\nAchten Sie auf die Fahrpläne, besonders in der Nebensaison sind die Intervalle seltener.",
+        "hu": "Használja a helyközi buszjáratokat vagy a népszerű turistavonatokat. Kezdjen a történelmi központban.\n\nDélben a kikötő kínál pihentető szünetet, mielőtt a következő járattal a Dinoparkba menne.\n\nA szoborpark is jól megközelíthető, és tökéletes befejezése a napnak.\n\nÜgyeljen a menetrendre, különösen utószezonban ritkábbak a járatok.",
+        "ro": "Folosiți autobuzele regionale sau trenulețele turistice populare. Începeți din nucleul istoric.\n\nLa prânz, marina oferă o pauză relaxantă înainte de a lua următoarea legătură spre Dinopark.\n\nParcul de sculpturi este, de asemenea, bine conectat și reprezintă un final de zi minunat.\n\nAtenție la orare, intervalele de circulație sunt mai mari în afara sezonului.",
+        "en": "Use regional bus services or the popular tourist trains. Start in the historical core.\n\nAt noon, the marina offers a relaxed break before taking the next connection to Dinopark.\n\nThe sculpture park is also well connected and makes for a crowning finale.\n\nPay attention to the timetables, as intervals are less frequent during the off-season."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trattoria Funtana",
+            "tip": "Klassische Pizza und Pasta unweit der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trattoria Funtana",
+            "tip": "Klasszikus pizza és tészta nem messze a buszmegállótól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trattoria Funtana",
+            "tip": "Pizza și paste clasice, nu departe de stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trattoria Funtana",
+            "tip": "Classic pizza and pasta not far from the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marina Pier",
+            "tip": "Sitzen Sie am Ende des Piers und genießen Sie die Ruhe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői móló",
+            "tip": "Üljön ki a móló végére és élvezze a csendet.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mollul Marinei",
+            "tip": "Stați la capătul mollului și bucurați-vă de liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Pier",
+            "tip": "Sit at the end of the pier and enjoy the peace.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk-Souvenirs",
+            "tip": "Typische Urlaubsandenken an den Haltestellen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk-szuvenírek",
+            "tip": "Tipikus nyaralási emléktárgyak a megállóknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri de la chioșc",
+            "tip": "Amintiri tipice de vacanță la stațiile de transport."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Souvenirs",
+            "tip": "Typical holiday mementos at the stops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets beim Fahrer oder am Kiosk.",
+          "Bummelzüge fahren oft öfter als Linienbusse.",
+          "Prüfen Sie den Fahrplan online vorab."
+        ],
+        "hu": [
+          "Vegye meg a jegyet a vezetőnél vagy az újságosnál.",
+          "A turistavonatok gyakrabban járnak, mint a menetrend szerinti buszok.",
+          "Ellenőrizze online a menetrendet előre."
+        ],
+        "ro": [
+          "Cumpărați bilete de la șofer sau de la chioșc.",
+          "Trenulețele turistice circulă adesea mai des decât autobuzele de linie.",
+          "Verificați orarul online în prealabil."
+        ],
+        "en": [
+          "Buy tickets from the driver or at the kiosk.",
+          "Tourist trains often run more frequently than scheduled buses.",
+          "Check the timetable online in advance."
+        ]
+      }
+    }
+  }
+}

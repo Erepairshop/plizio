@@ -1,0 +1,1073 @@
+{
+  "city_id": "vrbnik",
+  "anchor": {
+    "name": "Vrbnik (Krk)",
+    "coords": [
+      14.6736,
+      45.0758
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Vrbnik",
+            "hu": "Vrbnik óvárosa",
+            "ro": "Centrul vechi din Vrbnik",
+            "en": "Vrbnik Old Town"
+          },
+          "coords": [
+            14.6738,
+            45.0762
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Labyrinthartige Gassen auf einem hohen Felsen.",
+            "hu": "Labirintusszerű utcák egy magas sziklán.",
+            "ro": "Străduțe labirintice pe o stâncă înaltă.",
+            "en": "Labyrinthine alleys on a high cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Klančić Gasse",
+            "hu": "Klančić köz",
+            "ro": "Strada Klančić",
+            "en": "Klančić Alley"
+          },
+          "coords": [
+            14.6742,
+            45.076
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Versuchen Sie, durch die engste Gasse der Welt zu gehen.",
+            "hu": "Próbáljon meg átmenni a világ legszűkebb utcáján.",
+            "ro": "Încearcă să treci prin cea mai îngustă stradă din lume.",
+            "en": "Try walking through the narrowest street in the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária mennybemenetele plébániatemplom",
+            "ro": "Biserica parohială Sfânta Maria",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            14.6748,
+            45.0765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie den freistehenden Glockenturm.",
+            "hu": "Figyelje meg a különálló harangtornyot.",
+            "ro": "Observați clopotnița separată.",
+            "en": "Note the free-standing bell tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibliothek der Familie Vitezić",
+            "hu": "Vitezić család könyvtára",
+            "ro": "Biblioteca familiei Vitezić",
+            "en": "Vitezić Family Library"
+          },
+          "coords": [
+            14.6745,
+            45.0763
+          ],
+          "category": "museums",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hier wird der berühmte Atlas von Kohler aufbewahrt.",
+            "hu": "Itt őrzik a híres Kohler-atlaszt.",
+            "ro": "Aici este păstrat faimosul atlas al lui Kohler.",
+            "en": "The famous Kohler Atlas is kept here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen mit Meerblick",
+            "hu": "Ebéd tengeri kilátással",
+            "ro": "Prânz cu vedere la mare",
+            "en": "Lunch with Sea View"
+          },
+          "coords": [
+            14.6755,
+            45.0755
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Šurlice mit Lammgulasch.",
+            "hu": "Kóstolja meg a Šurlicét báránygulyással.",
+            "ro": "Gustați Šurlice cu gulaș de miel.",
+            "en": "Try Šurlice pasta with lamb stew."
+          }
+        },
+        {
+          "name": {
+            "de": "Klippenpfad von Vrbnik",
+            "hu": "Vrbniki sziklaösvény",
+            "ro": "Poteca de pe stânci din Vrbnik",
+            "en": "Vrbnik Cliff Path"
+          },
+          "coords": [
+            14.6775,
+            45.0745
+          ],
+          "category": "natural features",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atemberaubender Blick auf die Adria.",
+            "hu": "Lélegzetelállító kilátás az Adriára.",
+            "ro": "Vedere uluitoare asupra Mării Adriatice.",
+            "en": "Breathtaking view of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Potovošće",
+            "hu": "Potovošće strand",
+            "ro": "Plaja Potovošće",
+            "en": "Potovošće Beach"
+          },
+          "coords": [
+            14.6885,
+            45.0685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein schöner Kieselstrand, ideal zum Abkühlen.",
+            "hu": "Szép kavicsos strand, ideális a hűsölésre.",
+            "ro": "O plajă frumoasă cu pietriș, ideală pentru răcorire.",
+            "en": "A beautiful pebble beach, ideal for cooling off."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vrbnik thront majestätisch auf einem Felsen über dem Meer. Morgens verlieren Sie sich in den engen Gassen und testen Ihre Schlankheit in der Klančić-Gasse. Mittags besuchen Sie die wertvolle Bibliothek und genießen lokale Spezialitäten in einer Konoba. Der Nachmittag bietet spektakuläre Ausblicke entlang des Klippenpfads, bevor Sie den Tag am kristallklaren Wasser des Potovošće-Strands beenden.",
+        "hu": "Vrbnik fenségesen trónol a tenger feletti sziklán. Reggel vesszen el a szűk utcákban és tesztelje karcsúságát a Klančić közben. Délben látogassa meg az értékes könyvtárat és élvezze a helyi specialitásokat egy konobában. A délután látványos kilátást kínál a sziklaösvény mentén, mielőtt a napot a Potovošće strand kristálytiszta vizénél zárná.",
+        "ro": "Vrbnik tronează maiestuos pe o stâncă deasupra mării. Dimineața, pierdeți-vă pe străduțele înguste și testați-vă silueta în strada Klančić. La prânz, vizitați biblioteca valoroasă și savurați specialități locale într-o konoba. După-amiaza oferă vederi spectaculoase de-a lungul potecii de pe stânci, înainte de a încheia ziua la apa cristalină a plajei Potovošće.",
+        "en": "Vrbnik sits majestically on a cliff above the sea. In the morning, lose yourself in the narrow streets and test your slimness in Klančić Alley. At noon, visit the valuable library and enjoy local specialties in a tavern. The afternoon offers spectacular views along the cliff path before ending the day at the crystal-clear water of Potovošće Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Žlahtina Wein",
+            "tip": "Der berühmte Weißwein, der nur hier wächst."
+          },
+          {
+            "name": "Šurlice",
+            "tip": "Hausgemachte Nudeln mit Meeresfrüchten oder Fleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Žlahtina bor",
+            "tip": "A híres fehérbor, amely csak itt terem."
+          },
+          {
+            "name": "Šurlice",
+            "tip": "Házi tészta tenger gyümölcseivel vagy hússal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Žlahtina",
+            "tip": "Faimosul vin alb care crește doar aici."
+          },
+          {
+            "name": "Šurlice",
+            "tip": "Paste de casă cu fructe de mare sau carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Žlahtina Wine",
+            "tip": "The famous white wine that grows only here."
+          },
+          {
+            "name": "Šurlice",
+            "tip": "Homemade pasta with seafood or meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippenpfad",
+            "tip": "Unendliche Weite des blauen Meeres.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baćin dvor Garten",
+            "tip": "Ein ruhiger historischer Komplex.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklaösvény",
+            "tip": "A kék tenger végtelen tágassága.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baćin dvor kert",
+            "tip": "Egy nyugodt történelmi komplexum.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de pe stânci",
+            "tip": "Vastitatea infinită a mării albastre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Baćin dvor",
+            "tip": "Un complex istoric liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliff Path",
+            "tip": "Infinite expanse of the blue sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Baćin dvor Garden",
+            "tip": "A quiet historical complex.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinothek Gospoja",
+            "tip": "Kaufen Sie eine Flasche Žlahtina direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gospoja vinotéka",
+            "tip": "Vásároljon egy üveg Žlahtinát közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinoteca Gospoja",
+            "tip": "Cumpărați o sticlă de Žlahtina direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gospoja Winery",
+            "tip": "Buy a bottle of Žlahtina directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie rutschfeste Schuhe, die Steine in der Altstadt sind glatt poliert.",
+          "Vrbnik ist berühmt für seine Glagoliza-Inschriften, halten Sie Ausschau danach.",
+          "Der Strand Potovošće ist am besten mit dem Auto oder einem längeren Spaziergang erreichbar.",
+          "Buchen Sie im Voraus einen Platz in der Bibliothek."
+        ],
+        "hu": [
+          "Viseljen csúszásmentes cipőt, az óváros kövei simára koptak.",
+          "Vrbnik híres a glagolita feliratokról, keresse őket a falakon.",
+          "A Potovošće strand autóval vagy hosszabb sétával érhető el legjobban.",
+          "Foglaljon előre helyet a könyvtárlátogatáshoz."
+        ],
+        "ro": [
+          "Purtați încălțăminte aderentă, pietrele din centrul vechi sunt șlefuite și alunecoase.",
+          "Vrbnik este faimos pentru inscripțiile glagolitice, căutați-le.",
+          "Plaja Potovošće este cel mai bine accesibilă cu mașina sau printr-o plimbare lungă.",
+          "Rezervați din timp un loc pentru bibliotecă."
+        ],
+        "en": [
+          "Wear non-slip shoes; the stones in the old town are polished smooth.",
+          "Vrbnik is famous for its Glagolitic inscriptions; look out for them.",
+          "Potovošće Beach is best reached by car or a long walk.",
+          "Book a spot in the library in advance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 14.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vrbnik Altstadt-Eingang",
+            "hu": "Vrbnik óváros bejárat",
+            "ro": "Intrarea în centrul vechi Vrbnik",
+            "en": "Vrbnik Old Town Entrance"
+          },
+          "coords": [
+            14.673,
+            45.0755
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad am Parkplatz ab, bevor Sie die Gassen betreten.",
+            "hu": "Parkolja le a biciklit a parkolóban, mielőtt belép a szűk utcákba.",
+            "ro": "Lăsați bicicleta în parcare înainte de a intra pe străduțe.",
+            "en": "Park your bike in the parking lot before entering the alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm von Vrbnik",
+            "hu": "Vrbniki harangtorony",
+            "ro": "Clopotnița din Vrbnik",
+            "en": "Vrbnik Bell Tower"
+          },
+          "coords": [
+            14.6748,
+            45.0768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt mit toller Aussicht.",
+            "hu": "A város jelképe remek kilátással.",
+            "ro": "Simbolul orașului cu o vedere excelentă.",
+            "en": "Landmark of the town with a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Baćin dvor Komplex",
+            "hu": "Baćin dvor komplexum",
+            "ro": "Complexul Baćin dvor",
+            "en": "Baćin dvor Complex"
+          },
+          "coords": [
+            14.6755,
+            45.0765
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die lokale Kulturgeschichte.",
+            "hu": "Tudjon meg többet a helyi kultúrtörténetről.",
+            "ro": "Aflați mai multe despre istoria culturală locală.",
+            "en": "Learn more about local cultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Potovošće (Radtour)",
+            "hu": "Potovošće strand (biciklitúra)",
+            "ro": "Plaja Potovošće (tur bicicletă)",
+            "en": "Potovošće Beach (bike tour)"
+          },
+          "coords": [
+            14.6885,
+            45.0685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Die Fahrt dorthin führt durch Weinberge.",
+            "hu": "Az odaút szőlőültetvényeken keresztül vezet.",
+            "ro": "Drumul până acolo trece prin podgorii.",
+            "en": "The ride there leads through vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinberge von Vrbnik",
+            "hu": "Vrbniki szőlőskertek",
+            "ro": "Podgoriile din Vrbnik",
+            "en": "Vrbnik Vineyards"
+          },
+          "coords": [
+            14.665,
+            45.072
+          ],
+          "category": "natural features",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Hier wächst die berühmte Žlahtina-Traube.",
+            "hu": "Itt terem a híres Žlahtina szőlő.",
+            "ro": "Aici crește faimosul strugure Žlahtina.",
+            "en": "The famous Žlahtina grape grows here."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen im Zentrum",
+            "hu": "Késői ebéd a központban",
+            "ro": "Prânz târziu în centru",
+            "en": "Late Lunch in Center"
+          },
+          "coords": [
+            14.6735,
+            45.0758
+          ],
+          "category": "gastro",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Glas Wein zum Abschluss.",
+            "hu": "Élvezzen egy pohár bort lezárásként.",
+            "ro": "Savurați un pahar de vin la final.",
+            "en": "Enjoy a glass of wine to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Vrbnik und seine umliegenden Weinberge mit dem Rad. Nach einem kurzen Besuch im historischen Kern radeln Sie durch das malerische Hinterland zum abgelegenen Strand Potovošće. Die Route führt Sie direkt durch die Felder, auf denen die Žlahtina-Trauben reifen. Zum Abschluss kehren Sie für ein wohlverdientes Essen ins Zentrum zurück.",
+        "hu": "Fedezze fel Vrbniket és a környező szőlőültetvényeket biciklivel. A történelmi mag rövid meglátogatása után tekerjen át a festői hátországon a félreeső Potovošće strandhoz. Az útvonal közvetlenül azokon a földeken vezet keresztül, ahol a Žlahtina szőlő érik. Végezetül térjen vissza a központba egy jól megérdemelt ebédre.",
+        "ro": "Explorați Vrbnik și podgoriile înconjurătoare cu bicicleta. După o scurtă vizită în nucleul istoric, pedalați prin hinterlandul pitoresc spre plaja retrasă Potovošće. Traseul trece direct prin câmpurile unde se coc strugurii Žlahtina. La final, reveniți în centru pentru o masă binemeritată.",
+        "en": "Explore Vrbnik and its surrounding vineyards by bike. After a short visit to the historical core, cycle through the picturesque hinterland to the secluded Potovošće Beach. The route leads you directly through the fields where the Žlahtina grapes ripen. Finally, return to the center for a well-deserved meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Akvarij",
+            "tip": "Frischer Fisch und lokale Pasta-Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Akvarij konoba",
+            "tip": "Friss hal és helyi tészta különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Akvarij",
+            "tip": "Pește proaspăt și specialități locale de paste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Akvarij",
+            "tip": "Fresh fish and local pasta specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrbnik-Feld",
+            "tip": "Ruhe inmitten der Weinstöcke.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrbniki mező",
+            "tip": "Csend a tőkék között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpul Vrbnik",
+            "tip": "Liniște în mijlocul viței de vie.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrbnik Field",
+            "tip": "Peace among the vines.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Kaufen Sie Schafskäse von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Vásároljon juhsajtot a helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Cumpărați brânză de oaie de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Cheese",
+            "tip": "Buy sheep cheese from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "E-Bikes werden für die Hügel um Vrbnik empfohlen.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt durch die Weinberge mit.",
+          "Einige Wege sind geschottert, achten Sie auf Ihre Reifen.",
+          "In der Altstadt ist das Radfahren verboten, bitte schieben."
+        ],
+        "hu": [
+          "E-bike ajánlott a Vrbnik körüli dombokhoz.",
+          "Vigyen elegendő vizet a szőlőültetvényeken való tekeréshez.",
+          "Néhány út murvás, ügyeljen a gumikra.",
+          "Az óvárosban tilos biciklizni, kérjük tolja a kerékpárt."
+        ],
+        "ro": [
+          "Se recomandă biciclete electrice pentru dealurile din jurul Vrbnikului.",
+          "Luați suficientă apă pentru drumul prin podgorii.",
+          "Unele drumuri sunt cu pietriș, atenție la anvelope.",
+          "Biciclismul este interzis în centrul vechi, vă rugăm să mergeți pe lângă."
+        ],
+        "en": [
+          "E-bikes are recommended for the hills around Vrbnik.",
+          "Take enough water for the ride through the vineyards.",
+          "Some paths are gravel; watch your tires.",
+          "Cycling is prohibited in the old town; please push your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Vrbnik",
+            "hu": "Vrbnik óvárosa",
+            "ro": "Centrul vechi din Vrbnik",
+            "en": "Vrbnik Old Town"
+          },
+          "coords": [
+            14.6738,
+            45.0762
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Ortseingang auf den markierten Flächen.",
+            "hu": "Parkoljon a falu bejáratánál a jelzett helyeken.",
+            "ro": "Parcați la intrarea în localitate în zonele marcate.",
+            "en": "Park at the town entrance in the marked areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibliothek der Familie Vitezić",
+            "hu": "Vitezić család könyvtára",
+            "ro": "Biblioteca familiei Vitezić",
+            "en": "Vitezić Family Library"
+          },
+          "coords": [
+            14.6745,
+            45.0763
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Kulturliebhaber.",
+            "hu": "Kulturális rajongóknak kötelező.",
+            "ro": "O necesitate pentru iubitorii de cultură.",
+            "en": "A must for culture lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm von Vrbnik",
+            "hu": "Vrbniki harangtorony",
+            "ro": "Clopotnița din Vrbnik",
+            "en": "Vrbnik Bell Tower"
+          },
+          "coords": [
+            14.6748,
+            45.0768
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Aussicht auf das Festland ist hervorragend.",
+            "hu": "A szárazföldre nyíló kilátás kiváló.",
+            "ro": "Vederea spre continent este excelentă.",
+            "en": "The view of the mainland is excellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz într-o konoba",
+            "en": "Lunch in a Tavern"
+          },
+          "coords": [
+            14.674,
+            45.0755
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestellen Sie eine Platte mit Krk-Käse und Schinken.",
+            "hu": "Rendeljen egy tál Krk-szigeti sajtot és sonkát.",
+            "ro": "Comandați un platou cu brânză de Krk și pršut.",
+            "en": "Order a platter of Krk cheese and prosciutto."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Potovošće",
+            "hu": "Potovošće strand",
+            "ro": "Plaja Potovošće",
+            "en": "Potovošće Beach"
+          },
+          "coords": [
+            14.6885,
+            45.0685
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Mit dem Auto sind es nur 5-10 Minuten Fahrt.",
+            "hu": "Autóval csak 5-10 perc út.",
+            "ro": "Cu mașina sunt doar 5-10 minute de mers.",
+            "en": "It is only a 5-10 minute drive by car."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie Vrbnik stressfrei. Morgens erkunden Sie die historische Altstadt und ihre wertvolle Bibliothek. Nach einem ausgiebigen Mittagessen im Herzen des Ortes fahren Sie zum wunderschönen Strand Potovošće. Dort können Sie die Sonne und das klare Meer genießen, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Autóval stresszmentesen élvezheti Vrbniket. Reggel fedezze fel a történelmi óvárost és annak értékes könyvtárát. Egy bőséges ebéd után a falu szívében, hajtson el a gyönyörű Potovošće strandhoz. Ott élvezheti a napsütést és a tiszta tengert, mielőtt pihentetően zárná a napot.",
+        "ro": "Cu mașina vă bucurați de Vrbnik fără stres. Dimineața, explorați centrul istoric și biblioteca sa valoroasă. După un prânz copios în inima localității, conduceți spre frumoasa plajă Potovošće. Acolo vă puteți bucura de soare și de marea curată înainte de a încheia ziua relaxat.",
+        "en": "With a car, you can enjoy Vrbnik stress-free. In the morning, explore the historical old town and its valuable library. After a hearty lunch in the heart of the village, drive to the beautiful Potovošće Beach. There you can enjoy the sun and the clear sea before ending the day relaxed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Nada",
+            "tip": "Bekannt für gehobene Küche und tolle Terrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nada étterem",
+            "tip": "Ismert a kifinomult konyhájáról és remek teraszáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Nada",
+            "tip": "Cunoscut pentru bucătăria rafinată și terasa superbă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Nada",
+            "tip": "Known for fine dining and a great terrace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Sveti Ivan",
+            "tip": "Kurze Fahrt zu einer kleinen Kapelle mit Panoramablick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Iván kilátó",
+            "tip": "Rövid út egy kis kápolnához panorámás kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Sfântul Ioan",
+            "tip": "Drum scurt până la o capelă cu vedere panoramică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Ivan Viewpoint",
+            "tip": "Short drive to a small chapel with panoramic views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokal hergestelltes Olivenöl",
+            "tip": "Direkt bei den Mühlen oder Weingütern erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a préseknél vagy borászatoknál kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Disponibil direct la mori sau crame."
+          }
+        ],
+        "en": [
+          {
+            "name": "Locally produced olive oil",
+            "tip": "Available directly at the mills or wineries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Parkplatz in der Nähe des Zentrums ist im Sommer schnell voll.",
+          "Die Straße zum Strand Potovošće ist schmal.",
+          "Fahren Sie vorsichtig, da viele Wanderer auf den Straßen unterwegs sind.",
+          "Besuchen Sie eine Weinkellerei für eine organisierte Verkostung."
+        ],
+        "hu": [
+          "A központ közeli parkoló nyáron gyorsan megtelik.",
+          "A Potovošće strandhoz vezető út szűk.",
+          "Vezessen óvatosan, mert sok a túrázó az utakon.",
+          "Látogasson el egy borászatba szervezett kóstolóra."
+        ],
+        "ro": [
+          "Parcarea de lângă centru se umple repede vara.",
+          "Drumul spre plaja Potovošće este îngust.",
+          "Conduceți cu atenție, deoarece sunt mulți drumeți pe drum.",
+          "Vizitați o cramă pentru o degustare organizată."
+        ],
+        "en": [
+          "The parking lot near the center fills up quickly in summer.",
+          "The road to Potovošće Beach is narrow.",
+          "Drive carefully as there are many hikers on the roads.",
+          "Visit a winery for an organized tasting."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Vrbnik",
+            "hu": "Vrbnik buszmegálló",
+            "ro": "Stația de autobuz Vrbnik",
+            "en": "Vrbnik Bus Stop"
+          },
+          "coords": [
+            14.6715,
+            45.075
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft der Busse aus der Stadt Krk oder Rijeka.",
+            "hu": "Érkezés Krk városából vagy Fiuméből.",
+            "ro": "Sosirea autobuzelor din orașul Krk sau Rijeka.",
+            "en": "Arrival of buses from Krk town or Rijeka."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Vrbnik",
+            "hu": "Vrbnik óvárosa",
+            "ro": "Centrul vechi din Vrbnik",
+            "en": "Vrbnik Old Town"
+          },
+          "coords": [
+            14.6738,
+            45.0762
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur 5 Minuten Fußweg von der Haltestelle.",
+            "hu": "Csak 5 perc séta a megállótól.",
+            "ro": "Doar 5 minute de mers de la stație.",
+            "en": "Only a 5-minute walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Klančić Gasse",
+            "hu": "Klančić köz",
+            "ro": "Strada Klančić",
+            "en": "Klančić Alley"
+          },
+          "coords": [
+            14.6742,
+            45.076
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein lustiges Erlebnis für jeden Besucher.",
+            "hu": "Vidám élmény minden látogató számára.",
+            "ro": "O experiență amuzantă pentru orice vizitator.",
+            "en": "A fun experience for every visitor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibliothek der Familie Vitezić",
+            "hu": "Vitezić család könyvtára",
+            "ro": "Biblioteca familiei Vitezić",
+            "en": "Vitezić Family Library"
+          },
+          "coords": [
+            14.6745,
+            45.0763
+          ],
+          "category": "museums",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wichtiger Ort des kroatischen Kulturerbes.",
+            "hu": "A horvát kulturális örökség fontos helyszíne.",
+            "ro": "Loc important al moștenirii culturale croate.",
+            "en": "Important site of Croatian cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Spaziergang",
+            "hu": "Ebéd és séta",
+            "ro": "Prânz și plimbare",
+            "en": "Lunch and Stroll"
+          },
+          "coords": [
+            14.675,
+            45.0755
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre vor der Abfahrt.",
+            "hu": "Élvezze a hangulatot az indulás előtt.",
+            "ro": "Bucurați-vă de atmosferă înainte de plecare.",
+            "en": "Enjoy the atmosphere before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Bus erreichen Sie Vrbnik bequem von anderen Orten auf der Insel. Von der Haltestelle ist es ein kurzer Spaziergang ins Zentrum. Vormittags erkunden Sie die Gassen und die berühmte Klančić-Gasse. Mittags widmen Sie sich der Kultur in der Bibliothek und beenden den Ausflug mit einem entspannten Mittagessen, bevor der Bus Sie wieder abholt.",
+        "hu": "Tömegközlekedéssel kényelmesen elérheti Vrbniket a sziget más helyeiről. A megállótól rövid séta vezet a központba. Délelőtt fedezze fel a sikátorokat és a híres Klančić közt. Délben szentelje idejét a kultúrának a könyvtárban, és fejezze be a kirándulást egy pihentető ebéddel, mielőtt a busz visszavinné.",
+        "ro": "Cu autobuzul public ajungeți confortabil în Vrbnik din alte localități de pe insulă. De la stație este o scurtă plimbare spre centru. Dimineața, explorați străduțele și faimoasa stradă Klančić. La prânz, dedicați-vă culturii la bibliotecă și încheiați excursia cu un prânz relaxat înainte de plecarea autobuzului.",
+        "en": "By public bus, you can easily reach Vrbnik from other places on the island. It is a short walk from the stop to the center. In the morning, explore the alleys and the famous Klančić Alley. At noon, dedicate your time to culture at the library and finish the trip with a relaxed lunch before the bus picks you up."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Luce",
+            "tip": "Traditionelle Gerichte in gemütlichem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Luce konoba",
+            "tip": "Hagyományos ételek hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Luce",
+            "tip": "Preparate tradiționale într-o ambianță primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Luce",
+            "tip": "Traditional dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ein ruhiger Winkel hinter der Kirche.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Egy nyugodt sarok a templom mögött.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Un colț liniștit în spatele bisericii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "A quiet corner behind the church.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen Vrbnik",
+            "tip": "Glagolitische Andenken und lokaler Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrbnik ajándékbolt",
+            "tip": "Glagolita emlékek és helyi méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Vrbnik",
+            "tip": "Amintiri glagolitice și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrbnik Souvenir Shop",
+            "tip": "Glagolitic souvenirs and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan sorgfältig, da die Verbindungen seltener sein können.",
+          "Die Bushaltestelle bietet eine gute Aussicht auf die Weinstöcke.",
+          "Kaufen Sie Tickets nach Möglichkeit vorab online.",
+          "Der Fußweg ins Zentrum ist leicht ansteigend."
+        ],
+        "hu": [
+          "Ellenőrizze alaposan a buszmenetrendet, mert a járatok ritkábbak lehetnek.",
+          "A buszmegállóból szép kilátás nyílik a szőlőültetvényekre.",
+          "Lehetőség szerint vegye meg a jegyet előre online.",
+          "A központba vezető gyalogút enyhén emelkedik."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor, deoarece conexiunile pot fi rare.",
+          "Stația de autobuz oferă o vedere frumoasă asupra viței de vie.",
+          "Cumpărați biletele online în prealabil, dacă este posibil.",
+          "Drumul pe jos spre centru este ușor în urcare."
+        ],
+        "en": [
+          "Check the bus timetable carefully as connections can be infrequent.",
+          "The bus stop offers a good view of the vineyards.",
+          "Buy tickets online in advance if possible.",
+          "The walk to the center is slightly uphill."
+        ]
+      }
+    }
+  }
+}

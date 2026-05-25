@@ -1,0 +1,922 @@
+{
+  "city_id": "lovinac",
+  "anchor": {
+    "name": "Lovinac",
+    "coords": [
+      15.7,
+      44.3917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            15.688,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine Barockkirche aus dem 18. Jahrhundert im Zentrum.",
+            "hu": "18. századi barokk templom a központban.",
+            "ro": "O biserică barocă din secolul al XVIII-lea în centru.",
+            "en": "An 18th-century baroque church in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografische Sammlung",
+            "hu": "Néprajzi gyűjtemény",
+            "ro": "Colecția etnografică",
+            "en": "Ethnographic Collection"
+          },
+          "coords": [
+            15.687,
+            44.391
+          ],
+          "category": "museums",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das traditionelle Leben in der Lika-Region.",
+            "hu": "Ismerje meg a Lika-régió hagyományos életmódját.",
+            "ro": "Aflați mai multe despre viața tradițională din regiunea Lika.",
+            "en": "Learn more about the traditional life in the Lika region."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für gefallene Kämpfer",
+            "hu": "Elesett harcosok emlékműve",
+            "ro": "Monumentul luptătorilor căzuți",
+            "en": "Monument to Fallen Fighters"
+          },
+          "coords": [
+            15.689,
+            44.393
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort des Gedenkens im Zentrum von Lovinac.",
+            "hu": "Emlékhely Lovinac központjában.",
+            "ro": "Un loc de comemorare în centrul orașului Lovinac.",
+            "en": "A place of remembrance in the center of Lovinac."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Cvituša",
+            "hu": "Cvituša-domb",
+            "ro": "Dealul Cvituša",
+            "en": "Cvituša Hill"
+          },
+          "coords": [
+            15.695,
+            44.385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bekanntes Ausflugsziel mit Spielplätzen und Rodelbahn im Winter.",
+            "hu": "Népszerű kirándulóhely játszóterekkel, télen szánkópályával.",
+            "ro": "Destinație populară de excursie cu locuri de joacă și pistă de sanie iarna.",
+            "en": "Known excursion spot with playgrounds and a sledding hill in winter."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle Mudrica",
+            "hu": "Mudrica-forrás",
+            "ro": "Izvorul Mudrica",
+            "en": "Mudrica Source"
+          },
+          "coords": [
+            15.705,
+            44.395
+          ],
+          "category": "natural features",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Klares Quellwasser in einer friedlichen natürlichen Umgebung.",
+            "hu": "Tiszta forrásvíz békés természeti környezetben.",
+            "ro": "Apă de izvor limpede într-un mediu natural liniștit.",
+            "en": "Clear spring water in a peaceful natural environment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Lovinac beginnt beschaulich im Dorfzentrum. Sie besuchen die Barockkirche des Hl. Michael und die Ethnografische Sammlung, um die Seele der Lika-Region zu verstehen.\n\nMittags machen Sie einen kurzen Spaziergang zum Denkmal im Zentrum, bevor Sie ein traditionelles Mittagessen genießen.\n\nDen Nachmittag verbringen Sie aktiv am Hügel Cvituša, einem beliebten Treffpunkt für Familien und Naturliebhaber.\n\nAm späten Nachmittag wandern Sie zur Mudrica-Quelle, um das erfrischende Wasser direkt aus der Natur zu probieren.",
+        "hu": "Lovinaci napja békésen indul a falu központjában. Meglátogatja a barokk Szent Mihály-templomot és a Néprajzi Gyűjteményt, hogy megértse a Lika-régió lelkét.\n\nDélben egy rövid sétát tesz a központi emlékműhöz, mielőtt elfogyasztana egy hagyományos ebédet.\n\nA délutánt aktívan tölti a Cvituša-dombon, amely a családok és a természetbarátok kedvelt találkozóhelye.\n\nKéső délután elsétál a Mudrica-forráshoz, hogy megkóstolja a természetből eredő frissítő vizet.",
+        "ro": "Ziua dvs. în Lovinac începe liniștit în centrul satului. Vizitați biserica barocă Sfântul Mihail și Colecția Etnografică pentru a înțelege spiritul regiunii Lika.\n\nLa prânz faceți o scurtă plimbare la monumentul din centru, înainte de a savura un prânz tradițional.\n\nDupă-amiaza o petreceți activ pe dealul Cvituša, un loc popular de întâlnire pentru familii și iubitorii de natură.\n\nSpre seară mergeți până la izvorul Mudrica pentru a gusta apa răcoritoare direct din natură.",
+        "en": "Your day in Lovinac starts peacefully in the village center. You visit the Baroque Church of St. Michael and the Ethnographic Collection to understand the soul of the Lika region.\n\nAt midday, take a short walk to the monument in the center before enjoying a traditional lunch.\n\nSpend the afternoon actively at Cvituša Hill, a favorite meeting spot for families and nature lovers.\n\nIn the late afternoon, hike to the Mudrica Source to taste the refreshing water directly from nature."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lika-Kartoffeln",
+            "tip": "Probieren Sie die geschützten Kartoffeln (Lički krumpir) mit lokalem Käse 'Basa'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lika burgonya",
+            "tip": "Kóstolja meg az eredetvédett burgonyát helyi 'Basa' sajttal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cartofi de Lika",
+            "tip": "Gustați cartofii protejați (Lički krumpir) cu brânză locală 'Basa'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lika Potatoes",
+            "tip": "Try the protected potatoes (Lički krumpir) with local 'Basa' cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quelle Mudrica",
+            "tip": "Sanftes Plätschern und frische Waldluft.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mudrica-forrás",
+            "tip": "Szelíd csobogás és friss erdei levegő.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvorul Mudrica",
+            "tip": "Susur blând și aer proaspăt de pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mudrica Source",
+            "tip": "Gentle splashing and fresh forest air.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernhof-Verkauf",
+            "tip": "Kaufen Sie Honig und Käse direkt bei den Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háztáji eladás",
+            "tip": "Vásároljon mézet és sajtot közvetlenül a helyiektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare la fermă",
+            "tip": "Cumpărați miere și brânză direct de la localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Sales",
+            "tip": "Buy honey and cheese directly from the locals."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lovinac ist sehr ruhig, ideal für langsame Erholung.",
+          "Das Wetter in der Lika kann sich schnell ändern, nehmen Sie eine Jacke mit.",
+          "Fragen Sie im Dorf nach lokalen Guides für längere Wanderungen.",
+          "Die Mudrica-Quelle ist auch ein toller Ort für ein Picknick."
+        ],
+        "hu": [
+          "Lovinac nagyon csendes, ideális a lassú kikapcsolódáshoz.",
+          "Lika időjárása gyorsan változhat, vigyen magával kabátot.",
+          "Kérdezzen a faluban helyi vezetőt a hosszabb túrákhoz.",
+          "A Mudrica-forrás remek hely egy piknikhez is."
+        ],
+        "ro": [
+          "Lovinac este foarte liniștit, ideal pentru relaxare lentă.",
+          "Vremea în Lika se poate schimba rapid, luați o jachetă.",
+          "Întrebați în sat de ghizi locali pentru drumeții mai lungi.",
+          "Izvorul Mudrica este, de asemenea, un loc minunat pentru un picnic."
+        ],
+        "en": [
+          "Lovinac is very quiet, ideal for slow recreation.",
+          "The weather in Lika can change quickly, so take a jacket.",
+          "Ask in the village for local guides for longer hikes.",
+          "The Mudrica Source is also a great place for a picnic."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinbrücke am Suvaja",
+            "hu": "Kőhíd a Suvaján",
+            "ro": "Podul de piatră de pe Suvaja",
+            "en": "Stone Bridge on Suvaja"
+          },
+          "coords": [
+            15.68,
+            44.4
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Eine malerische Brücke über den Gebirgsbach Suvaja.",
+            "hu": "Festői híd a Suvaja hegyi patak felett.",
+            "ro": "Un pod pitoresc peste pârâul de munte Suvaja.",
+            "en": "A picturesque bridge over the Suvaja mountain stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Cvituša",
+            "hu": "Cvituša-domb",
+            "ro": "Dealul Cvituša",
+            "en": "Cvituša Hill"
+          },
+          "coords": [
+            15.695,
+            44.385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Hier können Sie eine längere Pause einlegen und Fahrräder sicher abstellen.",
+            "hu": "Itt hosszabb pihenőt tarthat, és biztonságosan leállíthatja a kerékpárokat.",
+            "ro": "Aici puteți lua o pauză mai lungă și puteți parca bicicletele în siguranță.",
+            "en": "Here you can take a longer break and park bikes safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografische Sammlung",
+            "hu": "Néprajzi gyűjtemény",
+            "ro": "Colecția etnografică",
+            "en": "Ethnographic Collection"
+          },
+          "coords": [
+            15.687,
+            44.391
+          ],
+          "category": "museums",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Interessanter Stopp für kulturelle Einblicke am Rückweg.",
+            "hu": "Érdekes megálló kulturális betekintéshez a visszaúton.",
+            "ro": "Oprire interesantă pentru incursiuni culturale la întoarcere.",
+            "en": "Interesting stop for cultural insights on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            15.688,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss Ihrer Tour im Dorfzentrum.",
+            "hu": "A túra befejezése a falu központjában.",
+            "ro": "Finalul turului dvs. în centrul satului.",
+            "en": "Completion of your tour in the village center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie die weite Ebene von Lovinac. Sie starten morgens an der historischen Steinbrücke am Suvaja-Bach.\n\nMittags erreichen Sie den Cvituša-Hügel, wo Sie sich im Schatten der Bäume erholen können.\n\nAm Nachmittag radeln Sie zurück ins Dorf, besuchen die ethnografische Sammlung und die Kirche, um den Tag abzurunden.\n\nDie Wege sind meist flach und bieten wunderbare Ausblicke auf das Velebit-Massiv.",
+        "hu": "Kerékpárral felfedezheti Lovinac tágas síkságát. Reggel a Suvaja-patak történelmi kőhídjánál indul.\n\nDélben eléri a Cvituša-dombot, ahol a fák árnyékában pihenhet.\n\nDélután visszakerekezik a faluba, meglátogatja a néprajzi gyűjteményt és a templomot, hogy teljessé tegye a napot.\n\nAz utak többnyire síkak, és csodálatos kilátást nyújtanak a Velebit-hegységre.",
+        "ro": "Cu bicicleta veți explora câmpia largă a orașului Lovinac. Începeți dimineața la podul istoric de piatră de peste pârâul Suvaja.\n\nLa prânz ajungeți la dealul Cvituša, unde vă puteți relaxa la umbra copacilor.\n\nDupă-amiaza pedalați înapoi în sat, vizitați colecția etnografică și biserica pentru a completa ziua.\n\nTraseele sunt în mare parte plate și oferă vederi minunate către masivul Velebit.",
+        "en": "By bike, you explore the wide plain of Lovinac. You start in the morning at the historical stone bridge on the Suvaja stream.\n\nAt midday, you reach Cvituša Hill, where you can relax in the shade of the trees.\n\nIn the afternoon, cycle back to the village, visit the ethnographic collection and the church to round off the day.\n\nThe paths are mostly flat and offer wonderful views of the Velebit massif."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Apfelsaft",
+            "tip": "Erfrischend und natürlich von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi almalé",
+            "tip": "Frissítő és természetes, helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suc de mere de casă",
+            "tip": "Răcoritor și natural de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Apple Juice",
+            "tip": "Refreshing and natural from local farmers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Suvaja",
+            "tip": "Stilles Wasser und viel Grün.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Suvaja partja",
+            "tip": "Csendes víz és sok zöld.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Suvaja",
+            "tip": "Apă liniștită și multă verdeață.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banks of Suvaja",
+            "tip": "Quiet water and lots of green.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lika-Wollprodukte",
+            "tip": "Traditionelle handgestrickte Socken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lika gyapjútermékek",
+            "tip": "Hagyományos, kézzel kötött zoknik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse din lână de Lika",
+            "tip": "Șosete tradiționale împletite manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lika Wool Products",
+            "tip": "Traditional hand-knitted socks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt wenig Verkehr, aber achten Sie auf Tiere auf der Straße.",
+          "Die Sonne kann auf der Ebene stark brennen, nutzen Sie Sonnenschutz.",
+          "Die Schotterwege sind besser für Mountainbikes geeignet.",
+          "Füllen Sie Ihre Trinkflaschen an der Mudrica-Quelle auf."
+        ],
+        "hu": [
+          "Kevés a forgalom, de ügyeljen az úton lévő állatokra.",
+          "A nap erősen tűzhet a síkságon, használjon fényvédőt.",
+          "A murvás utak jobban megfelelnek a hegyi kerékpároknak (MTB).",
+          "Töltse fel kulacsait a Mudrica-forrásnál."
+        ],
+        "ro": [
+          "Traficul este redus, dar fiți atenți la animalele de pe drum.",
+          "Soarele poate arde puternic în câmpie, folosiți protecție solară.",
+          "Drumurile pietruite sunt mai potrivite pentru bicicletele de munte.",
+          "Umpleți-vă bidoanele cu apă de la izvorul Mudrica."
+        ],
+        "en": [
+          "There is little traffic, but watch out for animals on the road.",
+          "The sun can be strong on the plain, use sun protection.",
+          "Gravel paths are better suited for mountain bikes.",
+          "Refill your water bottles at the Mudrica source."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 40.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Berg Zir",
+            "hu": "Zir-hegy",
+            "ro": "Muntele Zir",
+            "en": "Zir Mountain"
+          },
+          "coords": [
+            15.61,
+            44.4
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein markanter Felsen mitten im Lika-Feld; der Aufstieg dauert ca. 1 Stunde.",
+            "hu": "Jellegzetes szikla a Lika-mező közepén; a felfutás kb. 1 órát vesz igénybe.",
+            "ro": "O stâncă distinctivă în mijlocul câmpului Lika; urcarea durează aproximativ 1 oră.",
+            "en": "A distinctive rock in the middle of the Lika field; the climb takes about 1 hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Sekulić-Höhlen",
+            "hu": "Sekulić-barlangok",
+            "ro": "Peșterile Sekulić",
+            "en": "Sekulić Caves"
+          },
+          "coords": [
+            15.65,
+            44.42
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Versteckte Höhlen in der Nähe, erkunden Sie sie mit Vorsicht.",
+            "hu": "Rejtett barlangok a közelben, óvatosan fedezze fel őket.",
+            "ro": "Peșteri ascunse în apropiere, explorați-le cu prudență.",
+            "en": "Hidden caves nearby, explore them with caution."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle Mudrica",
+            "hu": "Mudrica-forrás",
+            "ro": "Izvorul Mudrica",
+            "en": "Mudrica Source"
+          },
+          "coords": [
+            15.705,
+            44.395
+          ],
+          "category": "natural features",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort zum Abkühlen nach dem Wandern.",
+            "hu": "Szép hely a hűsölésre a túrázás után.",
+            "ro": "Un loc frumos pentru răcorire după drumeție.",
+            "en": "A nice place to cool down after hiking."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinbrücke am Suvaja",
+            "hu": "Kőhíd a Suvaján",
+            "ro": "Podul de piatră de pe Suvaja",
+            "en": "Stone Bridge on Suvaja"
+          },
+          "coords": [
+            15.68,
+            44.4
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Leicht mit dem Auto erreichbar, toller Fotostopp.",
+            "hu": "Autóval könnyen elérhető, nagyszerű fotómegálló.",
+            "ro": "Ușor accesibil cu mașina, punct excelent de fotografiat.",
+            "en": "Easily accessible by car, great photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografische Sammlung",
+            "hu": "Néprajzi gyűjtemény",
+            "ro": "Colecția etnografică",
+            "en": "Ethnographic Collection"
+          },
+          "coords": [
+            15.687,
+            44.391
+          ],
+          "category": "museums",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein kurzer kultureller Abschluss Ihrer Fahrt.",
+            "hu": "Egy rövid kulturális lezárása az utazásnak.",
+            "ro": "O scurtă încheiere culturală a călătoriei dvs.",
+            "en": "A short cultural conclusion to your drive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die beeindruckendsten Naturwunder von Lovinac. Der Tag beginnt mit einer Wanderung am Berg Zir, dem markanten Symbol der Region.\n\nMittags erkunden Sie die Sekulić-Höhlen und erfrischen sich anschließend an der Mudrica-Quelle.\n\nAm Nachmittag besuchen Sie die Steinbrücke am Suvaja-Bach und die ethnografische Sammlung im Ort.\n\nDer Tag endet mit einer Fahrt durch die malerische Landschaft der Lika bei Sonnenuntergang.",
+        "hu": "Autóval elérheti Lovinac leglenyűgözőbb természeti csodáit. A nap a Zir-hegynél tett túrával kezdődik, amely a régió jellegzetes szimbóluma.\n\nDélben felfedezi a Sekulić-barlangokat, majd felfrissül a Mudrica-forrásnál.\n\nDélután meglátogatja a Suvaja-patak kőhídját és a faluban található néprajzi gyűjteményet.\n\nA napot egy autózással zárja a Lika festői táján a naplementében.",
+        "ro": "Cu mașina veți ajunge la cele mai impresionante minuni naturale din Lovinac. Ziua începe cu o drumeție la muntele Zir, simbolul distinctiv al regiunii.\n\nLa prânz explorați peșterile Sekulić și apoi vă răcoriți la izvorul Mudrica.\n\nDupă-amiaza vizitați podul de piatră de pe pârâul Suvaja și colecția etnografică din localitate.\n\nZiua se încheie cu o plimbare cu mașina prin peisajul pitoresc din Lika la apus.",
+        "en": "By car, you reach the most impressive natural wonders of Lovinac. The day starts with a hike at Zir Mountain, the distinctive symbol of the region.\n\nAt midday, explore the Sekulić Caves and then refresh yourself at the Mudrica Source.\n\nIn the afternoon, visit the stone bridge on the Suvaja stream and the ethnographic collection in town.\n\nThe day ends with a drive through the picturesque Lika landscape at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lika-Lamm",
+            "tip": "Traditionell unter der Glocke (Peka) zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lika bárány",
+            "tip": "Hagyományosan harang (Peka) alatt sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel de Lika",
+            "tip": "Preparat tradițional sub capac (Peka)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lika Lamb",
+            "tip": "Traditionally prepared under the bell (Peka)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel des Zir",
+            "tip": "360-Grad-Blick über die einsame Lika-Ebene.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zir csúcsa",
+            "tip": "360 fokos kilátás az elhagyatott Lika-mezőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Zir",
+            "tip": "Vedere de 360 de grade peste câmpia solitară Lika.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zir Peak",
+            "tip": "360-degree view over the lonely Lika plain.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Schlehenschnaps",
+            "tip": "Eine lokale Spezialität aus Wildfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kökénypálinka",
+            "tip": "Helyi specialitás vadhúsból/vadgyümölcsből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țuică de porumbrele",
+            "tip": "O specialitate locală din fructe sălbatice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sloe Brandy",
+            "tip": "A local specialty made from wild berries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tanken Sie voll, bevor Sie tiefer in die Lika-Felder fahren.",
+          "Einige Zufahrtsstraßen zu den Naturwundern sind Schotterwege.",
+          "Wanderschuhe sind für den Zir-Aufstieg unerlässlich.",
+          "In der Nähe der Autobahn A1 gibt es gute Raststätten mit lokalen Produkten."
+        ],
+        "hu": [
+          "Tankoljon tele, mielőtt mélyebbre indul a Lika-mezőn.",
+          "A természeti csodákhoz vezető utak némelyike murvás.",
+          "A túrabakancs elengedhetetlen a Zir-hegy megmászásához.",
+          "Az A1-es autópálya közelében jó pihenőhelyek vannak helyi termékekkel."
+        ],
+        "ro": [
+          "Alimentați complet înainte de a merge mai adânc în câmpurile Lika.",
+          "Unele drumuri de acces către minunile naturale sunt pietruite.",
+          "Bocancii de drumeție sunt esențiali pentru urcarea pe Zir.",
+          "Lângă autostrada A1 există popasuri bune cu produse locale."
+        ],
+        "en": [
+          "Fuel up before driving deeper into the Lika fields.",
+          "Some access roads to natural wonders are gravel paths.",
+          "Hiking boots are essential for the Zir climb.",
+          "Near the A1 highway, there are good rest stops with local products."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Lovinac",
+            "hu": "Lovinac vasútállomás",
+            "ro": "Gara Lovinac",
+            "en": "Lovinac Train Station"
+          },
+          "coords": [
+            15.68,
+            44.385
+          ],
+          "category": "industry",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kleiner Bahnhof an der historischen Lika-Bahnstrecke.",
+            "hu": "Kis állomás a történelmi Lika-vasútvonalon.",
+            "ro": "O mică gară pe linia ferată istorică Lika.",
+            "en": "A small station on the historical Lika railway line."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Michael",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            15.688,
+            44.392
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "Az állomástól könnyen elérhető gyalogosan.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily reachable on foot from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnografische Sammlung",
+            "hu": "Néprajzi gyűjtemény",
+            "ro": "Colecția etnografică",
+            "en": "Ethnographic Collection"
+          },
+          "coords": [
+            15.687,
+            44.391
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt im Zentrum von Lovinac.",
+            "hu": "Közvetlenül Lovinac központjában.",
+            "ro": "Direct în centrul orașului Lovinac.",
+            "en": "Right in the center of Lovinac."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Cvituša",
+            "hu": "Cvituša-domb",
+            "ro": "Dealul Cvituša",
+            "en": "Cvituša Hill"
+          },
+          "coords": [
+            15.695,
+            44.385
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort zum Entspannen vor der Zugabfahrt.",
+            "hu": "Szép hely a kikapcsolódásra a vonat indulása előtt.",
+            "ro": "Un loc frumos pentru relaxare înainte de plecarea trenului.",
+            "en": "A nice place to relax before your train departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug erreichen Sie Lovinac auf malerische Weise. Vom Bahnhof aus erkunden Sie das Dorfzentrum zu Fuß.\n\nMittags besuchen Sie die ethnografische Sammlung, um mehr über die Region zu erfahren.\n\nNachmittags entspannen Sie am Cvituša-Hügel, der nur einen kurzen Spaziergang entfernt ist.\n\nDer Transit-Modus ist perfekt für Bahnliebhaber und Tagestouren aus größeren Städten wie Gospić.",
+        "hu": "Vonattal festői módon érheti el Lovinacot. Az állomástól gyalogosan fedezi fel a falu központját.\n\nDélben meglátogatja a néprajzi gyűjteményt, hogy többet tudjon meg a régióról.\n\nDélután a Cvituša-dombon pihenhet, amely csak egy rövid sétára van.\n\nA tömegközlekedési mód tökéletes a vasút kedvelőinek és a nagyobb városokból, például Gospićból érkező egynapos túráknak.",
+        "ro": "Cu trenul veți ajunge în Lovinac într-un mod pitoresc. De la gară explorați centrul satului pe jos.\n\nLa prânz vizitați colecția etnografică pentru a afla mai multe despre regiune.\n\nDupă-amiaza vă relaxați la dealul Cvituša, aflat la doar o scurtă plimbare.\n\nModul de tranzit este perfect pentru iubitorii de călătorii cu trenul și pentru excursii de o zi din orașe mai mari precum Gospić.",
+        "en": "By train, you reach Lovinac in a picturesque way. From the station, you explore the village center on foot.\n\nAt midday, visit the ethnographic collection to learn more about the region.\n\nIn the afternoon, relax at Cvituša Hill, which is just a short walk away.\n\nThe transit mode is perfect for train lovers and day trips from larger cities like Gospić."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Krapfen (Uštipci)",
+            "tip": "Hausgemachte Teigbällchen, oft am Kiosk am Bahnhof erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uštipci",
+            "tip": "Házi készítésű tésztafánk, gyakran kapható az állomási büfében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gogoși (Uštipci)",
+            "tip": "Gogoși de casă, adesea disponibile la chioșcul gării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uštipci",
+            "tip": "Homemade dough balls, often available at the station kiosk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbank",
+            "tip": "Nostalgie und Stille an der alten Bahnstrecke.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Állomási pad",
+            "tip": "Nosztalgia és csend a régi vasútvonalon.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banca gării",
+            "tip": "Nostalgie și liniște pe vechea linie ferată.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bench",
+            "tip": "Nostalgia and silence at the old railway line.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionaler Wanderführer",
+            "tip": "In der Touristeninfo im Zentrum erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális túrakalauz",
+            "tip": "A központban található turisztikai irodában kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ghid de drumeție regional",
+            "tip": "Disponibil la biroul de turism din centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Hiking Guide",
+            "tip": "Available at the tourist office in the center."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Lika-Bahn ist wunderschön, aber Züge fahren nur selten.",
+          "Prüfen Sie die Rückfahrzeiten unbedingt vorab (HŽ Putnički prijevoz).",
+          "Der Fußweg zum Dorfzentrum dauert ca. 15 Minuten.",
+          "Nehmen Sie Snacks mit, da das Angebot am Bahnhof begrenzt ist."
+        ],
+        "hu": [
+          "A Lika-vasút gyönyörű, de a vonatok ritkán járnak.",
+          "Mindenképpen ellenőrizze előre a visszautazási időpontokat (HŽ Putnički prijevoz).",
+          "A falu központjába vezető gyalogút kb. 15 percet vesz igénybe.",
+          "Vigyen magával snacket, mert az állomáson korlátozott a kínálat."
+        ],
+        "ro": [
+          "Calea ferată Lika este superbă, dar trenurile circulă rar.",
+          "Verificați neapărat orele de întoarcere în avans (HŽ Putnički prijevoz).",
+          "Drumul pe jos până în centrul satului durează aproximativ 15 minute.",
+          "Luați gustări cu dvs., deoarece oferta de la gară este limitată."
+        ],
+        "en": [
+          "The Lika railway is beautiful, but trains run infrequently.",
+          "Be sure to check return times in advance (HŽ Putnički prijevoz).",
+          "The walk to the village center takes about 15 minutes.",
+          "Bring snacks with you, as options at the station are limited."
+        ]
+      }
+    }
+  }
+}

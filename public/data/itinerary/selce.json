@@ -1,0 +1,850 @@
+{
+  "city_id": "selce",
+  "anchor": {
+    "name": "Selce",
+    "coords": [
+      14.7194,
+      45.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche der Hl. Katharina",
+          "coords": [
+            14.719,
+            45.151
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Barocke Pfarrkirche im Ortskern.",
+            "hu": "Barokk plébániatemplom a központban.",
+            "ro": "Biserica parohială barocă din centru.",
+            "en": "Baroque parish church in the center."
+          }
+        },
+        {
+          "name": "Polača",
+          "coords": [
+            14.718,
+            45.152
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historischer Waschplatz am Meer.",
+            "hu": "Történelmi mosóhely a tengernél.",
+            "ro": "Loc istoric de spălat rufe la mare.",
+            "en": "Historical laundry site by the sea."
+          }
+        },
+        {
+          "name": "Uferpromenade",
+          "coords": [
+            14.72,
+            45.15
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lebhafte Meile mit Cafés.",
+            "hu": "Élettel teli sétány kávézókkal.",
+            "ro": "Faleză plină de viață cu cafenele.",
+            "en": "Lively promenade with cafes."
+          }
+        },
+        {
+          "name": "Tunera",
+          "coords": [
+            14.722,
+            45.148
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Symbol der Fischereitradition (Thunfischfang).",
+            "hu": "A halászati hagyomány (tonhalászat) jelképe.",
+            "ro": "Simbol al tradiției pescuitului de ton.",
+            "en": "Symbol of fishing tradition (tuna fishing)."
+          }
+        },
+        {
+          "name": "Strand Karlovce",
+          "coords": [
+            14.725,
+            45.145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schöner Kieselstrand zum Abschluss.",
+            "hu": "Szép kavicsos strand befejezésként.",
+            "ro": "Plajă frumoasă cu pietriș pentru final.",
+            "en": "Beautiful pebble beach to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der imposanten Katharinenkirche und schlendern Sie zum historischen Waschplatz Polača. Die belebte Uferpromenade lädt zu einem Mittagessen mit Meerblick ein. Bestaunen Sie die Tunera, einen markanten Spähturm für den Fischfang, bevor Sie den Nachmittag am entspannten Strand Karlovce ausklingen lassen.",
+        "hu": "Kezdje a sétát az impozáns Szent Katalin-templomnál, majd sétáljon el a történelmi Polača mosóhelyhez. A forgalmas vízparti sétány tengerre néző ebédet kínál. Csodálja meg a Tunerát, a halászathoz használt jellegzetes őrtornyot, mielőtt a délutánt a pihentető Karlovce strandon töltené.",
+        "ro": "Începeți plimbarea la impunătoarea biserică Sf. Ecaterina și mergeți la locul istoric de spălat Polača. Faleza plină de viață vă invită la un prânz cu vedere la mare. Admirați Tunera, un turn de veghe distinctiv pentru pescuit, înainte de a încheia după-amiaza pe plaja relaxantă Karlovce.",
+        "en": "Start your walk at the imposing St. Catherine's church and stroll to the historic Polača laundry site. The busy waterfront promenade invites you to a lunch with a sea view. Admire the Tunera, a distinctive lookout tower for fishing, before ending the afternoon at the relaxing Karlovce beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Kantunić",
+            "tip": "Bekannt für hausgemachte Pasta und Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kantunić Étterem",
+            "tip": "Házias tésztáiról és tengeri ételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Kantunić",
+            "tip": "Cunoscut pentru paste de casă și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Kantunić",
+            "tip": "Known for homemade pasta and seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapelle des Hl. Joseph",
+            "tip": "Kleiner Rückzugsort abseits des Trubels.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent József-kápolna",
+            "tip": "Kis menedék a nyüzsgéstől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sf. Iosif",
+            "tip": "Mic refugiu departe de agitație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Joseph's chapel",
+            "tip": "Small retreat away from the hustle and bustle.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Zentrum",
+            "tip": "Kroatische Olivenölprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a központban",
+            "tip": "Horvát olívaolaj termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri central",
+            "tip": "Produse croate din ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir shop in the center",
+            "tip": "Croatian olive oil products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Promenade verbindet Selce mit Crikvenica.",
+          "Besuchen Sie Polača früh für Fotos ohne Menschen.",
+          "Abends gibt es oft Live-Musik am Hafen.",
+          "Badeschuhe sind für die Kieselstrände ratsam."
+        ],
+        "hu": [
+          "A sétány összeköti Selcét Crikvenicával.",
+          "Látogassa meg korán a Polačát az üres fotókért.",
+          "Este gyakran van élő zene a kikötőben.",
+          "A kavicsos strandokhoz fürdőcipő ajánlott."
+        ],
+        "ro": [
+          "Faleza leagă Selce de Crikvenica.",
+          "Vizitați Polača devreme pentru poze fără oameni.",
+          "Seara există adesea muzică live în port.",
+          "Încălțămintea de apă este recomandată pentru plajele cu pietriș."
+        ],
+        "en": [
+          "The promenade connects Selce with Crikvenica.",
+          "Visit Polača early for photos without crowds.",
+          "In the evening there is often live music at the harbor.",
+          "Water shoes are advisable for the pebble beaches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Uferpromenade",
+          "coords": [
+            14.72,
+            45.15
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspanntes Radeln entlang der Küste.",
+            "hu": "Pihentető tekerés a part mentén.",
+            "ro": "Pedalat relaxat de-a lungul coastei.",
+            "en": "Relaxed cycling along the coast."
+          }
+        },
+        {
+          "name": "Uvala Slana",
+          "coords": [
+            14.735,
+            45.14
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ruhige Bucht mit Campingplatz.",
+            "hu": "Csendes öböl kempinggel.",
+            "ro": "Golf liniștit cu loc de camping.",
+            "en": "Quiet bay with a campsite."
+          }
+        },
+        {
+          "name": "Tunera",
+          "coords": [
+            14.722,
+            45.148
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Historisches Fischereiobjekt.",
+            "hu": "Történelmi halászati objektum.",
+            "ro": "Obiect istoric de pescuit.",
+            "en": "Historical fishing object."
+          }
+        },
+        {
+          "name": "Kirche der Hl. Katharina",
+          "coords": [
+            14.719,
+            45.151
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Hauptkirche des Ortes.",
+            "hu": "A település főtemploma.",
+            "ro": "Biserica principală a localității.",
+            "en": "The main church of the village."
+          }
+        },
+        {
+          "name": "Strand Karlovce",
+          "coords": [
+            14.725,
+            45.145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Letzter Badestopp.",
+            "hu": "Utolsó fürdőzési lehetőség.",
+            "ro": "Ultima oprire pentru înot.",
+            "en": "Last swim stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Selce und die Umgebung auf zwei Rädern. Die flache Promenade eignet sich hervorragend für den Start. Radeln Sie weiter zur malerischen Bucht Uvala Slana für Natur pur. Nach einem Besuch der historischen Tunera und der Katharinenkirche im Zentrum führt die Tour zum Strand Karlovce, wo Sie sich vor der Rückkehr erfrischen können.",
+        "hu": "Fedezze fel Selcét és környékét két keréken. A lapos sétány kiválóan alkalmas az induláshoz. Tekerjen tovább a festői Uvala Slana öbölhöz a tiszta természetért. A történelmi Tunera és a központi Szent Katalin-templom megtekintése után a túra a Karlovce strandra vezet, ahol felfrissülhet a visszatérés előtt.",
+        "ro": "Explorați Selce și împrejurimile pe două roți. Faleza plană este excelentă pentru început. Pedalați mai departe spre golful pitoresc Uvala Slana pentru natură pură. După o vizită la Tunera istorică și la biserica Sf. Ecaterina din centru, turul duce la plaja Karlovce, unde vă puteți răcori înainte de întoarcere.",
+        "en": "Explore Selce and the surroundings on two wheels. The flat promenade is excellent for starting. Cycle further to the picturesque Uvala Slana bay for pure nature. After visiting the historic Tunera and St. Catherine's church in the center, the tour leads to Karlovce beach where you can refresh before returning."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Frische Calamari vom Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Friss grillezett tintahal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Calamari proaspeți la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Fresh grilled calamari."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uvala Slana Wald",
+            "tip": "Schattige Wege am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uvala Slana erdő",
+            "tip": "Árnyas utak a vízparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Uvala Slana",
+            "tip": "Poteci umbrite lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Uvala Slana forest",
+            "tip": "Shady paths by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Postkarten und lokale Zeitungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői újságos",
+            "tip": "Képeslapok és helyi újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în port",
+            "tip": "Vederi și ziare locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor kiosk",
+            "tip": "Postcards and local newspapers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Weg nach Crikvenica ist fast komplett verkehrsfrei.",
+          "Achten Sie auf Fußgänger auf der Promenade.",
+          "Abseits der Küste wird es hügelig.",
+          "Sichern Sie Ihr Fahrrad immer ab."
+        ],
+        "hu": [
+          "A Crikvenica felé vezető út szinte teljesen autómentes.",
+          "Figyeljen a gyalogosokra a sétányon.",
+          "A parttól távolodva dombosabb lesz a terep.",
+          "Mindig zárja le a kerékpárját."
+        ],
+        "ro": [
+          "Drumul spre Crikvenica este aproape complet fără trafic.",
+          "Atenție la pietoni pe faleză.",
+          "Departe de coastă devine deluros.",
+          "Asigurați-vă întotdeauna bicicleta."
+        ],
+        "en": [
+          "The road to Crikvenica is almost completely traffic-free.",
+          "Watch out for pedestrians on the promenade.",
+          "Away from the coast it gets hilly.",
+          "Always secure your bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kulturzentrum Selce",
+          "coords": [
+            14.719,
+            45.152
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Informationen über lokale Bräuche.",
+            "hu": "Információk a helyi szokásokról.",
+            "ro": "Informații despre obiceiurile locale.",
+            "en": "Information about local customs."
+          }
+        },
+        {
+          "name": "Uvala Slana",
+          "coords": [
+            14.735,
+            45.14
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ausreichend Parkmöglichkeiten in der Nähe.",
+            "hu": "Elegendő parkolóhely a közelben.",
+            "ro": "Suficiente locuri de parcare în apropiere.",
+            "en": "Sufficient parking spaces nearby."
+          }
+        },
+        {
+          "name": "Tunera",
+          "coords": [
+            14.722,
+            45.148
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fotogener Stopp am Hafen.",
+            "hu": "Fotogén megálló a kikötőben.",
+            "ro": "Oprire fotogenică în port.",
+            "en": "Photogenic stop at the harbor."
+          }
+        },
+        {
+          "name": "Kapelle des Hl. Joseph",
+          "coords": [
+            14.717,
+            45.153
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz gegenüber.",
+            "hu": "Kis parkoló szemben.",
+            "ro": "Mică parcare vizavi.",
+            "en": "Small parking lot opposite."
+          }
+        },
+        {
+          "name": "Strand Karlovce",
+          "coords": [
+            14.725,
+            45.145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abends entspannt schwimmen.",
+            "hu": "Esti pihentető úszás.",
+            "ro": "Înot relaxant de seară.",
+            "en": "Relaxing evening swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um die Randgebiete von Selce zu erkunden. Starten Sie beim Kulturzentrum, um mehr über den Ort zu erfahren. Die Bucht Uvala Slana bietet den perfekten Platz für einen längeren Vormittagsaufenthalt. Danach geht es zurück zum Hafen zur Tunera und zur idyllischen Josephskapelle. Den Tag beenden Sie gemütlich am Karlovce-Strand.",
+        "hu": "Használja az autót Selce peremvidékének felfedezéséhez. Kezdjen a Kulturális Központnál, hogy többet tudjon meg a településről. Az Uvala Slana öböl tökéletes hely egy hosszabb délelőtti tartózkodáshoz. Ezután irány vissza a kikötőbe a Tunerához és az idilli Szent József-kápolnához. A napot kényelmesen zárja a Karlovce strandon.",
+        "ro": "Folosiți mașina pentru a explora zonele periferice ale orașului Selce. Începeți la Centrul Cultural pentru a afla mai multe despre localitate. Golful Uvala Slana oferă locul perfect pentru o ședere mai lungă de dimineață. După aceea, mergeți înapoi în port la Tunera și la idilica capelă Sf. Iosif. Încheiați ziua confortabil pe plaja Karlovce.",
+        "en": "Use the car to explore the outskirts of Selce. Start at the Cultural Center to learn more about the place. Uvala Slana bay offers the perfect spot for a longer morning stay. Then head back to the harbor to the Tunera and the idyllic St. Joseph's chapel. End the day comfortably at Karlovce beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Millenium",
+            "tip": "Große Auswahl an lokalen Weinen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Millenium Étterem",
+            "tip": "Helyi borok nagy választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Millenium",
+            "tip": "Selecție mare de vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Millenium",
+            "tip": "Large selection of local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Vinodol",
+            "tip": "Kurze Fahrt ins Hinterland für Panorama.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinodol kilátó",
+            "tip": "Rövid út a hátországba a panorámáért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Vinodol",
+            "tip": "Scurtă călătorie în interior pentru panoramă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinodol viewpoint",
+            "tip": "Short drive inland for panorama.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalwaren-Markt",
+            "tip": "Honig und Schnaps aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek piaca",
+            "tip": "Régiós méz és pálinka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de produse locale",
+            "tip": "Miere și rachiu din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products market",
+            "tip": "Regional honey and schnapps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze im Zentrum sind kostenpflichtig.",
+          "Die Küstenstraße kann im Sommer stauanfällig sein.",
+          "Fahren Sie vorsichtig in den engen Gassen.",
+          "Nutzen Sie die Park-App für bequemes Bezahlen."
+        ],
+        "hu": [
+          "A központi parkolók fizetősek.",
+          "A tengerparti út nyáron torlódhat.",
+          "Vezessen óvatosan a szűk utcákban.",
+          "Használja a parkoló appot a kényelmes fizetéshez."
+        ],
+        "ro": [
+          "Parcările din centru sunt cu plată.",
+          "Drumul de coastă poate fi aglomerat vara.",
+          "Conduceți cu atenție pe străzile înguste.",
+          "Folosiți aplicația de parcare pentru plată comodă."
+        ],
+        "en": [
+          "Parking lots in the center are paid.",
+          "The coastal road can be prone to traffic in summer.",
+          "Drive carefully in the narrow alleys.",
+          "Use the parking app for convenient payment."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Kirche der Hl. Katharina",
+          "coords": [
+            14.719,
+            45.151
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt an der Hauptstraße.",
+            "hu": "Buszmegálló közvetlenül a főúton.",
+            "ro": "Stație de autobuz direct pe drumul principal.",
+            "en": "Bus stop right on the main road."
+          }
+        },
+        {
+          "name": "Uferpromenade",
+          "coords": [
+            14.72,
+            45.15
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentrum des Geschehens.",
+            "hu": "Az események központja.",
+            "ro": "Centrul acțiunii.",
+            "en": "Center of the action."
+          }
+        },
+        {
+          "name": "Polača",
+          "coords": [
+            14.718,
+            45.152
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wahrzeichen von Selce.",
+            "hu": "Selce jelképe.",
+            "ro": "Emblema orașului Selce.",
+            "en": "Landmark of Selce."
+          }
+        },
+        {
+          "name": "Strand Karlovce",
+          "coords": [
+            14.725,
+            45.145
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus gut zu Fuß erreichbar.",
+            "hu": "A központból gyalogosan jól elérhető.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Selce ist gut an das regionale Busnetz angebunden. Starten Sie im Zentrum bei der Katharinenkirche. Schlendern Sie entlang der Promenade und genießen Sie das Flair der Adria. Besuchen Sie das historische Polača, bevor Sie den Nachmittag am Strand Karlovce verbringen. Die Busse nach Crikvenica oder Rijeka fahren regelmäßig.",
+        "hu": "Selce jól kapcsolódik a regionális buszhálózathoz. Kezdjen a központban a Szent Katalin-templomnál. Sétáljon végig a sétányon, és élvezze az Adria hangulatát. Látogassa meg a történelmi Polačát, mielőtt a délutánt a Karlovce strandon töltené. A Crikvenicába vagy Rijekába tartó buszok rendszeresen járnak.",
+        "ro": "Selce este bine conectat la rețeaua regională de autobuze. Începeți în centru la biserica Sf. Ecaterina. Plimbați-vă de-a lungul falezei și bucurați-vă de atmosfera Adriaticii. Vizitați istorica Polača înainte de a petrece după-amiaza pe plaja Karlovce. Autobuzele către Crikvenica sau Rijeka circulă regulat.",
+        "en": "Selce is well connected to the regional bus network. Start in the center at St. Catherine's church. Stroll along the promenade and enjoy the flair of the Adriatic. Visit the historic Polača before spending the afternoon at Karlovce beach. Buses to Crikvenica or Rijeka run regularly."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Ulika",
+            "tip": "Hervorragende Pizza und Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulika Étterem",
+            "tip": "Kiváló pizza és grill."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Ulika",
+            "tip": "Pizza și grătar excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Ulika",
+            "tip": "Excellent pizza and grill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandpromenade Richtung Norden",
+            "tip": "Ruhigere Abschnitte für Spaziergänge.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti sétány északra",
+            "tip": "Csendesebb szakaszok a sétához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleză spre nord",
+            "tip": "Secțiuni mai liniștite pentru plimbări.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront promenade north",
+            "tip": "Quieter sections for walks.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konis",
+            "tip": "Drogerie und lokale Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konis",
+            "tip": "Drogéria és helyi termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konis",
+            "tip": "Drogherie și produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konis",
+            "tip": "Drugstore and local products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie ein Tagesticket für den Bus.",
+          "Nutzen Sie den City-Bus nach Crikvenica.",
+          "Haltestellen sind oft mit 'Autobusna stanica' markiert.",
+          "Entwerten Sie das Ticket beim Einsteigen."
+        ],
+        "hu": [
+          "Vásároljon napijegyet a buszra.",
+          "Használja a városi buszt Crikvenicába.",
+          "A megállókat gyakran 'Autobusna stanica' felirat jelzi.",
+          "Érvényesítse a jegyét felszálláskor."
+        ],
+        "ro": [
+          "Cumpărați un bilet de o zi pentru autobuz.",
+          "Folosiți autobuzul urban către Crikvenica.",
+          "Stațiile sunt adesea marcate cu 'Autobusna stanica'.",
+          "Validați biletul la urcare."
+        ],
+        "en": [
+          "Buy a day ticket for the bus.",
+          "Use the city bus to Crikvenica.",
+          "Stops are often marked with 'Autobusna stanica'.",
+          "Validate the ticket when boarding."
+        ]
+      }
+    }
+  }
+}

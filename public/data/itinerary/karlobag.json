@@ -1,0 +1,1027 @@
+{
+  "city_id": "karlobag",
+  "anchor": {
+    "name": "Karlobag",
+    "coords": [
+      15.0808,
+      44.5267
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapuzinerkloster St. Joseph",
+            "hu": "Szent József Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor Sf. Iosif",
+            "en": "Capuchin Monastery of St. Joseph"
+          },
+          "coords": [
+            15.0805,
+            44.526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Besuchen Sie die wertvolle Bibliothek des Klosters.",
+            "hu": "Látogassa meg a kolostor értékes könyvtárát.",
+            "ro": "Vizitați biblioteca valoroasă a mănăstirii.",
+            "en": "Visit the monastery's valuable library."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Karl Borromäus",
+            "hu": "Borromeo Szent Károly-templom",
+            "ro": "Biserica Sf. Carol Borromeo",
+            "en": "Church of St. Charles Borromeo"
+          },
+          "coords": [
+            15.0812,
+            44.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Bewundern Sie die barocke Architektur im Zentrum.",
+            "hu": "Csodálja meg a barokk építészetet a központban.",
+            "ro": "Admirați arhitectura barocă din centru.",
+            "en": "Admire the Baroque architecture in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Gradina",
+            "hu": "Gradina erőd",
+            "ro": "Cetatea Gradina",
+            "en": "Gradina Fortress"
+          },
+          "coords": [
+            15.082,
+            44.5275
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Der Aufstieg lohnt sich für den Blick auf Pag.",
+            "hu": "A kilátás Pag szigetére megéri a mászást.",
+            "ro": "Urcarea merită pentru vederea spre insula Pag.",
+            "en": "The climb is worth it for the view of Pag."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediterraner Garten Kava",
+            "hu": "Kava mediterrán kert",
+            "ro": "Grădina mediteraneană Kava",
+            "en": "Kava Mediterranean Garden"
+          },
+          "coords": [
+            15.079,
+            44.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Ein ruhiger Ort mit duftenden Kräutern.",
+            "hu": "Csendes hely illatos gyógynövényekkel.",
+            "ro": "Un loc liniștit cu ierburi aromate.",
+            "en": "A quiet spot with fragrant herbs."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtstrand Karlobag",
+            "hu": "Karlobag városi strand",
+            "ro": "Plaja orașului Karlobag",
+            "en": "Karlobag City Beach"
+          },
+          "coords": [
+            15.078,
+            44.526
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Perfekt für eine Erfrischung im klaren Meer.",
+            "hu": "Tökéletes felfrissülés a tiszta tengerben.",
+            "ro": "Perfect pentru o revigorare în marea limpede.",
+            "en": "Perfect for a refresh in the clear sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Faleza",
+            "en": "Waterfront Promenade"
+          },
+          "coords": [
+            15.08,
+            44.5262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Genießen Sie den Sonnenuntergang am Hafen.",
+            "hu": "Élvezze a naplementét a kikötőben.",
+            "ro": "Bucurați-vă de apusul de soare în port.",
+            "en": "Enjoy the sunset at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Kapuzinerkloster, wo die Stille der Bibliothek Sie in vergangene Jahrhunderte versetzt. Danach spazieren Sie zur barocken Kirche St. Karl Borromäus im Herzen des Ortes.\n\nMittags erklimmen Sie die Ruinen der Festung Gradina. Von hier oben bietet sich ein beeindruckendes Panorama über den Velebit-Kanal bis hin zur gegenüberliegenden Insel Pag. Nach dem Abstieg stärken Sie sich in einem der lokalen Gasthäuser am Hafen.\n\nDer Nachmittag gehört der Entspannung im mediterranen Garten Kava, gefolgt von einem ausgiebigen Bad am Stadtstrand. Das kristallklare Wasser dieser Region ist bekannt für seine Reinheit durch die unterirdischen Süßwasserquellen.\n\nLassen Sie den Tag bei einem gemütlichen Spaziergang entlang der Uferpromenade ausklingen. Beobachten Sie die Fischerboote und genießen Sie die kühle Brise, die vom Velebit-Gebirge herabweht.",
+        "hu": "Kezdje a reggelt a történelmi kapucinus kolostorban, ahol a könyvtár csendje visszarepíti az elmúlt évszázadokba. Ezután sétáljon el a település szívében található barokk Borromeo Szent Károly-templomhoz.\n\nDélben másszon fel a Gradina erőd romjaihoz. Innen lenyűgöző panoráma nyílik a Velebit-csatornára és a szemközti Pag-szigetre. A leereszkedés után frissüljön fel a kikötő egyik helyi vendéglőjében.\n\nA délután a kikapcsolódásé a Kava mediterrán kertben, majd következhet egy hosszú fürdőzés a városi strandon. A régió kristálytiszta vize híres tisztaságáról a föld alatti édesvízforrásoknak köszönhetően.\n\nA napot zárja egy kellemes sétával a tengerparti sétányon. Figyelje a halászhajókat, és élvezze a Velebit-hegység felől fújó hűvös szellőt.",
+        "ro": "Începeți dimineața la mănăstirea istorică a capucinilor, unde liniștea bibliotecii vă transpune în secolele trecute. Apoi mergeți la biserica barocă Sf. Carol Borromeo din inima localității.\n\nLa prânz, urcați la ruinele cetății Gradina. De aici se deschide o panoramă impresionantă peste canalul Velebit până la insula Pag de vizavi. După coborâre, relaxați-vă la una dintre tavernele locale din port.\n\nDupă-amiaza este dedicată relaxării în grădina mediteraneană Kava, urmată de o baie prelungită pe plaja orașului. Apa cristalina a acestei regiuni este cunoscută pentru puritatea sa datorită izvoarelor subterane de apă dulce.\n\nÎncheiați ziua cu o plimbare plăcută pe faleză. Observați bărcile de pescuit și bucurați-vă de briza răcoroasă care coboară din munții Velebit.",
+        "en": "Start your morning at the historic Capuchin monastery, where the silence of the library takes you back through the centuries. Then walk to the Baroque Church of St. Charles Borromeo in the heart of the village.\n\nAt noon, climb the ruins of the Gradina fortress. From up here, you have an impressive panorama across the Velebit Channel to the island of Pag opposite. After the descent, recharge at one of the local inns at the harbor.\n\nThe afternoon belongs to relaxation in the Kava Mediterranean Garden, followed by an extensive swim at the city beach. The crystal-clear water of this region is famous for its purity due to underground freshwater springs.\n\nEnd the day with a pleasant stroll along the waterfront promenade. Watch the fishing boats and enjoy the cool breeze blowing down from the Velebit mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Karlo",
+            "tip": "Probieren Sie den Velebit-Käse und Lammfleisch."
+          },
+          {
+            "name": "Bura",
+            "tip": "Frischer Fisch aus dem Velebit-Kanal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Karlo",
+            "tip": "Kóstolja meg a velebiti sajtot és a bárányhúst."
+          },
+          {
+            "name": "Bura",
+            "tip": "Friss hal a Velebit-csatornából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Karlo",
+            "tip": "Gustați brânza Velebit și carnea de miel."
+          },
+          {
+            "name": "Bura",
+            "tip": "Pește proaspăt din canalul Velebit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Karlo",
+            "tip": "Try the Velebit cheese and lamb meat."
+          },
+          {
+            "name": "Bura",
+            "tip": "Fresh fish from the Velebit Channel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Festung Gradina",
+            "tip": "Stiller Ort mit Panoramablick.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Garten Kava",
+            "tip": "Oase der Ruhe zwischen Felsen.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradina erőd",
+            "tip": "Csendes hely panorámával.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kava kert",
+            "tip": "A béke oázisa a sziklák között.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Gradina",
+            "tip": "Loc liniștit cu vedere panoramică.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Grădina Kava",
+            "tip": "Oază de liniște între stânci.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradina Fortress",
+            "tip": "Quiet spot with panoramic view.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kava Garden",
+            "tip": "Oasis of peace among the rocks.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Honig vom Velebit und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Velebiti méz és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Miere de Velebit și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Velebit honey and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie festes Schuhwerk für den Weg zur Gradina.",
+          "Karlobag ist weniger überlaufen als andere Küstenorte.",
+          "Die Wassertemperatur ist hier oft etwas kühler.",
+          "Parken Sie am Haupthafen."
+        ],
+        "hu": [
+          "Viseljen zárt cipőt a Gradina felé vezető úton.",
+          "Karlobag kevésbé zsúfolt, mint más parti helyek.",
+          "A víz hőmérséklete itt gyakran kissé hűvösebb.",
+          "Parkoljon a fő kikötőnél."
+        ],
+        "ro": [
+          "Purtați încălțăminte adecvată pentru drumul spre Gradina.",
+          "Karlobag este mai puțin aglomerat decât alte localități de coastă.",
+          "Temperatura apei este adesea puțin mai scăzută aici.",
+          "Parcați în portul principal."
+        ],
+        "en": [
+          "Wear sturdy shoes for the path to Gradina.",
+          "Karlobag is less crowded than other coastal towns.",
+          "The water temperature here is often slightly cooler.",
+          "Park at the main harbor."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapuzinerkloster St. Joseph",
+            "hu": "Szent József Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor Sf. Iosif",
+            "en": "Capuchin Monastery of St. Joseph"
+          },
+          "coords": [
+            15.0805,
+            44.526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Beginnen Sie die Tour im ruhigen Klostergarten.",
+            "hu": "Kezdje a túrát a csendes kolostorkertben.",
+            "ro": "Începeți turul în grădina liniștită a mănăstirii.",
+            "en": "Start the tour in the quiet monastery garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Straße Terezijana",
+            "hu": "Terezijana történelmi út",
+            "ro": "Drumul istoric Terezijana",
+            "en": "Historical Road Terezijana"
+          },
+          "coords": [
+            15.09,
+            44.525
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Ein alter Handelsweg mit tollen Ausblicken.",
+            "hu": "Régi kereskedelmi út nagyszerű kilátással.",
+            "ro": "Un vechi drum comercial cu vederi superbe.",
+            "en": "An old trade route with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Heimsuchung",
+            "hu": "Sarlós Boldogasszony-templom",
+            "ro": "Biserica Vizitarea Mariei",
+            "en": "Church of the Visitation of Mary"
+          },
+          "coords": [
+            15.08,
+            44.53
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Kleine Kirche am Ortsrand.",
+            "hu": "Kis templom a falu szélén.",
+            "ro": "Biserică mică la marginea satului.",
+            "en": "Small church on the outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Küste Richtung Ribarica",
+            "hu": "Partvonal Ribarica felé",
+            "ro": "Coasta spre Ribarica",
+            "en": "Coastline towards Ribarica"
+          },
+          "coords": [
+            15.05,
+            44.55
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_4lang": {
+            "de": "Suchen Sie sich eine einsame Bucht zum Baden.",
+            "hu": "Keressen egy eldugott öblöt a fürdőzéshez.",
+            "ro": "Căutați un golf retras pentru înot.",
+            "en": "Find a secluded cove for swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Karlobag",
+            "hu": "Karlobagi sétány",
+            "ro": "Faleza Karlobag",
+            "en": "Karlobag Promenade"
+          },
+          "coords": [
+            15.08,
+            44.5262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Entspannter Abschluss am Hafen.",
+            "hu": "Pihentető befejezés a kikötőben.",
+            "ro": "Final relaxant în port.",
+            "en": "Relaxing end at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Karlobag und seine Umgebung aktiv mit dem Fahrrad. Der Tag beginnt kulturell im Kloster, bevor Sie auf die historische Terezijana-Straße fahren, die sich sanft in die Velebit-Hänge schmiegt.\n\nMittags radeln Sie entlang der Küstenstraße nach Norden. Die Strecke bietet spektakuläre Ausblicke auf das tiefblaue Meer und die kahlen Felsen von Pag. Suchen Sie sich eine der vielen kleinen Buchten für eine private Pause.\n\nNachmittags geht es zurück Richtung Zentrum. Ein Stopp bei der Kirche Mariä Heimsuchung bietet einen Moment der Besinnung, bevor Sie die letzten Kilometer am Meer zurücklegen.\n\nZum Abendessen erreichen Sie wieder den Hafen von Karlobag, wo Sie Ihr Fahrrad sicher abstellen und die lokale Küche genießen können.",
+        "hu": "Fedezze fel Karlobagot és környékét aktívan kerékpárral. A nap kulturálisan kezdődik a kolostorban, mielőtt a történelmi Terezijana útra hajtana, amely lágyan simul a Velebit lejtőihez.\n\nDélben tekerjen észak felé a parti úton. Az útvonal látványos kilátást nyújt a mélykék tengerre és Pag kopár szikláira. Keressen egyet a sok kis öböl közül egy privát pihenőhöz.\n\nDélután induljon vissza a központ felé. Egy megálló a Sarlós Boldogasszony-templomnál pillanatnyi elcsendesedést kínál, mielőtt megtenné az utolsó kilométereket a tenger mentén.\n\nEstére érjen vissza Karlobag kikötőjébe, ahol biztonságosan leállíthatja kerékpárját és élvezheti a helyi konyhát.",
+        "ro": "Explorați Karlobag și împrejurimile sale activ cu bicicleta. Ziua începe cultural la mănăstire, înainte de a porni pe drumul istoric Terezijana, care șerpuiește ușor pe pantele Velebitului.\n\nLa prânz, pedalați spre nord pe drumul de coastă. Traseul oferă vederi spectaculoase asupra mării albastru închis și a stâncilor golașe ale insulei Pag. Găsiți unul dintre numeroasele golfulețe pentru o pauză privată.\n\nDupă-amiaza, întoarceți-vă spre centru. O oprire la biserica Vizitarea Mariei oferă un moment de reflecție înainte de a parcurge ultimii kilometri pe malul mării.\n\nSeara, ajungeți înapoi în portul Karlobag, unde vă puteți lăsa bicicleta în siguranță și puteți savura bucătăria locală.",
+        "en": "Explore Karlobag and its surroundings actively by bike. The day starts culturally at the monastery before you ride onto the historic Terezijana road, which nestles gently into the Velebit slopes.\n\nAt noon, cycle north along the coastal road. The route offers spectacular views of the deep blue sea and the barren rocks of Pag. Find one of the many small coves for a private break.\n\nIn the afternoon, head back towards the center. A stop at the Church of the Visitation of Mary offers a moment of reflection before you cover the last kilometers by the sea.\n\nBy evening, reach the harbor of Karlobag again, where you can safely park your bike and enjoy the local cuisine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Adriatic",
+            "tip": "Schnelle Gerichte für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Adriatic",
+            "tip": "Gyors ételek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Adriatic",
+            "tip": "Mâncăruri rapide pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Adriatic",
+            "tip": "Quick meals for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ribarica Buchten",
+            "tip": "Einsame Plätze am Wasser.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribarica öblök",
+            "tip": "Magányos helyek a víznél.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golfurile Ribarica",
+            "tip": "Locuri izolate lângă apă.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribarica Coves",
+            "tip": "Secluded spots by the water.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen Hafen",
+            "tip": "Ansichtskarten und lokale Kräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői ajándékbolt",
+            "tip": "Képeslapok és helyi gyógynövények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin suveniruri port",
+            "tip": "Vederi și ierburi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Souvenir Shop",
+            "tip": "Postcards and local herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann windig sein (Bura-Gefahr).",
+          "Achten Sie auf den Autoverkehr auf der Magistrale.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Ein Helm ist dringend empfohlen."
+        ],
+        "hu": [
+          "A parti út szeles lehet (Bóra veszély).",
+          "Figyeljen az autóforgalomra a főúton.",
+          "Vigyen magával elegendő vizet.",
+          "A sisak viselése erősen ajánlott."
+        ],
+        "ro": [
+          "Drumul de coastă poate fi vântos (pericol de Bura).",
+          "Atenție la traficul auto pe magistrală.",
+          "Luați suficientă apă cu voi.",
+          "Cască este recomandată cu insistență."
+        ],
+        "en": [
+          "The coastal road can be windy (Bura danger).",
+          "Watch out for car traffic on the main road.",
+          "Take enough water with you.",
+          "A helmet is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 25,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapuzinerkloster St. Joseph",
+            "hu": "Szent József Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor Sf. Iosif",
+            "en": "Capuchin Monastery of St. Joseph"
+          },
+          "coords": [
+            15.0805,
+            44.526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Kostenloses Parken am Kloster oft möglich.",
+            "hu": "Ingyenes parkolás a kolostornál gyakran lehetséges.",
+            "ro": "Parcare gratuită la mănăstire adesea posibilă.",
+            "en": "Free parking at the monastery often possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Baške Oštarije",
+            "hu": "Baške Oštarije kilátó",
+            "ro": "Punct de belvedere Baške Oštarije",
+            "en": "Baške Oštarije Viewpoint"
+          },
+          "coords": [
+            15.12,
+            44.53
+          ],
+          "category": "natural features",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_4lang": {
+            "de": "Fotostopp beim berühmten 'Stein-Auge'.",
+            "hu": "Fotómegálló a híres 'kőszemnél'.",
+            "ro": "Oprire foto la celebrul 'ochi de piatră'.",
+            "en": "Photo stop at the famous 'Stone Eye'."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Straße Terezijana",
+            "hu": "Terezijana történelmi út",
+            "ro": "Drumul istoric Terezijana",
+            "en": "Historical Road Terezijana"
+          },
+          "coords": [
+            15.13,
+            44.535
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Erfahren Sie mehr über den Bau dieser Straße im 18. Jh.",
+            "hu": "Tudjon meg többet az út 18. századi építéséről.",
+            "ro": "Aflați mai multe despre construcția acestui drum în sec. XVIII.",
+            "en": "Learn more about the construction of this road in the 18th century."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Karl Borromäus",
+            "hu": "Borromeo Szent Károly-templom",
+            "ro": "Biserica Sf. Carol Borromeo",
+            "en": "Church of St. Charles Borromeo"
+          },
+          "coords": [
+            15.0812,
+            44.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_4lang": {
+            "de": "Zentraler Treffpunkt des Ortes.",
+            "hu": "A település központi találkozóhelye.",
+            "ro": "Loc de întâlnire central al localității.",
+            "en": "Central meeting point of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediterraner Garten Kava",
+            "hu": "Kava mediterrán kert",
+            "ro": "Grădina mediteraneană Kava",
+            "en": "Kava Mediterranean Garden"
+          },
+          "coords": [
+            15.079,
+            44.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Genießen Sie die botanische Vielfalt.",
+            "hu": "Élvezze a botanikai sokféleséget.",
+            "ro": "Bucurați-vă de diversitatea botanică.",
+            "en": "Enjoy the botanical diversity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie heute das Gebirge und das Meer. Nach dem Klosterbesuch fahren Sie steil bergauf in das Velebit-Gebirge nach Baške Oštarije. Der Temperaturunterschied wird Sie überraschen.\n\nMittags erkunden Sie die Terezijana-Straße auf den Höhenzügen. Der Blick von oben auf das Adriatische Meer ist unvergleichlich. Kehren Sie in eine Berghütte ein, um die deftige Lika-Küche zu probieren.\n\nNachmittags fahren Sie zurück ans Meer nach Karlobag. Besichtigen Sie die Kirche St. Karl Borromäus und schlendern Sie durch die Gassen des historischen Kerns.\n\nZum Abschluss des Tages bietet der Mediterrane Garten Kava Ruhe und Schatten. Ein perfekter Ort, um die Erlebnisse zwischen Gipfeln und Wellen Revue passieren zu lassen.",
+        "hu": "Autóval ma összekötheti a hegységet és a tengert. A kolostorlátogatás után hajtson meredeken felfelé a Velebit-hegységbe, Baške Oštarijébe. A hőmérséklet-különbség meg fogja lepni.\n\nDélben fedezze fel a Terezijana utat a hegygerinceken. A fentről nyíló kilátás az Adriai-tengerre páratlan. Térjen be egy hegyi menedékházba, hogy megkóstolja a kiadós likai konyhát.\n\nDélután hajtson vissza a tengerhez, Karlobagba. Nézze meg a Borromeo Szent Károly-templomot és barangoljon a történelmi központ utcáin.\n\nA nap zárásaként a Kava mediterrán kert nyújt nyugalmat és árnyékot. Tökéletes hely, hogy átgondolja a csúcsok és hullámok közötti élményeket.",
+        "ro": "Cu mașina, veți îmbina astăzi muntele cu marea. După vizita la mănăstire, urcați abrupt în munții Velebit spre Baške Oštarije. Diferența de temperatură vă va surprinde.\n\nLa prânz, explorați drumul Terezijana pe creste. Vederea de sus asupra Mării Adriatice este inegalabilă. Opriți-vă la o cabană montană pentru a încerca bucătăria consistentă din Lika.\n\nDupă-amiaza, întoarceți-vă la mare în Karlobag. Vizitați biserica Sf. Carol Borromeo și plimbați-vă pe străduțele nucleului istoric.\n\nLa finalul zilei, grădina mediteraneană Kava oferă liniște și umbră. Un loc perfect pentru a rememora experiențele între culmi și valuri.",
+        "en": "By car, you combine the mountains and the sea today. After the monastery visit, drive steeply uphill into the Velebit mountains to Baške Oštarije. The temperature difference will surprise you.\n\nAt noon, explore the Terezijana road on the ridges. The view from above of the Adriatic Sea is incomparable. Stop at a mountain hut to try the hearty Lika cuisine.\n\nIn the afternoon, drive back to the sea to Karlobag. Visit the Church of St. Charles Borromeo and stroll through the alleys of the historic core.\n\nTo end the day, the Kava Mediterranean Garden offers peace and shade. A perfect place to review the experiences between peaks and waves."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hostel Baške Oštarije",
+            "tip": "Probieren Sie den hausgemachten Käse und Speck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hostel Baške Oštarije",
+            "tip": "Kóstolja meg a házi sajtot és szalonnát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Hostel Baške Oštarije",
+            "tip": "Încercați brânza și slănina de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hostel Baške Oštarije",
+            "tip": "Try the homemade cheese and bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Kubus",
+            "tip": "Spektakuläre Stille über dem Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kubus kilátó",
+            "tip": "Látványos csend a tenger felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Kubus",
+            "tip": "Liniște spectaculoasă deasupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kubus Viewpoint",
+            "tip": "Spectacular silence above the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Berghof Produkte",
+            "tip": "Honig und Schnaps direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi tanyasi termékek",
+            "tip": "Méz és pálinka közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de fermă montană",
+            "tip": "Miere și rachiul direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain Farm Products",
+            "tip": "Honey and schnapps directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Bremszustand vor der Abfahrt nach Karlobag.",
+          "Die Straße hat viele Kehren.",
+          "Tanken Sie im Tal, oben gibt es keine Tankstelle.",
+          "Im Gebirge ist es oft 10 Grad kühler."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Karlobag felé való ereszkedés előtt.",
+          "Az út sok kanyarral rendelkezik.",
+          "Tankoljon a völgyben, fent nincs benzinkút.",
+          "A hegyekben gyakran 10 fokkal hűvösebb van."
+        ],
+        "ro": [
+          "Verificați starea frânelor înainte de coborârea spre Karlobag.",
+          "Drumul are multe serpentine.",
+          "Alimentați în vale, sus nu există benzinărie.",
+          "La munte este adesea cu 10 grade mai răcoare."
+        ],
+        "en": [
+          "Check brake condition before the descent to Karlobag.",
+          "The road has many hairpins.",
+          "Refuel in the valley, there is no gas station at the top.",
+          "It's often 10 degrees cooler in the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapuzinerkloster St. Joseph",
+            "hu": "Szent József Kapucinus Kolostor",
+            "ro": "Mănăstirea Capucinilor Sf. Iosif",
+            "en": "Capuchin Monastery of St. Joseph"
+          },
+          "coords": [
+            15.0805,
+            44.526
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Nah an der Bushaltestelle.",
+            "hu": "Közel van a buszmegállóhoz.",
+            "ro": "Aproape de stația de autobuz.",
+            "en": "Close to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Karl Borromäus",
+            "hu": "Borromeo Szent Károly-templom",
+            "ro": "Biserica Sf. Carol Borromeo",
+            "en": "Church of St. Charles Borromeo"
+          },
+          "coords": [
+            15.0812,
+            44.5265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Besichtigen Sie das Interieur.",
+            "hu": "Tekintse meg a belső teret.",
+            "ro": "Vizitați interiorul.",
+            "en": "Visit the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtstrand Karlobag",
+            "hu": "Karlobag városi strand",
+            "ro": "Plaja orașului Karlobag",
+            "en": "Karlobag City Beach"
+          },
+          "coords": [
+            15.078,
+            44.526
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Ideal für einen langen Vormittag am Meer.",
+            "hu": "Ideális egy hosszú délelőtthöz a tengernél.",
+            "ro": "Ideal pentru o dimineață lungă la mare.",
+            "en": "Ideal for a long morning by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediterraner Garten Kava",
+            "hu": "Kava mediterrán kert",
+            "ro": "Grădina mediteraneană Kava",
+            "en": "Kava Mediterranean Garden"
+          },
+          "coords": [
+            15.079,
+            44.528
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Gut zu Fuß erreichbar.",
+            "hu": "Gyalogosan jól megközelíthető.",
+            "ro": "Ușor accesibil pe jos.",
+            "en": "Easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Faleza",
+            "en": "Waterfront Promenade"
+          },
+          "coords": [
+            15.08,
+            44.5262
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Warten auf den Bus mit Meerblick.",
+            "hu": "Várakozás a buszra tengeri kilátással.",
+            "ro": "Așteptarea autobuzului cu vedere la mare.",
+            "en": "Waiting for the bus with sea view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die regionalen Busverbindungen entlang der Küste. Nach der Ankunft in Karlobag ist das Kapuzinerkloster nur wenige Schritte entfernt. Ein friedlicher Start in den Tag erwartet Sie.\n\nMittags entspannen Sie am Stadtstrand, der bequem zu Fuß vom Ortszentrum erreichbar ist. Genießen Sie die Sonne und das klare Wasser, bevor Sie in einer nahegelegenen Pizzeria zu Mittag essen.\n\nNachmittags besuchen Sie den Mediterranen Garten Kava. Es ist ein herrlicher Ort, um die botanische Vielfalt der Region ohne große Anstrengung zu entdecken.\n\nVor der Rückfahrt mit dem Bus haben Sie noch Zeit für einen Kaffee an der Uferpromenade. Beobachten Sie das Treiben am kleinen Hafen und verabschieden Sie sich von Karlobag.",
+        "hu": "Használja ki a parti regionális buszjáratokat. Karlobagba érkezés után a kapucinus kolostor csak néhány lépésre van. Békés kezdés vár Önre.\n\nDélben lazítson a városi strandon, amely gyalogosan kényelmesen elérhető a központból. Élvezze a napsütést és a tiszta vizet, mielőtt megebédelne egy közeli pizzériában.\n\nA délután folyamán látogassa meg a Kava mediterrán kertet. Csodálatos hely a régió botanikai sokféleségének felfedezésére nagyobb erőfeszítés nélkül.\n\nA busz visszaindulása előtt marad idő egy kávéra a tengerparti sétányon. Figyelje a kis kikötő nyüzsgését, és búcsúzzon el Karlobagtól.",
+        "ro": "Profită de conexiunile regionale de autobuz de-a lungul coastei. După sosirea în Karlobag, mănăstirea capucinilor este la doar câțiva pași. Vă așteaptă un început de zi liniștit.\n\nLa prânz, relaxați-vă pe plaja orașului, ușor accesibilă pe jos din centrul localității. Bucurați-vă de soare și de apa limpede înainte de a lua prânzul la o pizzerie din apropiere.\n\nDupă-amiaza, vizitați grădina mediteraneană Kava. Este un loc minunat pentru a descoperi diversitatea botanică a regiunii fără prea mult efort.\n\nÎnainte de plecarea cu autobuzul, mai aveți timp pentru o cafea pe faleză. Observați animația din micul port și luați-vă rămas bun de la Karlobag.",
+        "en": "Take advantage of the regional bus connections along the coast. After arriving in Karlobag, the Capuchin monastery is just a few steps away. A peaceful start to the day awaits you.\n\nAt noon, relax at the city beach, which is easily accessible on foot from the town center. Enjoy the sun and the clear water before having lunch at a nearby pizzeria.\n\nIn the afternoon, visit the Kava Mediterranean Garden. It is a wonderful place to discover the region's botanical diversity without much effort.\n\nBefore the return trip by bus, you still have time for a coffee on the waterfront promenade. Watch the hustle and bustle at the small harbor and say goodbye to Karlobag."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Okeanos",
+            "tip": "Gute Pizza direkt am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Okeanos",
+            "tip": "Jó pizza közvetlenül a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Okeanos",
+            "tip": "Pizza bună chiar lângă mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Okeanos",
+            "tip": "Good pizza right by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmauer",
+            "tip": "Beobachten Sie die Wellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőgát",
+            "tip": "Figyelje a hullámokat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Observați valurile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Wall",
+            "tip": "Watch the waves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Karlobag",
+            "tip": "Lokale Zeitschriften und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karlobagi újságos",
+            "tip": "Helyi lapok és rágcsálnivalók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Karlobag",
+            "tip": "Reviste locale și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Karlobag Kiosk",
+            "tip": "Local magazines and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan online.",
+          "Tickets können oft beim Fahrer gekauft werden.",
+          "Die Haltestelle ist an der Hauptstraße.",
+          "In der Nebensaison fahren weniger Busse."
+        ],
+        "hu": [
+          "Ellenőrizze az aktuális buszmenetrendet online.",
+          "A jegyek gyakran megvásárolhatók a sofőrnél.",
+          "A megálló a főúton található.",
+          "Szezonon kívül kevesebb busz jár."
+        ],
+        "ro": [
+          "Verificați orarul actualizat al autobuzelor online.",
+          "Biletele pot fi cumpărate adesea de la șofer.",
+          "Stația este pe drumul principal.",
+          "În extrasezon circulă mai puține autobuze."
+        ],
+        "en": [
+          "Check the current bus schedule online.",
+          "Tickets can often be bought from the driver.",
+          "The stop is on the main road.",
+          "Fewer buses run in the off-season."
+        ]
+      }
+    }
+  }
+}

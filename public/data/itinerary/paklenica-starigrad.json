@@ -1,0 +1,818 @@
+{
+  "city_id": "paklenica-starigrad",
+  "anchor": {
+    "name": "Starigrad-Paklenica",
+    "coords": [
+      15.4658,
+      44.2989
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 9.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Velika Paklenica Schlucht",
+          "coords": [
+            15.474,
+            44.312
+          ],
+          "category": "natural features",
+          "arrive_at": "09:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kletterer an den Felsen beobachten.",
+            "hu": "Figyelje a sziklamászókat.",
+            "ro": "Observați alpiniștii pe stânci.",
+            "en": "Watch the climbers on the rocks."
+          }
+        },
+        {
+          "name": "Anića kuk Fels",
+          "coords": [
+            15.482,
+            44.32
+          ],
+          "category": "natural features",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Größte Felswand im Velebit.",
+            "hu": "A Velebit legnagyobb fala.",
+            "ro": "Cel mai mare perete din Velebit.",
+            "en": "Largest rock face in Velebit."
+          }
+        },
+        {
+          "name": "Manita peć Höhle",
+          "coords": [
+            15.477,
+            44.331
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Jacke für die Höhle mitnehmen.",
+            "hu": "Vigyen pulóvert a barlangba.",
+            "ro": "Luați o jachetă pentru peșteră.",
+            "en": "Take a jacket for the cave."
+          }
+        },
+        {
+          "name": "Mirila Denkmäler",
+          "coords": [
+            15.485,
+            44.305
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einzigartige Totengedenkstätten.",
+            "hu": "Egyedülálló halotti emlékhelyek.",
+            "ro": "Monumente funerare unice.",
+            "en": "Unique funeral monuments."
+          }
+        },
+        {
+          "name": "Starigrad Promenade",
+          "coords": [
+            15.441,
+            44.292
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sonnenuntergang am Meer.",
+            "hu": "Naplemente a tengerparton.",
+            "ro": "Apus de soare pe malul mării.",
+            "en": "Sunset by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wandern Sie am Morgen tief in die beeindruckende Velika Paklenica Schlucht hinein. Unter den gewaltigen Wänden des Anića kuk spüren Sie die Kraft der Natur. Steigen Sie zur Manita peć Höhle auf, um fantastische Stalaktiten zu sehen. Auf dem Rückweg besuchen Sie die mystischen Mirila-Steine, bevor Sie den Abend entspannt an der Promenade von Starigrad ausklingen lassen.",
+        "hu": "Túrázzon reggel a lenyűgöző Velika Paklenica-szurdok mélyére. Az Anića kuk hatalmas sziklafalai alatt érezheti a természet erejét. Másszon fel a Manita peć barlanghoz a különleges cseppkövekért. Visszafelé nézze meg a misztikus Mirila emlékhelyet, majd zárja az estét a starigradi tengerparti sétányon.",
+        "ro": "Drumeți dimineața în adâncul impresionantei chei Velika Paklenica. Sub pereții uriași ai Anića kuk veți simți forța naturii. Urcați la peștera Manita peć pentru stalactite fantastice. La întoarcere, vizitați monumentele mistice Mirila, apoi încheiați seara relaxat pe faleza din Starigrad.",
+        "en": "Hike deep into the impressive Velika Paklenica gorge in the morning. Feel the power of nature beneath the massive walls of Anića kuk. Climb up to Manita peć cave to see fantastic stalactites. On the way back, visit the mystical Mirila monuments before ending the evening relaxed on the Starigrad promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dinko Paklenica",
+            "tip": "Frischer Fisch für Wanderer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dinko Paklenica",
+            "tip": "Friss hal túrázóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dinko Paklenica",
+            "tip": "Pește proaspăt pentru drumeți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dinko Paklenica",
+            "tip": "Fresh fish for hikers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klanac Aussicht",
+            "tip": "Echo in der Schlucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klanac kilátópont",
+            "tip": "Visszhang a szurdokban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere Klanac",
+            "tip": "Ecoul în chei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Klanac View",
+            "tip": "Echo in the gorge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt Starigrad",
+            "tip": "Getrocknete Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Starigradi piac",
+            "tip": "Szárított füge."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Starigrad",
+            "tip": "Smochine uscate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Starigrad Market",
+            "tip": "Dried figs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bergschuhe sind Pflicht.",
+          "Viel Wasser mitnehmen."
+        ],
+        "hu": [
+          "Túrabakancs kötelező.",
+          "Vigyen sok vizet."
+        ],
+        "ro": [
+          "Bocancii sunt obligatorii.",
+          "Luați multă apă."
+        ],
+        "en": [
+          "Hiking boots are mandatory.",
+          "Take plenty of water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Večka kula Turm",
+          "coords": [
+            15.441,
+            44.292
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Legende von König Pasoglav.",
+            "hu": "Pasoglav király legendája.",
+            "ro": "Legenda regelui Pasoglav.",
+            "en": "Legend of King Pasoglav."
+          }
+        },
+        {
+          "name": "Kirche St. Peter",
+          "coords": [
+            15.445,
+            44.295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Alte Steinkirche am Weg.",
+            "hu": "Régi kőtemplom az út mentén.",
+            "ro": "Biserică veche de piatră.",
+            "en": "Old stone church by the road."
+          }
+        },
+        {
+          "name": "Winnetou Museum",
+          "coords": [
+            15.443,
+            44.294
+          ],
+          "category": "museums",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Original-Drehorte entdecken.",
+            "hu": "Eredeti forgatási helyszínek.",
+            "ro": "Locații originale de filmare.",
+            "en": "Original filming locations."
+          }
+        },
+        {
+          "name": "Küstenweg Seline",
+          "coords": [
+            15.48,
+            44.28
+          ],
+          "category": "park/beach",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Schöne Badebucht suchen.",
+            "hu": "Keressen egy szép öblöt.",
+            "ro": "Căutați un golf frumos.",
+            "en": "Find a nice swimming bay."
+          }
+        },
+        {
+          "name": "Starigrad Hafen",
+          "coords": [
+            15.4658,
+            44.2989
+          ],
+          "category": "port",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Eis essen am Hafen.",
+            "hu": "Fagyizzon a kikötőben.",
+            "ro": "Înghețată în port.",
+            "en": "Ice cream at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der Küste von Starigrad nach Seline. Besuchen Sie zuerst den mittelalterlichen Wachturm Večka kula direkt am Meer. Die präromanische St. Petrus-Kirche erzählt von der Geschichte der Region. Für Filmfans ist das Winnetou-Museum ein Muss. Den Nachmittag verbringen Sie entspannt an den Kiesstränden von Seline, bevor es zurück zum Hafen geht.",
+        "hu": "Bringázzon a tengerpart mentén Starigradból Selinébe. Látogassa meg a középkori Večka kula őrtornyot közvetlenül a parton. A Szent Péter-templom a régió történelméről mesél. A filmrajongóknak a Winnetou Múzeum kötelező program. Délután pihenjen Seline kavicsos strandjain, majd tekerjen vissza a kikötőbe.",
+        "ro": "Pedalați de-a lungul coastei de la Starigrad la Seline. Vizitați mai întâi turnul medieval Večka kula chiar de pe mal. Biserica Sf. Petru povestește istoria regiunii. Pentru fanii filmelor, Muzeul Winnetou este obligatoriu. Petreceți după-amiaza pe plajele cu pietriș din Seline înainte de a reveni în port.",
+        "en": "Cycle along the coast from Starigrad to Seline. First, visit the medieval Večka kula watchtower right by the sea. St. Peter's Church tells the history of the region. For film fans, the Winnetou Museum is a must. Spend the afternoon relaxing on the pebble beaches of Seline before heading back to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Lucija",
+            "tip": "Muscheln auf Buzara-Art."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Lucija",
+            "tip": "Kagyló buzara módra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Lucija",
+            "tip": "Scoici în stil buzara."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Lucija",
+            "tip": "Mussels buzara style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pisak Strand",
+            "tip": "Kristallklares Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pisak strand",
+            "tip": "Kristálytiszta víz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Pisak",
+            "tip": "Apă de cristal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pisak Beach",
+            "tip": "Crystal clear water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstand am Hafen",
+            "tip": "Lavendelsäckchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői ajándékbolt",
+            "tip": "Levendula zsákocskák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand suveniruri port",
+            "tip": "Săculeți cu lavandă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Souvenir Stand",
+            "tip": "Lavender sachets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sonnenschutz auftragen.",
+          "Küstenstraße ist flach."
+        ],
+        "hu": [
+          "Használjon naptejet.",
+          "A parti út végig sík."
+        ],
+        "ro": [
+          "Folosiți protecție solară.",
+          "Drumul de coastă e plat."
+        ],
+        "en": [
+          "Apply sunscreen.",
+          "Coastal road is flat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 30.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Velika Paklenica Schlucht",
+          "coords": [
+            15.474,
+            44.312
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Eingang.",
+            "hu": "Parkoló a bejáratnál.",
+            "ro": "Parcare chiar la intrare.",
+            "en": "Parking right at entrance."
+          }
+        },
+        {
+          "name": "Mala Paklenica Schlucht",
+          "coords": [
+            15.5,
+            44.29
+          ],
+          "category": "natural features",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wilder und einsamer.",
+            "hu": "Vadabb és magányosabb.",
+            "ro": "Mai sălbatic și izolat.",
+            "en": "Wilder and lonelier."
+          }
+        },
+        {
+          "name": "Gastro-Stop Seline",
+          "coords": [
+            15.48,
+            44.28
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Lamm vom Grill.",
+            "hu": "Kóstolja meg a sült bárányt.",
+            "ro": "Gustați mielul la grătar.",
+            "en": "Try grilled lamb."
+          }
+        },
+        {
+          "name": "Večka kula Turm",
+          "coords": [
+            15.441,
+            44.292
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Romantischer Fotostopp.",
+            "hu": "Romantikus fotóhelyszín.",
+            "ro": "Loc de poze romantic.",
+            "en": "Romantic photo spot."
+          }
+        },
+        {
+          "name": "Kirche St. Peter",
+          "coords": [
+            15.445,
+            44.295
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuch der alten Kapelle.",
+            "hu": "A régi kápolna látogatása.",
+            "ro": "Vizita vechii capele.",
+            "en": "Visit the old chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie beide Paklenica-Schluchten bequem mit dem Auto. Starten Sie in der berühmten Velika Paklenica und fahren Sie dann zur wilderen Mala Paklenica. Genießen Sie ein herzhaftes Mittagessen in Seline. Am Nachmittag besuchen Sie die historischen Monumente wie den Večka-Turm und die St. Petrus-Kirche, die direkt an der Küstenstraße liegen.",
+        "hu": "Fedezze fel kényelmesen autóval a Paklenica mindkét szurdokát. Kezdje a híres Velika Paklenicával, majd látogasson el a vadabb Mala Paklenica bejáratához. Élvezzen egy bőséges ebédet Selinében. Délután nézze meg a történelmi emlékeket, mint a Večka-torony és a Szent Péter-templom a parti út mentén.",
+        "ro": "Explorați ambele chei Paklenica confortabil cu mașina. Începeți cu celebra Velika Paklenica, apoi mergeți la Mala Paklenica, mai sălbatică. Bucurați-vă de un prânz copios în Seline. După-amiaza, vizitați monumentele istorice precum turnul Večka și biserica Sf. Petru, situate chiar pe drumul de coastă.",
+        "en": "Explore both Paklenica gorges comfortably by car. Start in the famous Velika Paklenica and then drive to the wilder Mala Paklenica. Enjoy a hearty lunch in Seline. In the afternoon, visit historical monuments like the Večka tower and St. Peter's Church, located right along the coastal road."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Jure",
+            "tip": "Traditionelles Velebit-Essen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Jure",
+            "tip": "Hagyományos Velebit ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Jure",
+            "tip": "Mâncare tradițională din Velebit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Jure",
+            "tip": "Traditional Velebit food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mala Paklenica Bach",
+            "tip": "Natürliche Einsamkeit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mala Paklenica patak",
+            "tip": "Természetes magány.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pârâul Mala Paklenica",
+            "tip": "Izolare în natură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mala Paklenica Stream",
+            "tip": "Natural solitude.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velebit Honigstand",
+            "tip": "Echter Gebirgshonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velebiti mézesbolt",
+            "tip": "Eredeti hegyi méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand miere Velebit",
+            "tip": "Miere de munte autentică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velebit Honey Stand",
+            "tip": "Authentic mountain honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkgebühren beachten.",
+          "Kameras bereit halten."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjra.",
+          "Készítse elő a kamerát."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare.",
+          "Țineți camera pregătită."
+        ],
+        "en": [
+          "Note the parking fees.",
+          "Keep your camera ready."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Busstation Starigrad",
+          "coords": [
+            15.465,
+            44.298
+          ],
+          "category": "transportation",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Busse nach Zadar halten hier.",
+            "hu": "Zadar felé tartó buszok itt állnak meg.",
+            "ro": "Autobuzele spre Zadar opresc aici.",
+            "en": "Buses to Zadar stop here."
+          }
+        },
+        {
+          "name": "Velika Paklenica",
+          "coords": [
+            15.474,
+            44.312
+          ],
+          "category": "natural features",
+          "arrive_at": "10:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fußmarsch ab Bushaltestelle.",
+            "hu": "Gyalogút a buszmegállótól.",
+            "ro": "Mers pe jos de la stație.",
+            "en": "Walk from the bus stop."
+          }
+        },
+        {
+          "name": "Winnetou Museum",
+          "coords": [
+            15.443,
+            44.294
+          ],
+          "category": "museums",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Liegt nahe am Hotel Alan.",
+            "hu": "A Hotel Alan közelében található.",
+            "ro": "Lângă Hotel Alan.",
+            "en": "Located near Hotel Alan."
+          }
+        },
+        {
+          "name": "Starigrad Strand",
+          "coords": [
+            15.46,
+            44.295
+          ],
+          "category": "park/beach",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Abkühlung nach der Tour.",
+            "hu": "Felfrissülés a túra után.",
+            "ro": "Răcorire după tur.",
+            "en": "Refreshment after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die regionalen Busverbindungen entlang der Adria-Magistrale. Von der Station in Starigrad wandern Sie zum Eingang der Velika Paklenica. Nach ein paar Stunden in der Natur bringt Sie der Bus oder ein kurzer Spaziergang zum Winnetou-Museum. Beenden Sie Ihren Tag mit einem Sprung ins kühle Nass am zentralen Strand von Starigrad.",
+        "hu": "Használja a regionális buszjáratokat az Adria-főút mentén. Starigrad központjából sétáljon el a Velika Paklenica bejáratához. A természetben töltött órák után busszal vagy rövid sétával juthat el a Winnetou Múzeumba. Zárja a napot egy frissítő csobbanással Starigrad központi strandján.",
+        "ro": "Folosiți autobuzele regionale de-a lungul magistralei Adriatice. Din stația Starigrad, mergeți la intrarea în Velika Paklenica. După câteva ore în natură, autobuzul sau o scurtă plimbare vă duce la Muzeul Winnetou. Încheiați ziua cu o baie în mare pe plaja centrală din Starigrad.",
+        "en": "Use the regional bus connections along the Adriatic highway. From the station in Starigrad, hike to the entrance of Velika Paklenica. After a few hours in nature, the bus or a short walk will take you to the Winnetou Museum. End your day with a dip in the cool water at the central beach of Starigrad."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Matan",
+            "tip": "Günstiges Mittagsmenü."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Matan",
+            "tip": "Kedvező árú ebédmenü."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Matan",
+            "tip": "Meniu de prânz accesibil."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Matan",
+            "tip": "Affordable lunch menu."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Mole",
+            "tip": "Ruhiger Blick aufs Velebit-Kanal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi móló",
+            "tip": "Csendes kilátás a Velebit-csatornára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moll vechi",
+            "tip": "Vedere liniștită spre canal.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Pier",
+            "tip": "Quiet view of the Velebit channel.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Starigrad",
+            "tip": "Ansichtskarten und Karten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Starigradi újságos",
+            "tip": "Képeslapok és térképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Starigrad",
+            "tip": "Vederi și hărți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Starigrad Kiosk",
+            "tip": "Postcards and maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busfahrplan fotografieren.",
+          "Fußwege einplanen."
+        ],
+        "hu": [
+          "Fotózza le a menetrendet.",
+          "Számoljon a gyaloglással."
+        ],
+        "ro": [
+          "Fotografiați orarul.",
+          "Planificați mersul pe jos."
+        ],
+        "en": [
+          "Photograph the bus schedule.",
+          "Plan for walking distances."
+        ]
+      }
+    }
+  }
+}

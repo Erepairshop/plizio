@@ -1,0 +1,892 @@
+{
+  "city_id": "krapina",
+  "anchor": {
+    "name": "Krapina",
+    "coords": [
+      15.8753,
+      46.1606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Neandertaler-Museum",
+          "coords": [
+            15.8645,
+            46.1625
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Modernste Multimedia-Ausstellung.",
+            "hu": "Modern multimédiás kiállítás.",
+            "ro": "Expoziție multimedia modernă.",
+            "en": "Modern multimedia exhibition."
+          }
+        },
+        {
+          "name": "Hügel Hušnjakovo",
+          "coords": [
+            15.865,
+            46.163
+          ],
+          "category": "natural features",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fundort der Neandertaler.",
+            "hu": "Neandervölgyiek lelőhelye.",
+            "ro": "Locul descoperirii Neandertalienilor.",
+            "en": "Neanderthal discovery site."
+          }
+        },
+        {
+          "name": "Alte Festung Krapina",
+          "coords": [
+            15.8765,
+            46.1615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Stadt.",
+            "hu": "Panorámás kilátás a városra.",
+            "ro": "Vedere panoramică spre oraș.",
+            "en": "Panoramic view of the city."
+          }
+        },
+        {
+          "name": "Kirche St. Nikolaus",
+          "coords": [
+            15.8755,
+            46.16
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schönes Barockinterieur.",
+            "hu": "Szép barokk belső tér.",
+            "ro": "Interior baroc frumos.",
+            "en": "Beautiful baroque interior."
+          }
+        },
+        {
+          "name": "Park Matice Hrvatske",
+          "coords": [
+            15.878,
+            46.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannung im Stadtgarten.",
+            "hu": "Pihenés a városi parkban.",
+            "ro": "Relaxare în grădina orașului.",
+            "en": "Relaxation in the city garden."
+          }
+        },
+        {
+          "name": "Gastro - Krapina Zentrum",
+          "coords": [
+            15.875,
+            46.159
+          ],
+          "category": "gastro",
+          "arrive_at": "16:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Deftiges Zagorje-Mittagessen.",
+            "hu": "Kiadós zagorjei ebéd.",
+            "ro": "Prânz consistent în stil Zagorje.",
+            "en": "Hearty Zagorje lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am weltberühmten Neandertaler-Museum und der Ausgrabungsstätte Hušnjakovo. Danach wandern Sie zur alten Festung Krapina für einen weiten Ausblick. Der Nachmittag gehört der Nikolauskirche und dem Park Matice Hrvatske. Den Abend lassen Sie in einem der gemütlichen Restaurants im Zentrum ausklingen.",
+        "hu": "A napja a világhírű Neandervölgyi múzeumnál és a Hušnjakovo lelőhelyen kezdődik. Ezután sétáljon fel a krapinai óvárhoz a kilátásért. A délutánt a Szent Miklós-templom és a Matice Hrvatske park felfedezésével töltheti. Az estét a központ egyik hangulatos éttermében zárhatja.",
+        "ro": "Ziua începe la faimosul muzeu Neandertal și situl arheologic Hušnjakovo. Apoi, urcați la vechea cetate Krapina pentru o vedere panoramică. După-amiaza aparține bisericii Sf. Nicolae și parcului Matice Hrvatske. Încheiați seara la unul dintre restaurantele primitoare din centru.",
+        "en": "Your day begins at the world-famous Neanderthal Museum and the Hušnjakovo excavation site. Afterwards, walk up to the old Krapina fortress for a wide view. The afternoon is dedicated to St. Nicholas Church and Matice Hrvatske Park. End the evening at one of the cozy restaurants in the city center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Krapina Schnitzel",
+            "tip": "Gefülltes Schnitzel nach Art des Hauses."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krapinai szelet",
+            "tip": "Helyi módon töltött rántott hús."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șnițel Krapina",
+            "tip": "Șnițel umplut după rețeta casei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Krapina Schnitzel",
+            "tip": "Stuffed schnitzel prepared in local style."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hušnjakovo Wald",
+            "tip": "Schattige Wanderwege.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Festungshügel",
+            "tip": "Sonnenuntergang über Krapina.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hušnjakovo erdő",
+            "tip": "Árnyas erdei utak.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Várhegy",
+            "tip": "Naplemente Krapina felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Hušnjakovo",
+            "tip": "Trasee umbroase prin pădure.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Dealul Cetății",
+            "tip": "Apus de soare peste Krapina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hušnjakovo Forest",
+            "tip": "Shady forest paths.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Fortress Hill",
+            "tip": "Sunset over Krapina.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Museum",
+            "tip": "Repliken prähistorischer Funde."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumi ajándékbolt",
+            "tip": "Őskori leletek másolatai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul muzeului",
+            "tip": "Replici ale descoperirilor preistorice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Gift Shop",
+            "tip": "Replicas of prehistoric findings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Planen Sie viel Zeit für das Museum ein.",
+          "Der Aufstieg zur Festung ist kurz aber steil."
+        ],
+        "hu": [
+          "Szánjon bőven időt a múzeumra.",
+          "A várba vezető út rövid, de meredek."
+        ],
+        "ro": [
+          "Rezervați mult timp pentru muzeu.",
+          "Urcușul spre cetate este scurt dar abrupt."
+        ],
+        "en": [
+          "Plan plenty of time for the museum.",
+          "The climb to the fortress is short but steep."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Neandertaler-Museum",
+          "coords": [
+            15.8645,
+            46.1625
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradständer am Haupteingang.",
+            "hu": "Biciklitároló a főbejáratnál.",
+            "ro": "Suport biciclete la intrarea principală.",
+            "en": "Bike racks at the main entrance."
+          }
+        },
+        {
+          "name": "Alte Festung",
+          "coords": [
+            15.8765,
+            46.1615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Anstrengung bergauf.",
+            "hu": "Rövid emelkedő a váráig.",
+            "ro": "Scurt efort la urcare.",
+            "en": "Short uphill effort."
+          }
+        },
+        {
+          "name": "Franziskanerkloster",
+          "coords": [
+            15.8785,
+            46.16
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Prachtvolle Klosterbibliothek.",
+            "hu": "Pompás kolostori könyvtár.",
+            "ro": "Biblioteca mănăstirii este superbă.",
+            "en": "Magnificent monastery library."
+          }
+        },
+        {
+          "name": "Geburtshaus Ljudevit Gaj",
+          "coords": [
+            15.8745,
+            46.161
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Leben des kroatischen Reformers.",
+            "hu": "A horvát reformátor élete.",
+            "ro": "Viața reformatorului croat.",
+            "en": "Life of the Croatian reformer."
+          }
+        },
+        {
+          "name": "Park Matice Hrvatske",
+          "coords": [
+            15.878,
+            46.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzes Durchatmen.",
+            "hu": "Rövid pihenő.",
+            "ro": "Scurtă pauză de respirație.",
+            "en": "Quick breather."
+          }
+        },
+        {
+          "name": "Gastro - Pizzeria",
+          "coords": [
+            15.874,
+            46.1595
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schnelles und leckeres Essen.",
+            "hu": "Gyors és finom ételek.",
+            "ro": "Mâncare rapidă și gustoasă.",
+            "en": "Quick and tasty food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Krapina auf zwei Rädern. Starten Sie beim prähistorischen Museum und fahren Sie dann durch die historische Altstadt. Besuchen Sie das Franziskanerkloster und das Gaj-Haus. Die tour bietet eine Mischung aus moderner Wissenschaft und barocker tradition.",
+        "hu": "Fedezze fel Krapinát két keréken. Kezdjen az őskori múzeumnál, majd tekerjen át a történelmi óvároson. Látogassa meg a ferences kolostort és a Gaj-házat. A túra a modern tudomány és a barokk hagyomány keverékét kínálja.",
+        "ro": "Explorați Krapina pe două roți. Începeți la muzeul preistoric, apoi pedalați prin centrul istoric. Vizitați mănăstirea franciscană și casa Gaj. Turul oferă un mix între știința modernă și tradiția barocă.",
+        "en": "Explore Krapina on two wheels. Start at the prehistoric museum and then cycle through the historic old town. Visit the Franciscan monastery and the Gaj house. The tour offers a mix of modern science and baroque tradition."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zagorje-Suppe",
+            "tip": "Mit Pilzen und Speck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zagorjei leves",
+            "tip": "Gombával és szalonnával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supă Zagorje",
+            "tip": "Cu ciuperci și bacon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagorje Soup",
+            "tip": "With mushrooms and bacon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Oase der Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "A csend szigete.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Oază de liniște.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Oasis of silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Imker",
+            "tip": "Honigprodukte aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészek",
+            "tip": "Méhészeti termékek a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apicultori locali",
+            "tip": "Produse apicole din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beekeepers",
+            "tip": "Honey products from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Altstadt ist das Gelände flach.",
+          "Vorsicht beim Abbiegen in engen Gassen."
+        ],
+        "hu": [
+          "Az óvárosban a terep sík.",
+          "Vigyázzon a kanyarodáskor a szűk utcákban."
+        ],
+        "ro": [
+          "Terenul este plat în centrul vechi.",
+          "Atenție la viraje în străzile înguste."
+        ],
+        "en": [
+          "The terrain is flat in the old town.",
+          "Be careful when turning in narrow alleys."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Neandertaler-Museum",
+          "coords": [
+            15.8645,
+            46.1625
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parkhaus am Museum nutzen.",
+            "hu": "Használja a múzeumi parkolóházat.",
+            "ro": "Folosiți parcarea de la muzeu.",
+            "en": "Use the museum parking garage."
+          }
+        },
+        {
+          "name": "Kirche Maria von Jerusalem",
+          "coords": [
+            15.882,
+            46.165
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wichtiger Wallfahrtsort auf dem Berg Trški Vrh.",
+            "hu": "Fontos búcsújáróhely a Trški Vrh-hegyen.",
+            "ro": "Loc important de pelerinaj pe dealul Trški Vrh.",
+            "en": "Important pilgrimage site on Trški Vrh hill."
+          }
+        },
+        {
+          "name": "Alte Festung",
+          "coords": [
+            15.8765,
+            46.1615
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz unterhalb der Burg.",
+            "hu": "Parkoló a vár alatt.",
+            "ro": "Parcare sub cetate.",
+            "en": "Parking below the fortress."
+          }
+        },
+        {
+          "name": "Park Matice Hrvatske",
+          "coords": [
+            15.878,
+            46.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang im Grünen.",
+            "hu": "Rövid séta a zöldben.",
+            "ro": "Scurtă plimbare prin verdeață.",
+            "en": "Short walk in the greenery."
+          }
+        },
+        {
+          "name": "Gastro - Restoran",
+          "coords": [
+            15.875,
+            46.158
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bester Platz für regionales Essen.",
+            "hu": "A legjobb hely a környékbeli ételekhez.",
+            "ro": "Cel mai bun loc pentru mâncare regională.",
+            "en": "Best place for regional food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Wallfahrtskirche Maria von Jerusalem auf dem Hügel über der Stadt. Morgens besuchen Sie das Neandertaler-Museum. Nachmittags erkunden Sie die Festung und das Stadtzentrum, bevor Sie gemütlich essen gehen.",
+        "hu": "Autóval kényelmesen elérheti a Trški Vrh-hegyen álló Jeruzsálemi Mária-kegyhelyet. Délelőtt a Neandervölgyi múzeumé a főszerep. Délután fedezze fel a várat és a városközpontot, mielőtt egy jót vacsorázna.",
+        "ro": "Cu mașina puteți ajunge ușor la biserica de pelerinaj Maria din Ierusalim de pe dealul de deasupra orașului. Dimineața vizitați muzeul Neandertal. După-amiaza explorați cetatea și centrul orașului înainte de o masă relaxată.",
+        "en": "By car, you can comfortably reach the pilgrimage church of Mary of Jerusalem on the hill above the city. In the morning, visit the Neanderthal Museum. In the afternoon, explore the fortress and the city center before having a nice dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zagorje-Truthahn",
+            "tip": "Mit traditionellen Mlinci-Nudeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zagorjei pulyka",
+            "tip": "Hagyományos mlinci tésztával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curcan Zagorje",
+            "tip": "Cu paste mlinci tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagorje Turkey",
+            "tip": "With traditional mlinci pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Trški Vrh",
+            "tip": "Stille und herrlicher Weitblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trški Vrh",
+            "tip": "Csend és csodás panoráma.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trški Vrh",
+            "tip": "Liniște și vedere superbă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trški Vrh",
+            "tip": "Silence and magnificent views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinshop Zentrum",
+            "tip": "Weine aus der Region Krapina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi borbolt",
+            "tip": "Borok a krapinai régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinotecă centru",
+            "tip": "Vinuri din regiunea Krapina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Wine Shop",
+            "tip": "Wines from the Krapina region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fahrt nach Trški Vrh lohnt sich wegen der Aussicht.",
+          "Im Stadtzentrum gibt es ausreichend Parkzonen."
+        ],
+        "hu": [
+          "A kilátás miatt megéri felautózni a Trški Vrh-re.",
+          "A városközpontban elegendő parkoló áll rendelkezésre."
+        ],
+        "ro": [
+          "Drumul spre Trški Vrh merită pentru priveliște.",
+          "Există suficiente zone de parcare în centrul orașului."
+        ],
+        "en": [
+          "The drive to Trški Vrh is worth it for the view.",
+          "There are sufficient parking zones in the city center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Neandertaler-Museum",
+          "coords": [
+            15.8645,
+            46.1625
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Bahnhof Krapina ca. 15 Min. Fußweg.",
+            "hu": "A vasútállomástól kb. 15 perc séta.",
+            "ro": "De la gară, aproximativ 15 minute de mers pe jos.",
+            "en": "About 15 min walk from the train station."
+          }
+        },
+        {
+          "name": "Kirche St. Nikolaus",
+          "coords": [
+            15.8755,
+            46.16
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nahe dem Busbahnhof.",
+            "hu": "A buszállomás közelében.",
+            "ro": "Aproape de stația de autobuz.",
+            "en": "Near the bus station."
+          }
+        },
+        {
+          "name": "Geburtshaus Ljudevit Gaj",
+          "coords": [
+            15.8745,
+            46.161
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "In der Fußgängerzone.",
+            "hu": "A sétálóutcában található.",
+            "ro": "În zona pietonală.",
+            "en": "Located in the pedestrian zone."
+          }
+        },
+        {
+          "name": "Park Matice Hrvatske",
+          "coords": [
+            15.878,
+            46.161
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal zum Verweilen.",
+            "hu": "Ideális pihenésre.",
+            "ro": "Ideal pentru odihnă.",
+            "en": "Ideal for relaxing."
+          }
+        },
+        {
+          "name": "Gastro - Lokal",
+          "coords": [
+            15.875,
+            46.159
+          ],
+          "category": "gastro",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frisch gezapftes lokales Bier.",
+            "hu": "Frissen csapolt helyi sör.",
+            "ro": "Bere locală proaspătă.",
+            "en": "Freshly tapped local beer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Krapina ist hervorragend mit dem Zug oder Bus vernetzt. Der Vormittag steht im Zeichen der Urgeschichte. Mittags erkunden Sie die historische Figur Ljudevit Gaj und die barocke Nikolauskirche. Den Nachmittag genießen Sie im Stadtpark, bevor Sie die Heimreise antreten.",
+        "hu": "Krapina kiváló vonat- és buszösszeköttetéssel rendelkezik. A délelőtt az őstörténeté. Délben Ljudevit Gaj munkásságával és a barokk Szent Miklós-templommal ismerkedhet meg. A délutánt töltse a városi parkban a hazautazás előtt.",
+        "ro": "Krapina are legături excelente de tren și autobuz. Dimineața este dedicată preistoriei. La prânz, explorați moștenirea lui Ljudevit Gaj și biserica barocă Sf. Nicolae. Bucurați-vă de după-amiază în parcul orașului înainte de plecare.",
+        "en": "Krapina has excellent train and bus connections. The morning is dedicated to prehistory. At noon, explore the legacy of Ljudevit Gaj and the baroque St. Nicholas Church. Enjoy the afternoon in the city park before heading home."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zagorje-Platte",
+            "tip": "Hausgemachte Wurst und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zagorjei tál",
+            "tip": "Házi kolbász és sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou Zagorje",
+            "tip": "Cârnați de casă și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagorje Platter",
+            "tip": "Homemade sausage and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Bänke",
+            "tip": "Abseits der Hauptstraße.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városi parki padok",
+            "tip": "Távol a főúttól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în parcul orașului",
+            "tip": "Departe de drumul principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Park Benches",
+            "tip": "Away from the main road.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Zentrum",
+            "tip": "Traditionelles Maisbrot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pékség",
+            "tip": "Hagyományos kukoricás kenyér."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie centrală",
+            "tip": "Pâine de porumb tradițională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Bakery",
+            "tip": "Traditional corn bread."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bahnhof liegt zentral und ist gut zu erreichen.",
+          "Die Stadt ist kompakt und gut zu Fuß zu erkunden."
+        ],
+        "hu": [
+          "A vasútállomás központi helyen van.",
+          "A város kompakt és gyalogosan jól bejárható."
+        ],
+        "ro": [
+          "Gara este situată central și este ușor accesibilă.",
+          "Orașul este compact și ușor de explorat la pas."
+        ],
+        "en": [
+          "The train station is centrally located and easy to reach.",
+          "The city is compact and easy to explore on foot."
+        ]
+      }
+    }
+  }
+}

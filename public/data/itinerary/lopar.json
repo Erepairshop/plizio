@@ -1,0 +1,866 @@
+{
+  "city_id": "lopar",
+  "anchor": {
+    "name": "Lopar",
+    "coords": [
+      14.73,
+      44.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche der Seligen Jungfrau Maria",
+          "coords": [
+            14.731,
+            44.832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kleine Votivkirche mit schöner Aussicht.",
+            "hu": "Apró fogadalmi templom szép kilátással.",
+            "ro": "Mică biserică votivă cu o priveliște frumoasă.",
+            "en": "Small votive church with a beautiful view."
+          }
+        },
+        {
+          "name": "Kapelle des Hl. Nikolaus",
+          "coords": [
+            14.728,
+            44.835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kapelle am Hafen.",
+            "hu": "Látogassa meg a kikötő melletti kápolnát.",
+            "ro": "Vizitați capela de lângă port.",
+            "en": "Visit the chapel by the harbor."
+          }
+        },
+        {
+          "name": "Rajska plaža (Paradise Beach)",
+          "coords": [
+            14.74,
+            44.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Flaches Wasser, ideal für Familien.",
+            "hu": "Sekély víz, családoknak ideális.",
+            "ro": "Apă puțin adâncă, ideală pentru familii.",
+            "en": "Shallow water, ideal for families."
+          }
+        },
+        {
+          "name": "Livačina Strand",
+          "coords": [
+            14.745,
+            44.828
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Etwas ruhiger als der Hauptstrand.",
+            "hu": "Kicsit nyugodtabb, mint a főstrand.",
+            "ro": "Ceva mai liniștit decât plaja principală.",
+            "en": "A bit quieter than the main beach."
+          }
+        },
+        {
+          "name": "Geopark Lopar",
+          "coords": [
+            14.735,
+            44.84
+          ],
+          "category": "natural features",
+          "arrive_at": "17:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Faszinierende Sandsteinformationen.",
+            "hu": "Lenyűgöző homokkő formációk.",
+            "ro": "Formațiuni fascinante de gresie.",
+            "en": "Fascinating sandstone formations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens besuchen Sie die charmanten Kapellen von Lopar, bevor Sie den Vormittag am berühmten Paradiesstrand verbringen. Das flache Wasser ist ideal zum Entspannen. Nach dem Mittagessen spazieren Sie zum benachbarten Livačina-Strand für ein ruhigeres Badeerlebnis. Den Tag lassen Sie mit einer kleinen Wanderung durch die bizarren Felslandschaften des Geoparks ausklingen.",
+        "hu": "Reggel Lopar bájos kápolnáit látogatja meg, majd a délelőttöt a híres Paradicsom-parton tölti. A sekély víz tökéletes a pihenéshez. Ebéd után sétáljon át a szomszédos Livačina strandra egy nyugodtabb fürdőzésért. A napot a Geopark bizarr sziklaalakzatai közötti rövid túrával zárja.",
+        "ro": "Dimineața vizitați capelele fermecătoare din Lopar, înainte de a petrece restul dimineții pe celebra Plajă a Paradisului. Apa puțin adâncă este ideală pentru relaxare. După prânz, mergeți la plaja vecină Livačina pentru o experiență de înot mai liniștită. Încheiați ziua cu o scurtă drumeție prin peisajele stâncoase bizare ale Geoparcului.",
+        "en": "In the morning, visit the charming chapels of Lopar before spending the rest of the morning at the famous Paradise Beach. The shallow water is perfect for relaxing. After lunch, walk to the neighboring Livačina beach for a quieter swimming experience. End the day with a short hike through the bizarre rock formations of the Geopark."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Fortuna",
+            "tip": "Probieren Sie den frischen Fisch der Insel Rab."
+          },
+          {
+            "name": "Rab-Kuchen",
+            "tip": "Eine traditionelle Süßspeise mit Mandeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fortuna Étterem",
+            "tip": "Kóstolja meg a friss rabi halételeket."
+          },
+          {
+            "name": "Rabi torta",
+            "tip": "Hagyományos mandulás édesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Fortuna",
+            "tip": "Gustați peștele proaspăt de pe insula Rab."
+          },
+          {
+            "name": "Tort de Rab",
+            "tip": "Un desert tradițional cu migdale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Fortuna",
+            "tip": "Try the fresh fish from Rab island."
+          },
+          {
+            "name": "Rab cake",
+            "tip": "A traditional sweet with almonds."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Geopark Aussichtspunkt",
+            "tip": "Ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Geopark kilátópont",
+            "tip": "Csendes hely a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Geopark",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Geopark Viewpoint",
+            "tip": "Quiet spot for sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lopar Souvenirstand",
+            "tip": "Handgefertigter Lavendel und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lopari ajándékbolt",
+            "tip": "Kézműves levendula és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de suveniruri Lopar",
+            "tip": "Levănțică și miere artizanală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lopar souvenir stand",
+            "tip": "Handmade lavender and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Sonnenschutz mit, da der Strand kaum Schatten bietet.",
+          "Tragen Sie festes Schuhwerk für den Geopark.",
+          "Die Parkplätze am Paradiesstrand sind im Sommer schnell voll.",
+          "Besuchen Sie die Kirchen früh am Morgen."
+        ],
+        "hu": [
+          "Vigyen naptejet, mert a parton kevés az árnyék.",
+          "Viseljen túracipőt a Geoparkhoz.",
+          "A Paradicsom-part parkolói nyáron gyorsan betelnek.",
+          "A templomokat érdemes korán reggel felkeresni."
+        ],
+        "ro": [
+          "Aduceți protecție solară, deoarece plaja are puțină umbră.",
+          "Purtați încălțăminte adecvată pentru Geopark.",
+          "Parcările de la Plaja Paradisului se umplu rapid vara.",
+          "Vizitați bisericile dimineața devreme."
+        ],
+        "en": [
+          "Bring sunscreen as the beach offers little shade.",
+          "Wear sturdy shoes for the Geopark.",
+          "Parking at Paradise Beach fills up quickly in summer.",
+          "Visit the churches early in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche des Hl. Johannes des Täufers",
+          "coords": [
+            14.732,
+            44.834
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Alte Kirche im Zentrum von Lopar.",
+            "hu": "Régi templom Lopar központjában.",
+            "ro": "Biserică veche în centrul orașului Lopar.",
+            "en": "Old church in the center of Lopar."
+          }
+        },
+        {
+          "name": "Geopark Lopar",
+          "coords": [
+            14.735,
+            44.845
+          ],
+          "category": "natural features",
+          "arrive_at": "10:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radweg durch die karge Mondlandschaft.",
+            "hu": "Kerékpárút a kopár holdbéli tájon.",
+            "ro": "Traseu de biciclete prin peisajul arid.",
+            "en": "Cycling path through the barren landscape."
+          }
+        },
+        {
+          "name": "Livačina Strand",
+          "coords": [
+            14.745,
+            44.828
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ideal für eine Badepause mit dem Rad.",
+            "hu": "Ideális egy fürdőzésre a bringázás közben.",
+            "ro": "Ideal pentru o pauză de înot cu bicicleta.",
+            "en": "Ideal for a swim break during cycling."
+          }
+        },
+        {
+          "name": "Rajska plaža",
+          "coords": [
+            14.74,
+            44.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der bekannteste Sandstrand Kroatiens.",
+            "hu": "Horvátország legismertebb homokos strandja.",
+            "ro": "Cea mai cunoscută plajă cu nisip din Croația.",
+            "en": "The most famous sandy beach in Croatia."
+          }
+        },
+        {
+          "name": "Kapelle des Hl. Nikolaus",
+          "coords": [
+            14.728,
+            44.835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss am kleinen Hafen.",
+            "hu": "Zárás a kis kikötőnél.",
+            "ro": "Final în micul port.",
+            "en": "End at the small harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Halbinsel Lopar aktiv mit dem Rad. Nach dem Besuch der Hauptkirche radeln Sie durch den faszinierenden Geopark mit seinen einzigartigen Gesteinsformationen. Zur Mittagszeit erreichen Sie den Livačina-Strand für eine wohlverdiente Abkühlung. Den Nachmittag verbringen Sie am Paradiesstrand, bevor Sie die Tour am Hafen bei der Nikolaus-Kapelle beenden.",
+        "hu": "Fedezze fel aktívan a Lopar-félszigetet kerékpárral. A főtemplom megtekintése után tekerjen át a lenyűgöző Geoparkon. Ebédidőben érje el a Livačina strandot egy megérdemelt hűsölésre. A délutánt a Paradicsom-parton töltse, majd zárja a túrát a kikötőben, a Szent Miklós-kápolnánál.",
+        "ro": "Explorați peninsula Lopar activ cu bicicleta. După vizitarea bisericii principale, pedalați prin fascinantul Geopark. La prânz, ajungeți la plaja Livačina pentru o răcorire binemeritată. Petreceți după-amiaza pe Plaja Paradisului, înainte de a încheia turul în port, la capela Sf. Nicolae.",
+        "en": "Explore the Lopar peninsula actively by bike. After visiting the main church, cycle through the fascinating Geopark. At lunchtime, reach Livačina beach for a well-deserved cooling off. Spend the afternoon at Paradise Beach before ending the tour at the harbor by St. Nicholas chapel."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Ankora",
+            "tip": "Hausgemachte Pasta mit Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Ankora",
+            "tip": "Házias tészta tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Ankora",
+            "tip": "Paste de casă cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Ankora",
+            "tip": "Homemade pasta with seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen am Geopark",
+            "tip": "Einsame Plätze zum Meditieren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Geopark sziklák",
+            "tip": "Magányos helyek a meditációhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Geoparcului",
+            "tip": "Locuri izolate pentru meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Geopark cliffs",
+            "tip": "Lonely spots for meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss szigeti gyümölcsök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Fresh island fruit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Mountainbike für die Schotterwege im Geopark.",
+          "Achten Sie auf Wanderer auf den kombinierten Wegen.",
+          "Nehmen Sie genug Wasser mit.",
+          "Die Wege sind teils sehr sandig."
+        ],
+        "hu": [
+          "Béreljen hegyi kerékpárt a Geopark kavicsos útjaihoz.",
+          "Figyeljen a túrázókra a közös utakon.",
+          "Vigyen magával elég vizet.",
+          "Az utak néhol nagyon homokosak."
+        ],
+        "ro": [
+          "Închiriați o bicicletă montană pentru drumurile cu pietriș din Geopark.",
+          "Atenție la drumeți pe potecile comune.",
+          "Luați suficientă apă cu voi.",
+          "Drumurile sunt parțial foarte nisipoase."
+        ],
+        "en": [
+          "Rent a mountain bike for the gravel paths in the Geopark.",
+          "Watch out for hikers on combined trails.",
+          "Take enough water with you.",
+          "The paths are partly very sandy."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche der Seligen Jungfrau Maria",
+          "coords": [
+            14.731,
+            44.832
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Historisches Heiligtum auf dem Hügel.",
+            "hu": "Történelmi szentély a dombon.",
+            "ro": "Santuat istoric pe deal.",
+            "en": "Historical sanctuary on the hill."
+          }
+        },
+        {
+          "name": "Goli Otok (Boot ab Lopar)",
+          "coords": [
+            14.81,
+            44.83
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ehemalige Gefängnisinsel, erreichbar per Ausflugsboot.",
+            "hu": "Egykori börtönsziget, kirándulóhajóval elérhető.",
+            "ro": "Fosta insulă-închisoare, accesibilă cu barca.",
+            "en": "Former prison island, accessible by excursion boat."
+          }
+        },
+        {
+          "name": "Rajska plaža",
+          "coords": [
+            14.74,
+            44.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bester Parkplatz am südlichen Ende.",
+            "hu": "Legjobb parkoló a déli végén.",
+            "ro": "Cea mai bună parcare la capătul sudic.",
+            "en": "Best parking at the southern end."
+          }
+        },
+        {
+          "name": "Insel Sveti Grgur",
+          "coords": [
+            14.77,
+            44.86
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Unbewohnte Insel mit Hirschen.",
+            "hu": "Lakatlan sziget szarvasokkal.",
+            "ro": "Insulă nelocuită cu cerbi.",
+            "en": "Uninhabited island with deer."
+          }
+        },
+        {
+          "name": "Livačina Strand",
+          "coords": [
+            14.745,
+            44.828
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abendstimmung genießen.",
+            "hu": "Élvezze az esti hangulatot.",
+            "ro": "Bucurați-vă de atmosfera de seară.",
+            "en": "Enjoy the evening atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die Ausgangspunkte für Bootsausflüge. Besuchen Sie zuerst die Marienkirche, bevor Sie vom Hafen aus zur geschichtsträchtigen Insel Goli Otok übersetzen. Nach der Rückkehr entspannen Sie am Paradiesstrand. Ein weiterer kurzer Bootstrip führt zur Insel Sveti Grgur. Den Tag schließen Sie am ruhigeren Livačina-Strand ab.",
+        "hu": "Autóval kényelmesen elérheti a hajókirándulások indulópontjait. Először látogassa meg a Mária-templomot, majd a kikötőből hajózzon át a történelmi Goli Otok szigetre. Visszatérés után pihenjen a Paradicsom-parton. Egy másik rövid hajóút a Sveti Grgur szigetre vezet. A napot a nyugodtabb Livačina strandon zárja.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la punctele de plecare pentru excursii cu barca. Vizitați mai întâi biserica Maria, înainte de a traversa din port spre insula istorică Goli Otok. După întoarcere, relaxați-vă pe Plaja Paradisului. O altă scurtă excursie cu barca duce la insula Sveti Grgur. Încheiați ziua pe plaja mai liniștită Livačina.",
+        "en": "By car, you can easily reach the starting points for boat trips. First visit St. Mary's church, then cross from the harbor to the historic island of Goli Otok. After returning, relax at Paradise Beach. Another short boat trip leads to Sveti Grgur island. Close the day at the quieter Livačina beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Stella",
+            "tip": "Bekannt für Grillgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stella Étterem",
+            "tip": "Grillételeiről ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Stella",
+            "tip": "Cunoscut pentru preparate la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Stella",
+            "tip": "Known for grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sveti Grgur Bucht",
+            "tip": "Kristallklares, ruhiges Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sveti Grgur öböl",
+            "tip": "Kristálytiszta, csendes víz.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Sveti Grgur",
+            "tip": "Apă cristalină și liniștită.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Grgur bay",
+            "tip": "Crystal clear, quiet water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Petra",
+            "tip": "Alles für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Petra Szupermarket",
+            "tip": "Minden a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Petra",
+            "tip": "Totul pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket Petra",
+            "tip": "Everything for a picnic."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie Bootsausflüge im Voraus.",
+          "Parken in Lopar ist kostenpflichtig.",
+          "Die Fähre nach Krk fährt vom nahen Hafen Valbiska ab.",
+          "Achten Sie auf die Abfahrtszeiten der Ausflugsboote."
+        ],
+        "hu": [
+          "Foglalja le előre a hajókirándulásokat.",
+          "A parkolás Loparban fizetős.",
+          "A Krk-szigetre tartó komp a közeli kikötőből indul.",
+          "Figyeljen a kirándulóhajók indulási idejére."
+        ],
+        "ro": [
+          "Rezervați excursiile cu barca în avans.",
+          "Parcarea în Lopar este cu plată.",
+          "Feribotul către Krk pleacă din portul apropiat.",
+          "Fiți atenți la orele de plecare ale bărcilor de excursie."
+        ],
+        "en": [
+          "Book boat trips in advance.",
+          "Parking in Lopar is paid.",
+          "The ferry to Krk departs from the nearby harbor.",
+          "Pay attention to the departure times of the excursion boats."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Kirche des Hl. Johannes des Täufers",
+          "coords": [
+            14.732,
+            44.834
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Punkt beim Busstopp.",
+            "hu": "Központi pont a buszmegállónál.",
+            "ro": "Punct central lângă stația de autobuz.",
+            "en": "Central point by the bus stop."
+          }
+        },
+        {
+          "name": "Rajska plaža",
+          "coords": [
+            14.74,
+            44.825
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Bushaltestelle San Marino.",
+            "hu": "Rövid séta a San Marino buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz San Marino.",
+            "en": "Short walk from the San Marino bus stop."
+          }
+        },
+        {
+          "name": "Livačina Strand",
+          "coords": [
+            14.745,
+            44.828
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Paradiesstrand erreichbar.",
+            "hu": "Gyalog elérhető a Paradicsom-partról.",
+            "ro": "Accesibil pe jos de la Plaja Paradisului.",
+            "en": "Accessible on foot from Paradise Beach."
+          }
+        },
+        {
+          "name": "Kapelle des Hl. Nikolaus",
+          "coords": [
+            14.728,
+            44.835
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nähe zum Fährhafen Lopar.",
+            "hu": "A lopari kompkikötő közelében.",
+            "ro": "Aproape de portul de feribot Lopar.",
+            "en": "Near the Lopar ferry port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus, um zwischen dem Zentrum und der Ferienanlage San Marino zu pendeln. Starten Sie an der Johanneskirche und verbringen Sie den Vormittag am Paradiesstrand. Nach einem entspannten Mittagessen spazieren Sie zum Livačina-Strand. Beenden Sie den Tag an der Nikolaus-Kapelle in der Nähe des Hafens, von wo aus Sie den Bus zurück nehmen können.",
+        "hu": "Használja a helyi buszt a központ és a San Marino üdülőtelep közötti közlekedéshez. Kezdjen a Szent János-templomnál, majd töltse a délelőttöt a Paradicsom-parton. Egy pihentető ebéd után sétáljon át a Livačina strandra. Zárja a napot a kikötő közeli Szent Miklós-kápolnánál, ahonnan visszabuszozhat.",
+        "ro": "Folosiți autobuzul local pentru a naveta între centru și complexul San Marino. Începeți la biserica Sf. Ioan și petreceți dimineața pe Plaja Paradisului. După un prânz relaxant, mergeți la plaja Livačina. Încheiați ziua la capela Sf. Nicolae de lângă port, de unde puteți lua autobuzul înapoi.",
+        "en": "Use the local bus to commute between the center and the San Marino resort. Start at St. John's church and spend the morning at Paradise Beach. After a relaxing lunch, walk to Livačina beach. End the day at St. Nicholas chapel near the harbor, from where you can take the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet San Marino",
+            "tip": "Schnelle Gerichte am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet San Marino",
+            "tip": "Gyors ételek a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet San Marino",
+            "tip": "Mâncăruri rapide la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet San Marino",
+            "tip": "Quick meals at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldpark Lopar",
+            "tip": "Schatten unter Pinien.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lopari erdőpark",
+            "tip": "Árnyék a fenyők alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul forestier Lopar",
+            "tip": "Umbră sub pini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lopar forest park",
+            "tip": "Shade under pines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Lopar",
+            "tip": "Frische Backwaren für den Strandtag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lopari pékség",
+            "tip": "Friss pékáru a strandoláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Lopar",
+            "tip": "Produse de patiserie proaspete pentru plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lopar bakery",
+            "tip": "Fresh pastries for the beach day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan der Linie Rab-Lopar.",
+          "Fahrkarten können beim Fahrer gekauft werden.",
+          "Die Haltestellen sind gut markiert.",
+          "In der Hochsaison können Busse voll sein."
+        ],
+        "hu": [
+          "Ellenőrizze a Rab-Lopar buszjárat menetrendjét.",
+          "Jegyet a sofőrnél lehet venni.",
+          "A megállók jól jelzettek.",
+          "Főszezonban a buszok zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului pe linia Rab-Lopar.",
+          "Biletele pot fi cumpărate de la șofer.",
+          "Stațiile sunt bine marcate.",
+          "În plin sezon, autobuzele pot fi pline."
+        ],
+        "en": [
+          "Check the bus schedule for the Rab-Lopar line.",
+          "Tickets can be bought from the driver.",
+          "Stops are well marked.",
+          "In high season, buses can be crowded."
+        ]
+      }
+    }
+  }
+}

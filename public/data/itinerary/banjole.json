@@ -1,0 +1,936 @@
+{
+  "city_id": "banjole",
+  "anchor": {
+    "name": "Banjole",
+    "coords": [
+      13.8717,
+      44.8333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fischereihafen Paltana",
+            "hu": "Paltana halászkikötő",
+            "ro": "Portul de pescuit Paltana",
+            "en": "Paltana Fishing Port"
+          },
+          "coords": [
+            13.8705,
+            44.8295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer beim Einholen der Netze.",
+            "hu": "Nézze meg a halászokat hálójavítás közben.",
+            "ro": "Urmăriți pescarii care își repară plasele.",
+            "en": "Watch the fishermen repairing their nets."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Muttergottes vom Meer",
+            "hu": "Tengeri Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului de pe Mare",
+            "en": "Church of Our Lady of the Sea"
+          },
+          "coords": [
+            13.8745,
+            44.8265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe direkt über der Küste.",
+            "hu": "A nyugalom szigete közvetlenül a part felett.",
+            "ro": "Un loc de liniște chiar deasupra coastei.",
+            "en": "A place of peace right above the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Portić",
+            "hu": "Portić-öböl",
+            "ro": "Golful Portić",
+            "en": "Portić Bay"
+          },
+          "coords": [
+            13.865,
+            44.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für ein spätes Frühstück am Wasser.",
+            "hu": "Tökéletes hely egy kései reggelihez a víznél.",
+            "ro": "Perfect pentru un mic dejun târziu lângă apă.",
+            "en": "Perfect for a late breakfast by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Centinera",
+            "hu": "Centinera strand",
+            "ro": "Plaja Centinera",
+            "en": "Centinera Beach"
+          },
+          "coords": [
+            13.855,
+            44.8285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schatten spendende Pinien säumen den Kiesstrand.",
+            "hu": "Árnyas fenyők szegélyezik a kavicsos partot.",
+            "ro": "Pinii umbroși mărginesc plaja cu pietriș.",
+            "en": "Shady pines line the pebble beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturlehrpfad Bumbište",
+            "hu": "Bumbište tanösvény",
+            "ro": "Traseul educativ Bumbište",
+            "en": "Bumbište Nature Trail"
+          },
+          "coords": [
+            13.845,
+            44.821
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf das offene Meer.",
+            "hu": "Élvezze a tágas kilátást a nyílt tengerre.",
+            "ro": "Bucurați-vă de priveliștea largă spre largul mării.",
+            "en": "Enjoy the wide view of the open sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Banjole ist ein Paradies für alle, die das authentische Fischerdorf-Gefühl suchen. Wir starten am Morgen im malerischen Hafen Paltana, wo die Fischereitradition noch lebendig ist. Nach einem Besuch der charmanten Kirche Muttergottes vom Meer schlendern wir zur Bucht Portić. Der Nachmittag gehört der Entspannung am Strand Centinera unter Pinien. Den Tag lassen wir mit einem Spaziergang auf der Halbinsel Bumbište ausklingen.",
+        "hu": "Banjole a nyugalom és a halászati hagyományok otthona. Reggelünket a Paltana kikötőben kezdjük, megfigyelve a napi fogást hozó bárkákat. A Tengeri Boldogasszony templom megtekintése után a Portić-öböl kristálytiszta vizét csodáljuk meg. Délután a Centinera strandon pihenünk a fenyők árnyékában, majd a napot a Bumbište félsziget vadregényes tanösvényén, a tenger sós illatával fejezzük be.",
+        "ro": "Banjole este un paradis pentru cei care caută atmosfera autentică a unui sat de pescari. Începem dimineața în portul pitoresc Paltana, unde tradiția pescuitului este încă vie. După o vizită la fermecătoarea biserică a Maicii Domnului de pe Mare, ne plimbăm spre Golful Portić. După-amiaza este dedicată relaxării pe plaja Centinera, sub pini. Încheiem ziua cu o plimbare pe peninsula Bumbište.",
+        "en": "Banjole is a paradise for those seeking an authentic fishing village feel. We start the morning in the picturesque Paltana harbor, where fishing traditions are still very much alive. After visiting the charming Church of Our Lady of the Sea, we stroll to Portić Bay. The afternoon is spent relaxing at Centinera Beach under the pines. We finish the day with a scenic walk on the Bumbište peninsula."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Banjole Fisch",
+            "tip": "Probieren Sie fangfrische Dorade bei Batelina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banjolei halak",
+            "tip": "Kóstolja meg a frissen fogott tengeri süllőt a Batelinában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește de Banjole",
+            "tip": "Încercați dorada proaspăt prinsă la Batelina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banjole Fish",
+            "tip": "Try freshly caught sea bream at Batelina restaurant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kap Bumbište",
+            "tip": "Felsige Küste mit herrlichem Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bumbište-fok",
+            "tip": "Sziklás partvidék csodálatos naplementével.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Bumbište",
+            "tip": "Coastă stâncoasă cu un apus de soare superb.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape Bumbište",
+            "tip": "Rocky coastline with a magnificent sunset view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Fischmarkt",
+            "tip": "Frischer Fisch direkt von den Kähnen im Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi halpiac",
+            "tip": "Friss halak közvetlenül a kikötői bárkákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește locală",
+            "tip": "Pește proaspăt direct de pe barcă în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Fish Market",
+            "tip": "Fresh fish directly from the boats in the harbor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Banjole ist sehr hügelig, tragen Sie festes Schuhwerk.",
+          "Die Restaurants hier zählen zu den besten Fischlokalen Istriens."
+        ],
+        "hu": [
+          "Banjole dombos vidék, viseljen kényelmes túracipőt.",
+          "A falu éttermei Isztria legjobb halas helyei közé tartoznak."
+        ],
+        "ro": [
+          "Banjole are zone deluroase, purtați încălțăminte comodă.",
+          "Restaurantele de aici sunt printre cele mai bune localuri de pește din Istria."
+        ],
+        "en": [
+          "Banjole is quite hilly, so wear sturdy walking shoes.",
+          "The local restaurants are among the best fish eateries in Istria."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Yachthafen Volme",
+            "hu": "Volme jachtkikötő",
+            "ro": "Marina Volme",
+            "en": "Volme Marina"
+          },
+          "coords": [
+            13.885,
+            44.825
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Startpunkt für eine Radtour entlang der Küste.",
+            "hu": "Kiváló kiindulópont egy parti kerékpártúrához.",
+            "ro": "Punct de plecare excelent pentru o tură cu bicicleta pe coastă.",
+            "en": "Excellent starting point for a coastal bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Kanalić",
+            "hu": "Kanalić-öböl",
+            "ro": "Golful Kanalić",
+            "en": "Kanalić Bay"
+          },
+          "coords": [
+            13.89,
+            44.832
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kleine, versteckte Bucht mit flachem Wasser.",
+            "hu": "Kicsi, rejtett öböl sekély vízzel.",
+            "ro": "Mic golf ascuns cu apă puțin adâncă.",
+            "en": "Small, hidden bay with shallow water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Soline",
+            "hu": "Soline-öböl",
+            "ro": "Golful Soline",
+            "en": "Soline Bay"
+          },
+          "coords": [
+            13.868,
+            44.835
+          ],
+          "category": "natural features",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Natur pur und ideal für eine kurze Rast.",
+            "hu": "Tiszta természet, ideális egy rövid pihenőhöz.",
+            "ro": "Natură pură și ideal pentru o scurtă pauză.",
+            "en": "Pure nature, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Centinera",
+            "hu": "Centinera strand",
+            "ro": "Plaja Centinera",
+            "en": "Centinera Beach"
+          },
+          "coords": [
+            13.855,
+            44.8285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sprung ins kühle Nass zur Mittagszeit.",
+            "hu": "Csobbanjon egyet a hűsítő vízben délidőben.",
+            "ro": "O săritură în apa răcoroasă la prânz.",
+            "en": "Take a dip in the cool water at noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturlehrpfad Bumbište",
+            "hu": "Bumbište tanösvény",
+            "ro": "Traseul educativ Bumbište",
+            "en": "Bumbište Nature Trail"
+          },
+          "coords": [
+            13.845,
+            44.821
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Pfade sind gut mit dem Trekkingrad befahrbar.",
+            "hu": "Az ösvények túrakerékpárral jól járhatóak.",
+            "ro": "Traseele sunt accesibile cu bicicleta de trekking.",
+            "en": "The paths are well accessible with a trekking bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die modernen Marinas mit unberührter Natur. Von Volme aus radeln wir entlang der Buchten Kanalić und Soline, wo die Stille des Meeres dominiert. Nach einer Pause am Strand Centinera erkunden wir die Halbinsel Bumbište auf zwei Rädern. Die Route bietet ständige Ausblicke auf die Adria und führt durch aromatische Pinienwälder.",
+        "hu": "Ez a kerékpártúra összeköti a modern jachtkikötőket az érintetlen természettel. Volméból indulva a Kanalić és Soline öblök mentén tekerünk, ahol a tenger csendje dominál. A Centinera strandon tartott pihenő után két keréken fedezzük fel a Bumbište-félszigetet. Az útvonal folyamatos kilátást nyújt az Adriára és illatos fenyőerdőkön vezet keresztül.",
+        "ro": "Această tură cu bicicleta combină marinele moderne cu natura virgină. Din Volme pedalăm de-a lungul golfurilor Kanalić și Soline, unde domină liniștea mării. După o pauză pe plaja Centinera, explorăm peninsula Bumbište pe două roți. Traseul oferă priveliști constante spre Adriatica și trece prin păduri aromatice de pini.",
+        "en": "This bike tour connects modern marinas with untouched nature. Starting from Volme, we cycle along Kanalić and Soline bays, where the silence of the sea dominates. After a break at Centinera Beach, we explore the Bumbište peninsula on two wheels. The route offers constant views of the Adriatic and leads through aromatic pine forests."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Suzi",
+            "tip": "Rustikale istrische Küche für hungrige Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Suzi",
+            "tip": "Házias isztriai konyha éhes bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Suzi",
+            "tip": "Bucătărie istriană rustică pentru bicicliști flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Suzi",
+            "tip": "Rustic Istrian cuisine for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht Soline",
+            "tip": "Vogelgezwitscher und sanfte Wellen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soline-öböl",
+            "tip": "Madárcsicsergés és szelíd hullámok.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Soline",
+            "tip": "Cântec de păsări și valuri blânde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soline Bay",
+            "tip": "Birdsong and gentle waves.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl ab Hof",
+            "tip": "Suchen Sie nach Schildern für lokales Öl in Volme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi olívaolaj",
+            "tip": "Keresse a helyi olajat hirdető táblákat Volméban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de la fermă",
+            "tip": "Căutați semnele pentru ulei local în Volme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmhouse Olive Oil",
+            "tip": "Look for signs for local oil in Volme."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs.",
+          "Ein Mountainbike oder Trekkingrad wird für Bumbište empfohlen."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet, kevés a forrás útközben.",
+          "Bumbište felfedezéséhez hegyi- vagy túrakerékpár ajánlott."
+        ],
+        "ro": [
+          "Luați suficientă apă, sunt puține surse pe drum.",
+          "O bicicletă montană sau de trekking este recomandată pentru Bumbište."
+        ],
+        "en": [
+          "Take enough water with you, there are few sources along the way.",
+          "A mountain bike or trekking bike is recommended for Bumbište."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 25.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Muttergottes vom Meer",
+            "hu": "Tengeri Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului de pe Mare",
+            "en": "Church of Our Lady of the Sea"
+          },
+          "coords": [
+            13.8745,
+            44.8265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit Parkmöglichkeiten in der Nähe.",
+            "hu": "Könnyen megközelíthető, parkolás a közelben.",
+            "ro": "Ușor accesibil cu parcare în apropiere.",
+            "en": "Easily accessible with parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereihafen Paltana",
+            "hu": "Paltana halászkikötő",
+            "ro": "Portul de pescuit Paltana",
+            "en": "Paltana Fishing Port"
+          },
+          "coords": [
+            13.8705,
+            44.8295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Kai für einen schnellen Blick.",
+            "hu": "Parkoljon közvetlenül a mólónál egy gyors nézelődéshez.",
+            "ro": "Parcați direct pe chei pentru o scurtă vizită.",
+            "en": "Park directly on the quay for a quick look."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausflug: Kap Kamenjak",
+            "hu": "Kirándulás: Kamenjak-fok",
+            "ro": "Excursie: Capul Kamenjak",
+            "en": "Excursion: Cape Kamenjak"
+          },
+          "coords": [
+            13.91,
+            44.78
+          ],
+          "category": "natural features",
+          "arrive_at": "11:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Nur 15 Autominuten entfernt – ein absolutes Muss.",
+            "hu": "Csak 15 perc autóval – kihagyhatatlan látnivaló.",
+            "ro": "La doar 15 minute de mers cu mașina – de neratat.",
+            "en": "Only 15 minutes by car – an absolute must."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Centinera",
+            "hu": "Centinera strand",
+            "ro": "Plaja Centinera",
+            "en": "Centinera Beach"
+          },
+          "coords": [
+            13.855,
+            44.8285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt hinter dem Strand.",
+            "hu": "Nagy parkoló közvetlenül a strand mögött.",
+            "ro": "Parcare mare chiar în spatele plajei.",
+            "en": "Large parking lot directly behind the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Volme",
+            "hu": "Volme jachtkikötő",
+            "ro": "Marina Volme",
+            "en": "Volme Marina"
+          },
+          "coords": [
+            13.885,
+            44.825
+          ],
+          "category": "port",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Abschluss mit Blick auf die Luxusyachten.",
+            "hu": "A nap zárása a luxusjachtok látványával.",
+            "ro": "Încheierea zilei cu priveliștea iahturilor de lux.",
+            "en": "Ending the day with a view of the luxury yachts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Banjole ideal mit dem nahegelegenen Naturpark Kap Kamenjak kombinieren. Wir starten kulturell in Banjole, besuchen den Hafen und machen dann den Abstecher in die wilde Natur des Kaps. Am Nachmittag kehren wir nach Banjole zurück, um den Tag entspannt am Centinera Strand und in der Marina Volme ausklingen zu lassen.",
+        "hu": "Autóval Banjole ideális kiindulópont a közeli Kamenjak-fok felfedezéséhez. A kulturális és kikötői séták után Banjoléban, átruccanunk a fok vadregényes szikláihoz. Délután visszatérünk, hogy a Centinera strandon és a Volme jachtkikötő elegáns környezetében fejezzük be a napot.",
+        "ro": "Cu mașina, Banjole poate fi combinat ideal cu parcul natural din apropiere, Capul Kamenjak. Începem cultural în Banjole, vizităm portul, apoi facem o excursie în natura sălbatică a capului. După-amiaza ne întoarcem în Banjole pentru a încheia ziua relaxați pe plaja Centinera și în marina Volme.",
+        "en": "By car, Banjole is ideally combined with the nearby Cape Kamenjak nature park. We start with a cultural visit to the church and harbor, then take a detour into the wild nature of the Cape. In the afternoon, we return to Banjole to end the day relaxed at Centinera Beach and Volme Marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Barka",
+            "tip": "Exzellente Meeresfrüchte-Platte für zwei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barka étterem",
+            "tip": "Kiváló tenger gyümölcsei tál két főre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Barka",
+            "tip": "Platou excelent cu fructe de mare pentru doi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Barka Restaurant",
+            "tip": "Excellent seafood platter for two."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Soline Wälder",
+            "tip": "Ruhige Waldwege abseits der Touristenströme.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soline-erdők",
+            "tip": "Csendes erdei utak a turistaáradattól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurile Soline",
+            "tip": "Poteci forestiere liniștite departe de turiști.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Soline Woods",
+            "tip": "Quiet forest paths away from the tourist crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Imker",
+            "tip": "Lokale Sorten wie Salbeihonig an den Straßenständen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Zsályaméz és egyéb különlegességek az út menti árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la apicultor",
+            "tip": "Soiuri locale precum mierea de salvie la standurile de pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Try sage honey from roadside stalls."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison sind Parkplätze am Strand schnell belegt.",
+          "Für Kap Kamenjak wird eine Einfahrtsgebühr pro Fahrzeug fällig."
+        ],
+        "hu": [
+          "Főszezonban a strandközeli parkolók gyorsan megtelnek.",
+          "A Kamenjak-fokra behajtási díjat kell fizetni autónként."
+        ],
+        "ro": [
+          "În plin sezon, parcările de lângă plajă se ocupă rapid.",
+          "Pentru Capul Kamenjak se plătește o taxă de intrare pe vehicul."
+        ],
+        "en": [
+          "In high season, parking near the beach fills up quickly.",
+          "There is an entry fee for cars at Cape Kamenjak."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ortszentrum Banjole",
+            "hu": "Banjole központ",
+            "ro": "Centrul Banjole",
+            "en": "Banjole Center"
+          },
+          "coords": [
+            13.8717,
+            44.8333
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt im Zentrum.",
+            "hu": "Buszmegálló közvetlenül a központban.",
+            "ro": "Stație de autobuz chiar în centru.",
+            "en": "Bus stop right in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Muttergottes vom Meer",
+            "hu": "Tengeri Boldogasszony templom",
+            "ro": "Biserica Maicii Domnului de pe Mare",
+            "en": "Church of Our Lady of the Sea"
+          },
+          "coords": [
+            13.8745,
+            44.8265
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang von der Haltestelle aus.",
+            "hu": "Kellemes séta a buszmegállótól.",
+            "ro": "O plimbare frumoasă de la stație.",
+            "en": "A pleasant walk from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Portić",
+            "hu": "Portić-öböl",
+            "ro": "Golful Portić",
+            "en": "Portić Bay"
+          },
+          "coords": [
+            13.865,
+            44.822
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Guter Ort für ein Mittagessen in Meeresnähe.",
+            "hu": "Kiváló hely egy ebédhez a tenger közelében.",
+            "ro": "Loc bun pentru prânz aproape de mare.",
+            "en": "Good spot for lunch near the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Centinera",
+            "hu": "Centinera strand",
+            "ro": "Plaja Centinera",
+            "en": "Centinera Beach"
+          },
+          "coords": [
+            13.855,
+            44.8285
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Strand aus sind es 10 Min. zur nächsten Haltestelle.",
+            "hu": "A strandtól 10 perc a legközelebbi megálló.",
+            "ro": "De la plajă sunt 10 minute până la cea mai apropiată stație.",
+            "en": "It's a 10-minute walk from the beach to the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereihafen Paltana",
+            "hu": "Paltana halászkikötő",
+            "ro": "Portul de pescuit Paltana",
+            "en": "Paltana Fishing Port"
+          },
+          "coords": [
+            13.8705,
+            44.8295
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Rückfahrt mit dem Bus.",
+            "hu": "Gyors megálló a busz visszaindulása előtt.",
+            "ro": "Scurtă oprire înainte de întoarcerea cu autobuzul.",
+            "en": "Short stop before catching the bus back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den lokalen Bussen aus Pula ist Banjole bestens erreichbar. Wir erkunden den Ort vom Zentrum aus, spazieren zur Küstenkirche und genießen die entspannte Atmosphäre der Bucht Portić. Der Nachmittag steht ganz im Zeichen des Strandvergnügens am Centinera. Bevor der letzte Bus fährt, werfen wir noch einen Blick auf das geschäftige Treiben im Fischerhafen Paltana.",
+        "hu": "A Pulából induló helyi járatokkal Banjole könnyen elérhető. A központból indulva felfedezzük a tengerparti templomot, és élvezzük a Portić-öböl nyugodt hangulatát. A délutánt a Centinera strand kristálytiszta vizében töltjük. Mielőtt az utolsó busz visszaindulna, még vetünk egy pillantást a Paltana halászkikötő nyüzsgő életére.",
+        "ro": "Cu autobuzele locale din Pula, Banjole este foarte accesibil. Explorăm localitatea din centru, ne plimbăm spre biserica de pe coastă și ne bucurăm de atmosfera relaxată din Golful Portić. După-amiaza este dedicată plajei Centinera. Înainte de a lua ultimul autobuz, aruncăm o privire la activitatea din portul de pescuit Paltana.",
+        "en": "Banjole is easily accessible via local buses from Pula. We explore the village from the center, walk to the coastal church, and enjoy the relaxed atmosphere of Portić Bay. The afternoon is dedicated to the sun and sea at Centinera Beach. Before catching the last bus, we take a look at the busy life in Paltana fishing harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Nina",
+            "tip": "Schnelle und gute Fischgerichte im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nina bisztró",
+            "tip": "Gyors és finom halételek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Nina",
+            "tip": "Preparate din pește rapide și bune în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Nina",
+            "tip": "Fast and tasty fish dishes in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Portić Mole",
+            "tip": "Am Ende der Mole dem Wasser lauschen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Portić-móló",
+            "tip": "A móló végén hallgatni a víz csobogását.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul Portić",
+            "tip": "Ascultând apa la capătul digului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Portić Pier",
+            "tip": "Listen to the water at the end of the pier.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Banjole",
+            "tip": "Postkarten und lokale Reiseführer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banjolei kioszk",
+            "tip": "Képeslapok és helyi útikalauzok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul Banjole",
+            "tip": "Vederi și ghiduri turistice locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Banjole Kiosk",
+            "tip": "Postcards and local travel guides."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 28 verbindet Banjole mit Pula.",
+          "Achten Sie auf den aktuellen Fahrplan, besonders am Wochenende."
+        ],
+        "hu": [
+          "A 28-as buszvonal köti össze Banjolét Pulával.",
+          "Figyeljen a menetrendre, különösen hétvégén."
+        ],
+        "ro": [
+          "Linia de autobuz 28 leagă Banjole de Pula.",
+          "Verificați orarul actualizat, în special în weekend."
+        ],
+        "en": [
+          "Bus line 28 connects Banjole with Pula.",
+          "Check the current timetable, especially on weekends."
+        ]
+      }
+    }
+  }
+}

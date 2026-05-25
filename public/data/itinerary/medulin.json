@@ -1,0 +1,988 @@
+{
+  "city_id": "medulin",
+  "anchor": {
+    "name": "Medulin",
+    "coords": [
+      13.9239,
+      44.8233
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Heiligen Agnes",
+            "hu": "Szent Ágnes-templom",
+            "ro": "Biserica Sfânta Agnes",
+            "en": "Church of Saint Agnes"
+          },
+          "coords": [
+            13.9325,
+            44.8235
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die weißen Doppeltürme sind das Wahrzeichen Medulins.",
+            "hu": "A fehér ikertornyok Medulin jelképei.",
+            "ro": "Turnurile duble albe sunt emblema Medulinului.",
+            "en": "The white twin towers are Medulin's landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle Malin na vitar",
+            "hu": "Malin na vitar szélmalom",
+            "ro": "Moara de vânt Malin na vitar",
+            "en": "Malin na vitar Windmill"
+          },
+          "coords": [
+            13.9385,
+            44.8225
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Einzigartige restaurierte Windmühle direkt am Meer.",
+            "hu": "Egyedülállóan felújított szélmalom közvetlenül a tengerparton.",
+            "ro": "Moară de vânt restaurată, unică pe malul mării.",
+            "en": "Uniquely restored windmill right on the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade von Medulin",
+            "hu": "Medulin tengerparti sétánya",
+            "ro": "Faleza din Medulin",
+            "en": "Medulin Waterfront"
+          },
+          "coords": [
+            13.9355,
+            44.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zahlreiche Cafés und Restaurants laden zur Pause ein.",
+            "hu": "Számos kávézó és étterem hívogat pihenőre.",
+            "ro": "Numeroase cafenele și restaurante vă invită la o pauză.",
+            "en": "Numerous cafes and restaurants invite for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Vižula",
+            "hu": "Vižula Régészeti Park",
+            "ro": "Parcul Arheologic Vižula",
+            "en": "Vižula Archaeological Park"
+          },
+          "coords": [
+            13.9305,
+            44.8185
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen einer antiken römischen Villa.",
+            "hu": "Fedezze fel egy ókori római villa romjait.",
+            "ro": "Explorați ruinele unei vile romane antice.",
+            "en": "Explore the ruins of an ancient Roman villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandstrand Bijeca",
+            "hu": "Bijeca homokos strand",
+            "ro": "Plaja de nisip Bijeca",
+            "en": "Bijeca Sand Beach"
+          },
+          "coords": [
+            13.9355,
+            44.8205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der bekannteste Sandstrand Istriens, ideal für Familien.",
+            "hu": "Isztria leghíresebb homokos strandja, ideális családoknak.",
+            "ro": "Cea mai faimoasă plajă cu nisip din Istria, ideală pentru familii.",
+            "en": "The most famous sandy beach in Istria, ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von der Gesundheit",
+            "hu": "Egészségünket Védő Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului a Sănătății",
+            "en": "Church of Our Lady of Health"
+          },
+          "coords": [
+            13.9325,
+            44.8255
+          ],
+          "category": "religious",
+          "arrive_at": "18:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Abschluss des Tages.",
+            "hu": "A nap csendes lezárása.",
+            "ro": "Un final de zi liniștit.",
+            "en": "A quiet conclusion to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Medulin zu Fuß. Beginnen Sie bei der weithin sichtbaren Agnes-Kirche und wandern Sie zur historischen Windmühle am Hafen.\n\nMittags schlendern Sie entlang der lebhaften Uferpromenade, wo Sie lokale Spezialitäten genießen können.\n\nDer Nachmittag gehört der Geschichte auf der Halbinsel Vižula und dem entspannten Badevergnügen am Sandstrand Bijeca.\n\nBeenden Sie Ihren Rundgang bei der kleinen Gesundheitskirche und genießen Sie den Blick über die Bucht von Medulin.",
+        "hu": "Fedezze fel Medulint gyalogosan. Kezdje a messziről látható Szent Ágnes-templomnál, majd sétáljon el a kikötőben található történelmi szélmalomhoz.\n\nDélben sétáljon végig a pezsgő tengerparti sétányon, ahol megkóstolhatja a helyi specialitásokat.\n\nA délután a történelemé a Vižula-félszigeten, majd a pihentető fürdőzésé a Bijeca homokos strandon.\n\nZárja a túrát a kis Egészség-templomnál, és élvezze a Medulini-öbölre nyíló kilátást.",
+        "ro": "Descoperiți Medulinul la pas. Începeți de la biserica Sfânta Agnes, vizibilă de departe, și mergeți spre moara de vânt istorică din port.\n\nLa prânz, plimbați-vă pe faleza plină de viață, unde puteți savura specialități locale.\n\nDupă-amiaza este dedicată istoriei pe peninsula Vižula și relaxării pe plaja de nisip Bijeca.\n\nÎncheiați turul la mica biserică a Sănătății și bucurați-vă de vederea spre golful Medulin.",
+        "en": "Discover Medulin on foot. Start at the visible-from-afar St. Agnes Church and walk to the historical windmill in the harbor.\n\nAt noon, stroll along the lively waterfront promenade where you can enjoy local specialties.\n\nSpend your afternoon exploring history on the Vižula peninsula and relaxing at the sandy Bijeca beach.\n\nConclude your walk at the small Church of Health and enjoy the view over Medulin bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Salt & Pepper",
+            "tip": "Moderne Küche mit Fokus auf Fleisch und Fisch."
+          },
+          {
+            "name": "Istrianische Trüffel-Pasta",
+            "tip": "Ein Muss in dieser Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Salt & Pepper",
+            "tip": "Modern konyha fókuszban a húsokkal és halakkal."
+          },
+          {
+            "name": "Isztriai szarvasgombás tészta",
+            "tip": "Kihagyhatatlan kóstoló ebben a régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salt & Pepper",
+            "tip": "Bucătărie modernă cu accent pe carne și pește."
+          },
+          {
+            "name": "Paste cu trufe istriene",
+            "tip": "O experiență obligatorie în această regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Salt & Pepper",
+            "tip": "Modern cuisine with a focus on meat and fish."
+          },
+          {
+            "name": "Istrian Truffle Pasta",
+            "tip": "A must-try in this region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Halbinsel Vižula",
+            "tip": "Abseits des Strandschrubels findet man hier Ruhe im Wald.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche der Gesundheit",
+            "tip": "Stiller Rückzugsort oberhalb des Zentrums.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vižula-félsziget",
+            "tip": "A strand nyüzsgésétől távol, az erdőben csendet találhatunk.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Egészség-templom",
+            "tip": "Csendes menedék a központ felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula Vižula",
+            "tip": "Departe de agitația plajei, puteți găsi liniște în pădure.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sănătății",
+            "tip": "Refugiu liniștit deasupra centrului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vižula Peninsula",
+            "tip": "Away from the beach bustle, you can find peace in the forest.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Church of Health",
+            "tip": "Quiet retreat above the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nachtmarkt an der Riva",
+            "tip": "Souvenirs, Schmuck und lokales Handwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Éjszakai piac a sétányon",
+            "tip": "Szuvenírek, ékszerek és helyi kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de noapte de pe faleză",
+            "tip": "Suveniruri, bijuterii și artizanat local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Night Market at Riva",
+            "tip": "Souvenirs, jewelry, and local crafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bijeca ist sehr flach, perfekt für Kinder.",
+          "Vižula bietet viel Schatten durch Pinien.",
+          "Abends ist die Promenade sehr belebt, ideal zum People-Watching."
+        ],
+        "hu": [
+          "Bijeca nagyon sekély, tökéletes gyerekeknek.",
+          "Vižula sok árnyékot kínál a fenyőfák alatt.",
+          "Este a sétány nagyon élénk, ideális nézelődésre."
+        ],
+        "ro": [
+          "Bijeca este foarte puțin adâncă, perfectă pentru copii.",
+          "Vižula oferă multă umbră datorită pinilor.",
+          "Seara faleza este foarte animată, ideală pentru relaxare."
+        ],
+        "en": [
+          "Bijeca is very shallow, perfect for children.",
+          "Vižula offers plenty of shade under the pines.",
+          "In the evening, the promenade is very lively, ideal for people-watching."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Faleză",
+            "en": "Waterfront"
+          },
+          "coords": [
+            13.9355,
+            44.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise am Morgen.",
+            "hu": "Élvezze a friss tengeri szellőt reggel.",
+            "ro": "Bucurați-vă de briza mării dimineața.",
+            "en": "Enjoy the fresh sea breeze in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Halbinsel Kažela",
+            "hu": "Kažela-félsziget",
+            "ro": "Peninsula Kažela",
+            "en": "Kažela Peninsula"
+          },
+          "coords": [
+            13.955,
+            44.812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tolle Radwege entlang der Küste.",
+            "hu": "Nagyszerű kerékpárutak a part mentén.",
+            "ro": "Piste de biciclete superbe de-a lungul coastei.",
+            "en": "Great bike paths along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Ceja (Transfer)",
+            "hu": "Ceja-sziget (átkelés)",
+            "ro": "Insula Ceja (transfer)",
+            "en": "Ceja Island (transfer)"
+          },
+          "coords": [
+            13.93,
+            44.78
+          ],
+          "category": "natural features",
+          "arrive_at": "12:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bootstransfer ab Medulin Hafen.",
+            "hu": "Hajótranszfer Medulin kikötőjéből.",
+            "ro": "Transfer cu barca din portul Medulin.",
+            "en": "Boat transfer from Medulin harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Vižula",
+            "hu": "Vižula Régészeti Park",
+            "ro": "Parcul Arheologic Vižula",
+            "en": "Vižula Archaeological Park"
+          },
+          "coords": [
+            13.9305,
+            44.8185
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bequem mit dem Rad zu erkunden.",
+            "hu": "Kényelmesen felfedezhető kerékpárral.",
+            "ro": "Confortabil de explorat cu bicicleta.",
+            "en": "Comfortable to explore by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle Malin na vitar",
+            "hu": "Malin na vitar szélmalom",
+            "ro": "Moara de vânt Malin na vitar",
+            "en": "Malin na vitar Windmill"
+          },
+          "coords": [
+            13.9385,
+            44.8225
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fotostopp zum Abschluss.",
+            "hu": "Fotómegálló a végére.",
+            "ro": "Oprire pentru fotografii la final.",
+            "en": "Photo stop to wrap up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie entlang der wunderschönen Bucht von Medulin. Die Route führt Sie von der Promenade zur weiten Halbinsel Kažela.\n\nEin Highlight ist der Abstecher zur Insel Ceja, die per Boot erreichbar ist und fantastisches Wasser bietet.\n\nAm Nachmittag erkunden Sie die Radwege von Vižula und kehren schließlich zur Windmühle zurück.\n\nDiese Tour bietet die perfekte Mischung aus Aktivität, Natur und Kultur.",
+        "hu": "Tekerjen a gyönyörű Medulini-öböl mentén. Az útvonal a sétánytól a tágas Kažela-félszigetig vezet.\n\nA túra fénypontja a Ceja-sziget, amely hajóval érhető el és fantasztikus vízzel várja a látogatókat.\n\nDélután fedezze fel Vižula kerékpárútjait, majd térjen vissza a szélmalomhoz.\n\nEz a túra az aktivitás, a természet és a kultúra tökéletes keverékét nyújtja.",
+        "ro": "Pedalați de-a lungul frumosului golf Medulin. Traseul vă duce de la faleză spre vasta peninsulă Kažela.\n\nUn punct forte este escapada pe insula Ceja, accesibilă cu barca, care oferă ape fantastice.\n\nDupă-amiaza explorați pistele de biciclete de pe Vižula și reveniți în final la moara de vânt.\n\nAcest tur oferă amestecul perfect de activitate, natură și cultură.",
+        "en": "Cycle along the beautiful Medulin Bay. The route takes you from the promenade to the vast Kažela Peninsula.\n\nA highlight is the detour to Ceja Island, reachable by boat, offering fantastic waters.\n\nIn the afternoon, explore the bike paths of Vižula and finally return to the windmill.\n\nThis tour offers the perfect mix of activity, nature, and culture."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Bar Barracuda",
+            "tip": "Lässige Atmosphäre für einen Drink."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Bar Barracuda",
+            "tip": "Laza hangulat egy italhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Bar Barracuda",
+            "tip": "Atmosferă relaxată pentru o băutură."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Bar Barracuda",
+            "tip": "Laid-back atmosphere for a drink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kažela Küste",
+            "tip": "Felsige Abschnitte mit viel Einsamkeit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kažela partja",
+            "tip": "Sziklás szakaszok, ahol egyedül lehetünk.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Kažela",
+            "tip": "Secțiuni stâncoase cu multă liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kažela Coast",
+            "tip": "Rocky sections with plenty of solitude.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radverleih Medulin",
+            "tip": "Professionelles Equipment für Ihre Tour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Medulin kerékpárkölcsönző",
+            "tip": "Professzionális felszerelés a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere biciclete Medulin",
+            "tip": "Echipament profesional pentru turul tău."
+          }
+        ],
+        "en": [
+          {
+            "name": "Medulin Bike Rental",
+            "tip": "Professional equipment for your tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Meiden Sie die Hauptstraße, nutzen Sie die Uferwege.",
+          "Sichern Sie Ihr Rad gut bei Pausen.",
+          "Sonnenschutz ist auf den offenen Wegen ein Muss."
+        ],
+        "hu": [
+          "Kerülje a főutat, használja a part menti utakat.",
+          "Zárja le jól a kerékpárt a pihenőknél.",
+          "A nyílt utakon kötelező a fényvédelem."
+        ],
+        "ro": [
+          "Evitați drumul principal, folosiți potecile de pe mal.",
+          "Asigurați-vă bine bicicleta în timpul pauzelor.",
+          "Protecția solară este obligatorie pe drumurile deschise."
+        ],
+        "en": [
+          "Avoid the main road, use the waterfront paths.",
+          "Lock your bike securely during breaks.",
+          "Sunscreen is a must on the open paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Heiligen Agnes",
+            "hu": "Szent Ágnes-templom",
+            "ro": "Biserica Sfânta Agnes",
+            "en": "Church of Saint Agnes"
+          },
+          "coords": [
+            13.9325,
+            44.8235
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt an der Kirche.",
+            "hu": "Parkoló közvetlenül a templomnál.",
+            "ro": "Parcare chiar lângă biserică.",
+            "en": "Parking right next to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park Vižula",
+            "hu": "Vižula Régészeti Park",
+            "ro": "Parcul Arheologic Vižula",
+            "en": "Vižula Archaeological Park"
+          },
+          "coords": [
+            13.9305,
+            44.8185
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz am Eingang der Halbinsel.",
+            "hu": "Nagy parkoló a félsziget bejáratánál.",
+            "ro": "Parcare mare la intrarea pe peninsulă.",
+            "en": "Large parking lot at the peninsula entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Faleză",
+            "en": "Waterfront"
+          },
+          "coords": [
+            13.9355,
+            44.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zentraler Anlaufpunkt für Gastronomie.",
+            "hu": "Központi hely a gasztronómiához.",
+            "ro": "Punct central pentru gastronomie.",
+            "en": "Central point for gastronomy."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandstrand Bijeca",
+            "hu": "Bijeca homokos strand",
+            "ro": "Plaja de nisip Bijeca",
+            "en": "Bijeca Sand Beach"
+          },
+          "coords": [
+            13.9355,
+            44.8205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gebührenpflichtiger Parkplatz in Strandnähe.",
+            "hu": "Fizetős parkoló a strand közelében.",
+            "ro": "Parcare cu plată în apropierea plajei.",
+            "en": "Paid parking near the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Halbinsel Kažela",
+            "hu": "Kažela-félsziget",
+            "ro": "Peninsula Kažela",
+            "en": "Kažela Peninsula"
+          },
+          "coords": [
+            13.955,
+            44.812
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrt bis zum Kap für den Sonnenuntergang.",
+            "hu": "Hajtson ki a fokhoz a naplementéhez.",
+            "ro": "Mergeți până la capăt pentru apus.",
+            "en": "Drive to the cape for the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen, Medulins Highlights stressfrei zu verbinden. Beginnen Sie im Zentrum und besuchen Sie die antiken Stätten auf Vižula.\n\nMittags parken Sie nahe der Riva für ein erstklassiges Mittagessen.\n\nDer Nachmittag ist für Entspannung am Bijeca-Strand reserviert, gefolgt von einer Fahrt zur Halbinsel Kažela.\n\nGenießen Sie die Freiheit, auch die Randbereiche der Bucht ohne weite Fußwege zu erkunden.",
+        "hu": "Az autó lehetővé teszi Medulin fénypontjainak stresszmentes összekötését. Kezdjen a központban, és látogassa meg Vižula ókori helyszíneit.\n\nDélben parkoljon a sétány közelében egy kiváló ebédhez.\n\nA délután a Bijeca-strandon való pihenésé, majd egy autózásé a Kažela-félszigetre.\n\nÉlvezze a szabadságot, és fedezze fel az öböl távolabbi részeit is hosszú gyaloglás nélkül.",
+        "ro": "Mașina vă permite să conectați punctele de atracție din Medulin fără stres. Începeți în centru și vizitați siturile antice de pe Vižula.\n\nLa prânz, parcați lângă faleză pentru un prânz excelent.\n\nDupă-amiaza este rezervată relaxării pe plaja Bijeca, urmată de o plimbare spre peninsula Kažela.\n\nBucurați-vă de libertatea de a explora zonele periferice ale golfului fără a merge mult pe jos.",
+        "en": "The car allows you to combine Medulin's highlights without stress. Start in the center and visit the ancient sites on Vižula.\n\nAt noon, park near the Riva for a top-quality lunch.\n\nSpend your afternoon relaxing at Bijeca beach, followed by a drive to the Kažela Peninsula.\n\nEnjoy the freedom to explore the outer reaches of the bay without long walks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Vizula",
+            "tip": "Blick auf den Park und mediterrane Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Vizula",
+            "tip": "Kilátás a parkra és mediterrán konyha."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Vizula",
+            "tip": "Vedere spre parc și bucătărie mediteraneană."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Vizula",
+            "tip": "View of the park and Mediterranean cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kažela Kap",
+            "tip": "Blick auf das offene Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kažela-fok",
+            "tip": "Kilátás a nyílt tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Kažela",
+            "tip": "Vedere spre marea deschisă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kažela Cape",
+            "tip": "View of the open sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Plodine Medulin",
+            "tip": "Großer Supermarkt für alle Urlaubseinkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plodine Medulin",
+            "tip": "Nagy szupermarket a nyaraláshoz szükséges bevásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plodine Medulin",
+            "tip": "Supermarket mare pentru toate cumpărăturile de vacanță."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plodine Medulin",
+            "tip": "Large supermarket for all holiday shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison sind Parkplätze an der Riva schnell belegt.",
+          "Ein Ausflug zum Kap Kamenjak (15 Min Fahrt) lohnt sich.",
+          "Achten Sie auf Einbahnstraßen im Ortskern."
+        ],
+        "hu": [
+          "Főszezonban a sétány melletti parkolók gyorsan megtelnek.",
+          "Érdemes ellátogatni a Kamenjak-fokhoz (15 perc autóval).",
+          "Ügyeljen az egyirányú utcákra a központban."
+        ],
+        "ro": [
+          "În plin sezon, parcările de pe faleză se ocupă rapid.",
+          "O excursie la Capul Kamenjak (15 min cu mașina) merită din plin.",
+          "Atenție la străzile cu sens unic din centrul localității."
+        ],
+        "en": [
+          "In high season, parking spots at the Riva fill up quickly.",
+          "A trip to Cape Kamenjak (15 min drive) is worth it.",
+          "Watch out for one-way streets in the town center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Heiligen Agnes",
+            "hu": "Szent Ágnes-templom",
+            "ro": "Biserica Sfânta Agnes",
+            "en": "Church of Saint Agnes"
+          },
+          "coords": [
+            13.9325,
+            44.8235
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentrale Bushaltestelle in der Nähe.",
+            "hu": "Központi buszmegálló a közelben.",
+            "ro": "Stație de autobuz centrală în apropiere.",
+            "en": "Central bus stop nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle Malin na vitar",
+            "hu": "Malin na vitar szélmalom",
+            "ro": "Moara de vânt Malin na vitar",
+            "en": "Malin na vitar Windmill"
+          },
+          "coords": [
+            13.9385,
+            44.8225
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus gut zu Fuß erreichbar.",
+            "hu": "A központból gyalogosan is jól elérhető.",
+            "ro": "Ușor accesibilă pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Faleză",
+            "en": "Waterfront"
+          },
+          "coords": [
+            13.9355,
+            44.8215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekt für das Mittagessen.",
+            "hu": "Tökéletes ebédre.",
+            "ro": "Perfect pentru prânz.",
+            "en": "Perfect for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandstrand Bijeca",
+            "hu": "Bijeca homokos strand",
+            "ro": "Plaja de nisip Bijeca",
+            "en": "Bijeca Sand Beach"
+          },
+          "coords": [
+            13.9355,
+            44.8205
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Leicht erreichbar mit dem Linienbus aus Pula.",
+            "hu": "Könnyen elérhető a Pulából induló buszjáratokkal.",
+            "ro": "Ușor accesibilă cu autobuzul din Pula.",
+            "en": "Easily accessible by bus from Pula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Medulin ist durch Regionalbusse (Linie 25 ab Pula) hervorragend angebunden. Starten Sie Ihren Tag im historischen Kern.\n\nNach der Besichtigung der Wahrzeichen erreichen Sie die Promenade und den Bijeca-Strand bequem zu Fuß.\n\nGenießen Sie die maritime Atmosphäre ohne Parkplatzsorgen.\n\nDer Transit-Mode eignet sich ideal für Gäste, die in Pula wohnen und einen Tagesausflug machen.",
+        "hu": "Medulin kiválóan megközelíthető helyközi buszokkal (25-ös járat Pulából). Kezdje a napot a történelmi központban.\n\nA nevezetességek megtekintése után a sétány és a Bijeca-strand kényelmesen elérhető gyalog.\n\nÉlvezze a tengerparti hangulatot parkolási gondok nélkül.\n\nA tömegközlekedési mód ideális a Pulában megszálló vendégeknek egy egynapos kiránduláshoz.",
+        "ro": "Medulin este foarte bine conectat prin autobuze regionale (linia 25 din Pula). Începeți ziua în centrul istoric.\n\nDupă vizitarea monumentelor, faleza și plaja Bijeca sunt ușor accesibile pe jos.\n\nBucurați-vă de atmosfera maritimă fără grija parcării.\n\nModul de tranzit este ideal pentru turiștii cazați în Pula care fac o excursie de o zi.",
+        "en": "Medulin is excellently connected by regional buses (line 25 from Pula). Start your day in the historical core.\n\nAfter visiting the landmarks, the promenade and Bijeca beach are easily accessible on foot.\n\nEnjoy the maritime atmosphere without parking worries.\n\nThe transit mode is ideal for guests staying in Pula for a day trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Willi",
+            "tip": "Familiengeführtes Lokal mit traditionellen Rezepten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Willi",
+            "tip": "Családi vezetésű étterem hagyományos receptekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Willi",
+            "tip": "Local de familie cu rețete tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Willi",
+            "tip": "Family-run place with traditional recipes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand-Pergola",
+            "tip": "Finden Sie ein schattiges Plätzchen unter den Pinien.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti pergola",
+            "tip": "Keressen egy árnyékos helyet a fenyők alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pergola de pe plajă",
+            "tip": "Găsiți un loc umbros sub pini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Pergola",
+            "tip": "Find a shaded spot under the pines.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Märkte",
+            "tip": "In der Saison gibt es oft kleine Stände mit lokalem Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piacok",
+            "tip": "Szezonban gyakran vannak kis standok helyi mézzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piețe locale",
+            "tip": "În sezon, există adesea mici tarabe cu miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Markets",
+            "tip": "During the season, there are often small stalls with local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bushaltestelle liegt an der Hauptstraße oberhalb des Zentrums.",
+          "Holen Sie sich einen Fahrplan in der Tourist-Info.",
+          "Der Bus nach Pula fährt regelmäßig."
+        ],
+        "hu": [
+          "A buszmegálló a főúton található, a központ felett.",
+          "Kérjen menetrendet a turista információs irodában.",
+          "A Pula felé közlekedő busz menetrend szerint jár."
+        ],
+        "ro": [
+          "Stația de autobuz este pe drumul principal, deasupra centrului.",
+          "Luați un orar de la centrul de informare turistică.",
+          "Autobuzul spre Pula circulă regulat."
+        ],
+        "en": [
+          "The bus stop is on the main road above the center.",
+          "Get a timetable from the tourist information office.",
+          "The bus to Pula runs regularly."
+        ]
+      }
+    }
+  }
+}

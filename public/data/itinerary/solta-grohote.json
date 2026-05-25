@@ -1,0 +1,980 @@
+{
+  "city_id": "solta-grohote",
+  "anchor": {
+    "name": "Šolta (Grohote)",
+    "coords": [
+      16.2944,
+      43.3833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadt von Grohote",
+          "coords": [
+            16.2944,
+            43.3833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die typischen dalmatinischen Steinhäuser.",
+            "hu": "Figyeljük meg a jellegzetes dalmát kőházak építészetét.",
+            "ro": "Admirați arhitectura tipică a caselor de piatră dalmate.",
+            "en": "Look for the typical Dalmatian stone house architecture."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Stephan",
+          "coords": [
+            16.2938,
+            43.3838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Kirche beherbergt wertvolle sakrale Kunstgegenstände.",
+            "hu": "A templom értékes szakrális művészeti tárgyakat őriz.",
+            "ro": "Biserica adăpostește obiecte de artă sacră valoroase.",
+            "en": "The church houses valuable sacred art objects."
+          }
+        },
+        {
+          "name": "Galerie Eugen Buktenica",
+          "coords": [
+            16.2955,
+            43.3828
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Welt der naiven Kunst in diesem Atelier.",
+            "hu": "Fedezze fel a naiv művészet világát ebben a műteremben.",
+            "ro": "Descoperiți lumea artei naive în acest atelier local.",
+            "en": "Discover the world of naive art in this local studio."
+          }
+        },
+        {
+          "name": "Imkerei Tvrdic",
+          "coords": [
+            16.296,
+            43.384
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Rosmarinhonig der Insel.",
+            "hu": "Kóstolja meg a sziget híres rozmaringmézét.",
+            "ro": "Gustați faimoasa miere de rozmarin a insulei.",
+            "en": "Taste the island's famous rosemary honey."
+          }
+        },
+        {
+          "name": "Festung Slavić",
+          "coords": [
+            16.294,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Wehrturm, der einst vor Piratenangriffen schützte.",
+            "hu": "Egy védőtorony, amely egykor a kalóztámadások ellen védett.",
+            "ro": "Un turn de apărare care proteja odinioară de pirați.",
+            "en": "A defensive tower that once protected from pirate attacks."
+          }
+        },
+        {
+          "name": "Bratska kuća",
+          "coords": [
+            16.2942,
+            43.3835
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zentrum des kulturellen Lebens im alten Grohote.",
+            "hu": "A kulturális élet központja a régi Grohotéban.",
+            "ro": "Centrul vieții culturale în vechiul Grohote.",
+            "en": "The center of cultural life in old Grohote."
+          }
+        },
+        {
+          "name": "Antike Sarkophage",
+          "coords": [
+            16.2935,
+            43.383
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "17:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spuren der römischen Vergangenheit direkt im Ort.",
+            "hu": "A római múlt nyomai közvetlenül a településen.",
+            "ro": "Urme ale trecutului roman chiar în localitate.",
+            "en": "Traces of the Roman past right in the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in den verwinkelten Gassen von Grohote, wo die Zeit stillzustehen scheint. Nach dem Besuch der Stephanskirche tauchen Sie in die farbenfrohe Welt der naiven Kunst ein. Mittags erfahren Sie alles über die Bienenzucht, bevor Sie am Nachmittag die Verteidigungsgeschichte der Insel am Slavić-Turm erkunden. Der Tag endet friedlich bei den antiken Überresten im Dorfzentrum.",
+        "hu": "A reggel Grohote kanyargós utcáin kezdődik, ahol megállt az idő. A Szent István-templom után a naiv művészet színes világába csöppenhetünk. Délben megismerkedhetünk a méhészettel, majd délután a sziget védelmi múltját fedezhetjük fel a Slavić-toronynál. A nap békésen zárul a falu központjában található ókori maradványoknál.",
+        "ro": "Dimineața începe pe străduțele întortocheate din Grohote, unde timpul pare să stea în loc. După biserica Sf. Ștefan, intrați în lumea colorată a artei naive. La prânz aflați totul despre apicultură, iar după-amiaza explorați istoria defensivă a insulei la turnul Slavić. Ziua se încheie liniștit lângă vestigiile antice din centrul satului.",
+        "en": "Your morning starts in the winding alleys of Grohote, where time seems to stand still. After visiting St. Stephen's Church, dive into the colorful world of naive art. At midday, learn about beekeeping before exploring the island's defensive history at the Slavić Tower in the afternoon. The day ends peacefully by the ancient remains in the village center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olintia",
+            "tip": "Probieren Sie erstklassiges Olivenöl aus Šolta."
+          },
+          {
+            "name": "Lokalni Med",
+            "tip": "Rosmarinhonig direkt beim Imker kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olintia",
+            "tip": "Kóstoljon prémium minőségű Šolta-i olívaolajat."
+          },
+          {
+            "name": "Lokalni Med",
+            "tip": "Vásároljon rozmaringmézet közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Olintia",
+            "tip": "Gustați ulei de măsline premium din Šolta."
+          },
+          {
+            "name": "Lokalni Med",
+            "tip": "Cumpărați miere de rozmarin direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olintia",
+            "tip": "Try premium olive oil from Šolta."
+          },
+          {
+            "name": "Lokalni Med",
+            "tip": "Buy rosemary honey directly from the beekeeper."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof der Bratska kuća",
+            "tip": "Ein ruhiger Ort für Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olivenhaine um Grohote",
+            "tip": "Spaziergang in der Natur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bratska kuća udvara",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Grohote környéki olajfaligetek",
+            "tip": "Természeti séta.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bratska kuća",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Livezile de măslini",
+            "tip": "Plimbare în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bratska kuća Courtyard",
+            "tip": "A quiet spot for reflection.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olive groves around Grohote",
+            "tip": "Nature walk.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honigladen Tvrdic",
+            "tip": "Hausgemachter Honig und Kerzen."
+          },
+          {
+            "name": "Galerie Souvenirs",
+            "tip": "Naive Kunst-Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tvrdic mézbolt",
+            "tip": "Házi méz és gyertyák."
+          },
+          {
+            "name": "Galéria Szuvenír",
+            "tip": "Naiv művészeti képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul de miere Tvrdic",
+            "tip": "Miere de casă și lumânări."
+          },
+          {
+            "name": "Suveniruri Galerie",
+            "tip": "Vederi cu artă naivă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tvrdic Honey Shop",
+            "tip": "Homemade honey and candles."
+          },
+          {
+            "name": "Gallery Souvenirs",
+            "tip": "Naive art postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Grohote ist das älteste Dorf der Insel und ideal zu Fuß erkundbar.",
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Die Imkerei erfordert oft eine vorherige Anmeldung für Touren.",
+          "Mittagsruhe beachten: Viele kleine Läden schließen zwischen 13 und 17 Uhr."
+        ],
+        "hu": [
+          "Grohote a sziget legrégebbi faluja, gyalogosan tökéletesen bejárható.",
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "A méhészethez gyakran előzetes bejelentkezés szükséges a túrákhoz.",
+          "Figyeljen a sziesztára: sok kisbolt zárva tart 13 és 17 óra között."
+        ],
+        "ro": [
+          "Grohote este cel mai vechi sat de pe insulă, ideal de explorat la pas.",
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Apicultura necesită adesea programare prealabilă pentru tururi.",
+          "Respectați programul de prânz: multe magazine închid între 13 și 17."
+        ],
+        "en": [
+          "Grohote is the oldest village on the island, perfectly explored on foot.",
+          "Wear comfortable shoes for the cobblestone streets.",
+          "The honey farm often requires advance booking for tours.",
+          "Mind the midday break: many small shops close between 1 pm and 5 pm."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt von Grohote",
+          "coords": [
+            16.2944,
+            43.3833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im historischen Zentrum.",
+            "hu": "Kiindulópont a történelmi központban.",
+            "ro": "Punct de plecare în centrul istoric.",
+            "en": "Starting point in the historic center."
+          }
+        },
+        {
+          "name": "Kirche St. Michael",
+          "coords": [
+            16.31,
+            43.375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kleine Kirche auf einem Hügel mit schöner Aussicht.",
+            "hu": "Kis templom egy dombon, gyönyörű kilátással.",
+            "ro": "Biserică mică pe un deal cu vedere frumoasă.",
+            "en": "Small church on a hill with a nice view."
+          }
+        },
+        {
+          "name": "Pfarrkirche St. Stephan",
+          "coords": [
+            16.2938,
+            43.3838
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigung der Hauptkirche nach der Rückfahrt.",
+            "hu": "A főtemplom megtekintése a visszautat követően.",
+            "ro": "Vizitarea bisericii principale după întoarcere.",
+            "en": "Visiting the main church after the return ride."
+          }
+        },
+        {
+          "name": "Galerie Eugen Buktenica",
+          "coords": [
+            16.2955,
+            43.3828
+          ],
+          "category": "museums",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kunstpause im Schatten.",
+            "hu": "Művészeti pihenő az árnyékban.",
+            "ro": "Pauză de artă la umbră.",
+            "en": "Art break in the shade."
+          }
+        },
+        {
+          "name": "Imkerei Tvrdic",
+          "coords": [
+            16.296,
+            43.384
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Energieschub mit lokalem Honig.",
+            "hu": "Energialöket helyi mézzel.",
+            "ro": "Plus de energie cu miere locală.",
+            "en": "Energy boost with local honey."
+          }
+        },
+        {
+          "name": "Festung Slavić",
+          "coords": [
+            16.294,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "16:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Blick über die Dächer von Grohote.",
+            "hu": "Utolsó pillantás Grohote háztetőire.",
+            "ro": "Ultima privire asupra acoperișurilor din Grohote.",
+            "en": "Last look over the roofs of Grohote."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie nicht nur das Dorf, sondern auch die hügelige Umgebung bis zur Michaelskirche. Nach der Rückkehr stehen Kunst und Genuss im Vordergrund.",
+        "hu": "Kerékpárral nemcsak a falut, hanem a dombos környéket is felfedezheti a Szent Mihály-templomig. Visszatérés után a művészeté és az élvezeteké a főszerep.",
+        "ro": "Cu bicicleta explorați nu doar satul, ci și împrejurimile deluroase până la biserica Sf. Mihail. După întoarcere, arta și deliciile locale sunt prioritare.",
+        "en": "By bike, you explore not only the village but also the hilly surroundings up to St. Michael's Church. After returning, art and local treats take center stage."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Šoltanski med",
+            "tip": "Ideal für den Transport im Rucksack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Šoltai méz",
+            "tip": "Ideális a hátizsákban való szállításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de Šolta",
+            "tip": "Ideală pentru transportul în rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Šolta honey",
+            "tip": "Ideal for carrying in a backpack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Michael Hügel",
+            "tip": "Panoramablick über die Insel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mihály-domb",
+            "tip": "Panorámás kilátás a szigetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Sf. Mihail",
+            "tip": "Privire panoramică asupra insulei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Michael Hill",
+            "tip": "Panoramic view over the island.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Fresh fruit for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind teils steinig, ein Mountainbike wird empfohlen.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Achten Sie auf den geringen Autoverkehr auf den Nebenstraßen."
+        ],
+        "hu": [
+          "Az utak helyenként kövesek, hegyi kerékpár ajánlott.",
+          "Vigyen magával elegendő vizet.",
+          "Figyeljen a mellékutak gyér autóforgalmára."
+        ],
+        "ro": [
+          "Drumurile sunt parțial pietroase, se recomandă mountain bike.",
+          "Luați suficientă apă cu voi.",
+          "Atenție la traficul auto redus de pe drumurile secundare."
+        ],
+        "en": [
+          "Paths are partly stony, mountain bikes are recommended.",
+          "Take plenty of water with you.",
+          "Watch out for light car traffic on side roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt von Grohote",
+          "coords": [
+            16.2944,
+            43.3833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang.",
+            "hu": "Parkoljon a falu bejáratánál.",
+            "ro": "Parcați la intrarea în sat.",
+            "en": "Park at the village entrance."
+          }
+        },
+        {
+          "name": "Kirche St. Michael",
+          "coords": [
+            16.31,
+            43.375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Abgelegene Kirche, gut erreichbar mit dem Auto.",
+            "hu": "Félreeső templom, autóval jól megközelíthető.",
+            "ro": "Biserică izolată, ușor accesibilă cu mașina.",
+            "en": "Remote church, easily accessible by car."
+          }
+        },
+        {
+          "name": "Imkerei Tvrdic",
+          "coords": [
+            16.296,
+            43.384
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Große Parkmöglichkeiten direkt vor Ort.",
+            "hu": "Nagy parkolási lehetőség közvetlenül a helyszínen.",
+            "ro": "Posibilități mari de parcare direct la fața locului.",
+            "en": "Ample parking available directly on site."
+          }
+        },
+        {
+          "name": "Galerie Eugen Buktenica",
+          "coords": [
+            16.2955,
+            43.3828
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Atelier des Neffen des Künstlers.",
+            "hu": "Látogassa meg a művész unokaöccsének műtermét.",
+            "ro": "Vizitați atelierul nepotului artistului.",
+            "en": "Visit the studio of the artist's nephew."
+          }
+        },
+        {
+          "name": "Festung Slavić",
+          "coords": [
+            16.294,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz zum Turm.",
+            "hu": "Rövid séta a parkolótól a toronyig.",
+            "ro": "Scurtă plimbare de la parcare la turn.",
+            "en": "Short walk from the parking lot to the tower."
+          }
+        },
+        {
+          "name": "Bratska kuća",
+          "coords": [
+            16.2942,
+            43.3835
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kultureller Abschluss des Tages.",
+            "hu": "A nap kulturális lezárása.",
+            "ro": "Finalul cultural al zilei.",
+            "en": "Cultural conclusion of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht Ihnen den Besuch der etwas weiter entfernten Michaelskirche, bevor Sie das kulturelle Herz von Grohote erkunden.",
+        "hu": "Az autó lehetővé teszi a kicsit távolabb fekvő Szent Mihály-templom meglátogatását, mielőtt felfedezné Grohote kulturális szívét.",
+        "ro": "Mașina vă permite să vizitați biserica Sf. Mihail, situată puțin mai departe, înainte de a explora inima culturală din Grohote.",
+        "en": "The car allows you to visit the slightly more distant St. Michael's Church before exploring the cultural heart of Grohote."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Verkostung",
+            "tip": "Mit dem Auto lassen sich größere Mengen gut transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj-kóstoló",
+            "tip": "Autóval a nagyobb mennyiségek is könnyen szállíthatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Degustare de ulei",
+            "tip": "Cu mașina, cantitățile mai mari sunt ușor de transportat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil tasting",
+            "tip": "Larger quantities are easily transported by car."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz am Hügel",
+            "tip": "Sonnenuntergang über den Feldern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dombi parkoló",
+            "tip": "Naplemente a mezők felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea de pe deal",
+            "tip": "Apus de soare peste câmpuri.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hillside parking",
+            "tip": "Sunset over the fields.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Insel-Kooperative",
+            "tip": "Alle Produkte der Insel an einem Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti szövetkezet",
+            "tip": "A sziget minden terméke egy helyen."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cooperativa insulei",
+            "tip": "Toate produsele insulei într-un singur loc."
+          }
+        ],
+        "en": [
+          {
+            "name": "Island cooperative",
+            "tip": "All island products in one place."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in Grohote sind eng, nutzen Sie die Außenparkplätze.",
+          "Tanken Sie auf dem Festland, Tankstellen auf der Insel sind selten.",
+          "Achten Sie auf Wanderer auf den schmalen Straßen."
+        ],
+        "hu": [
+          "Grohote utcái szűkek, használja a külső parkolókat.",
+          "Tankoljon a szárazföldön, a szigeten ritkák a benzinkutak.",
+          "Figyeljen a gyalogosokra a keskeny utakon."
+        ],
+        "ro": [
+          "Străzile din Grohote sunt înguste, folosiți parcările exterioare.",
+          "Alimentați pe continent, benzinăriile sunt rare pe insulă.",
+          "Atenție la drumeți pe drumurile înguste."
+        ],
+        "en": [
+          "Streets in Grohote are narrow, use outer parking lots.",
+          "Fuel up on the mainland, gas stations are rare on the island.",
+          "Watch out for hikers on narrow roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Hafen von Rogač (Transit-Hub)",
+          "coords": [
+            16.299,
+            43.394
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Hier kommen die Fähren und Busse an.",
+            "hu": "Itt érkeznek a kompok és buszok.",
+            "ro": "Aici sosesc feriboturile și autobuzele.",
+            "en": "This is where ferries and buses arrive."
+          }
+        },
+        {
+          "name": "Altstadt von Grohote",
+          "coords": [
+            16.2944,
+            43.3833
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Der Bus hält direkt im Zentrum.",
+            "hu": "A busz közvetlenül a központban áll meg.",
+            "ro": "Autobuzul oprește chiar în centru.",
+            "en": "The bus stops directly in the center."
+          }
+        },
+        {
+          "name": "Galerie Eugen Buktenica",
+          "coords": [
+            16.2955,
+            43.3828
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Busstopp erreichbar.",
+            "hu": "Gyalogosan elérhető a buszmegállótól.",
+            "ro": "Accesibil pe jos de la stația de autobuz.",
+            "en": "Accessible on foot from the bus stop."
+          }
+        },
+        {
+          "name": "Imkerei Tvrdic",
+          "coords": [
+            16.296,
+            43.384
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einfacher Weg durch das Dorf.",
+            "hu": "Egyszerű útvonal a falun keresztül.",
+            "ro": "Drum simplu prin sat.",
+            "en": "Simple path through the village."
+          }
+        },
+        {
+          "name": "Festung Slavić",
+          "coords": [
+            16.294,
+            43.3845
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Stop vor der Rückfahrt zum Hafen.",
+            "hu": "Utolsó megálló a kikötőbe való visszatérés előtt.",
+            "ro": "Ultima oprire înainte de întoarcerea în port.",
+            "en": "Last stop before returning to the port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Inselbus erreichen Sie Grohote bequem vom Fährhafen Rogač aus. Ein Tag voller Kultur und Tradition erwartet Sie.",
+        "hu": "A szigeti busszal kényelmesen elérheti Grohotét a rogači kompkikötőből. Kulturális és hagyományőrző nap vár Önre.",
+        "ro": "Cu autobuzul insulei ajungeți confortabil în Grohote din portul Rogač. Vă așteaptă o zi plină de cultură și tradiție.",
+        "en": "With the island bus, you can easily reach Grohote from the Rogač ferry port. A day full of culture and tradition awaits you."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick-Zutaten",
+            "tip": "Kaufen Sie lokale Produkte im Laden in Grohote."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknik alapanyagok",
+            "tip": "Vásároljon helyi termékeket a grohotei boltban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ingrediente pentru picnic",
+            "tip": "Cumpărați produse locale din magazinul din Grohote."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic supplies",
+            "tip": "Buy local products at the shop in Grohote."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park an der Bushaltestelle",
+            "tip": "Beobachten Sie das Dorfleben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park a buszmegállónál",
+            "tip": "Figyelje a falu életét.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă stație",
+            "tip": "Urmăriți viața satului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park by the bus stop",
+            "tip": "Watch the village life.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfbäckerei",
+            "tip": "Frisches Brot für die Rückreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi pékség",
+            "tip": "Friss kenyér a visszaútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria satului",
+            "tip": "Pâine proaspătă pentru drumul de întoarcere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village bakery",
+            "tip": "Fresh bread for the return journey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse sind auf die Fährzeiten abgestimmt.",
+          "Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Der Fahrplan hängt an der zentralen Haltestelle in Grohote aus."
+        ],
+        "hu": [
+          "A buszok a kompok menetrendjéhez igazodnak.",
+          "Jegyek közvetlenül a sofőrnél válthatók.",
+          "A menetrend ki van függesztve a grohotei központi megállóban."
+        ],
+        "ro": [
+          "Autobuzele sunt corelate cu orarul feribotului.",
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Mersul autobuzelor este afișat în stația centrală din Grohote."
+        ],
+        "en": [
+          "Buses are synchronized with ferry times.",
+          "Tickets can be bought directly from the driver.",
+          "The timetable is posted at the central bus stop in Grohote."
+        ]
+      }
+    }
+  }
+}

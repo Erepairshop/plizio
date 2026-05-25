@@ -1,0 +1,868 @@
+{
+  "city_id": "velebit-sveti-juraj",
+  "anchor": {
+    "name": "Velebit (Sveti Juraj)",
+    "coords": [
+      14.9264,
+      44.9217
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Kirche St. Georg",
+          "coords": [
+            14.926,
+            44.922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historische Kirche im Zentrum des Küstenortes.",
+            "hu": "Történelmi templom a parti település központjában.",
+            "ro": "Biserică istorică în centrul localității de coastă.",
+            "en": "Historic church in the center of the coastal village."
+          }
+        },
+        {
+          "name": "Kirche St. Philipp und Jakob",
+          "coords": [
+            14.928,
+            44.92
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Alte Steinkirche mit Blick auf das Meer.",
+            "hu": "Régi kőtemplom kilátással a tengerre.",
+            "ro": "Biserică veche de piatră cu vedere la mare.",
+            "en": "Old stone church with sea views."
+          }
+        },
+        {
+          "name": "Infozentrum Nord-Velebit",
+          "coords": [
+            14.924,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Interaktive Ausstellung über den Nationalpark.",
+            "hu": "Interaktív kiállítás a nemzeti parkról.",
+            "ro": "Expoziție interactivă despre parcul național.",
+            "en": "Interactive exhibition about the national park."
+          }
+        },
+        {
+          "name": "Strand von Sveti Juraj",
+          "coords": [
+            14.925,
+            44.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kiesstrand mit kristallklarem, kühlem Wasser.",
+            "hu": "Kavicsos strand kristálytiszta, hűvös vízzel.",
+            "ro": "Plajă cu pietriș și apă cristalină, răcoroasă.",
+            "en": "Pebble beach with crystal clear, cool water."
+          }
+        },
+        {
+          "name": "Botanischer Garten Velebit",
+          "coords": [
+            14.97,
+            44.81
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "In Sveti Juraj gibt es ein kleines Arboretum am Meer.",
+            "hu": "Sveti Jurajban egy kis parti arborétum is vár.",
+            "ro": "În Sveti Juraj există un mic arboretum la malul mării.",
+            "en": "In Sveti Juraj, there's a small coastal arboretum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sveti Juraj ist das Tor zum Velebit am Meer. Ihr Spaziergang führt Sie durch den historischen Ortskern zu den Kirchen St. Georg und St. Philipp und Jakob. Nachmittags erfahren Sie im Infozentrum alles über die Flora und Fauna des Berges, bevor Sie den Tag entspannt am Kiesstrand ausklingen lassen.",
+        "hu": "Sveti Juraj a Velebit tengerparti kapuja. Sétád a történelmi faluközponton át vezet a Szent György és a Szent Fülöp és Jakab templomokhoz. Délután az információs központban mindent megtudhatsz a hegy élővilágáról, mielőtt a napot a kavicsos strandon zárnád.",
+        "ro": "Sveti Juraj este poarta de la mare spre Velebit. Plimbarea vă poartă prin centrul istoric către bisericile Sf. Gheorghe și Sf. Filip și Iacob. După-amiaza aflați totul despre flora și fauna muntelui la centrul info, înainte de a încheia ziua relaxat pe plaja cu pietriș.",
+        "en": "Sveti Juraj is the coastal gateway to Velebit. Your walk takes you through the historic village center to the churches of St. George and St. Philip and James. In the afternoon, learn all about the mountain's flora and fauna at the info center before ending the day relaxed on the pebble beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Mul",
+            "tip": "Frischer Fisch und Meerblick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Mul",
+            "tip": "Friss halételek és tengeri panoráma."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Mul",
+            "tip": "Pește proaspăt și vedere la mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Mul",
+            "tip": "Fresh fish and sea views."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mauer an der Kirche",
+            "tip": "Blick auf die Insel Krk.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom fala",
+            "tip": "Kilátás a Krk-szigetre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidul bisericii",
+            "tip": "Vedere spre insula Krk.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church wall",
+            "tip": "View of Krk island.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Velebit-Honig und Salbei."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Velebiti méz és zsálya."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Miere de Velebit și salvie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Velebit honey and sage."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Wasser hier ist kühler durch Unterwasserquellen.",
+          "Bringen Sie Wasserschuhe für den Kiesstrand mit.",
+          "Parken ist im Sommer im Zentrum begrenzt.",
+          "Sveti Juraj ist oft windig (Bura)."
+        ],
+        "hu": [
+          "A víz itt hűvösebb a tenger alatti források miatt.",
+          "Hozz vízi cipőt a kavicsos strandhoz.",
+          "Nyáron a parkolás korlátozott a központban.",
+          "Sveti Jurajban gyakran fúj a szél (Bura)."
+        ],
+        "ro": [
+          "Apa este mai rece aici din cauza izvoarelor submarine.",
+          "Aduceți încălțăminte de apă pentru plaja cu pietriș.",
+          "Parcarea este limitată în centru pe timpul verii.",
+          "În Sveti Juraj bate des vântul (Bura)."
+        ],
+        "en": [
+          "The water is cooler here due to underwater springs.",
+          "Bring water shoes for the pebble beach.",
+          "Parking is limited in the center during summer.",
+          "Sveti Juraj is often windy (Bura)."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Strand von Sveti Juraj",
+          "coords": [
+            14.925,
+            44.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour entlang der Küstenstraße.",
+            "hu": "Indítsd a túrát a tengerparti út mentén.",
+            "ro": "Începeți tura de-a lungul drumului de coastă.",
+            "en": "Start your tour along the coastal road."
+          }
+        },
+        {
+          "name": "Bucht Zavratnica",
+          "coords": [
+            14.898,
+            44.7
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Einer der schönsten Fjorde der Adria, Schiffswrack sichtbar.",
+            "hu": "Az Adria egyik legszebb fjordja, roncs is látható.",
+            "ro": "Unul dintre cele mai frumoase fjorduri, epavă vizibilă.",
+            "en": "One of the Adriatic's most beautiful fjords, shipwreck visible."
+          }
+        },
+        {
+          "name": "Kirche St. Georg",
+          "coords": [
+            14.926,
+            44.922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt nach der Rückfahrt.",
+            "hu": "Központi találkozóhely a visszaút után.",
+            "ro": "Punct central de întâlnire după drumul de întors.",
+            "en": "Central meeting point after the ride back."
+          }
+        },
+        {
+          "name": "Infozentrum Nord-Velebit",
+          "coords": [
+            14.924,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal zur Abkühlung in der Mittagshitze.",
+            "hu": "Ideális hűsölésre a déli hőségben.",
+            "ro": "Ideal pentru răcorire în timpul amiezii.",
+            "en": "Ideal for cooling down during the midday heat."
+          }
+        },
+        {
+          "name": "Premužić-Wanderweg",
+          "coords": [
+            14.97,
+            44.81
+          ],
+          "category": "natural features",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein Teil des Weges ist für erfahrene Radfahrer zugänglich.",
+            "hu": "Az út egy része tapasztalt bringásoknak járható.",
+            "ro": "O parte a drumului e accesibilă bicicliștilor experimentați.",
+            "en": "Part of the trail is accessible to experienced cyclists."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie die dramatische Küste und die Ausläufer des Velebit. Die Fahrt zur Bucht Zavratnica ist ein Muss, wo Sie im kristallklaren Wasser ein versunkenes Schiff sehen können. Nach der anstrengenden Küstentour kehren Sie nach Sveti Juraj zurück, besuchen das Infozentrum und schnuppern am Premužić-Weg Höhenluft.",
+        "hu": "Kerékpárral átélheted a drámai tengerpartot és a Velebit lábait. A Zavratnica-öbölbe tett út kötelező, ahol a kristálytiszta vízben egy elsüllyedt hajót is láthatsz. A fárasztó parti túra után visszatérsz Sveti Jurajba, meglátogatod az információs központot, majd a Premužić-úton szippantasz a hegyi levegőbe.",
+        "ro": "Cu bicicleta experimentați coasta dramatică și poalele Velebitului. Drumul spre golful Zavratnica este obligatoriu, unde puteți vedea o epavă în apa cristalină. După tura solicitantă de coastă, reveniți în Sveti Juraj, vizitați centrul info și simțiți aerul de munte pe drumul Premužić.",
+        "en": "By bike, you experience the dramatic coast and the foothills of Velebit. The trip to Zavratnica Bay is a must, where you can see a sunken ship in crystal clear water. After the strenuous coastal tour, return to Sveti Juraj, visit the info center, and get a taste of mountain air on the Premužić path."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Goli Otok",
+            "tip": "Frittierte Calamari und kühles Pivo."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Goli Otok",
+            "tip": "Rántott tintahal és hideg sör."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Goli Otok",
+            "tip": "Calamari prăjiți și bere rece."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Goli Otok",
+            "tip": "Fried calamari and cold beer."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Zavratnica",
+            "tip": "Stille über dem versunkenen Schiff.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zavratnica kilátó",
+            "tip": "Csend az elsüllyedt hajó felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Zavratnica",
+            "tip": "Liniște deasupra epavei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zavratnica Viewpoint",
+            "tip": "Silence above the sunken ship.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Lokale Postkarten und Wanderkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői kioszk",
+            "tip": "Helyi képeslapok és turistatérképek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc port",
+            "tip": "Vederi locale și hărți turistice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Local postcards and hiking maps."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße hat viel Verkehr, fahren Sie vorsichtig.",
+          "Der Zugang zur Zavratnica kostet eine kleine Gebühr.",
+          "Nehmen Sie viel Wasser mit, es gibt wenig Schatten.",
+          "Ein Mountainbike ist für Velebit-Wege nötig."
+        ],
+        "hu": [
+          "A parti úton nagy a forgalom, óvatosan tekerj.",
+          "A Zavratnica-öbölbe belépőt kell fizetni.",
+          "Vigyél sok vizet, kevés az árnyék.",
+          "A velebiti utakhoz hegyi kerékpár szükséges."
+        ],
+        "ro": [
+          "Drumul de coastă are trafic intens, pedalați cu atenție.",
+          "Accesul la Zavratnica costă o mică taxă.",
+          "Luați multă apă, este puțină umbră.",
+          "O bicicletă MTB e necesară pentru drumurile din Velebit."
+        ],
+        "en": [
+          "The coastal road has heavy traffic, ride carefully.",
+          "Access to Zavratnica costs a small fee.",
+          "Take plenty of water, there is little shade.",
+          "A mountain bike is necessary for Velebit paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 45.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Infozentrum Nord-Velebit",
+          "coords": [
+            14.924,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Holen Sie sich hier Tipps für die Fahrt zum Zavižan.",
+            "hu": "Kérj tippeket a Zavižan felé vezető úthoz.",
+            "ro": "Cereți sfaturi pentru drumul spre Zavižan.",
+            "en": "Get tips for the drive to Zavižan here."
+          }
+        },
+        {
+          "name": "Wetterstation Zavižan",
+          "coords": [
+            14.98,
+            44.814
+          ],
+          "category": "natural features",
+          "arrive_at": "11:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 30.0,
+          "tip_5lang": {
+            "de": "Höchste Wetterstation Kroatiens, spektakulärer Blick.",
+            "hu": "Horvátország legmagasabb meteorológiai állomása, pazar kilátás.",
+            "ro": "Cea mai înaltă stație meteo din Croația, vedere spectaculoasă.",
+            "en": "Highest weather station in Croatia, spectacular view."
+          }
+        },
+        {
+          "name": "Botanischer Garten Velebit",
+          "coords": [
+            14.975,
+            44.81
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Einzigartige Flora des Velebit in einer natürlichen Senke.",
+            "hu": "A Velebit egyedülálló flórája egy természetes mélyedésben.",
+            "ro": "Flora unică a Velebitului într-o depresiune naturală.",
+            "en": "Unique Velebit flora in a natural sinkhole."
+          }
+        },
+        {
+          "name": "Premužić-Wanderweg",
+          "coords": [
+            14.97,
+            44.81
+          ],
+          "category": "natural features",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie ein kurzes Stück dieses Meisterwerks.",
+            "hu": "Sétálj egy rövid szakaszt ezen a mérnöki remekművön.",
+            "ro": "Parcurgeți o scurtă porțiune din această capodoperă.",
+            "en": "Walk a short section of this engineering masterpiece."
+          }
+        },
+        {
+          "name": "Bucht Zavratnica",
+          "coords": [
+            14.898,
+            44.7
+          ],
+          "category": "natural features",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 20.0,
+          "tip_5lang": {
+            "de": "Vom Parkplatz in Jablanac in 15 Min zu Fuß erreichbar.",
+            "hu": "A jablanaci parkolótól 15 perc gyalog.",
+            "ro": "Accesibil în 15 min de la parcarea din Jablanac.",
+            "en": "Accessible in 15 min from Jablanac parking."
+          }
+        },
+        {
+          "name": "Strand von Sveti Juraj",
+          "coords": [
+            14.925,
+            44.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Letzte Abkühlung vor der Heimreise.",
+            "hu": "Utolsó csobbanás a hazaindulás előtt.",
+            "ro": "Ultima răcorire înainte de plecare.",
+            "en": "Last dip before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt Ihnen den Aufstieg von Null auf 1600 Meter. Nach dem Infozentrum in Sveti Juraj fahren Sie hoch zum Zavižan, wo Sie eine kühle Brise und Alpengarten-Flora erwarten. Der Premužić-Weg bietet sanfte Wanderungen mit Gipfelblick. Am späten Nachmittag kehren Sie an die Küste zurück und besuchen die fjordähnliche Bucht Zavratnica.",
+        "hu": "Az autó lehetővé teszi a felemelkedést nulláról 1600 méterre. A Sveti Juraj-i infó után felhajtasz a Zavižanhoz, ahol hűvös szellő és alpesi flóra vár. A Premužić-út szelíd túrázást kínál csúcsokkal. Késő délután visszatérsz a partra, és meglátogatod a fjordszerű Zavratnica-öblöt.",
+        "ro": "Mașina vă permite urcarea de la zero la 1600 metri. După centrul info din Sveti Juraj, urcați la Zavižan, unde vă așteaptă briza rece și flora alpină. Drumul Premužić oferă drumeții ușoare cu vedere la vârfuri. După-amiaza târziu reveniți la coastă pentru a vizita golful Zavratnica.",
+        "en": "The car allows you to ascend from zero to 1600 meters. After the info center in Sveti Juraj, drive up to Zavižan, where a cool breeze and alpine flora await. The Premužić path offers gentle hiking with peak views. In the late afternoon, return to the coast to visit the fjord-like Zavratnica Bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Planinarski dom Zavižan",
+            "tip": "Einfache Bergmannskost und Tee aus Velebit-Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Planinarski dom Zavižan",
+            "tip": "Egyszerű hegyi ételek és velebiti gyógytea."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Planinarski dom Zavižan",
+            "tip": "Mâncare simplă de munte și ceai de plante locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zavižan Mountain Hut",
+            "tip": "Simple mountain food and Velebit herbal tea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel Vučjak",
+            "tip": "Panorama über alle Inseln der Nordadria.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vučjak-csúcs",
+            "tip": "Panoráma az összes észak-adriai szigetre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Vučjak",
+            "tip": "Panoramă peste toate insulele Adriaticii de Nord.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vučjak Peak",
+            "tip": "Panorama over all North Adriatic islands.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Oltari Honigstand",
+            "tip": "Berghonig von den Hängen des Velebit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oltari mézes stand",
+            "tip": "Hegyi méz a Velebit lejtőiről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand miere Oltari",
+            "tip": "Miere de munte de pe versanții Velebitului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oltari Honey Stand",
+            "tip": "Mountain honey from Velebit slopes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Zavižan ist teilweise steil und geschottert.",
+          "Oben ist es oft 10-15 Grad kühler als am Meer.",
+          "Die Parkgebühr für den Nationalpark gilt pro Person.",
+          "Fahren Sie vorsichtig bei Nebel."
+        ],
+        "hu": [
+          "A Zavižan felé vezető út helyenként meredek és kavicsos.",
+          "Fent gyakran 10-15 fokkal hűvösebb van, mint a tengeren.",
+          "A nemzeti parki belépőt személyenként kell fizetni.",
+          "Köd esetén vezess nagyon óvatosan."
+        ],
+        "ro": [
+          "Drumul spre Zavižan este parțial abrupt și cu pietriș.",
+          "Sus este adesea cu 10-15 grade mai rece decât la mare.",
+          "Taxa de intrare în parc se plătește pe persoană.",
+          "Conduceți cu atenție în caz de ceață."
+        ],
+        "en": [
+          "The road to Zavižan is partly steep and gravelled.",
+          "It's often 10-15 degrees cooler up there than at the sea.",
+          "The national park entry fee is per person.",
+          "Drive carefully in case of fog."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Kirche St. Georg",
+          "coords": [
+            14.926,
+            44.922
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bushaltestelle an der Hauptstraße nach Senj.",
+            "hu": "Buszmegálló a Senj felé vezető főúton.",
+            "ro": "Stație de autobuz pe drumul principal spre Senj.",
+            "en": "Bus stop on the main road to Senj."
+          }
+        },
+        {
+          "name": "Infozentrum Nord-Velebit",
+          "coords": [
+            14.924,
+            44.923
+          ],
+          "category": "museums",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Dorf aus leicht zu Fuß erreichbar.",
+            "hu": "A faluból gyalogosan könnyen elérhető.",
+            "ro": "Ușor accesibil pe jos din sat.",
+            "en": "Easily accessible on foot from the village."
+          }
+        },
+        {
+          "name": "Strand von Sveti Juraj",
+          "coords": [
+            14.925,
+            44.918
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nahegelegener Strand für transit-orientierte Besucher.",
+            "hu": "Közeli strand a tömegközlekedéssel érkezőknek.",
+            "ro": "Plajă apropiată pentru vizitatorii cu transport public.",
+            "en": "Nearby beach for transit-oriented visitors."
+          }
+        },
+        {
+          "name": "Kirche St. Philipp und Jakob",
+          "coords": [
+            14.928,
+            44.92
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Besuch vor der Busabfahrt.",
+            "hu": "Rövid látogatás a busz indulása előtt.",
+            "ro": "Scurtă vizită înainte de plecarea autobuzului.",
+            "en": "Short visit before the bus departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fernbus erreichen Sie Sveti Juraj an der Küstenstraße. Der Tag konzentriert sich auf den Ort selbst, das moderne Infozentrum und den Strand. Sie erleben die Mischung aus maritimem Flair und der Präsenz des mächtigen Velebit-Gebirges im Hintergrund, alles ohne eigenes Fahrzeug erreichbar.",
+        "hu": "A távolsági busszal a tengerparti úton érheted el Sveti Jurajt. A nap a településre, a modern információs központra és a strandolásra összpontosít. Átélheted a tengeri hangulat és a hatalmas Velebit-hegység közelségének keverékét, mindezt autó nélkül.",
+        "ro": "Cu autobuzul de cursă lungă ajungeți în Sveti Juraj pe drumul de coastă. Ziua se concentrează pe localitate, centrul info modern și plajă. Experimentați amestecul de farmec maritim și prezența munților Velebit în fundal, totul accesibil fără vehicul propriu.",
+        "en": "With the long-distance bus, you reach Sveti Juraj on the coastal road. The day focuses on the village itself, the modern info center, and the beach. You experience the mix of maritime flair and the presence of the mighty Velebit mountains in the background, all accessible without a private vehicle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Schnelle Snacks und Eiscreme am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Gyors harapnivalók és fagylalt a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Gustări rapide și înghețată în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Riva",
+            "tip": "Quick snacks and ice cream at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmauer",
+            "tip": "Beobachten Sie die kleinen Fischerboote.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői gát",
+            "tip": "Figyeld a kis halászhajókat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Observați micile bărci de pescuit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor wall",
+            "tip": "Watch the small fishing boats.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konzum Supermarkt",
+            "tip": "Alles Nötige für den Strandtag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzum szupermarket",
+            "tip": "Minden szükséges a strandoláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Konzum",
+            "tip": "Tot ce e necesar pentru o zi la plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konzum Supermarket",
+            "tip": "Everything needed for a beach day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse fahren regelmäßig nach Senj und Zadar.",
+          "Die Haltestelle ist nicht überdacht, Schatten suchen.",
+          "Fahrpläne hängen am Kiosk aus.",
+          "Tickets im Bus kaufen."
+        ],
+        "hu": [
+          "A buszok rendszeresen járnak Senj és Zadar felé.",
+          "A megálló nem fedett, keress árnyékot.",
+          "A menetrend a kioszknál van kifüggesztve.",
+          "Jegyet a buszon vegyél."
+        ],
+        "ro": [
+          "Autobuzele circulă regulat spre Senj și Zadar.",
+          "Stația nu este acoperită, căutați umbră.",
+          "Orarele sunt afișate la chioșc.",
+          "Cumpărați bilete în autobuz."
+        ],
+        "en": [
+          "Buses run regularly towards Senj and Zadar.",
+          "The stop is not covered, look for shade.",
+          "Schedules are posted at the kiosk.",
+          "Buy tickets on the bus."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "city_id": "gradac-makarska",
+  "anchor": {
+    "name": "Gradac",
+    "coords": [
+      17.3389,
+      43.1017
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lapidarium von Gradac",
+            "hu": "Gradaci Lapidárium",
+            "ro": "Lapidariul din Gradac",
+            "en": "Gradac Lapidarium"
+          },
+          "coords": [
+            17.3415,
+            43.1025
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Kleine Sammlung römischer Funde aus der Region.",
+            "hu": "A régió római kori leleteinek kis gyűjteménye.",
+            "ro": "Mică colecție de artefacte romane din regiune.",
+            "en": "Small collection of Roman finds from the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Michael",
+            "hu": "Szent Mihály templom",
+            "ro": "Biserica Sfântul Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            17.3422,
+            43.1032
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Die Kirche liegt auf einer kleinen Anhöhe.",
+            "hu": "A templom egy kis dombon található.",
+            "ro": "Biserica este situată pe o mică colină.",
+            "en": "The church is located on a small hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina Festung",
+            "hu": "Gradina erőd",
+            "ro": "Cetatea Gradina",
+            "en": "Gradina Fortress"
+          },
+          "coords": [
+            17.3435,
+            43.1045
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Überreste aus der Zeit des Kampfes gegen die Türken.",
+            "hu": "Maradványok a törökellenes harcok idejéből.",
+            "ro": "Rămășițe din timpul luptelor împotriva turcilor.",
+            "en": "Remains from the time of the struggle against the Turks."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade",
+            "hu": "Tengerparti sétány",
+            "ro": "Faleza",
+            "en": "Waterfront Promenade"
+          },
+          "coords": [
+            17.3405,
+            43.1012
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Zahlreiche Cafés laden zur Mittagspause ein.",
+            "hu": "Számos kávézó hívogat egy ebédszünetre.",
+            "ro": "Numeroase cafenele vă invită la o pauză de prânz.",
+            "en": "Numerous cafes invite you for a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Gornja Vala Strand",
+            "hu": "Gornja Vala strand",
+            "ro": "Plaja Gornja Vala",
+            "en": "Gornja Vala Beach"
+          },
+          "coords": [
+            17.3355,
+            43.0985
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Einer der längsten und schönsten Strände der Riviera.",
+            "hu": "A Riviéra egyik leghosszabb és legszebb strandja.",
+            "ro": "Una dintre cele mai lungi și frumoase plaje de pe rivieră.",
+            "en": "One of the longest and most beautiful beaches on the Riviera."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sveti Paško",
+            "hu": "Sveti Paško kilátó",
+            "ro": "Punct de belvedere Sveti Paško",
+            "en": "Sveti Paško Viewpoint"
+          },
+          "coords": [
+            17.3485,
+            43.1125
+          ],
+          "category": "natural features",
+          "arrive_at": "19:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Steiler Aufstieg, aber der Blick lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "Urcare abruptă, dar priveliștea merită.",
+            "en": "Steep climb, but the view is worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die reiche Geschichte von Gradac am südlichen Ende der Makarska Riviera. Der Vormittag gehört der Archäologie und der alten Festung Gradina. Mittags genießen Sie das lebhafte Treiben auf der kilometerlangen Uferpromenade. Der Nachmittag steht im Zeichen der Entspannung am Gornja Vala Strand, bevor Sie zum Aussichtspunkt Sveti Paško aufsteigen.",
+        "hu": "Fedezzük fel Gradac gazdag történelmét a Makarska Riviéra déli végén. A délelőtt a régészeté és a régi Gradina erődé. Délben élvezzük a pezsgő életet a kilométer hosszú tengerparti sétányon. A délután a pihenésé a Gornja Vala strandon, mielőtt felkapaszkodnánk a Sveti Paško kilátóhoz.",
+        "ro": "Descoperiți istoria bogată a localității Gradac, la capătul sudic al Rivierei Makarska. Dimineața este dedicată arheologiei și vechii cetăți Gradina. La prânz vă bucurați de animația de pe faleza lungă de kilometri. După-amiaza este dedicată relaxării pe plaja Gornja Vala, înainte de a urca la punctul de belvedere Sveti Paško.",
+        "en": "Discover the rich history of Gradac at the southern end of the Makarska Riviera. The morning is dedicated to archaeology and the old Gradina fortress. At noon, enjoy the lively atmosphere on the kilometer-long waterfront promenade. The afternoon is all about relaxation at Gornja Vala Beach, before climbing up to the Sveti Paško viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Traditionell in den Restaurants im Hinterland"
+          },
+          {
+            "name": "Makarska Torte",
+            "tip": "Süße Spezialität mit Mandeln"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "Hagyományos a háttérben lévő éttermekben"
+          },
+          {
+            "name": "Makarskai torta",
+            "tip": "Édes különlegesség mandulával"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "Tradițional în restaurantele din interior"
+          },
+          {
+            "name": "Tort Makarska",
+            "tip": "Specialitate dulce cu migdale"
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted Lamb",
+            "tip": "Traditional in the hinterland restaurants"
+          },
+          {
+            "name": "Makarska Cake",
+            "tip": "Sweet specialty with almonds"
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alter Friedhof",
+            "tip": "Stille unter alten Zypressen",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Steinleuchtturm",
+            "tip": "Ruhiger Platz zum Angeln und Schauen",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi temető",
+            "tip": "Csend az öreg ciprusok alatt",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Kővilágítótorony",
+            "tip": "Nyugodt hely horgászáshoz és nézelődéshez",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul vechi",
+            "tip": "Liniște sub chiparoșii bătrâni",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Farul de piatră",
+            "tip": "Loc liniștit pentru pescuit și admirat",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Cemetery",
+            "tip": "Silence under old cypresses",
+            "emoji": "⛪"
+          },
+          {
+            "name": "Stone Lighthouse",
+            "tip": "Quiet spot for fishing and viewing",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "Inselduft zum Mitnehmen"
+          },
+          {
+            "name": "Olivenholz-Produkte",
+            "tip": "Handgefertigte Küchenutensilien"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulazsákok",
+            "tip": "Szigeti illat elvitelre"
+          },
+          {
+            "name": "Olajfa termékek",
+            "tip": "Kézzel készített konyhai eszközök"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Parfum de insulă de luat acasă"
+          },
+          {
+            "name": "Produse din lemn de măslin",
+            "tip": "Ustensile de bucătărie lucrate manual"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender sachets",
+            "tip": "Island scent to take home"
+          },
+          {
+            "name": "Olive wood products",
+            "tip": "Handmade kitchen utensils"
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gradac ist idealer Ausgangspunkt für Ausflüge nach Mostar oder Dubrovnik.",
+          "Der Gornja Vala Strand hat feinen Kies, Badeschuhe sind dennoch ratsam.",
+          "Im Sommer gibt es viele Fischerabende mit Musik.",
+          "Parken ist im Zentrum oft schwierig, nutzen Sie Hotelparkplätze."
+        ],
+        "hu": [
+          "Gradac ideális kiindulópont Mostarba vagy Dubrovnikba történő kirándulásokhoz.",
+          "A Gornja Vala strand finomkavicsos, de úszócipő ajánlott.",
+          "Nyáron számos halászestet rendeznek zenével.",
+          "A parkolás a központban gyakran nehéz, használjuk a hotelparkolókat."
+        ],
+        "ro": [
+          "Gradac este un punct de plecare ideal pentru excursii la Mostar sau Dubrovnik.",
+          "Plaja Gornja Vala are pietriș fin, totuși încălțămintea de apă este recomandată.",
+          "Vara au loc multe seri pescărești cu muzică.",
+          "Parcarea în centru este adesea dificilă, folosiți parcările hotelurilor."
+        ],
+        "en": [
+          "Gradac is an ideal starting point for trips to Mostar or Dubrovnik.",
+          "Gornja Vala Beach has fine pebbles, but water shoes are still advisable.",
+          "In summer, there are many fisherman's evenings with music.",
+          "Parking in the center is often difficult, use hotel parking lots."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,982 @@
+{
+  "city_id": "slano",
+  "anchor": {
+    "name": "Slano Center",
+    "coords": [
+      17.8911,
+      42.7872
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Franziskanerkloster St. Hieronymus",
+            "hu": "Szent Jeromos ferences kolostor",
+            "ro": "Mănăstirea Franciscană Sf. Ieronim",
+            "en": "Franciscan Monastery of St. Jerome"
+          },
+          "coords": [
+            17.8905,
+            42.7865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den friedlichen Kreuzgang.",
+            "hu": "Nézze meg a csendes kerengőt.",
+            "ro": "Vizitați claustrul liniștit.",
+            "en": "Visit the peaceful cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori Palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            17.8915,
+            42.787
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein restauriertes Juwel der Republik Ragusa.",
+            "hu": "A Raguzai Köztársaság restaurált ékköve.",
+            "ro": "O bijuterie restaurată a Republicii Ragusa.",
+            "en": "A restored gem of the Republic of Ragusa."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Blasius",
+            "hu": "Szent Balázs plébániatemplom",
+            "ro": "Biserica Parohială Sf. Blasiu",
+            "en": "Parish Church of St. Blaise"
+          },
+          "coords": [
+            17.893,
+            42.7878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Altäre.",
+            "hu": "Figyelje meg a barokk oltárokat.",
+            "ro": "Admirați altarele baroce.",
+            "en": "Notice the baroque altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Sarkophage",
+            "hu": "Római szarkofágok",
+            "ro": "Sarcofage romane",
+            "en": "Roman Sarcophagi"
+          },
+          "coords": [
+            17.8912,
+            42.7862
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Antike Funde direkt vor dem Kloster.",
+            "hu": "Antik leletek közvetlenül a kolostor előtt.",
+            "ro": "Descoperiri antice chiar în fața mănăstirii.",
+            "en": "Ancient finds right in front of the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grgurići",
+            "hu": "Grgurići strand",
+            "ro": "Plaja Grgurići",
+            "en": "Grgurići Beach"
+          },
+          "coords": [
+            17.885,
+            42.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ideal für Familien mit flachem Wasser.",
+            "hu": "Ideális családoknak a sekély víz miatt.",
+            "ro": "Ideal pentru familii datorită apei puțin adânci.",
+            "en": "Ideal for families with shallow water."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Slano",
+            "hu": "Slano kikötő",
+            "ro": "Marina Slano",
+            "en": "Slano Marina"
+          },
+          "coords": [
+            17.895,
+            42.7845
+          ],
+          "category": "port",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekt für einen Drink zum Sonnenuntergang.",
+            "hu": "Tökéletes egy italhoz naplementekor.",
+            "ro": "Perfect pentru o băutură la apus.",
+            "en": "Perfect for a drink at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im spirituellen Zentrum Slanos am Franziskanerkloster, umgeben von Geschichte und antiken Sarkophagen. Mittags erkunden Sie die prächtige Architektur des Rektorenpalastes und die barocke St. Blasius Kirche.\nDen Nachmittag verbringen Sie entspannt am Strand Grgurići, wo das klare Wasser zur Erfrischung einlädt. Der Abend klingt elegant an der modernen Marina aus, während die Yachten im Hafen schaukeln.",
+        "hu": "A nap Slano spirituális központjában, a ferences kolostornál kezdődik, történelem és antik szarkofágok gyűrűjében. Délben felfedezzük a Rektori Palota pompás építészetét és a barokk Szent Balázs templomot.\nA délutánt pihenéssel töltjük a Grgurići strandon, ahol a tiszta víz hűsítő élményt nyújt. Az este elegánsan zárul a modern kikötőben, miközben a jachtok ringatóznak az öbölben.",
+        "ro": "Ziua începe în centrul spiritual din Slano, la mănăstirea franciscană, înconjurată de istorie și sarcofage antice. La prânz, explorați arhitectura magnifică a Palatului Rectorului și biserica barocă Sf. Blasiu.\nDupă-amiaza este dedicată relaxării pe plaja Grgurići, unde apa limpede vă invită la răcorire. Seara se încheie elegant la marina modernă, în timp ce iahturile se leagănă în port.",
+        "en": "The day starts in the spiritual center of Slano at the Franciscan monastery, surrounded by history and ancient sarcophagi. At noon, explore the magnificent architecture of the Rector's Palace and the baroque St. Blaise Church.\nSpend the afternoon relaxing at Grgurići beach, where the clear water invites you for a dip. The evening ends elegantly at the modern marina as yachts sway in the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gastro Slano",
+            "tip": "Probieren Sie frische Austern aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gastro Slano",
+            "tip": "Kóstolja meg a helyi friss osztrigát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gastro Slano",
+            "tip": "Încercați stridiile proaspete din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gastro Slano",
+            "tip": "Try fresh local oysters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche St. Rochus",
+            "tip": "Ein ruhiger Aussichtspunkt über die Bucht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Rókus templom",
+            "tip": "Csendes kilátópont az öböl felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Rochus",
+            "tip": "Un punct de observație liniștit asupra golfului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Rochus Church",
+            "tip": "A quiet viewpoint over the bay.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt",
+            "tip": "Olivenöl und Honig von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Olívaolaj és méz helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Ulei de măsline și miere de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Olive oil and honey from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Erkundung des Palastes.",
+          "Reservieren Sie in der Marina einen Tisch für den Abend."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a palota bejárásához.",
+          "Foglaljon asztalt a kikötőben estére."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru explorarea palatului.",
+          "Rezervați o masă la marină pentru seară."
+        ],
+        "en": [
+          "Wear comfortable shoes for exploring the palace.",
+          "Book a table at the marina for the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Slano",
+            "hu": "Slano kikötő",
+            "ro": "Marina Slano",
+            "en": "Slano Marina"
+          },
+          "coords": [
+            17.895,
+            42.7845
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Guter Startpunkt für Radtouren.",
+            "hu": "Jó kiindulópont kerékpártúrákhoz.",
+            "ro": "Un punct bun de plecare pentru trasee.",
+            "en": "Good starting point for bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommerhaus Ohmučević",
+            "hu": "Ohmučević nyaraló",
+            "ro": "Casa de vară Ohmučević",
+            "en": "Ohmučević Summer House"
+          },
+          "coords": [
+            17.8885,
+            42.7855
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Historischer Adelssitz am Meer.",
+            "hu": "Történelmi nemesi rezidencia a tengernél.",
+            "ro": "Reședință nobiliară istorică la mare.",
+            "en": "Historic noble residence by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Rochus",
+            "hu": "Szent Rókus templom",
+            "ro": "Biserica Sf. Rochus",
+            "en": "St. Rochus Church"
+          },
+          "coords": [
+            17.8965,
+            42.789
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Anstieg, tolle Aussicht.",
+            "hu": "Rövid emelkedő, remek kilátás.",
+            "ro": "Urcare scurtă, vedere excelentă.",
+            "en": "Short climb, great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grgurići",
+            "hu": "Grgurići strand",
+            "ro": "Plaja Grgurići",
+            "en": "Grgurići Beach"
+          },
+          "coords": [
+            17.885,
+            42.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrradständer sind vorhanden.",
+            "hu": "Kerékpártárolók elérhetőek.",
+            "ro": "Există suporturi pentru biciclete.",
+            "en": "Bike racks are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori Palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            17.8915,
+            42.787
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besichtigung zum Abschluss.",
+            "hu": "Megtekintés befejezésként.",
+            "ro": "Vizită la finalul turului.",
+            "en": "Visit as the finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden Sie die gesamte Bucht von Slano, angefangen bei der Marina bis zum historischen Ohmučević Sommerhaus. Ein kleiner Anstieg zur St. Rochus Kirche belohnt mit Panoramablicken.\nNachmittags genießen Sie die Freiheit auf zwei Rädern am Weg zum Grgurići Strand für eine lange Badepause. Der Tag endet kulturell mit der Besichtigung des beeindruckenden Rektorenpalastes.",
+        "hu": "Kerékpárral fedezzük fel a Slano-öböl egészét, a kikötőtől kezdve a történelmi Ohmučević nyaralóig. Egy kis emelkedő a Szent Rókus templomhoz panorámás kilátással jutalmaz.\nDélután élvezze a szabadságot két keréken a Grgurići strand felé vezető úton egy hosszú fürdőzésre. A nap kulturális élménnyel zárul a lenyűgöző Rektori Palota meglátogatásával.",
+        "ro": "Cu bicicleta explorați întregul golf Slano, începând de la marină până la casa istorică de vară Ohmučević. O mică urcare spre biserica Sf. Rochus vă răsplătește cu vederi panoramice.\nDupă-amiaza bucurați-vă de libertatea pe două roți în drum spre plaja Grgurići pentru o pauză lungă de înot. Ziua se încheie cultural cu vizitarea impresionantului Palat al Rectorului.",
+        "en": "By bike, explore the entire bay of Slano, starting from the marina to the historic Ohmučević summer house. A small climb to St. Rochus church rewards you with panoramic views.\nIn the afternoon, enjoy the freedom on two wheels on the way to Grgurići beach for a long swim break. The day ends culturally with a visit to the impressive Rector's Palace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kulinarium Slano",
+            "tip": "Leichte mediterrane Pasta für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kulinarium Slano",
+            "tip": "Könnyű mediterrán tészta bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kulinarium Slano",
+            "tip": "Paste mediteraneene ușoare pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kulinarium Slano",
+            "tip": "Light Mediterranean pasta for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht-Promenade",
+            "tip": "Ruhiges Radeln am Wasser entlang.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Öböl-sétány",
+            "tip": "Csendes biciklizés a víz mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada golfului",
+            "tip": "Plimbare liniștită cu bicicleta pe mal.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bay Promenade",
+            "tip": "Quiet cycling along the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir Slano",
+            "tip": "Lavendelsäckchen und Kräuterliköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slano Szuvenír",
+            "tip": "Levendulazsákok és gyógynövénylikőrök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Souvenir Slano",
+            "tip": "Săculeți cu lavandă și lichioruri de ierburi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Slano",
+            "tip": "Lavender bags and herbal liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die flachen Wege entlang der Küste.",
+          "Nehmen Sie ausreichend Wasser für den Anstieg nach St. Rochus mit."
+        ],
+        "hu": [
+          "Használja a part menti sík utakat.",
+          "Vigyen elég vizet a Szent Rókus templomhoz vezető emelkedőhöz."
+        ],
+        "ro": [
+          "Folosiți potecile plate de-a lungul coastei.",
+          "Luați destulă apă pentru urcarea spre Sf. Rochus."
+        ],
+        "en": [
+          "Use the flat paths along the coast.",
+          "Take enough water for the climb to St. Rochus."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori Palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            17.8915,
+            42.787
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt im Zentrum vorhanden.",
+            "hu": "Parkoló közvetlenül a központban.",
+            "ro": "Parcare disponibilă direct în centru.",
+            "en": "Parking available directly in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Blasius",
+            "hu": "Szent Balázs plébániatemplom",
+            "ro": "Biserica Parohială Sf. Blasiu",
+            "en": "Parish Church of St. Blaise"
+          },
+          "coords": [
+            17.893,
+            42.7878
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Trsteno",
+            "hu": "Trsteno kilátópont",
+            "ro": "Punct panoramic Trsteno",
+            "en": "Trsteno Viewpoint"
+          },
+          "coords": [
+            17.977,
+            42.711
+          ],
+          "category": "natural features",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Ein Ausflug zum nahegelegenen Arboretum.",
+            "hu": "Kirándulás a közeli arborétumhoz.",
+            "ro": "O excursie la arboretul din apropiere.",
+            "en": "A trip to the nearby arboretum."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grgurići",
+            "hu": "Grgurići strand",
+            "ro": "Plaja Grgurići",
+            "en": "Grgurići Beach"
+          },
+          "coords": [
+            17.885,
+            42.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz hinter dem Strand.",
+            "hu": "Nagy parkoló a strand mögött.",
+            "ro": "Parcare mare în spatele plajei.",
+            "en": "Large parking lot behind the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Slano",
+            "hu": "Slano kikötő",
+            "ro": "Marina Slano",
+            "en": "Slano Marina"
+          },
+          "coords": [
+            17.895,
+            42.7845
+          ],
+          "category": "port",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Hafenbar.",
+            "hu": "Látogasson el a kikötői bárba.",
+            "ro": "Vizitați barul din port.",
+            "en": "Visit the harbor bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Rochus",
+            "hu": "Szent Rókus templom",
+            "ro": "Biserica Sf. Rochus",
+            "en": "St. Rochus Church"
+          },
+          "coords": [
+            17.8965,
+            42.789
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Zufahrt über eine schmale Straße.",
+            "hu": "Megközelítés keskeny úton.",
+            "ro": "Acces printr-un drum îngust.",
+            "en": "Access via a narrow road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das historische Slano mit einem Ausflug zum weltberühmten Arboretum Trsteno. Vormittags besichtigen Sie den Rektorenpalast und die Hauptkirche im Dorfzentrum.\nMittags fahren Sie die Küstenstraße entlang für fantastische Ausblicke. Den Nachmittag verbringen Sie am weitläufigen Grgurići Strand, bevor Sie den Tag entspannt an der Marina und dem Aussichtspunkt St. Rochus beenden.",
+        "hu": "Autóval kombináljuk a történelmi Slanót egy kirándulással a világhírű Trsteno Arborétumba. Délelőtt a Rektori Palotát és a falu központjában lévő főtemplomot tekintjük meg.\nDélben a tengerparti úton haladunk a fantasztikus kilátásért. A délutánt a tágas Grgurići strandon töltjük, majd a napot a kikötőben és a Szent Rókus kilátópontnál zárjuk.",
+        "ro": "Cu mașina, combinați Slano istoric cu o excursie la faimosul Arboretum Trsteno. Dimineața vizitați Palatul Rectorului și biserica principală din centrul satului.\nLa prânz conduceți pe drumul de coastă pentru vederi fantastice. După-amiaza o petreceți pe plaja Grgurići, înainte de a încheia ziua relaxat la marină și la punctul de observație Sf. Rochus.",
+        "en": "By car, combine historic Slano with a trip to the world-famous Trsteno Arboretum. In the morning, visit the Rector's Palace and the main church in the village center.\nAt noon, drive along the coastal road for fantastic views. Spend the afternoon at the spacious Grgurići beach before ending the day relaxed at the marina and the St. Rochus viewpoint."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Miris Bora",
+            "tip": "Fischspezialitäten unter Pinien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Miris Bora",
+            "tip": "Halételek a fenyők alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Miris Bora",
+            "tip": "Specialități de pește sub pini."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Miris Bora",
+            "tip": "Fish specialties under the pines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Banići Bucht",
+            "tip": "Versteckte Bucht in der Nähe.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Banići öböl",
+            "tip": "Rejtett öböl a közelben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Banići",
+            "tip": "Golf ascuns în apropiere.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Banići Bay",
+            "tip": "Hidden bay nearby.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinladen Slano",
+            "tip": "Weine aus der Region Pelješac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slano Borbolt",
+            "tip": "Borok a Pelješac-félszigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vinuri",
+            "tip": "Vinuri din regiunea Pelješac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Shop Slano",
+            "tip": "Wines from the Pelješac region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Sommer kostenpflichtig.",
+          "Die Küstenstraße bietet viele Fotostopps."
+        ],
+        "hu": [
+          "A parkolás nyáron díjköteles.",
+          "A part menti út sok fotómegállót kínál."
+        ],
+        "ro": [
+          "Parcarea este cu plată pe timpul verii.",
+          "Drumul de coastă oferă multe opriri pentru fotografii."
+        ],
+        "en": [
+          "Parking is paid during summer.",
+          "The coastal road offers many photo stops."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stație de autobuz Centru",
+            "en": "Central Bus Stop"
+          },
+          "coords": [
+            17.892,
+            42.7875
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ankunft aus Dubrovnik oder Ston.",
+            "hu": "Érkezés Dubrovnikból vagy Stonból.",
+            "ro": "Sosire din Dubrovnik sau Ston.",
+            "en": "Arrival from Dubrovnik or Ston."
+          }
+        },
+        {
+          "name": {
+            "de": "Franziskanerkloster",
+            "hu": "Ferences kolostor",
+            "ro": "Mănăstirea Franciscană",
+            "en": "Franciscan Monastery"
+          },
+          "coords": [
+            17.8905,
+            42.7865
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur 5 Min zu Fuß von der Haltestelle.",
+            "hu": "Csak 5 perc séta a megállótól.",
+            "ro": "Doar 5 minute de mers de la stație.",
+            "en": "Only 5 min walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rektorenpalast",
+            "hu": "Rektori Palota",
+            "ro": "Palatul Rectorului",
+            "en": "Rector's Palace"
+          },
+          "coords": [
+            17.8915,
+            42.787
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das wichtigste Museum des Ortes.",
+            "hu": "A település legfontosabb múzeuma.",
+            "ro": "Cel mai important muzeu din zonă.",
+            "en": "The most important museum in town."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Slano",
+            "hu": "Slano kikötő",
+            "ro": "Marina Slano",
+            "en": "Slano Marina"
+          },
+          "coords": [
+            17.895,
+            42.7845
+          ],
+          "category": "port",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Restaurants und Cafés am Wasser.",
+            "hu": "Éttermek és kávézók a vízen.",
+            "ro": "Restaurante și cafenele la mal.",
+            "en": "Restaurants and cafes by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grgurići",
+            "hu": "Grgurići strand",
+            "ro": "Plaja Grgurići",
+            "en": "Grgurići Beach"
+          },
+          "coords": [
+            17.885,
+            42.781
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Leicht erreichbar per Spaziergang.",
+            "hu": "Könnyen elérhető sétával.",
+            "ro": "Ușor accesibil printr-o plimbare.",
+            "en": "Easily accessible via a walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Busverbindung zwischen Dubrovnik und Ston ist Slano ideal mit Transit erreichbar. Vom Dorfzentrum aus liegen das Kloster und der Rektorenpalast in unmittelbarer Nähe.\nMittags genießen Sie die Atmosphäre an der Marina, bevor Sie den Nachmittag am Grgurići Strand verbringen. Alle Ziele sind gut zu Fuß vom Busstopp erreichbar.",
+        "hu": "A Dubrovnik és Ston közötti jó buszközlekedésnek köszönhetően Slano tömegközlekedéssel is könnyen elérhető. A falu központjából a kolostor és a palota sétatávolságra van.\nDélben élvezze a kikötői hangulatot, mielőtt a délutánt a Grgurići strandon töltené. Minden célpont kényelmesen elérhető gyalog a buszmegállótól.",
+        "ro": "Datorită conexiunilor bune de autobuz între Dubrovnik și Ston, Slano este ușor accesibil. Din centrul satului, mănăstirea și palatul sunt în imediata apropiere.\nLa prânz bucurați-vă de atmosfera din marină, înainte de a petrece după-amiaza pe plaja Grgurići. Toate obiectivele sunt ușor de atins pe jos de la stație.",
+        "en": "Thanks to good bus connections between Dubrovnik and Ston, Slano is easily accessible by transit. From the village center, the monastery and palace are within easy walking distance.\nAt noon, enjoy the atmosphere at the marina before spending the afternoon at Grgurići beach. All destinations are easily reachable on foot from the bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Kantun",
+            "tip": "Günstiger Mittagstisch für Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Kantun",
+            "tip": "Kedvező árú ebéd utazóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Kantun",
+            "tip": "Prânz accesibil pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Kantun",
+            "tip": "Affordable lunch for travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein Ort der Stille und Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "A csend és meditáció helye.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un loc de liniște și meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "A place of silence and meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Slano",
+            "tip": "Lokale Zeitungen und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Slano Újságárus",
+            "tip": "Helyi lapok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Slano",
+            "tip": "Ziare locale și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Slano Kiosk",
+            "tip": "Local newspapers and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Linie 15.",
+          "Kaufen Sie Tickets direkt beim Busfahrer."
+        ],
+        "hu": [
+          "Ellenőrizze a 15-ös busz menetrendjét.",
+          "Vásároljon jegyet közvetlenül a sofőrnél."
+        ],
+        "ro": [
+          "Verificați orarul liniei 15.",
+          "Cumpărați bilete direct de la șofer."
+        ],
+        "en": [
+          "Check the timetable of line 15.",
+          "Buy tickets directly from the driver."
+        ]
+      }
+    }
+  }
+}

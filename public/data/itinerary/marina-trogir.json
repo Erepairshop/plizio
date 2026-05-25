@@ -1,0 +1,1027 @@
+{
+  "city_id": "marina-trogir",
+  "anchor": {
+    "name": "Marina (Trogir)",
+    "coords": [
+      16.1056,
+      43.5167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm von Marina",
+            "hu": "Marinai torony",
+            "ro": "Turnul din Marina",
+            "en": "Marina Tower"
+          },
+          "coords": [
+            16.106,
+            43.5165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Ein ehemaliger befestigter Palast der Bischöfe.",
+            "hu": "A püspökök egykori erődített palotája.",
+            "ro": "Un fost palat fortificat al episcopilor.",
+            "en": "A former fortified palace of the bishops."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Hl. Marina",
+            "hu": "Szent Marina-templom",
+            "ro": "Biserica Sf. Marina",
+            "en": "Church of St. Marina"
+          },
+          "coords": [
+            16.107,
+            43.517
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Kleine Kirche nahe dem Hafen.",
+            "hu": "Kis templom a kikötő közelében.",
+            "ro": "Biserică mică lângă port.",
+            "en": "Small church near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Johannes",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "Church of St. John"
+          },
+          "coords": [
+            16.108,
+            43.516
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Gotische und Renaissance-Elemente.",
+            "hu": "Gótikus és reneszánsz elemek.",
+            "ro": "Elemente gotice și renascentiste.",
+            "en": "Gothic and Renaissance elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Marina",
+            "hu": "Marinai tengerparti sétány",
+            "ro": "Faleza Marina",
+            "en": "Marina Waterfront Promenade"
+          },
+          "coords": [
+            16.11,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Perfekt für einen Espresso am Wasser.",
+            "hu": "Tökéletes egy eszpresszóhoz a víznél.",
+            "ro": "Perfect pentru un espresso pe malul apei.",
+            "en": "Perfect for an espresso by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prališće",
+            "hu": "Prališće strand",
+            "ro": "Plaja Prališće",
+            "en": "Prališće Beach"
+          },
+          "coords": [
+            16.1,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Kiesstrand mit sauberem Wasser.",
+            "hu": "Kavicsos strand tiszta vízzel.",
+            "ro": "Plajă cu pietriș și apă curată.",
+            "en": "Pebble beach with clean water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Maria im Schnee",
+            "hu": "Havas Boldogasszony-templom",
+            "ro": "Biserica Sf. Maria a Zăpezii",
+            "en": "Church of Our Lady of the Snow"
+          },
+          "coords": [
+            16.105,
+            43.514
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "17:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Kleines Heiligtum am Wegrand.",
+            "hu": "Kis szentély az út mentén.",
+            "ro": "Mic sanctuar la marginea drumului.",
+            "en": "Small sanctuary by the roadside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Marina ist ein charmantes Fischerdorf mit einer reichen Geschichte. Beginnen Sie Ihren Tag am markanten Turm von Marina, der einst den Bischöfen von Trogir als Schutz diente. Die Architektur ist einzigartig in dieser Bucht.\n\nMittags erkunden Sie die sakralen Schätze des Ortes, wie die Kirchen der Hl. Marina und des Hl. Johannes. Nach der Kultur laden die Restaurants an der Uferpromenade zu frischen Meeresfrüchten ein.\n\nDen Nachmittag verbringen Sie am weitläufigen Strand Prališće. Der feine Kies und der natürliche Schatten der Pinien bieten ideale Bedingungen für Erholung und Badespaß im Adriatischen Meer.\n\nZum Ausklang spazieren Sie zur Kirche Maria im Schnee. Beobachten Sie, wie die Sonne hinter den Hügeln versinkt und die Bucht von Marina in goldenes Licht taucht.",
+        "hu": "Marina egy bájos halászfalu gazdag történelemmel. Kezdje a napot a jellegzetes marinai toronynál, amely egykor a trogiri püspökök védelmét szolgálta. Az építészet egyedülálló ebben az öbölben.\n\nDélben fedezze fel a település szakrális kincseit, mint a Szent Marina- és a Szent János-templom. A kultúra után a tengerparti sétány éttermei friss tenger gyümölcseivel várják.\n\nA délutánt töltse a tágas Prališće strandon. A finom kavics és a fenyők természetes árnyéka ideális feltételeket biztosít a pihenéshez és a fürdőzéshez az Adriai-tengerben.\n\nBefejezésül sétáljon el a Havas Boldogasszony-templomhoz. Figyelje, ahogy a nap eltűnik a dombok mögött, és aranyló fénybe vonja a marinai öblöt.",
+        "ro": "Marina este un sat pitoresc de pescari cu o istorie bogată. Începeți ziua la turnul marcat din Marina, care a servit odinioară drept protecție pentru episcopii din Trogir. Arhitectura este unică în acest golf.\n\nLa prânz, explorați comorile sacre ale localității, precum bisericile Sf. Marina și Sf. Ioan. După cultură, restaurantele de pe faleză vă invită la fructe de mare proaspete.\n\nDupă-amiaza, petreceți-o pe plaja extinsă Prališće. Pietrișul fin și umbra naturală a pinilor oferă condiții ideale pentru relaxare și înot în Marea Adriatică.\n\nLa final, plimbați-vă până la biserica Sf. Maria a Zăpezii. Observați cum soarele apune după dealuri, scăldând golful Marina în lumină aurie.",
+        "en": "Marina is a charming fishing village with a rich history. Start your day at the prominent Marina Tower, which once served as protection for the bishops of Trogir. The architecture is unique in this bay.\n\nAt noon, explore the sacred treasures of the village, such as the churches of St. Marina and St. John. After the culture, the restaurants on the waterfront promenade invite you to fresh seafood.\n\nSpend the afternoon at the spacious Prališće beach. The fine pebbles and the natural shade of the pines provide ideal conditions for relaxation and swimming in the Adriatic Sea.\n\nTo finish, walk to the Church of Our Lady of the Snow. Watch as the sun sinks behind the hills, bathing the bay of Marina in golden light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Hausgemachte Pasta mit Garnelen."
+          },
+          {
+            "name": "Restaurant Skradinski",
+            "tip": "Gegrillter Fisch und lokaler Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Házi tészta garnélával."
+          },
+          {
+            "name": "Restaurant Skradinski",
+            "tip": "Grillezett hal és helyi bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Paste de casă cu creveți."
+          },
+          {
+            "name": "Restaurant Skradinski",
+            "tip": "Pește la grătar și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Marina",
+            "tip": "Homemade pasta with shrimp."
+          },
+          {
+            "name": "Restaurant Skradinski",
+            "tip": "Grilled fish and local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade",
+            "tip": "Ruhiger Blick auf die Yachten.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Kirche Maria im Schnee",
+            "tip": "Stiller Ort der Andacht.",
+            "emoji": "🙏"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti sétány",
+            "tip": "Csendes kilátás a jachtokra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Havas Boldogasszony-templom",
+            "tip": "Csendes áhítat helye.",
+            "emoji": "🙏"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleză",
+            "tip": "Vedere liniștită spre iahturi.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Sf. Maria a Zăpezii",
+            "tip": "Loc liniștit de reculegere.",
+            "emoji": "🙏"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront Promenade",
+            "tip": "Quiet view of the yachts.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Church of Our Lady of the Snow",
+            "tip": "Quiet place of devotion.",
+            "emoji": "🙏"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Örtlicher Olivenölverkauf",
+            "tip": "Frisches Öl direkt von den Hainen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj árusítás",
+            "tip": "Friss olaj közvetlenül a ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare locală ulei măsline",
+            "tip": "Ulei proaspăt direct din livezi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil Sales",
+            "tip": "Fresh oil directly from the groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Marina ist ideal für Familien mit Kindern.",
+          "Der Turm beherbergt heute ein Hotel und Café.",
+          "Trogir ist nur 15 Autominuten entfernt.",
+          "Besuchen Sie den Ort am späten Nachmittag für das beste Licht."
+        ],
+        "hu": [
+          "Marina ideális gyermekes családok számára.",
+          "A toronyban ma szálloda és kávézó működik.",
+          "Trogir mindössze 15 perc autóútra van.",
+          "Látogasson el ide késő délután a legjobb fényekért."
+        ],
+        "ro": [
+          "Marina este ideală pentru familiile cu copii.",
+          "Turnul găzduiește astăzi un hotel și o cafenea.",
+          "Trogir este la doar 15 minute de mers cu mașina.",
+          "Vizitați localitatea după-amiaza târziu pentru cea mai bună lumină."
+        ],
+        "en": [
+          "Marina is ideal for families with children.",
+          "The tower now houses a hotel and café.",
+          "Trogir is only a 15-minute drive away.",
+          "Visit the village in the late afternoon for the best light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm von Marina",
+            "hu": "Marinai torony",
+            "ro": "Turnul din Marina",
+            "en": "Marina Tower"
+          },
+          "coords": [
+            16.106,
+            43.5165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Kiindulópont a központban.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Drid",
+            "hu": "Drid-domb",
+            "ro": "Dealul Drid",
+            "en": "Drid Hill"
+          },
+          "coords": [
+            16.085,
+            43.525
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Kurzer, aber steiler Anstieg zur Kapelle.",
+            "hu": "Rövid, de meredek emelkedő a kápolnához.",
+            "ro": "Urcare scurtă, dar abruptă spre capelă.",
+            "en": "Short but steep climb to the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Lukas",
+            "hu": "Szent Lukács-templom",
+            "ro": "Biserica Sf. Luca",
+            "en": "Church of St. Luke"
+          },
+          "coords": [
+            16.1,
+            43.52
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_4lang": {
+            "de": "Ruhige Lage im Hinterland.",
+            "hu": "Csendes hely a hátországban.",
+            "ro": "Locație liniștită în interior.",
+            "en": "Quiet location in the hinterland."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prališće",
+            "hu": "Prališće strand",
+            "ro": "Plaja Prališće",
+            "en": "Prališće Beach"
+          },
+          "coords": [
+            16.1,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Verdiente Abkühlung nach der Tour.",
+            "hu": "Megérdemelt hűsölés a túra után.",
+            "ro": "Răcorire binemeritată după tur.",
+            "en": "Well-deserved cooling off after the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Marina",
+            "hu": "Marinai sétány",
+            "ro": "Faleza Marina",
+            "en": "Marina Promenade"
+          },
+          "coords": [
+            16.11,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:55",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Letzter Blick auf das Meer.",
+            "hu": "Utolsó pillantás a tengerre.",
+            "ro": "Ultima privire spre mare.",
+            "en": "Last look at the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Marina und seine Hügel mit dem Fahrrad. Nach dem Besuch des historischen Turms führt der Weg hinauf zum Hügel Drid. Von dort oben genießen Sie eine fantastische Aussicht auf die gesamte Bucht und die Inseln.\n\nMittags erkunden Sie die kleinen Kirchen im Hinterland, die abseits der Touristenpfade liegen. Die Kirche des Hl. Lukas ist ein wunderbares Beispiel für die einfache, aber beeindruckende sakrale Architektur der Region.\n\nNach der Anstrengung rollen Sie hinunter zum Strand Prališće. Eine ausgiebige Badepause im klaren Wasser ist die beste Belohnung für die Fahrt über die Hügel.\n\nDer Tag endet gemütlich bei einer Fahrt entlang der Uferpromenade. Die flache Strecke am Wasser ist ideal, um die Tour entspannt ausklingen zu lassen.",
+        "hu": "Fedezze fel Marinát és dombjait kerékpárral. A történelmi torony meglátogatása után az út felvezet a Drid-dombra. Onnan fentről fantasztikus kilátás nyílik az egész öbölre és a szigetekre.\n\nDélben fedezze fel a hátország kis templomait, amelyek távol esnek a turistaösvényektől. A Szent Lukács-templom csodálatos példája a régió egyszerű, de lenyűgöző szakrális építészetének.\n\nA megerőltetés után guruljon le a Prališće strandra. Egy kiadós fürdőzés a tiszta vízben a legjobb jutalom a dombokon tett túra után.\n\nA nap kellemesen zárul a tengerparti sétány mentén. A vízparti sík szakasz ideális a túra pihentető befejezéséhez.",
+        "ro": "Descoperiți Marina și dealurile sale cu bicicleta. După vizitarea turnului istoric, drumul urcă spre dealul Drid. De acolo de sus, vă bucurați de o vedere fantastică asupra întregului golf și a insulelor.\n\nLa prânz, explorați micile biserici din interior, aflate departe de traseele turistice. Biserica Sf. Luca este un exemplu minunat de arhitectură sacră simplă, dar impresionantă, a regiunii.\n\nDupă efort, coborâți spre plaja Prališće. O pauză lungă de înot în apa limpede este cea mai bună recompensă pentru tura peste dealuri.\n\nZiua se încheie plăcut cu o plimbare de-a lungul falezei. Traseul plat de lângă apă este ideal pentru a încheia turul într-un mod relaxat.",
+        "en": "Discover Marina and its hills by bike. After visiting the historic tower, the path leads up to Drid Hill. From up there, you enjoy a fantastic view of the entire bay and the islands.\n\nAt noon, explore the small churches in the hinterland, which lie off the beaten track. The Church of St. Luke is a wonderful example of the simple but impressive sacred architecture of the region.\n\nAfter the exertion, roll down to Prališće Beach. An extensive swim break in the clear water is the best reward for the ride over the hills.\n\nThe day ends pleasantly with a ride along the waterfront promenade. The flat stretch by the water is ideal for ending the tour in a relaxed way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro In",
+            "tip": "Snacks für Aktive."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro In",
+            "tip": "Rágcsálnivalók aktívaknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro In",
+            "tip": "Gustări pentru activi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro In",
+            "tip": "Snacks for actives."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel Drid",
+            "tip": "Panorama und Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drid-domb",
+            "tip": "Panoráma és csend.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Drid",
+            "tip": "Panoramă și liniște.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drid Hill",
+            "tip": "Panorama and silence.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Obststand Marina",
+            "tip": "Frische Feigen und Melonen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marinai gyümölcsárus",
+            "tip": "Friss füge és dinnye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand fructe Marina",
+            "tip": "Smochine proaspete și pepeni."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Fruit Stand",
+            "tip": "Fresh figs and melons."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege zum Drid sind teilweise geschottert.",
+          "Prüfen Sie Ihre Bremsen vor den Abfahrten.",
+          "Vermeiden Sie die Mittagsitze auf dem Fahrrad.",
+          "Fahrradverleih gibt es oft in der Marina."
+        ],
+        "hu": [
+          "A Drid felé vezető utak részben murvásak.",
+          "Ereszkedés előtt ellenőrizze a fékeket.",
+          "Kerülje a déli hőséget a kerékpáron.",
+          "Kerékpárkölcsönző gyakran található a marinában."
+        ],
+        "ro": [
+          "Drumurile spre Drid sunt parțial cu pietriș.",
+          "Verificați frânele înainte de coborâri.",
+          "Evitați căldura de la prânz pe bicicletă.",
+          "Închirierea de biciclete este adesea disponibilă în marină."
+        ],
+        "en": [
+          "The paths to Drid are partially gravel.",
+          "Check your brakes before the descents.",
+          "Avoid the midday heat on the bike.",
+          "Bike rentals are often available in the marina."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm von Marina",
+            "hu": "Marinai torony",
+            "ro": "Turnul din Marina",
+            "en": "Marina Tower"
+          },
+          "coords": [
+            16.106,
+            43.5165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Wahrzeichen des Ortes.",
+            "hu": "A település jelképe.",
+            "ro": "Simbolul localității.",
+            "en": "Landmark of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel Drid",
+            "hu": "Drid-domb",
+            "ro": "Dealul Drid",
+            "en": "Drid Hill"
+          },
+          "coords": [
+            16.085,
+            43.525
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_4lang": {
+            "de": "Parkplatz unterhalb der Kapelle.",
+            "hu": "Parkoló a kápolna alatt.",
+            "ro": "Parcare sub capelă.",
+            "en": "Parking below the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Johannes",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "Church of St. John"
+          },
+          "coords": [
+            16.108,
+            43.516
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_4lang": {
+            "de": "Alte Kirche im Ortskern.",
+            "hu": "Régi templom a központban.",
+            "ro": "Biserică veche în centrul localității.",
+            "en": "Old church in the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prališće",
+            "hu": "Prališće strand",
+            "ro": "Plaja Prališće",
+            "en": "Prališće Beach"
+          },
+          "coords": [
+            16.1,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Großer Parkplatz direkt am Strand.",
+            "hu": "Nagy parkoló közvetlenül a strandon.",
+            "ro": "Parcare mare chiar lângă plajă.",
+            "en": "Large parking lot right by the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Marina",
+            "hu": "Marinai sétány",
+            "ro": "Faleza Marina",
+            "en": "Marina Promenade"
+          },
+          "coords": [
+            16.11,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Abschluss im Hafen.",
+            "hu": "Befejezés a kikötőben.",
+            "ro": "Final în port.",
+            "en": "Conclusion in the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie bequem Marina und seine Umgebung. Der Tag beginnt am historischen Turm, dem Herzstück des Ortes. Danach fahren Sie zum Hügel Drid, von dem aus Sie den besten Überblick über die Region haben.\n\nMittags kehren Sie zurück ins Zentrum, um die sakrale Architektur zu bewundern. Die Kirchen des Hl. Johannes und der Hl. Marina zeugen von der langen Tradition des Ortes.\n\nDer Nachmittag ist für pure Entspannung am Strand Prališće reserviert. Da Sie mobil sind, können Sie problemlos alles Notwendige für einen perfekten Badetag mitnehmen.\n\nZum Abendessen schlendern Sie entlang der Uferpromenade und genießen die friedliche Atmosphäre des Hafens, bevor Sie die kurze Rückreise antreten.",
+        "hu": "Autóval kényelmesen felfedezheti Marinát és környékét. A nap a történelmi toronynál kezdődik, amely a település szíve. Ezután hajtson el a Drid-dombra, ahonnan a legjobb kilátás nyílik a régióra.\n\nDélben térjen vissza a központba, hogy megcsodálja a szakrális építészetet. A Szent János- és a Szent Marina-templom a település hosszú hagyományairól tanúskodik.\n\nA délután a tiszta kikapcsolódásé a Prališće strandon. Mivel mobilis, könnyedén magával vihet mindent, ami egy tökéletes strandoláshoz kell.\n\nVacsora előtt sétáljon végig a tengerparti sétányon, és élvezze a kikötő békés hangulatát, mielőtt elindulna a rövid úton haza.",
+        "ro": "Cu mașina, puteți explora confortabil Marina și împrejurimile sale. Ziua începe la turnul istoric, inima localității. Apoi mergeți la dealul Drid, de unde aveți cea mai bună vedere asupra regiunii.\n\nLa prânz, întoarceți-vă în centru pentru a admira arhitectura sacră. Bisericile Sf. Ioan și Sf. Marina depun mărturie despre lunga tradiție a localității.\n\nDupă-amiaza este rezervată relaxării pure pe plaja Prališće. Fiind mobil, puteți lua cu ușurință tot ce este necesar pentru o zi perfectă la plajă.\n\nÎnainte de cină, plimbați-vă pe faleză și bucurați-vă de atmosfera liniștită a portului înainte de scurta călătorie de întoarcere.",
+        "en": "By car, you can comfortably explore Marina and its surroundings. The day starts at the historic tower, the heart of the village. Then drive to Drid Hill, from where you have the best overview of the region.\n\nAt noon, return to the center to admire the sacred architecture. The churches of St. John and St. Marina bear witness to the long tradition of the village.\n\nThe afternoon is reserved for pure relaxation at Prališće Beach. Since you are mobile, you can easily take everything necessary for a perfect beach day with you.\n\nBefore dinner, stroll along the waterfront promenade and enjoy the peaceful atmosphere of the harbor before starting the short trip back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Marinus",
+            "tip": "Gehobene Küche im Turm."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Marinus",
+            "tip": "Színvonalas konyha a toronyban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Marinus",
+            "tip": "Bucătărie rafinată în turn."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Marinus",
+            "tip": "Fine dining in the tower."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Drid Kapelle",
+            "tip": "Abgelegener Aussichtspunkt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drid-kápolna",
+            "tip": "Félreeső kilátóhely.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Drid",
+            "tip": "Punct de belvedere izolat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drid Chapel",
+            "tip": "Secluded viewpoint.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Hafen",
+            "tip": "Lokaler Wein und Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői szupermarket",
+            "tip": "Helyi bor és különlegességek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket în port",
+            "tip": "Vin local și specialități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Supermarket",
+            "tip": "Local wine and specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist kostenpflichtig.",
+          "Die Zufahrt zum Drid ist eng.",
+          "Nutzen Sie den Wagen für Ausflüge nach Trogir.",
+          "Strandschuhe sind bei Prališće ratsam."
+        ],
+        "hu": [
+          "A központban a parkolás fizetős.",
+          "A Drid felé vezető út szűk.",
+          "Használja az autót trogiri kirándulásokhoz.",
+          "Strandcipő ajánlott a Prališće strandon."
+        ],
+        "ro": [
+          "Parcarea în centru este contra cost.",
+          "Accesul spre Drid este îngust.",
+          "Folosiți mașina pentru excursii spre Trogir.",
+          "Încălțămintea de plajă este recomandată la Prališće."
+        ],
+        "en": [
+          "Parking in the center is paid.",
+          "The access road to Drid is narrow.",
+          "Use the car for trips to Trogir.",
+          "Beach shoes are advisable at Prališće."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm von Marina",
+            "hu": "Marinai torony",
+            "ro": "Turnul din Marina",
+            "en": "Marina Tower"
+          },
+          "coords": [
+            16.106,
+            43.5165
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Wichtigstes Denkmal des Ortes.",
+            "hu": "A település legfontosabb műemléke.",
+            "ro": "Cel mai important monument al localității.",
+            "en": "Most important monument of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Hl. Marina",
+            "hu": "Szent Marina-templom",
+            "ro": "Biserica Sf. Marina",
+            "en": "Church of St. Marina"
+          },
+          "coords": [
+            16.107,
+            43.517
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Besuch im historischen Kern.",
+            "hu": "Látogatás a történelmi magban.",
+            "ro": "Vizită în nucleul istoric.",
+            "en": "Visit in the historic core."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Marina",
+            "hu": "Marinai sétány",
+            "ro": "Faleza Marina",
+            "en": "Marina Promenade"
+          },
+          "coords": [
+            16.11,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "In der Nähe der Bushaltestelle.",
+            "hu": "A buszmegálló közelében.",
+            "ro": "În apropierea stației de autobuz.",
+            "en": "Near the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prališće",
+            "hu": "Prališće strand",
+            "ro": "Plaja Prališće",
+            "en": "Prališće Beach"
+          },
+          "coords": [
+            16.1,
+            43.515
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Einfach zu Fuß erreichbar.",
+            "hu": "Gyalogosan egyszerűen megközelíthető.",
+            "ro": "Ușor de ajuns pe jos.",
+            "en": "Easy to reach on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Johannes",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "Church of St. John"
+          },
+          "coords": [
+            16.108,
+            43.516
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Last stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Marina ist hervorragend an das regionale Busnetz zwischen Trogir und Šibenik angebunden. Beginnen Sie Ihren Tag im Zentrum am Turm. Die kurzen Wege machen den Ort ideal für Transit-Reisende.\n\nMittags entspannen Sie am Strand Prališće, der nur einen kurzen Spaziergang vom Ortskern entfernt liegt. Genießen Sie das kristallklare Wasser und den Blick auf die Marina, bevor Sie sich einen Snack am Hafen holen.\n\nDen Nachmittag verbringen Sie gemütlich in den Gassen des historischen Kerns und besuchen die Kirche der Hl. Marina. Alles ist kompakt und stressfrei erreichbar.\n\nBevor Ihr Bus zurückfährt, besuchen Sie noch die Kirche des Hl. Johannes. Ein friedlicher Abschluss eines entspannten Tages in diesem dalmatinischen Dorf.",
+        "hu": "Marina kiválóan kapcsolódik a Trogir és Šibenik közötti regionális buszhálózathoz. Kezdje a napot a központban, a toronynál. A rövid távolságok ideálissá teszik a települést az átszálló utazók számára.\n\nDélben lazítson a Prališće strandon, amely csak rövid sétára van a központtól. Élvezze a kristálytiszta vizet és a kikötőre nyíló kilátást, mielőtt bekapna egy falatot a parton.\n\nA délutánt töltse kellemesen a történelmi mag utcáin, és látogassa meg a Szent Marina-templomot. Minden kompakt és stresszmentesen elérhető.\n\nMielőtt a busza visszaindulna, látogassa meg a Szent János-templomot. Békés zárása egy pihentető napnak ebben a dalmát faluban.",
+        "ro": "Marina este excelent conectată la rețeaua regională de autobuze între Trogir și Šibenik. Începeți ziua în centru, la turn. Distanțele scurte fac localitatea ideală pentru călătorii cu transportul public.\n\nLa prânz, relaxați-vă pe plaja Prališće, care se află la doar o scurtă plimbare de centrul localității. Bucurați-vă de apa cristalina și de vederea spre marină înainte de a lua o gustare în port.\n\nDupă-amiaza, plimbați-vă prin străduțele nucleului istoric și vizitați biserica Sf. Marina. Totul este compact și accesibil fără stres.\n\nÎnainte ca autobuzul să plece înapoi, vizitați biserica Sf. Ioan. O încheiere liniștită a unei zile relaxante în acest sat dalmațian.",
+        "en": "Marina is excellently connected to the regional bus network between Trogir and Šibenik. Start your day in the center at the tower. The short distances make the village ideal for transit travelers.\n\nAt noon, relax at Prališće Beach, which is only a short walk from the center. Enjoy the crystal-clear water and the view of the marina before grabbing a snack at the harbor.\n\nSpend the afternoon comfortably in the alleys of the historic core and visit the Church of St. Marina. Everything is compact and can be reached stress-free.\n\nBefore your bus goes back, visit the Church of St. John. A peaceful conclusion to a relaxed day in this Dalmatian village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Marina",
+            "tip": "Günstige Tagesgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Marina",
+            "tip": "Kedvező árú napi ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Marina",
+            "tip": "Meniuri ale zilei la prețuri bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Marina",
+            "tip": "Affordable daily specials."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Hafen",
+            "tip": "Bänke mit Blick auf das Meer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői parkoló",
+            "tip": "Padok tengeri kilátással.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea portului",
+            "tip": "Bănci cu vedere la mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Parking Lot",
+            "tip": "Benches with sea view.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Marina",
+            "tip": "Frisches Gebäck für die Busfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marinai pékség",
+            "tip": "Friss sütemény a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Marina",
+            "tip": "Patiserie proaspătă pentru drumul cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina Bakery",
+            "tip": "Fresh pastries for the bus ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bushaltestelle liegt an der Jadranska Magistrala.",
+          "Busse nach Trogir fahren regelmäßig.",
+          "Achten Sie auf die Liniennummern.",
+          "Klimaanlage im Bus ist meist sehr kühl."
+        ],
+        "hu": [
+          "A buszmegálló a Jadranska Magistrala mentén van.",
+          "A buszok Trogir felé rendszeresen járnak.",
+          "Ügyeljen a járatszámokra.",
+          "A buszokon a légkondicionálás általában nagyon hűvös."
+        ],
+        "ro": [
+          "Stația de autobuz este pe Jadranska Magistrala.",
+          "Autobuzele spre Trogir circulă regulat.",
+          "Atenție la numerele liniilor.",
+          "Aerul condiționat din autobuz este de obicei foarte rece."
+        ],
+        "en": [
+          "The bus stop is on the Jadranska Magistrala.",
+          "Buses to Trogir run regularly.",
+          "Pay attention to the line numbers.",
+          "Air conditioning in the bus is usually very cool."
+        ]
+      }
+    }
+  }
+}

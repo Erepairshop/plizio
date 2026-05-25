@@ -1,0 +1,874 @@
+{
+  "city_id": "kolocep",
+  "anchor": {
+    "name": "Koločep",
+    "coords": [
+      17.9881,
+      42.6797
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Dorf Donje Čelo",
+          "coords": [
+            17.9885,
+            42.6805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Authentisches Inseldorf ohne Autos.",
+            "hu": "Autómentes, autentikus szigeti falu.",
+            "ro": "Sat insular autentic fără mașini.",
+            "en": "Authentic island village without cars."
+          }
+        },
+        {
+          "name": "Festung Kaštio",
+          "coords": [
+            17.9892,
+            42.6815
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historische Verteidigungsanlage am Meer.",
+            "hu": "Történelmi védelmi erőd a tengernél.",
+            "ro": "Fortificație istorică la malul mării.",
+            "en": "Historical defensive fortification by the sea."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Antonius",
+          "coords": [
+            17.9955,
+            42.6825
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gotische Kapelle mit Blick auf die Adria.",
+            "hu": "Gótikus kápolna kilátással az Adriára.",
+            "ro": "Capelă gotică cu vedere la Marea Adriatică.",
+            "en": "Gothic chapel with views of the Adriatic."
+          }
+        },
+        {
+          "name": "Klippen von Placet",
+          "coords": [
+            18.0045,
+            42.6655
+          ],
+          "category": "natural features",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spektakuläre Steilküste im Süden.",
+            "hu": "Látványos sziklás partvidék délen.",
+            "ro": "Coastă spectaculoasă în sud.",
+            "en": "Spectacular cliffs in the south."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Nikolaus",
+          "coords": [
+            18.0012,
+            42.6715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Alte Kirche auf dem Hügel Gornje Čelo.",
+            "hu": "Régi templom a Gornje Čelo dombon.",
+            "ro": "Biserică veche pe dealul Gornje Čelo.",
+            "en": "Old church on the Gornje Čelo hill."
+          }
+        },
+        {
+          "name": "Blaue Grotte (Modra špilja)",
+          "coords": [
+            17.9945,
+            42.6695
+          ],
+          "category": "natural features",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in das magische blaue Licht.",
+            "hu": "Ússzon be a mágikus kék fénybe.",
+            "ro": "Înotați în lumina albastră magică.",
+            "en": "Swim into the magical blue light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Willkommen auf Koločep, der südlichsten bewohnten Insel Kroatiens. Ihre Wanderung beginnt im charmanten Donje Čelo, führt vorbei an der Festung Kaštio und durch duftende Pinienwälder zu den dramatischen Klippen von Placet. Hier stürzt das Land senkrecht ins tiefe Blau.\n\nAm Nachmittag erkunden Sie die kleinen Kirchen der Insel, bevor Sie zur Blauen Grotte hinabsteigen. Ein Sprung ins kühle Nass und das Funkeln des Wassers sind der krönende Abschluss. Diese autofreie Oase ist perfekt, um zu entschleunigen und die wilde Schönheit der Adria zu erleben.",
+        "hu": "Üdvözöljük Koločepen, Horvátország legdélebbi lakott szigetén. A túra a bájos Donje Čelóból indul, elhalad a Kaštio erőd mellett, majd illatos fenyőerdőkön keresztül a látványos Placet-sziklákhoz vezet. Itt a part függőlegesen szakad bele a mélykék vízbe.\n\nDélután a sziget apró templomait fedezheti fel, mielőtt leereszkedne a Kék Barlanghoz. Egy csobbanás a hűvös vízben és a felszín csillogása teszi teljessé a napot. Ez az autómentes oázis tökéletes a lassításhoz és az Adria vad szépségének megtapasztalásához.",
+        "ro": "Bine ați venit pe Koločep, cea mai sudică insulă locuită a Croației. Drumeția dumneavoastră începe în fermecătorul Donje Čelo, trece pe lângă fortăreața Kaštio și prin păduri de pini parfumate până la stâncile dramatice din Placet. Aici pământul cade vertical în albastrul profund.\n\nDupă-amiaza explorați micile biserici ale insulei, înainte de a coborî la Grota Albastră. O săritură în apa răcoroasă și sclipirea apei reprezintă finalul perfect. Această oază fără mașini este locul ideal pentru a încetini ritmul și a experimenta frumusețea sălbatică a Adriaticii.",
+        "en": "Welcome to Koločep, Croatia's southernmost inhabited island. Your hike starts in charming Donje Čelo, passes the Kaštio fortress, and leads through fragrant pine forests to the dramatic Placet cliffs. Here, the land drops vertically into the deep blue.\n\nIn the afternoon, explore the island's small churches before descending to the Blue Cave. A dip in the cool water and the sparkling light are the perfect finale. This car-free oasis is ideal for slowing down and experiencing the wild beauty of the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Villa Rose",
+            "tip": "Romantisches Dinner mit Meerblick."
+          },
+          {
+            "name": "Gornje Čelo Konoba",
+            "tip": "Hausgemachter Peka-Kuchen und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Villa Rose Étterem",
+            "tip": "Romantikus vacsora tengeri kilátással."
+          },
+          {
+            "name": "Gornje Čelo Konoba",
+            "tip": "Házi peka és helyi bor."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurat Villa Rose",
+            "tip": "Cină romantică cu vedere la mare."
+          },
+          {
+            "name": "Konoba Gornje Čelo",
+            "tip": "Peka făcută în casă și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Villa Rose Restaurant",
+            "tip": "Romantic dinner with sea views."
+          },
+          {
+            "name": "Gornje Čelo Konoba",
+            "tip": "Homemade Peka and local wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen von Placet",
+            "tip": "Einsamkeit und Meeresrauschen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kirche Hl. Sergius",
+            "tip": "Stiller Ort im Inselinneren.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Placet-sziklák",
+            "tip": "Magány és tengerzúgás.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Sergius templom",
+            "tip": "Csendes hely a sziget belsejében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile Placet",
+            "tip": "Singurătate și sunetul mării.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Sergius",
+            "tip": "Loc liniștit în interiorul insulei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Placet Cliffs",
+            "tip": "Solitude and the sound of waves.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Sergius Church",
+            "tip": "Quiet spot in the island's interior.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Johannisbrot",
+            "tip": "Süßigkeiten aus Inselfrüchten."
+          },
+          {
+            "name": "Korallen-Souvenirs",
+            "tip": "Traditionelles Kunsthandwerk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi szentjánoskenyér",
+            "tip": "Édességek a sziget gyümölcseiből."
+          },
+          {
+            "name": "Korall ajándéktárgyak",
+            "tip": "Hagyományos kézműves termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Roșcovă locală",
+            "tip": "Dulciuri din fructele insulei."
+          },
+          {
+            "name": "Suveniruri din corali",
+            "tip": "Meșteșuguri tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Carob",
+            "tip": "Sweets made from island fruits."
+          },
+          {
+            "name": "Coral Souvenirs",
+            "tip": "Traditional handicrafts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie Taschenlampen für die Grottenbesichtigung mit.",
+          "Feste Wanderschuhe sind für die Klippenwege nötig.",
+          "Es gibt keine Bankautomaten auf der Insel, bringen Sie Bargeld mit."
+        ],
+        "hu": [
+          "Vigyen zseblámpát a barlang felfedezéséhez.",
+          "A sziklás utakhoz erős túracipő szükséges.",
+          "Nincs bankautomata a szigeten, vigyen készpénzt."
+        ],
+        "ro": [
+          "Luați o lanternă pentru explorarea grotelor.",
+          "Încălțămintea de drumeție este necesară pentru potecile de pe stânci.",
+          "Nu există bancomate pe insulă, aduceți numerar."
+        ],
+        "en": [
+          "Bring a flashlight for cave exploration.",
+          "Sturdy hiking shoes are needed for cliff paths.",
+          "There are no ATMs on the island, bring cash."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Dorf Donje Čelo",
+          "coords": [
+            17.9885,
+            42.6805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahrradverleih in der Nähe des Hafens.",
+            "hu": "Kerékpárkölcsönző a kikötő közelében.",
+            "ro": "Închiriere de biciclete lângă port.",
+            "en": "Bike rental near the harbor."
+          }
+        },
+        {
+          "name": "Leuchtturm Bezdanj",
+          "coords": [
+            18.0085,
+            42.6625
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Einsamer Leuchtturm am Kap.",
+            "hu": "Magányos világítótorony a foknál.",
+            "ro": "Far izolat la capătul insulei.",
+            "en": "Lonely lighthouse at the cape."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Sergius",
+          "coords": [
+            18.0055,
+            42.6685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ruhiger Stopp inmitten der Natur.",
+            "hu": "Csendes megálló a természet lágy ölén.",
+            "ro": "Oprire liniștită în mijlocul naturii.",
+            "en": "Quiet stop in the middle of nature."
+          }
+        },
+        {
+          "name": "Klippen von Placet",
+          "coords": [
+            18.0045,
+            42.6655
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bester Aussichtspunkt der Radtour.",
+            "hu": "A kerékpártúra legjobb kilátópontja.",
+            "ro": "Cel mai bun punct de belvedere al turului.",
+            "en": "Best viewpoint of the bike tour."
+          }
+        },
+        {
+          "name": "Dorf Donje Čelo",
+          "coords": [
+            17.9885,
+            42.6805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannung am Strand zum Abschluss.",
+            "hu": "Pihenés a strandon a végén.",
+            "ro": "Relaxare pe plajă la final.",
+            "en": "Relaxation at the beach to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Koločep auf zwei Rädern. Die Insel ist klein, aber die Wege führen durch dichte Vegetation zum südlichsten Punkt, dem Leuchtturm Bezdanj. Von dort aus radeln Sie entlang der Küstenpfade zu den Klippen von Placet, wo Sie den weiten Blick über die Adria genießen können.\n\nDie Route ist hügelig, belohnt aber mit einsamen Plätzen und frischer Meeresbrise. Den Nachmittag verbringen Sie entspannt in Donje Čelo, bevor Sie das Fahrrad zurückgeben. Eine sportliche Art, die versteckten Ecken der Insel zu erkunden.",
+        "hu": "Fedezze fel Koločepet két keréken. A sziget kicsi, de az utak sűrű növényzeten keresztül vezetnek a legdélebbi pontig, a Bezdanj világítótoronyig. Onnan a parti ösvényeken a Placet-sziklákhoz kerekezhet, ahol élvezheti az Adriára nyíló tágas kilátást.\n\nAz útvonal dombos, de magányos helyekkel és friss tengeri szellővel jutalmaz. A délutánt pihentetően tölti Donje Čelóban, mielőtt visszaadná a kerékpárt. Sportos módja a sziget rejtett zugainak felfedezésének.",
+        "ro": "Descoperiți Koločep pe două roți. Insula este mică, dar cărările duc prin vegetație densă până în cel mai sudic punct, farul Bezdanj. De acolo pedalați de-a lungul potecilor de coastă spre stâncile Placet, unde vă puteți bucura de vederea panoramică asupra Adriaticii.\n\nTraseul este deluros, dar vă răsplătește cu locuri izolate și briză proaspătă de mare. Petreceți după-amiaza relaxat în Donje Čelo înainte de a preda bicicleta. Un mod sportiv de a explora colțurile ascunse ale insulei.",
+        "en": "Discover Koločep on two wheels. The island is small, but the paths lead through dense vegetation to the southernmost point, the Bezdanj lighthouse. From there, cycle along the coastal paths to the Placet cliffs, where you can enjoy wide views over the Adriatic.\n\nThe route is hilly but rewards you with secluded spots and a fresh sea breeze. Spend the afternoon relaxing in Donje Čelo before returning the bike. A sporty way to explore the island's hidden corners."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Bar Koločep",
+            "tip": "Erfrischende Limonade für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Bar Koločep",
+            "tip": "Frissítő limonádé kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Bar Koločep",
+            "tip": "Limonadă răcoritoare pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Bar Koločep",
+            "tip": "Refreshing lemonade for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bezdanj Kap",
+            "tip": "Fast keine Touristen hier.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bezdanj-fok",
+            "tip": "Szinte nincsenek itt turisták.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Bezdanj",
+            "tip": "Aproape niciun turist aici.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bezdanj Cape",
+            "tip": "Almost no tourists here.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Insel-Olivenöl",
+            "tip": "Direktkauf bei den Bewohnern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti olívaolaj",
+            "tip": "Vásárlás közvetlenül a helyiektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de pe insulă",
+            "tip": "Cumpărați direct de la localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Island Olive Oil",
+            "tip": "Buy directly from the residents."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Bremsen vor der Abfahrt zu den Klippen.",
+          "Die Wege können nach Regen rutschig sein."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a sziklákhoz való leereszkedés előtt.",
+          "Eső után az utak csúszósak lehetnek."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a pleca spre stânci.",
+          "Potecile pot fi alunecoase după ploaie."
+        ],
+        "en": [
+          "Check the brakes before heading to the cliffs.",
+          "Paths can be slippery after rain."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Dorf Donje Čelo",
+          "coords": [
+            17.9885,
+            42.6805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abholung per Bootstaxi.",
+            "hu": "Felvétel vízitaxival.",
+            "ro": "Preluare cu taxiul pe apă.",
+            "en": "Pickup by boat taxi."
+          }
+        },
+        {
+          "name": "Blaue Grotte (Modra špilja)",
+          "coords": [
+            17.9945,
+            42.6695
+          ],
+          "category": "natural features",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Frühmorgens das intensivste Blau.",
+            "hu": "Kora reggel a legintenzívebb kék szín.",
+            "ro": "Cel mai intens albastru dis-de-dimineață.",
+            "en": "The most intense blue early in the morning."
+          }
+        },
+        {
+          "name": "Leuchtturm Bezdanj",
+          "coords": [
+            18.0085,
+            42.6625
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Anfahrt vom Meer aus am eindrucksvollsten.",
+            "hu": "A tenger felőli megközelítés a leglátványosabb.",
+            "ro": "Abordarea de pe mare este cea mai impresionantă.",
+            "en": "Approaching from the sea is most impressive."
+          }
+        },
+        {
+          "name": "Klippen von Placet",
+          "coords": [
+            18.0045,
+            42.6655
+          ],
+          "category": "natural features",
+          "arrive_at": "12:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ankern unterhalb der Felswände.",
+            "hu": "Horgonyzás a sziklafalak alatt.",
+            "ro": "Ancorare sub pereții de stâncă.",
+            "en": "Anchoring below the rock faces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Koločep autofrei ist, erleben Sie hier die 'Automobilität' auf dem Wasser mit einem privaten Schnellboot. Diese exklusive Tour umrundet die gesamte Insel. Sie starten mit der Blauen Grotte, bevor die Touristenmassen eintreffen, und bewundern den Leuchtturm Bezdanj aus nächster Nähe vom Deck aus.\n\nDas Highlight ist das Ankern unter den gigantischen Klippen von Placet, wo Sie direkt vom Boot ins tiefe Meer springen können. Eine luxuriöse und entspannte Art, die Küste der Insel ohne Fußmarsch zu entdecken.",
+        "hu": "Mivel Koločep autómentes, itt a vízi 'autómobilitást' egy privát gyorsasági motorcsónakkal tapasztalhatja meg. Ez az exkluzív túra megkerüli az egész szigetet. A Kék Barlanggal kezd, mielőtt a turistatömegek megérkeznének, és a fedélzetről közelről csodálhatja meg a Bezdanj világítótornyot.\n\nA fénypont a horgonyzás a Placet óriási sziklái alatt, ahol közvetlenül a hajóról ugorhat a mély tengerbe. Luxus és pihentető módja a sziget partvidékének felfedezésének gyaloglás nélkül.",
+        "ro": "Deoarece Koločep este fără mașini, experimentați aici „automobilitatea” pe apă cu o barcă rapidă privată. Acest tur exclusivist înconjoară întreaga insulă. Începeți cu Grota Albastră înainte de sosirea maselor de turiști și admirați farul Bezdanj de aproape de pe punte.\n\nPunctul culminant este ancorarea sub stâncile gigantice din Placet, unde puteți sări direct din barcă în marea adâncă. Un mod luxos și relaxat de a descoperi coasta insulei fără a merge pe jos.",
+        "en": "As Koločep is car-free, you experience 'automobility' here on the water with a private speedboat. This exclusive tour circles the entire island. Start with the Blue Cave before the tourist crowds arrive, and admire the Bezdanj lighthouse up close from the deck.\n\nThe highlight is anchoring under the gigantic Placet cliffs, where you can jump directly from the boat into the deep sea. A luxurious and relaxed way to discover the island's coastline without the walking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Boot-Picknick",
+            "tip": "Lokaler Käse und Wein an Bord."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajós piknik",
+            "tip": "Helyi sajt és bor a fedélzeten."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Picnic pe barcă",
+            "tip": "Brânză locală și vin la bord."
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat Picnic",
+            "tip": "Local cheese and wine on board."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Offenes Meer",
+            "tip": "Nur das Geräusch des Motors und der Wellen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyílt tenger",
+            "tip": "Csak a motor és a hullámok zaja.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marea largă",
+            "tip": "Doar sunetul motorului și al valurilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Open Sea",
+            "tip": "Only the sound of the engine and waves.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Duty-Free Hvar",
+            "tip": "Falls Sie einen Abstecher machen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vámmentes termékek",
+            "tip": "Ha kitérőt tesznek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Duty-free Hvar",
+            "tip": "Dacă faceți o escală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Duty-Free Hvar",
+            "tip": "If you make a detour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie nach einer Schnorchelausrüstung an Bord.",
+          "Achten Sie auf Wellengang bei der Grottenbesichtigung."
+        ],
+        "hu": [
+          "Kérjen sznorkelfelszerelést a fedélzeten.",
+          "Ügyeljen a hullámzásra a barlangnál."
+        ],
+        "ro": [
+          "Cereți echipament de snorkeling la bord.",
+          "Atenție la valuri la vizitarea grotei."
+        ],
+        "en": [
+          "Ask for snorkeling gear on board.",
+          "Watch out for waves when visiting the cave."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "Dorf Donje Čelo",
+          "coords": [
+            17.9885,
+            42.6805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft mit der Fähre 'Postira' aus Dubrovnik.",
+            "hu": "Érkezés a 'Postira' komppal Dubrovnikból.",
+            "ro": "Sosirea cu feribotul 'Postira' din Dubrovnik.",
+            "en": "Arrival with the ferry 'Postira' from Dubrovnik."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Nikolaus",
+          "coords": [
+            18.0012,
+            42.6715
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wanderung zum nächsten Ort Gornje Čelo.",
+            "hu": "Túra a következő településre, Gornje Čelóba.",
+            "ro": "Drumeție spre următorul sat, Gornje Čelo.",
+            "en": "Hike to the next village, Gornje Čelo."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Sergius",
+          "coords": [
+            18.0055,
+            42.6685
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kulturelles Erbe im Inselzentrum.",
+            "hu": "Kulturális örökség a sziget központjában.",
+            "ro": "Patrimoniu cultural în centrul insulei.",
+            "en": "Cultural heritage in the island center."
+          }
+        },
+        {
+          "name": "Dorf Donje Čelo",
+          "coords": [
+            17.9885,
+            42.6805
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Warten auf die Abendfähre am Sandstrand.",
+            "hu": "Várakozás az esti kompra a homokos strandon.",
+            "ro": "Așteptarea feribotului de seară pe plaja cu nisip.",
+            "en": "Waiting for the evening ferry at the sandy beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der öffentliche Transit nach Koločep besteht aus der legendären Fähre aus Dubrovnik. Sie landen in Donje Čelo und wandern über die Insel zum zweiten Dorf Gornje Čelo. Unterwegs besuchen Sie die historischen Kapellen, die wie kleine Wächter in der Landschaft stehen.\n\nDer Nachmittag endet wieder am Hauptstrand von Donje Čelo, wo Sie in einem Café das Inselleben beobachten können, bevor das Schiff Sie zurück zum Festland bringt. Eine entschleunigte Reise wie in vergangenen Zeiten.",
+        "hu": "A tömegközlekedés Koločepre a legendás dubrovniki kompból áll. Kiköt Donje Čelóban, majd átgyalogol a szigeten a második faluhoz, Gornje Čelóhoz. Útközben meglátogatja a történelmi kápolnákat, amelyek kis őrökként állnak a tájban.\n\nA délután ismét Donje Čelo főstrandján ér véget, ahol egy kávézóban figyelheti a szigeti életet, mielőtt a hajó visszavinné a szárazföldre. Egy lelassult utazás, akár a régi időkben.",
+        "ro": "Tranzitul public spre Koločep constă în legendarul feribot din Dubrovnik. Debarcați în Donje Čelo și mergeți pe jos peste insulă până la al doilea sat, Gornje Čelo. Pe drum vizitați capelele istorice care stau ca niște mici paznici în peisaj.\n\nDupă-amiaza se încheie din nou la plaja principală din Donje Čelo, unde puteți observa viața insulară într-o cafenea, înainte ca nava să vă ducă înapoi pe continent. O călătorie relaxată ca în vremurile de demult.",
+        "en": "Public transit to Koločep consists of the legendary ferry from Dubrovnik. Land in Donje Čelo and hike across the island to the second village, Gornje Čelo. Along the way, visit the historic chapels that stand like small sentinels in the landscape.\n\nThe afternoon ends back at the main beach of Donje Čelo, where you can watch island life from a café before the boat takes you back to the mainland. A slowed-down journey, just like in the old days."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet Gornje Čelo",
+            "tip": "Günstiger Imbiss für Wanderer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornje Čelo büfé",
+            "tip": "Olcsóbb gyorsételek túrázóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet Gornje Čelo",
+            "tip": "Gustare accesibilă pentru drumeți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet Gornje Čelo",
+            "tip": "Affordable snack for hikers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gornje Čelo Hafen",
+            "tip": "Viel ruhiger als der Hauptort.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornje Čelo kikötő",
+            "tip": "Sokkal csendesebb, mint a fő falu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Gornje Čelo",
+            "tip": "Mult mai liniștit decât localitatea principală.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gornje Čelo Harbor",
+            "tip": "Much quieter than the main village.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Donje Čelo",
+            "tip": "Zeitungen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Donje Čelo kioszk",
+            "tip": "Újságok és ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Donje Čelo",
+            "tip": "Ziare și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Donje Čelo Kiosk",
+            "tip": "Newspapers and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie die Fährtickets am Hafen von Dubrovnik.",
+          "Prüfen Sie den Sonntagsfahrplan genau."
+        ],
+        "hu": [
+          "Vegye meg a kompjegyeket a dubrovniki kikötőben.",
+          "Alaposan ellenőrizze a vasárnapi menetrendet."
+        ],
+        "ro": [
+          "Cumpărați biletele de feribot din portul Dubrovnik.",
+          "Verificați cu atenție orarul de duminică."
+        ],
+        "en": [
+          "Buy ferry tickets at the Dubrovnik harbor.",
+          "Check the Sunday schedule carefully."
+        ]
+      }
+    }
+  }
+}

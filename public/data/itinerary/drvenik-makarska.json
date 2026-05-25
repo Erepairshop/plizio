@@ -1,0 +1,958 @@
+{
+  "city_id": "drvenik-makarska",
+  "anchor": {
+    "name": "Drvenik (Makarska Riv.)",
+    "coords": [
+      17.2178,
+      43.175
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fährterminal Drvenik",
+            "hu": "Drvenik kompkikötő",
+            "ro": "Terminal feribot Drvenik",
+            "en": "Drvenik Ferry Terminal"
+          },
+          "coords": [
+            17.2185,
+            43.1755
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tor zur Insel Hvar.",
+            "hu": "Kapu Hvar szigete felé.",
+            "ro": "Poarta spre insula Hvar.",
+            "en": "Gateway to Hvar Island."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            17.2195,
+            43.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historische Barockkirche.",
+            "hu": "Történelmi barokk templom.",
+            "ro": "Biserică barocă istorică.",
+            "en": "Historical Baroque church."
+          }
+        },
+        {
+          "name": {
+            "de": "Donja Vala Bucht",
+            "hu": "Donja Vala öböl",
+            "ro": "Golful Donja Vala",
+            "en": "Donja Vala Bay"
+          },
+          "coords": [
+            17.216,
+            43.174
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Glasklares Wasser, ideal für Familien.",
+            "hu": "Kristálytiszta víz, ideális családoknak.",
+            "ro": "Apă cristalină, ideală pentru familii.",
+            "en": "Crystal clear water, ideal for families."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Gefallenen",
+            "hu": "Elesettek emlékműve",
+            "ro": "Monumentul eroilor",
+            "en": "Monument to the Fallen"
+          },
+          "coords": [
+            17.217,
+            43.1752
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "14:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nachdenklicher Ort im Grünen.",
+            "hu": "Elmélkedésre alkalmas ligetes hely.",
+            "ro": "Loc de reflecție în mijlocul vegetației.",
+            "en": "Reflective spot in a green area."
+          }
+        },
+        {
+          "name": {
+            "de": "Gornja Vala Strand",
+            "hu": "Gornja Vala strand",
+            "ro": "Plaja Gornja Vala",
+            "en": "Gornja Vala Beach"
+          },
+          "coords": [
+            17.225,
+            43.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Etwas ruhiger als Donja Vala.",
+            "hu": "Kicsit nyugodtabb, mint Donja Vala.",
+            "ro": "Ceva mai liniștită decât Donja Vala.",
+            "en": "Slightly quieter than Donja Vala."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Gradina",
+            "hu": "Gradina erőd",
+            "ro": "Cetatea Gradina",
+            "en": "Gradina Fortress"
+          },
+          "coords": [
+            17.23,
+            43.185
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Harter Aufstieg, toller Blick.",
+            "hu": "Meredek felkapaszkodó, pazar kilátás.",
+            "ro": "Urcuș greu, priveliște superbă.",
+            "en": "Tough climb, great view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Drvenik bietet zwei wunderschöne Buchten, die wir heute erkunden. Morgens beobachten wir das Treiben am Fährterminal und besuchen die St.-Georgs-Kirche. Der Mittag gehört der Donja Vala Bucht für ausgiebiges Baden. Nachmittags spazieren wir zum Gornja Vala Strand für weitere Entspannung. Den krönenden Abschluss bildet der Aufstieg zur Festung Gradina, von wo aus man den Sonnenuntergang über der Adria perfekt überblicken kann.",
+        "hu": "Drvenik két gyönyörű öböllel büszkélkedhet, melyeket ma felfedezünk. Reggel a kompkikötő nyüzsgését nézzük meg, majd a Szent György-templomba látogatunk. A délidőt a Donja Vala öbölben töltjük fürdőzéssel. Délután átmegyünk a Gornja Vala strandra egy kis lazításra. A nap csúcspontja a Gradina erődbe való felkapaszkodás, ahonnan tökéletes kilátás nyílik az adriai naplementére.",
+        "ro": "Drvenik oferă două goluri superbe pe care le explorăm astăzi. Dimineața observăm activitatea de la terminalul feribot și vizităm biserica Sf. Gheorghe. Prânzul aparține golfului Donja Vala pentru băi lungi. După-amiaza ne plimbăm spre plaja Gornja Vala pentru relaxare. Punctul culminant este urcarea la cetatea Gradina, de unde se poate vedea perfect apusul peste Marea Adriatică.",
+        "en": "Drvenik boasts two beautiful bays that we explore today. In the morning, watch the ferry terminal's bustle and visit St. George Church. Midday is spent at Donja Vala Bay for swimming. In the afternoon, stroll to Gornja Vala beach for further relaxation. The highlight is the climb to Gradina Fortress, offering a perfect vantage point for the sunset over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Medaillons in Weinsauce",
+            "tip": "Probieren Sie Konoba Jure."
+          },
+          {
+            "name": "Hausgemachtes Olivenöl",
+            "tip": "Direkt vom Erzeuger kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sertésmedalion bormártásban",
+            "tip": "Próbálja ki a Konoba Jure-t."
+          },
+          {
+            "name": "Házi olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Medalioane în sos de vin",
+            "tip": "Încercați la Konoba Jure."
+          },
+          {
+            "name": "Ulei de măsline de casă",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Medallions in Wine Sauce",
+            "tip": "Try Konoba Jure."
+          },
+          {
+            "name": "Homemade Olive Oil",
+            "tip": "Buy directly from producers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Staro Selo",
+            "tip": "Altes Dorf in den Hängen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Sankt-Rochus-Kirche",
+            "tip": "Idylle pur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staro Selo",
+            "tip": "Régi falu a lejtőkön.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Szent Rókus-templom",
+            "tip": "Tiszta idill.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Staro Selo",
+            "tip": "Satul vechi de pe pante.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Biserica Sf. Rochus",
+            "tip": "Idilă pură.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Staro Selo",
+            "tip": "Old village on the slopes.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "St. Roch Church",
+            "tip": "Pure idyll.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstand am Hafen",
+            "tip": "Obst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci stand a kikötőben",
+            "tip": "Gyümölcs és szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de piață la port",
+            "tip": "Fructe și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market stall at the harbor",
+            "tip": "Fruit and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kombi-Ticket für Hvar-Fähre prüfen.",
+          "Viel Trinken beim Aufstieg zur Gradina.",
+          "Schattenplätze sind begehrt.",
+          "Badeschuhe wegen Kies empfohlen."
+        ],
+        "hu": [
+          "Ellenőrizze a Hvar-komp menetrendet.",
+          "Igyon sokat a Gradina felé menet.",
+          "Az árnyékos helyek hamar elfogynak.",
+          "Vízicipő ajánlott a kavicsok miatt."
+        ],
+        "ro": [
+          "Verificați orarul feribotului spre Hvar.",
+          "Beți multă apă la urcarea spre Gradina.",
+          "Locurile la umbră sunt căutate.",
+          "Încălțăminte de apă recomandată."
+        ],
+        "en": [
+          "Check Hvar ferry schedules.",
+          "Drink plenty of water climbing to Gradina.",
+          "Shaded spots fill up quickly.",
+          "Water shoes recommended for pebbles."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fährterminal Drvenik",
+            "hu": "Drvenik kompkikötő",
+            "ro": "Terminal feribot Drvenik",
+            "en": "Drvenik Ferry Terminal"
+          },
+          "coords": [
+            17.2185,
+            43.1755
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Treffpunkt für Radler.",
+            "hu": "Legjobb találkahely bringásoknak.",
+            "ro": "Cel mai bun loc de întâlnire pentru bicicliști.",
+            "en": "Best meeting point for cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Donja Vala Bucht",
+            "hu": "Donja Vala öböl",
+            "ro": "Golful Donja Vala",
+            "en": "Donja Vala Bay"
+          },
+          "coords": [
+            17.216,
+            43.174
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schnelle Erfrischung.",
+            "hu": "Gyors felfrissülés.",
+            "ro": "Răcorire rapidă.",
+            "en": "Quick refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Staro Selo (Altes Dorf)",
+            "hu": "Staro Selo (Régi falu)",
+            "ro": "Staro Selo (Satul vechi)",
+            "en": "Staro Selo (Old Village)"
+          },
+          "coords": [
+            17.235,
+            43.19
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steiler Weg, E-Bike empfohlen.",
+            "hu": "Meredek út, e-bike javasolt.",
+            "ro": "Drum abrupt, e-bike recomandat.",
+            "en": "Steep path, e-bike recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Gornja Vala Strand",
+            "hu": "Gornja Vala strand",
+            "ro": "Plaja Gornja Vala",
+            "en": "Gornja Vala Beach"
+          },
+          "coords": [
+            17.225,
+            43.182
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rad am Pinienrand abstellen.",
+            "hu": "Hagyja a bringát a fenyők szélén.",
+            "ro": "Lăsați bicicleta la marginea pinilor.",
+            "en": "Park your bike at the pine edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad verbinden wir die Küste mit dem alten Hinterland. Nach dem Start am Terminal radeln wir zur Donja Vala Bucht und nehmen dann die Herausforderung nach Staro Selo an. Die Anstrengung wird durch absolute Ruhe und Authentizität belohnt. Zum Abschluss geht es bergab zurück an den Gornja Vala Strand für ein wohlverdientes Bad in der Adria.",
+        "hu": "Biciklivel összekötjük a partot a régi hátországgal. A kikötői rajt után a Donja Vala öbölhöz tekerünk, majd nekivágunk a Staro Selo felé vezető emelkedőnek. A fáradozást a teljes csend és az autentikus környezet kárpótolja. Végezetül legurulunk a Gornja Vala strandra egy megérdemelt csobbanásra.",
+        "ro": "Cu bicicleta unim coasta cu vechiul sat de pe munte. După startul din terminal, pedalăm spre golful Donja Vala și apoi acceptăm provocarea spre Staro Selo. Efortul este răsplătit de liniște absolută și autenticitate. La final, coborâm spre plaja Gornja Vala pentru o baie binemeritată în Adriatică.",
+        "en": "By bike, we connect the coast with the old inland village. Starting at the terminal, cycle to Donja Vala bay and then challenge yourself on the path to Staro Selo. The effort is rewarded with absolute silence and authenticity. Finally, coast back down to Gornja Vala beach for a well-deserved swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dalmatinischer Schinken",
+            "tip": "Energieschub für Radler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát sonka",
+            "tip": "Energiabomba bringásoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prosciutto dalmat",
+            "tip": "Sursă de energie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Prosciutto",
+            "tip": "Energy boost for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine oberhalb",
+            "tip": "Schattige Wege.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felső olajfaligetek",
+            "tip": "Árnyas utak.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini",
+            "tip": "Drumuri umbrite.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive groves above",
+            "tip": "Shady paths.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Radverleih",
+            "tip": "Ersatzteile und Service."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpárkölcsönző",
+            "tip": "Alkatrész és szerviz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete",
+            "tip": "Piese de schimb și service."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bike rental",
+            "tip": "Spare parts and service."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bremsen vor der Abfahrt prüfen.",
+          "Helm ist Pflicht.",
+          "Achten Sie auf Wanderer.",
+          "Früh starten wegen Hitze."
+        ],
+        "hu": [
+          "Ellenőrizze a féket indulás előtt.",
+          "Sisak kötelező.",
+          "Figyeljen a gyalogosokra.",
+          "Induljon korán a hőség miatt."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborâre.",
+          "Casca este obligatorie.",
+          "Atenție la drumeți.",
+          "Porniți devreme din cauza căldurii."
+        ],
+        "en": [
+          "Check brakes before descending.",
+          "Helmets are mandatory.",
+          "Watch out for hikers.",
+          "Start early to avoid heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Staro Selo (Altes Dorf)",
+            "hu": "Staro Selo (Régi falu)",
+            "ro": "Staro Selo (Satul vechi)",
+            "en": "Staro Selo (Old Village)"
+          },
+          "coords": [
+            17.235,
+            43.19
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Panoramastraße nutzen.",
+            "hu": "Használja a panoráma utat.",
+            "ro": "Folosiți drumul panoramic.",
+            "en": "Take the scenic road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Georg",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "St. George Church"
+          },
+          "coords": [
+            17.2195,
+            43.1765
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken direkt davor möglich.",
+            "hu": "Parkolás közvetlenül előtte.",
+            "ro": "Parcare posibilă chiar în față.",
+            "en": "Parking available right in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Donja Vala Bucht",
+            "hu": "Donja Vala öböl",
+            "ro": "Golful Donja Vala",
+            "en": "Donja Vala Bay"
+          },
+          "coords": [
+            17.216,
+            43.174
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz oft voll.",
+            "hu": "A központi parkoló gyakran tele van.",
+            "ro": "Parcarea centrală e adesea plină.",
+            "en": "Central parking often full."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaostrog (Kloster)",
+            "hu": "Zaostrog (Kolostor)",
+            "ro": "Zaostrog (Mănăstire)",
+            "en": "Zaostrog (Monastery)"
+          },
+          "coords": [
+            17.28,
+            43.14
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Kurzer Ausflug nach Süden.",
+            "hu": "Rövid kirándulás délre.",
+            "ro": "Scurtă excursie spre sud.",
+            "en": "Short excursion to the south."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt uns den Besuch des malerischen alten Dorfes oberhalb der Küste am Morgen. Danach kehren wir ins Zentrum von Drvenik zurück, um die Barockkirche und den Hauptstrand zu genießen. Als besonderes Extra fahren wir am Nachmittag ins nahegelegene Zaostrog, um das berühmte Franziskanerkloster zu besichtigen.",
+        "hu": "Az autóval reggel ellátogatunk a part feletti festői öreg faluba. Ezután visszatérünk Drvenik központjába, hogy megtekintsük a barokk templomot és élvezzük a strandot. Különlegességként délután átgurulunk a közeli Zaostrogba, hogy megnézzük a híres ferences kolostort.",
+        "ro": "Mașina ne permite să vizităm satul vechi pitoresc de deasupra coastei în cursul dimineții. Apoi revenim în centrul localității Drvenik pentru a vizita biserica barocă și a ne bucura de plajă. Ca un bonus, după-amiaza mergem în Zaostrog pentru a vedea celebra mănăstire franciscană.",
+        "en": "A car lets us visit the picturesque old village above the coast in the morning. Then, return to Drvenik center to enjoy the Baroque church and main beach. As a special extra, we drive to nearby Zaostrog in the afternoon to visit the famous Franciscan monastery."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grillteller",
+            "tip": "In den Restaurants am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grilltál",
+            "tip": "A tengerparti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platou grill",
+            "tip": "La restaurantele de pe malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grill Platter",
+            "tip": "At seaside restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zaostrog Klostergarten",
+            "tip": "Friedliche Stille.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zaostrog kolostorkert",
+            "tip": "Békés nyugalom.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Liniște deplină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "Peaceful silence.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Tommy",
+            "tip": "Gute Auswahl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tommy szupermarket",
+            "tip": "Jó választék."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Tommy",
+            "tip": "Selecție bună."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tommy Supermarket",
+            "tip": "Good selection."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die Parkgebühren.",
+          "Fahren Sie vorsichtig auf der Magistrale.",
+          "Klimaanlage nutzen.",
+          "Handtücher griffbereit haben."
+        ],
+        "hu": [
+          "Figyeljen a parkolási díjakra.",
+          "Vezessen óvatosan a Magistralén.",
+          "Használja a klímát.",
+          "Legyen kéznél törölköző."
+        ],
+        "ro": [
+          "Atenție la taxele de parcare.",
+          "Conduceți cu grijă pe Magistrală.",
+          "Folosiți climatizarea.",
+          "Aveți prosoapele la îndemână."
+        ],
+        "en": [
+          "Watch out for parking fees.",
+          "Drive carefully on the Magistrale.",
+          "Use air conditioning.",
+          "Keep towels handy."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Drvenik",
+            "hu": "Drvenik buszmegálló",
+            "ro": "Stație de autobuz Drvenik",
+            "en": "Drvenik Bus Stop"
+          },
+          "coords": [
+            17.219,
+            43.176
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verbindung nach Makarska.",
+            "hu": "Összeköttetés Makarska felé.",
+            "ro": "Legătură spre Makarska.",
+            "en": "Connection to Makarska."
+          }
+        },
+        {
+          "name": {
+            "de": "Podaca (Strand)",
+            "hu": "Podaca (Strand)",
+            "ro": "Podaca (Plajă)",
+            "en": "Podaca (Beach)"
+          },
+          "coords": [
+            17.295,
+            43.125
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ruhiger Nachbarort.",
+            "hu": "Csendes szomszéd falu.",
+            "ro": "Localitate vecină liniștită.",
+            "en": "Quiet neighboring village."
+          }
+        },
+        {
+          "name": {
+            "de": "Donja Vala Bucht",
+            "hu": "Donja Vala öböl",
+            "ro": "Golful Donja Vala",
+            "en": "Donja Vala Bay"
+          },
+          "coords": [
+            17.216,
+            43.174
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Rückkehr nach Drvenik.",
+            "hu": "Visszatérés Drvenikbe.",
+            "ro": "Revenire în Drvenik.",
+            "en": "Return to Drvenik."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Rochus-Kirche",
+            "hu": "Szent Rókus-templom",
+            "ro": "Biserica Sf. Rochus",
+            "en": "St. Roch Church"
+          },
+          "coords": [
+            17.221,
+            43.177
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schöner Tagesabschluss.",
+            "hu": "Szép napzárás.",
+            "ro": "Frumos final de zi.",
+            "en": "Beautiful day ending."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Bus erkunden wir den Nachbarort Podaca für einen entspannten Vormittag am dortigen Strand. Mittags kehren wir per Transit nach Drvenik zurück und genießen das kristallklare Wasser der Donja Vala Bucht. Der Tag endet besinnlich an der Sankt-Rochus-Kirche, die fußläufig erreichbar ist.",
+        "hu": "Helyi busszal fedezzük fel a szomszédos Podaca falut, ahol a délelőttöt a strandon töltjük. Délben busszal visszatérünk Drvenikbe, és élvezzük a Donja Vala öböl kristálytiszta vizét. A napot a Szent Rókus-templomnál zárjuk, amely gyalogosan is könnyen elérhető.",
+        "ro": "Cu autobuzul public explorăm localitatea vecină Podaca pentru o dimineață relaxată pe plaja de acolo. La prânz revenim cu transportul în comun în Drvenik și ne bucurăm de apa cristalină a golfului Donja Vala. Ziua se încheie liniștit la biserica Sf. Rochus, aflată la mică distanță de mers pe jos.",
+        "en": "By public bus, we explore the neighboring village of Podaca for a relaxed morning on its beach. Midday, return to Drvenik by transit to enjoy the crystal clear waters of Donja Vala bay. The day concludes peacefully at St. Roch Church, easily reachable on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek",
+            "tip": "Günstiger Snack für Transit-Reisende."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek",
+            "tip": "Olcsó falat buszozóknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek",
+            "tip": "Gustare ieftină pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek",
+            "tip": "Cheap snack for transit travelers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippenweg nach Zaostrog",
+            "tip": "Spaziergang am Meer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklás út Zaostrog felé",
+            "tip": "Séta a tengerparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul stâncos spre Zaostrog",
+            "tip": "Plimbare pe malul mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cliff path to Zaostrog",
+            "tip": "Walk along the sea.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postamt Drvenik",
+            "tip": "Postkarten versenden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drvenik posta",
+            "tip": "Képeslapküldés."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poșta Drvenik",
+            "tip": "Trimiteți vederi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Drvenik Post Office",
+            "tip": "Send postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse können Verspätung haben.",
+          "Fahrplan per App checken.",
+          "Maske im Bus mitführen.",
+          "Achten Sie auf Haltestellennamen."
+        ],
+        "hu": [
+          "A buszok késhetnek.",
+          "Ellenőrizze a menetrendet applikációban.",
+          "Legyen önnél maszk.",
+          "Figyeljen a megállók nevére."
+        ],
+        "ro": [
+          "Autobuzele pot avea întârzieri.",
+          "Verificați orarul prin aplicație.",
+          "Aveți mască la îndemână.",
+          "Atenție la numele stațiilor."
+        ],
+        "en": [
+          "Buses may be delayed.",
+          "Check schedule via app.",
+          "Carry a mask for the bus.",
+          "Pay attention to stop names."
+        ]
+      }
+    }
+  }
+}

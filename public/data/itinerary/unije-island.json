@@ -1,0 +1,1142 @@
+{
+  "city_id": "unije-island",
+  "anchor": {
+    "name": "Unije (village)",
+    "coords": [
+      14.2417,
+      44.6406
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der alte Ortskern",
+            "hu": "A régi faluközpont",
+            "ro": "Centrul vechi al satului",
+            "en": "The old village center"
+          },
+          "coords": [
+            14.246,
+            44.638
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die einzige Siedlung auf der Insel.",
+            "hu": "A sziget egyetlen települése.",
+            "ro": "Singura așezare de pe insulă.",
+            "en": "The only settlement on the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Andreas",
+            "hu": "Szent András plébániatemplom",
+            "ro": "Biserica Sfântul Andrei",
+            "en": "St. Andrew Parish Church"
+          },
+          "coords": [
+            14.247,
+            44.6385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schlichter, aber schöner Sakralbau.",
+            "hu": "Egyszerű, de szép szakrális épület.",
+            "ro": "O construcție sacră simplă, dar frumoasă.",
+            "en": "A simple but beautiful sacred building."
+          }
+        },
+        {
+          "name": {
+            "de": "Malo Polje",
+            "hu": "Malo Polje",
+            "ro": "Malo Polje",
+            "en": "Malo Polje"
+          },
+          "coords": [
+            14.25,
+            44.645
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Das fruchtbare Feld der Insel.",
+            "hu": "A sziget termékeny síksága.",
+            "ro": "Câmpul fertil al insulei.",
+            "en": "The fertile field of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Marčana",
+            "hu": "Marčana-öböl",
+            "ro": "Golful Marčana",
+            "en": "Marčana Bay"
+          },
+          "coords": [
+            14.255,
+            44.63
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser zum Schnorcheln.",
+            "hu": "Kristálytiszta víz búvárkodáshoz.",
+            "ro": "Apă cristalină pentru snorkeling.",
+            "en": "Crystal clear water for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Vele Stijene",
+            "hu": "Vele Stijene",
+            "ro": "Vele Stijene",
+            "en": "Vele Stijene"
+          },
+          "coords": [
+            14.23,
+            44.66
+          ],
+          "category": "natural features",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Imposante Klippen im Norden.",
+            "hu": "Impozáns sziklák az északi részen.",
+            "ro": "Stânci impunătoare în nord.",
+            "en": "Impressive cliffs in the north."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Vnetak",
+            "hu": "Vnetak világítótorony",
+            "ro": "Farul Vnetak",
+            "en": "Vnetak Lighthouse"
+          },
+          "coords": [
+            14.23,
+            44.625
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Südspitze der Insel.",
+            "hu": "A sziget déli csücske.",
+            "ro": "Vârful sudic al insulei.",
+            "en": "Southern tip of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Podkujni",
+            "hu": "Podkujni-öböl",
+            "ro": "Golful Podkujni",
+            "en": "Podkujni Bay"
+          },
+          "coords": [
+            14.258,
+            44.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für den späten Nachmittag.",
+            "hu": "Csendes hely a késő délutánhoz.",
+            "ro": "Un loc liniștit pentru după-amiaza târzie.",
+            "en": "A quiet spot for late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unije ist eine Oase der Ruhe ohne Autos. Ihr Spaziergang beginnt im charmanten Dorfzentrum und führt zur St. Andreas Kirche. Durchqueren Sie das grüne Malo Polje und genießen Sie die Einsamkeit der Marčana Bucht. Die dramatischen Vele Stijene Klippen im Norden und der einsame Leuchtturm Vnetak im Süden zeigen die unberührte Natur der Insel, bevor Sie den Tag entspannt in der Podkujni Bucht ausklingen lassen.",
+        "hu": "Unije a nyugalom szigete autók nélkül. A séta a bájos faluközpontban kezdődik és a Szent András-templomhoz vezet. Szelje át a zöldellő Malo Poljét, és élvezze a Marčana-öböl magányát. Az északi drámai Vele Stijene sziklák és a déli magányos Vnetak világítótorony megmutatják a sziget érintetlen természetét, mielőtt a napot pihentetően zárná a Podkujni-öbölben.",
+        "ro": "Unije este o oază de liniște fără mașini. Plimbarea dvs. începe în centrul fermecător al satului și duce la Biserica Sf. Andrei. Traversați zona verde Malo Polje și bucurați-vă de singurătatea golfului Marčana. Stâncile dramatice Vele Stijene din nord și farul solitar Vnetak din sud arată natura neatinsă a insulei, înainte de a încheia ziua relaxat în golful Podkujni.",
+        "en": "Unije is an oasis of peace without cars. Your walk begins in the charming village center and leads to St. Andrew Church. Cross the green Malo Polje and enjoy the solitude of Marčana Bay. The dramatic Vele Stijene cliffs in the north and the lonely Vnetak lighthouse in the south show the island's untouched nature, before ending the day relaxed in Podkujni Bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gebratener Kalmar",
+            "tip": "Frisch aus den Gewässern um Unije."
+          },
+          {
+            "name": "Lamm unter der Peka",
+            "tip": "Traditionell langsam gegart."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült kalmár",
+            "tip": "Frissen az Unije környéki vizekből."
+          },
+          {
+            "name": "Bárány peka alatt",
+            "tip": "Hagyományosan, lassan sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamar prăjit",
+            "tip": "Proaspăt din apele din jurul Unije."
+          },
+          {
+            "name": "Miel sub peka",
+            "tip": "Gătit tradițional, lent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fried Squid",
+            "tip": "Fresh from the waters around Unije."
+          },
+          {
+            "name": "Lamb under the Peka",
+            "tip": "Traditionally slow-cooked."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Farul Vnetak",
+            "tip": "Spectacular sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vele Stijene",
+            "tip": "Meditatives Rauschen der Wellen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vnetak világítótorony",
+            "tip": "Látványos naplemente.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vele Stijene",
+            "tip": "A hullámok meditatív zúgása.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Vnetak",
+            "tip": "Apus de soare spectaculos.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vele Stijene",
+            "tip": "Sunetul meditativ al valurilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vnetak Lighthouse",
+            "tip": "Spectacular sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Vele Stijene",
+            "tip": "Meditative sound of waves.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Unije-Olivenöl",
+            "tip": "Von den jahrhundertealten Hainen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Unijei olívaolaj",
+            "tip": "Az évszázados ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Unije",
+            "tip": "Din livezile seculare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Unije Olive Oil",
+            "tip": "From the centuries-old groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt keine Autos, genießen Sie die Stille.",
+          "Die Wege können steinig sein, festes Schuhwerk hilft.",
+          "Wasserflaschen an der öffentlichen Quelle auffüllen.",
+          "Das Dorf ist klein, fast jeder kennt jeden."
+        ],
+        "hu": [
+          "Nincsenek autók, élvezze a csendet.",
+          "Az utak kövesek lehetnek, a stabil lábbeli segít.",
+          "Töltse meg kulacsait a nyilvános forrásnál.",
+          "A falu kicsi, szinte mindenki ismer mindenkit."
+        ],
+        "ro": [
+          "Nu există mașini, bucurați-vă de liniște.",
+          "Drumurile pot fi pietroase, încălțămintea solidă ajută.",
+          "Umpleți sticlele de apă la sursa publică.",
+          "Satul este mic, aproape toată lumea cunoaște pe toată lumea."
+        ],
+        "en": [
+          "There are no cars, enjoy the silence.",
+          "The paths can be stony, sturdy footwear helps.",
+          "Fill up water bottles at the public source.",
+          "The village is small, almost everyone knows everyone."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der alte Ortskern",
+            "hu": "A régi faluközpont",
+            "ro": "Centrul vechi",
+            "en": "Old Village Center"
+          },
+          "coords": [
+            14.246,
+            44.638
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Start der Tour.",
+            "hu": "A túra kezdete.",
+            "ro": "Începutul turului.",
+            "en": "Start of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Flugplatz Unije",
+            "hu": "Unijei repülőtér",
+            "ro": "Aerodromul Unije",
+            "en": "Unije Airfield"
+          },
+          "coords": [
+            14.255,
+            44.64
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kleine Graspiste für Sportflugzeuge.",
+            "hu": "Kis füves pálya sportrepülőknek.",
+            "ro": "Mică pistă de iarbă pentru avioane sportive.",
+            "en": "Small grass strip for sports planes."
+          }
+        },
+        {
+          "name": {
+            "de": "Malo Polje",
+            "hu": "Malo Polje",
+            "ro": "Malo Polje",
+            "en": "Malo Polje"
+          },
+          "coords": [
+            14.25,
+            44.645
+          ],
+          "category": "natural features",
+          "arrive_at": "10:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Flaches Gelände, ideal zum Treten.",
+            "hu": "Lapos terep, ideális tekeréshez.",
+            "ro": "Teren plat, ideal pentru pedalat.",
+            "en": "Flat terrain, ideal for pedaling."
+          }
+        },
+        {
+          "name": {
+            "de": "Vele Stijene",
+            "hu": "Vele Stijene",
+            "ro": "Vele Stijene",
+            "en": "Vele Stijene"
+          },
+          "coords": [
+            14.23,
+            44.66
+          ],
+          "category": "natural features",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schöner Küstenweg dorthin.",
+            "hu": "Szép parti út vezet oda.",
+            "ro": "Drum de coastă frumos până acolo.",
+            "en": "Beautiful coastal path leading there."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Marčana",
+            "hu": "Marčana-öböl",
+            "ro": "Golful Marčana",
+            "en": "Marčana Bay"
+          },
+          "coords": [
+            14.255,
+            44.63
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Badepause!",
+            "hu": "Fürdőzés!",
+            "ro": "Pauză de baie!",
+            "en": "Swim break!"
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Vnetak",
+            "hu": "Vnetak világítótorony",
+            "ro": "Farul Vnetak",
+            "en": "Vnetak Lighthouse"
+          },
+          "coords": [
+            14.23,
+            44.625
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einsamer Posten im Südwesten.",
+            "hu": "Magányos őrhely délnyugaton.",
+            "ro": "Post solitar în sud-vest.",
+            "en": "Lonely post in the southwest."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Podkujni",
+            "hu": "Podkujni-öböl",
+            "ro": "Golful Podkujni",
+            "en": "Podkujni Bay"
+          },
+          "coords": [
+            14.258,
+            44.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bikes im Gebüsch parken.",
+            "hu": "A bringákat hagyja a bokrokban.",
+            "ro": "Parcați bicicletele în tufișuri.",
+            "en": "Park bikes in the bushes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Unije mit dem Fahrrad auf den flachen Wegen der Insel. Von der Siedlung führt der Weg am kleinen Flugplatz vorbei ins fruchtbare Malo Polje. Die Tour führt Sie zu den dramatischen Klippen von Vele Stijene und bietet danach Entspannung in der Marčana Bucht. Bevor Sie zum Dorf zurückkehren, besuchen Sie den Leuchtturm Vnetak und die versteckte Bucht Podkujni, während Sie die Meeresbrise genießen.",
+        "hu": "Fedezze fel Unijét kerékpárral a sziget sík útjain. A településtől az út a kis repülőtér mellett vezet a termékeny Malo Poljébe. A túra elviszi a Vele Stijene drámai szikláihoz, majd pihenést kínál a Marčana-öbölben. Mielőtt visszatérne a faluba, látogasson el a Vnetak világítótoronyhoz és a rejtett Podkujni-öbölhöz, miközben élvezi a tengeri szellőt.",
+        "ro": "Descoperiți Unije cu bicicleta pe drumurile plate ale insulei. Din așezare, drumul trece pe lângă micul aerodrom către zona fertilă Malo Polje. Turul vă duce la stâncile dramatice Vele Stijene și oferă apoi relaxare în golful Marčana. Înainte de a vă întoarce în sat, vizitați farul Vnetak și golful ascuns Podkujni, în timp ce vă bucurați de briza mării.",
+        "en": "Discover Unije by bike on the island's flat paths. From the settlement, the path leads past the small airfield into the fertile Malo Polje. The tour takes you to the dramatic cliffs of Vele Stijene and then offers relaxation in Marčana Bay. Before returning to the village, visit the Vnetak lighthouse and the hidden Podkujni Bay while enjoying the sea breeze."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Unije-Honig",
+            "tip": "Besonders fein und limitiert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Unijei méz",
+            "tip": "Különösen finom és korlátozott mennyiségű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de Unije",
+            "tip": "Deosebit de fină și limitată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Unije Honey",
+            "tip": "Especially fine and limited."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Malo Polje (Mitte)",
+            "tip": "Natur pur ohne Lärm.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Malo Polje (közép)",
+            "tip": "Tiszta természet zaj nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malo Polje (centru)",
+            "tip": "Natură pură fără zgomot.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Malo Polje (Center)",
+            "tip": "Pure nature without noise.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Ein gesunder Inselflaire-Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított füge",
+            "tip": "Egészséges szigeti snack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "O gustare sănătoasă cu aromă de insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "A healthy island snack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Fahrradverleih ist im Dorf vorhanden.",
+          "Achten Sie auf die Schafe, die oft die Wege kreuzen.",
+          "Der Nordteil der Insel ist etwas hügeliger.",
+          "Prüfen Sie den Reifendruck vor der Abfahrt."
+        ],
+        "hu": [
+          "Kerékpárkölcsönző a faluban található.",
+          "Figyeljen a juhokra, amelyek gyakran keresztezik az utat.",
+          "A sziget északi része kissé dombosabb.",
+          "Indulás előtt ellenőrizze a guminyomást."
+        ],
+        "ro": [
+          "În sat există un centru de închirieri biciclete.",
+          "Fiți atenți la oi, care traversează adesea drumurile.",
+          "Partea de nord a insulei este ceva mai deluroasă.",
+          "Verificați presiunea în anvelope înainte de plecare."
+        ],
+        "en": [
+          "Bike rental is available in the village.",
+          "Watch out for sheep that often cross the paths.",
+          "The northern part of the island is slightly hillier.",
+          "Check the tire pressure before leaving."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorf Unije",
+            "hu": "Unije falu",
+            "ro": "Satul Unije",
+            "en": "Unije Village"
+          },
+          "coords": [
+            14.246,
+            44.638
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Herz der Insel.",
+            "hu": "A sziget szíve.",
+            "ro": "Inima insulei.",
+            "en": "The heart of the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Andreas",
+            "hu": "Szent András templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andrew Church"
+          },
+          "coords": [
+            14.247,
+            44.6385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blickfang im Dorf.",
+            "hu": "Látványosság a faluban.",
+            "ro": "Punct de atracție în sat.",
+            "en": "Eye-catcher in the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Flugplatz Unije",
+            "hu": "Unijei repülőtér",
+            "ro": "Aerodromul Unije",
+            "en": "Unije Airfield"
+          },
+          "coords": [
+            14.255,
+            44.64
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "11:20",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Interessanter Kontrast zur Natur.",
+            "hu": "Érdekes kontraszt a természettel.",
+            "ro": "Contrast interesant cu natura.",
+            "en": "Interesting contrast to nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Vele Stijene",
+            "hu": "Vele Stijene",
+            "ro": "Vele Stijene",
+            "en": "Vele Stijene"
+          },
+          "coords": [
+            14.23,
+            44.66
+          ],
+          "category": "natural features",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Unbedingt die Kamera mitnehmen.",
+            "hu": "Feltétlenül vigyen kamerát.",
+            "ro": "Luați neapărat camera cu dvs.",
+            "en": "Be sure to take a camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Marčana",
+            "hu": "Marčana-öböl",
+            "ro": "Golful Marčana",
+            "en": "Marčana Bay"
+          },
+          "coords": [
+            14.255,
+            44.63
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der schönste Platz zum Schwimmen.",
+            "hu": "A legszebb hely az úszáshoz.",
+            "ro": "Cel mai frumos loc pentru înot.",
+            "en": "The most beautiful spot for swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Vnetak",
+            "hu": "Vnetak világítótorony",
+            "ro": "Farul Vnetak",
+            "en": "Vnetak Lighthouse"
+          },
+          "coords": [
+            14.23,
+            44.625
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Insel.",
+            "hu": "A sziget jelképe.",
+            "ro": "Simbolul insulei.",
+            "en": "Landmark of the island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Unije autofrei ist, stellt dieser Modus eine komplette Inseltour dar (theoretisch per Boot oder zu Fuß simuliert). Sie erkunden den Ortskern, die St. Andreas Kirche und den kleinen Inselflugplatz. Die Route führt Sie zu den majestätischen Vele Stijene Klippen und zur entspannenden Marčana Bucht. Zum Abschluss genießen Sie den Blick vom historischen Leuchtturm Vnetak über das endlose Meer.",
+        "hu": "Mivel Unije autómentes, ez a mód egy teljes szigettúrát mutat be (elméletben hajóval vagy gyalog szimulálva). Felfedezi a faluközpontot, a Szent András-templomot és a kis szigeti repülőteret. Az útvonal elviszi a fenséges Vele Stijene sziklákhoz és a pihentető Marčana-öbölbe. Végezetül élvezze a kilátást a történelmi Vnetak világítótoronytól a végtelen tengerre.",
+        "ro": "Deoarece Unije este fără mașini, acest mod reprezintă un tur complet al insulei (simulat teoretic cu barca sau pe jos). Explorați centrul satului, Biserica Sf. Andrei și micul aerodrom al insulei. Traseul vă duce la stâncile maiestuoase Vele Stijene și la golful relaxant Marčana. La final, bucurați-vă de priveliștea de la farul istoric Vnetak peste marea nesfârșită.",
+        "en": "Since Unije is car-free, this mode represents a complete island tour (simulated theoretically by boat or on foot). You explore the village center, St. Andrew Church, and the small island airfield. The route takes you to the majestic Vele Stijene cliffs and the relaxing Marčana Bay. To finish, enjoy the view from the historical Vnetak lighthouse over the endless sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Nach traditioneller Art gereift."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Hagyományos módon érlelve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Maturată în mod tradițional."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Cheese",
+            "tip": "Ripened in a traditional way."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht Podkujni",
+            "tip": "Einsamkeit pur.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Podkujni-öböl",
+            "tip": "Tiszta magány.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Podkujni",
+            "tip": "Singurătate pură.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Podkujni Bay",
+            "tip": "Pure solitude.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ätherische Öle",
+            "tip": "Lavendel und Rosmarin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Illóolajok",
+            "tip": "Levendula és rozmaring."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uleiuri esențiale",
+            "tip": "Levănțică și rozmarin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Essential Oils",
+            "tip": "Lavender and rosemary."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lassen Sie alle Fahrzeuge auf dem Festland.",
+          "Die Insel wird am besten langsam erkundet.",
+          "Genießen Sie die absolute Stille ohne Motorenlärm.",
+          "Das Boot ist das einzige Verkehrsmittel hierher."
+        ],
+        "hu": [
+          "Hagyjon minden járművet a szárazföldön.",
+          "A szigetet a legjobb lassan felfedezni.",
+          "Élvezze a teljes csendet motorzaj nélkül.",
+          "A hajó az egyetlen közlekedési eszköz ide."
+        ],
+        "ro": [
+          "Lăsați toate vehiculele pe continent.",
+          "Insula este cel mai bine explorată lent.",
+          "Bucurați-vă de liniștea absolută fără zgomot de motoare.",
+          "Barca este singurul mijloc de transport până aici."
+        ],
+        "en": [
+          "Leave all vehicles on the mainland.",
+          "The island is best explored slowly.",
+          "Enjoy the absolute silence without engine noise.",
+          "The boat is the only means of transport here."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen Unije",
+            "hu": "Unije kikötő",
+            "ro": "Portul Unije",
+            "en": "Unije Harbor"
+          },
+          "coords": [
+            14.242,
+            44.64
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ankunftspunkt der Fähre.",
+            "hu": "A komp érkezési pontja.",
+            "ro": "Punctul de sosire al feribotului.",
+            "en": "Arrival point of the ferry."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Ortskern",
+            "hu": "A régi faluközpont",
+            "ro": "Centrul vechi",
+            "en": "Old Village Center"
+          },
+          "coords": [
+            14.246,
+            44.638
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gleich oberhalb des Hafens.",
+            "hu": "Közvetlenül a kikötő felett.",
+            "ro": "Chiar deasupra portului.",
+            "en": "Just above the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Andreas",
+            "hu": "Szent András templom",
+            "ro": "Biserica Sf. Andrei",
+            "en": "St. Andrew Church"
+          },
+          "coords": [
+            14.247,
+            44.6385
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kultureller Mittelpunkt.",
+            "hu": "Kulturális központ.",
+            "ro": "Centrul cultural.",
+            "en": "Cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Podkujni",
+            "hu": "Podkujni-öböl",
+            "ro": "Golful Podkujni",
+            "en": "Podkujni Bay"
+          },
+          "coords": [
+            14.258,
+            44.625
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang dorthin.",
+            "hu": "Szép séta vezet oda.",
+            "ro": "O plimbare frumoasă până acolo.",
+            "en": "A beautiful walk to get there."
+          }
+        },
+        {
+          "name": {
+            "de": "Malo Polje",
+            "hu": "Malo Polje",
+            "ro": "Malo Polje",
+            "en": "Malo Polje"
+          },
+          "coords": [
+            14.25,
+            44.645
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Natur pur erleben.",
+            "hu": "Élje át a tiszta természetet.",
+            "ro": "Experimentați natura pură.",
+            "en": "Experience pure nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen Abschied",
+            "hu": "Búcsú a kikötőben",
+            "ro": "Rămas bun la port",
+            "en": "Farewell at the Harbor"
+          },
+          "coords": [
+            14.242,
+            44.64
+          ],
+          "category": "port",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Warten auf das Schiff.",
+            "hu": "Várakozás a hajóra.",
+            "ro": "Așteptând vaporul.",
+            "en": "Waiting for the ship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Für Transit-Reisende beginnt der Tag am Hafen von Unije. Nach einem Besuch im alten Ortskern und der St. Andreas Kirche führt ein entspannter Weg zur malerischen Podkujni Bucht, wo Sie den Mittag verbringen. Der Rückweg führt über das grüne Malo Polje zurück zum Hafen, wo Sie das Inselflair ein letztes Mal genießen, bevor die Fähre Sie wieder mitnimmt.",
+        "hu": "A tranzit-utazók számára a nap Unije kikötőjében kezdődik. A régi faluközpont és a Szent András-templom meglátogatása után pihentető út vezet a festői Podkujni-öbölbe, ahol a délidőt tölti. A visszavezető út a zöldellő Malo Poljén keresztül visz a kikötőbe, ahol utoljára élvezheti a szigeti hangulatot, mielőtt a komp elindulna.",
+        "ro": "Pentru călătorii în tranzit, ziua începe în portul Unije. După o vizită în centrul vechi și la Biserica Sf. Andrei, o potecă relaxantă duce la pitorescul golf Podkujni, unde veți petrece prânzul. Drumul de întoarcere trece prin zona verde Malo Polje înapoi în port, unde vă bucurați de atmosfera insulară o ultimă dată înainte de plecarea feribotului.",
+        "en": "For transit travelers, the day begins at the harbor of Unije. After a visit to the old village center and St. Andrew Church, a relaxed path leads to the picturesque Podkujni Bay, where you spend the midday. The return path leads through the green Malo Polje back to the harbor, where you enjoy the island flair one last time before the ferry takes you back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frisches Brot",
+            "tip": "Aus der einzigen Bäckerei im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss kenyér",
+            "tip": "A falu egyetlen pékségéből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pâine proaspătă",
+            "tip": "De la singura brutărie din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Bread",
+            "tip": "From the only bakery in the village."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bänke am Hafen",
+            "tip": "Schiffe beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői padok",
+            "tip": "Hajók megfigyelése.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din port",
+            "tip": "Privind vapoarele.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Benches at the Harbor",
+            "tip": "Watching the ships.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Unije-Souvenirs",
+            "tip": "Handgefertigte Kleinigkeiten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Unijei szuvenírek",
+            "tip": "Kézzel készített apróságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri Unije",
+            "tip": "Mici obiecte lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Unije Souvenirs",
+            "tip": "Handmade small items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Katamarane von Rijeka oder Mali Lošinj sind ideal.",
+          "Prüfen Sie, ob das Boot anlegt, bei starkem Wind fällt es oft aus.",
+          "Nehmen Sie Proviant für die Wanderungen mit.",
+          "Im Hafen gibt es ein kleines Café für die Wartezeit."
+        ],
+        "hu": [
+          "A rijekai vagy Mali Lošinj-i katamaránok ideálisak.",
+          "Ellenőrizze, kiköt-e a hajó, erős szélben gyakran elmarad.",
+          "Vigyen útravalót a túrákhoz.",
+          "A kikötőben van egy kis kávézó a várakozáshoz."
+        ],
+        "ro": [
+          "Cataramanele din Rijeka sau Mali Lošinj sunt ideale.",
+          "Verificați dacă barca acostează, pe vânt puternic se anulează adesea.",
+          "Luați provizii pentru drumeții.",
+          "În port există o cafenea mică pentru timpul de așteptare."
+        ],
+        "en": [
+          "Catamarans from Rijeka or Mali Lošinj are ideal.",
+          "Check if the boat docks, it is often cancelled in strong winds.",
+          "Take provisions for the hikes.",
+          "There is a small cafe in the harbor for waiting time."
+        ]
+      }
+    }
+  }
+}

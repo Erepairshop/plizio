@@ -1,0 +1,1036 @@
+{
+  "city_id": "promajna",
+  "anchor": {
+    "name": "Promajna",
+    "coords": [
+      17.0717,
+      43.2581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfhafen",
+            "hu": "Falu kikötője",
+            "ro": "Portul satului",
+            "en": "Village Harbor"
+          },
+          "coords": [
+            17.0722,
+            43.2585
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frühmorgens bringen Fischer ihren Fang.",
+            "hu": "Kora reggel nézze meg a halászok zsákmányát.",
+            "ro": "Dimineața devreme puteți vedea captura pescarilor.",
+            "en": "Watch the fishermen bring in their catch early."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            17.071,
+            43.2575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kühler Ort für Besinnung.",
+            "hu": "Hűvös hely az elmélyüléshez.",
+            "ro": "Un loc răcoros pentru meditație.",
+            "en": "A cool place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinhäuser",
+            "hu": "Régi kőházak",
+            "ro": "Case vechi de piatră",
+            "en": "Old Stone Houses"
+          },
+          "coords": [
+            17.0735,
+            43.259
+          ],
+          "category": "famous residences",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotogenste Gasse im Ort.",
+            "hu": "A falu legfotogénebb utcája.",
+            "ro": "Cea mai fotogenică uliță din sat.",
+            "en": "The most photogenic alley in the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Promajna Hauptstrand",
+            "hu": "Promajna központi strand",
+            "ro": "Plaja principală Promajna",
+            "en": "Promajna Main Beach"
+          },
+          "coords": [
+            17.07,
+            43.257
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Natürlicher Schatten unter Pinien.",
+            "hu": "Természetes árnyék a fenyők alatt.",
+            "ro": "Umbră naturală sub pini.",
+            "en": "Natural shade under pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Fischer",
+            "hu": "Halászok emlékműve",
+            "ro": "Monumentul pescarilor",
+            "en": "Monument to Fishermen"
+          },
+          "coords": [
+            17.0715,
+            43.2582
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "15:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Symbol der lokalen Tradition.",
+            "hu": "A helyi hagyományok szimbóluma.",
+            "ro": "Simbolul tradiției locale.",
+            "en": "A symbol of local tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenweg nach Baška Voda",
+            "hu": "Parti út Baška Voda felé",
+            "ro": "Drumul de coastă spre Baška Voda",
+            "en": "Coastal Path to Baška Voda"
+          },
+          "coords": [
+            17.06,
+            43.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Herrliche Aussicht auf die Adria.",
+            "hu": "Pazar kilátás az Adriára.",
+            "ro": "Vedere superbă spre Marea Adriatică.",
+            "en": "Stunning views of the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sveti Rok",
+            "hu": "Szent Rókus kilátó",
+            "ro": "Punctul de belvedere Sveti Rok",
+            "en": "Sveti Rok Viewpoint"
+          },
+          "coords": [
+            17.075,
+            43.26
+          ],
+          "category": "natural features",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekt für das Abendlicht.",
+            "hu": "Tökéletes az esti fényekhez.",
+            "ro": "Perfect pentru lumina de seară.",
+            "en": "Perfect for the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt entspannt am malerischen Hafen und in der Allerheiligenkirche, wo man die Ruhe des ehemaligen Fischerdorfs spürt. Mittags laden die alten Steinhäuser zu einem Spaziergang ein, gefolgt von einer ausgiebigen Pause am schattigen Hauptstrand. Am Nachmittag ehren wir die Tradition am Fischerdenkmal und spazieren den Panoramaweg entlang. Den Abend krönt der Sonnenuntergang am Aussichtspunkt Sveti Rok mit Blick auf das Biokovo-Gebirge.",
+        "hu": "A délelőtt a festői kikötőben és a Mindenszentek-templomban indul, ahol átélhető az egykori halászfalu nyugalma. Délben a régi kőházak hívogatnak sétára, amit egy hosszú pihenő követ a fenyvesek övezte strandon. Délután tisztelegjünk a halászok emlékművénél, majd sétáljunk a panorámás parti úton. Az estét a Szent Rókus kilátónál zárjuk, ahonnan csodás kilátás nyílik a Biokovo-hegységre és a tengerre.",
+        "ro": "Dimineața începe relaxat în portul pitoresc și la Biserica Tuturor Sfinților, unde se simte liniștea fostului sat pescăresc. La prânz, casele vechi de piatră invită la o plimbare, urmată de o pauză lungă pe plaja principală umbrită. După-amiaza onorăm tradiția la monumentul pescarilor și ne plimbăm pe drumul panoramic. Seara este încununată de apusul de la punctul de belvedere Sveti Rok, cu vedere spre muntele Biokovo.",
+        "en": "The morning starts relaxed at the picturesque harbor and All Saints Church, capturing the peace of this former fishing village. At midday, explore the old stone houses before a long break on the pine-shaded main beach. In the afternoon, honor tradition at the fishermen's monument and stroll along the scenic coastal path. The evening concludes at the Sveti Rok viewpoint, offering stunning sunset views over the Adriatic and Biokovo mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Tintenfisch",
+            "tip": "Probieren Sie fangfrischen Fisch im Restaurant Gastro."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Traditionelles Schmorgericht im Konoba Hajduk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett tintahal",
+            "tip": "Kóstolja meg a friss fogást a Gastro étteremben."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Hagyományos dalmát marhasült a Konoba Hajdukban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamar la grătar",
+            "tip": "Încercați peștele proaspăt la restaurantul Gastro."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Vită tradițională la Konoba Hajduk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Squid",
+            "tip": "Try the fresh catch at Gastro restaurant."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Traditional Dalmatian beef stew at Konoba Hajduk."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sveti Rok Kapelle",
+            "tip": "Stille und Panorama.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pinienwald am Strand",
+            "tip": "Mittagsschlaf im Schatten.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Rókus kápolna",
+            "tip": "Csend és panoráma.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Fenyves a parton",
+            "tip": "Déli pihenő árnyékban.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sveti Rok",
+            "tip": "Liniște și panoramă.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pădurea de pini",
+            "tip": "Somn de prânz la umbră.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Rok Chapel",
+            "tip": "Quiet and panorama.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Pine forest by the beach",
+            "tip": "Midday nap in the shade.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Vom Biokovo-Hängen."
+          },
+          {
+            "name": "Lavendelöl",
+            "tip": "In kleinen Flaschen als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A Biokovo lejtőiről."
+          },
+          {
+            "name": "Levendulaolaj",
+            "tip": "Kis üvegekben, emlékként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "De pe pantele Biokovo."
+          },
+          {
+            "name": "Ulei de lavandă",
+            "tip": "În sticluțe mici, ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "From the Biokovo slopes."
+          },
+          {
+            "name": "Lavender Oil",
+            "tip": "Small bottles for souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Küstenweg.",
+          "Besuchen Sie den Hafen am frühen Morgen.",
+          "Bringen Sie Schnorchelausrüstung mit.",
+          "Nutzen Sie den Schatten der Pinien am Mittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parti sétához.",
+          "Látogassa meg a kikötőt kora reggel.",
+          "Hozzon búvárfelszerelést a tiszta vízhez.",
+          "Használja ki a fenyők árnyékát délben."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumul de coastă.",
+          "Vizitați portul dimineața devreme.",
+          "Aduceți echipament de snorkeling.",
+          "Folosiți umbra pinilor la prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes for the coastal path.",
+          "Visit the harbor early in the morning.",
+          "Bring snorkeling gear for the clear water.",
+          "Take advantage of the pine shade at noon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfhafen",
+            "hu": "Falu kikötője",
+            "ro": "Portul satului",
+            "en": "Village Harbor"
+          },
+          "coords": [
+            17.0722,
+            43.2585
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einfacher Startpunkt für Touren.",
+            "hu": "Könnyű kezdőpont a túrákhoz.",
+            "ro": "Punct de plecare ușor pentru tururi.",
+            "en": "Easy starting point for tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinhäuser",
+            "hu": "Régi kőházak",
+            "ro": "Case vechi de piatră",
+            "en": "Old Stone Houses"
+          },
+          "coords": [
+            17.0735,
+            43.259
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gassen sind schmal, schieben Sie kurz.",
+            "hu": "Szűk utcák, tolja a biciklit.",
+            "ro": "Ulițe înguste, împingeți bicicleta.",
+            "en": "Narrow alleys, push your bike briefly."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenweg nach Baška Voda",
+            "hu": "Parti út Baška Voda felé",
+            "ro": "Drumul de coastă spre Baška Voda",
+            "en": "Coastal Path to Baška Voda"
+          },
+          "coords": [
+            17.06,
+            43.265
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schattiger Weg am Meer.",
+            "hu": "Árnyas út a tenger mellett.",
+            "ro": "Drum umbrit pe malul mării.",
+            "en": "Shaded path by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Promajna Hauptstrand",
+            "hu": "Promajna központi strand",
+            "ro": "Plaja principală Promajna",
+            "en": "Promajna Main Beach"
+          },
+          "coords": [
+            17.07,
+            43.257
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrradständer am Strandzugang.",
+            "hu": "Biciklitárolók a strandbejáratnál.",
+            "ro": "Suporturi de biciclete la intrarea pe plajă.",
+            "en": "Bike racks at the beach entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek-templom",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "All Saints Church"
+          },
+          "coords": [
+            17.071,
+            43.2575
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Rückgabe.",
+            "hu": "Rövid megálló a leadás előtt.",
+            "ro": "Scurt popas înainte de returnare.",
+            "en": "Short stop before returning the bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad lässt sich die Küste ideal erkunden. Nach dem Hafen-Start radeln wir durch die alten Gassen und nehmen dann den flachen Küstenweg Richtung Baška Voda. Die Meeresbrise ist der perfekte Begleiter. Mittags kehren wir zum Hauptstrand zurück, um uns abzukühlen. Der Nachmittag endet mit einem Besuch der Dorfkirche, bevor die Räder zurückgegeben werden.",
+        "hu": "Biciklivel ideális felfedezni a partot. A kikötői indulás után a régi utcákon tekerünk, majd a lankás parti úton Baška Voda felé vesszük az irányt. A tengeri szellő tökéletes kísérő. Délben visszatérünk a központi strandra egy hűsítő csobbanásra. A délutánt a falu templománál zárjuk, mielőtt leadnánk a bringákat.",
+        "ro": "Cu bicicleta, coasta este ideală de explorat. După pornirea din port, pedalăm prin ulițele vechi și apoi pe drumul plat de coastă spre Baška Voda. Briza mării este partenerul perfect. La prânz revenim pe plaja principală pentru răcorire. După-amiaza se încheie cu o vizită la biserica satului, înainte de a returna bicicletele.",
+        "en": "Exploring the coast by bike is ideal. Starting from the harbor, we cycle through old alleys and then take the flat coastal path towards Baška Voda. The sea breeze is your perfect companion. At noon, we return to the main beach to cool off. The afternoon ends with a visit to the village church before returning the bikes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Energie-Riegel & Obst",
+            "tip": "Vom lokalen Markt."
+          },
+          {
+            "name": "Pizza Napolitana",
+            "tip": "Schneller Imbiss am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Energia-szelet & gyümölcs",
+            "tip": "A helyi piacról."
+          },
+          {
+            "name": "Pizza",
+            "tip": "Gyors falat a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baton energizant & fructe",
+            "tip": "De la piața locală."
+          },
+          {
+            "name": "Pizza",
+            "tip": "Gustare rapidă pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Energy Bar & Fruit",
+            "tip": "From the local market."
+          },
+          {
+            "name": "Pizza",
+            "tip": "Quick snack at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht Bratuš",
+            "tip": "Einsame Bucht per Rad.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bratuš-öböl",
+            "tip": "Elszigetelt öböl biciklivel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Bratuš",
+            "tip": "Golf izolat cu bicicleta.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bratuš Cove",
+            "tip": "Secluded cove by bike.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sportgeschäft Makarska",
+            "tip": "Für Bike-Zubehör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sportbolt Makarska",
+            "tip": "Bringás kiegészítőkért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin sport Makarska",
+            "tip": "Pentru accesorii biciclete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sport Shop Makarska",
+            "tip": "For bike accessories."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie E-Bikes für Steigungen zum Biokovo.",
+          "Vermeiden Sie die Magistrale (Hauptstraße).",
+          "Nutzen Sie den Weg nach Baška Voda.",
+          "Viel Wasser mitnehmen."
+        ],
+        "hu": [
+          "Béreljen e-bike-ot a Biokovo emelkedőihez.",
+          "Kerülje el a főutat (Magistrale).",
+          "Használja a Baška Voda felé vezető utat.",
+          "Vigyen sok vizet."
+        ],
+        "ro": [
+          "Închiriați e-bike pentru urcările spre Biokovo.",
+          "Evitați drumul principal (Magistrala).",
+          "Folosiți drumul spre Baška Voda.",
+          "Luați multă apă."
+        ],
+        "en": [
+          "Rent e-bikes for climbs toward Biokovo.",
+          "Avoid the main road (Magistrale).",
+          "Use the path to Baška Voda.",
+          "Take plenty of water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aussichtspunkt Sveti Rok",
+            "hu": "Szent Rókus kilátó",
+            "ro": "Punctul de belvedere Sveti Rok",
+            "en": "Sveti Rok Viewpoint"
+          },
+          "coords": [
+            17.075,
+            43.26
+          ],
+          "category": "natural features",
+          "arrive_at": "09:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bequem per Auto erreichbar.",
+            "hu": "Autóval kényelmesen elérhető.",
+            "ro": "Accesibil ușor cu mașina.",
+            "en": "Easily accessible by car."
+          }
+        },
+        {
+          "name": {
+            "de": "Makarska (Altstadt)",
+            "hu": "Makarska (Óváros)",
+            "ro": "Makarska (Orașul vechi)",
+            "en": "Makarska (Old Town)"
+          },
+          "coords": [
+            17.021,
+            43.294
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken am Hafen.",
+            "hu": "Parkolás a kikötőnél.",
+            "ro": "Parcare la port.",
+            "en": "Park near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Promajna Hauptstrand",
+            "hu": "Promajna központi strand",
+            "ro": "Plaja principală Promajna",
+            "en": "Promajna Main Beach"
+          },
+          "coords": [
+            17.07,
+            43.257
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Gebührenpflichtige Parkplätze vorhanden.",
+            "hu": "Fizetős parkolók rendelkezésre állnak.",
+            "ro": "Locuri de parcare cu plată disponibile.",
+            "en": "Paid parking lots available."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Steinhäuser",
+            "hu": "Régi kőházak",
+            "ro": "Case vechi de piatră",
+            "en": "Old Stone Houses"
+          },
+          "coords": [
+            17.0735,
+            43.259
+          ],
+          "category": "famous residences",
+          "arrive_at": "15:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare din parcare.",
+            "en": "Short walk from the parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto erlaubt einen Abstecher ins nahegelegene Makarska. Wir starten am Aussichtspunkt oberhalb von Promajna und fahren dann in die lebhafte Altstadt von Makarska. Mittags genießen wir die Ruhe in Promajna am Hauptstrand. Der Tag endet mit einem Besuch der historischen Steinhäuser, die den Charme des Ortes ausmachen.",
+        "hu": "Az autó lehetővé teszi a közeli Makarska felfedezését is. A Promajna feletti kilátónál kezdünk, majd Makarska pezsgő óvárosába gurulunk. Délben élvezzük a nyugalmat a promajnai strandon. A napot a falu báját adó történelmi kőházaknál zárjuk.",
+        "ro": "Mașina permite o excursie în apropiatul oraș Makarska. Începem la punctul de belvedere deasupra localității Promajna, apoi mergem în orașul vechi plin de viață din Makarska. La prânz ne bucurăm de liniște pe plaja din Promajna. Ziua se încheie cu vizitarea caselor vechi de piatră care dau farmec locului.",
+        "en": "A car allows for a quick trip to nearby Makarska. We start at the viewpoint above Promajna, then drive to Makarska's lively old town. At noon, enjoy the peace on Promajna's main beach. The day ends with a visit to the historic stone houses that define the village's charm."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "An der Magistrale-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "A főút melletti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "La restaurantele de pe Magistrală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb on the Spit",
+            "tip": "At restaurants along the Magistrale."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bergdörfer im Hinterland",
+            "tip": "Einsame Bergstraßen.",
+            "emoji": "🏔️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi falvak",
+            "tip": "Csendes hegyi utak.",
+            "emoji": "🏔️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sate de munte",
+            "tip": "Drumuri montane pustii.",
+            "emoji": "🏔️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mountain Villages",
+            "tip": "Quiet mountain roads.",
+            "emoji": "🏔️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lidl / Konzum Makarska",
+            "tip": "Großeinkauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lidl / Konzum Makarska",
+            "tip": "Nagybevásárlás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lidl / Konzum Makarska",
+            "tip": "Cumpărături mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lidl / Konzum Makarska",
+            "tip": "Large grocery shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatzsuche in der Hochsaison schwierig.",
+          "Nutzen Sie die Park-App.",
+          "Tanken Sie in Makarska.",
+          "Vorsicht bei engen Serpentinen."
+        ],
+        "hu": [
+          "A parkolás főszezonban nehézkes.",
+          "Használjon parkoló-applikációt.",
+          "Tankoljon Makarskában.",
+          "Vigyázzon a szűk szerpentineken."
+        ],
+        "ro": [
+          "Găsirea parcării e dificilă în sezon.",
+          "Folosiți aplicația de parcare.",
+          "Alimentați în Makarska.",
+          "Atenție la serpentinele înguste."
+        ],
+        "en": [
+          "Parking can be difficult in peak season.",
+          "Use a parking app.",
+          "Refuel in Makarska.",
+          "Be careful on narrow serpentines."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Magistrale",
+            "hu": "Magistrale buszmegálló",
+            "ro": "Stație de autobuz Magistrală",
+            "en": "Magistrale Bus Stop"
+          },
+          "coords": [
+            17.076,
+            43.261
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "An der Hauptstraße gelegen.",
+            "hu": "A főút mentén található.",
+            "ro": "Situată la drumul principal.",
+            "en": "Located on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Baška Voda (Zentrum)",
+            "hu": "Baška Voda (Központ)",
+            "ro": "Baška Voda (Centru)",
+            "en": "Baška Voda (Center)"
+          },
+          "coords": [
+            16.95,
+            43.355
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Promenade erkunden.",
+            "hu": "Fedezze fel a sétányt.",
+            "ro": "Explorați faleza.",
+            "en": "Explore the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Promajna Hauptstrand",
+            "hu": "Promajna központi strand",
+            "ro": "Plaja principală Promajna",
+            "en": "Promajna Main Beach"
+          },
+          "coords": [
+            17.07,
+            43.257
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Rückweg zu Fuß zum Strand.",
+            "hu": "Séta vissza a strandhoz.",
+            "ro": "Revenire pe jos spre plajă.",
+            "en": "Walk back to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Promajna",
+            "hu": "Promajna Kulturális Központ",
+            "ro": "Centrul Cultural Promajna",
+            "en": "Promajna Cultural Centre"
+          },
+          "coords": [
+            17.0725,
+            43.2588
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lokale Ausstellungen ansehen.",
+            "hu": "Helyi kiállítások megtekintése.",
+            "ro": "Vizitați expozițiile locale.",
+            "en": "Check local exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem lokalen Bus erreichen wir bequem Baška Voda für einen Vormittagsausflug. Nach der Rückkehr verbringen wir den Mittag und Nachmittag am weitläufigen Strand von Promajna. Zum Abschluss des Tages besuchen wir das Kulturzentrum, um mehr über die Region zu erfahren.",
+        "hu": "Helyi busszal kényelmesen átugrunk Baška Vodába egy délelőtti kirándulásra. A visszatérés után a délutánt a tágas promajnai strandon töltjük. A nap zárásaként ellátogatunk a Kulturális Központba, hogy megismerjük a régió művészetét.",
+        "ro": "Cu autobuzul local ajungem ușor în Baška Voda pentru o excursie de dimineață. După revenire, petrecem amiaza și după-amiaza pe plaja întinsă din Promajna. La finalul zilei vizităm centrul cultural pentru a afla mai multe despre regiune.",
+        "en": "By local bus, we easily reach Baška Voda for a morning trip. Upon return, spend the midday and afternoon at Promajna's wide beach. Finish the day with a visit to the cultural center to learn about the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäcker-Snacks",
+            "tip": "Ideal für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékáru",
+            "tip": "Ideális útközbeni tízórai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gustări de la brutărie",
+            "tip": "Ideale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery Snacks",
+            "tip": "Ideal for on-the-go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leseecke im Kulturzentrum",
+            "tip": "Klimatisiert und ruhig.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olvasósarok a központban",
+            "tip": "Légkondicionált és csendes.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Colțul de lectură",
+            "tip": "Climatizat și liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Reading corner at the center",
+            "tip": "Air-conditioned and quiet.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk",
+            "tip": "Zeitungen und Getränke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos",
+            "tip": "Lapok és hűsítők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc",
+            "tip": "Ziare și băuturi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk",
+            "tip": "Newspapers and drinks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Tickets beim Fahrer.",
+          "Achten Sie auf die gelben Busse.",
+          "Fahrpläne an den Pfosten prüfen.",
+          "Kleingeld bereithalten."
+        ],
+        "hu": [
+          "Vegyen jegyet a sofőrnél.",
+          "Keresse a sárga buszokat.",
+          "Ellenőrizze a menetrendet az oszlopokon.",
+          "Legyen aprópénze."
+        ],
+        "ro": [
+          "Cumpărați bilete de la șofer.",
+          "Urmăriți autobuzele galbene.",
+          "Verificați orarul la stație.",
+          "Aveți mărunțiș pregătit."
+        ],
+        "en": [
+          "Buy tickets from the driver.",
+          "Look for the yellow buses.",
+          "Check schedules at the stops.",
+          "Have small change ready."
+        ]
+      }
+    }
+  }
+}

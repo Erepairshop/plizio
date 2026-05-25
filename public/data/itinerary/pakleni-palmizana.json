@@ -1,0 +1,840 @@
+{
+  "city_id": "pakleni-palmizana",
+  "anchor": {
+    "name": "Pakleni (Palmižana)",
+    "coords": [
+      16.3897,
+      43.1639
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "ACI Marina Palmižana",
+          "coords": [
+            16.3915,
+            43.1652
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Anlegestelle für Wassertaxis von Hvar.",
+            "hu": "A Hvarról érkező vízitaxik kikötője.",
+            "ro": "Locul de acostare pentru taxiurile pe apă din Hvar.",
+            "en": "The landing point for water taxis from Hvar."
+          }
+        },
+        {
+          "name": "Botanischer Garten Meneghello",
+          "coords": [
+            16.3895,
+            43.1635
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Exotische Pflanzenwelt und Kunstgalerie im Freien.",
+            "hu": "Egzotikus növényvilág és szabadtéri galéria.",
+            "ro": "Floră exotică și galerie de artă în aer liber.",
+            "en": "Exotic plant life and open-air art gallery."
+          }
+        },
+        {
+          "name": "Bucht Vinogradišće",
+          "coords": [
+            16.3888,
+            43.1612
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Türkisfarbenes Wasser, ideal zum Schnorcheln.",
+            "hu": "Türkizkék víz, ideális búvárkodáshoz.",
+            "ro": "Apă turcoaz, ideală pentru snorkeling.",
+            "en": "Turquoise water, ideal for snorkeling."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Klemens",
+          "coords": [
+            16.3842,
+            43.1631
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kleine Votivkirche inmitten von Pinien.",
+            "hu": "Kicsi fogadalmi templom fenyőfák között.",
+            "ro": "Mică biserică votivă printre pini.",
+            "en": "Small votive church amidst pine trees."
+          }
+        },
+        {
+          "name": "Bucht Mlini",
+          "coords": [
+            16.3955,
+            43.1605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ruhigere Alternative mit feinem Kies.",
+            "hu": "Csendesebb alternatíva finom kaviccsal.",
+            "ro": "Alternativă mai liniștită cu pietriș fin.",
+            "en": "Quieter alternative with fine pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am geschäftigen Jachthafen von Palmižana, dem Tor zu diesem idyllischen Archipel. Ein kurzer Spaziergang führt Sie in den Botanischen Garten der Familie Meneghello, wo Kunst und exotische Flora verschmelzen. Mittags lockt das kristallklare Wasser der Bucht Vinogradišće zum Baden und Entspannen in exklusiven Beach-Clubs.\n\nAm Nachmittag wandern Sie auf schattigen Pfaden zur einsamen Kapelle des Heiligen Klemens, einem Ort der Stille. Den Ausklang finden Sie in der malerischen Mlini-Bucht, bevor Sie das Boot zurück in den Trubel von Hvar nehmen. Ein perfekter Mix aus Naturgenuss und mediterranem Lifestyle.",
+        "hu": "A nap a nyüzsgő Palmižana marinában kezdődik, amely az idilli szigetvilág kapuja. Rövid séta után a Meneghello család botanikus kertjében találja magát, ahol a művészet és az egzotikus növényvilág találkozik. Délben a Vinogradišće-öböl kristálytiszta vize csábít fürdőzésre és pihenésre az exkluzív strandklubokban.\n\nDélután árnyas ösvényeken túrázhat a Szent Kelemen-kápolnához, amely a nyugalom szigete. A napot a festői Mlini-öbölben zárhatja, mielőtt hajóval visszatérne Hvar lüktetésébe. A természet közelsége és a mediterrán életérzés tökéletes egyvelege ez a nap.",
+        "ro": "Ziua începe în marina plină de viață Palmižana, poarta către acest arhipelag idilic. O scurtă plimbare vă duce în Grădina Botanică a familiei Meneghello, unde arta și flora exotică se contopesc. La prânz, apa cristalină a golfului Vinogradišće vă invită la baie și relaxare în beach-cluburi exclusiviste.\n\nDupă-amiaza, parcurgeți cărări umbrite până la capela Sfântul Clement, un loc de liniște profundă. Încheiați ziua în pitorescul golf Mlini, înainte de a lua barca înapoi spre agitația din Hvar. Un mix perfect între plăcerea naturii și stilul de viață mediteranean.",
+        "en": "Your day starts at the bustling Palmižana marina, the gateway to this idyllic archipelago. A short walk leads you into the Meneghello family's botanical garden, where art and exotic flora merge. At noon, the crystal-clear water of Vinogradišće Bay invites you for a swim and relaxation in exclusive beach clubs.\n\nIn the afternoon, hike along shaded paths to the secluded chapel of Saint Clement, a place of profound silence. End your day at the picturesque Mlini Bay before taking the boat back to the buzz of Hvar. A perfect blend of natural beauty and Mediterranean lifestyle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Toto's Palmižana",
+            "tip": "Frischer Fisch und hausgemachte Pasta im Grünen."
+          },
+          {
+            "name": "Laganini Lounge Bar",
+            "tip": "Gegrillter Oktopus und kreative Cocktails am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Toto's Palmižana",
+            "tip": "Friss halak és házi tészta a zöldben."
+          },
+          {
+            "name": "Laganini Lounge Bar",
+            "tip": "Grillezett polip és kreatív koktélok a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Toto's Palmižana",
+            "tip": "Pește proaspăt și paste de casă în natură."
+          },
+          {
+            "name": "Laganini Lounge Bar",
+            "tip": "Caracatiță la grătar și cocktailuri creative la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Toto's Palmižana",
+            "tip": "Fresh fish and homemade pasta surrounded by greenery."
+          },
+          {
+            "name": "Laganini Lounge Bar",
+            "tip": "Grilled octopus and creative cocktails by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Meneghello Garten-Ecken",
+            "tip": "Versteckte Bänke zwischen Kakteen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Hl. Klemens Kapelle",
+            "tip": "Stiller Rückzugsort im Wald.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meneghello kert",
+            "tip": "Rejtett padok a kaktuszok között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Kelemen kápolna",
+            "tip": "Csendes menedék az erdőben.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Meneghello",
+            "tip": "Bănci ascunse printre cactuși.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Capela Sf. Clement",
+            "tip": "Refugiu liniștit în pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Meneghello Garden Nooks",
+            "tip": "Hidden benches among cacti.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Clement Chapel",
+            "tip": "Silent retreat in the forest.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Meneghello Art Gallery",
+            "tip": "Lokale Kunst und Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Meneghello Galéria",
+            "tip": "Helyi művészeti alkotások és kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria de Artă Meneghello",
+            "tip": "Artă locală și ceramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Meneghello Art Gallery",
+            "tip": "Local art and ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe, da die Wege oft steinig sind.",
+          "Buchen Sie Wassertaxis für die Rückfahrt im Voraus.",
+          "Sonnenschutz ist in den offenen Buchten unverzichtbar."
+        ],
+        "hu": [
+          "Viseljen zárt cipőt, mert az utak gyakran kövesek.",
+          "Érdemes előre lefoglalni a vízitaxit a visszaútra.",
+          "A napvédelem elengedhetetlen a nyitott öblökben."
+        ],
+        "ro": [
+          "Purtați încălțăminte adecvată, deoarece potecile sunt adesea pietroase.",
+          "Rezervați taxiul pe apă în avans pentru drumul de întoarcere.",
+          "Protecția solară este esențială în golful deschis."
+        ],
+        "en": [
+          "Wear sturdy shoes as the paths are often rocky.",
+          "Book water taxis for the return trip in advance.",
+          "Sun protection is essential in the open bays."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 8,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "ACI Marina Palmižana",
+          "coords": [
+            16.3915,
+            43.1652
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für Erkundungen.",
+            "hu": "Felfedező túrák kiindulópontja.",
+            "ro": "Punctul de plecare pentru explorări.",
+            "en": "Starting point for explorations."
+          }
+        },
+        {
+          "name": "Kirche des Hl. Klemens",
+          "coords": [
+            16.3842,
+            43.1631
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Fotostopp am Wegrand.",
+            "hu": "Szép fotómegálló az út mentén.",
+            "ro": "Un loc frumos pentru fotografii pe drum.",
+            "en": "A beautiful photo stop along the way."
+          }
+        },
+        {
+          "name": "Römische Villenruinen in Vlaka",
+          "coords": [
+            16.3655,
+            43.1691
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spuren der Antike direkt am Weinberg.",
+            "hu": "Az antikvitás nyomai a szőlőskert mellett.",
+            "ro": "Urme de antichitate chiar lângă podgorie.",
+            "en": "Traces of antiquity right next to the vineyard."
+          }
+        },
+        {
+          "name": "Bucht Zdrilca",
+          "coords": [
+            16.3995,
+            43.1625
+          ],
+          "category": "natural features",
+          "arrive_at": "13:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Idyllischer Ort zum Abkühlen.",
+            "hu": "Idilli hely a hűsölésre.",
+            "ro": "Loc idilic pentru răcorire.",
+            "en": "Idyllic spot to cool off."
+          }
+        },
+        {
+          "name": "Bucht Vinogradišće",
+          "coords": [
+            16.3888,
+            43.1612
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Belohnung am Ende der Tour.",
+            "hu": "Jutalom a túra végén.",
+            "ro": "Răsplata la finalul turului.",
+            "en": "Reward at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route führt Sie auf dem Fahrrad (oder zu Fuß bei anspruchsvollem Gelände) tiefer in die Inselwelt der Pakleni-Inseln. Von der Marina geht es vorbei an der einsamen Klemens-Kirche bis zum westlichen Ende nach Vlaka. Hier entdecken Sie römische Villenruinen inmitten von Weinbergen und Olivenhainen.\n\nNach der Kultur folgt die Natur in der Zdrilca-Bucht, bevor Sie rechtzeitig zur goldenen Stunde wieder in Palmižana ankommen. Eine Tour für Abenteurer, die mehr als nur den Strand sehen wollen.",
+        "hu": "Ez az útvonal kerékpárral (vagy gyalog nehezebb terepen) a Pakleni-szigetek mélyére vezeti Önt. A marinától a magányos Szent Kelemen-templom mellett elhaladva a nyugati végéig, Vlakáig tekerhet. Itt római villák romjait fedezheti fel szőlőültetvények és olajfaligetek között.\n\nA kultúra után a természet következik a Zdrilca-öbölben, mielőtt az aranyórában visszatérne Palmižanába. Túra kalandoroknak, akik többet akarnak látni a strandnál.",
+        "ro": "Acest traseu vă poartă cu bicicleta (sau pe jos pe teren accidentat) mai adânc în arhipelagul insulelor Pakleni. De la marină treceți pe lângă biserica izolată Sf. Clement până în capătul vestic, la Vlaka. Aici descoperiți ruinele vilelor romane printre podgorii și livezi de măslini.\n\nDupă cultură urmează natura în golful Zdrilca, înainte de a reveni la Palmižana la ora de aur. Un tur pentru aventurieri care doresc să vadă mai mult decât plaja.",
+        "en": "This route takes you on a bike (or hike on challenging terrain) deeper into the Pakleni Islands. From the marina, pass the lonely St. Clement church to the western end at Vlaka. Here you discover Roman villa ruins amidst vineyards and olive groves.\n\nAfter culture comes nature at Zdrilca Bay, before returning to Palmižana just in time for the golden hour. A tour for adventurers wanting to see more than just the beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Dionis",
+            "tip": "Rustikales Essen in Vlaka, berühmt für Peka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Dionis",
+            "tip": "Rusztikus ételek Vlakában, híres a peka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Dionis",
+            "tip": "Mâncare rustică în Vlaka, renumită pentru Peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Dionis",
+            "tip": "Rustic dining in Vlaka, famous for Peka."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vlaka Weinberge",
+            "tip": "Völlige Stille am Inselende.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vlaka szőlők",
+            "tip": "Teljes csend a sziget végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Vlaka",
+            "tip": "Liniște deplină la capătul insulei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vlaka Vineyards",
+            "tip": "Absolute silence at the island's end.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt Vlaka",
+            "tip": "Lokaler Honig und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vlakai termelői piac",
+            "tip": "Helyi méz és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Vlaka",
+            "tip": "Miere locală și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vlaka Local Market",
+            "tip": "Local honey and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind oft Schotter, Mountainbikes empfohlen.",
+          "Vlaka ist sehr einsam, genug Wasser mitnehmen."
+        ],
+        "hu": [
+          "Az utak gyakran murvásak, hegyi kerékpár ajánlott.",
+          "Vlaka nagyon elszigetelt, vigyen elég vizet."
+        ],
+        "ro": [
+          "Drumurile sunt adesea cu pietriș, se recomandă mountain bike.",
+          "Vlaka este foarte izolată, luați destulă apă."
+        ],
+        "en": [
+          "Paths are often gravel, mountain bikes recommended.",
+          "Vlaka is very secluded, bring enough water."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "ACI Marina Palmižana",
+          "coords": [
+            16.3915,
+            43.1652
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Check-in für private Bootstouren.",
+            "hu": "Privát hajótúrák bejelentkezése.",
+            "ro": "Check-in pentru tururi private cu barca.",
+            "en": "Check-in for private boat tours."
+          }
+        },
+        {
+          "name": "Bucht Perna",
+          "coords": [
+            16.3755,
+            43.1595
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "10:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nur per Boot erreichbare Sandbucht.",
+            "hu": "Csak hajóval elérhető homokos öböl.",
+            "ro": "Golf cu nisip accesibil doar cu barca.",
+            "en": "Sandy bay accessible only by boat."
+          }
+        },
+        {
+          "name": "Römische Villenruinen in Vlaka",
+          "coords": [
+            16.3655,
+            43.1691
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Historischer Halt im Nordwesten.",
+            "hu": "Történelmi megálló északnyugaton.",
+            "ro": "Oprire istorică în nord-vest.",
+            "en": "Historical stop in the northwest."
+          }
+        },
+        {
+          "name": "Bucht Vinogradišće",
+          "coords": [
+            16.3888,
+            43.1612
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ankern im beliebtesten Revier.",
+            "hu": "Horgonyzás a legnépszerűbb helyen.",
+            "ro": "Ancorare în cel mai popular golf.",
+            "en": "Anchoring in the most popular bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Da Palmižana autofrei ist, entspricht der Autokurs einer privaten Motorboottour ('Sea-Car'). Sie gleiten zur abgelegenen Perna-Bucht, einem der seltenen Sandstrände der Region. Nach einem Badestopp geht es weiter nach Vlaka, um die antiken Ruinen bequem vom Wasser aus zu erreichen.\n\nDer Nachmittag gehört der Vinogradišće-Bucht, wo Sie stilvoll ankern können. Diese exklusive Route zeigt Ihnen die Inselgruppe ohne Anstrengung, aber mit maximalem Komfort.",
+        "hu": "Mivel Palmižana autómentes, ez az útvonal egy privát motorcsónakos túrának ('tengeri autó') felel meg. A távoli Perna-öbölbe siklik, amely a régió ritka homokos strandjainak egyike. Egy fürdőzés után Vlaka felé halad tovább, hogy a vízi úton kényelmesen érje el az antik romokat.\n\nA délután a Vinogradišće-öbölé, ahol stílusosan horgonyozhat le. Ez az exkluzív útvonal megerőltetés nélkül, de maximális kényelemben mutatja be a szigetcsoportot.",
+        "ro": "Deoarece Palmižana este fără mașini, acest traseu corespunde unui tur privat cu barca cu motor ('Sea-Car'). Glisați spre golful izolat Perna, una dintre rarele plaje cu nisip din regiune. După o oprire pentru baie, continuați spre Vlaka pentru a ajunge la ruinele antice confortabil pe apă.\n\nDupă-amiaza aparține golfului Vinogradišće, unde puteți ancora cu stil. Acest traseu exclusivist vă arată arhipelagul fără efort, dar cu confort maxim.",
+        "en": "Since Palmižana is car-free, this route corresponds to a private motorboat tour ('Sea-Car'). Glide to the remote Perna Bay, one of the rare sandy beaches in the region. After a swimming stop, continue to Vlaka to reach the ancient ruins comfortably by water.\n\nThe afternoon belongs to Vinogradišće Bay, where you can anchor in style. This exclusive route shows you the archipelago without exertion but with maximum comfort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zori Restaurant",
+            "tip": "Fine Dining direkt an der Bucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zori Étterem",
+            "tip": "Fine dining közvetlenül az öbölnél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zori Restaurant",
+            "tip": "Fine dining chiar în golf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zori Restaurant",
+            "tip": "Fine dining right on the bay."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perna Bucht",
+            "tip": "Morgens fast menschenleer.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perna-öböl",
+            "tip": "Reggel szinte néptelen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Perna",
+            "tip": "Aproape pustiu dimineața.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perna Bay",
+            "tip": "Almost empty in the mornings.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hvarer Wein",
+            "tip": "Direkt vom Winzer in Vlaka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hvari bor",
+            "tip": "Közvetlenül a borásztól Vlakában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Hvar",
+            "tip": "Direct de la producător în Vlaka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Hvar Wine",
+            "tip": "Directly from the winery in Vlaka."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein Boot mit Skipper für entspanntes Sightseeing.",
+          "Ankern Sie nur in markierten Zonen."
+        ],
+        "hu": [
+          "Béreljen hajót kapitánnyal a gondtalan városnézéshez.",
+          "Csak a kijelölt zónákban horgonyozzon."
+        ],
+        "ro": [
+          "Închiriați o barcă cu căpitan pentru vizitare relaxată.",
+          "Ancorarea este permisă doar în zonele marcate."
+        ],
+        "en": [
+          "Rent a boat with a skipper for relaxed sightseeing.",
+          "Only anchor in designated zones."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": "ACI Marina Palmižana",
+          "coords": [
+            16.3915,
+            43.1652
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft des Linienboots.",
+            "hu": "A menetrend szerinti hajó érkezése.",
+            "ro": "Sosirea bărcii de linie.",
+            "en": "Arrival of the scheduled boat."
+          }
+        },
+        {
+          "name": "Bucht Vinogradišće",
+          "coords": [
+            16.3888,
+            43.1612
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "09:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Hafen.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "Scurtă plimbare de la port.",
+            "en": "Short walk from the port."
+          }
+        },
+        {
+          "name": "Bucht Mlini",
+          "coords": [
+            16.3955,
+            43.1605
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem kleinen Bootshuttle erreichbar.",
+            "hu": "Kis kishajóval érhető el.",
+            "ro": "Accesibil cu un mic transfer cu barca.",
+            "en": "Accessible via small boat shuttle."
+          }
+        },
+        {
+          "name": "Bucht Zdrilca",
+          "coords": [
+            16.3995,
+            43.1625
+          ],
+          "category": "natural features",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nächster Stopp der Shuttle-Verbindung.",
+            "hu": "A hajójárat következő megállója.",
+            "ro": "Următoarea stație a cursei de transfer.",
+            "en": "Next stop on the shuttle route."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Transit auf den Pakleni-Inseln erfolgt per Hop-on-Hop-off Booten. Sie landen in Palmižana und verbringen den Vormittag am Strand. Mittags wechseln Sie mit dem lokalen Bootshuttle zur Mlini-Bucht und weiter nach Zdrilca. Diese Route ist ideal für alle, die ohne eigenes Boot verschiedene Buchten unkompliziert erleben möchten.",
+        "hu": "A Pakleni-szigeteken a közlekedés Hop-on-Hop-off hajókkal történik. Kiköt Palmižanában, és a délelőttöt a strandon tölti. Délben a helyi kishajóval átmegy a Mlini-öbölbe, majd tovább Zdrilcára. Ez az útvonal ideális mindazoknak, akik saját hajó nélkül is szeretnének több öblöt egyszerűen felfedezni.",
+        "ro": "Tranzitul în insulele Pakleni se face cu bărci Hop-on-Hop-off. Debarcați la Palmižana și petreceți dimineața la plajă. La prânz, schimbați cu transferul local cu barca spre golful Mlini și apoi spre Zdrilca. Acest traseu este ideal pentru cei care doresc să experimenteze diferite golfuri fără barcă proprie.",
+        "en": "Transit in the Pakleni Islands is managed via Hop-on-Hop-off boats. Land in Palmižana and spend the morning at the beach. At noon, switch to the local boat shuttle to Mlini Bay and further to Zdrilca. This route is ideal for those who want to experience various bays easily without their own boat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Patak",
+            "tip": "Günstigere Fischgerichte in Zdrilca."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Patak",
+            "tip": "Kedvezőbb árú halételek Zdrilcán."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Patak",
+            "tip": "Mâncăruri de pește mai accesibile în Zdrilca."
+          }
+        ],
+        "en": [
+          {
+            "name": "Patak",
+            "tip": "Affordable fish dishes in Zdrilca."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zdrilca Bucht",
+            "tip": "Entspannter Nachmittag am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zdrilca-öböl",
+            "tip": "Pihentető délután a víznél.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Zdrilca",
+            "tip": "După-amiază relaxantă la apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zdrilca Bay",
+            "tip": "Relaxing afternoon by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Palmižana",
+            "tip": "Postkarten und Sonnencreme."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palmižana kioszk",
+            "tip": "Képeslapok és naptej."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Palmižana",
+            "tip": "Cărți poștale și cremă solară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Palmižana Kiosk",
+            "tip": "Postcards and sunscreen."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie nach dem Fahrplan des letzten Boots.",
+          "Kaufen Sie ein Tagesticket für die Shuttles."
+        ],
+        "hu": [
+          "Kérdezze meg az utolsó hajó indulási idejét.",
+          "Vásároljon napijegyet a kishajókra."
+        ],
+        "ro": [
+          "Întrebați de orarul ultimei bărci.",
+          "Cumpărați un bilet de o zi pentru transferuri."
+        ],
+        "en": [
+          "Ask for the schedule of the last boat.",
+          "Buy a day ticket for the shuttles."
+        ]
+      }
+    }
+  }
+}

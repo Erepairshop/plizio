@@ -1,0 +1,998 @@
+{
+  "city_id": "omisalj",
+  "anchor": {
+    "name": "Omišalj (Krk)",
+    "coords": [
+      14.5511,
+      45.2189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Omišalj",
+            "hu": "Omišalj óváros",
+            "ro": "Orașul vechi Omišalj",
+            "en": "Omišalj Old Town"
+          },
+          "coords": [
+            14.553,
+            45.2135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Laufen Sie durch die engen Gassen.",
+            "hu": "Sétáljon a szűk sikátorokban.",
+            "ro": "Plimbați-vă pe străzile înguste.",
+            "en": "Walk through the narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele plébániatemplom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            14.5535,
+            45.213
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschönes romanisches Portal.",
+            "hu": "Gyönyörű román stílusú kapu.",
+            "ro": "Portal romanic superb.",
+            "en": "Beautiful Romanesque portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Fortica",
+            "hu": "Fortica kilátó",
+            "ro": "Punct de belvedere Fortica",
+            "en": "Fortica Viewpoint"
+          },
+          "coords": [
+            14.554,
+            45.214
+          ],
+          "category": "natural features",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick auf die Bucht von Rijeka.",
+            "hu": "Kilátás a Rijekai-öbölre.",
+            "ro": "Vedere spre golful Rijeka.",
+            "en": "View of the Rijeka bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Altstadt",
+            "hu": "Ebéd az óvárosban",
+            "ro": "Prânz în orașul vechi",
+            "en": "Lunch in the Old Town"
+          },
+          "coords": [
+            14.553,
+            45.2132
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hausgemachte Teigwaren.",
+            "hu": "Házias tésztaételek.",
+            "ro": "Paste de casă.",
+            "en": "Homemade pasta dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Dubec",
+            "hu": "Dubec park",
+            "ro": "Parcul Dubec",
+            "en": "Park Dubec"
+          },
+          "coords": [
+            14.551,
+            45.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Waldwege direkt über dem Meer.",
+            "hu": "Erdei utak a tenger felett.",
+            "ro": "Poteci de pădure deasupra mării.",
+            "en": "Forest paths right above the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pesja",
+            "hu": "Pesja strand",
+            "ro": "Plaja Pesja",
+            "en": "Pesja Beach"
+          },
+          "coords": [
+            14.555,
+            45.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kiesstrand mit Pinienchatten.",
+            "hu": "Kavicsos strand fenyőárnnyal.",
+            "ro": "Plajă de prundis cu umbră de pini.",
+            "en": "Pebble beach with pine shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie den Charme von Omišalj, einer der ältesten Städte auf Krk. Schlendern Sie durch die Altstadt zur Fortica, genießen Sie ein mediterranes Mittagessen und wandern Sie durch den Park Dubec zum kristallklaren Wasser des Pesja Strands.",
+        "hu": "Fedezze fel Omišalj báját, Krk egyik legrégebbi városát. Sétáljon az óvárosban a Forticáig, élvezze a mediterrán ebédet, majd kiránduljon a Dubec parkon át a Pesja strand kristálytiszta vízéig.",
+        "ro": "Descoperiți farmecul orașului Omišalj, unul dintre cele mai vechi de pe Krk. Plimbați-vă prin orașul vechi până la Fortica, savurați un prânz mediteranean și faceți o drumeție prin parcul Dubec până la apa cristalină a plajei Pesja.",
+        "en": "Discover the charm of Omišalj, one of the oldest towns on Krk. Stroll through the Old Town to Fortica, enjoy a Mediterranean lunch, and hike through Park Dubec to the crystal-clear waters of Pesja beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Ulikva",
+            "tip": "Beste Lage in der Altstadt."
+          },
+          {
+            "name": "Konoba Maris",
+            "tip": "Authentische Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ulikva étterem",
+            "tip": "Legjobb helyszín az óvárosban."
+          },
+          {
+            "name": "Konoba Maris",
+            "tip": "Autentikus halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Ulikva",
+            "tip": "Cea mai bună locație din orașul vechi."
+          },
+          {
+            "name": "Konoba Maris",
+            "tip": "Mâncăruri autentice din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ulikva Restaurant",
+            "tip": "Best location in the old town."
+          },
+          {
+            "name": "Konoba Maris",
+            "tip": "Authentic fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Dubec Bänke",
+            "tip": "Blick auf das Meer im Schatten.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dubec park padok",
+            "tip": "Kilátás a tengerre az árnyékban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din parcul Dubec",
+            "tip": "Vedere la mare la umbră.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Dubec Benches",
+            "tip": "Sea view in the shade.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Galerie Omišalj",
+            "tip": "Lokale Kunst und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Omišalji Galéria",
+            "tip": "Helyi művészet és szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Galeria Omišalj",
+            "tip": "Artă locală și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gallery Omišalj",
+            "tip": "Local art and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Aufstieg vom Meer zur Stadt ist steil.",
+          "Besuchen Sie die Kirche am Vormittag."
+        ],
+        "hu": [
+          "A tengertől a városig tartó emelkedő meredek.",
+          "Délelőtt látogassa meg a templomot."
+        ],
+        "ro": [
+          "Urcarea de la mare spre oraș este abruptă.",
+          "Vizitați biserica în cursul dimineții."
+        ],
+        "en": [
+          "The climb from the sea to the town is steep.",
+          "Visit the church in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirine-Fulfinum",
+            "hu": "Mirine-Fulfinum",
+            "ro": "Mirine-Fulfinum",
+            "en": "Mirine-Fulfinum"
+          },
+          "coords": [
+            14.545,
+            45.205
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Römische Stadtruinen direkt am Meer.",
+            "hu": "Római városromok közvetlenül a parton.",
+            "ro": "Ruine romane chiar pe malul mării.",
+            "en": "Roman city ruins right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Omišalj",
+            "hu": "Omišalj óváros",
+            "ro": "Orașul vechi Omišalj",
+            "en": "Omišalj Old Town"
+          },
+          "coords": [
+            14.553,
+            45.2135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahrrad im Zentrum schieben.",
+            "hu": "A központban tolja a biciklit.",
+            "ro": "Împingeți bicicleta în centru.",
+            "en": "Push your bike in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Omišalj",
+            "hu": "Ebéd Omišaljban",
+            "ro": "Prânz în Omišalj",
+            "en": "Lunch in Omišalj"
+          },
+          "coords": [
+            14.552,
+            45.213
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Schafskäse.",
+            "hu": "Kóstolja meg a juhsajtot.",
+            "ro": "Gustați brânza de oaie.",
+            "en": "Try some sheep cheese."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Dubec",
+            "hu": "Dubec park",
+            "ro": "Parcul Dubec",
+            "en": "Park Dubec"
+          },
+          "coords": [
+            14.551,
+            45.215
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radfahren auf markierten Wegen.",
+            "hu": "Kerékpározás a kijelölt utakon.",
+            "ro": "Ciclism pe trasee marcate.",
+            "en": "Cycling on marked paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pesja",
+            "hu": "Pesja strand",
+            "ro": "Plaja Pesja",
+            "en": "Pesja Beach"
+          },
+          "coords": [
+            14.555,
+            45.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abkühlung nach der Tour.",
+            "hu": "Felfrissülés a túra után.",
+            "ro": "Răcorire după tur.",
+            "en": "Cool down after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zu den beeindruckenden Ruinen von Fulfinum. Danach erklimmen Sie den Hügel nach Omišalj für eine kulturelle Pause in der Altstadt, bevor Sie entspannt durch den Park Dubec zum Strand Pesja rollen.",
+        "hu": "Tekerjen Fulfinum lenyűgöző romjaihoz. Ezután másszon fel a dombra Omišaljba egy kulturális pihenőre az óvárosban, majd guruljon át a Dubec parkon a Pesja strandig.",
+        "ro": "Pedalați până la ruinele impresionante de la Fulfinum. Apoi urcați dealul spre Omišalj pentru o pauză culturală în orașul vechi, înainte de a coborî prin parcul Dubec spre plaja Pesja.",
+        "en": "Cycle to the impressive ruins of Fulfinum. Then climb the hill to Omišalj for a cultural break in the Old Town, before rolling through Park Dubec to Pesja beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Loža",
+            "tip": "Frische Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Loža",
+            "tip": "Friss harapnivalók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Loža",
+            "tip": "Gustări proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Loža",
+            "tip": "Fresh snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ausgrabungen Fulfinum",
+            "tip": "Sehr friedlich am Morgen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fulfinum ásatások",
+            "tip": "Nagyon békés reggel.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săpăturile Fulfinum",
+            "tip": "Foarte liniștit dimineața.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Fulfinum excavations",
+            "tip": "Very peaceful in the morning.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honigstand Njivice",
+            "tip": "Heilkräuter-Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Njivicei mézes stand",
+            "tip": "Gyógynövényes méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de miere Njivice",
+            "tip": "Miere de plante medicinale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Njivice honey stand",
+            "tip": "Herbal honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Einige Abschnitte sind bergauf fordernd.",
+          "Helm ist auf kroatischen Straßen Pflicht."
+        ],
+        "hu": [
+          "Néhány szakasz felfelé megterhelő.",
+          "A sisak kötelező a horvát utakon."
+        ],
+        "ro": [
+          "Unele secțiuni sunt solicitante în pantă.",
+          "Casca este obligatorie pe drumurile croate."
+        ],
+        "en": [
+          "Some sections are demanding uphill.",
+          "Helmet is mandatory on Croatian roads."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 18,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirine-Fulfinum",
+            "hu": "Mirine-Fulfinum",
+            "ro": "Mirine-Fulfinum",
+            "en": "Mirine-Fulfinum"
+          },
+          "coords": [
+            14.545,
+            45.205
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Großer kostenloser Parkplatz.",
+            "hu": "Nagy ingyenes parkoló.",
+            "ro": "Parcare mare gratuită.",
+            "en": "Large free parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Krk Brücke (Aussichtspunkt)",
+            "hu": "Krk-híd (kilátó)",
+            "ro": "Podul Krk (belvedere)",
+            "en": "Krk Bridge (viewpoint)"
+          },
+          "coords": [
+            14.57,
+            45.24
+          ],
+          "category": "natural features",
+          "arrive_at": "11:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ikone der Insel Krk.",
+            "hu": "Krk-sziget ikonja.",
+            "ro": "Pictograma insulei Krk.",
+            "en": "Icon of Krk island."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Omišalj",
+            "hu": "Omišalj óváros",
+            "ro": "Orașul vechi Omišalj",
+            "en": "Omišalj Old Town"
+          },
+          "coords": [
+            14.553,
+            45.2135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parkplatz am Ortseingang nutzen.",
+            "hu": "Használja a város bejáratánál lévő parkolót.",
+            "ro": "Parcați la intrarea în oraș.",
+            "en": "Use the parking at the town entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Omišalj",
+            "hu": "Ebéd Omišaljban",
+            "ro": "Prânz în Omišalj",
+            "en": "Lunch in Omišalj"
+          },
+          "coords": [
+            14.552,
+            45.213
+          ],
+          "category": "gastro",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Regionale Spezialitäten.",
+            "hu": "Regionális különlegességek.",
+            "ro": "Specialități regionale.",
+            "en": "Regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Fortica",
+            "hu": "Fortica kilátó",
+            "ro": "Punct de belvedere Fortica",
+            "en": "Fortica Viewpoint"
+          },
+          "coords": [
+            14.554,
+            45.214
+          ],
+          "category": "natural features",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Altstadt.",
+            "hu": "Rövid séta az óvárostól.",
+            "ro": "Scurtă plimbare din orașul vechi.",
+            "en": "Short walk from the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pesja",
+            "hu": "Pesja strand",
+            "ro": "Plaja Pesja",
+            "en": "Pesja Beach"
+          },
+          "coords": [
+            14.555,
+            45.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Abfahrt direkt zum Meer.",
+            "hu": "Lehajtás közvetlenül a tengerhez.",
+            "ro": "Coborâre direct la mare.",
+            "en": "Drive down directly to the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Besuchen Sie zuerst die antiken Ruinen von Fulfinum und den spektakulären Aussichtspunkt auf die Krk-Brücke. Den Nachmittag verbringen Sie in der malerischen Altstadt von Omišalj und am familienfreundlichen Strand Pesja.",
+        "hu": "Látogassa meg először Fulfinum ókori romjait és a Krk-hídra néző látványos kilátót. A délutánt töltse Omišalj festői óvárosában és a családbarát Pesja strandon.",
+        "ro": "Vizitați mai întâi ruinele antice de la Fulfinum și punctul de belvedere spectaculos asupra podului Krk. După-amiaza o veți petrece în orașul vechi pitoresc Omišalj și pe plaja Pesja, ideală pentru familii.",
+        "en": "First visit the ancient ruins of Fulfinum and the spectacular Krk Bridge viewpoint. Spend the afternoon in the picturesque Old Town of Omišalj and at the family-friendly Pesja beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Rivica",
+            "tip": "Gehobene Küche in Njivice."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rivica étterem",
+            "tip": "Színvonalas konyha Njivicében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Rivica",
+            "tip": "Bucătărie rafinată în Njivice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rivica Restaurant",
+            "tip": "Fine dining in nearby Njivice."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krk Brücke Panoramastopp",
+            "tip": "Sonnenuntergang am Brückenpfeiler.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krk-híd panoráma megálló",
+            "tip": "Naplemente a híd pillérénél.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Oprire panoramă Podul Krk",
+            "tip": "Apus de soare la pilonul podului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krk Bridge Panorama Stop",
+            "tip": "Sunset at the bridge pillar.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Geschenkeladen 'Bodul'",
+            "tip": "Authentische Krk-Produkte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bodul ajándékbolt",
+            "tip": "Autentikus Krk termékek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de cadouri 'Bodul'",
+            "tip": "Produse autentice din Krk."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gift shop 'Bodul'",
+            "tip": "Authentic Krk products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplatz Pesja ist im Sommer schnell voll.",
+          "Achtung bei starkem Wind (Bura) auf der Brücke."
+        ],
+        "hu": [
+          "A Pesja parkoló nyáron hamar megtelik.",
+          "Erős szél (Bura) esetén vigyázzon a hídon."
+        ],
+        "ro": [
+          "Parcarea Pesja se umple repede vara.",
+          "Atenție la vântul puternic (Bura) pe pod."
+        ],
+        "en": [
+          "Pesja parking fills up fast in summer.",
+          "Watch out for strong wind (Bura) on the bridge."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Omišalj Zentrum",
+            "hu": "Omišalj központ",
+            "ro": "Centrul Omišalj",
+            "en": "Omišalj Center"
+          },
+          "coords": [
+            14.553,
+            45.2135
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wichtigster Busstopp.",
+            "hu": "Legfontosabb buszmegálló.",
+            "ro": "Cea mai importantă stație.",
+            "en": "Main bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Mariä Himmelfahrt",
+            "hu": "Mária Mennybemenetele plébániatemplom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Parish Church of the Assumption"
+          },
+          "coords": [
+            14.5535,
+            45.213
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Zentrum.",
+            "hu": "Közvetlenül a központ mellett.",
+            "ro": "Chiar lângă centru.",
+            "en": "Right next to the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirine-Fulfinum (Bus+Fußweg)",
+            "hu": "Mirine-Fulfinum (busz+séta)",
+            "ro": "Mirine-Fulfinum (autobuz+mers)",
+            "en": "Mirine-Fulfinum (bus+walk)"
+          },
+          "coords": [
+            14.545,
+            45.205
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "30 min Fußweg von der Haltestelle.",
+            "hu": "30 perc séta a megállótól.",
+            "ro": "30 min de mers de la stație.",
+            "en": "30 min walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Omišalj",
+            "hu": "Ebéd Omišaljban",
+            "ro": "Prânz în Omišalj",
+            "en": "Lunch in Omišalj"
+          },
+          "coords": [
+            14.552,
+            45.213
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum essen.",
+            "hu": "Ebédeljen újra a központban.",
+            "ro": "Mâncați din nou în centru.",
+            "en": "Eat back in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pesja",
+            "hu": "Pesja strand",
+            "ro": "Plaja Pesja",
+            "en": "Pesja Beach"
+          },
+          "coords": [
+            14.555,
+            45.222
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:05",
+          "stay_min": 115,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steiler Weg bergab.",
+            "hu": "Meredek út lefelé.",
+            "ro": "Drum abrupt la vale.",
+            "en": "Steep path downhill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Inselbus für die Anreise nach Omišalj. Erkunden Sie die Altstadt und die Kirche, bevor Sie zu den Ruinen von Fulfinum spazieren. Der Tag endet mit einem erfrischenden Bad am Pesja Strand, unterhalb der Stadt.",
+        "hu": "Használja a szigeti buszt az Omišaljba való eljutáshoz. Fedezze fel az óvárost és a templomot, mielőtt elgyalogolna Fulfinum romjaihoz. A napot a város alatti Pesja strandon való frissítő fürdőzéssel zárja.",
+        "ro": "Folosiți autobuzul insular pentru a ajunge la Omišalj. Explorați orașul vechi și biserica înainte de a merge pe jos la ruinele de la Fulfinum. Ziua se încheie cu o baie răcoritoare pe plaja Pesja, situată sub oraș.",
+        "en": "Use the island bus to reach Omišalj. Explore the Old Town and the church before walking to the ruins of Fulfinum. End your day with a refreshing swim at Pesja beach, located below the town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Omišalj",
+            "tip": "Frischer Burek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Omišalji pékség",
+            "tip": "Friss burek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Omišalj",
+            "tip": "Burek proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Omišalj Bakery",
+            "tip": "Fresh burek."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz Omišalj",
+            "tip": "Schatten am Nachmittag.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Omišalji templom tér",
+            "tip": "Árnyék délután.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii Omišalj",
+            "tip": "Umbră după-amiaza.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Omišalj Church Square",
+            "tip": "Shade in the afternoon.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokal-Markt",
+            "tip": "Kräuterliköre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Gyógynövénylikőrök."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Lichioruri de plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Herbal liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse halten oben an der Hauptstraße.",
+          "Planen Sie Zeit für den Fußweg zum Strand ein."
+        ],
+        "hu": [
+          "A buszok fent a főúton állnak meg.",
+          "Számoljon a strandig tartó sétaidővel."
+        ],
+        "ro": [
+          "Autobuzele opresc sus pe drumul principal.",
+          "Planificați timp pentru mersul pe jos până la plajă."
+        ],
+        "en": [
+          "Buses stop up on the main road.",
+          "Plan time for the walk to the beach."
+        ]
+      }
+    }
+  }
+}
