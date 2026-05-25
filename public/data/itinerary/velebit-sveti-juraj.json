@@ -864,5 +864,35 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr",
+    "transit_app": "https://getbyferry.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.pp-velebit.hr",
+    "tourism_office": "https://visitsenj.com",
+    "webcam": "https://www.whatsupcams.com/en/webcams/croatia/lika-senj/senj/camping-raca-sveti-juraj/",
+    "restaurants_booking": null,
+    "museum_tickets": "https://shop.pp-velebit.hr",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; in Küstenorten wird oft Deutsch und Italienisch verstanden. 'Hvala' = Danke.",
+      "hu": "A horvát a hivatalos nyelv; a parton sokan értenek németül és olaszul. 'Hvala' = köszönöm.",
+      "ro": "Croata e limba oficială; pe coastă mulți înțeleg germana și italiana. 'Hvala' = mulțumesc.",
+      "en": "Croatian is official; coastal staff often speak German and Italian. 'Hvala' means thanks."
+    },
+    "best_time_to_visit": {
+      "de": "Mai-Juni und September für Wandern; Juli-August heiß, aber gut zum Baden. Bura-Wind im Winter meiden.",
+      "hu": "Május-június és szeptember túrázásra ideális; július-augusztus forró, de fürdésre jó. Télen a bura szél kerülendő.",
+      "ro": "Mai-iunie și septembrie pentru drumeții; iulie-august cald, bun pentru înot. Evită vântul bura iarna.",
+      "en": "May-June and September best for hiking; July-August hot but good for swimming. Avoid bura wind in winter."
+    },
+    "neighborhood_warnings": {
+      "de": "Bura-Fallwind kann plötzlich Magistrale (D8) sperren. Auf Velebit-Wegen festes Schuhwerk und Wasser nötig.",
+      "hu": "A bura széllökés hirtelen lezárhatja a parti utat (D8). Velebit ösvényeken kemény bakancs és víz kell.",
+      "ro": "Vântul bura poate închide brusc drumul de coastă (D8). Pe potecile Velebit ai nevoie de bocanci și apă.",
+      "en": "Bura wind can suddenly close the coastal road (D8). Sturdy boots and water needed on Velebit trails."
+    }
   }
 }

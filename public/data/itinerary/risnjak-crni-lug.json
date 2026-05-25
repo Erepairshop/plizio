@@ -828,5 +828,35 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr",
+    "transit_app": "https://getbyferry.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.np-risnjak.hr/aktivnosti/",
+    "tourism_office": "https://www.np-risnjak.hr",
+    "webcam": "https://www.skylinewebcams.com/webcam/hrvatska/primorsko-goranska/cabar/nacionalni-park-risnjak.html",
+    "restaurants_booking": null,
+    "museum_tickets": "https://www.parkovihrvatske.hr/web-shop-ulaznice?parkId=325",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Im Park gilt Kroatisch; Ranger sprechen meist Englisch. 'Dobar dan' (Guten Tag) wird geschätzt.",
+      "hu": "A parkban horvátul beszélnek; a rangerek általában angolul is. A 'Dobar dan' (jó napot) köszönés jól jön.",
+      "ro": "În parc se vorbește croată; rangerii știu de obicei engleză. 'Dobar dan' (bună ziua) e apreciat.",
+      "en": "Croatian is spoken; rangers usually speak English. A friendly 'Dobar dan' goes a long way."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Oktober optimal; Juni für Blütenpracht, September für klare Sicht vom Gipfel.",
+      "hu": "Május-október ideális; júniusban virágpompa, szeptemberben tiszta kilátás a csúcsról.",
+      "ro": "Mai-octombrie e ideal; iunie pentru flori, septembrie pentru vizibilitate clară de pe vârf.",
+      "en": "May to October is best; June for wildflowers, September for clear summit views."
+    },
+    "neighborhood_warnings": {
+      "de": "Bären-, Wolfs- und Luchsgebiet: nicht abseits der Wege gehen, Lebensmittel sicher aufbewahren. Wetter wechselt schnell.",
+      "hu": "Medve-, farkas- és hiúzterület: ne térj le az ösvényről, ételt zárva tarts. Az időjárás gyorsan változhat.",
+      "ro": "Zonă cu urși, lupi și râși: nu părăsi poteca marcată, păstrează mâncarea închisă. Vremea se schimbă rapid.",
+      "en": "Bear, wolf and lynx habitat: stay on marked trails, store food securely. Weather changes fast."
+    }
   }
 }

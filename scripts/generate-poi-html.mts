@@ -125,6 +125,7 @@ async function loadFullPois(): Promise<POI[]> {
     { poiExtraAtChMissingV1 },
     { poiExtraHrV1 },
     { poiExtraHrV2 },
+    { poiExtraItalyV2 },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
@@ -140,6 +141,7 @@ async function loadFullPois(): Promise<POI[]> {
     import("../lib/visualLab/data/poiExtraAtChMissingV1"),
     import("../lib/visualLab/data/poiExtraHrV1"),
     import("../lib/visualLab/data/poiExtraHrV2"),
+    import("../lib/visualLab/data/poiExtraItalyV2"),
   ]);
   const all = ([] as POI[]).concat(
     dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],

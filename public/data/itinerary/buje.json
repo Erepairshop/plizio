@@ -955,5 +955,35 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr/en-us/",
+    "transit_app": "https://getbybus.com/en/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://coloursofistria.com/en/events",
+    "tourism_office": "https://coloursofistria.com/en/destinations/buje",
+    "webcam": "https://www.whatsupcams.com/en/webcams/croatia/istria/buje/webcam-buje/",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Buje ist offiziell zweisprachig kroatisch-italienisch, viele Schilder und Speisekarten sind in beiden Sprachen; Deutsch und Englisch sind in Weinkellern und Konobas verbreitet.",
+      "hu": "Buje hivatalosan kétnyelvű (horvát-olasz), sok tábla és étlap mindkét nyelven szerepel; a borászatokban és konobákban a németet és az angolt is beszélik.",
+      "ro": "Buje este oficial bilingv croato-italian, multe indicatoare și meniuri sunt în ambele limbi; în crame și konobe se vorbește și germană și engleză.",
+      "en": "Buje is officially bilingual Croatian-Italian, with signs and menus often in both languages; German and English are widely spoken in wineries and konobas."
+    },
+    "best_time_to_visit": {
+      "de": "Spätes Frühjahr (Mai-Juni) für Wandern und Weinverkostung, September-Oktober für die Traubenlese und das Festa dell'Uva; im Hochsommer ist es heiß auf dem Hügel.",
+      "hu": "Késő tavasszal (május-június) ideális túrázáshoz és borkóstoláshoz, szeptember-október a szüret és a szőlőünnep (Festa dell'Uva) miatt; nyár derekán a domb forró.",
+      "ro": "Sfârșitul primăverii (mai-iunie) pentru drumeții și degustări de vin, septembrie-octombrie pentru cules și Festa dell'Uva; vara, dealul devine foarte cald.",
+      "en": "Late spring (May-June) is ideal for hiking and wine tasting, September-October brings the grape harvest and Festa dell'Uva; midsummer is hot on the hilltop."
+    },
+    "neighborhood_warnings": {
+      "de": "Steile Kopfsteinpflastergassen in der Altstadt, festes Schuhwerk nötig; Parken nur außerhalb der Stadtmauern, ÖPNV-Anbindung dünn, ein Mietwagen ist praktisch unverzichtbar.",
+      "hu": "Az óváros utcái meredekek és macskakövesek, kényelmes cipő kell; parkolni csak a falakon kívül lehet, a tömegközlekedés ritka, bérelt autó gyakorlatilag elengedhetetlen.",
+      "ro": "Străzile pavate cu piatră din orașul vechi sunt abrupte, sunt necesari pantofi comozi; parcarea se face doar în afara zidurilor, transportul public e rar, mașina închiriată e aproape obligatorie.",
+      "en": "The old town's cobbled lanes are steep, sturdy shoes recommended; parking is only outside the walls, public transport is sparse and a rental car is practically essential."
+    }
   }
 }

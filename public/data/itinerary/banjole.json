@@ -932,5 +932,35 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr/en-us/",
+    "transit_app": "https://getbybus.com/en/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.pulainfo.hr/en/events/",
+    "tourism_office": "https://www.pulainfo.hr/en/",
+    "webcam": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/pula/banjole.html",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Amtssprache ist Kroatisch; Italienisch wird in Istrien weit verstanden, Deutsch und Englisch in Restaurants und Pensionen üblich. 'Dobar dan' (Guten Tag) und 'Hvala' (Danke) kommen immer gut an.",
+      "hu": "A hivatalos nyelv a horvát, de Isztriában az olasz nyelv is széles körben elterjedt, a németet és az angolt az éttermekben, panziókban értik. A 'Dobar dan' (jó napot) és 'Hvala' (köszönöm) jól jön.",
+      "ro": "Limba oficială este croata; în Istria italiana este larg înțeleasă, iar germana și engleza sunt frecvente în restaurante și pensiuni. 'Dobar dan' (bună ziua) și 'Hvala' (mulțumesc) sunt apreciate.",
+      "en": "Official language is Croatian; Italian is widely understood across Istria, while German and English are common in restaurants and guesthouses. A simple 'Dobar dan' (hello) and 'Hvala' (thanks) go a long way."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis Anfang Juli und September für angenehmes Badewetter ohne den Hochsommer-Trubel; Juli und August sind heiß und voller Booturlauber in der Bucht.",
+      "hu": "Május közepétől július elejéig és szeptemberben kellemes a fürdőidő tömeg nélkül; július és augusztus forró, a vitorlások tömegével együtt.",
+      "ro": "Mijlocul lui mai până la începutul lui iulie și septembrie oferă vreme bună de plajă fără aglomerație; iulie și august sunt călduroase, golful fiind plin de bărci.",
+      "en": "Mid-May to early July and September give warm swimming weather without peak crowds; July and August are hot and the bay fills with yachts and day-trippers."
+    },
+    "neighborhood_warnings": {
+      "de": "Felsige Strände, Badeschuhe sind sinnvoll wegen Seeigeln; im Hochsommer sind die Parkplätze an der Bucht ab Vormittag voll und enge Dorfgassen schwer befahrbar.",
+      "hu": "A strandok sziklásak, érdemes vízicipőt vinni a tengeri sünök miatt; főszezonban a parti parkolók délelőttre megtelnek, a szűk falusi utcák nehezen járhatók autóval.",
+      "ro": "Plajele sunt stâncoase, încălțămintea de apă este utilă din cauza aricilor de mare; vara, parcările din golf se umplu dimineața, iar străduțele înguste sunt greu de parcurs cu mașina.",
+      "en": "Beaches are rocky, water shoes help against sea urchins; in peak summer the bay-side parking fills up by mid-morning and narrow village lanes are tight to drive."
+    }
   }
 }

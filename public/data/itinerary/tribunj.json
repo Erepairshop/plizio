@@ -993,5 +993,35 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "transit_official": "https://www.arriva.com.hr",
+    "transit_app": "https://getbyferry.com",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-tribunj.hr/kalendar-dogadanja/",
+    "tourism_office": "https://www.tz-tribunj.hr",
+    "webcam": "https://www.tz-tribunj.hr/webcam/",
+    "restaurants_booking": null,
+    "museum_tickets": null,
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Kroatisch ist Amtssprache; Englisch und Deutsch sind in der Tourismussaison weit verbreitet. 'Dobar dan'!",
+      "hu": "A horvát a hivatalos; a szezonban angolul és németül széles körben beszélnek. 'Dobar dan'!",
+      "ro": "Croata e oficială; în sezon, engleza și germana sunt larg răspândite. 'Dobar dan'!",
+      "en": "Croatian is official; English and German widely spoken in tourist season. Try 'Dobar dan'!"
+    },
+    "best_time_to_visit": {
+      "de": "Juni und September für angenehmes Wetter ohne Andrang; Juli-August lebhaft mit Festivals.",
+      "hu": "Június és szeptember kellemes idő tömeg nélkül; július-augusztus pezsgő, fesztiválokkal.",
+      "ro": "Iunie și septembrie pentru vreme plăcută fără aglomerație; iulie-august plin de festivaluri.",
+      "en": "June and September for pleasant weather without crowds; July-August lively with festivals."
+    },
+    "neighborhood_warnings": {
+      "de": "Hauptstraße D8 im Sommer staureich. Im Hafen Vorsicht beim Schwimmen wegen Bootsverkehr; Seeigel an Felsen.",
+      "hu": "A D8 főút nyáron dugós. A kikötőben óvatosan a hajóforgalom miatt; tengeri sünök a sziklákon.",
+      "ro": "Drumul D8 e aglomerat vara. În port atenție la traficul de bărci când înoți; arici de mare pe stânci.",
+      "en": "D8 coastal road jams in summer. Mind boat traffic when swimming near harbour; sea urchins on rocks."
+    }
   }
 }

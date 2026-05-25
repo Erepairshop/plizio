@@ -888,5 +888,35 @@
         ]
       }
     }
+  },
+  "external_resources": {
+    "transit_official": "https://www.hzpp.hr/",
+    "transit_app": "https://voznired.hak.hr/",
+    "bike_share": null,
+    "city_card": null,
+    "events": "https://www.tz-krapina.hr/dogadjanja",
+    "tourism_office": "https://www.tz-krapina.hr/",
+    "webcam": "https://www.livecamcroatia.com/hr/kamera/krapina",
+    "restaurants_booking": null,
+    "museum_tickets": "https://mkn.mhz.hr/hr/posjeta/radno-vrijeme-i-cijene/",
+    "parking_real_time": null,
+    "language_tips": {
+      "de": "Dobar dan = Guten Tag, Hvala = Danke. Englisch in Museen verbreitet, Deutsch eher selten.",
+      "hu": "Dobar dan = Jó napot, Hvala = Köszönöm. A múzeumban beszélnek angolul, magyarul ritkán.",
+      "ro": "Dobar dan = Bună ziua, Hvala = Mulțumesc. Engleza funcționează la muzeu, româna rar.",
+      "en": "Dobar dan = hello, Hvala = thank you. Museum staff speak English; German sometimes."
+    },
+    "best_time_to_visit": {
+      "de": "Mai bis September; Werktags vormittags am ruhigsten im Neandertaler-Museum.",
+      "hu": "Május-szeptember a legjobb; hétköznap délelőtt csendes a neandervölgyi múzeum.",
+      "ro": "Mai-septembrie ideal; dimineața în zile lucrătoare e liniște la muzeu.",
+      "en": "May to September; weekday mornings quietest at the Neanderthal Museum."
+    },
+    "neighborhood_warnings": {
+      "de": "Kleinstadt, sehr sicher. Parkplatz am Museum begrenzt an Wochenenden.",
+      "hu": "Kisváros, biztonságos. A múzeum parkolója hétvégén megtelhet.",
+      "ro": "Orășel sigur. Parcarea muzeului se umple în weekend.",
+      "en": "Small, safe town. Museum parking can fill on weekends."
+    }
   }
 }
