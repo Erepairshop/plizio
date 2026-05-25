@@ -20,7 +20,7 @@ import fs from "node:fs";
 import path from "node:path";
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
-import { recomputeItineraryTimings } from "../lib/itinerary/timing-config";
+import { recomputeItineraryTimings } from "../lib/itinerary/timing-config.ts";
 
 // tsx ESM treats the TS module as CJS-wrapped → real exports on .default
 const slugs: any = (_slugsNs as any).default ?? _slugsNs;
@@ -114,6 +114,7 @@ async function loadFullPois(): Promise<POI[]> {
     { poiExtraUkMissingV1 },
     { poiExtraAtChMissingV1 },
     { poiExtraHrV1 },
+    { poiExtraHrV2 },
   ] = await Promise.all([
     import("../lib/visualLab/data/poi"),
     import("../lib/visualLab/data/romaniaPoi"),
@@ -128,13 +129,14 @@ async function loadFullPois(): Promise<POI[]> {
     import("../lib/visualLab/data/poiExtraUkMissingV1"),
     import("../lib/visualLab/data/poiExtraAtChMissingV1"),
     import("../lib/visualLab/data/poiExtraHrV1"),
+    import("../lib/visualLab/data/poiExtraHrV2"),
   ]);
   const all = ([] as POI[]).concat(
     dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
     [vaticanCountry as POI], vaticanPois as POI[], ALL_COUNTRY_POIS as POI[],
     poiExtraDeV1 as POI[], poiExtraRoV1 as POI[], poiExtraHuV4 as POI[], poiExtraFrV1 as POI[],
     poiExtraUkV1 as POI[], poiExtraUkMissingV1 as POI[], poiExtraAtChMissingV1 as POI[],
-    poiExtraHrV1 as POI[],
+    poiExtraHrV1 as POI[], poiExtraHrV2 as POI[],
   );
   // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
   const byId = new Map<string, POI>();
